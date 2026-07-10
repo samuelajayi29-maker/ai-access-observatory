@@ -165,7 +165,15 @@
     flex-direction: column;
   }
   .sq-card:hover { box-shadow: 0 6px 16px rgba(0,0,0,0.08); transform: translateY(-2px); }
-  .sq-card .sq-icon { font-size: 1.6rem; margin-bottom: 0.5rem; }
+  .sq-card .sq-icon {
+    width: 40px; height: 40px; border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 1.1rem; font-weight: 700; color: #fff;
+    margin-bottom: 0.75rem;
+  }
+  .ico-jobs { background: #ef4444; }
+  .ico-access { background: #f59e0b; }
+  .ico-infra { background: #3b82f6; }
   .sq-card .sq-title {
     font-size: 0.85rem;
     text-transform: uppercase;
@@ -336,7 +344,7 @@
 
 <!-- Top Nav -->
 <div class="top">
-  <div class="logo">&#9670; AI Access <span>Observatory</span><small>Tracking Africa's digital divide</small></div>
+  <div class="logo">AI Access <span>Observatory</span><small>Tracking Africa's digital divide</small></div>
   <nav>
     <a href="#" class="active">Dashboard</a>
     <a href="jobs.html">Jobs</a>
@@ -392,7 +400,7 @@
 
     <!-- Card: Jobs -->
     <div class="sq-card">
-      <div class="sq-icon">&#128188;</div>
+      <div class="sq-icon ico-jobs">J</div>
       <div class="sq-title">Jobs Squeeze</div>
       <div class="sq-stat">40<span class="accent">%</span></div>
       <div class="sq-desc">of BPO tasks could be automated by 2030. The $35B sector employs over 1M Africans â€” 68% of them entry-level and most exposed.</div>
@@ -409,7 +417,7 @@
 
     <!-- Card: Access -->
     <div class="sq-card">
-      <div class="sq-icon">&#128241;</div>
+      <div class="sq-icon ico-access">A</div>
       <div class="sq-title">Access Squeeze</div>
       <div class="sq-stat"><span class="accent">$</span>1&ndash;<span class="accent">$</span>75</div>
       <div class="sq-desc">Frontier model pricing spans a 75&times; range. Devices also squeezed: AI chip demand is collapsing the cheap smartphone market.</div>
@@ -433,7 +441,7 @@
 
     <!-- Card: Infrastructure -->
     <div class="sq-card">
-      <div class="sq-icon">&#127959;</div>
+      <div class="sq-icon ico-infra">I</div>
       <div class="sq-title">Infrastructure Squeeze</div>
       <div class="sq-stat"><span class="accent">&lt;</span>1<span class="accent">%</span></div>
       <div class="sq-desc">of global data centre capacity sits in Africa â€” home to 18% of the world's people. Only 7 of 54 countries have national AI strategies.</div>
@@ -453,7 +461,7 @@
   <!-- Tracker -->
   <div class="tracker-section" id="tracker">
     <div class="tracker-bar">
-      <h2>&#128240; Live Tracker</h2>
+      <h2>Live Tracker</h2>
       <span class="badge">Updated daily</span>
     </div>
 
