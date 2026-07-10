@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sources â€” AI Access Observatory</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    color: #1a1a1a;
+    background: #f1f5f9;
+    line-height: 1.6;
+  }
+  .top {
+    background: #0d1b2a; color: #e2e8f0; height: 56px;
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 0 2rem; position: sticky; top: 0; z-index: 50;
+    border-bottom: 2px solid #1a8a7a;
+  }
+  .top .logo { font-size: 1.05rem; font-weight: 700; color: #fff; letter-spacing: -0.01em; }
+  .top .logo span { color: #5eead4; }
+  .top nav { display: flex; gap: 1.5rem; align-items: center; }
+  .top nav a { color: #94a3b8; text-decoration: none; font-size: 0.82rem; font-weight: 500; transition: color 0.15s; }
+  .top nav a:hover { color: #5eead4; }
+  .top nav a.active { color: #5eead4; font-weight: 600; }
+
+  .page-hero {
+    background: linear-gradient(135deg, #0d1b2a 0%, #1a1a3e 100%);
+    padding: 3rem 2rem; color: #e2e8f0; border-bottom: 2px solid #1a8a7a;
+  }
+  .page-hero .back { font-size: 0.82rem; margin-bottom: 1rem; }
+  .page-hero .back a { color: #94a3b8; text-decoration: none; }
+  .page-hero .back a:hover { color: #5eead4; }
+  .page-hero h1 { font-size: 2rem; font-weight: 700; color: #fff; max-width: 640px; line-height: 1.15; }
+  .page-hero p { font-size: 0.95rem; color: #94a3b8; max-width: 560px; margin-top: 0.5rem; }
+
+  .content { max-width: 720px; margin: 0 auto; padding: 2rem; }
+
+  .source-item {
+    background: #fff;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 1rem 1.25rem;
+    margin-bottom: 0.75rem;
+    transition: box-shadow 0.15s;
+  }
+  .source-item:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+  .source-item .num {
+    display: inline-block;
+    width: 24px; height: 24px;
+    background: #0d1b2a; color: #fff;
+    border-radius: 6px;
+    text-align: center; line-height: 24px;
+    font-size: 0.72rem; font-weight: 700;
+    margin-right: 0.5rem;
+    flex-shrink: 0;
+  }
+  .source-item .title {
+    font-weight: 600; font-size: 0.92rem; color: #0d1b2a;
+    display: block; margin-bottom: 0.15rem;
+  }
+  .source-item .title a { color: #0d1b2a; text-decoration: none; }
+  .source-item .title a:hover { color: #1a8a7a; text-decoration: underline; }
+  .source-item .meta {
+    font-size: 0.8rem; color: #64748b;
+    display: flex; gap: 0.5rem; flex-wrap: wrap;
+  }
+  .source-item .meta .pub { color: #1a8a7a; }
+  .source-item .meta .tag {
+    display: inline-block;
+    font-size: 0.65rem; text-transform: uppercase;
+    letter-spacing: 0.04em; padding: 0.1rem 0.4rem;
+    border-radius: 4px; font-weight: 600;
+  }
+  .tag-jobs { background: #fee2e2; color: #991b1b; }
+  .tag-access { background: #fef3c7; color: #92400e; }
+  .tag-infra { background: #dbeafe; color: #1e40af; }
+  .tag-general { background: #f3e8ff; color: #6b21a8; }
+
+  .section-label {
+    font-size: 0.75rem; text-transform: uppercase;
+    letter-spacing: 0.06em; color: #64748b;
+    font-weight: 600; margin: 1.5rem 0 0.75rem;
+  }
+
+  .footer {
+    text-align: center; padding: 2rem; color: #94a3b8;
+    font-size: 0.76rem; border-top: 1px solid #e2e8f0; margin-top: 1rem;
+  }
+
+  @media (max-width: 640px) {
+    .page-hero h1 { font-size: 1.4rem; }
+    .top nav { display: none; }
+    .content { padding: 1.5rem; }
+  }
+</style>
+</head>
+<body>
+
+<div class="top">
+  <div class="logo">AI Access <span>Observatory</span></div>
+  <nav>
+    <a href="index.html">Dashboard</a>
+    <a href="jobs.html">Jobs</a>
+    <a href="access.html">Access</a>
+    <a href="infra.html">Infrastructure</a>
+    <a href="index.html#tracker">Tracker</a>
+    <a href="sources.html" class="active">Sources</a>
+  </nav>
+</div>
+
+<section class="page-hero">
+  <div class="back"><a href="index.html">&larr; Back to Dashboard</a></div>
+  <h1>Sources &amp; References</h1>
+  <p>The research, reports, and journalism that inform the AI Access Observatory â€” originally cited in the presentation "Early Observations on AI Access and African Digital Strategy."</p>
+</section>
+
+<div class="content">
+
+  <p style="color:#475569;font-size:0.9rem;margin-bottom:1.5rem;">All sources are publicly available. Papers on arXiv are open-access. News sources are linked as published.</p>
+
+  <div class="section-label">Jobs Squeeze</div>
+
+  <div class="source-item">
+    <span class="num">1</span>
+    <span class="title"><a href="https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies" target="_blank" rel="noopener">AI Could Undermine Emerging Economies</a></span>
+    <div class="meta">
+      <span>Deric Cheng</span>
+      <span class="pub">AI Frontiers</span>
+      <span>Dec 2025</span>
+      <span class="tag tag-jobs">Jobs</span>
+    </div>
+  </div>
+
+  <div class="source-item">
+    <span class="num">2</span>
+    <span class="title"><a href="https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/" target="_blank" rel="noopener">40% of Tasks in Africa's Tech Outsourcing May Be Affected by AI by 2030</a></span>
+    <div class="meta">
+      <span>Mastercard Foundation</span>
+      <span class="pub">mastercardfdn.org</span>
+      <span>Apr 2025</span>
+      <span class="tag tag-jobs">Jobs</span>
+    </div>
+  </div>
+
+  <div class="source-item">
+    <span class="num">3</span>
+    <span class="title"><a href="https://jobtechalliance.com/what-digital-jobs-are-left-for-africa-in-an-age-of-ai/" target="_blank" rel="noopener">What Digital Jobs Are Left for Africa in an Age of AI?</a></span>
+    <div class="meta">
+      <span>Jobtech Alliance</span>
+      <span class="pub">jobtechalliance.com</span>
+      <span>May 2025</span>
+      <span class="tag tag-jobs">Jobs</span>
+    </div>
+  </div>
+
+  <div class="section-label">Access Squeeze</div>
+
+  <div class="source-item">
+    <span class="num">4</span>
+    <span class="title"><a href="https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone" target="_blank" rel="noopener">AI Is Killing the Cheap Smartphone</a></span>
+    <div class="meta">
+      <span>David Oks</span>
+      <span class="pub">davidoks.blog</span>
+      <span>May 2026</span>
+      <span class="tag tag-access">Access</span>
+    </div>
+  </div>
+
+  <div class="source-item">
+    <span class="num">5</span>
+    <span class="title"><a href="https://guardian.ng/opinion/priced-out-of-the-future-confronting-the-rising-cost-of-ai-in-africa/" target="_blank" rel="noopener">Priced Out of the Future: Confronting the Rising Cost of AI in Africa</a></span>
+    <div class="meta">
+      <span>The Guardian Nigeria</span>
+      <span class="pub">guardian.ng</span>
+      <span>Jul 2026</span>
+      <span class="tag tag-access">Access</span>
+    </div>
+  </div>
+
+  <div class="source-item">
+    <span class="num">6</span>
+    <span class="title"><a href="https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/" target="_blank" rel="noopener">AI Chip Demand &mdash; Smartphone Prices in Nigeria</a></span>
+    <div class="meta">
+      <span>Techpoint Africa</span>
+      <span class="pub">techpoint.africa</span>
+      <span>Feb 2026</span>
+      <span class="tag tag-access">Access</span>
+    </div>
+  </div>
+
+  <div class="section-label">Infrastructure Squeeze</div>
+
+  <div class="source-item">
+    <span class="num">7</span>
+    <span class="title"><a href="https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/bridging-the-new-digital-divide-how-africa-can-boost-its-compute-capacity-for-ai/" target="_blank" rel="noopener">Bridging the New Digital Divide: Africa's Compute Capacity for AI</a></span>
+    <div class="meta">
+      <span>GSMA</span>
+      <span class="pub">gsma.com</span>
+      <span>2025</span>
+      <span class="tag tag-infra">Infrastructure</span>
+    </div>
+  </div>
+
+  <div class="source-item">
+    <span class="num">8</span>
+    <span class="title"><a href="https://www.worldbank.org/en/publication/dptr2025-ai-foundations" target="_blank" rel="noopener">World Bank Digital Progress &amp; Trends Report 2025: AI Foundations</a></span>
+    <div class="meta">
+      <span>World Bank</span>
+      <span class="pub">worldbank.org</span>
+      <span>2025</span>
+      <span class="tag tag-infra">Infrastructure</span>
+    </div>
+  </div>
+
+  <div class="source-item">
+    <span class="num">9</span>
+    <span class="title"><a href="https://au.int/en/pressreleases/20250517/africa-declares-ai-strategic-priority-investment-inclusion-and-innovation" target="_blank" rel="noopener">Africa Declares AI a Strategic Priority</a></span>
+    <div class="meta">
+      <span>African Union Commission</span>
+      <span class="pub">au.int</span>
+      <span>May 2025</span>
+      <span class="tag tag-infra">Infrastructure</span>
+    </div>
+  </div>
+
+  <div class="section-label">General</div>
+
+  <div class="source-item">
+    <span class="num">10</span>
+    <span class="title"><a href="https://theconversation.com/ai-in-africa-5-issues-that-must-be-tackled-for-digital-equality-265611" target="_blank" rel="noopener">AI in Africa: 5 Issues That Must Be Tackled for Digital Equality</a></span>
+    <div class="meta">
+      <span>The Conversation</span>
+      <span class="pub">theconversation.com</span>
+      <span>2025</span>
+      <span class="tag tag-general">General</span>
+    </div>
+  </div>
+
+  <div class="footer">
+    <strong>The AI Access Observatory</strong> &middot; A project by Samuel Ajayi
+  </div>
+
+</div>
+
+</body>
+</html>
