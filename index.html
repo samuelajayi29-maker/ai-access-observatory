@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Access Observatory</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    color: #1a1a1a;
+    background: #f1f5f9;
+    line-height: 1.5;
+  }
+
+  /* --- Top Nav --- */
+  .top {
+    background: #0d1b2a;
+    color: #e2e8f0;
+    height: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2rem;
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    border-bottom: 2px solid #1a8a7a;
+  }
+  .top .logo {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: -0.01em;
+  }
+  .top .logo span { color: #5eead4; }
+  .top .logo small {
+    font-size: 0.6rem;
+    font-weight: 400;
+    color: #475569;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-left: 0.4rem;
+  }
+  .top nav { display: flex; gap: 1.5rem; align-items: center; }
+  .top nav a {
+    color: #94a3b8;
+    text-decoration: none;
+    font-size: 0.82rem;
+    font-weight: 500;
+    transition: color 0.15s;
+  }
+  .top nav a:hover { color: #5eead4; }
+  .top nav a.active { color: #5eead4; font-weight: 600; }
+  .top .byline {
+    color: #475569;
+    font-size: 0.75rem;
+    border-left: 1px solid #1e293b;
+    padding-left: 1rem;
+  }
+
+  /* --- Hero --- */
+  .hero {
+    background: #0d1b2a;
+    padding: 3rem 2rem 2.5rem;
+    text-align: center;
+  }
+  .hero h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #fff;
+    max-width: 620px;
+    margin: 0 auto 0.5rem;
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+  }
+  .hero h1 em { color: #5eead4; font-style: normal; }
+  .hero p {
+    font-size: 0.95rem;
+    color: #94a3b8;
+    max-width: 520px;
+    margin: 0 auto 1.25rem;
+  }
+  .hero .meta { font-size: 0.78rem; color: #475569; }
+  .hero .meta a { color: #5eead4; text-decoration: none; }
+
+  /* --- Stat Ribbon --- */
+  .ribbon {
+    display: flex;
+    justify-content: center;
+    gap: 2.5rem;
+    padding: 1.25rem 2rem;
+    background: #fff;
+    border-bottom: 1px solid #e2e8f0;
+    flex-wrap: wrap;
+  }
+  .rib-item { text-align: center; min-width: 100px; }
+  .rib-item .num {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: #0d1b2a;
+    line-height: 1.1;
+  }
+  .rib-item .num .accent { color: #1a8a7a; }
+  .rib-item .lbl {
+    font-size: 0.72rem;
+    color: #64748b;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-top: 0.15rem;
+  }
+  .rib-item .src { font-size: 0.65rem; color: #94a3b8; }
+
+  /* --- Main content area --- */
+  .content {
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+
+  /* --- Thesis row --- */
+  .thesis-row {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+    margin-bottom: 2rem;
+    background: #fff;
+    border-radius: 10px;
+    border: 1px solid #e2e8f0;
+    padding: 1.5rem 2rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  }
+  .thesis-row .label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #1a8a7a;
+    font-weight: 600;
+    white-space: nowrap;
+    padding-top: 0.1rem;
+  }
+  .thesis-row p {
+    font-size: 0.92rem;
+    color: #334155;
+    flex: 1;
+  }
+  .thesis-row p strong { color: #0d1b2a; }
+
+  /* --- Three-column squeeze cards --- */
+  .squeeze-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+  .sq-card {
+    background: #fff;
+    border-radius: 10px;
+    border: 1px solid #e2e8f0;
+    padding: 1.5rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    transition: box-shadow 0.15s, transform 0.15s;
+    display: flex;
+    flex-direction: column;
+  }
+  .sq-card:hover { box-shadow: 0 6px 16px rgba(0,0,0,0.08); transform: translateY(-2px); }
+  .sq-card .sq-icon { font-size: 1.6rem; margin-bottom: 0.5rem; }
+  .sq-card .sq-title {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #64748b;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+  .sq-card .sq-stat {
+    font-size: 2.4rem;
+    font-weight: 700;
+    color: #0d1b2a;
+    line-height: 1.1;
+    margin-bottom: 0.3rem;
+  }
+  .sq-card .sq-stat .accent { color: #1a8a7a; }
+  .sq-card .sq-desc {
+    font-size: 0.85rem;
+    color: #475569;
+    flex: 1;
+    margin-bottom: 0.75rem;
+  }
+  .sq-card .sq-details {
+    font-size: 0.8rem;
+    color: #64748b;
+    border-top: 1px solid #f1f5f9;
+    padding-top: 0.75rem;
+    margin-top: auto;
+  }
+  .sq-card .sq-details li {
+    list-style: none;
+    padding: 0.2rem 0;
+    display: flex;
+    justify-content: space-between;
+    gap: 0.5rem;
+  }
+  .sq-card .sq-details li .val { font-weight: 600; color: #0d1b2a; }
+  .sq-card .sq-link {
+    display: inline-block;
+    margin-top: 0.75rem;
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: #1a8a7a;
+    text-decoration: none;
+  }
+  .sq-card .sq-link:hover { text-decoration: underline; }
+
+  /* Pricing table inside card */
+  .sq-card .mini-pricing { margin-top: 0.5rem; }
+  .sq-card .mini-pricing .mp-row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.76rem;
+    padding: 0.25rem 0;
+    border-bottom: 1px solid #f8fafc;
+  }
+  .sq-card .mini-pricing .mp-row:last-child { border-bottom: none; }
+  .sq-card .mini-pricing .mp-row .name { color: #334155; }
+  .sq-card .mini-pricing .mp-row .cost { font-weight: 600; color: #0d1b2a; }
+  .sq-card .mini-pricing .mp-row .new { color: #1a8a7a; }
+  .sq-card .mini-pricing .mp-head {
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #94a3b8;
+    font-weight: 600;
+    padding-bottom: 0.25rem;
+    border-bottom: 2px solid #e2e8f0;
+    margin-bottom: 0.25rem;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  /* --- Tracker --- */
+  .tracker-section { margin-top: 0.5rem; }
+  .tracker-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  .tracker-bar h2 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #0d1b2a;
+  }
+  .tracker-bar .badge {
+    background: #0d1b2a;
+    color: #fff;
+    font-size: 0.68rem;
+    padding: 0.2rem 0.6rem;
+    border-radius: 12px;
+    font-weight: 500;
+  }
+
+  .legend {
+    display: flex;
+    gap: 1.25rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.75rem;
+    font-size: 0.7rem;
+    color: #64748b;
+  }
+  .legend span { display: flex; align-items: center; gap: 0.3rem; }
+  .legend .sw {
+    width: 8px; height: 8px; border-radius: 50%; display: inline-block;
+  }
+
+  .feed { background: #fff; border-radius: 10px; border: 1px solid #e2e8f0; padding: 0 1.25rem; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
+  .fi {
+    display: flex;
+    gap: 0.75rem;
+    padding: 0.7rem 0;
+    border-bottom: 1px solid #f1f5f9;
+    align-items: flex-start;
+  }
+  .fi:last-child { border-bottom: none; }
+  .fi .dot {
+    width: 8px; height: 8px; border-radius: 50%;
+    margin-top: 6px; flex-shrink: 0;
+  }
+  .dot-jobs { background: #ef4444; }
+  .dot-access { background: #f59e0b; }
+  .dot-infra { background: #3b82f6; }
+  .dot-price { background: #6366f1; }
+  .dot-arxiv { background: #a855f7; }
+  .fi .fc { flex: 1; }
+  .fi .fc .t {
+    font-weight: 600; font-size: 0.88rem; color: #0d1b2a;
+    text-decoration: none; display: block; line-height: 1.3;
+  }
+  .fi .fc .t:hover { color: #1a8a7a; }
+  .fi .fc .s { font-size: 0.75rem; color: #94a3b8; }
+  .fi .d { font-size: 0.72rem; color: #94a3b8; flex-shrink: 0; width: 48px; text-align: right; }
+
+  .more {
+    display: block; text-align: center; padding: 0.65rem;
+    color: #1a8a7a; font-weight: 600; font-size: 0.82rem;
+    text-decoration: none; border-radius: 0 0 10px 10px; cursor: pointer;
+  }
+  .more:hover { background: #f8fafc; }
+
+  /* --- Footer --- */
+  .footer {
+    text-align: center;
+    padding: 2rem;
+    color: #94a3b8;
+    font-size: 0.76rem;
+    border-top: 1px solid #e2e8f0;
+    margin-top: 2rem;
+  }
+  .footer strong { color: #475569; }
+
+  /* --- Responsive --- */
+  @media (max-width: 768px) {
+    .squeeze-grid { grid-template-columns: 1fr; }
+    .top nav { display: none; }
+    .top .byline { display: none; }
+    .ribbon { gap: 1.25rem; }
+    .rib-item .num { font-size: 1.2rem; }
+    .thesis-row { flex-direction: column; gap: 0.5rem; }
+    .hero h1 { font-size: 1.4rem; }
+    .content { padding: 1rem; }
+  }
+</style>
+</head>
+<body>
+
+<!-- Top Nav -->
+<div class="top">
+  <div class="logo">â—ˆ AI Access <span>Observatory</span><small>Tracking Africa's digital divide</small></div>
+  <nav>
+    <a href="#" class="active">Dashboard</a>
+    <a href="#">Jobs</a>
+    <a href="#">Access</a>
+    <a href="#">Infrastructure</a>
+    <a href="#">Tracker</a>
+    <a href="#">Sources</a>
+  </nav>
+  <span class="byline">Samuel Ajayi</span>
+</div>
+
+<!-- Hero -->
+<section class="hero">
+  <h1>How <em>AI access</em> is reshaping Africa's digital future</h1>
+  <p>Tracking three converging pressures â€” on jobs, access, and infrastructure â€” as frontier AI transforms the continent.</p>
+  <div class="meta">By <a href="#">Samuel Ajayi</a> Â· Updated daily</div>
+</section>
+
+<!-- Stat Ribbon -->
+<div class="ribbon">
+  <div class="rib-item">
+    <div class="num">40<span class="accent">%</span></div>
+    <div class="lbl">BPO Jobs at risk by 2030</div>
+    <div class="src">Mastercard Foundation</div>
+  </div>
+  <div class="rib-item">
+    <div class="num"><span class="accent">$</span>1 <span class="accent">â€“</span> <span class="accent">$</span>75</div>
+    <div class="lbl">Frontier model /1M tok range</div>
+    <div class="src">Anthropic Â· OpenAI</div>
+  </div>
+  <div class="rib-item">
+    <div class="num"><span class="accent">></span>20<span class="accent">%</span></div>
+    <div class="lbl">Smartphone shipment decline</div>
+    <div class="src">IDC 2026</div>
+  </div>
+  <div class="rib-item">
+    <div class="num"><span class="accent">&lt;</span>1<span class="accent">%</span></div>
+    <div class="lbl">Global data centre in Africa</div>
+    <div class="src">WEF / GSMA</div>
+  </div>
+</div>
+
+<div class="content">
+
+  <!-- Thesis -->
+  <div class="thesis-row">
+    <span class="label">Thesis</span>
+    <p>Africa's digital strategy was built on three pillars: <strong>outsourced digital jobs</strong> as a development ladder, <strong>cheap smartphones</strong> as the access gateway, and <strong>leapfrogging</strong> into the global digital economy. Frontier AI is pressuring all three at once â€” automating the jobs ladder, pricing out the device gateway, and concentrating compute away from the continent.</p>
+  </div>
+
+  <!-- Three Squeeze Cards -->
+  <div class="squeeze-grid">
+
+    <!-- Card: Jobs -->
+    <div class="sq-card">
+      <div class="sq-icon">ðŸ’¼</div>
+      <div class="sq-title">Jobs Squeeze</div>
+      <div class="sq-stat">40<span class="accent">%</span></div>
+      <div class="sq-desc">of BPO tasks could be automated by 2030. The $35B sector employs over 1M Africans â€” 68% of them entry-level and most exposed.</div>
+      <div class="sq-details">
+        <ul style="padding:0;margin:0">
+          <li><span>Freelance demand</span><span class="val">âˆ’21%</span></li>
+          <li><span>Writing jobs</span><span class="val">âˆ’33%</span></li>
+          <li><span>Translation</span><span class="val">âˆ’19%</span></li>
+          <li><span>Customer service</span><span class="val">âˆ’16%</span></li>
+        </ul>
+      </div>
+      <a href="#" class="sq-link">View full analysis â†’</a>
+    </div>
+
+    <!-- Card: Access -->
+    <div class="sq-card">
+      <div class="sq-icon">ðŸ“±</div>
+      <div class="sq-title">Access Squeeze</div>
+      <div class="sq-stat"><span class="accent">$</span>1â€“<span class="accent">$</span>75</div>
+      <div class="sq-desc">Frontier model pricing spans a 75Ã— range. Devices also squeezed: AI chip demand is collapsing the cheap smartphone market.</div>
+      <div class="sq-details">
+        <strong style="font-size:0.7rem;text-transform:uppercase;letter-spacing:0.04em;color:#94a3b8;display:block;margin-bottom:0.3rem;">Frontier Pricing â€” July 2026</strong>
+        <div class="mini-pricing">
+          <div class="mp-head"><span>Model</span><span>Output /1M</span></div>
+          <div class="mp-row"><span class="name new">Claude Mythos 5</span><span class="cost">$75</span></div>
+          <div class="mp-row"><span class="name new">Claude Fable 5</span><span class="cost">$50</span></div>
+          <div class="mp-row"><span class="name">GPT-5.6 Sol</span><span class="cost">$30</span></div>
+          <div class="mp-row"><span class="name">Claude Opus 4.8</span><span class="cost">$25</span></div>
+          <div class="mp-row"><span class="name">GPT-5.6 Terra</span><span class="cost">$15</span></div>
+          <div class="mp-row"><span class="name">GPT-5.6 Luna</span><span class="cost">$6</span></div>
+        </div>
+        <div style="margin-top:0.5rem;padding-top:0.5rem;border-top:1px solid #f1f5f9;">
+          <span style="font-size:0.72rem;color:#64748b;">Nigeria min. wage â‰ˆ <strong style="color:#0d1b2a;">$45</strong>/month</span>
+        </div>
+      </div>
+      <a href="#" class="sq-link">View full analysis â†’</a>
+    </div>
+
+    <!-- Card: Infrastructure -->
+    <div class="sq-card">
+      <div class="sq-icon">ðŸ—ï¸</div>
+      <div class="sq-title">Infrastructure Squeeze</div>
+      <div class="sq-stat"><span class="accent">&lt;</span>1<span class="accent">%</span></div>
+      <div class="sq-desc">of global data centre capacity sits in Africa â€” home to 18% of the world's people. Only 7 of 54 countries have national AI strategies.</div>
+      <div class="sq-details">
+        <ul style="padding:0;margin:0">
+          <li><span>Countries with AI strategy</span><span class="val">7/54</span></li>
+          <li><span>AI compute hubs</span><span class="val">3 countries</span></li>
+          <li><span>Hyperscaler cloud regions</span><span class="val">4 (by 2028)</span></li>
+          <li><span>Submarine cable capacity</span><span class="val">Growing</span></li>
+        </ul>
+      </div>
+      <a href="#" class="sq-link">View full analysis â†’</a>
+    </div>
+
+  </div>
+
+  <!-- Tracker -->
+  <div class="tracker-section">
+    <div class="tracker-bar">
+      <h2>ðŸ“° Live Tracker</h2>
+      <span class="badge">Updated daily</span>
+    </div>
+
+    <div class="legend">
+      <span><span class="sw" style="background:#6366f1"></span> Pricing</span>
+      <span><span class="sw" style="background:#f59e0b"></span> Device Access</span>
+      <span><span class="sw" style="background:#ef4444"></span> Jobs</span>
+      <span><span class="sw" style="background:#3b82f6"></span> Infrastructure</span>
+      <span><span class="sw" style="background:#a855f7"></span> arXiv</span>
+    </div>
+
+    <div class="feed">
+      <div class="fi">
+        <span class="dot dot-price"></span>
+        <div class="fc">
+          <a class="t" href="#">OpenAI launches GPT-5.6 Sol, Terra, Luna â€” three-tier pricing $1â€“$30/M output</a>
+          <span class="s">OpenAI Â· GPQA Diamond: 92.3% (Sol), 88.1% (Terra), 82.4% (Luna)</span>
+        </div>
+        <span class="d">Jul 10</span>
+      </div>
+      <div class="fi">
+        <span class="dot dot-access"></span>
+        <div class="fc">
+          <a class="t" href="#">IDC: Global smartphone shipments to fall 13% in 2026 â€” Africa/Middle East down &gt;20%</a>
+          <span class="s">IDC Quarterly Â· Budget segment ($30â€“120) contracting fastest</span>
+        </div>
+        <span class="d">Jul 9</span>
+      </div>
+      <div class="fi">
+        <span class="dot dot-jobs"></span>
+        <div class="fc">
+          <a class="t" href="#">Kenyan BPO sector reports first AI-driven headcount reduction â€” 12% of CS roles affected</a>
+          <span class="s">Business Daily Africa Â· Q2 2026 survey of 14 major BPO firms</span>
+        </div>
+        <span class="d">Jul 8</span>
+      </div>
+      <div class="fi">
+        <span class="dot dot-arxiv"></span>
+        <div class="fc">
+          <a class="t" href="#">The Cost of Intelligence: Inference Economics and Global AI Access Disparities</a>
+          <span class="s">arXiv:2607.04512 Â· Maps inference cost to GDP per capita across 54 countries</span>
+        </div>
+        <span class="d">Jul 7</span>
+      </div>
+      <div class="fi">
+        <span class="dot dot-infra"></span>
+        <div class="fc">
+          <a class="t" href="#">Google announces first African cloud region in Nairobi â€” operational target 2028</a>
+          <span class="s">Google Cloud Â· Third hyperscaler for East Africa</span>
+        </div>
+        <span class="d">Jul 6</span>
+      </div>
+      <div class="fi">
+        <span class="dot dot-price"></span>
+        <div class="fc">
+          <a class="t" href="#">US lifts export controls on Anthropic's Fable 5 and Mythos 5 after 23-day restriction</a>
+          <span class="s">Anthropic Â· Fortune Â· Policy framework for model releases still unclear</span>
+        </div>
+        <span class="d">Jul 2</span>
+      </div>
+      <div class="fi">
+        <span class="dot dot-arxiv"></span>
+        <div class="fc">
+          <a class="t" href="#">4-bit LLM Inference on Last-Gen Smartphones: Viable for African Markets?</a>
+          <span class="s">arXiv:2606.08923 Â· Qwen 2.5-7B at 4-bit runs at ~2 tok/s on 4GB RAM</span>
+        </div>
+        <span class="d">Jun 28</span>
+      </div>
+      <a class="more">+ Load more items</a>
+    </div>
+  </div>
+
+  <div class="footer">
+    <strong>The AI Access Observatory</strong> Â· A project by Samuel Ajayi Â· Tracking AI's impact on African digital strategy
+  </div>
+
+</div>
+
+</body>
+</html>
