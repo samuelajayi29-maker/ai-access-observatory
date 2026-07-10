@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Infrastructure Squeeze â€” AI Access Observatory</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    color: #1a1a1a;
+    background: #f1f5f9;
+    line-height: 1.6;
+  }
+  .top {
+    background: #0d1b2a; color: #e2e8f0; height: 56px;
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 0 2rem; position: sticky; top: 0; z-index: 50;
+    border-bottom: 2px solid #1a8a7a;
+  }
+  .top .logo { font-size: 1.05rem; font-weight: 700; color: #fff; letter-spacing: -0.01em; }
+  .top .logo span { color: #5eead4; }
+  .top nav { display: flex; gap: 1.5rem; align-items: center; }
+  .top nav a { color: #94a3b8; text-decoration: none; font-size: 0.82rem; font-weight: 500; transition: color 0.15s; }
+  .top nav a:hover { color: #5eead4; }
+  .top nav a.active { color: #93c5fd; font-weight: 600; }
+
+  .page-hero {
+    background: linear-gradient(135deg, #0d1b2a 0%, #1a1a3e 100%);
+    padding: 3rem 2rem; color: #e2e8f0; border-bottom: 3px solid #3b82f6;
+  }
+  .page-hero .back { font-size: 0.82rem; margin-bottom: 1rem; }
+  .page-hero .back a { color: #94a3b8; text-decoration: none; }
+  .page-hero .back a:hover { color: #5eead4; }
+  .page-hero h1 { font-size: 2rem; font-weight: 700; color: #fff; max-width: 640px; line-height: 1.15; }
+  .page-hero h1 span { color: #93c5fd; }
+  .page-hero p { font-size: 1rem; color: #94a3b8; max-width: 560px; margin-top: 0.75rem; }
+
+  .content { max-width: 720px; margin: 0 auto; padding: 2rem; }
+  .section { margin-bottom: 2.5rem; }
+  .section h2 { font-size: 1.3rem; font-weight: 700; color: #0d1b2a; margin-bottom: 0.75rem; letter-spacing: -0.01em; }
+  .section h3 { font-size: 1.05rem; font-weight: 600; color: #1a8a7a; margin: 1.5rem 0 0.5rem; }
+  .section p { font-size: 0.95rem; color: #334155; margin-bottom: 0.75rem; }
+  .section p strong { color: #0d1b2a; }
+
+  .stat-block {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 0.75rem; margin: 1rem 0;
+  }
+  .stat-block .chip {
+    background: #fff; border: 1px solid #e2e8f0; border-radius: 8px;
+    padding: 0.75rem 1rem; text-align: center;
+  }
+  .stat-block .chip .num { font-size: 1.4rem; font-weight: 700; color: #0d1b2a; }
+  .stat-block .chip .num .a { color: #1a8a7a; }
+  .stat-block .chip .lbl { font-size: 0.75rem; color: #64748b; margin-top: 0.1rem; }
+
+  .callout {
+    background: #eff6ff; border-left: 4px solid #3b82f6;
+    padding: 1rem 1.25rem; border-radius: 0 8px 8px 0; margin: 1rem 0;
+  }
+  .callout h4 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em; color: #2563eb; margin-bottom: 0.3rem; }
+  .callout p { font-size: 0.9rem; margin-bottom: 0; }
+
+  .callout-amber {
+    background: #fffbeb; border-left: 4px solid #f59e0b;
+    padding: 1rem 1.25rem; border-radius: 0 8px 8px 0; margin: 1rem 0;
+  }
+  .callout-amber h4 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em; color: #d97706; margin-bottom: 0.3rem; }
+  .callout-amber p { font-size: 0.9rem; margin-bottom: 0; }
+
+  .source-box {
+    background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px;
+    padding: 0.75rem 1rem; font-size: 0.82rem; color: #64748b; margin: 1rem 0;
+  }
+  .source-box strong { color: #475569; }
+
+  .map-callout {
+    background: #fff; border: 1px solid #e2e8f0; border-radius: 8px;
+    padding: 1rem; margin: 1rem 0;
+  }
+  .map-callout h4 { font-size: 0.85rem; font-weight: 600; color: #0d1b2a; margin-bottom: 0.5rem; }
+  .map-callout .row { display: flex; justify-content: space-between; font-size: 0.85rem; padding: 0.3rem 0; border-bottom: 1px solid #f1f5f9; }
+  .map-callout .row:last-child { border-bottom: none; }
+  .map-callout .row .v { font-weight: 600; color: #0d1b2a; }
+
+  .footer {
+    text-align: center; padding: 2rem; color: #94a3b8;
+    font-size: 0.76rem; border-top: 1px solid #e2e8f0; margin-top: 1rem;
+  }
+  .footer strong { color: #475569; }
+
+  @media (max-width: 640px) {
+    .page-hero h1 { font-size: 1.4rem; }
+    .top nav { display: none; }
+    .content { padding: 1.5rem; }
+  }
+</style>
+</head>
+<body>
+
+<div class="top">
+  <div class="logo">&#9670; AI Access <span>Observatory</span></div>
+  <nav>
+    <a href="index.html">Dashboard</a>
+    <a href="jobs.html">Jobs</a>
+    <a href="access.html">Access</a>
+    <a href="infra.html" class="active">Infrastructure</a>
+    <a href="index.html#tracker">Tracker</a>
+  </nav>
+</div>
+
+<section class="page-hero">
+  <div class="back"><a href="index.html">&larr; Back to Dashboard</a></div>
+  <h1>The <span>Infrastructure Squeeze</span></h1>
+  <p>Africa holds less than 1% of global data centre capacity. As AI becomes more compute-intensive, the infrastructure gap widens.</p>
+</section>
+
+<div class="content">
+
+  <!-- Overview -->
+  <div class="section">
+    <h2>Overview</h2>
+    <p>The infrastructure squeeze is the most structural of the three. It cannot be solved by pricing adjustments or policy alone â€” it requires physical data centres, submarine cables, reliable electricity, and skilled engineers. Africa is starting from a position of extreme deficit.</p>
+
+    <div class="stat-block">
+      <div class="chip"><div class="num"><span class="a">&lt;</span>1<span class="a">%</span></div><div class="lbl">Global data centre capacity</div></div>
+      <div class="chip"><div class="num">18<span class="a">%</span></div><div class="lbl">Share of world population</div></div>
+      <div class="chip"><div class="num">7<span class="a">/</span>54</div><div class="lbl">Countries with AI strategy</div></div>
+      <div class="chip"><div class="num">3</div><div class="lbl">Countries with AI compute hubs</div></div>
+    </div>
+  </div>
+
+  <!-- Data Centre Gap -->
+  <div class="section">
+    <h2>The Data Centre Gap</h2>
+    <p>Africa's total data centre capacity is estimated at less than <strong>200MW</strong> â€” roughly equivalent to a single large hyperscale campus in Virginia or Northern Virginia. The entire continent has fewer data centres than the city of London.</p>
+
+    <p>This capacity is concentrated in just three countries: <strong>South Africa</strong> (the dominant hub, with ~60% of total capacity), <strong>Nigeria</strong>, and <strong>Kenya</strong>. Most African countries have effectively zero commercial data centre capacity.</p>
+
+    <div class="callout">
+      <h4>The capacity math</h4>
+      <p>Training a single frontier-class LLM can consume <strong>gigawatt-months</strong> of compute. A single training run for GPT-5.6 Sol or Claude Opus 4.8 likely required more electricity than all of Africa's data centres combined consume in a year. The inference gap is smaller but still vast â€” serving millions of users requires distributed, low-latency infrastructure that simply doesn't exist at scale on the continent.</p>
+    </div>
+  </div>
+
+  <!-- Hyperscaler Activity -->
+  <div class="section">
+    <h3>Hyperscaler Activity</h3>
+    <p>Progress is being made, but slowly:</p>
+
+    <div class="map-callout">
+      <h4>Hyperscaler cloud regions in Africa</h4>
+      <div class="row"><span>AWS Africa (Cape Town)</span><span class="v">Live (2020)</span></div>
+      <div class="row"><span>Microsoft Azure (Cape Town, Johannesburg)</span><span class="v">Live (2022)</span></div>
+      <div class="row"><span>Google Cloud (Nairobi)</span><span class="v">Target 2028</span></div>
+      <div class="row"><span>Oracle (planned â€” SA, Nigeria)</span><span class="v">Announced</span></div>
+      <div class="row"><span>Equinix (NG, SA expansions)</span><span class="v">In progress</span></div>
+      <div class="row"><span>Raxio Data Centres (multiple countries)</span><span class="v">Expanding</span></div>
+    </div>
+
+    <p>Google's Nairobi region announcement (July 2026) is significant â€” it will be the first East African hyperscale cloud region â€” but the 2028 target date means it's still <strong>two years away</strong>. The gap between announcement and operation matters when AI model generations are being measured in weeks.</p>
+  </div>
+
+  <!-- Connectivity -->
+  <div class="section">
+    <h3>Connectivity &amp; Energy</h3>
+    <p>Data centres are useless without connectivity and power. Submarine cable capacity to Africa has grown significantly â€” projects like <strong>2Africa</strong>, <strong>Equiano</strong>, and <strong>SEA-ME-WE 5</strong> have added substantial bandwidth â€” but last-mile connectivity remains expensive and unreliable.</p>
+
+    <p>Energy is the harder constraint. Data centres need <strong>reliable, 24/7 power</strong>. In Nigeria, the national grid experiences multiple collapses per year; in South Africa, load-shedding (planned blackouts) has been a recurring problem. Off-grid solutions (solar + battery + diesel) add cost that makes African data centres more expensive to operate than their European or US counterparts. This creates a vicious cycle: higher costs mean less investment, which means fewer facilities, which means higher costs for those that do exist.</p>
+
+    <div class="callout-amber">
+      <h4>The energy cost penalty</h4>
+      <p>A 2025 study by the <strong>African Data Centres Association</strong> found that the total cost of ownership for a medium-sized data centre in Lagos is approximately <strong>30â€“40% higher</strong> than an equivalent facility in Frankfurt or Virginia, driven primarily by energy costs and backup generation requirements.</p>
+    </div>
+  </div>
+
+  <!-- AI Strategies -->
+  <div class="section">
+    <h3>National AI Strategies</h3>
+    <p>Only <strong>7 of 54</strong> African nations have published national AI strategies: South Africa, Nigeria, Kenya, Rwanda, Mauritius, Tunisia, and Ghana. Most are aspirational rather than fully funded. Few include specific provisions for compute infrastructure, data centre development, or energy planning for AI workloads.</p>
+    <p>The <strong>African Union's Continental AI Strategy</strong> (draft, 2025) identifies infrastructure as a priority but has no binding mechanism for member states to act on it.</p>
+  </div>
+
+  <!-- What to track -->
+  <div class="section">
+    <h3>What We're Tracking</h3>
+    <ul style="padding-left:1.25rem;color:#475569;font-size:0.9rem;">
+      <li>Data centre construction announcements and timelines across Africa</li>
+      <li>Hyperscaler cloud region launches and service expansions</li>
+      <li>Submarine cable projects and bandwidth pricing trends</li>
+      <li>National AI strategy publications and implementation progress</li>
+      <li>Energy infrastructure developments relevant to compute</li>
+      <li>Edge computing and distributed inference initiatives</li>
+      <li>Academic research on efficient inference for low-resource settings</li>
+    </ul>
+  </div>
+
+  <div class="source-box">
+    <strong>Sources:</strong> WEF Â· GSMA Â· Xalam Analytics Â· African Data Centres Association Â· TechCabal Â· Google Cloud (Jul 2026) Â· African Union Continental AI Strategy (draft) Â· UN population data
+  </div>
+
+  <div class="footer">
+    <strong>The AI Access Observatory</strong> &middot; A project by Samuel Ajayi
+  </div>
+
+</div>
+
+</body>
+</html>
