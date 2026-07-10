@@ -343,7 +343,35 @@
   .bh-count { font-size: 0.72rem; color: #94a3b8; }
   .bf { padding: 0.25rem 1.25rem; }
 
-  /* Footer */
+  /* Three-column tracker grid */
+  .tracker-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+  }
+  .tracker-grid .bucket { margin-bottom: 0; }
+  .tracker-grid .bf { padding: 0; }
+  .tracker-grid .fi { padding: 0.45rem 0.75rem; }
+  .tracker-grid .fi .t { font-size: 0.8rem; }
+  .tracker-grid .fi .s { font-size: 0.68rem; }
+  .tracker-grid .fi .d { font-size: 0.65rem; width: 36px; }
+  .tracker-grid .fi .dot { width: 6px; height: 6px; margin-top: 5px; }
+  .tracker-grid .bh { padding: 0.5rem 0.75rem; }
+  .tracker-grid .bh-icon { width: 22px; height: 22px; font-size: 0.7rem; }
+  .tracker-grid .bh-title { font-size: 0.8rem; }
+  .tracker-grid .bh-count { font-size: 0.65rem; }
+  .tracker-grid .fi:last-child { border-bottom: none; }
+  .bucket-more {
+    display: block; text-align: center; padding: 0.4rem;
+    color: #1a8a7a; font-weight: 600; font-size: 0.75rem;
+    text-decoration: none; border-top: 1px solid #f1f5f9; cursor: pointer;
+  }
+  .bucket-more:hover { background: #f8fafc; }
+  .hidden-item { display: none; }
+
+  @media (max-width: 768px) {
+    .tracker-grid { grid-template-columns: 1fr; }
+  }
   .footer {
     text-align: center;
     padding: 2rem;
@@ -492,6 +520,8 @@
     </div>
     <p style="font-size:0.85rem;color:#64748b;margin-bottom:1.25rem;">Sources from the original research merged with the latest news, ranked newest first within each bucket.</p>
 
+    <div class="tracker-grid">
+
     <!-- Bucket: Jobs -->
     <div class="bucket">
       <div class="bh" style="border-left-color:#ef4444;">
@@ -500,10 +530,10 @@
         <span class="bh-count">4 items</span>
       </div>
       <div class="bf">
-        <div class="fi"><span class="dot dot-jobs"></span><div class="fc"><a class="t" href="https://techcabal.com/2026/06/19/africa-workforce-ai-ready/" target="_blank" rel="noopener">Why Africa's workforce, not just its startups, must be AI-ready</a><span class="s">TechCabal &middot; Analysis of AI readiness gaps across African labour markets</span></div><span class="d">Jul 8</span></div>
-        <div class="fi"><span class="dot dot-jobs"></span><div class="fc"><a class="t" href="https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies" target="_blank" rel="noopener">AI Could Undermine Emerging Economies</a><span class="s">Deric Cheng &middot; AI Frontiers &middot; Dec 2025</span></div><span class="d">Dec 25</span></div>
-        <div class="fi"><span class="dot dot-jobs"></span><div class="fc"><a class="t" href="https://jobtechalliance.com/what-digital-jobs-are-left-for-africa-in-an-age-of-ai/" target="_blank" rel="noopener">What Digital Jobs Are Left for Africa in an Age of AI?</a><span class="s">Jobtech Alliance &middot; May 2025</span></div><span class="d">May 25</span></div>
-        <div class="fi"><span class="dot dot-jobs"></span><div class="fc"><a class="t" href="https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/" target="_blank" rel="noopener">40% of Tasks in Africa's Tech Outsourcing May Be Affected by AI by 2030</a><span class="s">Mastercard Foundation &middot; Apr 2025</span></div><span class="d">Apr 25</span></div>
+        <div class="fi"><span class="dot dot-jobs"></span><div class="fc"><a class="t" href="https://techcabal.com/2026/06/19/africa-workforce-ai-ready/" target="_blank" rel="noopener">Why Africa's workforce, not just its startups, must be AI-ready</a><span class="s">TechCabal</span></div><span class="d">Jul 8</span></div>
+        <div class="fi"><span class="dot dot-jobs"></span><div class="fc"><a class="t" href="https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies" target="_blank" rel="noopener">AI Could Undermine Emerging Economies</a><span class="s">Deric Cheng, AI Frontiers</span></div><span class="d">Dec 25</span></div>
+        <div class="fi"><span class="dot dot-jobs"></span><div class="fc"><a class="t" href="https://jobtechalliance.com/what-digital-jobs-are-left-for-africa-in-an-age-of-ai/" target="_blank" rel="noopener">What Digital Jobs Are Left for Africa in an Age of AI?</a><span class="s">Jobtech Alliance</span></div><span class="d">May 25</span></div>
+        <div class="fi"><span class="dot dot-jobs"></span><div class="fc"><a class="t" href="https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/" target="_blank" rel="noopener">40% of Tasks in Africa's Tech Outsourcing May Be Affected by AI by 2030</a><span class="s">Mastercard Foundation</span></div><span class="d">Apr 25</span></div>
       </div>
     </div>
 
@@ -515,15 +545,16 @@
         <span class="bh-count">8 items</span>
       </div>
       <div class="bf">
-        <div class="fi"><span class="dot dot-price"></span><div class="fc"><a class="t" href="https://simonwillison.net/2026/Jul/9/gpt-5-6/" target="_blank" rel="noopener">OpenAI launches GPT-5.6 Sol, Terra, Luna &mdash; three-tier pricing $1&ndash;$30/M output</a><span class="s">Simon Willison &middot; GPQA Diamond: 92.3% (Sol)</span></div><span class="d">Jul 10</span></div>
-        <div class="fi"><span class="dot dot-access"></span><div class="fc"><a class="t" href="https://omdia.tech.informa.com/pr/2026/mar/omdia-global-smartphone-shipments-to-fall-7percent-in-2026-amid-memory-constraints-and-geopolitical-pressures" target="_blank" rel="noopener">Global smartphone shipments to fall 13% in 2026 &mdash; Africa worst hit</a><span class="s">Omdia/IDC &middot; Budget segment contracting fastest</span></div><span class="d">Jul 9</span></div>
-        <div class="fi"><span class="dot dot-arxiv"></span><div class="fc"><a class="t" href="https://arxiv.org/abs/2510.26136" target="_blank" rel="noopener">Beyond Benchmarks: The Economics of AI Inference</a><span class="s">arXiv:2510.26136 &middot; Model deployment economics and inference pricing</span></div><span class="d">Jul 7</span></div>
-        <div class="fi"><span class="dot dot-price"></span><div class="fc"><a class="t" href="https://fortune.com/2026/07/02/anthropic-fable-and-mythos-are-restored-but-us-ai-policy-is-still-a-mess/" target="_blank" rel="noopener">US lifts export controls on Anthropic's Fable 5 and Mythos 5</a><span class="s">Fortune &middot; 23-day restriction lifted; policy framework still unclear</span></div><span class="d">Jul 2</span></div>
-        <div class="fi"><span class="dot dot-access"></span><div class="fc"><a class="t" href="https://guardian.ng/opinion/priced-out-of-the-future-confronting-the-rising-cost-of-ai-in-africa/" target="_blank" rel="noopener">Priced Out of the Future: Confronting the Rising Cost of AI in Africa</a><span class="s">The Guardian Nigeria &middot; Jul 2026</span></div><span class="d">Jul 26</span></div>
-        <div class="fi"><span class="dot dot-arxiv"></span><div class="fc"><a class="t" href="https://arxiv.org/abs/2603.23640" target="_blank" rel="noopener">LLM Inference at the Edge: Mobile, NPU and GPU Performance Under Sustained Load</a><span class="s">arXiv:2603.23640 &middot; Qwen 2.5 1.5B (4-bit) on Galaxy S24, iPhone 16 Pro</span></div><span class="d">Jun 28</span></div>
-        <div class="fi"><span class="dot dot-access"></span><div class="fc"><a class="t" href="https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone" target="_blank" rel="noopener">AI Is Killing the Cheap Smartphone</a><span class="s">David Oks &middot; Substack &middot; May 2026</span></div><span class="d">May 26</span></div>
-        <div class="fi"><span class="dot dot-access"></span><div class="fc"><a class="t" href="https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/" target="_blank" rel="noopener">AI Chip Demand &mdash; Smartphone Prices in Nigeria</a><span class="s">Techpoint Africa &middot; Feb 2026</span></div><span class="d">Feb 26</span></div>
+        <div class="fi"><span class="dot dot-price"></span><div class="fc"><a class="t" href="https://simonwillison.net/2026/Jul/9/gpt-5-6/" target="_blank" rel="noopener">OpenAI launches GPT-5.6 Sol, Terra, Luna &mdash; three-tier pricing $1&ndash;$30/M output</a><span class="s">Simon Willison</span></div><span class="d">Jul 10</span></div>
+        <div class="fi"><span class="dot dot-access"></span><div class="fc"><a class="t" href="https://omdia.tech.informa.com/pr/2026/mar/omdia-global-smartphone-shipments-to-fall-7percent-in-2026-amid-memory-constraints-and-geopolitical-pressures" target="_blank" rel="noopener">Global smartphone shipments to fall 13% in 2026 &mdash; Africa worst hit</a><span class="s">Omdia/IDC</span></div><span class="d">Jul 9</span></div>
+        <div class="fi"><span class="dot dot-arxiv"></span><div class="fc"><a class="t" href="https://arxiv.org/abs/2510.26136" target="_blank" rel="noopener">Beyond Benchmarks: The Economics of AI Inference</a><span class="s">arXiv:2510.26136</span></div><span class="d">Jul 7</span></div>
+        <div class="fi"><span class="dot dot-price"></span><div class="fc"><a class="t" href="https://fortune.com/2026/07/02/anthropic-fable-and-mythos-are-restored-but-us-ai-policy-is-still-a-mess/" target="_blank" rel="noopener">US lifts export controls on Anthropic's Fable 5 and Mythos 5</a><span class="s">Fortune</span></div><span class="d">Jul 2</span></div>
+        <div class="fi"><span class="dot dot-access"></span><div class="fc"><a class="t" href="https://guardian.ng/opinion/priced-out-of-the-future-confronting-the-rising-cost-of-ai-in-africa/" target="_blank" rel="noopener">Priced Out of the Future: Confronting the Rising Cost of AI in Africa</a><span class="s">The Guardian Nigeria</span></div><span class="d">Jul 26</span></div>
+        <div class="fi hidden-item"><span class="dot dot-arxiv"></span><div class="fc"><a class="t" href="https://arxiv.org/abs/2603.23640" target="_blank" rel="noopener">LLM Inference at the Edge: Mobile, NPU and GPU Performance</a><span class="s">arXiv:2603.23640</span></div><span class="d">Jun 28</span></div>
+        <div class="fi hidden-item"><span class="dot dot-access"></span><div class="fc"><a class="t" href="https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone" target="_blank" rel="noopener">AI Is Killing the Cheap Smartphone</a><span class="s">David Oks, Substack</span></div><span class="d">May 26</span></div>
+        <div class="fi hidden-item"><span class="dot dot-access"></span><div class="fc"><a class="t" href="https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/" target="_blank" rel="noopener">AI Chip Demand &mdash; Smartphone Prices in Nigeria</a><span class="s">Techpoint Africa</span></div><span class="d">Feb 26</span></div>
       </div>
+      <a class="bucket-more" onclick="toggleMore(this)">+ See 3 more</a>
     </div>
 
     <!-- Bucket: Infrastructure -->
@@ -534,15 +565,15 @@
         <span class="bh-count">5 items</span>
       </div>
       <div class="bf">
-        <div class="fi"><span class="dot dot-infra"></span><div class="fc"><a class="t" href="https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/" target="_blank" rel="noopener">Google announces first African cloud region in Nairobi &mdash; target 2028</a><span class="s">Tech In Africa &middot; Third hyperscaler for East Africa</span></div><span class="d">Jul 6</span></div>
-        <div class="fi"><span class="dot dot-infra"></span><div class="fc"><a class="t" href="https://au.int/en/pressreleases/20250517/africa-declares-ai-strategic-priority-investment-inclusion-and-innovation" target="_blank" rel="noopener">Africa Declares AI a Strategic Priority</a><span class="s">African Union Commission &middot; May 2025</span></div><span class="d">May 25</span></div>
-        <div class="fi"><span class="dot dot-infra"></span><div class="fc"><a class="t" href="https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/bridging-the-new-digital-divide-how-africa-can-boost-its-compute-capacity-for-ai/" target="_blank" rel="noopener">Bridging the New Digital Divide: Africa's Compute Capacity for AI</a><span class="s">GSMA &middot; 2025</span></div><span class="d">2025</span></div>
-        <div class="fi"><span class="dot dot-infra"></span><div class="fc"><a class="t" href="https://www.worldbank.org/en/publication/dptr2025-ai-foundations" target="_blank" rel="noopener">World Bank Digital Progress &amp; Trends Report 2025: AI Foundations</a><span class="s">World Bank &middot; 2025</span></div><span class="d">2025</span></div>
-        <div class="fi"><span class="dot dot-infra"></span><div class="fc"><a class="t" href="https://theconversation.com/ai-in-africa-5-issues-that-must-be-tackled-for-digital-equality-265611" target="_blank" rel="noopener">AI in Africa: 5 Issues That Must Be Tackled for Digital Equality</a><span class="s">The Conversation &middot; 2025</span></div><span class="d">2025</span></div>
+        <div class="fi"><span class="dot dot-infra"></span><div class="fc"><a class="t" href="https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/" target="_blank" rel="noopener">Google announces first African cloud region in Nairobi &mdash; target 2028</a><span class="s">Tech In Africa</span></div><span class="d">Jul 6</span></div>
+        <div class="fi"><span class="dot dot-infra"></span><div class="fc"><a class="t" href="https://au.int/en/pressreleases/20250517/africa-declares-ai-strategic-priority-investment-inclusion-and-innovation" target="_blank" rel="noopener">Africa Declares AI a Strategic Priority</a><span class="s">African Union Commission</span></div><span class="d">May 25</span></div>
+        <div class="fi"><span class="dot dot-infra"></span><div class="fc"><a class="t" href="https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/bridging-the-new-digital-divide-how-africa-can-boost-its-compute-capacity-for-ai/" target="_blank" rel="noopener">Africa's Compute Capacity for AI</a><span class="s">GSMA</span></div><span class="d">2025</span></div>
+        <div class="fi"><span class="dot dot-infra"></span><div class="fc"><a class="t" href="https://www.worldbank.org/en/publication/dptr2025-ai-foundations" target="_blank" rel="noopener">World Bank Digital Progress &amp; Trends Report 2025: AI Foundations</a><span class="s">World Bank</span></div><span class="d">2025</span></div>
+        <div class="fi"><span class="dot dot-infra"></span><div class="fc"><a class="t" href="https://theconversation.com/ai-in-africa-5-issues-that-must-be-tackled-for-digital-equality-265611" target="_blank" rel="noopener">5 Issues That Must Be Tackled for Digital Equality</a><span class="s">The Conversation</span></div><span class="d">2025</span></div>
       </div>
     </div>
 
-  </div>
+    </div><!-- /tracker-grid -->
 
   <div class="footer">
     <strong>The AI Access Observatory</strong> &middot; A project by Samuel Ajayi &middot; Tracking AI's impact on African digital strategy
@@ -550,5 +581,31 @@
 
 </div>
 
+<script>
+function toggleMore(btn) {
+  var hidden = btn.parentElement.querySelectorAll('.hidden-item');
+  var allShown = true;
+  for (var i = 0; i < hidden.length; i++) {
+    if (hidden[i].style.display !== 'block') {
+      hidden[i].style.display = 'block';
+      allShown = false;
+    }
+  }
+  if (allShown) {
+    btn.style.display = 'none';
+  } else {
+    btn.textContent = 'Show less';
+    btn.onclick = function() { toggleLess(this); };
+  }
+}
+function toggleLess(btn) {
+  var hidden = btn.parentElement.querySelectorAll('.hidden-item');
+  for (var i = 0; i < hidden.length; i++) {
+    hidden[i].style.display = 'none';
+  }
+  btn.textContent = '+ See ' + hidden.length + ' more';
+  btn.onclick = function() { toggleMore(this); };
+}
+</script>
 </body>
 </html>
