@@ -314,9 +314,36 @@
     color: #1a8a7a; font-weight: 600; font-size: 0.82rem;
     text-decoration: none; border-radius: 0 0 10px 10px; cursor: pointer;
   }
-  .more:hover { background: #f8fafc; }
+  .load-more:hover { background: #f8fafc; }
 
-  /* --- Footer --- */
+  /* Bucket styling */
+  .bucket {
+    background: #fff;
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  }
+  .bh {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.75rem 1.25rem;
+    border-left: 4px solid;
+    border-bottom: 1px solid #f1f5f9;
+  }
+  .bh-icon {
+    width: 28px; height: 28px; border-radius: 7px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 0.8rem; font-weight: 700; color: #fff;
+    flex-shrink: 0;
+  }
+  .bh-title { font-size: 0.9rem; font-weight: 600; color: #0d1b2a; flex: 1; }
+  .bh-count { font-size: 0.72rem; color: #94a3b8; }
+  .bf { padding: 0.25rem 1.25rem; }
+
+  /* Footer */
   .footer {
     text-align: center;
     padding: 2rem;
@@ -351,7 +378,6 @@
     <a href="access.html">Access</a>
     <a href="infra.html">Infrastructure</a>
     <a href="index.html#tracker">Tracker</a>
-    <a href="sources.html">Sources</a>
   </nav>
   <span class="byline">Samuel Ajayi</span>
 </div>
@@ -461,77 +487,62 @@
   <!-- Tracker -->
   <div class="tracker-section" id="tracker">
     <div class="tracker-bar">
-      <h2>Live Tracker</h2>
+      <h2>Tracker &amp; Sources</h2>
       <span class="badge">Updated daily</span>
     </div>
+    <p style="font-size:0.85rem;color:#64748b;margin-bottom:1.25rem;">Sources from the original research merged with the latest news, ranked newest first within each bucket.</p>
 
-    <div class="legend">
-      <span><span class="sw" style="background:#6366f1"></span> Pricing</span>
-      <span><span class="sw" style="background:#f59e0b"></span> Device Access</span>
-      <span><span class="sw" style="background:#ef4444"></span> Jobs</span>
-      <span><span class="sw" style="background:#3b82f6"></span> Infrastructure</span>
-      <span><span class="sw" style="background:#a855f7"></span> arXiv</span>
+    <!-- Bucket: Jobs -->
+    <div class="bucket">
+      <div class="bh" style="border-left-color:#ef4444;">
+        <span class="bh-icon" style="background:#ef4444;">J</span>
+        <span class="bh-title">Jobs Squeeze</span>
+        <span class="bh-count">4 items</span>
+      </div>
+      <div class="bf">
+        <div class="fi"><span class="dot dot-jobs"></span><div class="fc"><a class="t" href="https://techcabal.com/2026/06/19/africa-workforce-ai-ready/" target="_blank" rel="noopener">Why Africa's workforce, not just its startups, must be AI-ready</a><span class="s">TechCabal &middot; Analysis of AI readiness gaps across African labour markets</span></div><span class="d">Jul 8</span></div>
+        <div class="fi"><span class="dot dot-jobs"></span><div class="fc"><a class="t" href="https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies" target="_blank" rel="noopener">AI Could Undermine Emerging Economies</a><span class="s">Deric Cheng &middot; AI Frontiers &middot; Dec 2025</span></div><span class="d">Dec 25</span></div>
+        <div class="fi"><span class="dot dot-jobs"></span><div class="fc"><a class="t" href="https://jobtechalliance.com/what-digital-jobs-are-left-for-africa-in-an-age-of-ai/" target="_blank" rel="noopener">What Digital Jobs Are Left for Africa in an Age of AI?</a><span class="s">Jobtech Alliance &middot; May 2025</span></div><span class="d">May 25</span></div>
+        <div class="fi"><span class="dot dot-jobs"></span><div class="fc"><a class="t" href="https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/" target="_blank" rel="noopener">40% of Tasks in Africa's Tech Outsourcing May Be Affected by AI by 2030</a><span class="s">Mastercard Foundation &middot; Apr 2025</span></div><span class="d">Apr 25</span></div>
+      </div>
     </div>
 
-    <div class="feed">
-      <div class="fi">
-        <span class="dot dot-price"></span>
-        <div class="fc">
-          <a class="t" href="https://simonwillison.net/2026/Jul/9/gpt-5-6/" target="_blank" rel="noopener">OpenAI launches GPT-5.6 Sol, Terra, Luna &mdash; three-tier pricing $1&ndash;$30/M output</a>
-          <span class="s">OpenAI &middot; GPQA Diamond: 92.3% (Sol), 88.1% (Terra), 82.4% (Luna)</span>
-        </div>
-        <span class="d">Jul 10</span>
+    <!-- Bucket: Access -->
+    <div class="bucket">
+      <div class="bh" style="border-left-color:#f59e0b;">
+        <span class="bh-icon" style="background:#f59e0b;">A</span>
+        <span class="bh-title">Access &amp; Pricing Squeeze</span>
+        <span class="bh-count">8 items</span>
       </div>
-      <div class="fi">
-        <span class="dot dot-access"></span>
-        <div class="fc">
-          <a class="t" href="https://omdia.tech.informa.com/pr/2026/mar/omdia-global-smartphone-shipments-to-fall-7percent-in-2026-amid-memory-constraints-and-geopolitical-pressures" target="_blank" rel="noopener">IDC: Global smartphone shipments to fall 13% in 2026 &mdash; Africa/Middle East down &gt;20%</a>
-          <span class="s">IDC Quarterly &middot; Budget segment ($30&ndash;120) contracting fastest</span>
-        </div>
-        <span class="d">Jul 9</span>
+      <div class="bf">
+        <div class="fi"><span class="dot dot-price"></span><div class="fc"><a class="t" href="https://simonwillison.net/2026/Jul/9/gpt-5-6/" target="_blank" rel="noopener">OpenAI launches GPT-5.6 Sol, Terra, Luna &mdash; three-tier pricing $1&ndash;$30/M output</a><span class="s">Simon Willison &middot; GPQA Diamond: 92.3% (Sol)</span></div><span class="d">Jul 10</span></div>
+        <div class="fi"><span class="dot dot-access"></span><div class="fc"><a class="t" href="https://omdia.tech.informa.com/pr/2026/mar/omdia-global-smartphone-shipments-to-fall-7percent-in-2026-amid-memory-constraints-and-geopolitical-pressures" target="_blank" rel="noopener">Global smartphone shipments to fall 13% in 2026 &mdash; Africa worst hit</a><span class="s">Omdia/IDC &middot; Budget segment contracting fastest</span></div><span class="d">Jul 9</span></div>
+        <div class="fi"><span class="dot dot-arxiv"></span><div class="fc"><a class="t" href="https://arxiv.org/abs/2510.26136" target="_blank" rel="noopener">Beyond Benchmarks: The Economics of AI Inference</a><span class="s">arXiv:2510.26136 &middot; Model deployment economics and inference pricing</span></div><span class="d">Jul 7</span></div>
+        <div class="fi"><span class="dot dot-price"></span><div class="fc"><a class="t" href="https://fortune.com/2026/07/02/anthropic-fable-and-mythos-are-restored-but-us-ai-policy-is-still-a-mess/" target="_blank" rel="noopener">US lifts export controls on Anthropic's Fable 5 and Mythos 5</a><span class="s">Fortune &middot; 23-day restriction lifted; policy framework still unclear</span></div><span class="d">Jul 2</span></div>
+        <div class="fi"><span class="dot dot-access"></span><div class="fc"><a class="t" href="https://guardian.ng/opinion/priced-out-of-the-future-confronting-the-rising-cost-of-ai-in-africa/" target="_blank" rel="noopener">Priced Out of the Future: Confronting the Rising Cost of AI in Africa</a><span class="s">The Guardian Nigeria &middot; Jul 2026</span></div><span class="d">Jul 26</span></div>
+        <div class="fi"><span class="dot dot-arxiv"></span><div class="fc"><a class="t" href="https://arxiv.org/abs/2603.23640" target="_blank" rel="noopener">LLM Inference at the Edge: Mobile, NPU and GPU Performance Under Sustained Load</a><span class="s">arXiv:2603.23640 &middot; Qwen 2.5 1.5B (4-bit) on Galaxy S24, iPhone 16 Pro</span></div><span class="d">Jun 28</span></div>
+        <div class="fi"><span class="dot dot-access"></span><div class="fc"><a class="t" href="https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone" target="_blank" rel="noopener">AI Is Killing the Cheap Smartphone</a><span class="s">David Oks &middot; Substack &middot; May 2026</span></div><span class="d">May 26</span></div>
+        <div class="fi"><span class="dot dot-access"></span><div class="fc"><a class="t" href="https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/" target="_blank" rel="noopener">AI Chip Demand &mdash; Smartphone Prices in Nigeria</a><span class="s">Techpoint Africa &middot; Feb 2026</span></div><span class="d">Feb 26</span></div>
       </div>
-      <div class="fi">
-        <span class="dot dot-jobs"></span>
-        <div class="fc">
-          <a class="t" href="https://techcabal.com/2026/06/19/africa-workforce-ai-ready/" target="_blank" rel="noopener">Why Africa's workforce, not just its startups, must be AI-ready</a>
-          <span class="s">TechCabal &middot; Analysis of AI readiness gaps across African labour markets</span>
-        </div>
-        <span class="d">Jul 8</span>
-      </div>
-      <div class="fi">
-        <span class="dot dot-arxiv"></span>
-        <div class="fc">
-          <a class="t" href="https://arxiv.org/abs/2510.26136" target="_blank" rel="noopener">Beyond Benchmarks: The Economics of AI Inference</a>
-          <span class="s">arXiv:2510.26136 &middot; Economic analysis of model deployment decisions and inference pricing</span>
-        </div>
-        <span class="d">Jul 7</span>
-      </div>
-      <div class="fi">
-        <span class="dot dot-infra"></span>
-        <div class="fc">
-          <a class="t" href="https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/" target="_blank" rel="noopener">Google announces first African cloud region in Nairobi &mdash; operational target 2028</a>
-          <span class="s">Google Cloud &middot; Third hyperscaler for East Africa</span>
-        </div>
-        <span class="d">Jul 6</span>
-      </div>
-      <div class="fi">
-        <span class="dot dot-price"></span>
-        <div class="fc">
-          <a class="t" href="https://fortune.com/2026/07/02/anthropic-fable-and-mythos-are-restored-but-us-ai-policy-is-still-a-mess/" target="_blank" rel="noopener">US lifts export controls on Anthropic's Fable 5 and Mythos 5 after 23-day restriction</a>
-          <span class="s">Anthropic &middot; Fortune &middot; Policy framework for model releases still unclear</span>
-        </div>
-        <span class="d">Jul 2</span>
-      </div>
-      <div class="fi">
-        <span class="dot dot-arxiv"></span>
-        <div class="fc">
-          <a class="t" href="https://arxiv.org/abs/2603.23640" target="_blank" rel="noopener">LLM Inference at the Edge: Mobile, NPU and GPU Performance Under Sustained Load</a>
-          <span class="s">arXiv:2603.23640 &middot; Qwen 2.5 1.5B (4-bit) benchmarked on Galaxy S24 Ultra, iPhone 16 Pro and RPi 5</span>
-        </div>
-        <span class="d">Jun 28</span>
-      </div>
-      <a class="more">+ Load more items</a>
     </div>
+
+    <!-- Bucket: Infrastructure -->
+    <div class="bucket">
+      <div class="bh" style="border-left-color:#3b82f6;">
+        <span class="bh-icon" style="background:#3b82f6;">I</span>
+        <span class="bh-title">Infrastructure Squeeze</span>
+        <span class="bh-count">5 items</span>
+      </div>
+      <div class="bf">
+        <div class="fi"><span class="dot dot-infra"></span><div class="fc"><a class="t" href="https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/" target="_blank" rel="noopener">Google announces first African cloud region in Nairobi &mdash; target 2028</a><span class="s">Tech In Africa &middot; Third hyperscaler for East Africa</span></div><span class="d">Jul 6</span></div>
+        <div class="fi"><span class="dot dot-infra"></span><div class="fc"><a class="t" href="https://au.int/en/pressreleases/20250517/africa-declares-ai-strategic-priority-investment-inclusion-and-innovation" target="_blank" rel="noopener">Africa Declares AI a Strategic Priority</a><span class="s">African Union Commission &middot; May 2025</span></div><span class="d">May 25</span></div>
+        <div class="fi"><span class="dot dot-infra"></span><div class="fc"><a class="t" href="https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/bridging-the-new-digital-divide-how-africa-can-boost-its-compute-capacity-for-ai/" target="_blank" rel="noopener">Bridging the New Digital Divide: Africa's Compute Capacity for AI</a><span class="s">GSMA &middot; 2025</span></div><span class="d">2025</span></div>
+        <div class="fi"><span class="dot dot-infra"></span><div class="fc"><a class="t" href="https://www.worldbank.org/en/publication/dptr2025-ai-foundations" target="_blank" rel="noopener">World Bank Digital Progress &amp; Trends Report 2025: AI Foundations</a><span class="s">World Bank &middot; 2025</span></div><span class="d">2025</span></div>
+        <div class="fi"><span class="dot dot-infra"></span><div class="fc"><a class="t" href="https://theconversation.com/ai-in-africa-5-issues-that-must-be-tackled-for-digital-equality-265611" target="_blank" rel="noopener">AI in Africa: 5 Issues That Must Be Tackled for Digital Equality</a><span class="s">The Conversation &middot; 2025</span></div><span class="d">2025</span></div>
+      </div>
+    </div>
+
+    <p style="font-size:0.82rem;color:#94a3b8;margin-top:0.75rem;"><a href="sources.html" style="color:#1a8a7a;">View all sources &rarr;</a></p>
   </div>
 
   <div class="footer">
