@@ -6,6 +6,27 @@
    "label": "Jobs",
    "items": [
     {
+     "t": "Inside Nairobi's AI Shock: What Happens After AI Wipes Out A 40,000-Worker Economy?",
+     "u": "https://techround.co.uk/artificial-intelligence/inside-nairobis-ai-shock-what-happens-after-ai-wipes-out-a-40000-worker-economy/",
+     "s": "TechRound",
+     "d": "Sep 7",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Generative AI Displaces Outsourcing Workers, Reshaping Industry",
+     "u": "https://www.chosun.com/english/industry-en/2026/09/07/D6YS5J6V3FELVDTYW2AFHREAFI/",
+     "s": "Chosun Daily",
+     "d": "Sep 7",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
+     "u": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
+     "s": "The New York Times",
+     "d": "Sep 5",
+     "dot": "dot-jobs"
+    },
+    {
      "t": "AI Isn't Coming for Our Jobs. It's Coming for Our Wages.",
      "u": "https://jacobin.com/2026/08/ai-job-loss-wages-capital",
      "s": "Jacobin",
@@ -374,6 +395,13 @@
   "access": {
    "label": "Access & Pricing",
    "items": [
+    {
+     "t": "GPT-6 Astra: Released Flagship, API Pricing and Benchmarks",
+     "u": "https://llm-stats.com/blog/research/gpt-6-astra-launch",
+     "s": "LLM Stats",
+     "d": "Sep 3",
+     "dot": "dot-price"
+    },
     {
      "t": "Claude Fable 5.1: Anthropic ships next frontier model at $10/$50 per million tokens",
      "u": "https://artificialanalysis.ai/models/claude-fable-5-1",
@@ -974,6 +1002,13 @@
   "infra": {
    "label": "Infrastructure",
    "items": [
+    {
+     "t": "Digital Realty Opens 6.4MW Nairobi Two Data Center to Expand East Africa Capacity",
+     "u": "https://techafricanews.com/2026/09/07/digital-realty-opens-6-4mw-nairobi-two-data-center-east-africa/",
+     "s": "TechAfrica News",
+     "d": "Sep 7",
+     "dot": "dot-infra"
+    },
     {
      "t": "NITDA DG urges Africa to move from AI policy talks to action on compute",
      "u": "https://nationalfocusng.com/2026/09/02/nitda-dg-urges-africa-to-move-from-ai-policy-talks-to-action/",
