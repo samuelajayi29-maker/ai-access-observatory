@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07",
+ "updated": "2026-09-08",
  "schema": 1,
  "buckets": {
   "jobs": {
@@ -24,6 +24,13 @@
      "u": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
      "s": "The New York Times",
      "d": "Sep 5",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "AI is making South Africa's call centers pricier",
+     "u": "https://news.outsourceaccelerator.com/sa-ai-call-centers-cost/",
+     "s": "Outsource Accelerator",
+     "d": "Sep 4",
      "dot": "dot-jobs"
     },
     {
@@ -403,11 +410,32 @@
      "dot": "dot-price"
     },
     {
+     "t": "The Cheapest Way to Get More Africans Online May Not Be a New Smartphone",
+     "u": "https://techafricanews.com/2026/09/03/the-cheapest-way-to-get-more-africans-online-may-not-be-a-new-smartphone/",
+     "s": "TechAfrica News",
+     "d": "Sep 3",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Gemini 3.8 Flash review 2026: benchmarks, pricing, and the catch",
+     "u": "https://www.eesel.ai/blog/gemini-3-8-flash",
+     "s": "eesel AI",
+     "d": "Sep 3",
+     "dot": "dot-price"
+    },
+    {
      "t": "Claude Fable 5.1: Anthropic ships next frontier model at $10/$50 per million tokens",
      "u": "https://artificialanalysis.ai/models/claude-fable-5-1",
      "s": "Artificial Analysis",
      "d": "Sep 1",
      "dot": "dot-price"
+    },
+    {
+     "t": "AI Hardware Demand Is Now Raising US Inflation as Much as Tariffs — And African Buyers Pay in Dollars",
+     "u": "https://iafrica.com/ai-hardware-demand-is-now-raising-us-inflation-as-much-as-tariffs-and-african-buyers-pay-in-dollars/",
+     "s": "iAfrica.com",
+     "d": "Sep 1",
+     "dot": "dot-access"
     },
     {
      "t": "Africa smartphone market set for sharp 2026 decline",
@@ -1010,9 +1038,37 @@
      "dot": "dot-infra"
     },
     {
+     "t": "Egypt Explores Major Data Centre and AI Hub Project With Heka Data, US consortium",
+     "u": "https://techafricanews.com/2026/09/04/egypt-explores-major-data-centre-ai-hub-project-heka-data-us-consortium/",
+     "s": "TechAfrica News",
+     "d": "Sep 4",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Orange Joins ReuNION Submarine Cable Project to Strengthen La Réunion-South Africa Connectivity",
+     "u": "https://techafricanews.com/2026/09/03/orange-joins-reunion-submarine-cable-project-to-strengthen-la-reunion-south-africa-connectivity/",
+     "s": "TechAfrica News",
+     "d": "Sep 3",
+     "dot": "dot-infra"
+    },
+    {
      "t": "NITDA DG urges Africa to move from AI policy talks to action on compute",
      "u": "https://nationalfocusng.com/2026/09/02/nitda-dg-urges-africa-to-move-from-ai-policy-talks-to-action/",
      "s": "National Focus",
+     "d": "Sep 2",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Cybastion Cameroon investment anchors a $75m AI hub",
+     "u": "https://furtherafrica.com/2026/09/02/cybastion-cameroon-investment-anchors-a-75m-ai-hub/",
+     "s": "FurtherAfrica",
+     "d": "Sep 2",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "AI data centres could make electricity more expensive",
+     "u": "https://groundup.org.za/article/south-africas-data-centre-build-could-deepen-energy-crisis/",
+     "s": "GroundUp",
      "d": "Sep 2",
      "dot": "dot-infra"
     },
@@ -1027,6 +1083,13 @@
      "t": "Wiocc lands US$300-million from Saudi and African backers",
      "u": "https://techcentral.co.za/wiocc-300-million-afc-vision-invest/285628/",
      "s": "TechCentral",
+     "d": "Sep 1",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "NSIA bets on 100MW AI data centre to power Nigeria's digital economy",
+     "u": "https://businessday.ng/technology/article/nsia-bets-on-100mw-ai-data-centre-to-power-nigerias-digital-economy/",
+     "s": "BusinessDay NG",
      "d": "Sep 1",
      "dot": "dot-infra"
     },

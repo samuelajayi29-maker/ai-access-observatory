@@ -2,6 +2,7 @@ bucket,date,source,title,url
 jobs,Sep 7,TechRound,"Inside Nairobi's AI Shock: What Happens After AI Wipes Out A 40,000-Worker Economy?",https://techround.co.uk/artificial-intelligence/inside-nairobis-ai-shock-what-happens-after-ai-wipes-out-a-40000-worker-economy/
 jobs,Sep 7,Chosun Daily,"Generative AI Displaces Outsourcing Workers, Reshaping Industry",https://www.chosun.com/english/industry-en/2026/09/07/D6YS5J6V3FELVDTYW2AFHREAFI/
 jobs,Sep 5,The New York Times,Kenyans Made a Living Writing College Essays. Then A.I. Arrived.,https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html
+jobs,Sep 4,Outsource Accelerator,AI is making South Africa's call centers pricier,https://news.outsourceaccelerator.com/sa-ai-call-centers-cost/
 jobs,Aug 30,Jacobin,AI Isn't Coming for Our Jobs. It's Coming for Our Wages.,https://jacobin.com/2026/08/ai-job-loss-wages-capital
 jobs,Aug 27,IOL,South Africa's AI Readiness Puts It in a League of Its Own,https://iol.co.za/news/brics/2026-08-27-south-africas-ai-readiness-puts-it-in-a-league-of-its-own/
 jobs,Aug 26,arXiv,From Producing to Validating: How AI Is Deskilling Freelancers,https://arxiv.org/abs/2608.26089
@@ -55,7 +56,10 @@ jobs,Apr 25,Mastercard Foundation,40% of Tasks in Africa's Tech Outsourcing May 
 jobs,Mar 31,WeeTracker,South Africa's gig economy becomes a bargain with AI skills shortage looming,https://weetracker.com/2026/03/31/south-africa-freelance-economy-ai-talent-gap-2026/
 jobs,Dec 25,"Deric Cheng, AI Frontiers",AI Could Undermine Emerging Economies,https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies
 access,Sep 3,LLM Stats,"GPT-6 Astra: Released Flagship, API Pricing and Benchmarks",https://llm-stats.com/blog/research/gpt-6-astra-launch
+access,Sep 3,TechAfrica News,The Cheapest Way to Get More Africans Online May Not Be a New Smartphone,https://techafricanews.com/2026/09/03/the-cheapest-way-to-get-more-africans-online-may-not-be-a-new-smartphone/
+access,Sep 3,eesel AI,"Gemini 3.8 Flash review 2026: benchmarks, pricing, and the catch",https://www.eesel.ai/blog/gemini-3-8-flash
 access,Sep 1,Artificial Analysis,Claude Fable 5.1: Anthropic ships next frontier model at $10/$50 per million tokens,https://artificialanalysis.ai/models/claude-fable-5-1
+access,Sep 1,iAfrica.com,AI Hardware Demand Is Now Raising US Inflation as Much as Tariffs — And African Buyers Pay in Dollars,https://iafrica.com/ai-hardware-demand-is-now-raising-us-inflation-as-much-as-tariffs-and-african-buyers-pay-in-dollars/
 access,Aug 31,Connecting Africa,Africa smartphone market set for sharp 2026 decline,https://www.connectingafrica.com/digital-divide/africa-smartphone-market-set-for-sharp-2026-decline
 access,Aug 30,GEO Toolbox,"AI Token Cost in 2026: LLM API Pricing, Reconciled and Dated",https://geotoolbox.ai/blog/ai-token-cost
 access,Aug 28,AINewsRound,Custom AI Chips Help Giants. Everyone Else Pays More,https://ainewsround.com/blog/openai-jalapeno-chip-nvidia-compute-access-opinion
@@ -141,9 +145,14 @@ access,May 26,"David Oks, Substack",AI Is Killing the Cheap Smartphone,https://d
 access,Apr 15,Japan Times / AFP,AI-driven chip shortage slowing efforts to get world online: GSMA,https://www.thejapantimes.jp/Technology/658420-ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma.html
 access,Feb 26,Techpoint Africa,AI Chip Demand — Smartphone Prices in Nigeria,https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/
 infra,Sep 7,TechAfrica News,Digital Realty Opens 6.4MW Nairobi Two Data Center to Expand East Africa Capacity,https://techafricanews.com/2026/09/07/digital-realty-opens-6-4mw-nairobi-two-data-center-east-africa/
+infra,Sep 4,TechAfrica News,"Egypt Explores Major Data Centre and AI Hub Project With Heka Data, US consortium",https://techafricanews.com/2026/09/04/egypt-explores-major-data-centre-ai-hub-project-heka-data-us-consortium/
+infra,Sep 3,TechAfrica News,Orange Joins ReuNION Submarine Cable Project to Strengthen La Réunion-South Africa Connectivity,https://techafricanews.com/2026/09/03/orange-joins-reunion-submarine-cable-project-to-strengthen-la-reunion-south-africa-connectivity/
 infra,Sep 2,National Focus,NITDA DG urges Africa to move from AI policy talks to action on compute,https://nationalfocusng.com/2026/09/02/nitda-dg-urges-africa-to-move-from-ai-policy-talks-to-action/
+infra,Sep 2,FurtherAfrica,Cybastion Cameroon investment anchors a $75m AI hub,https://furtherafrica.com/2026/09/02/cybastion-cameroon-investment-anchors-a-75m-ai-hub/
+infra,Sep 2,GroundUp,AI data centres could make electricity more expensive,https://groundup.org.za/article/south-africas-data-centre-build-could-deepen-energy-crisis/
 infra,Sep 1,TechAfrica News,NITDA DG Urges Nigeria to Prioritise AI Sovereignty at GITEX 2026,https://techafricanews.com/2026/09/01/nitda-dg-urges-nigeria-to-prioritise-ai-sovereignty-at-gitex-2026/
 infra,Sep 1,TechCentral,Wiocc lands US$300-million from Saudi and African backers,https://techcentral.co.za/wiocc-300-million-afc-vision-invest/285628/
+infra,Sep 1,BusinessDay NG,NSIA bets on 100MW AI data centre to power Nigeria's digital economy,https://businessday.ng/technology/article/nsia-bets-on-100mw-ai-data-centre-to-power-nigerias-digital-economy/
 infra,Aug 31,arXiv,Deploying DeepSeek 175B Locally on a Single Consumer-Grade RTX 4060 Laptop with 32GB RAM for 200k-Scale Protein-Ligand Virtual Screening,https://arxiv.org/abs/2608.30877
 infra,Aug 31,FurtherAfrica,US-China data centre race heats up across Africa,https://furtherafrica.com/2026/08/31/us-and-china-race-for-africas-next-strategic-infrastructure-data-centres/
 infra,Aug 28,ITWeb,SA data centre operators push back amid sustainability probe,https://www.itweb.co.za/article/sa-data-centre-operators-push-back-amid-sustainability-probe/5yONP7EroNQMXWrb
