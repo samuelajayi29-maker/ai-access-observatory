@@ -1,10 +1,17 @@
 {
- "updated": "2026-09-08",
+ "updated": "2026-09-09",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "Egypt Targets $8bn Outsourcing Exports as Digital Services Push Accelerates",
+     "u": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
+     "s": "TechAfrica News",
+     "d": "Sep 9",
+     "dot": "dot-jobs"
+    },
     {
      "t": "Inside Nairobi's AI Shock: What Happens After AI Wipes Out A 40,000-Worker Economy?",
      "u": "https://techround.co.uk/artificial-intelligence/inside-nairobis-ai-shock-what-happens-after-ai-wipes-out-a-40000-worker-economy/",
@@ -16,6 +23,13 @@
      "t": "Generative AI Displaces Outsourcing Workers, Reshaping Industry",
      "u": "https://www.chosun.com/english/industry-en/2026/09/07/D6YS5J6V3FELVDTYW2AFHREAFI/",
      "s": "Chosun Daily",
+     "d": "Sep 7",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Africa's AI Productivity Push Needs a Talent-Pipeline Strategy",
+     "u": "https://africabusiness.com/2026/09/07/africa-ai-productivity-talent-pipeline-strategy/",
+     "s": "Africa Business",
      "d": "Sep 7",
      "dot": "dot-jobs"
     },
@@ -1030,6 +1044,13 @@
   "infra": {
    "label": "Infrastructure",
    "items": [
+    {
+     "t": "CA plans standalone licence for data centres in Kenya",
+     "u": "https://www.the-star.co.ke/sasa/technology/2026-09-08-ca-plans-standalone-licence-for-data-centres-in-kenya",
+     "s": "The Star Kenya",
+     "d": "Sep 8",
+     "dot": "dot-infra"
+    },
     {
      "t": "Digital Realty Opens 6.4MW Nairobi Two Data Center to Expand East Africa Capacity",
      "u": "https://techafricanews.com/2026/09/07/digital-realty-opens-6-4mw-nairobi-two-data-center-east-africa/",
