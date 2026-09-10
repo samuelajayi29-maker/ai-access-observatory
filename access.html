@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Access & Pricing — AI Access Observatory</title>
+<title>Access — AI Access Observatory</title>
 <meta name="description" content="What AI actually costs in Africa: collapsing device affordability and frontier pricing, plus the live tracker.">
 <link rel="canonical" href="https://samuelajayi29-maker.github.io/ai-access-observatory/access.html">
-<meta property="og:title" content="Access & Pricing — AI Access Observatory">
+<meta property="og:title" content="Access — AI Access Observatory">
 <meta property="og:description" content="What AI actually costs in Africa: collapsing device affordability and frontier pricing, plus the live tracker.">
 <meta property="og:url" content="https://samuelajayi29-maker.github.io/ai-access-observatory/access.html">
 <meta property="og:type" content="article">
@@ -18,7 +18,7 @@
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="icon" type="image/svg+xml" href="favicon.svg">
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=2">
+<link rel="stylesheet" href="style.css?v=3">
 </head>
 <body class="dim-access" data-bucket="access">
 <div class="wrap">
@@ -32,101 +32,231 @@
       <a class="" href="jobs.html">Jobs</a>
       <a class="on" href="access.html">Access</a>
       <a class="" href="infra.html">Infrastructure</a>
+      <a class="" href="analysis.html">Analysis</a>
       <a href="methodology.html">Methodology</a>
       <a href="index.html#tracker">Tracker</a>
       <a class="btn g" href="index.html#weekly">The Weekly</a>
     </div>
   </nav>
   <div class="page dim">
-    <div class="k"><span class="kdot"></span>Dimension · Access & Pricing · Live essay and tracker</div>
-    <h1>The <span>Access Squeeze</span></h1>
-  <p class=\"lede\">Two converging barriers: collapsing device affordability and frontier model pricing that excludes African budgets.</p>
-    <div class="essay">
+    <div class="k"><span class="kdot"></span>The AI Access Observatory</div>
+    <h1 style="font-size:27px;letter-spacing:-.4px;margin-bottom:8px">Access</h1>
+    <p class="lede" style="font-size:15.5px;max-width:700px;margin-bottom:6px">We examine the cost of intelligence today using token costs and group them into different tiers as they relate to Africa's economic position today.</p>
+    <div class="pmod">
+      <div class="statusbar">
+        <span class="live"><i></i>Live record</span>
+        <span class="meta">
+          <span>Updated 2026-09-11</span>
+          <span>13 model prices</span>
+          <span>5 price moves</span>
+          <span>7 on the current index basis</span>
+        </span>
+      </div>
 
-  <!-- Overview -->
-  <div class="sec">
-    <h2>Overview</h2>
-    <p>The access squeeze operates on two levels. <strong>Device access</strong> &mdash; the cheap smartphones that brought millions online are becoming unaffordable as AI-driven chip demand reshapes supply chains. And <strong>frontier model pricing</strong> &mdash; even if you have a device, the cost of using the world's most capable AI is priced for Western enterprise budgets, not Nigerian, Kenyan, or Ghanaian incomes.</p>
+      <div class="shead"><h2>Model costs</h2><span class="t">USD · standard workload = 1M input + 250k output tokens</span></div>
+      <div class="kpis">
+        <div class="kpi"><div class="lbl">Premium frontier</div><div class="val">$22.50</div><div class="chip flat">Fable 5.1 · Astra</div></div>
+        <div class="kpi"><div class="lbl">Frontier value</div><div class="val">$6.75</div><div class="chip down">3.3× cheaper · Kimi K3 (max)</div></div>
+        <div class="kpi"><div class="lbl">Cheapest tracked</div><div class="val">$0.39</div><div class="chip flat">DeepSeek V4 Flash · off-peak</div></div>
+        <div class="kpi"><div class="lbl">Capability band</div><div class="val">35<small>–53</small></div><div class="chip flat">AA index, current basis</div></div>
+      </div>
 
-    <div class="statgrid">
-      <div class="stat"><div class="num">>20%</div><div class="lbl">Smartphone shipment decline 2026</div></div>
-      <div class="stat"><div class="num">$1&ndash;$75</div><div class="lbl">Frontier model /1M tok range</div></div>
-      <div class="stat"><div class="num">60%</div><div class="lbl">Potential phone price surge (NG)</div></div>
-      <div class="stat"><div class="num">75&times;</div><div class="lbl">Cheapest to priciest range</div></div>
+      <div class="card">
+        <svg viewBox="0 0 940 480" width="100%" role="img" aria-label="Capability against cost of a standard workload, showing which models are capable and affordable">
+<rect x="0" y="0" width="940" height="480" fill="#ffffff"/>
+<rect x="78.0" y="255.7" width="356.6" height="148.3" fill="#f5f5f3"/>
+<rect x="78.0" y="147.3" width="356.6" height="108.4" fill="#f5f5f3"/>
+<rect x="78.0" y="44.0" width="356.6" height="103.3" fill="#f5f5f3"/>
+<rect x="434.6" y="255.7" width="237.7" height="148.3" fill="#faf9f5"/>
+<rect x="434.6" y="147.3" width="237.7" height="108.4" fill="#faf9f5"/>
+<rect x="434.6" y="44.0" width="237.7" height="103.3" fill="#fbeeea"/>
+<rect x="672.3" y="255.7" width="237.7" height="148.3" fill="#e9f4f1"/>
+<rect x="672.3" y="147.3" width="237.7" height="108.4" fill="#e9f4f1"/>
+<rect x="672.3" y="44.0" width="237.7" height="103.3" fill="#faf3e0"/>
+<line x1="78" y1="364.1" x2="910" y2="364.1" stroke="#e7e4db" stroke-width="1"/>
+<text x="68" y="368.1" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="11" fill="#8a94a3">$0.5</text>
+<line x1="78" y1="309.9" x2="910" y2="309.9" stroke="#e7e4db" stroke-width="1"/>
+<text x="68" y="313.9" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="11" fill="#8a94a3">$1</text>
+<line x1="78" y1="255.7" x2="910" y2="255.7" stroke="#e7e4db" stroke-width="1"/>
+<text x="68" y="259.7" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="11" fill="#8a94a3">$2</text>
+<line x1="78" y1="184.1" x2="910" y2="184.1" stroke="#e7e4db" stroke-width="1"/>
+<text x="68" y="188.1" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="11" fill="#8a94a3">$5</text>
+<line x1="78" y1="129.9" x2="910" y2="129.9" stroke="#e7e4db" stroke-width="1"/>
+<text x="68" y="133.9" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="11" fill="#8a94a3">$10</text>
+<line x1="78" y1="75.7" x2="910" y2="75.7" stroke="#e7e4db" stroke-width="1"/>
+<text x="68" y="79.7" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="11" fill="#8a94a3">$20</text>
+<line x1="78.0" y1="44" x2="78.0" y2="404" stroke="#e7e4db" stroke-width="1" stroke-dasharray="2 3"/>
+<text x="78.0" y="424" text-anchor="middle" font-family="Instrument Sans,Helvetica,Arial" font-size="11" fill="#8a94a3">30</text>
+<line x1="226.6" y1="44" x2="226.6" y2="404" stroke="#e7e4db" stroke-width="1" stroke-dasharray="2 3"/>
+<text x="226.6" y="424" text-anchor="middle" font-family="Instrument Sans,Helvetica,Arial" font-size="11" fill="#8a94a3">35</text>
+<line x1="375.1" y1="44" x2="375.1" y2="404" stroke="#e7e4db" stroke-width="1" stroke-dasharray="2 3"/>
+<text x="375.1" y="424" text-anchor="middle" font-family="Instrument Sans,Helvetica,Arial" font-size="11" fill="#8a94a3">40</text>
+<line x1="523.7" y1="44" x2="523.7" y2="404" stroke="#e7e4db" stroke-width="1" stroke-dasharray="2 3"/>
+<text x="523.7" y="424" text-anchor="middle" font-family="Instrument Sans,Helvetica,Arial" font-size="11" fill="#8a94a3">45</text>
+<line x1="672.3" y1="44" x2="672.3" y2="404" stroke="#e7e4db" stroke-width="1" stroke-dasharray="2 3"/>
+<text x="672.3" y="424" text-anchor="middle" font-family="Instrument Sans,Helvetica,Arial" font-size="11" fill="#8a94a3">50</text>
+<line x1="820.9" y1="44" x2="820.9" y2="404" stroke="#e7e4db" stroke-width="1" stroke-dasharray="2 3"/>
+<text x="820.9" y="424" text-anchor="middle" font-family="Instrument Sans,Helvetica,Arial" font-size="11" fill="#8a94a3">55</text>
+<text x="84.0" y="30" font-family="Instrument Sans,Helvetica,Arial" font-size="11" fill="#5a6472" letter-spacing="0.06em">EFFICIENT</text>
+<text x="440.6" y="30" font-family="Instrument Sans,Helvetica,Arial" font-size="11" fill="#5a6472" letter-spacing="0.06em">STRONG</text>
+<text x="678.3" y="30" font-family="Instrument Sans,Helvetica,Arial" font-size="11" fill="#5a6472" letter-spacing="0.06em">FRONTIER</text>
+<text x="776.3" y="306.1" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="12.5" font-weight="600" fill="#1a8a7a">Frontier value</text>
+<text x="776.3" y="115.6" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="12.5" font-weight="600" fill="#8a6d1a">Frontier premium</text>
+<text x="122.6" y="347.3" font-family="Instrument Sans,Helvetica,Arial" font-size="12.5" font-weight="600" fill="#8a94a3">Efficient tier</text>
+<text x="122.6" y="115.6" font-family="Instrument Sans,Helvetica,Arial" font-size="12.5" font-weight="600" fill="#c05a36">Paying more for less</text>
+<text x="122.6" y="132.6" font-family="Instrument Sans,Helvetica,Arial" font-size="11" fill="#c05a36">empty today</text>
+<text x="78" y="20" font-family="Instrument Sans,Helvetica,Arial" font-size="11.5" fill="#5a6472">Cost of the standard workload (1M input + 250k output tokens), log scale</text>
+<text x="494.0" y="466" text-anchor="middle" font-family="Instrument Sans,Helvetica,Arial" font-size="11.5" fill="#5a6472">Capability: Artificial Analysis Intelligence Index (current basis, 10 September 2026) — higher is more capable →</text>
+<circle cx="226.6" cy="384.5" r="7" fill="#5a6472" stroke="#fff" stroke-width="2"/>
+<text x="240.6" y="388.5" text-anchor="start" font-family="Instrument Sans,Helvetica,Arial" font-size="12" fill="#0d1b2a">DeepSeek V4 Flash 0731 · $0.39</text>
+<circle cx="256.3" cy="298.6" r="7" fill="#5a6472" stroke="#fff" stroke-width="2"/>
+<text x="270.3" y="302.6" text-anchor="start" font-family="Instrument Sans,Helvetica,Arial" font-size="12" fill="#0d1b2a">DeepSeek V4 Pro 0813 (max) · $1.16</text>
+<circle cx="404.9" cy="269.0" r="7" fill="#1a8a7a" stroke="#fff" stroke-width="2"/>
+<text x="418.9" y="273.0" text-anchor="start" font-family="Instrument Sans,Helvetica,Arial" font-size="12" fill="#0d1b2a">Gemini 3.8 Flash · $1.69</text>
+<circle cx="494.0" cy="211.9" r="7" fill="#8a6d1a" stroke="#fff" stroke-width="2" stroke-dasharray="3 2"/>
+<text x="508.0" y="215.9" text-anchor="start" font-family="Instrument Sans,Helvetica,Arial" font-size="12" fill="#0d1b2a">Grok 4.6 · $3.50</text>
+<text x="508.0" y="230.9" text-anchor="start" font-family="Instrument Sans,Helvetica,Arial" font-size="10" fill="#8a94a3">score derived</text>
+<circle cx="672.3" cy="160.6" r="7" fill="#c9a227" stroke="#fff" stroke-width="2"/>
+<text x="658.3" y="164.6" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="12" fill="#0d1b2a">Kimi K3 (max) · $6.75</text>
+<circle cx="761.4" cy="66.5" r="7" fill="#c05a36" stroke="#fff" stroke-width="2"/>
+<text x="747.4" y="70.5" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="12" fill="#0d1b2a">Claude Fable 5.1 · $22.50</text>
+<circle cx="761.4" cy="44.5" r="7" fill="#0d1b2a" stroke="#fff" stroke-width="2"/>
+<text x="747.4" y="48.5" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="12" fill="#0d1b2a">GPT-6 Astra · $22.50</text>
+</svg>
+        <div class="key">
+          <span><i style="background:#1a8a7a"></i><strong>Frontier value</strong>: capable, affordable</span>
+          <span><i style="background:#c9a227"></i><strong>Frontier premium</strong>: capable, expensive</span>
+          <span><i style="background:#8a94a3"></i><strong>Efficient tier</strong>: below the line, cheap</span>
+          <span><i style="background:#c05a36"></i><strong>Paying more for less</strong>: empty today</span>
+        </div>
+      </div>
+
+      <div class="shead">
+        <h2>Ledger</h2>
+        <span class="t">18 rows · launch-basis scores in <span style="color:#c05a36">red</span> are not plotted</span>
+        <div class="seg" id="ledseg">
+          <button class="on" data-f="all">All</button>
+          <button data-f="obs">Price points</button>
+          <button data-f="event">Moves</button>
+        </div>
+      </div>
+      <div class="card tblwrap" style="margin-top:0">
+        <table class="dense">
+          <thead><tr><th>Model</th><th align="right">Capability</th><th align="right">In / out per Mtok</th><th align="right">Workload</th><th>Change</th></tr></thead>
+          <tbody id="ledrows"><tr data-kind="event"><td><a href="https://www.packetnebula.com/gemini-38-flash-price-cliff/" target="_blank" rel="noopener" style="font-weight:600;color:#0d1b2a">Gemini 3.8 Flash</a><div style="color:#8a94a3;font-size:11.5px;margin-top:1px">Google · 01-01 · price move</div></td><td align="right"><span style="color:#b6bcc5">—</span></td><td align="right"><span style="color:#b6bcc5">—</span></td><td align="right"><span style="color:#b6bcc5">—</span></td><td><span style="color:#c05a36;font-weight:600">▲</span> rise <strong>+100%</strong></td></tr><tr data-kind="obs"><td><a href="https://llm-stats.com/blog/research/gpt-6-astra-launch" target="_blank" rel="noopener" style="font-weight:600;color:#0d1b2a">GPT-6 Astra</a><div style="color:#8a94a3;font-size:11.5px;margin-top:1px">OpenAI · 09-03 · reported</div></td><td align="right"><strong>53</strong></td><td align="right">$10 / $50</td><td align="right"><strong>$22.50</strong></td><td>launch</td></tr><tr data-kind="obs"><td><a href="https://benchlm.ai/models/gemini-3-8-flash" target="_blank" rel="noopener" style="font-weight:600;color:#0d1b2a">Gemini 3.8 Flash</a><div style="color:#8a94a3;font-size:11.5px;margin-top:1px">Google · 09-02 · official</div></td><td align="right"><strong>41</strong></td><td align="right">$0.75 / $3.75</td><td align="right"><strong>$1.69</strong></td><td>launch</td></tr><tr data-kind="obs"><td><a href="https://artificialanalysis.ai/models/claude-fable-5-1" target="_blank" rel="noopener" style="font-weight:600;color:#0d1b2a">Claude Fable 5.1</a><div style="color:#8a94a3;font-size:11.5px;margin-top:1px">Anthropic · 09-01 · reported</div></td><td align="right"><strong>53</strong></td><td align="right">$10 / $50</td><td align="right"><strong>$22.50</strong></td><td>launch</td></tr><tr data-kind="event"><td><a href="https://www.technology.org/2026/08/24/openai-gpt-5-6-sol-price-cut-developers/" target="_blank" rel="noopener" style="font-weight:600;color:#0d1b2a">GPT-5.6 Sol</a><div style="color:#8a94a3;font-size:11.5px;margin-top:1px">OpenAI · 08-24 · price move</div></td><td align="right"><span style="color:#b6bcc5">—</span></td><td align="right"><span style="color:#b6bcc5">—</span></td><td align="right"><span style="color:#b6bcc5">—</span></td><td><span style="color:#1a8a7a;font-weight:600">▼</span> cut <strong>-20%</strong></td></tr><tr data-kind="event"><td><a href="https://api-docs.deepseek.com/quick_start/pricing/" target="_blank" rel="noopener" style="font-weight:600;color:#0d1b2a">DeepSeek API rate card</a><div style="color:#8a94a3;font-size:11.5px;margin-top:1px">DeepSeek · 08-16 · price move</div></td><td align="right"><span style="color:#b6bcc5">—</span></td><td align="right"><span style="color:#b6bcc5">—</span></td><td align="right"><span style="color:#b6bcc5">—</span></td><td>new rate card</td></tr><tr data-kind="obs"><td><a href="https://api-docs.deepseek.com/quick_start/pricing/" target="_blank" rel="noopener" style="font-weight:600;color:#0d1b2a">DeepSeek V4 Pro 0813 (max)</a><div style="color:#8a94a3;font-size:11.5px;margin-top:1px">DeepSeek · 08-13 · official</div></td><td align="right"><strong>36</strong></td><td align="right">$0.66 / $1.98</td><td align="right"><strong>$1.16</strong></td><td>reprice</td></tr><tr data-kind="obs"><td><a href="https://www.morphllm.com/deepseek-v4" target="_blank" rel="noopener" style="font-weight:600;color:#0d1b2a">DeepSeek V4 Flash 0731</a><div style="color:#8a94a3;font-size:11.5px;margin-top:1px">DeepSeek · 08-13 · official</div></td><td align="right"><strong>35</strong></td><td align="right">$0.22 / $0.66</td><td align="right"><strong>$0.39</strong></td><td>reprice</td></tr><tr data-kind="event"><td><a href="https://deepseekv4pro.com/news/deepseek-v4-pro-0813-official-release-opus-fable-benchmarks" target="_blank" rel="noopener" style="font-weight:600;color:#0d1b2a">DeepSeek V4 Pro</a><div style="color:#8a94a3;font-size:11.5px;margin-top:1px">DeepSeek · 08-13 · price move</div></td><td align="right"><span style="color:#b6bcc5">—</span></td><td align="right"><span style="color:#b6bcc5">—</span></td><td align="right"><span style="color:#b6bcc5">—</span></td><td><span style="color:#c05a36;font-weight:600">▲</span> rise <strong>+1,100%</strong></td></tr><tr data-kind="obs"><td><a href="https://artificialanalysis.ai/models" target="_blank" rel="noopener" style="font-weight:600;color:#0d1b2a">Grok 4.6</a><div style="color:#8a94a3;font-size:11.5px;margin-top:1px">SpaceXAI · 08-01 · reported</div></td><td align="right"><strong>44</strong><span style="color:#8a94a3;font-size:11px;margin-left:5px">derived</span></td><td align="right">$2 / $6</td><td align="right"><strong>$3.50</strong></td><td>launch</td></tr><tr data-kind="event"><td><a href="https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/" target="_blank" rel="noopener" style="font-weight:600;color:#0d1b2a">GPT-5.6 Luna / Terra</a><div style="color:#8a94a3;font-size:11.5px;margin-top:1px">OpenAI · 07-30 · price move</div></td><td align="right"><span style="color:#b6bcc5">—</span></td><td align="right"><span style="color:#b6bcc5">—</span></td><td align="right"><span style="color:#b6bcc5">—</span></td><td><span style="color:#1a8a7a;font-weight:600">▼</span> cut <strong>-80%</strong></td></tr><tr data-kind="obs"><td><a href="https://apimaster.ai/blog/claude-opus-5-apimaster-launch-2026" target="_blank" rel="noopener" style="font-weight:600;color:#0d1b2a">Claude Opus 5</a><div style="color:#8a94a3;font-size:11.5px;margin-top:1px">Anthropic · 07-24 · reported</div></td><td align="right"><strong>63</strong><span style="color:#c05a36;font-size:11px;margin-left:5px">launch basis</span></td><td align="right">$5 / $25</td><td align="right"><strong>$11.25</strong></td><td>launch</td></tr><tr data-kind="obs"><td><a href="https://apimaster.ai/blog/claude-opus-5-apimaster-launch-2026" target="_blank" rel="noopener" style="font-weight:600;color:#0d1b2a">Claude Opus 5 (routed)</a><div style="color:#8a94a3;font-size:11.5px;margin-top:1px">Anthropic · 07-24 · third-party</div></td><td align="right"><strong>63</strong><span style="color:#c05a36;font-size:11px;margin-left:5px">launch basis</span></td><td align="right">$2 / $10</td><td align="right"><strong>$4.50</strong></td><td>promo</td></tr><tr data-kind="obs"><td><a href="https://kie.ai/blog/kimi-k3-pricing" target="_blank" rel="noopener" style="font-weight:600;color:#0d1b2a">Kimi K3 (max)</a><div style="color:#8a94a3;font-size:11.5px;margin-top:1px">Moonshot AI · 07-16 · reported</div></td><td align="right"><strong>50</strong></td><td align="right">$3 / $15</td><td align="right"><strong>$6.75</strong></td><td>launch</td></tr><tr data-kind="obs"><td><a href="https://www.aipricing.guru/openai-pricing/" target="_blank" rel="noopener" style="font-weight:600;color:#0d1b2a">GPT-5.6 Sol</a><div style="color:#8a94a3;font-size:11.5px;margin-top:1px">OpenAI · 07-09 · reported</div></td><td align="right"><strong>59</strong><span style="color:#c05a36;font-size:11px;margin-left:5px">launch basis</span></td><td align="right">$5 / $30</td><td align="right"><strong>$12.50</strong></td><td>launch</td></tr><tr data-kind="obs"><td><a href="https://lmmarketcap.com/reports/gpt-5-6-sol-terra-luna" target="_blank" rel="noopener" style="font-weight:600;color:#0d1b2a">GPT-5.6 Terra</a><div style="color:#8a94a3;font-size:11.5px;margin-top:1px">OpenAI · 07-09 · reported</div></td><td align="right"><strong>55</strong><span style="color:#c05a36;font-size:11px;margin-left:5px">launch basis</span></td><td align="right">$2.5 / $15</td><td align="right"><strong>$6.25</strong></td><td>launch</td></tr><tr data-kind="obs"><td><a href="https://lmmarketcap.com/reports/gpt-5-6-sol-terra-luna" target="_blank" rel="noopener" style="font-weight:600;color:#0d1b2a">GPT-5.6 Luna</a><div style="color:#8a94a3;font-size:11.5px;margin-top:1px">OpenAI · 07-09 · reported</div></td><td align="right"><strong>51</strong><span style="color:#c05a36;font-size:11px;margin-left:5px">launch basis</span></td><td align="right">$1 / $6</td><td align="right"><strong>$2.50</strong></td><td>launch</td></tr><tr data-kind="obs"><td><a href="https://vercel.com/ai-gateway/models/muse-spark-1-1" target="_blank" rel="noopener" style="font-weight:600;color:#0d1b2a">Muse Spark 1.1</a><div style="color:#8a94a3;font-size:11.5px;margin-top:1px">Meta · 07-09 · reported</div></td><td align="right"><strong>51</strong><span style="color:#c05a36;font-size:11px;margin-left:5px">launch basis</span></td><td align="right">$1.25 / $4.25</td><td align="right"><strong>$2.31</strong></td><td>launch</td></tr></tbody>
+        </table>
+      </div>
+      <script>
+        (function () {
+          var seg = document.getElementById("ledseg");
+          if (!seg) return;
+          seg.addEventListener("click", function (e) {
+            var b = e.target.closest("button");
+            if (!b) return;
+            seg.querySelectorAll("button").forEach(function (x) { x.classList.remove("on"); });
+            b.classList.add("on");
+            var f = b.getAttribute("data-f");
+            document.querySelectorAll("#ledrows tr").forEach(function (tr) {
+              tr.style.display = (f === "all" || tr.getAttribute("data-kind") === f) ? "" : "none";
+            });
+          });
+        })();
+      </script>
+
+      <div class="note">
+        <h3>Method</h3>
+        <ul>
+          <li><strong>Two kinds of number.</strong> Prices come from providers or named outlets; capability from the Artificial Analysis Intelligence Index. Every row links to its source.</li>
+          <li><strong>The index was restated mid-September.</strong> Launch-era scores sit on an older scale, so the basis is recorded per row and only the current one is plotted.</li>
+          <li><strong>Rate card is not cost.</strong> Astra is reported to match Fable 5.1 at roughly 40% of the cost per completed task, because it finishes in fewer steps. Peak windows, batch rates and resold access all sit below list.</li>
+        </ul>
+        <p style="margin-top:6px;font-size:13px"><a href="methodology.html" style="color:#1a8a7a">Full method and sourcing rules →</a></p>
+      </div>
     </div>
-  </div>
 
-  <!-- Device Access -->
-  <div class="sec">
-    <h2>Device Access</h2>
-    <h3>The Cheap Smartphone Crisis</h3>
-    <p>The "cheap smartphone miracle" &mdash; devices in the <strong>$30&ndash;$120 range</strong> &mdash; brought hundreds of millions of Africans online over the past decade. That era is ending. AI's insatiable demand for DRAM memory is reallocating chip supply from consumer electronics to data centres. Memory supply is inelastic; prices rise structurally.</p>
-    <p><strong>IDC</strong> projects a <strong>13% decline</strong> in global smartphone shipments for 2026 &mdash; the largest single-year drop ever recorded. Africa and the Middle East are hit disproportionately: shipments down over <strong>20%</strong>, concentrated entirely in the budget segment.</p>
+<div class="pmod">
+      <div class="shead"><h2>Device prices</h2><span class="t">Percentage change · price against volume, by market</span></div>
+      <div class="kpis">
+        <div class="kpi"><div class="lbl">Sub-$100 shipments</div><div class="val">−34<small>%</small></div><div class="chip r">Q2 2026 · ~3m units</div></div>
+        <div class="kpi"><div class="lbl">Device prices · MEA</div><div class="val">+18<small>%</small></div><div class="chip t">2026 · global +15%</div></div>
+        <div class="kpi"><div class="lbl">DRAM contract price</div><div class="val">+63<small>%</small></div><div class="chip t">Q2 2026 · NAND +70–75%</div></div>
+        <div class="kpi"><div class="lbl">Africa shipments 2026</div><div class="val">−26<small>%</small></div><div class="chip r">Omdia forecast</div></div>
+      </div>
 
-    <div class="callout">
-      <h4>Nigeria: the math is brutal</h4>
-      <p>Global DRAM price increases of ~20% translate to roughly $8&ndash;$15 added to a phone's BOM. But Nigeria's import bottlenecks &mdash; FX scarcity, port delays, multiple taxes and levies &mdash; amplify that to an estimated <strong>60% retail price surge</strong> at the consumer end (Techpoint Africa, 2025). A phone that cost N80,000 (~$50) could exceed N128,000 (~$80) &mdash; pushing it out of reach for millions.</p>
+      <div class="card">
+        <svg viewBox="0 0 940 400" width="100%" role="img" aria-label="Device price changes against shipment volume changes by market">
+<rect x="0" y="0" width="940" height="400" fill="#ffffff"/>
+<text x="60" y="24" font-family="Instrument Sans,Helvetica,Arial" font-size="11.5" fill="#5a6472">Price change (%)</text>
+<text x="571.0" y="24" font-family="Instrument Sans,Helvetica,Arial" font-size="11.5" fill="#5a6472">Shipment / volume change (%)</text>
+<line x1="555.0" y1="40" x2="555.0" y2="362" stroke="#e7e4db" stroke-width="1.5"/>
+<line x1="267.9" y1="40" x2="267.9" y2="362" stroke="#f4f2ec" stroke-width="1"/>
+<text x="267.9" y="378" text-anchor="middle" font-family="Instrument Sans,Helvetica,Arial" font-size="10.5" fill="#8a94a3">60%</text>
+<line x1="363.6" y1="40" x2="363.6" y2="362" stroke="#f4f2ec" stroke-width="1"/>
+<text x="363.6" y="378" text-anchor="middle" font-family="Instrument Sans,Helvetica,Arial" font-size="10.5" fill="#8a94a3">40%</text>
+<line x1="459.3" y1="40" x2="459.3" y2="362" stroke="#f4f2ec" stroke-width="1"/>
+<text x="459.3" y="378" text-anchor="middle" font-family="Instrument Sans,Helvetica,Arial" font-size="10.5" fill="#8a94a3">20%</text>
+<line x1="650.7" y1="40" x2="650.7" y2="362" stroke="#f4f2ec" stroke-width="1"/>
+<text x="650.7" y="378" text-anchor="middle" font-family="Instrument Sans,Helvetica,Arial" font-size="10.5" fill="#8a94a3">20%</text>
+<line x1="746.4" y1="40" x2="746.4" y2="362" stroke="#f4f2ec" stroke-width="1"/>
+<text x="746.4" y="378" text-anchor="middle" font-family="Instrument Sans,Helvetica,Arial" font-size="10.5" fill="#8a94a3">40%</text>
+<line x1="842.1" y1="40" x2="842.1" y2="362" stroke="#f4f2ec" stroke-width="1"/>
+<text x="842.1" y="378" text-anchor="middle" font-family="Instrument Sans,Helvetica,Arial" font-size="10.5" fill="#8a94a3">60%</text>
+<text x="192" y="73.4" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="12.5" fill="#0d1b2a">Memory (DRAM)</text>
+<text x="192" y="88.4" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="10.5" fill="#8a94a3">price, Q2 2026</text>
+<rect x="555.0" y="66.4" width="301.5" height="18" rx="4" fill="#1a8a7a"/>
+<text x="864.5" y="79.4" font-family="Instrument Sans,Helvetica,Arial" font-size="11.5" fill="#1a8a7a">+63%</text>
+<text x="192" y="116.3" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="12.5" fill="#0d1b2a">Global (all devices)</text>
+<text x="192" y="131.3" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="10.5" fill="#8a94a3">price, 2026 proj.</text>
+<rect x="555.0" y="109.3" width="132.1" height="18" rx="4" fill="#1a8a7a"/>
+<text x="695.1" y="122.3" font-family="Instrument Sans,Helvetica,Arial" font-size="11.5" fill="#1a8a7a">+27.6%</text>
+<text x="192" y="159.1" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="12.5" fill="#0d1b2a">Nigeria</text>
+<text x="192" y="174.1" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="10.5" fill="#8a94a3">volume, Q1 2026 · price, 2026 proj.</text>
+<rect x="516.7" y="152.1" width="38.3" height="18" rx="4" fill="#c05a36"/>
+<text x="508.7" y="165.1" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="11.5" fill="#c05a36">8%</text>
+<rect x="555.0" y="152.1" width="143.6" height="18" rx="4" fill="#1a8a7a"/>
+<text x="706.6" y="165.1" font-family="Instrument Sans,Helvetica,Arial" font-size="11.5" fill="#1a8a7a">+30%</text>
+<text x="192" y="202.0" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="12.5" fill="#0d1b2a">Middle East & Africa</text>
+<text x="192" y="217.0" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="10.5" fill="#8a94a3">volume, 2026 forecast · price, 2026</text>
+<rect x="430.6" y="195.0" width="124.4" height="18" rx="4" fill="#c05a36"/>
+<text x="422.6" y="208.0" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="11.5" fill="#c05a36">-26%</text>
+<rect x="555.0" y="195.0" width="86.1" height="18" rx="4" fill="#1a8a7a"/>
+<text x="649.1" y="208.0" font-family="Instrument Sans,Helvetica,Arial" font-size="11.5" fill="#1a8a7a">+18%</text>
+<text x="192" y="244.9" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="12.5" fill="#0d1b2a">South Africa</text>
+<text x="192" y="259.9" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="10.5" fill="#8a94a3">volume, H1 2026 · price, H1 2026</text>
+<rect x="517.2" y="237.9" width="37.8" height="18" rx="4" fill="#c05a36"/>
+<text x="509.2" y="250.9" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="11.5" fill="#c05a36">-7.9%</text>
+<rect x="555.0" y="237.9" width="46.9" height="18" rx="4" fill="#1a8a7a"/>
+<text x="609.9" y="250.9" font-family="Instrument Sans,Helvetica,Arial" font-size="11.5" fill="#1a8a7a">+9.8%</text>
+<text x="192" y="287.7" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="12.5" fill="#0d1b2a">Africa (all)</text>
+<text x="192" y="302.7" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="10.5" fill="#8a94a3">volume, Q2 2026</text>
+<rect x="521.5" y="280.7" width="33.5" height="18" rx="4" fill="#c05a36"/>
+<text x="513.5" y="293.7" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="11.5" fill="#c05a36">-7%</text>
+<text x="192" y="330.6" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="12.5" fill="#0d1b2a">Sub-$100 devices</text>
+<text x="192" y="345.6" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="10.5" fill="#8a94a3">volume, Q2 2026</text>
+<rect x="392.3" y="323.6" width="162.7" height="18" rx="4" fill="#c05a36"/>
+<text x="384.3" y="336.6" text-anchor="end" font-family="Instrument Sans,Helvetica,Arial" font-size="11.5" fill="#c05a36">-34%</text>
+</svg>
+        <div class="key">
+          <span><i style="background:#1a8a7a"></i><strong>Price change</strong></span>
+          <span><i style="background:#c05a36"></i><strong>Shipment / volume change</strong></span>
+          <span>Basis labelled per bar: actual, projection, forecast</span>
+        </div>
+      </div>
+
+      <div class="note">
+        <h3>Method</h3>
+        <ul>
+          <li><strong>Device prices are one-off costs and stay separate from token prices.</strong> A cheaper model does not help someone who cannot afford the handset.</li>
+          <li><strong>Forecasts are labelled.</strong> Analyst projections and a proposed Kenyan excise duty are marked as such, never stated as outcomes.</li>
+          <li><strong>Component costs are the shared cause.</strong> Memory prices pass through to device prices, which is how AI demand shows up in African shop prices.</li>
+        </ul>
+      </div>
     </div>
 
-    <p>This is not a temporary cycle. AI model sizes are growing, not shrinking. Each new generation of frontier models requires more memory for inference, which means more DRAM demand, which means ongoing pressure on consumer electronics pricing.</p>
-  </div>
-
-  <!-- Frontier Model Pricing -->
-  <div class="sec">
-    <h2>Frontier Model Pricing</h2>
-    <h3>The Cost of Capability</h3>
-    <p>Device access is one barrier. The cost of using frontier AI models is a separate, equally important one. As of <strong>July 2026</strong>, here is the full pricing spectrum:</p>
-
-    <table class="pricing-table">
-      <thead><tr><th>Model</th><th>Provider</th><th>Released</th><th>Input / 1M</th><th>Output / 1M</th></tr></thead>
-      <tbody>
-        <tr><td class="new">Claude Mythos 5</td><td>Anthropic</td><td>Jun 9</td><td>$15</td><td class="price">$75</td></tr>
-        <tr><td class="new">Claude Fable 5</td><td>Anthropic</td><td>Jun 9</td><td>$10</td><td class="price">$50</td></tr>
-        <tr><td>GPT-5.6 Sol</td><td>OpenAI</td><td>Jul 9</td><td>$5</td><td class="price">$30</td></tr>
-        <tr><td>Claude Opus 4.8</td><td>Anthropic</td><td>May 28</td><td>$5</td><td class="price">$25</td></tr>
-        <tr><td>Claude Sonnet 5</td><td>Anthropic</td><td>Jun 30</td><td>$3</td><td class="price">$15</td></tr>
-        <tr><td>GPT-5.6 Terra</td><td>OpenAI</td><td>Jul 9</td><td>$2.50</td><td class="price">$15</td></tr>
-        <tr><td>GPT-5.6 Luna</td><td>OpenAI</td><td>Jul 9</td><td>$1</td><td class="price">$6</td></tr>
-      </tbody>
-    </table>
-
-    <div class="callout">
-      <h4>Putting it in perspective</h4>
-      <p><strong>Nigeria's monthly minimum wage is approximately $45.</strong> A single deep analysis query on Claude Mythos 5 ($75/M output tokens) can consume more than a week's wage. Even GPT-5.6 Luna ($6/M output), the cheapest frontier model, adds up fast for real research or development workflows &mdash; a day's worth of serious API calls could equal a month's rent.</p>
-    </div>
-
-    <h3>The Open-Weight Alternative</h3>
-    <p>Open-weight models (Llama 4, DeepSeek-V3, Qwen 2.5, Mistral Large) are free to download and use. But "free" is misleading &mdash; they require expensive hardware to run. A Llama 4-70B at 4-bit quantization needs ~35GB of VRAM, which means a GPU costing $15,000&ndash;$30,000. Cloud inference on these models, even at cost, still requires compute that's priced in dollars on infrastructure that barely exists in Africa.</p>
-    <p>The gap between "free to download" and "actually usable in Lagos" is itself a metric worth tracking.</p>
-  </div>
-
-  <!-- Geopolitical Dimension -->
-  <div class="sec">
-    <h3>The Geopolitical Gate</h3>
-    <p>Access isn't just about price. <strong>Claude Fable 5 and Claude Mythos 5</strong> were subject to <strong>US export controls</strong> from their June 9 launch until July 2, 2026 &mdash; a 23-day period where the most capable AI models in the world were legally restricted from certain users and regions.</p>
-    <p>The restrictions were lifted, but the <strong>Fortune</strong> analysis noted the episode revealed a policy framework that is "still a mess." The ability to access frontier AI depends not just on whether you can pay, but on geopolitical decisions made in Washington, Brussels, and Beijing. For African policymakers building digital strategies around AI, this adds an unpredictable variable.</p>
-
-    <div class="source-box">
-      <strong>Sources:</strong> IDC Quarterly Mobile Phone Tracker (Q2 2026) &middot; Techpoint Africa (2025) &middot; Anthropic pricing page &middot; OpenAI pricing page &middot; Counterpoint Research &middot; Fortune (Jul 2, 2026) &middot; Simon Willison (Jul 9, 2026)
-    </div>
-  </div>
-
-  <!-- What to track -->
-  <div class="sec">
-    <h3>What We're Tracking</h3>
-    <ul style="padding-left:1.25rem;color:#475569;font-size:0.9rem;">
-      <li>Quarterly smartphone shipment data by region and price tier (IDC, Counterpoint)</li>
-      <li>DRAM/NAND pricing trends and supply forecasts</li>
-      <li>Frontier model API pricing changes across all providers</li>
-      <li>Export control and AI governance policy developments</li>
-      <li>Open-weight model efficiency gains (quantisation, distillation)</li>
-      <li>Edge AI / on-device LLM feasibility for African hardware</li>
-      <li>Inference cost-per-query vs. GDP per capita tracker</li>
-    </ul>
-  </div>
-  </div>
+<p style="margin:30px 0 0;font-size:15px"><a href="analysis.html" style="color:#1a8a7a;font-weight:600">Read the analysis →</a></p>
+    
     <section class="feedsec">
-      <h2>The live Access & Pricing feed</h2>
+      <h2>The live Access feed</h2>
       <p class="fsub">Every tracked item on this dimension, newest first, each linked to its source. Full record also on the <a href="index.html#tracker">dashboard</a>. Download the whole dataset as <a href="data/ai-access-observatory.xlsx">Excel</a>.</p>
       <div id="feed"></div>
     </section>
