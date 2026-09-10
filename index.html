@@ -7,6 +7,17 @@
 <meta name="description" content="A daily, country-level record of how artificial intelligence is changing jobs, access and infrastructure in Africa. Sourced, open and independent.">
 <meta property="og:title" content="AI Access Observatory — Astrolabe Data">
 <meta property="og:description" content="Africa's AI economy, measured daily. Jobs, access and infrastructure, updated every day.">
+<meta property="og:url" content="https://samuelajayi29-maker.github.io/ai-access-observatory/">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://samuelajayi29-maker.github.io/ai-access-observatory/og-card.png">
+<meta property="og:site_name" content="Astrolabe Data">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="AI Access Observatory — Astrolabe Data">
+<meta name="twitter:description" content="Africa's AI economy, measured daily: jobs, access and infrastructure, sourced and open.">
+<meta name="twitter:image" content="https://samuelajayi29-maker.github.io/ai-access-observatory/og-card.png">
+<meta name="theme-color" content="#0d1b2a">
+<link rel="canonical" href="https://samuelajayi29-maker.github.io/ai-access-observatory/">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="icon" type="image/svg+xml" href="favicon.svg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -85,8 +96,20 @@
   </section>
 
   <div class="band" id="weekly">
-    <div><h3>Follow Africa's AI economy</h3><p>The Astrolabe Weekly: what changed, one email, every week.</p></div>
-    <form onsubmit="return false"><input type="email" placeholder="you@example.com" aria-label="Email address"><button>Join the weekly</button></form>
+    <div class="btxt">
+      <h3>The Astrolabe Weekly</h3>
+      <p>One email, every Friday: what changed in Africa's AI economy and the data behind it. Free, and never more than one message a week.</p>
+    </div>
+    <div class="bform">
+      <form id="subform" action="https://buttondown.email/api/emails/embed-subscribe/astrolabe" method="post" data-newsletter="pending" novalidate>
+        <label class="vh" for="sub-email">Email address</label>
+        <input id="sub-email" type="email" name="email" placeholder="you@example.com" autocomplete="email" required>
+        <input type="hidden" name="tag" value="observatory">
+        <input class="hp" type="text" name="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <button type="submit" id="subbtn">Join the weekly</button>
+      </form>
+      <p class="sub-note" id="subnote">We never sell or share your address. Unsubscribe in one click.</p>
+    </div>
   </div>
 
   <footer>
