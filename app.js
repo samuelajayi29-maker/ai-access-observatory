@@ -48,6 +48,8 @@
   function buildColumn(key, items) {
     var col = document.createElement("div");
     col.className = "tcol";
+    col.setAttribute("role", "region");
+    col.setAttribute("aria-label", DIM[key].label + " feed");
     var head = '<div class="th"><span class="dot ' + key + '"></span>' + esc(DIM[key].label) +
       '<span class="c">' + items.length + " items</span></div>";
     col.innerHTML = head + '<div class="items"></div>';
@@ -121,9 +123,22 @@
       });
   }
 
+  function initNewsletter() {
+    var form = document.getElementById("subform");
+    if (!form || form.getAttribute("data-newsletter") !== "pending") return;
+    var btn = document.getElementById("subbtn");
+    var mail = document.getElementById("sub-email");
+    var note = document.getElementById("subnote");
+    if (btn) { btn.disabled = true; btn.textContent = "Opening soon"; }
+    if (mail) { mail.disabled = true; mail.placeholder = "launching with the first issue"; }
+    if (note) note.textContent = "The subscribe form opens with the first issue. Nothing to send yet.";
+    form.addEventListener("submit", function (e) { e.preventDefault(); });
+  }
+
   if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", load);
+    document.addEventListener("DOMContentLoaded", function () { load(); initNewsletter(); });
   } else {
     load();
+    initNewsletter();
   }
 })();
