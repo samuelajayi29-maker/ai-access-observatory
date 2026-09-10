@@ -101,10 +101,11 @@
       <p>One email, every Friday: what changed in Africa's AI economy and the data behind it. Free, and never more than one message a week.</p>
     </div>
     <div class="bform">
-      <form id="subform" action="https://buttondown.email/api/emails/embed-subscribe/astrolabe" method="post" data-newsletter="pending" novalidate>
+      <form id="subform" action="https://substack.com/subscribe" method="get" data-newsletter="substack" data-substack="" novalidate>
         <label class="vh" for="sub-email">Email address</label>
         <input id="sub-email" type="email" name="email" placeholder="you@example.com" autocomplete="email" required>
-        <input type="hidden" name="tag" value="observatory">
+        <input type="hidden" name="utm_source" value="observatory">
+        <input type="hidden" name="utm_medium" value="website">
         <input class="hp" type="text" name="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
         <button type="submit" id="subbtn">Join the weekly</button>
       </form>
