@@ -1,0 +1,131 @@
+{
+  "schema": 2,
+  "metric": "model_price_and_capability",
+  "definition": "Published API list price for a frontier or frontier-adjacent model in US dollars per million tokens (input and output recorded separately), paired with a capability score from a named third-party index.",
+  "unit": "USD per million tokens",
+  "workload": {
+    "label": "Standard workload",
+    "detail": "1,000,000 input tokens + 250,000 output tokens",
+    "formula": "input + 0.25 x output"
+  },
+  "capability_index": {
+    "name": "Artificial Analysis Intelligence Index",
+    "basis": "restated version, captured 10 September 2026",
+    "url": "https://artificialanalysis.ai/models",
+    "warning": "Artificial Analysis restated this index in September 2026. Scores published at model launch are on an earlier scale and are NOT comparable with the current basis. Every score below carries its basis."
+  },
+  "compiled": "2026-09-11",
+  "observations": [
+    {
+      "date": "2026-09-01", "lab": "Anthropic", "model": "Claude Fable 5.1",
+      "input": 10.0, "output": 50.0, "status": "reported", "event": "launch",
+      "capability": 53, "cap_basis": "current", "cap_note": "First of the 201 models on the current index. Flagged by Artificial Analysis as among the most token-hungry models scoring above 25, so real cost per task runs above the rate card.",
+      "source": "Artificial Analysis / OpenRouter", "url": "https://artificialanalysis.ai/models/claude-fable-5-1",
+      "note": "Frontier flagship at $10/$50 per million tokens."
+    },
+    {
+      "date": "2026-09-03", "lab": "OpenAI", "model": "GPT-6 Astra",
+      "input": 10.0, "output": 50.0, "status": "reported", "event": "launch",
+      "capability": 53, "cap_basis": "current", "cap_note": "Artificial Analysis reports Astra equal to Fable 5.1 on the current index at roughly 40% of the cost per task, because it completes work in fewer steps.",
+      "source": "LLM Stats / Artificial Analysis", "url": "https://llm-stats.com/blog/research/gpt-6-astra-launch",
+      "note": "Identical rate card to Fable 5.1, two days later."
+    },
+    {
+      "date": "2026-09-02", "lab": "Google", "model": "Gemini 3.8 Flash",
+      "input": 0.75, "output": 3.75, "status": "official", "event": "launch",
+      "capability": 41, "cap_basis": "current", "cap_note": "Current index, high effort. Launch coverage scored it 59 on the pre-restatement scale.",
+      "price_note": "Introductory rate to 31 December 2026. Rises to $1.50 / $7.50 on 1 January 2027.",
+      "source": "Google / PacketNebula / Artificial Analysis", "url": "https://benchlm.ai/models/gemini-3-8-flash",
+      "note": "Efficiency tier, on the rate-card Pareto frontier."
+    },
+    {
+      "date": "2026-07-16", "lab": "Moonshot AI", "model": "Kimi K3 (max)",
+      "input": 3.0, "output": 15.0, "status": "reported", "event": "launch",
+      "capability": 50, "cap_basis": "current", "cap_note": "Highest-ranked open-weights model on the current index. Scored 57 on the pre-restatement scale.",
+      "source": "Kie AI / Artificial Analysis", "url": "https://kie.ai/blog/kimi-k3-pricing",
+      "note": "2.8T-parameter MoE, open weights, 1M-token context."
+    },
+    {
+      "date": "2026-08-01", "lab": "SpaceXAI", "model": "Grok 4.6",
+      "input": 2.0, "output": 6.0, "status": "reported", "event": "launch",
+      "capability": 44, "cap_basis": "current-derived", "cap_note": "Derived: one source reports 9 index points behind Claude Fable 5.1 at 8x lower price. Score was 61 on the pre-restatement scale. Treat as approximate.",
+      "source": "Artificial Analysis / FollowNews", "url": "https://artificialanalysis.ai/models",
+      "note": "200K context pricing cliff reported."
+    },
+    {
+      "date": "2026-08-13", "lab": "DeepSeek", "model": "DeepSeek V4 Pro 0813 (max)",
+      "input": 0.66, "output": 1.98, "status": "official", "event": "reprice",
+      "capability": 36, "cap_basis": "current", "cap_note": "Rank 7 of 112 on the current index.",
+      "price_note": "Off-peak rate. Peak windows are 01:00-04:00 and 06:00-10:00 UTC, at roughly double.",
+      "source": "DeepSeek API docs / Artificial Analysis", "url": "https://api-docs.deepseek.com/quick_start/pricing/",
+      "note": "Included in the price rise reported in August."
+    },
+    {
+      "date": "2026-08-13", "lab": "DeepSeek", "model": "DeepSeek V4 Flash 0731",
+      "input": 0.22, "output": 0.66, "status": "official", "event": "reprice",
+      "capability": 35, "cap_basis": "current", "cap_note": "One index point below V4 Pro on the current basis.",
+      "price_note": "Off-peak rate; peak roughly double.",
+      "source": "DeepSeek API docs / MorphLLM", "url": "https://www.morphllm.com/deepseek-v4",
+      "note": "The cheapest frontier-adjacent rate in the record."
+    },
+    {
+      "date": "2026-07-24", "lab": "Anthropic", "model": "Claude Opus 5",
+      "input": 5.0, "output": 25.0, "status": "reported", "event": "launch",
+      "capability": 63, "cap_basis": "launch", "cap_note": "Scored on the pre-restatement scale; not comparable with the current basis.",
+      "source": "Coursiv / APIMaster", "url": "https://apimaster.ai/blog/claude-opus-5-apimaster-launch-2026",
+      "note": "List price. Third-party routing advertised at $2/$10."
+    },
+    {
+      "date": "2026-07-24", "lab": "Anthropic", "model": "Claude Opus 5 (routed)",
+      "input": 2.0, "output": 10.0, "status": "third_party", "event": "promo",
+      "capability": 63, "cap_basis": "launch", "cap_note": "Same model, resold below list.",
+      "source": "APIMaster", "url": "https://apimaster.ai/blog/claude-opus-5-apimaster-launch-2026",
+      "note": "Third-party routing advertised at 60% below list."
+    },
+    {
+      "date": "2026-07-09", "lab": "OpenAI", "model": "GPT-5.6 Sol",
+      "input": 5.0, "output": 30.0, "status": "reported", "event": "launch",
+      "capability": 59, "cap_basis": "launch", "cap_note": "Pre-restatement scale.",
+      "source": "AIPricing Guru / macgpu", "url": "https://www.aipricing.guru/openai-pricing/",
+      "note": "Top tier of the three-tier GPT-5.6 family."
+    },
+    {
+      "date": "2026-07-09", "lab": "OpenAI", "model": "GPT-5.6 Terra",
+      "input": 2.5, "output": 15.0, "status": "reported", "event": "launch",
+      "capability": 55, "cap_basis": "launch", "cap_note": "Pre-restatement scale.",
+      "source": "AIPricing Guru / LM Market Cap", "url": "https://lmmarketcap.com/reports/gpt-5-6-sol-terra-luna",
+      "note": "Mid tier."
+    },
+    {
+      "date": "2026-07-09", "lab": "OpenAI", "model": "GPT-5.6 Luna",
+      "input": 1.0, "output": 6.0, "status": "reported", "event": "launch",
+      "capability": 51, "cap_basis": "launch", "cap_note": "Pre-restatement scale.",
+      "source": "AIPricing Guru / LM Market Cap", "url": "https://lmmarketcap.com/reports/gpt-5-6-sol-terra-luna",
+      "note": "Entry tier, cost-efficiency standout at launch."
+    },
+    {
+      "date": "2026-07-09", "lab": "Meta", "model": "Muse Spark 1.1",
+      "input": 1.25, "output": 4.25, "status": "reported", "event": "launch",
+      "capability": 51, "cap_basis": "launch", "cap_note": "Pre-restatement scale. Meta's 1.3 release scored 61 on that older scale in September.",
+      "source": "LinkedIn / Vercel AI Gateway", "url": "https://vercel.com/ai-gateway/models/muse-spark-1-1",
+      "note": "Meta's first paid model API, priced to undercut incumbents."
+    }
+  ],
+  "events": [
+    {"date": "2026-07-30", "lab": "OpenAI", "model": "GPT-5.6 Luna / Terra", "kind": "cut", "change_pct": -80,
+     "source": "OpenAI", "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+     "note": "Provider-announced cut of 80% on Luna and 20% on Terra."},
+    {"date": "2026-08-13", "lab": "DeepSeek", "model": "DeepSeek V4 Pro", "kind": "rise", "change_pct": 1100,
+     "source": "DeepSeek V4 Hub", "url": "https://deepseekv4pro.com/news/deepseek-v4-pro-0813-official-release-opus-fable-benchmarks",
+     "note": "Reported increase of up to 12x alongside the V4 Pro release; absolute rates not stated in the headline."},
+    {"date": "2026-08-16", "lab": "DeepSeek", "model": "DeepSeek API rate card", "kind": "restructure",
+     "source": "DeepSeek API Docs", "url": "https://api-docs.deepseek.com/quick_start/pricing/",
+     "note": "Moved to peak and off-peak pricing, off-peak at half price."},
+    {"date": "2026-08-24", "lab": "OpenAI", "model": "GPT-5.6 Sol", "kind": "cut", "change_pct": -20,
+     "source": "Technology Org", "url": "https://www.technology.org/2026/08/24/openai-gpt-5-6-sol-price-cut-developers/",
+     "note": "Cut of more than 20%."},
+    {"date": "2027-01-01", "lab": "Google", "model": "Gemini 3.8 Flash", "kind": "rise", "change_pct": 100,
+     "source": "Google / PacketNebula", "url": "https://www.packetnebula.com/gemini-38-flash-price-cliff/",
+     "note": "Scheduled: introductory rate ends 31 December 2026, list price doubles on 1 January 2027."}
+  ]
+}
