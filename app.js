@@ -117,7 +117,7 @@
       })
       .catch(function (err) {
         feed.innerHTML = '<p style="grid-column:1/-1;color:#5a6472;font-size:14px">Live feed unavailable (' +
-          esc(err.message) + '). Raw data: <a href="data/items.json">data/items.json</a>.</p>';
+          esc(err.message) + '). Download the dataset: <a href="data/ai-access-observatory.xlsx">Excel</a>.</p>';
       });
   }
 
