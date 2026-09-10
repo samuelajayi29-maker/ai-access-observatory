@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09",
+ "updated": "2026-09-10",
  "schema": 1,
  "buckets": {
   "jobs": {
@@ -10,6 +10,20 @@
      "u": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
      "s": "TechAfrica News",
      "d": "Sep 9",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "How AI Is Reshaping Employment and Skills Development Across Africa",
+     "u": "https://iafrica.com/how-ai-is-reshaping-employment-and-skills-development-across-africa/",
+     "s": "iAfrica",
+     "d": "Sep 9",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Kenya: Remote Work 2.0 - Can Kenya Become Africa's Digital Services Hub?",
+     "u": "https://allafrica.com/stories/202609080096.html",
+     "s": "allAfrica",
+     "d": "Sep 8",
      "dot": "dot-jobs"
     },
     {
@@ -30,6 +44,13 @@
      "t": "Africa's AI Productivity Push Needs a Talent-Pipeline Strategy",
      "u": "https://africabusiness.com/2026/09/07/africa-ai-productivity-talent-pipeline-strategy/",
      "s": "Africa Business",
+     "d": "Sep 7",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "AI and the Shrinking Career Ladder: Africa's New Employment Reality",
+     "u": "https://dailytrust.com/ai-and-the-shrinking-career-ladder-africas-new-employment-reality/",
+     "s": "Daily Trust",
      "d": "Sep 7",
      "dot": "dot-jobs"
     },
@@ -416,6 +437,20 @@
   "access": {
    "label": "Access & Pricing",
    "items": [
+    {
+     "t": "Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient",
+     "u": "https://www.deepseek.com/en/news/deepseek-v4-1-flash/",
+     "s": "DeepSeek",
+     "d": "Sep 10",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Connected, But Not Yet Earning: Africa's Next Digital Divide",
+     "u": "https://www.africa.com/business/connected-but-not-yet-earning-africas-next-digital-divide",
+     "s": "africa.com",
+     "d": "Sep 9",
+     "dot": "dot-access"
+    },
     {
      "t": "GPT-6 Astra: Released Flagship, API Pricing and Benchmarks",
      "u": "https://llm-stats.com/blog/research/gpt-6-astra-launch",
@@ -1045,9 +1080,30 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "Morocco Moves AI Strategy Into Implementation, Targets MAD 100 Bln in GDP Value by 2030",
+     "u": "https://www.maghrebdailynews.com/15755-morocco-moves-ai-strategy-into-implementation-targets-mad-100-bln-in-gdp-value-by-2030.html",
+     "s": "Maghreb Daily News",
+     "d": "Sep 9",
+     "dot": "dot-infra"
+    },
+    {
      "t": "CA plans standalone licence for data centres in Kenya",
      "u": "https://www.the-star.co.ke/sasa/technology/2026-09-08-ca-plans-standalone-licence-for-data-centres-in-kenya",
      "s": "The Star Kenya",
+     "d": "Sep 8",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Egypt Partners With Vodafone, Elsewedy and Cassava on $1bn Data Centre",
+     "u": "https://techafricanews.com/2026/09/08/egypt-vodafone-elsewedy-cassava-1bn-data-centre/",
+     "s": "TechAfrica News",
+     "d": "Sep 8",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "South Africa Pushes Subsea Cable, AI and Digital Skills Agenda to Expand Connectivity",
+     "u": "https://techafricanews.com/2026/09/08/south-africa-subsea-cable-ai-digital-skills-connectivity/",
+     "s": "TechAfrica News",
      "d": "Sep 8",
      "dot": "dot-infra"
     },
