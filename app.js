@@ -125,14 +125,30 @@
 
   function initNewsletter() {
     var form = document.getElementById("subform");
-    if (!form || form.getAttribute("data-newsletter") !== "pending") return;
+    if (!form) return;
     var btn = document.getElementById("subbtn");
     var mail = document.getElementById("sub-email");
     var note = document.getElementById("subnote");
-    if (btn) { btn.disabled = true; btn.textContent = "Opening soon"; }
-    if (mail) { mail.disabled = true; mail.placeholder = "launching with the first issue"; }
-    if (note) note.textContent = "The subscribe form opens with the first issue. Nothing to send yet.";
-    form.addEventListener("submit", function (e) { e.preventDefault(); });
+    var pub = form.getAttribute("data-substack");
+
+    // Pending: the publication handle is not set yet, so nothing is collectable.
+    if (!pub) {
+      if (btn) { btn.disabled = true; btn.textContent = "Opening soon"; }
+      if (mail) { mail.disabled = true; mail.placeholder = "launching with the first issue"; }
+      if (note) note.textContent = "The subscribe form opens with the first issue. Nothing to send yet.";
+      form.addEventListener("submit", function (e) { e.preventDefault(); });
+      return;
+    }
+
+    // Live: point the form at the publication and let Substack handle the rest.
+    form.setAttribute("action", "https://" + pub + ".substack.com/subscribe");
+    form.removeAttribute("novalidate");
+    form.addEventListener("submit", function (e) {
+      var hp = form.querySelector(".hp");
+      if (hp && hp.value) { e.preventDefault(); return; }        // honeypot
+      if (mail && !mail.checkValidity()) { e.preventDefault(); mail.focus(); return; }  // let the browser show its message, but keep focus here
+      if (note) note.textContent = "Opening Substack to confirm your subscription...";
+    });
   }
 
   if (document.readyState === "loading") {
