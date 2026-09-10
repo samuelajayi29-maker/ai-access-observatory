@@ -152,3 +152,16 @@ body.dim-infra { --acc: #1a8a7a; }
 .feedsec .fsub { font-size: 14px; color: #5a6472; margin-bottom: 22px; }
 .feedsec .fsub a { color: #1a8a7a; }
 @media (max-width: 860px) { .page.dim h1 { font-size: 28px; } }
+
+/* phase 4: newsletter capture + accessibility */
+.band .btxt { max-width: 580px; }
+.band .bform { display: flex; flex-direction: column; align-items: flex-end; gap: 7px; }
+.band .sub-note { font-size: 12px; color: #9fb0c2; margin: 0; text-align: right; }
+.band .hp { position: absolute; left: -9999px; width: 1px; height: 1px; opacity: 0; }
+.band .vh { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+.band form[data-newsletter="pending"] input[type="email"] { opacity: .6; }
+.band button[disabled] { opacity: .65; cursor: not-allowed; }
+.upd { color: #5a6472; font-size: 12.5px; letter-spacing: .01em; }
+a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid #c9a227; outline-offset: 2px; border-radius: 4px; }
+.tcol:focus-within { border-color: #c9a227; }
+@media (max-width: 700px) { .band .bform { align-items: stretch; } .band .sub-note { text-align: left; } }
