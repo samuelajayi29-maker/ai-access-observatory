@@ -16,6 +16,12 @@ nav { display: flex; align-items: center; justify-content: space-between; paddin
 .navr a.on { color: #111; font-weight: 600; border-bottom: 2px solid #c9a227; padding-bottom: 2px; }
 .btn { background: #0d1b2a; color: #fff; border-radius: 8px; padding: 9px 15px; font: inherit; font-size: 13px; font-weight: 600; text-decoration: none; border: 1px solid #0d1b2a; display: inline-block; }
 .btn.g { background: transparent; color: #111; border-color: #d8d0be; }
+/* nav links are dark by default; the solid button must keep white text */
+.navr a.btn { color: #fff; }
+.navr a.btn.g { color: #111; }
+.navr a.btn:hover, .navr a.btn.g:hover { text-decoration: none; }
+.btn:hover { background: #16305a; border-color: #16305a; }
+.btn.g:hover { background: #f3eee1; }
 
 /* hero */
 .hero { display: grid; grid-template-columns: 1.05fr .95fr; gap: 40px; padding: 46px 0 20px; align-items: center; }
