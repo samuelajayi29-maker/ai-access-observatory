@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://samuelajayi29-maker.github.io/ai-access-observatory/sitemap.xml
