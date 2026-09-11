@@ -1,10 +1,17 @@
 {
- "updated": "2026-09-10",
+ "updated": "2026-09-11",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "Data capture: How US tech giants are building the AI future without Africa",
+     "u": "https://www.theafricareport.com/430326/data-capture-how-us-tech-giants-are-building-the-ai-future-without-africa/",
+     "s": "The Africa Report",
+     "d": "Sep 10",
+     "dot": "dot-jobs"
+    },
     {
      "t": "Egypt Targets $8bn Outsourcing Exports as Digital Services Push Accelerates",
      "u": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
@@ -51,6 +58,20 @@
      "t": "AI and the Shrinking Career Ladder: Africa's New Employment Reality",
      "u": "https://dailytrust.com/ai-and-the-shrinking-career-ladder-africas-new-employment-reality/",
      "s": "Daily Trust",
+     "d": "Sep 7",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Jamaica's BPO sector sheds 12,000 jobs in two years: opinion",
+     "u": "https://news.outsourceaccelerator.com/jamaica-bpo-sheds-jobs/",
+     "s": "Outsource Accelerator",
+     "d": "Sep 7",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "AI and the Shrinking Workplace: Workers' New Reality",
+     "u": "https://businesspost.ng/featureoped/ai-and-the-shrinking-workplace-workers-new-reality/",
+     "s": "Business Post Nigeria",
      "d": "Sep 7",
      "dot": "dot-jobs"
     },
@@ -438,6 +459,20 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "AI Provider Cost Updates 2026-09-11",
+     "u": "https://finopsweekly.com/news/ai-economics-provider-updates-2026-09-11/",
+     "s": "FinOps Weekly",
+     "d": "Sep 11",
+     "dot": "dot-price"
+    },
+    {
+     "t": "AI Token Prices 2026: AI Model Pricing Compared",
+     "u": "https://www.aipricing.guru/pricing/",
+     "s": "AI Pricing Guru",
+     "d": "Sep 11",
+     "dot": "dot-price"
+    },
+    {
      "t": "Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient",
      "u": "https://www.deepseek.com/en/news/deepseek-v4-1-flash/",
      "s": "DeepSeek",
@@ -445,11 +480,32 @@
      "dot": "dot-price"
     },
     {
+     "t": "DeepSeek V4.1 Flash Released: Benchmarks, Pricing, and Pro Retirement",
+     "u": "https://www.intelligentliving.co/deepseek-v41-flash-pricing-release/",
+     "s": "Intelligent Living",
+     "d": "Sep 10",
+     "dot": "dot-price"
+    },
+    {
+     "t": "DeepSeek-V4.1-Flash: MIT open weights at $0.15 per million",
+     "u": "https://datanorth.ai/news/deepseek-releases-deepseek-v4-1-flash",
+     "s": "DataNorth AI",
+     "d": "Sep 10",
+     "dot": "dot-access"
+    },
+    {
      "t": "Connected, But Not Yet Earning: Africa's Next Digital Divide",
      "u": "https://www.africa.com/business/connected-but-not-yet-earning-africas-next-digital-divide",
      "s": "africa.com",
      "d": "Sep 9",
      "dot": "dot-access"
+    },
+    {
+     "t": "OpenAI API Pricing September 2026: Latest API Costs",
+     "u": "https://aicostbudget.com/en/blog/openai-api-pricing-change-2026",
+     "s": "AICostBudget",
+     "d": "Sep 7",
+     "dot": "dot-price"
     },
     {
      "t": "GPT-6 Astra: Released Flagship, API Pricing and Benchmarks",
@@ -1080,9 +1136,51 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "UduTech adds Baro AI to expand Africa's GPU supply",
+     "u": "https://techcabal.com/2026/09/11/udutech-adds-baro-ai-to-expand-gpu-supply/",
+     "s": "TechCabal",
+     "d": "Sep 11",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Digital Parks Africa enters Nigeria's data centre race with Lagos facility",
+     "u": "https://nairametrics.com/2026/09/11/digital-parks-africa-enters-nigerias-data-centre-race-with-lagos-facility/",
+     "s": "Nairametrics",
+     "d": "Sep 11",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Nigeria Links Data Sovereignty, AI to Fresh Digital Infrastructure Investment",
+     "u": "https://allafrica.com/stories/202609100269.html",
+     "s": "allAfrica",
+     "d": "Sep 10",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "AMACO taps GE Vernova for Mombasa AI data centre",
+     "u": "https://techtrendske.co.ke/2026/09/10/amaco-ge-vernova-mombasa-ai-data-centre/",
+     "s": "TechTrendsKE",
+     "d": "Sep 10",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "At ITW Africa 2026, Africa's Digital Future Came Down to Power, Fibre and Execution",
+     "u": "https://www.kenyaengineer.co.ke/at-itw-africa-2026-africas-digital-future-came-down-to-power-fibre-and-execution/",
+     "s": "Kenya Engineer",
+     "d": "Sep 10",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Morocco Moves AI Strategy Into Implementation, Targets MAD 100 Bln in GDP Value by 2030",
      "u": "https://www.maghrebdailynews.com/15755-morocco-moves-ai-strategy-into-implementation-targets-mad-100-bln-in-gdp-value-by-2030.html",
      "s": "Maghreb Daily News",
+     "d": "Sep 9",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Egypt moves to build $1bn AI data centre with Nvidia tech",
+     "u": "https://www.arabnews.com/business/egypt-moves-to-build-1bn-ai-data-centre-with-nvidia-tech-3001048",
+     "s": "Arab News",
      "d": "Sep 9",
      "dot": "dot-infra"
     },
@@ -1108,10 +1206,31 @@
      "dot": "dot-infra"
     },
     {
+     "t": "HeRo: History-Aware Routing for Efficient LLM Inference",
+     "u": "https://arxiv.org/abs/2609.08189",
+     "s": "arXiv",
+     "d": "Sep 8",
+     "dot": "dot-arxiv"
+    },
+    {
      "t": "Digital Realty Opens 6.4MW Nairobi Two Data Center to Expand East Africa Capacity",
      "u": "https://techafricanews.com/2026/09/07/digital-realty-opens-6-4mw-nairobi-two-data-center-east-africa/",
      "s": "TechAfrica News",
      "d": "Sep 7",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Unified AI Gateway: A Framework for Joint Model Routing and KV Cache Management",
+     "u": "https://arxiv.org/abs/2609.06940",
+     "s": "arXiv",
+     "d": "Sep 7",
+     "dot": "dot-arxiv"
+    },
+    {
+     "t": "Civil society groups in South Africa call for temporary halt to new data centres",
+     "u": "https://www.africanews.com/2026/09/04/civil-society-groups-in-south-africa-call-for-temporary-halt-to-new-data-centres/",
+     "s": "Africanews",
+     "d": "Sep 5",
      "dot": "dot-infra"
     },
     {

@@ -1,4 +1,5 @@
 bucket,date,source,title,url
+jobs,Sep 10,The Africa Report,Data capture: How US tech giants are building the AI future without Africa,https://www.theafricareport.com/430326/data-capture-how-us-tech-giants-are-building-the-ai-future-without-africa/
 jobs,Sep 9,TechAfrica News,Egypt Targets $8bn Outsourcing Exports as Digital Services Push Accelerates,https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/
 jobs,Sep 9,iAfrica,How AI Is Reshaping Employment and Skills Development Across Africa,https://iafrica.com/how-ai-is-reshaping-employment-and-skills-development-across-africa/
 jobs,Sep 8,allAfrica,Kenya: Remote Work 2.0 - Can Kenya Become Africa's Digital Services Hub?,https://allafrica.com/stories/202609080096.html
@@ -6,6 +7,8 @@ jobs,Sep 7,TechRound,"Inside Nairobi's AI Shock: What Happens After AI Wipes Out
 jobs,Sep 7,Chosun Daily,"Generative AI Displaces Outsourcing Workers, Reshaping Industry",https://www.chosun.com/english/industry-en/2026/09/07/D6YS5J6V3FELVDTYW2AFHREAFI/
 jobs,Sep 7,Africa Business,Africa's AI Productivity Push Needs a Talent-Pipeline Strategy,https://africabusiness.com/2026/09/07/africa-ai-productivity-talent-pipeline-strategy/
 jobs,Sep 7,Daily Trust,AI and the Shrinking Career Ladder: Africa's New Employment Reality,https://dailytrust.com/ai-and-the-shrinking-career-ladder-africas-new-employment-reality/
+jobs,Sep 7,Outsource Accelerator,"Jamaica's BPO sector sheds 12,000 jobs in two years: opinion",https://news.outsourceaccelerator.com/jamaica-bpo-sheds-jobs/
+jobs,Sep 7,Business Post Nigeria,AI and the Shrinking Workplace: Workers' New Reality,https://businesspost.ng/featureoped/ai-and-the-shrinking-workplace-workers-new-reality/
 jobs,Sep 5,The New York Times,Kenyans Made a Living Writing College Essays. Then A.I. Arrived.,https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html
 jobs,Sep 4,Outsource Accelerator,AI is making South Africa's call centers pricier,https://news.outsourceaccelerator.com/sa-ai-call-centers-cost/
 jobs,Aug 30,Jacobin,AI Isn't Coming for Our Jobs. It's Coming for Our Wages.,https://jacobin.com/2026/08/ai-job-loss-wages-capital
@@ -60,8 +63,13 @@ jobs,May 16,UN Economic Commission for Africa,AI and jobs in Africa: turning dis
 jobs,Apr 25,Mastercard Foundation,40% of Tasks in Africa's Tech Outsourcing May Be Affected by AI by 2030,https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/
 jobs,Mar 31,WeeTracker,South Africa's gig economy becomes a bargain with AI skills shortage looming,https://weetracker.com/2026/03/31/south-africa-freelance-economy-ai-talent-gap-2026/
 jobs,Dec 25,"Deric Cheng, AI Frontiers",AI Could Undermine Emerging Economies,https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies
+access,Sep 11,FinOps Weekly,AI Provider Cost Updates 2026-09-11,https://finopsweekly.com/news/ai-economics-provider-updates-2026-09-11/
+access,Sep 11,AI Pricing Guru,AI Token Prices 2026: AI Model Pricing Compared,https://www.aipricing.guru/pricing/
 access,Sep 10,DeepSeek,"Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient",https://www.deepseek.com/en/news/deepseek-v4-1-flash/
+access,Sep 10,Intelligent Living,"DeepSeek V4.1 Flash Released: Benchmarks, Pricing, and Pro Retirement",https://www.intelligentliving.co/deepseek-v41-flash-pricing-release/
+access,Sep 10,DataNorth AI,DeepSeek-V4.1-Flash: MIT open weights at $0.15 per million,https://datanorth.ai/news/deepseek-releases-deepseek-v4-1-flash
 access,Sep 9,africa.com,"Connected, But Not Yet Earning: Africa's Next Digital Divide",https://www.africa.com/business/connected-but-not-yet-earning-africas-next-digital-divide
+access,Sep 7,AICostBudget,OpenAI API Pricing September 2026: Latest API Costs,https://aicostbudget.com/en/blog/openai-api-pricing-change-2026
 access,Sep 3,LLM Stats,"GPT-6 Astra: Released Flagship, API Pricing and Benchmarks",https://llm-stats.com/blog/research/gpt-6-astra-launch
 access,Sep 3,TechAfrica News,The Cheapest Way to Get More Africans Online May Not Be a New Smartphone,https://techafricanews.com/2026/09/03/the-cheapest-way-to-get-more-africans-online-may-not-be-a-new-smartphone/
 access,Sep 3,eesel AI,"Gemini 3.8 Flash review 2026: benchmarks, pricing, and the catch",https://www.eesel.ai/blog/gemini-3-8-flash
@@ -151,11 +159,20 @@ access,May 27,Trustonic,"Deconstructing Africa's smartphone market: shipments, p
 access,May 26,"David Oks, Substack",AI Is Killing the Cheap Smartphone,https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone
 access,Apr 15,Japan Times / AFP,AI-driven chip shortage slowing efforts to get world online: GSMA,https://www.thejapantimes.jp/Technology/658420-ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma.html
 access,Feb 26,Techpoint Africa,AI Chip Demand — Smartphone Prices in Nigeria,https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/
+infra,Sep 11,TechCabal,UduTech adds Baro AI to expand Africa's GPU supply,https://techcabal.com/2026/09/11/udutech-adds-baro-ai-to-expand-gpu-supply/
+infra,Sep 11,Nairametrics,Digital Parks Africa enters Nigeria's data centre race with Lagos facility,https://nairametrics.com/2026/09/11/digital-parks-africa-enters-nigerias-data-centre-race-with-lagos-facility/
+infra,Sep 10,allAfrica,"Nigeria Links Data Sovereignty, AI to Fresh Digital Infrastructure Investment",https://allafrica.com/stories/202609100269.html
+infra,Sep 10,TechTrendsKE,AMACO taps GE Vernova for Mombasa AI data centre,https://techtrendske.co.ke/2026/09/10/amaco-ge-vernova-mombasa-ai-data-centre/
+infra,Sep 10,Kenya Engineer,"At ITW Africa 2026, Africa's Digital Future Came Down to Power, Fibre and Execution",https://www.kenyaengineer.co.ke/at-itw-africa-2026-africas-digital-future-came-down-to-power-fibre-and-execution/
 infra,Sep 9,Maghreb Daily News,"Morocco Moves AI Strategy Into Implementation, Targets MAD 100 Bln in GDP Value by 2030",https://www.maghrebdailynews.com/15755-morocco-moves-ai-strategy-into-implementation-targets-mad-100-bln-in-gdp-value-by-2030.html
+infra,Sep 9,Arab News,Egypt moves to build $1bn AI data centre with Nvidia tech,https://www.arabnews.com/business/egypt-moves-to-build-1bn-ai-data-centre-with-nvidia-tech-3001048
 infra,Sep 8,The Star Kenya,CA plans standalone licence for data centres in Kenya,https://www.the-star.co.ke/sasa/technology/2026-09-08-ca-plans-standalone-licence-for-data-centres-in-kenya
 infra,Sep 8,TechAfrica News,"Egypt Partners With Vodafone, Elsewedy and Cassava on $1bn Data Centre",https://techafricanews.com/2026/09/08/egypt-vodafone-elsewedy-cassava-1bn-data-centre/
 infra,Sep 8,TechAfrica News,"South Africa Pushes Subsea Cable, AI and Digital Skills Agenda to Expand Connectivity",https://techafricanews.com/2026/09/08/south-africa-subsea-cable-ai-digital-skills-connectivity/
+infra,Sep 8,arXiv,HeRo: History-Aware Routing for Efficient LLM Inference,https://arxiv.org/abs/2609.08189
 infra,Sep 7,TechAfrica News,Digital Realty Opens 6.4MW Nairobi Two Data Center to Expand East Africa Capacity,https://techafricanews.com/2026/09/07/digital-realty-opens-6-4mw-nairobi-two-data-center-east-africa/
+infra,Sep 7,arXiv,Unified AI Gateway: A Framework for Joint Model Routing and KV Cache Management,https://arxiv.org/abs/2609.06940
+infra,Sep 5,Africanews,Civil society groups in South Africa call for temporary halt to new data centres,https://www.africanews.com/2026/09/04/civil-society-groups-in-south-africa-call-for-temporary-halt-to-new-data-centres/
 infra,Sep 4,TechAfrica News,"Egypt Explores Major Data Centre and AI Hub Project With Heka Data, US consortium",https://techafricanews.com/2026/09/04/egypt-explores-major-data-centre-ai-hub-project-heka-data-us-consortium/
 infra,Sep 3,TechAfrica News,Orange Joins ReuNION Submarine Cable Project to Strengthen La Réunion-South Africa Connectivity,https://techafricanews.com/2026/09/03/orange-joins-reunion-submarine-cable-project-to-strengthen-la-reunion-south-africa-connectivity/
 infra,Sep 2,National Focus,NITDA DG urges Africa to move from AI policy talks to action on compute,https://nationalfocusng.com/2026/09/02/nitda-dg-urges-africa-to-move-from-ai-policy-talks-to-action/
