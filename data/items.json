@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11",
+ "updated": "2026-09-12",
  "schema": 1,
  "buckets": {
   "jobs": {
@@ -9,6 +9,13 @@
      "t": "Data capture: How US tech giants are building the AI future without Africa",
      "u": "https://www.theafricareport.com/430326/data-capture-how-us-tech-giants-are-building-the-ai-future-without-africa/",
      "s": "The Africa Report",
+     "d": "Sep 10",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "South Africa's AI Paradox: Best Prepared, Most Exposed",
+     "u": "https://iol.co.za/news/brics/2026-09-10-south-africas-ai-paradox-best-prepared-most-exposed/",
+     "s": "IOL",
      "d": "Sep 10",
      "dot": "dot-jobs"
     },
@@ -459,6 +466,13 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "Value - quality per dollar: AI models ranked (data as of 12 Sept 2026)",
+     "u": "https://www.benchleader.com/leaderboards/value",
+     "s": "BenchLeader",
+     "d": "Sep 12",
+     "dot": "dot-price"
+    },
+    {
      "t": "AI Provider Cost Updates 2026-09-11",
      "u": "https://finopsweekly.com/news/ai-economics-provider-updates-2026-09-11/",
      "s": "FinOps Weekly",
@@ -469,6 +483,13 @@
      "t": "AI Token Prices 2026: AI Model Pricing Compared",
      "u": "https://www.aipricing.guru/pricing/",
      "s": "AI Pricing Guru",
+     "d": "Sep 11",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Agnes 3.0 Flash: Intelligence, Performance & Price Analysis ($0.05/$0.15 per million)",
+     "u": "https://artificialanalysis.ai/models/agnes-3-0-flash",
+     "s": "Artificial Analysis",
      "d": "Sep 11",
      "dot": "dot-price"
     },
@@ -1136,6 +1157,13 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "Vodafone Egypt and Cassava Launch Egypt's First AI Factory as Cairo Courts Multiple Infrastructure Partners",
+     "u": "https://iafrica.com/vodafone-egypt-and-cassava-launch-egypts-first-ai-factory-as-cairo-courts-multiple-infrastructure-partners/",
+     "s": "iAfrica",
+     "d": "Sep 12",
+     "dot": "dot-infra"
+    },
+    {
      "t": "UduTech adds Baro AI to expand Africa's GPU supply",
      "u": "https://techcabal.com/2026/09/11/udutech-adds-baro-ai-to-expand-gpu-supply/",
      "s": "TechCabal",
@@ -1146,6 +1174,20 @@
      "t": "Digital Parks Africa enters Nigeria's data centre race with Lagos facility",
      "u": "https://nairametrics.com/2026/09/11/digital-parks-africa-enters-nigerias-data-centre-race-with-lagos-facility/",
      "s": "Nairametrics",
+     "d": "Sep 11",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Kenya, UNDP move to operationalise sovereign AI infrastructure at Konza Data Centre",
+     "u": "https://techreviewafrica.com/news/7149/kenya-undp-move-to-operationalise-sovereign-ai-infrastructure-at-konza-data-centre",
+     "s": "TechReviewAfrica",
+     "d": "Sep 11",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Tanzania plans AI data centres as Korea funds digital training",
+     "u": "https://streamlinefeed.co.ke/news/tanzania-plans-ai-data-centres-as-korea-funds-digital-training",
+     "s": "Streamline",
      "d": "Sep 11",
      "dot": "dot-infra"
     },

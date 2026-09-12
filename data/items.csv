@@ -1,5 +1,6 @@
 bucket,date,source,title,url
 jobs,Sep 10,The Africa Report,Data capture: How US tech giants are building the AI future without Africa,https://www.theafricareport.com/430326/data-capture-how-us-tech-giants-are-building-the-ai-future-without-africa/
+jobs,Sep 10,IOL,"South Africa's AI Paradox: Best Prepared, Most Exposed",https://iol.co.za/news/brics/2026-09-10-south-africas-ai-paradox-best-prepared-most-exposed/
 jobs,Sep 9,TechAfrica News,Egypt Targets $8bn Outsourcing Exports as Digital Services Push Accelerates,https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/
 jobs,Sep 9,iAfrica,How AI Is Reshaping Employment and Skills Development Across Africa,https://iafrica.com/how-ai-is-reshaping-employment-and-skills-development-across-africa/
 jobs,Sep 8,allAfrica,Kenya: Remote Work 2.0 - Can Kenya Become Africa's Digital Services Hub?,https://allafrica.com/stories/202609080096.html
@@ -63,8 +64,10 @@ jobs,May 16,UN Economic Commission for Africa,AI and jobs in Africa: turning dis
 jobs,Apr 25,Mastercard Foundation,40% of Tasks in Africa's Tech Outsourcing May Be Affected by AI by 2030,https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/
 jobs,Mar 31,WeeTracker,South Africa's gig economy becomes a bargain with AI skills shortage looming,https://weetracker.com/2026/03/31/south-africa-freelance-economy-ai-talent-gap-2026/
 jobs,Dec 25,"Deric Cheng, AI Frontiers",AI Could Undermine Emerging Economies,https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies
+access,Sep 12,BenchLeader,Value - quality per dollar: AI models ranked (data as of 12 Sept 2026),https://www.benchleader.com/leaderboards/value
 access,Sep 11,FinOps Weekly,AI Provider Cost Updates 2026-09-11,https://finopsweekly.com/news/ai-economics-provider-updates-2026-09-11/
 access,Sep 11,AI Pricing Guru,AI Token Prices 2026: AI Model Pricing Compared,https://www.aipricing.guru/pricing/
+access,Sep 11,Artificial Analysis,"Agnes 3.0 Flash: Intelligence, Performance & Price Analysis ($0.05/$0.15 per million)",https://artificialanalysis.ai/models/agnes-3-0-flash
 access,Sep 10,DeepSeek,"Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient",https://www.deepseek.com/en/news/deepseek-v4-1-flash/
 access,Sep 10,Intelligent Living,"DeepSeek V4.1 Flash Released: Benchmarks, Pricing, and Pro Retirement",https://www.intelligentliving.co/deepseek-v41-flash-pricing-release/
 access,Sep 10,DataNorth AI,DeepSeek-V4.1-Flash: MIT open weights at $0.15 per million,https://datanorth.ai/news/deepseek-releases-deepseek-v4-1-flash
@@ -159,8 +162,11 @@ access,May 27,Trustonic,"Deconstructing Africa's smartphone market: shipments, p
 access,May 26,"David Oks, Substack",AI Is Killing the Cheap Smartphone,https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone
 access,Apr 15,Japan Times / AFP,AI-driven chip shortage slowing efforts to get world online: GSMA,https://www.thejapantimes.jp/Technology/658420-ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma.html
 access,Feb 26,Techpoint Africa,AI Chip Demand — Smartphone Prices in Nigeria,https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/
+infra,Sep 12,iAfrica,Vodafone Egypt and Cassava Launch Egypt's First AI Factory as Cairo Courts Multiple Infrastructure Partners,https://iafrica.com/vodafone-egypt-and-cassava-launch-egypts-first-ai-factory-as-cairo-courts-multiple-infrastructure-partners/
 infra,Sep 11,TechCabal,UduTech adds Baro AI to expand Africa's GPU supply,https://techcabal.com/2026/09/11/udutech-adds-baro-ai-to-expand-gpu-supply/
 infra,Sep 11,Nairametrics,Digital Parks Africa enters Nigeria's data centre race with Lagos facility,https://nairametrics.com/2026/09/11/digital-parks-africa-enters-nigerias-data-centre-race-with-lagos-facility/
+infra,Sep 11,TechReviewAfrica,"Kenya, UNDP move to operationalise sovereign AI infrastructure at Konza Data Centre",https://techreviewafrica.com/news/7149/kenya-undp-move-to-operationalise-sovereign-ai-infrastructure-at-konza-data-centre
+infra,Sep 11,Streamline,Tanzania plans AI data centres as Korea funds digital training,https://streamlinefeed.co.ke/news/tanzania-plans-ai-data-centres-as-korea-funds-digital-training
 infra,Sep 10,allAfrica,"Nigeria Links Data Sovereignty, AI to Fresh Digital Infrastructure Investment",https://allafrica.com/stories/202609100269.html
 infra,Sep 10,TechTrendsKE,AMACO taps GE Vernova for Mombasa AI data centre,https://techtrendske.co.ke/2026/09/10/amaco-ge-vernova-mombasa-ai-data-centre/
 infra,Sep 10,Kenya Engineer,"At ITW Africa 2026, Africa's Digital Future Came Down to Power, Fibre and Execution",https://www.kenyaengineer.co.ke/at-itw-africa-2026-africas-digital-future-came-down-to-power-fibre-and-execution/
