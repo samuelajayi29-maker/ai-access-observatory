@@ -1,10 +1,31 @@
 {
- "updated": "2026-09-12",
+ "updated": "2026-09-14",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "As 2040 Approaches, Should We Still Be Studying for Yesterday's Jobs?",
+     "u": "https://www.modernghana.com/news/1527324/as-2040-approaches-should-we-still-be-studying.html",
+     "s": "Modern Ghana",
+     "d": "Sep 13",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "AI is changing work faster than education can adapt, Africa may offer a different model",
+     "u": "https://disruptafrica.com/2026/09/11/ai-is-changing-work-faster-than-education-can-adapt-africa-may-offer-a-different-model/",
+     "s": "Disrupt Africa",
+     "d": "Sep 11",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Nigeria Must Convert AI Investments Into Jobs, Local Technologies - Experts",
+     "u": "https://leadership.ng/nigeria-must-convert-ai-investments-into-jobs-local-technologies-experts/",
+     "s": "Leadership",
+     "d": "Sep 11",
+     "dot": "dot-jobs"
+    },
     {
      "t": "Data capture: How US tech giants are building the AI future without Africa",
      "u": "https://www.theafricareport.com/430326/data-capture-how-us-tech-giants-are-building-the-ai-future-without-africa/",
@@ -466,6 +487,20 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "Anthropic Claude API pricing 2026: Fable, Opus, Sonnet cache-read rates",
+     "u": "https://www.aipricing.guru/anthropic-pricing/",
+     "s": "AI Pricing Guru",
+     "d": "Sep 14",
+     "dot": "dot-price"
+    },
+    {
+     "t": "AI Skills and Compute Africa, AIMS partner to expand AI research and compute access",
+     "u": "https://techreviewafrica.com/news/7195/ai-skills-and-compute-africa-aims-partner-to-expand-ai-research-and-compute-access",
+     "s": "TechReviewAfrica",
+     "d": "Sep 13",
+     "dot": "dot-access"
+    },
+    {
      "t": "Value - quality per dollar: AI models ranked (data as of 12 Sept 2026)",
      "u": "https://www.benchleader.com/leaderboards/value",
      "s": "BenchLeader",
@@ -492,6 +527,13 @@
      "s": "Artificial Analysis",
      "d": "Sep 11",
      "dot": "dot-price"
+    },
+    {
+     "t": "The days of the sub-$100 smartphone may be numbered as AI memory prices soar",
+     "u": "https://www.cnbc.com/2026/09/11/cheap-china-smartphones-rare-memory-ai-costs.html",
+     "s": "CNBC",
+     "d": "Sep 11",
+     "dot": "dot-access"
     },
     {
      "t": "Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient",
@@ -1157,6 +1199,27 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "Submer and Edgecore partner on AI-ready data centre infrastructure across META",
+     "u": "https://techafricanews.com/2026/09/14/submer-and-edgecore-partner-on-ai-ready-data-centre-infrastructure-across-meta/",
+     "s": "TechAfrica News",
+     "d": "Sep 14",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Could Africa be the next AI frontier as US and Europe hit limits?",
+     "u": "https://www.foxnews.com/world/could-africa-next-ai-frontier-us-europe-hit-limits",
+     "s": "Fox News",
+     "d": "Sep 13",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Tinubu turns to BRICS for AI, digital infrastructure and critical minerals investment",
+     "u": "https://nairametrics.com/2026/09/13/tinubu-turns-to-brics-for-ai-digital-infrastructure-and-critical-minerals-investment/",
+     "s": "Nairametrics",
+     "d": "Sep 13",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Vodafone Egypt and Cassava Launch Egypt's First AI Factory as Cairo Courts Multiple Infrastructure Partners",
      "u": "https://iafrica.com/vodafone-egypt-and-cassava-launch-egypts-first-ai-factory-as-cairo-courts-multiple-infrastructure-partners/",
      "s": "iAfrica",
@@ -1188,6 +1251,13 @@
      "t": "Tanzania plans AI data centres as Korea funds digital training",
      "u": "https://streamlinefeed.co.ke/news/tanzania-plans-ai-data-centres-as-korea-funds-digital-training",
      "s": "Streamline",
+     "d": "Sep 11",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Africa's AI ambition hits an expensive reality of compute, power, compliance",
+     "u": "https://businessday.ng/technology/article/africas-ai-ambition-hits-an-expensive-reality-of-compute-power-compliance/",
+     "s": "BusinessDay",
      "d": "Sep 11",
      "dot": "dot-infra"
     },
@@ -1250,6 +1320,13 @@
     {
      "t": "HeRo: History-Aware Routing for Efficient LLM Inference",
      "u": "https://arxiv.org/abs/2609.08189",
+     "s": "arXiv",
+     "d": "Sep 8",
+     "dot": "dot-arxiv"
+    },
+    {
+     "t": "A Measurement Study of LLM Inference Trade-offs Across Edge Continuum Hardware",
+     "u": "https://arxiv.org/abs/2609.08307",
      "s": "arXiv",
      "d": "Sep 8",
      "dot": "dot-arxiv"
