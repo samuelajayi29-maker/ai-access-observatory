@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14",
+ "updated": "2026-09-15",
  "schema": 1,
  "buckets": {
   "jobs": {
@@ -10,6 +10,20 @@
      "u": "https://www.modernghana.com/news/1527324/as-2040-approaches-should-we-still-be-studying.html",
      "s": "Modern Ghana",
      "d": "Sep 13",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "By 2034 a Robot in the US Will Undercut Kenyan Garment Workers. That Is the Clock Africa's Industrial Strategy Is Running Against",
+     "u": "https://iafrica.com/by-2034-a-robot-in-the-us-will-undercut-kenyan-garment-workers-that-is-the-clock-africas-industrial-strategy-is-running-against/",
+     "s": "iAfrica",
+     "d": "Sep 13",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Namibia's NOVA Trains AI Technicians Around a Blunt Statistic: Nine Million African Graduates a Year With Nowhere to Go",
+     "u": "https://iafrica.com/namibias-nova-trains-ai-technicians-around-a-blunt-statistic-nine-million-african-graduates-a-year-with-nowhere-to-go/",
+     "s": "iAfrica",
+     "d": "Sep 12",
      "dot": "dot-jobs"
     },
     {
@@ -50,6 +64,13 @@
     {
      "t": "How AI Is Reshaping Employment and Skills Development Across Africa",
      "u": "https://iafrica.com/how-ai-is-reshaping-employment-and-skills-development-across-africa/",
+     "s": "iAfrica",
+     "d": "Sep 9",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "'Automation Can Inherit a Gender': Letsike Sets Out Three Frontiers of the AI Divide",
+     "u": "https://iafrica.com/automation-can-inherit-a-gender-letsike-sets-out-three-frontiers-of-the-ai-divide/",
      "s": "iAfrica",
      "d": "Sep 9",
      "dot": "dot-jobs"
@@ -501,6 +522,13 @@
      "dot": "dot-access"
     },
     {
+     "t": "BigMoMo: Efficient Inference of Large-Scale MoE with Speculative Decoding on Mobile Devices",
+     "u": "https://arxiv.org/abs/2609.14643",
+     "s": "arXiv",
+     "d": "Sep 13",
+     "dot": "dot-arxiv"
+    },
+    {
      "t": "Value - quality per dollar: AI models ranked (data as of 12 Sept 2026)",
      "u": "https://www.benchleader.com/leaderboards/value",
      "s": "BenchLeader",
@@ -555,6 +583,20 @@
      "s": "DataNorth AI",
      "d": "Sep 10",
      "dot": "dot-access"
+    },
+    {
+     "t": "AI Is Making Smartphones More Expensive",
+     "u": "https://www.techbooky.com/ai-making-smartphones-more-expensive/",
+     "s": "TechBooky",
+     "d": "Sep 10",
+     "dot": "dot-access"
+    },
+    {
+     "t": "GPU economics face pressure as token prices fall, d-Matrix says",
+     "u": "https://technewstube.com/digitimes/1866380/gpu-economics-face-pressure-token-prices-fall-d-matrix/",
+     "s": "DigiTimes",
+     "d": "Sep 10",
+     "dot": "dot-price"
     },
     {
      "t": "Connected, But Not Yet Earning: Africa's Next Digital Divide",
@@ -1206,6 +1248,27 @@
      "dot": "dot-infra"
     },
     {
+     "t": "Cote d'Ivoire To Build Its First State-Owned Data Centre",
+     "u": "https://cioafrica.co/cote-divoire-to-build-its-first-state-owned-data-centre/",
+     "s": "CIO Africa",
+     "d": "Sep 14",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Cassava and Vodafone bring Nvidia-powered AI data centre to Egypt",
+     "u": "https://techpoint.africa/insight/techpoint-digest-1431/",
+     "s": "Techpoint Africa",
+     "d": "Sep 14",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "ETCInfer: An Energy-efficient Thermal-aware Cooling-joint Scheduler for LLM Inference in AI Datacenters",
+     "u": "https://arxiv.org/abs/2609.15230",
+     "s": "arXiv",
+     "d": "Sep 14",
+     "dot": "dot-arxiv"
+    },
+    {
      "t": "Could Africa be the next AI frontier as US and Europe hit limits?",
      "u": "https://www.foxnews.com/world/could-africa-next-ai-frontier-us-europe-hit-limits",
      "s": "Fox News",
@@ -1220,9 +1283,30 @@
      "dot": "dot-infra"
     },
     {
+     "t": "Egypt Begins OECD Work on a National AI Strategy - While Already Running One",
+     "u": "https://iafrica.com/egypt-begins-oecd-work-on-a-national-ai-strategy-while-already-running-one/",
+     "s": "iAfrica",
+     "d": "Sep 13",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Algeria Creates Five Committees to Implement AI Strategy, With Large Language Models Given Its Own",
+     "u": "https://iafrica.com/algeria-creates-five-committees-to-implement-ai-strategy-with-large-language-models-given-its-own/",
+     "s": "iAfrica",
+     "d": "Sep 13",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Vodafone Egypt and Cassava Launch Egypt's First AI Factory as Cairo Courts Multiple Infrastructure Partners",
      "u": "https://iafrica.com/vodafone-egypt-and-cassava-launch-egypts-first-ai-factory-as-cairo-courts-multiple-infrastructure-partners/",
      "s": "iAfrica",
+     "d": "Sep 12",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "NITDA outlines policy framework to unlock data centre investment in Nigeria",
+     "u": "https://www.worldstagenews.com/nitda-outlines-policy-framework-to-unlock-data-centre-investment-in-nigeria/",
+     "s": "WorldStage",
      "d": "Sep 12",
      "dot": "dot-infra"
     },

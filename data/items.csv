@@ -1,11 +1,14 @@
 bucket,date,source,title,url
 jobs,Sep 13,Modern Ghana,"As 2040 Approaches, Should We Still Be Studying for Yesterday's Jobs?",https://www.modernghana.com/news/1527324/as-2040-approaches-should-we-still-be-studying.html
+jobs,Sep 13,iAfrica,By 2034 a Robot in the US Will Undercut Kenyan Garment Workers. That Is the Clock Africa's Industrial Strategy Is Running Against,https://iafrica.com/by-2034-a-robot-in-the-us-will-undercut-kenyan-garment-workers-that-is-the-clock-africas-industrial-strategy-is-running-against/
+jobs,Sep 12,iAfrica,Namibia's NOVA Trains AI Technicians Around a Blunt Statistic: Nine Million African Graduates a Year With Nowhere to Go,https://iafrica.com/namibias-nova-trains-ai-technicians-around-a-blunt-statistic-nine-million-african-graduates-a-year-with-nowhere-to-go/
 jobs,Sep 11,Disrupt Africa,"AI is changing work faster than education can adapt, Africa may offer a different model",https://disruptafrica.com/2026/09/11/ai-is-changing-work-faster-than-education-can-adapt-africa-may-offer-a-different-model/
 jobs,Sep 11,Leadership,"Nigeria Must Convert AI Investments Into Jobs, Local Technologies - Experts",https://leadership.ng/nigeria-must-convert-ai-investments-into-jobs-local-technologies-experts/
 jobs,Sep 10,The Africa Report,Data capture: How US tech giants are building the AI future without Africa,https://www.theafricareport.com/430326/data-capture-how-us-tech-giants-are-building-the-ai-future-without-africa/
 jobs,Sep 10,IOL,"South Africa's AI Paradox: Best Prepared, Most Exposed",https://iol.co.za/news/brics/2026-09-10-south-africas-ai-paradox-best-prepared-most-exposed/
 jobs,Sep 9,TechAfrica News,Egypt Targets $8bn Outsourcing Exports as Digital Services Push Accelerates,https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/
 jobs,Sep 9,iAfrica,How AI Is Reshaping Employment and Skills Development Across Africa,https://iafrica.com/how-ai-is-reshaping-employment-and-skills-development-across-africa/
+jobs,Sep 9,iAfrica,'Automation Can Inherit a Gender': Letsike Sets Out Three Frontiers of the AI Divide,https://iafrica.com/automation-can-inherit-a-gender-letsike-sets-out-three-frontiers-of-the-ai-divide/
 jobs,Sep 8,allAfrica,Kenya: Remote Work 2.0 - Can Kenya Become Africa's Digital Services Hub?,https://allafrica.com/stories/202609080096.html
 jobs,Sep 7,TechRound,"Inside Nairobi's AI Shock: What Happens After AI Wipes Out A 40,000-Worker Economy?",https://techround.co.uk/artificial-intelligence/inside-nairobis-ai-shock-what-happens-after-ai-wipes-out-a-40000-worker-economy/
 jobs,Sep 7,Chosun Daily,"Generative AI Displaces Outsourcing Workers, Reshaping Industry",https://www.chosun.com/english/industry-en/2026/09/07/D6YS5J6V3FELVDTYW2AFHREAFI/
@@ -69,6 +72,7 @@ jobs,Mar 31,WeeTracker,South Africa's gig economy becomes a bargain with AI skil
 jobs,Dec 25,"Deric Cheng, AI Frontiers",AI Could Undermine Emerging Economies,https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies
 access,Sep 14,AI Pricing Guru,"Anthropic Claude API pricing 2026: Fable, Opus, Sonnet cache-read rates",https://www.aipricing.guru/anthropic-pricing/
 access,Sep 13,TechReviewAfrica,"AI Skills and Compute Africa, AIMS partner to expand AI research and compute access",https://techreviewafrica.com/news/7195/ai-skills-and-compute-africa-aims-partner-to-expand-ai-research-and-compute-access
+access,Sep 13,arXiv,BigMoMo: Efficient Inference of Large-Scale MoE with Speculative Decoding on Mobile Devices,https://arxiv.org/abs/2609.14643
 access,Sep 12,BenchLeader,Value - quality per dollar: AI models ranked (data as of 12 Sept 2026),https://www.benchleader.com/leaderboards/value
 access,Sep 11,FinOps Weekly,AI Provider Cost Updates 2026-09-11,https://finopsweekly.com/news/ai-economics-provider-updates-2026-09-11/
 access,Sep 11,AI Pricing Guru,AI Token Prices 2026: AI Model Pricing Compared,https://www.aipricing.guru/pricing/
@@ -77,6 +81,8 @@ access,Sep 11,CNBC,The days of the sub-$100 smartphone may be numbered as AI mem
 access,Sep 10,DeepSeek,"Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient",https://www.deepseek.com/en/news/deepseek-v4-1-flash/
 access,Sep 10,Intelligent Living,"DeepSeek V4.1 Flash Released: Benchmarks, Pricing, and Pro Retirement",https://www.intelligentliving.co/deepseek-v41-flash-pricing-release/
 access,Sep 10,DataNorth AI,DeepSeek-V4.1-Flash: MIT open weights at $0.15 per million,https://datanorth.ai/news/deepseek-releases-deepseek-v4-1-flash
+access,Sep 10,TechBooky,AI Is Making Smartphones More Expensive,https://www.techbooky.com/ai-making-smartphones-more-expensive/
+access,Sep 10,DigiTimes,"GPU economics face pressure as token prices fall, d-Matrix says",https://technewstube.com/digitimes/1866380/gpu-economics-face-pressure-token-prices-fall-d-matrix/
 access,Sep 9,africa.com,"Connected, But Not Yet Earning: Africa's Next Digital Divide",https://www.africa.com/business/connected-but-not-yet-earning-africas-next-digital-divide
 access,Sep 7,AICostBudget,OpenAI API Pricing September 2026: Latest API Costs,https://aicostbudget.com/en/blog/openai-api-pricing-change-2026
 access,Sep 3,LLM Stats,"GPT-6 Astra: Released Flagship, API Pricing and Benchmarks",https://llm-stats.com/blog/research/gpt-6-astra-launch
@@ -169,9 +175,15 @@ access,May 26,"David Oks, Substack",AI Is Killing the Cheap Smartphone,https://d
 access,Apr 15,Japan Times / AFP,AI-driven chip shortage slowing efforts to get world online: GSMA,https://www.thejapantimes.jp/Technology/658420-ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma.html
 access,Feb 26,Techpoint Africa,AI Chip Demand — Smartphone Prices in Nigeria,https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/
 infra,Sep 14,TechAfrica News,Submer and Edgecore partner on AI-ready data centre infrastructure across META,https://techafricanews.com/2026/09/14/submer-and-edgecore-partner-on-ai-ready-data-centre-infrastructure-across-meta/
+infra,Sep 14,CIO Africa,Cote d'Ivoire To Build Its First State-Owned Data Centre,https://cioafrica.co/cote-divoire-to-build-its-first-state-owned-data-centre/
+infra,Sep 14,Techpoint Africa,Cassava and Vodafone bring Nvidia-powered AI data centre to Egypt,https://techpoint.africa/insight/techpoint-digest-1431/
+infra,Sep 14,arXiv,ETCInfer: An Energy-efficient Thermal-aware Cooling-joint Scheduler for LLM Inference in AI Datacenters,https://arxiv.org/abs/2609.15230
 infra,Sep 13,Fox News,Could Africa be the next AI frontier as US and Europe hit limits?,https://www.foxnews.com/world/could-africa-next-ai-frontier-us-europe-hit-limits
 infra,Sep 13,Nairametrics,"Tinubu turns to BRICS for AI, digital infrastructure and critical minerals investment",https://nairametrics.com/2026/09/13/tinubu-turns-to-brics-for-ai-digital-infrastructure-and-critical-minerals-investment/
+infra,Sep 13,iAfrica,Egypt Begins OECD Work on a National AI Strategy - While Already Running One,https://iafrica.com/egypt-begins-oecd-work-on-a-national-ai-strategy-while-already-running-one/
+infra,Sep 13,iAfrica,"Algeria Creates Five Committees to Implement AI Strategy, With Large Language Models Given Its Own",https://iafrica.com/algeria-creates-five-committees-to-implement-ai-strategy-with-large-language-models-given-its-own/
 infra,Sep 12,iAfrica,Vodafone Egypt and Cassava Launch Egypt's First AI Factory as Cairo Courts Multiple Infrastructure Partners,https://iafrica.com/vodafone-egypt-and-cassava-launch-egypts-first-ai-factory-as-cairo-courts-multiple-infrastructure-partners/
+infra,Sep 12,WorldStage,NITDA outlines policy framework to unlock data centre investment in Nigeria,https://www.worldstagenews.com/nitda-outlines-policy-framework-to-unlock-data-centre-investment-in-nigeria/
 infra,Sep 11,TechCabal,UduTech adds Baro AI to expand Africa's GPU supply,https://techcabal.com/2026/09/11/udutech-adds-baro-ai-to-expand-gpu-supply/
 infra,Sep 11,Nairametrics,Digital Parks Africa enters Nigeria's data centre race with Lagos facility,https://nairametrics.com/2026/09/11/digital-parks-africa-enters-nigerias-data-centre-race-with-lagos-facility/
 infra,Sep 11,TechReviewAfrica,"Kenya, UNDP move to operationalise sovereign AI infrastructure at Konza Data Centre",https://techreviewafrica.com/news/7149/kenya-undp-move-to-operationalise-sovereign-ai-infrastructure-at-konza-data-centre
