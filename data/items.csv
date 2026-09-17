@@ -1,4 +1,8 @@
 bucket,date,source,title,url
+jobs,Sep 16,TechAfrica News,Egypt Partners With Intel to Train 1 Million Citizens in AI Annually,https://techafricanews.com/2026/09/16/egypt-intel-train-one-million-citizens-ai-annually/
+jobs,Sep 16,Outsource Accelerator,Execution-only BPOs face an AI squeeze: Asiatel CEO,https://news.outsourceaccelerator.com/execution-bpo-ai-squeeze/
+jobs,Sep 16,Outsource Accelerator,CX workforce budgets take a hit as AI spend rises,https://news.outsourceaccelerator.com/cx-budgets-ai-spending/
+jobs,Sep 16,Africanews,South Africans voice growing concerns over AI's rapid rise,https://www.africanews.com/2026/09/16/south-africans-voice-growing-concerns-over-ais-rapid-rise/
 jobs,Sep 13,Modern Ghana,"As 2040 Approaches, Should We Still Be Studying for Yesterday's Jobs?",https://www.modernghana.com/news/1527324/as-2040-approaches-should-we-still-be-studying.html
 jobs,Sep 13,iAfrica,By 2034 a Robot in the US Will Undercut Kenyan Garment Workers. That Is the Clock Africa's Industrial Strategy Is Running Against,https://iafrica.com/by-2034-a-robot-in-the-us-will-undercut-kenyan-garment-workers-that-is-the-clock-africas-industrial-strategy-is-running-against/
 jobs,Sep 12,iAfrica,Namibia's NOVA Trains AI Technicians Around a Blunt Statistic: Nine Million African Graduates a Year With Nowhere to Go,https://iafrica.com/namibias-nova-trains-ai-technicians-around-a-blunt-statistic-nine-million-african-graduates-a-year-with-nowhere-to-go/
@@ -70,6 +74,9 @@ jobs,May 16,UN Economic Commission for Africa,AI and jobs in Africa: turning dis
 jobs,Apr 25,Mastercard Foundation,40% of Tasks in Africa's Tech Outsourcing May Be Affected by AI by 2030,https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/
 jobs,Mar 31,WeeTracker,South Africa's gig economy becomes a bargain with AI skills shortage looming,https://weetracker.com/2026/03/31/south-africa-freelance-economy-ai-talent-gap-2026/
 jobs,Dec 25,"Deric Cheng, AI Frontiers",AI Could Undermine Emerging Economies,https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies
+access,Sep 16,Nairametrics,GSMA warns rising smartphone costs could deepen Nigeria's mobile internet gap,https://nairametrics.com/2026/09/16/gsma-warns-rising-smartphone-costs-could-deepen-nigerias-mobile-internet-gap/
+access,Sep 16,ITPulse,"Mobile internet connects 4.8 billion globally, but 3.4 billion remain offline",https://itpulse.com.ng/mobile-internet-connects-4-8-billion-globally-but-3-4-billion-remain-offline-report/
+access,Sep 16,TechCabal,Amodei wants to slow the AI frontier. Africa is still trying to reach it,https://techcabal.com/2026/09/16/amodei-wants-to-slow-the-ai-frontier-africa-is-still-trying-to-reach-it/
 access,Sep 14,AI Pricing Guru,"Anthropic Claude API pricing 2026: Fable, Opus, Sonnet cache-read rates",https://www.aipricing.guru/anthropic-pricing/
 access,Sep 13,TechReviewAfrica,"AI Skills and Compute Africa, AIMS partner to expand AI research and compute access",https://techreviewafrica.com/news/7195/ai-skills-and-compute-africa-aims-partner-to-expand-ai-research-and-compute-access
 access,Sep 13,arXiv,BigMoMo: Efficient Inference of Large-Scale MoE with Speculative Decoding on Mobile Devices,https://arxiv.org/abs/2609.14643
@@ -174,6 +181,11 @@ access,May 27,Trustonic,"Deconstructing Africa's smartphone market: shipments, p
 access,May 26,"David Oks, Substack",AI Is Killing the Cheap Smartphone,https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone
 access,Apr 15,Japan Times / AFP,AI-driven chip shortage slowing efforts to get world online: GSMA,https://www.thejapantimes.jp/Technology/658420-ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma.html
 access,Feb 26,Techpoint Africa,AI Chip Demand — Smartphone Prices in Nigeria,https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/
+infra,Sep 16,ITPulse,Terrahex targets Nigeria's compute gap with modular power-driven infrastructure,https://itpulse.com.ng/terrahex-targets-nigerias-compute-gap-with-modular-power-driven-infrastructure/
+infra,Sep 16,TechAfrica News,Senegal Secures $300m Cybastion Commitment for Digitalisation Projects,https://techafricanews.com/2026/09/16/senegal-300m-cybastion-digitalisation-projects/
+infra,Sep 16,TechAfrica News,Kenya ICTA Opens Tender to Expand National Fibre and Cross-Border Connectivity,https://techafricanews.com/2026/09/16/kenya-icta-tender-national-fibre-cross-border-connectivity/
+infra,Sep 16,CNBC Africa,Africa needs better data to unlock AI's promise,https://www.cnbcafrica.com/2026/africa-needs-better-data-to-unlock-ais-promise
+infra,Sep 15,iAfrica,Ramaphosa Proposes BRICS Mechanism for Independent Scientific Evaluation of AI,https://iafrica.com/ramaphosa-proposes-brics-mechanism-for-independent-scientific-evaluation-of-ai-citing-anthropic/
 infra,Sep 14,TechAfrica News,Submer and Edgecore partner on AI-ready data centre infrastructure across META,https://techafricanews.com/2026/09/14/submer-and-edgecore-partner-on-ai-ready-data-centre-infrastructure-across-meta/
 infra,Sep 14,CIO Africa,Cote d'Ivoire To Build Its First State-Owned Data Centre,https://cioafrica.co/cote-divoire-to-build-its-first-state-owned-data-centre/
 infra,Sep 14,Techpoint Africa,Cassava and Vodafone bring Nvidia-powered AI data centre to Egypt,https://techpoint.africa/insight/techpoint-digest-1431/

@@ -1,10 +1,38 @@
 {
- "updated": "2026-09-15",
+ "updated": "2026-09-17",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "Egypt Partners With Intel to Train 1 Million Citizens in AI Annually",
+     "u": "https://techafricanews.com/2026/09/16/egypt-intel-train-one-million-citizens-ai-annually/",
+     "s": "TechAfrica News",
+     "d": "Sep 16",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Execution-only BPOs face an AI squeeze: Asiatel CEO",
+     "u": "https://news.outsourceaccelerator.com/execution-bpo-ai-squeeze/",
+     "s": "Outsource Accelerator",
+     "d": "Sep 16",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "CX workforce budgets take a hit as AI spend rises",
+     "u": "https://news.outsourceaccelerator.com/cx-budgets-ai-spending/",
+     "s": "Outsource Accelerator",
+     "d": "Sep 16",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "South Africans voice growing concerns over AI's rapid rise",
+     "u": "https://www.africanews.com/2026/09/16/south-africans-voice-growing-concerns-over-ais-rapid-rise/",
+     "s": "Africanews",
+     "d": "Sep 16",
+     "dot": "dot-jobs"
+    },
     {
      "t": "As 2040 Approaches, Should We Still Be Studying for Yesterday's Jobs?",
      "u": "https://www.modernghana.com/news/1527324/as-2040-approaches-should-we-still-be-studying.html",
@@ -507,6 +535,27 @@
   "access": {
    "label": "Access & Pricing",
    "items": [
+    {
+     "t": "GSMA warns rising smartphone costs could deepen Nigeria's mobile internet gap",
+     "u": "https://nairametrics.com/2026/09/16/gsma-warns-rising-smartphone-costs-could-deepen-nigerias-mobile-internet-gap/",
+     "s": "Nairametrics",
+     "d": "Sep 16",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Mobile internet connects 4.8 billion globally, but 3.4 billion remain offline",
+     "u": "https://itpulse.com.ng/mobile-internet-connects-4-8-billion-globally-but-3-4-billion-remain-offline-report/",
+     "s": "ITPulse",
+     "d": "Sep 16",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Amodei wants to slow the AI frontier. Africa is still trying to reach it",
+     "u": "https://techcabal.com/2026/09/16/amodei-wants-to-slow-the-ai-frontier-africa-is-still-trying-to-reach-it/",
+     "s": "TechCabal",
+     "d": "Sep 16",
+     "dot": "dot-access"
+    },
     {
      "t": "Anthropic Claude API pricing 2026: Fable, Opus, Sonnet cache-read rates",
      "u": "https://www.aipricing.guru/anthropic-pricing/",
@@ -1240,6 +1289,41 @@
   "infra": {
    "label": "Infrastructure",
    "items": [
+    {
+     "t": "Terrahex targets Nigeria's compute gap with modular power-driven infrastructure",
+     "u": "https://itpulse.com.ng/terrahex-targets-nigerias-compute-gap-with-modular-power-driven-infrastructure/",
+     "s": "ITPulse",
+     "d": "Sep 16",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Senegal Secures $300m Cybastion Commitment for Digitalisation Projects",
+     "u": "https://techafricanews.com/2026/09/16/senegal-300m-cybastion-digitalisation-projects/",
+     "s": "TechAfrica News",
+     "d": "Sep 16",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Kenya ICTA Opens Tender to Expand National Fibre and Cross-Border Connectivity",
+     "u": "https://techafricanews.com/2026/09/16/kenya-icta-tender-national-fibre-cross-border-connectivity/",
+     "s": "TechAfrica News",
+     "d": "Sep 16",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Africa needs better data to unlock AI's promise",
+     "u": "https://www.cnbcafrica.com/2026/africa-needs-better-data-to-unlock-ais-promise",
+     "s": "CNBC Africa",
+     "d": "Sep 16",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Ramaphosa Proposes BRICS Mechanism for Independent Scientific Evaluation of AI",
+     "u": "https://iafrica.com/ramaphosa-proposes-brics-mechanism-for-independent-scientific-evaluation-of-ai-citing-anthropic/",
+     "s": "iAfrica",
+     "d": "Sep 15",
+     "dot": "dot-infra"
+    },
     {
      "t": "Submer and Edgecore partner on AI-ready data centre infrastructure across META",
      "u": "https://techafricanews.com/2026/09/14/submer-and-edgecore-partner-on-ai-ready-data-centre-infrastructure-across-meta/",
