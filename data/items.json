@@ -1,10 +1,24 @@
 {
- "updated": "2026-09-17",
+ "updated": "2026-09-18",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "Kenya Plans to Expand BPO and GBS Opportunities Beyond Nairobi",
+     "u": "https://techafricanews.com/2026/09/18/kenya-plans-expand-bpo-gbs-opportunities-beyond-nairobi/",
+     "s": "TechAfrica News",
+     "d": "Sep 18",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Nigeria to Train 32,000 Citizens in AI and Cybersecurity via New Academy",
+     "u": "https://www.ecofinagency.com/news-services/1709-58988-nigeria-to-train-32-000-citizens-in-ai-and-cybersecurity-via-new-academy",
+     "s": "Ecofin Agency",
+     "d": "Sep 17",
+     "dot": "dot-jobs"
+    },
     {
      "t": "Egypt Partners With Intel to Train 1 Million Citizens in AI Annually",
      "u": "https://techafricanews.com/2026/09/16/egypt-intel-train-one-million-citizens-ai-annually/",
@@ -32,6 +46,13 @@
      "s": "Africanews",
      "d": "Sep 16",
      "dot": "dot-jobs"
+    },
+    {
+     "t": "Prepared Or Unprepared? Evaluating Healthcare Workforce Readiness for Clinical Adoption of Artificial Intelligence in Nigeria",
+     "u": "https://arxiv.org/abs/2609.19096",
+     "s": "arXiv",
+     "d": "Sep 16",
+     "dot": "dot-arxiv"
     },
     {
      "t": "As 2040 Approaches, Should We Still Be Studying for Yesterday's Jobs?",
@@ -536,6 +557,13 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "New GSMA Report Maps Rwanda's Path to Wider Digital Inclusion and Over 1 Million More Mobile Internet Users by 2031",
+     "u": "https://techafricanews.com/2026/09/17/gsma-rwanda-reforms-connect-1-07-million-more-mobile-internet-users-2031/",
+     "s": "TechAfrica News",
+     "d": "Sep 17",
+     "dot": "dot-access"
+    },
+    {
      "t": "GSMA warns rising smartphone costs could deepen Nigeria's mobile internet gap",
      "u": "https://nairametrics.com/2026/09/16/gsma-warns-rising-smartphone-costs-could-deepen-nigerias-mobile-internet-gap/",
      "s": "Nairametrics",
@@ -554,6 +582,34 @@
      "u": "https://techcabal.com/2026/09/16/amodei-wants-to-slow-the-ai-frontier-africa-is-still-trying-to-reach-it/",
      "s": "TechCabal",
      "d": "Sep 16",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Entry-level smartphone costs hit 76% of monthly income in Sub-Saharan Africa",
+     "u": "https://businessday.ng/technology/article/entry-level-smartphone-costs-hit-76-of-monthly-income-in-sub-saharan-africa/",
+     "s": "Businessday NG",
+     "d": "Sep 16",
+     "dot": "dot-access"
+    },
+    {
+     "t": "AI boom threatens smartphone affordability",
+     "u": "https://www.itweb.co.za/article/ai-boom-threatens-smartphone-affordability/j5alrvQAoB9vpYQk",
+     "s": "ITWeb",
+     "d": "Sep 16",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Apple reportedly accepts Samsung's 1Q27 memory hike, raising the 2027 smartphone cost floor",
+     "u": "https://www.digitimes.com/news/a20260916VL210/apple-samsung-2027-smartphone-cost.html",
+     "s": "DigiTimes",
+     "d": "Sep 16",
+     "dot": "dot-price"
+    },
+    {
+     "t": "GSMA warns of emerging global AI divide as three billion people remain offline and smartphone component costs soar",
+     "u": "https://www.gsma.com/newsroom/press-release/gsma-warns-of-emerging-global-ai-divide-as-three-billion-people-remain-offline-and-smartphone-component-costs-soar/",
+     "s": "GSMA",
+     "d": "Sep 15",
      "dot": "dot-access"
     },
     {
@@ -1290,6 +1346,27 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "VEA Capital Partners Invests in South African AI Firm Bonisa AI",
+     "u": "https://techafricanews.com/2026/09/18/vea-capital-partners-invests-south-african-ai-firm-bonisa-ai/",
+     "s": "TechAfrica News",
+     "d": "Sep 18",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Huawei Unveils New AI Computing Technologies as Middle East Demand Grows",
+     "u": "https://techafricanews.com/2026/09/18/huawei-unveils-new-ai-computing-technologies-as-middle-east-demand-grows/",
+     "s": "TechAfrica News",
+     "d": "Sep 18",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Inside Nigeria's Plan to Build a Regional Cloud Economy from Investment to Sovereignty",
+     "u": "https://techafricanews.com/2026/09/17/nigeria-national-digital-cloud-policy-750-million/",
+     "s": "TechAfrica News",
+     "d": "Sep 17",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Terrahex targets Nigeria's compute gap with modular power-driven infrastructure",
      "u": "https://itpulse.com.ng/terrahex-targets-nigerias-compute-gap-with-modular-power-driven-infrastructure/",
      "s": "ITPulse",
@@ -1318,9 +1395,23 @@
      "dot": "dot-infra"
     },
     {
+     "t": "Africa's Data-Centre Expansion Accelerates as New Investment Targets AI and Digital Infrastructure",
+     "u": "https://www.techmanly.com/africas-data-centre-expansion-accelerates-as-new-investment-targets-ai-and-digital-infrastructure/",
+     "s": "Techmanly",
+     "d": "Sep 16",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Ramaphosa Proposes BRICS Mechanism for Independent Scientific Evaluation of AI",
      "u": "https://iafrica.com/ramaphosa-proposes-brics-mechanism-for-independent-scientific-evaluation-of-ai-citing-anthropic/",
      "s": "iAfrica",
+     "d": "Sep 15",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Housing Assembly raises concerns over Cape Town data centres' water, power usage",
+     "u": "https://www.ewn.co.za/2026/09/15/housing-assembly-raises-concerns-over-cape-town-data-centres-water-power-usage",
+     "s": "EWN",
      "d": "Sep 15",
      "dot": "dot-infra"
     },
@@ -1426,6 +1517,13 @@
      "t": "Africa's AI ambition hits an expensive reality of compute, power, compliance",
      "u": "https://businessday.ng/technology/article/africas-ai-ambition-hits-an-expensive-reality-of-compute-power-compliance/",
      "s": "BusinessDay",
+     "d": "Sep 11",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Africa's Billion Dollar AI Data Centre Rush Is Real. Its Power and Water Aren't.",
+     "u": "https://iafrikan.com/africas-billion-dollar-ai-data-centre-rush-is-real-its-power-and-water-arent/",
+     "s": "iAfrikan",
      "d": "Sep 11",
      "dot": "dot-infra"
     },
