@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18",
+ "updated": "2026-09-20",
  "schema": 1,
  "buckets": {
   "jobs": {
@@ -13,9 +13,37 @@
      "dot": "dot-jobs"
     },
     {
+     "t": "AI in Creative Industries: Artist Ally, Enemy or Somewhere In-Between?",
+     "u": "https://iafrica.com/ai-in-creative-industries-artist-ally-enemy-or-somewhere-in-between/",
+     "s": "iAfrica",
+     "d": "Sep 18",
+     "dot": "dot-jobs"
+    },
+    {
      "t": "Nigeria to Train 32,000 Citizens in AI and Cybersecurity via New Academy",
      "u": "https://www.ecofinagency.com/news-services/1709-58988-nigeria-to-train-32-000-citizens-in-ai-and-cybersecurity-via-new-academy",
      "s": "Ecofin Agency",
+     "d": "Sep 17",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "InteLogix Opens New Contact Centre in New Cairo, Egypt",
+     "u": "https://techafricanews.com/2026/09/17/intelogix-opens-new-contact-centre-new-cairo-egypt/",
+     "s": "TechAfrica News",
+     "d": "Sep 17",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Korea, African Development Bank sign deal to launch joint AI Hub to support Africa",
+     "u": "https://www.afdb.org/en/news-and-events/press-releases/korea-african-development-bank-sign-deal-launch-joint-ai-hub-support-africa-96857",
+     "s": "African Development Bank",
+     "d": "Sep 17",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Globally, More People Expect AI to Cause Job Loss Than Growth",
+     "u": "https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/",
+     "s": "Pew Research Center",
      "d": "Sep 17",
      "dot": "dot-jobs"
     },
@@ -556,6 +584,20 @@
   "access": {
    "label": "Access & Pricing",
    "items": [
+    {
+     "t": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",
+     "u": "https://www.aipricing.guru/",
+     "s": "AI Pricing Guru",
+     "d": "Sep 20",
+     "dot": "dot-price"
+    },
+    {
+     "t": "AMD Reportedly Plans 10% Price Hike for GPUs, AI Chips, Chipsets in 4Q26 as TSMC Costs Rise",
+     "u": "https://www.trendforce.com/news/2026/09/18/news-amd-reportedly-plans-10-price-hike-for-gpus-ai-chips-chipsets-in-4q26-as-tsmc-costs-rise/",
+     "s": "TrendForce",
+     "d": "Sep 18",
+     "dot": "dot-price"
+    },
     {
      "t": "New GSMA Report Maps Rwanda's Path to Wider Digital Inclusion and Over 1 Million More Mobile Internet Users by 2031",
      "u": "https://techafricanews.com/2026/09/17/gsma-rwanda-reforms-connect-1-07-million-more-mobile-internet-users-2031/",
@@ -1346,6 +1388,48 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "Cassava Technologies CEO calls for African ownership of AI compute infrastructure",
+     "u": "https://techreviewafrica.com/news/7356/cassava-technologies-ceo-calls-for-african-ownership-of-ai-compute-infrastructure",
+     "s": "TechReview Africa",
+     "d": "Sep 20",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Cape Town Groups File Legal Challenge Against Equinix Data Centres, Demand National Moratorium",
+     "u": "https://iafrica.com/cape-town-groups-file-legal-challenge-against-equinix-data-centres-demand-national-moratorium/",
+     "s": "iAfrica",
+     "d": "Sep 19",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Egypt's Synapse Analytics Raises $13m Series A Led by Partech",
+     "u": "https://iafrica.com/egypts-synapse-analytics-raises-13m-series-a-led-by-partech/",
+     "s": "iAfrica",
+     "d": "Sep 19",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "South Africa's data centre boom gets push from government",
+     "u": "https://mybroadband.co.za/news/cloud-hosting/666504-south-africas-data-centre-boom-gets-push-from-government.html",
+     "s": "MyBroadband",
+     "d": "Sep 19",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "'Africa needs data centre surge' to keep up with the digital economy",
+     "u": "https://www.businessday.co.za/business-times/2026-09-19-africa-needs-data-centre-surge-to-keep-up-with-the-digital-economy/",
+     "s": "Business Day",
+     "d": "Sep 19",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Mozambique Drafts AI Rules for Schools and Universities, Due at Cabinet Before Year End",
+     "u": "https://iafrica.com/mozambique-drafts-ai-rules-for-schools-and-universities-due-at-cabinet-before-year-end/",
+     "s": "iAfrica",
+     "d": "Sep 19",
+     "dot": "dot-infra"
+    },
+    {
      "t": "VEA Capital Partners Invests in South African AI Firm Bonisa AI",
      "u": "https://techafricanews.com/2026/09/18/vea-capital-partners-invests-south-african-ai-firm-bonisa-ai/",
      "s": "TechAfrica News",
@@ -1360,9 +1444,30 @@
      "dot": "dot-infra"
     },
     {
+     "t": "Stears: West Africa's data centre gap is bigger than most portfolios reflect",
+     "u": "https://www.cnbcafrica.com/media/7789743486778/stears-west-africas-data-centre-gap-is-bigger-than-most-portfolios-reflect",
+     "s": "CNBC Africa",
+     "d": "Sep 18",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Inside Nigeria's Plan to Build a Regional Cloud Economy from Investment to Sovereignty",
      "u": "https://techafricanews.com/2026/09/17/nigeria-national-digital-cloud-policy-750-million/",
      "s": "TechAfrica News",
+     "d": "Sep 17",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "South Africa sees offshore wind powering AI data centres",
+     "u": "https://techcentral.co.za/offshore-wind-framework-ai-data-centres-south-africa/286229/",
+     "s": "TechCentral",
+     "d": "Sep 17",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "South Africa's Datacentre And AI Boom Needs To Be Treated Like Critical Infrastructure",
+     "u": "https://techfinancials.co.za/2026/09/17/south-africas-datacentre-and-ai-boom-needs-to-be-treated-like-critical-infrastructure/",
+     "s": "TechFinancials",
      "d": "Sep 17",
      "dot": "dot-infra"
     },
