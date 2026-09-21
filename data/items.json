@@ -1,10 +1,38 @@
 {
- "updated": "2026-09-20",
+ "updated": "2026-09-21",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "Only four countries lead global AI adoption by 20%, muting hiring in tech and services: Goldman Sachs",
+     "u": "https://timesofoman.com/article/177144-only-four-countries-lead-global-ai-adoption-by-20-muting-hiring-in-tech-and-services-goldman-sachs",
+     "s": "Times of Oman",
+     "d": "Sep 20",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Fear of AI job loss outweighs AI job creation excitement, study finds",
+     "u": "https://www.euronews.com/next/2026/09/19/fear-of-ai-job-losses-now-outweighs-hope-of-new-jobs-study-finds",
+     "s": "Euronews",
+     "d": "Sep 19",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Kenya's next export boom may be online as WTO predicts AI could reshape global trade",
+     "u": "https://peopledaily.digital/business/kenyas-next-export-boom-may-be-online-as-wto-predicts-ai-could-reshape-global-trade",
+     "s": "People Daily",
+     "d": "Sep 19",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Arthur Goldstuck: African banks teach Amazon Web Services about AI",
+     "u": "https://www.businessday.co.za/business-times/opinion/2026-09-19-arthur-goldstuck-african-banks-teach-aws-about-ai/",
+     "s": "Business Day",
+     "d": "Sep 19",
+     "dot": "dot-jobs"
+    },
     {
      "t": "Kenya Plans to Expand BPO and GBS Opportunities Beyond Nairobi",
      "u": "https://techafricanews.com/2026/09/18/kenya-plans-expand-bpo-gbs-opportunities-beyond-nairobi/",
@@ -585,10 +613,45 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "Mozambique INCM Develops Tariff System to Improve Mobile Data Transparency",
+     "u": "https://techafricanews.com/2026/09/21/mozambique-incm-tariff-system-mobile-data-transparency/",
+     "s": "TechAfrica News",
+     "d": "Sep 21",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Record chip sales threaten higher prices for phones, PCs and gaming",
+     "u": "https://cyprus-mail.com/2026/09/21/record-chip-sales-threaten-higher-prices-for-phones-pcs-and-gaming",
+     "s": "Cyprus Mail",
+     "d": "Sep 21",
+     "dot": "dot-price"
+    },
+    {
      "t": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",
      "u": "https://www.aipricing.guru/",
      "s": "AI Pricing Guru",
      "d": "Sep 20",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Sub-Saharan Africa faces digital divide as handset costs and usage gap persist",
+     "u": "https://capitalethiopia.com/2026/09/20/sub-saharan-africa-faces-digital-divide-as-handset-costs-and-usage-gap-persist/",
+     "s": "Capital Ethiopia",
+     "d": "Sep 20",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Kenya urged to enhance AI capacity for financial inclusion and security",
+     "u": "https://techreviewafrica.com/news/7360/kenya-urged-to-enhance-ai-capacity-for-financial-inclusion-and-security",
+     "s": "Tech Review Africa",
+     "d": "Sep 20",
+     "dot": "dot-access"
+    },
+    {
+     "t": "The price of AI is falling; why are enterprises still spending more? Explained",
+     "u": "https://www.thehindu.com/business/the-price-of-ai-is-falling-why-are-enterprises-still-spending-more-explained/article71484317.ece",
+     "s": "The Hindu",
+     "d": "Sep 19",
      "dot": "dot-price"
     },
     {
@@ -1388,9 +1451,51 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "Kenya and Stanford's Hoover Institution Sign Five-Year Deal on AI and Data Governance",
+     "u": "https://techafricanews.com/2026/09/21/kenya-stanford-hoover-institution-ai-data-governance-deal/",
+     "s": "TechAfrica News",
+     "d": "Sep 21",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Resilience, Routing and Data Sovereignty in African Networks",
+     "u": "https://techafricanews.com/2026/09/21/resilience-routing-and-data-sovereignty-in-african-networks/",
+     "s": "TechAfrica News",
+     "d": "Sep 21",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Digital Parks Africa To Build Tier IV Carrier-Neutral Data Centre In Lagos",
+     "u": "https://independent.ng/digital-parks-africa-to-build-tier-iv-carrier-neutral-data-centre-in-lagos/",
+     "s": "Independent Newspaper Nigeria",
+     "d": "Sep 21",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Vertiv, Pinnacle ICT in distribution deal to expand data infrastructure reach in Southern Africa",
+     "u": "https://techtrendske.co.ke/2026/09/21/vertiv-pinnacle-ict-in-distribution-deal-to-expand-data-infrastructure-reach-in-southern-africa/",
+     "s": "TechTrends KE",
+     "d": "Sep 21",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Cassava Technologies CEO calls for African ownership of AI compute infrastructure",
      "u": "https://techreviewafrica.com/news/7356/cassava-technologies-ceo-calls-for-african-ownership-of-ai-compute-infrastructure",
      "s": "TechReview Africa",
+     "d": "Sep 20",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Data centre deal: Cape Town forced back to the drawing board",
+     "u": "https://www.dailymaverick.co.za/article/2026-09-20-data-centre-deal-cape-town-forced-back-to-the-drawing-board/",
+     "s": "Daily Maverick",
+     "d": "Sep 20",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Datatec is riding the global AI infrastructure wave from the JSE",
+     "u": "https://www.dailymaverick.co.za/article/2026-09-20-datatec-is-riding-the-global-ai-infrastructure-wave-from-the-jse/",
+     "s": "Daily Maverick",
      "d": "Sep 20",
      "dot": "dot-infra"
     },

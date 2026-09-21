@@ -1,4 +1,8 @@
 bucket,date,source,title,url
+jobs,Sep 20,Times of Oman,"Only four countries lead global AI adoption by 20%, muting hiring in tech and services: Goldman Sachs",https://timesofoman.com/article/177144-only-four-countries-lead-global-ai-adoption-by-20-muting-hiring-in-tech-and-services-goldman-sachs
+jobs,Sep 19,Euronews,"Fear of AI job loss outweighs AI job creation excitement, study finds",https://www.euronews.com/next/2026/09/19/fear-of-ai-job-losses-now-outweighs-hope-of-new-jobs-study-finds
+jobs,Sep 19,People Daily,Kenya's next export boom may be online as WTO predicts AI could reshape global trade,https://peopledaily.digital/business/kenyas-next-export-boom-may-be-online-as-wto-predicts-ai-could-reshape-global-trade
+jobs,Sep 19,Business Day,Arthur Goldstuck: African banks teach Amazon Web Services about AI,https://www.businessday.co.za/business-times/opinion/2026-09-19-arthur-goldstuck-african-banks-teach-aws-about-ai/
 jobs,Sep 18,TechAfrica News,Kenya Plans to Expand BPO and GBS Opportunities Beyond Nairobi,https://techafricanews.com/2026/09/18/kenya-plans-expand-bpo-gbs-opportunities-beyond-nairobi/
 jobs,Sep 18,iAfrica,"AI in Creative Industries: Artist Ally, Enemy or Somewhere In-Between?",https://iafrica.com/ai-in-creative-industries-artist-ally-enemy-or-somewhere-in-between/
 jobs,Sep 17,Ecofin Agency,"Nigeria to Train 32,000 Citizens in AI and Cybersecurity via New Academy",https://www.ecofinagency.com/news-services/1709-58988-nigeria-to-train-32-000-citizens-in-ai-and-cybersecurity-via-new-academy
@@ -81,7 +85,12 @@ jobs,May 16,UN Economic Commission for Africa,AI and jobs in Africa: turning dis
 jobs,Apr 25,Mastercard Foundation,40% of Tasks in Africa's Tech Outsourcing May Be Affected by AI by 2030,https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/
 jobs,Mar 31,WeeTracker,South Africa's gig economy becomes a bargain with AI skills shortage looming,https://weetracker.com/2026/03/31/south-africa-freelance-economy-ai-talent-gap-2026/
 jobs,Dec 25,"Deric Cheng, AI Frontiers",AI Could Undermine Emerging Economies,https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies
+access,Sep 21,TechAfrica News,Mozambique INCM Develops Tariff System to Improve Mobile Data Transparency,https://techafricanews.com/2026/09/21/mozambique-incm-tariff-system-mobile-data-transparency/
+access,Sep 21,Cyprus Mail,"Record chip sales threaten higher prices for phones, PCs and gaming",https://cyprus-mail.com/2026/09/21/record-chip-sales-threaten-higher-prices-for-phones-pcs-and-gaming
 access,Sep 20,AI Pricing Guru,"AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",https://www.aipricing.guru/
+access,Sep 20,Capital Ethiopia,Sub-Saharan Africa faces digital divide as handset costs and usage gap persist,https://capitalethiopia.com/2026/09/20/sub-saharan-africa-faces-digital-divide-as-handset-costs-and-usage-gap-persist/
+access,Sep 20,Tech Review Africa,Kenya urged to enhance AI capacity for financial inclusion and security,https://techreviewafrica.com/news/7360/kenya-urged-to-enhance-ai-capacity-for-financial-inclusion-and-security
+access,Sep 19,The Hindu,The price of AI is falling; why are enterprises still spending more? Explained,https://www.thehindu.com/business/the-price-of-ai-is-falling-why-are-enterprises-still-spending-more-explained/article71484317.ece
 access,Sep 18,TrendForce,"AMD Reportedly Plans 10% Price Hike for GPUs, AI Chips, Chipsets in 4Q26 as TSMC Costs Rise",https://www.trendforce.com/news/2026/09/18/news-amd-reportedly-plans-10-price-hike-for-gpus-ai-chips-chipsets-in-4q26-as-tsmc-costs-rise/
 access,Sep 17,TechAfrica News,New GSMA Report Maps Rwanda's Path to Wider Digital Inclusion and Over 1 Million More Mobile Internet Users by 2031,https://techafricanews.com/2026/09/17/gsma-rwanda-reforms-connect-1-07-million-more-mobile-internet-users-2031/
 access,Sep 16,Nairametrics,GSMA warns rising smartphone costs could deepen Nigeria's mobile internet gap,https://nairametrics.com/2026/09/16/gsma-warns-rising-smartphone-costs-could-deepen-nigerias-mobile-internet-gap/
@@ -195,7 +204,13 @@ access,May 27,Trustonic,"Deconstructing Africa's smartphone market: shipments, p
 access,May 26,"David Oks, Substack",AI Is Killing the Cheap Smartphone,https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone
 access,Apr 15,Japan Times / AFP,AI-driven chip shortage slowing efforts to get world online: GSMA,https://www.thejapantimes.jp/Technology/658420-ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma.html
 access,Feb 26,Techpoint Africa,AI Chip Demand — Smartphone Prices in Nigeria,https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/
+infra,Sep 21,TechAfrica News,Kenya and Stanford's Hoover Institution Sign Five-Year Deal on AI and Data Governance,https://techafricanews.com/2026/09/21/kenya-stanford-hoover-institution-ai-data-governance-deal/
+infra,Sep 21,TechAfrica News,"Resilience, Routing and Data Sovereignty in African Networks",https://techafricanews.com/2026/09/21/resilience-routing-and-data-sovereignty-in-african-networks/
+infra,Sep 21,Independent Newspaper Nigeria,Digital Parks Africa To Build Tier IV Carrier-Neutral Data Centre In Lagos,https://independent.ng/digital-parks-africa-to-build-tier-iv-carrier-neutral-data-centre-in-lagos/
+infra,Sep 21,TechTrends KE,"Vertiv, Pinnacle ICT in distribution deal to expand data infrastructure reach in Southern Africa",https://techtrendske.co.ke/2026/09/21/vertiv-pinnacle-ict-in-distribution-deal-to-expand-data-infrastructure-reach-in-southern-africa/
 infra,Sep 20,TechReview Africa,Cassava Technologies CEO calls for African ownership of AI compute infrastructure,https://techreviewafrica.com/news/7356/cassava-technologies-ceo-calls-for-african-ownership-of-ai-compute-infrastructure
+infra,Sep 20,Daily Maverick,Data centre deal: Cape Town forced back to the drawing board,https://www.dailymaverick.co.za/article/2026-09-20-data-centre-deal-cape-town-forced-back-to-the-drawing-board/
+infra,Sep 20,Daily Maverick,Datatec is riding the global AI infrastructure wave from the JSE,https://www.dailymaverick.co.za/article/2026-09-20-datatec-is-riding-the-global-ai-infrastructure-wave-from-the-jse/
 infra,Sep 19,iAfrica,"Cape Town Groups File Legal Challenge Against Equinix Data Centres, Demand National Moratorium",https://iafrica.com/cape-town-groups-file-legal-challenge-against-equinix-data-centres-demand-national-moratorium/
 infra,Sep 19,iAfrica,Egypt's Synapse Analytics Raises $13m Series A Led by Partech,https://iafrica.com/egypts-synapse-analytics-raises-13m-series-a-led-by-partech/
 infra,Sep 19,MyBroadband,South Africa's data centre boom gets push from government,https://mybroadband.co.za/news/cloud-hosting/666504-south-africas-data-centre-boom-gets-push-from-government.html
