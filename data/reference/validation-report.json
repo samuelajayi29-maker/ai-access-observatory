@@ -1,0 +1,123 @@
+{
+ "release": "v2026.10",
+ "schema_version": "2026.10.1",
+ "validated_at": "2026-09-21",
+ "counts": {
+  "rows_checked": 692,
+  "rows_passing": 363,
+  "rows_quarantined": 329,
+  "rows_missing_archive": 11,
+  "rows_with_bad_url": 8,
+  "rows_missing_status": 0,
+  "fx_rows_checked": 130
+ },
+ "per_register": {
+  "model-prices": {
+   "rows": 13,
+   "passing": 3,
+   "quarantined": 10,
+   "missing_archive": 1,
+   "bad_url": 0
+  },
+  "model-price-events": {
+   "rows": 5,
+   "passing": 2,
+   "quarantined": 3,
+   "missing_archive": 1,
+   "bad_url": 0
+  },
+  "infrastructure": {
+   "rows": 22,
+   "passing": 0,
+   "quarantined": 22,
+   "missing_archive": 7,
+   "bad_url": 2
+  },
+  "device-prices": {
+   "rows": 6,
+   "passing": 0,
+   "quarantined": 6,
+   "missing_archive": 0,
+   "bad_url": 4
+  },
+  "device-shipments": {
+   "rows": 5,
+   "passing": 0,
+   "quarantined": 5,
+   "missing_archive": 1,
+   "bad_url": 2
+  },
+  "device-policy": {
+   "rows": 1,
+   "passing": 0,
+   "quarantined": 1,
+   "missing_archive": 1,
+   "bad_url": 0
+  },
+  "component-costs": {
+   "rows": 1,
+   "passing": 1,
+   "quarantined": 0,
+   "missing_archive": 0,
+   "bad_url": 0
+  },
+  "affordability.csv": {
+   "rows": 130,
+   "passing": 12,
+   "quarantined": 118,
+   "missing_archive": 0,
+   "bad_url": 0
+  },
+  "fx-decomposition.csv": {
+   "rows": 130,
+   "passing": 12,
+   "quarantined": 118,
+   "missing_archive": 0,
+   "bad_url": 0
+  },
+  "subscription-register.csv": {
+   "rows": 290,
+   "passing": 250,
+   "quarantined": 40,
+   "missing_archive": 90,
+   "bad_url": 10
+  },
+  "free-tier-register.csv": {
+   "rows": 29,
+   "passing": 25,
+   "quarantined": 4,
+   "missing_archive": 9,
+   "bad_url": 1
+  },
+  "availability-register.csv": {
+   "rows": 60,
+   "passing": 58,
+   "quarantined": 2,
+   "missing_archive": 4,
+   "bad_url": 0
+  }
+ },
+ "hard_failures": [],
+ "warnings": [
+  "model-prices[12] Muse Spark 1.1: no archive snapshot captured for https://vercel.com/ai-gateway/models/muse-spark-1-1",
+  "model-price-events[4] Gemini 3.8 Flash: no archive snapshot captured for https://www.packetnebula.com/gemini-38-flash-price-cliff/",
+  "infrastructure[2] MTN AI-ready data centres: no archive snapshot captured for https://nairametrics.com/2026/08/26/mtn-to-develop-150mw-ai-data-centr",
+  "infrastructure[6] Huawei AI data centre bid: no archive snapshot captured for https://www.bloomberg.com/news/articles/2026-08-26/huawei-egypt-ai-asc",
+  "infrastructure[8] Mombasa AI data centre: no archive snapshot captured for https://www.businessdailyafrica.com/bd/corporate/technology/greek-firm",
+  "infrastructure[9] Cape Town hyperscale campus (two sites): no archive snapshot captured for https://iafrica.com/cape-town-approves-two-hyperscale-data-centres-tot",
+  "infrastructure[11] Teraco portfolio (including JB7): source_url is bare_domain -> https://voxilens.com/",
+  "infrastructure[13] Raxio expansion programme: no archive snapshot captured for https://www.techafricanews.com/2026/07/14/raxio-secures-over-us380-mil",
+  "infrastructure[14] Africa Data Centres Accra: source_url is bare_domain -> https://datacentresafrica.com/",
+  "infrastructure[16] Côte d'Ivoire sovereign data centre: no archive snapshot captured for https://developingtelecoms.com/telecom-business/telecom-investment-mer",
+  "infrastructure[20] Nigeria cloud and AI investment target: no archive snapshot captured for https://iafrica.com/nigeria-targets-750m-in-cloud-and-ai-infrastructur",
+  "device-prices[1] Average selling price, 2026: source_url is ephemeral -> https://my.idc.com/getdoc.jsp?containerId=IDC_P37251",
+  "device-prices[2] Device prices: source_url is ephemeral -> https://my.idc.com/getdoc.jsp?containerId=IDC_P37251",
+  "device-prices[4] Device prices: source_url is ephemeral -> https://my.idc.com/getdoc.jsp?containerId=IDC_P37251",
+  "device-prices[5] Device prices, 2026 projection: source_url is bare_domain -> https://techcabal.com/",
+  "device-shipments[1] Shipments, 2026 forecast: source_url is bare_domain -> https://omdia.tech.informa.com/",
+  "device-shipments[2] Shipments, Q2 2026: no archive snapshot captured for https://telecomlead.com/smartphone/africa-smartphone-shipments-fall-7-",
+  "device-shipments[3] Smartphone market growth, Q1 2026: source_url is ephemeral -> https://my.idc.com/getdoc.jsp?containerId=IDC_P37251",
+  "device-policy[0] Excise duty on smartphones: no archive snapshot captured for https://www.businessdailyafrica.com/bd/economy/kenya-finance-bill-2026"
+ ],
+ "status": "pass"
+}

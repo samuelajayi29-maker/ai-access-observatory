@@ -1,0 +1,2 @@
+metric,scope,geography_scope,change_pct,value_low,value_high,unit,date,evidence_status,temporal_status,headline_eligible,source_quality,originating_source,evidence_host,url,archive_url,legacy_type,note
+"DRAM contract price, Q2 2026",Global components,global,63,,,,2026-07-05,industry_body,measured,True,ok,TrendForce,trendforce.com,https://www.trendforce.com/presscenter/,https://web.archive.org/web/20260713183927/https://www.trendforce.com/presscenter,actual,58% to 63% quarter on quarter; NAND contract prices up 70% to 75%.

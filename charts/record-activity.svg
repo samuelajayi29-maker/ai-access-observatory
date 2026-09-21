@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 380" width="820" height="380" role="img" aria-label="Signals added to the record by month and series: May 8, Jun 3, Jul 102, Aug 114, Sep 131. This measures the monitoring layer, not the market.">
+<rect width="820" height="380" fill="#FFFFFF"/>
+<text x="28" y="38" font-family="'Source Serif 4',Georgia,serif" font-size="21" font-weight="600" fill="#0D1B2A">Signals added to the record, by month</text>
+<text x="28" y="60" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#66757F">Stories recorded per series. This is the monitoring layer&#x27;s own output, not a measure of the market.</text>
+<line x1="60" y1="320.0" x2="790" y2="320.0" stroke="#E2E5E2"/>
+<text x="50" y="324.0" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">0</text>
+<line x1="60" y1="292.0" x2="790" y2="292.0" stroke="#E2E5E2"/>
+<text x="50" y="296.0" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">20</text>
+<line x1="60" y1="264.0" x2="790" y2="264.0" stroke="#E2E5E2"/>
+<text x="50" y="268.0" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">40</text>
+<line x1="60" y1="236.0" x2="790" y2="236.0" stroke="#E2E5E2"/>
+<text x="50" y="240.0" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">60</text>
+<line x1="60" y1="208.0" x2="790" y2="208.0" stroke="#E2E5E2"/>
+<text x="50" y="212.0" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">80</text>
+<line x1="60" y1="180.1" x2="790" y2="180.1" stroke="#E2E5E2"/>
+<text x="50" y="184.1" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">100</text>
+<line x1="60" y1="152.1" x2="790" y2="152.1" stroke="#E2E5E2"/>
+<text x="50" y="156.1" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">120</text>
+<line x1="60" y1="124.1" x2="790" y2="124.1" stroke="#E2E5E2"/>
+<text x="50" y="128.1" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">140</text>
+<rect x="96.5" y="315.8" width="73.0" height="4.2" fill="#1A8A7A"/>
+<rect x="96.5" y="313.0" width="73.0" height="2.8" fill="#B98A1F"/>
+<rect x="96.5" y="308.8" width="73.0" height="4.2" fill="#C05A36"/>
+<text x="133.0" y="342" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">May 2026</text>
+<rect x="242.5" y="318.6" width="73.0" height="1.4" fill="#1A8A7A"/>
+<rect x="242.5" y="315.8" width="73.0" height="2.8" fill="#B98A1F"/>
+<text x="279.0" y="342" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">Jun 2026</text>
+<rect x="388.5" y="255.6" width="73.0" height="64.4" fill="#1A8A7A"/>
+<rect x="388.5" y="205.2" width="73.0" height="50.4" fill="#B98A1F"/>
+<rect x="388.5" y="177.3" width="73.0" height="28.0" fill="#C05A36"/>
+<text x="425.0" y="342" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">Jul 2026</text>
+<rect x="534.5" y="255.6" width="73.0" height="64.4" fill="#1A8A7A"/>
+<rect x="534.5" y="196.8" width="73.0" height="58.8" fill="#B98A1F"/>
+<rect x="534.5" y="160.5" width="73.0" height="36.4" fill="#C05A36"/>
+<text x="571.0" y="342" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">Aug 2026</text>
+<rect x="680.5" y="233.2" width="73.0" height="86.8" fill="#1A8A7A"/>
+<rect x="680.5" y="184.2" width="73.0" height="49.0" fill="#B98A1F"/>
+<rect x="680.5" y="136.7" width="73.0" height="47.6" fill="#C05A36"/>
+<text x="717.0" y="342" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">Sep 2026</text>
+<rect x="60" y="70" width="11" height="11" fill="#1A8A7A"/>
+<text x="78" y="80" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#66757F">Infrastructure</text>
+<rect x="220" y="70" width="11" height="11" fill="#B98A1F"/>
+<text x="238" y="80" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#66757F">Access</text>
+<rect x="380" y="70" width="11" height="11" fill="#C05A36"/>
+<text x="398" y="80" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#66757F">Jobs</text>
+<line x1="28" y1="334" x2="792" y2="334" stroke="#E2E5E2"/>
+<text x="28" y="353" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">Data: the Observatory record · CC BY 4.0 · compiled 2026-09-11 · counts from the live record</text>
+</svg>

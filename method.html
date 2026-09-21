@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Method, sources and coverage</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="flag"><div class="wrap"><b>Prototype.</b> Completeness is not claimed. Rigour is.</div></div>
+<header class="masthead"><div class="wrap">
+  <a class="mark" href="index.html">Astrolabe <span>Africa</span></a>
+  <nav class="nav"><a href="index.html">The record</a><a href="infrastructure.html">Infrastructure</a><a href="access.html">Access</a><a href="jobs.html">Jobs</a><a class="here" href="method.html">Method</a></nav>
+</div></header>
+<div class="accent-rule"></div>
+<header class="title"><div class="wrap">
+  <div class="crumb"><a href="index.html">The record</a> / Method</div>
+  <h1>How the record is kept</h1>
+  <p class="standfirst">One definition per metric, one source per row, statuses that are never mixed and gaps stated as numbers. This page is the contract behind every figure.</p>
+</div></header>
+<div class="wrap layout">
+  <div>
+    
+    <div class="frame">
+      <div class="frame-head">
+        <h2>Signals added to the record, by month</h2>
+        <p>Stories recorded per series. This is the monitoring layer&#x27;s own output, not a measure of the market</p>
+      </div>
+      <a href="https://samuelajayi29-maker.github.io/ai-access-observatory/charts/record-activity.svg"><img src="charts/record-activity.svg" alt="Signals added to the record by month and series: May 8, Jun 3, Jul 102, Aug 114, Sep 131. This measures the monitoring layer, not the market."></a>
+      <div class="frame-foot">
+        <span>Added daily · counts from the live record</span>
+        <span class="dl">
+          <a href="https://samuelajayi29-maker.github.io/ai-access-observatory/charts/record-activity.svg" download>SVG</a>
+          <a href="https://samuelajayi29-maker.github.io/ai-access-observatory/charts/record-activity.png" download>PNG</a>
+          <a href="#embed">Embed</a>
+        </span>
+      </div>
+      <details class="datatable"><summary>Data table &mdash; the values plotted above</summary><table class="register"><thead><tr><th>Month 2026</th><th>Jobs</th><th>Access</th><th>Infrastructure</th><th>Total</th></tr></thead><tbody><tr><td>May</td><td>3</td><td>2</td><td>3</td><td>8</td></tr><tr><td>Jun</td><td>0</td><td>2</td><td>1</td><td>3</td></tr><tr><td>Jul</td><td>20</td><td>36</td><td>46</td><td>102</td></tr><tr><td>Aug</td><td>26</td><td>42</td><td>46</td><td>114</td></tr><tr><td>Sep</td><td>34</td><td>35</td><td>62</td><td>131</td></tr></tbody></table></details>
+    </div>
+    <h2 class="sec">What this record is</h2>
+    <div class="prose">
+      <p>A single place where AI's economic effect on Africa is recorded with its source, its status and the date it
+      last moved. Three series, each with a defined unit: infrastructure, access and jobs. Every row can be traced to
+      a named source, and every chart can be downloaded as a file and cited.</p>
+      <h3>What a row is</h3>
+      <p>A row is a fact, not a story: a facility with a capacity figure and a status, a model with a price and a
+      capability score, a device market with a measured change. Headlines are recorded separately as signals and never
+      mixed into the registers.</p>
+      <h3>Rigour, not completeness</h3>
+      <p>Completeness cannot be guaranteed on a continent where much capacity is privately built and undisclosed.
+      What is guaranteed is a published definition per metric, a source per row, statuses that are never mixed, gaps
+      stated as numbers, and a null that stays null rather than becoming an estimate.</p>
+    </div>
+    <h2 class="sec">Status: two orthogonal fields</h2>
+    <p class="sec-note">A row is an evidence status and a temporal status, never one blended label. The cross-tab
+    below is every combination actually present in this release, and whether that combination may enter a
+    headline series.</p>
+    <table class="register">
+      <thead><tr><th>Evidence status</th><th>Temporal status</th><th class="num">Rows</th><th>Headline</th></tr></thead>
+      <tbody><tr><td class="pr">trade reporting</td><td>measured</td><td class="num">17</td><td><span class="st third"><i></i>never headlines</span></td></tr><tr><td class="pr">unclear</td><td>measured</td><td class="num">8</td><td><span class="st third"><i></i>never headlines</span></td></tr><tr><td class="pr">unclear</td><td>announced</td><td class="num">7</td><td><span class="st third"><i></i>never headlines</span></td></tr><tr><td class="pr">industry body</td><td>measured</td><td class="num">6</td><td><span class="st official"><i></i>may headline</span></td></tr><tr><td class="pr">trade reporting</td><td>announced</td><td class="num">4</td><td><span class="st third"><i></i>never headlines</span></td></tr><tr><td class="pr">industry body</td><td>forecast</td><td class="num">1</td><td><span class="st third"><i></i>never headlines</span></td></tr><tr><td class="pr">industry body</td><td>projection</td><td class="num">1</td><td><span class="st third"><i></i>never headlines</span></td></tr><tr><td class="pr">official</td><td>measured</td><td class="num">1</td><td><span class="st official"><i></i>may headline</span></td></tr><tr><td class="pr">trade reporting</td><td>forecast</td><td class="num">1</td><td><span class="st third"><i></i>never headlines</span></td></tr><tr><td class="pr">trade reporting</td><td>projection</td><td class="num">1</td><td><span class="st third"><i></i>never headlines</span></td></tr><tr><td class="pr">trade reporting</td><td>proposal</td><td class="num">1</td><td><span class="st third"><i></i>never headlines</span></td></tr></tbody>
+    </table>
+
+    <h2 class="sec">Source tiers</h2>
+    <p class="sec-note">Every row carries the tier of its evidence. Where a trade report is the only source for a
+    field, the field is marked unverified and excluded from headline series.</p>
+    <table class="register">
+      <thead><tr><th>Tier</th><th>Examples</th><th>Used for</th></tr></thead>
+      <tbody>
+        <tr><td class="pr">Primary filing</td><td>Planning registers, grid connection records, regulator notices</td><td>Capacity, consent, energisation</td></tr>
+        <tr><td class="pr">Company filing</td><td>Results presentations, operator press releases</td><td>Capacity, commissioning dates, prices</td></tr>
+        <tr><td class="pr">Government communication</td><td>Ministry statements, national AI strategy documents</td><td>Targets, programmes, sovereign projects</td></tr>
+        <tr><td class="pr">Industry body</td><td>Association reports and market trackers</td><td>Cross-checks against our own count</td></tr>
+        <tr><td class="pr">Trade reporting</td><td>Specialist and general press</td><td>Signals, and fields marked unverified</td></tr>
+      </tbody>
+    </table>
+    <h2 class="sec">Coverage</h2>
+    <p class="sec-note">What the record holds, against what is published about the same universe.</p>
+    <table class="register">
+      <thead><tr><th>Series</th><th class="num">Rows</th><th>What it misses</th></tr></thead>
+      <tbody>
+        <tr><td class="pr">Infrastructure</td><td class="num">22</td><td>16 rows without a published capacity; privately built facilities that are never announced; competing estimates put the continent at 223–230 facilities and 360 MW active</td></tr>
+        <tr><td class="pr">Access, models</td><td class="num">13</td><td>African providers and locally hosted inference are not yet priced; launch-era capability scores are on an earlier scale</td></tr>
+        <tr><td class="pr">Access, devices</td><td class="num">13</td><td>No country-level entry-tier device price; no index of our own construction</td></tr>
+        <tr><td class="pr">Jobs</td><td class="num">86</td><td>A feed, not a register: structured fields are not yet extracted, so no country totals exist</td></tr>
+      </tbody>
+    </table>
+    <h2 class="sec">Affordability and the exchange rate</h2>
+    <div class="prose">
+      <h3>Cost of intelligence as a share of income</h3>
+      <p>workload_cost_usd / (gni_per_capita_atlas_usd / 12) x 100, where the workload is the record's frozen
+      standard unit: 1,000,000 input tokens and 250,000 output tokens. The monthly basket is
+      20 x that unit, a defined unit standing in for roughly one moderate session per working day. It is an
+      assumption, versioned, and not an estimate of real behaviour.</p>
+      <h3>Minimum-wage hours</h3>
+      <p>workload_cost_local / statutory_hourly_minimum_wage_local, where the local cost uses the official rate.
+      Minimum wages are held in a hand-maintained table with a source and an effective date per country, because
+      they change by decree and no clean API exists. Where a country has no single national rate, the cell stays
+      null and the reason is recorded.</p>
+      <h3>Atlas against spot</h3>
+      <p>The income base is GNI per capita on the Atlas method, which smooths exchange rates over years. The
+      minimum-wage calculation uses the spot rate on a stated date. They answer different questions and are never
+      presented as variants of one number.</p>
+      <h3>Official and parallel rates</h3>
+      <p>Where a country has a materially different parallel rate, both are recorded and neither is blended. In
+      Nigeria the two move in the same direction at different speeds, and that gap is itself a finding rather than
+      something to average away.</p>
+      <h3>The decomposition identity</h3>
+      <p>ln(P_local_t / P_local_0) = ln(P_usd_t / P_usd_0) + ln(FX_t / FX_0). Logs are additive, so the rate-card
+      component and the currency component sum exactly to the total. The base date is 2026-01-15 = 100. The build
+      asserts the identity on every row and fails if it breaks. Where a model has one observation, its rate-card
+      component is zero by absence of evidence, not by evidence of no change, and the row says so.</p>
+    </div>
+
+    <h2 class="sec">Worked example</h2>
+    <p class="sec-note">Invariant: every derived metric must be reproducible from the published CSVs alone. This is
+    that check, rendered from the files rather than typed by hand.</p>
+    <h3 class="regtitle">Worked example: Claude Fable 5.1 in NGA, computed from the published CSVs</h3><table class="register"><thead><tr><th>Step</th><th>Value</th></tr></thead><tbody><tr><td class="pr">1. Model</td><td>Claude Fable 5.1 (Anthropic), list rate 10.0 in / 50.0 out per million tokens</td></tr><tr><td class="pr">2. Standard workload</td><td>1,000,000 input + 250,000 output tokens, the record&#x27;s frozen unit</td></tr><tr><td class="pr">3. Workload cost</td><td>1 x 10.0 + 0.25 x 50.0 = $22.5</td></tr><tr><td class="pr">4. GNI per capita, Atlas method</td><td>$1360.0 (2025)</td></tr><tr><td class="pr">5. Monthly income</td><td>$1360.0 / 12 = $113.3333</td></tr><tr><td class="pr">6. Single workload as share of monthly income</td><td>$22.5 / $113.3333 x 100 = 19.8529%</td></tr><tr><td class="pr">7. Monthly use basket</td><td>20 x the workload = 397.0588% of monthly income</td></tr><tr><td class="pr">8. Official rate at base</td><td>$22.5 x 1418.7844 NGN/USD = 31922.649 NGN</td></tr><tr><td class="pr">9. Official rate now</td><td>$22.5 x 1330.7027 NGN/USD = 29940.8108 NGN</td></tr><tr><td class="pr">10. Decomposition</td><td>currency -6.40933 log-% + rate card 0.0 log-% = -6.40933 log-% (index 93.7917)</td></tr><tr><td class="pr">11. Minimum-wage hours</td><td>29940.8108 NGN / 403.92 per hour = 74.1256 hours; the basket is 1482.51 hours</td></tr></tbody></table><p class="sec-note">Every figure above can be reproduced from data/affordability.csv and data/fx-decomposition.csv. Formula versions: A-1.0 and B-1.0.</p>
+
+    <h2 class="sec">Model inclusion</h2>
+    <div class="prose"><h3>The rule</h3><p>A model enters the price register if, as at the compile date, it (a) has a list price published by the provider itself or by a named pricing aggregator we can link to, (b) scores at least 35 on the capability index on a stated basis, and (c) is reachable through an API from at least one covered country. The rule is applied mechanically; the excluded table below is the proof.</p></div><h3 class="regtitle">Included: 28 models</h3><table class="register"><thead><tr><th>Model</th><th class="num">Input $/Mtok</th><th class="num">Output $/Mtok</th><th class="num">Capability</th><th>Basis</th></tr></thead><tbody><tr><td class="pr">Claude Fable 5.1<span class="sub">Anthropic</span></td><td class="num">$10</td><td class="num">$50</td><td class="num">53.4</td><td>current</td></tr><tr><td class="pr">Claude Opus 5<span class="sub">Anthropic</span></td><td class="num">$5</td><td class="num">$25</td><td class="num">50.8</td><td>current</td></tr><tr><td class="pr">Claude Sonnet 5<span class="sub">Anthropic</span></td><td class="num">$2</td><td class="num">$10</td><td class="num">38.2</td><td>current</td></tr><tr><td class="pr">Claude Fable 5<span class="sub">Anthropic</span></td><td class="num">$10</td><td class="num">$50</td><td class="num">49.6</td><td>current</td></tr><tr><td class="pr">Claude Opus 4.8<span class="sub">Anthropic</span></td><td class="num">$5</td><td class="num">$25</td><td class="num">41.8</td><td>current</td></tr><tr><td class="pr">Claude Opus 4.7<span class="sub">Anthropic</span></td><td class="num">$5</td><td class="num">$25</td><td class="num">40.7</td><td>current</td></tr><tr><td class="pr">GPT-6 Astra<span class="sub">OpenAI</span></td><td class="num">$10</td><td class="num">$50</td><td class="num">52.7</td><td>current</td></tr><tr><td class="pr">GPT-5.6 Sol<span class="sub">OpenAI</span></td><td class="num">$4</td><td class="num">$20</td><td class="num">47.0</td><td>current</td></tr><tr><td class="pr">GPT-5.6 Terra<span class="sub">OpenAI</span></td><td class="num">$2</td><td class="num">$12</td><td class="num">42.1</td><td>current</td></tr><tr><td class="pr">GPT-5.6 Luna<span class="sub">OpenAI</span></td><td class="num">$0.20</td><td class="num">$1.20</td><td class="num">37.3</td><td>current</td></tr><tr><td class="pr">Gemini 3.8 Flash<span class="sub">Google</span></td><td class="num">$0.75</td><td class="num">$3.75</td><td class="num">40.9</td><td>current</td></tr><tr><td class="pr">Gemini 3.7 Flash<span class="sub">Google</span></td><td class="num">$0.75</td><td class="num">$3.75</td><td class="num">39.1</td><td>current</td></tr><tr><td class="pr">Muse Spark 1.3<span class="sub">Meta</span></td><td class="num">$1.25</td><td class="num">$4.25</td><td class="num">48.1</td><td>current</td></tr><tr><td class="pr">Muse Spark 1.2<span class="sub">Meta</span></td><td class="num">$1.25</td><td class="num">$4.25</td><td class="num">39.6</td><td>current</td></tr><tr><td class="pr">Qwen3.8 Max<span class="sub">Alibaba</span></td><td class="num">$2</td><td class="num">$6</td><td class="num">45.4</td><td>current</td></tr><tr><td class="pr">Qwen3.8 Max<span class="sub">Alibaba</span></td><td class="num">$2</td><td class="num">$6</td><td class="num">40.2</td><td>current</td></tr><tr><td class="pr">Qwen3.8 2.4T A95B<span class="sub">Alibaba</span></td><td class="num">$2</td><td class="num">$6</td><td class="num">39.9</td><td>current</td></tr><tr><td class="pr">Qwen3.8-Flash-Next<span class="sub">Alibaba</span></td><td class="num">$0.15</td><td class="num">$0.47</td><td class="num">39.8</td><td>current</td></tr><tr><td class="pr">GLM-5.3<span class="sub">Z AI</span></td><td class="num">$1.4</td><td class="num">$4.4</td><td class="num">44.8</td><td>current</td></tr><tr><td class="pr">GLM-5.3-Flash<span class="sub">Z AI</span></td><td class="num">$0.15</td><td class="num">$0.5</td><td class="num">41.8</td><td>current</td></tr><tr><td class="pr">Kimi K3<span class="sub">Moonshot AI</span></td><td class="num">$3</td><td class="num">$15</td><td class="num">43.6</td><td>current</td></tr><tr><td class="pr">Grok 4.6<span class="sub">xAI</span></td><td class="num">$2</td><td class="num">$6</td><td class="num">44.3</td><td>current</td></tr><tr><td class="pr">Grok 4.5<span class="sub">xAI</span></td><td class="num">$2</td><td class="num">$6</td><td class="num">38.8</td><td>current</td></tr><tr><td class="pr">Step 5 Preview<span class="sub">StepFun</span></td><td class="num">$1</td><td class="num">$2.7</td><td class="num">43.7</td><td>current</td></tr><tr><td class="pr">DeepSeek V4.1 Flash<span class="sub">DeepSeek</span></td><td class="num">$0.30</td><td class="num">$1.20</td><td class="num">39.5</td><td>current</td></tr><tr><td class="pr">DeepSeek V4 Pro 0813<span class="sub">DeepSeek</span></td><td class="num">$1.32</td><td class="num">$3.96</td><td class="num">36.0</td><td>current</td></tr><tr><td class="pr">Agnes 3.0 Flash<span class="sub">Sapiens AI</span></td><td class="num">$0.05</td><td class="num">$0.15</td><td class="num">35.5</td><td>current</td></tr><tr><td class="pr">Agnes 2.5 Pro Beta<span class="sub">Sapiens AI</span></td><td class="num">$0.10</td><td class="num">$0.30</td><td class="num">35.2</td><td>current</td></tr></tbody></table><h3 class="regtitle">Excluded: 1 models, with the reason</h3><table class="register"><thead><tr><th>Model</th><th>Exclusion reason</th></tr></thead><tbody><tr><td class="pr">Claude Mythos 5.1<span class="sub">Anthropic</span></td><td>no capability score on the index</td></tr></tbody></table>
+
+    <h2 class="sec">Validated at build time</h2>
+    <p class="sec-note">The build fails if a trade-reporting row is marked headline eligible, if a source is a bare
+    domain or a session container, if a derived figure is missing its inputs, or if the FX decomposition components
+    do not sum to the total. These are the counts from this release.</p>
+    <div class="readout"><div><b>692</b><small>rows checked</small></div><div><b>363</b><small>passing, headline eligible</small></div><div><b>329</b><small>quarantined</small></div><div><b>8</b><small>sources needing replacement</small></div><div><b>11</b><small>sources without an archive</small></div></div>
+    <table class="register">
+      <thead><tr><th>Register</th><th class="num">Rows</th><th class="num">Headline eligible</th>
+      <th class="num">Quarantined</th><th class="num">Sources to replace</th><th class="num">No archive</th></tr></thead>
+      <tbody><tr><td class="pr">model-prices</td><td class="num">13</td><td class="num">3</td><td class="num">10</td><td class="num">0</td><td class="num">1</td></tr><tr><td class="pr">model-price-events</td><td class="num">5</td><td class="num">2</td><td class="num">3</td><td class="num">0</td><td class="num">1</td></tr><tr><td class="pr">infrastructure</td><td class="num">22</td><td class="num">0</td><td class="num">22</td><td class="num">2</td><td class="num">7</td></tr><tr><td class="pr">device-prices</td><td class="num">6</td><td class="num">0</td><td class="num">6</td><td class="num">4</td><td class="num">0</td></tr><tr><td class="pr">device-shipments</td><td class="num">5</td><td class="num">0</td><td class="num">5</td><td class="num">2</td><td class="num">1</td></tr><tr><td class="pr">device-policy</td><td class="num">1</td><td class="num">0</td><td class="num">1</td><td class="num">0</td><td class="num">1</td></tr><tr><td class="pr">component-costs</td><td class="num">1</td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">0</td></tr><tr><td class="pr">affordability.csv</td><td class="num">130</td><td class="num">12</td><td class="num">118</td><td class="num">0</td><td class="num">0</td></tr><tr><td class="pr">fx-decomposition.csv</td><td class="num">130</td><td class="num">12</td><td class="num">118</td><td class="num">0</td><td class="num">0</td></tr><tr><td class="pr">subscription-register.csv</td><td class="num">290</td><td class="num">250</td><td class="num">40</td><td class="num">10</td><td class="num">90</td></tr><tr><td class="pr">free-tier-register.csv</td><td class="num">29</td><td class="num">25</td><td class="num">4</td><td class="num">1</td><td class="num">9</td></tr><tr><td class="pr">availability-register.csv</td><td class="num">60</td><td class="num">58</td><td class="num">2</td><td class="num">0</td><td class="num">4</td></tr></tbody>
+    </table>
+
+    <h2 class="sec">Corrections and releases</h2>
+    <div class="prose">
+      <p>Fields change as projects move. When a value changes, the change is logged with its date and source and the
+      previous value is kept; nothing is silently overwritten. Corrections are published on the page where they apply
+      and recorded in the release history. The record is compiled automatically each morning and released monthly, so
+      a chart cited in September can be reproduced in December.</p>
+      <h3>Licence</h3>
+      <p>Charts and data are published under Creative Commons Attribution 4.0. Credit reads: Astrolabe Africa. Commercial
+      licensing for firms, including the underlying data and an API, is separate from this open publication.</p>
+    </div></div>
+
+  <aside class="side">
+    <div class="box">
+      <h3>Download the data</h3>
+      <div class="files"><a href="data/ai-access-observatory.xlsx" download>Excel</a><a href="data/items.csv" download>CSV</a><a href="data/items.json" download>JSON</a><a href="data/affordability.csv" download>Affordability</a></div>
+      <p>Every row carries its source link. Compiled 2026-09-11.</p>
+    </div>
+    <div class="box" id="embed">
+      <h3>Embed a chart</h3>
+      <textarea readonly>&lt;img src="https://samuelajayi29-maker.github.io/ai-access-observatory/charts/record-activity.png" alt="Signals added to the record, by month"&gt;</textarea>
+      <p>Chart files update with each release, so an embed stays current.</p>
+    </div>
+    <div class="box">
+      <h3>This release</h3>
+      <ul><li><b>Version</b>v2026.09</li><li><b>Compiled</b>2026-09-11</li><li><b>Updated</b>daily, automated</li><li><b>Release cycle</b>monthly</li><li><b>Corrections</b>none open</li></ul>
+    </div>
+    <div class="box">
+      <h3>What each series holds</h3>
+      <ul><li><b>Infrastructure</b>22 rows, 10 countries</li><li><b>Access</b>26 records across models and devices</li><li><b>Jobs</b>61 signals, register in build</li></ul>
+    </div>
+    <div class="box">
+      <h3>Permanent link</h3>
+      <div class="perm">https://samuelajayi29-maker.github.io/ai-access-observatory/</div>
+      <p>This address does not change. Cite it directly.</p>
+    </div>
+  </aside>
+</div>
+<footer><div class="wrap">
+  <a href="method.html">Method</a> &middot; <a href="analysis.html">Essays</a>
+</div></footer>
+</body>
+</html>

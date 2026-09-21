@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" width="960" height="640" role="img" aria-label="Models plotted by capability against the cost of a standard workload. Within the top 5-point capability band the same work costs 2.8 times more on the dearest model than the cheapest; across all 13 models the raw spread is 58 times, which reflects product segmentation rather than market access.">
+<rect width="960" height="640" fill="#FFFFFF"/>
+<text x="28" y="38" font-family="'Source Serif 4',Georgia,serif" font-size="21" font-weight="600" fill="#0D1B2A">What a million tokens costs, against how capable the model is</text>
+<text x="28" y="60" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#66757F">Standard workload: 1,000,000 input tokens + 250,000 output tokens, at list rates. Vertical scale logarithmic. Within the top 5-point capability band, the same work costs 2.8x more on the dearest model than on the cheapest (3 models in band).</text>
+<rect x="510.0" y="267.6" width="406.0" height="254.4" fill="#1A8A7A" fill-opacity="0.1"/>
+<text x="522.0" y="470.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0D1B2A">Frontier value</text>
+<text x="522.0" y="486.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">capable and affordable</text>
+<text x="522.0" y="502.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">5 models</text>
+<rect x="510.0" y="150.0" width="406.0" height="117.6" fill="#B98A1F" fill-opacity="0.12"/>
+<text x="522.0" y="215.6" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0D1B2A">Frontier premium</text>
+<text x="522.0" y="231.6" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">capable, priced for western budgets</text>
+<text x="522.0" y="247.6" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">3 models</text>
+<rect x="307.0" y="267.6" width="203.0" height="254.4" fill="#5F7D8C" fill-opacity="0.1"/>
+<text x="319.0" y="470.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0D1B2A">Efficient tier</text>
+<text x="319.0" y="486.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">strong and affordable</text>
+<text x="319.0" y="502.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">2 models</text>
+<rect x="307.0" y="150.0" width="203.0" height="117.6" fill="#C05A36" fill-opacity="0.07"/>
+<text x="319.0" y="215.6" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0D1B2A">Paying more for less</text>
+<text x="319.0" y="231.6" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">no model sits here</text>
+<text x="319.0" y="247.6" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">0 models</text>
+<rect x="104.0" y="267.6" width="203.0" height="254.4" fill="#5F7D8C" fill-opacity="0.06"/>
+<text x="116.0" y="470.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0D1B2A">Entry tier</text>
+<text x="116.0" y="486.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">cheap, below the frontier</text>
+<text x="116.0" y="502.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">2 models</text>
+<rect x="104.0" y="150.0" width="203.0" height="117.6" fill="#C05A36" fill-opacity="0.04"/>
+<line x1="104" y1="610.7" x2="916" y2="610.7" stroke="#E2E5E2"/>
+<text x="92" y="614.7" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">$0</text>
+<line x1="104" y1="424.7" x2="916" y2="424.7" stroke="#E2E5E2"/>
+<text x="92" y="428.7" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">$1</text>
+<line x1="104" y1="238.7" x2="916" y2="238.7" stroke="#E2E5E2"/>
+<text x="92" y="242.7" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">$10</text>
+<line x1="104.0" y1="150" x2="104.0" y2="522" stroke="#E2E5E2"/>
+<text x="104.0" y="544" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">30</text>
+<line x1="307.0" y1="150" x2="307.0" y2="522" stroke="#E2E5E2"/>
+<text x="307.0" y="544" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">40</text>
+<line x1="510.0" y1="150" x2="510.0" y2="522" stroke="#E2E5E2"/>
+<text x="510.0" y="544" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">50</text>
+<line x1="713.0" y1="150" x2="713.0" y2="522" stroke="#E2E5E2"/>
+<text x="713.0" y="544" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">60</text>
+<line x1="916.0" y1="150" x2="916.0" y2="522" stroke="#E2E5E2"/>
+<text x="916.0" y="544" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">70</text>
+<line x1="307.0" y1="150" x2="307.0" y2="522" stroke="#0D1B2A" stroke-dasharray="3 4" opacity=".35"/>
+<text x="307.0" y="140" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">strong</text>
+<line x1="510.0" y1="150" x2="510.0" y2="522" stroke="#0D1B2A" stroke-dasharray="3 4" opacity=".35"/>
+<text x="510.0" y="140" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">frontier</text>
+<line x1="104" y1="267.6" x2="916" y2="267.6" stroke="#0D1B2A" stroke-dasharray="3 4" opacity=".35"/>
+<text x="916" y="282.6" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">$7 per standard workload</text>
+<text x="104" y="118" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#66757F">cost of the standard workload, USD, log scale</text>
+<text x="104" y="572" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#66757F">capability, Artificial Analysis Intelligence Index, on the index as restated in September 2026</text>
+<text x="579.9" y="177.2" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#0D1B2A">Claude Fable 5.1 · GPT-6 Astra</text>
+<circle cx="570.9" cy="173.2" r="4.6" fill="#1A8A7A" stroke="#FFFFFF" stroke-width="1.5"/>
+<text x="701.7" y="272.7" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#0D1B2A">GPT-5.6 Sol</text>
+<circle cx="692.7" cy="220.7" r="4.6" fill="#1A8A7A" stroke="#FFFFFF" stroke-width="1.5"/>
+<text x="782.9" y="233.2" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#0D1B2A">Claude Opus 5</text>
+<circle cx="773.9" cy="229.2" r="4.6" fill="#1A8A7A" stroke="#FFFFFF" stroke-width="1.5"/>
+<text x="519.0" y="290.5" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#0D1B2A">Kimi K3 (max)</text>
+<circle cx="510.0" cy="270.5" r="4.6" fill="#1A8A7A" stroke="#FFFFFF" stroke-width="1.5"/>
+<text x="620.5" y="312.7" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#0D1B2A">GPT-5.6 Terra</text>
+<circle cx="611.5" cy="276.7" r="4.6" fill="#1A8A7A" stroke="#FFFFFF" stroke-width="1.5"/>
+<text x="764.9" y="307.2" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#0D1B2A">Claude Opus 5 (routed)</text>
+<circle cx="773.9" cy="303.2" r="4.6" fill="#1A8A7A" stroke="#FFFFFF" stroke-width="1.5"/>
+<text x="397.2" y="343.5" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#0D1B2A">Grok 4.6</text>
+<circle cx="388.2" cy="323.5" r="4.6" fill="#5F7D8C" stroke="#FFFFFF" stroke-width="1.5"/>
+<text x="539.3" y="370.7" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#0D1B2A">GPT-5.6 Luna</text>
+<circle cx="530.3" cy="350.7" r="4.6" fill="#1A8A7A" stroke="#FFFFFF" stroke-width="1.5"/>
+<text x="539.3" y="393.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#0D1B2A">Muse Spark 1.1</text>
+<circle cx="530.3" cy="357.0" r="4.6" fill="#1A8A7A" stroke="#FFFFFF" stroke-width="1.5"/>
+<text x="336.3" y="418.5" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#0D1B2A">Gemini 3.8 Flash</text>
+<circle cx="327.3" cy="382.5" r="4.6" fill="#5F7D8C" stroke="#FFFFFF" stroke-width="1.5"/>
+<text x="234.8" y="449.1" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#0D1B2A">DeepSeek V4 Pro 0813 (max)</text>
+<circle cx="225.8" cy="413.1" r="4.6" fill="#0D1B2A" stroke="#FFFFFF" stroke-width="1.5"/>
+<text x="214.5" y="505.8" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#0D1B2A">DeepSeek V4 Flash 0731</text>
+<circle cx="205.5" cy="501.8" r="4.6" fill="#0D1B2A" stroke="#FFFFFF" stroke-width="1.5"/>
+<text x="28" y="570" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#66757F">Raw spread across every model priced, cheapest to dearest: 58x. That measures product segmentation, not what any market pays for the same capability.</text>
+<line x1="28" y1="594" x2="932" y2="594" stroke="#E2E5E2"/>
+<text x="28" y="613" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">Data: the Observatory record · CC BY 4.0 · compiled 2026-09-11 · list prices, not the price you pay</text>
+</svg>

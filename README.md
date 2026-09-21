@@ -1,38 +1,34 @@
-# AI Access Observatory
+# The Observatory record
 
-A daily, country-level record of how artificial intelligence is changing jobs, access and infrastructure in Africa. Sourced, open and independent. A product of [Astrolabe Africa](https://astrolabe.africa) (Astrolabe Data).
+A public record of AI's economic effect in Africa, across three series: infrastructure,
+access and jobs. Published from this repository as a static site; every chart is a file
+with its source and licence inside the image, and every register row carries its source.
 
-**Live:** https://samuelajayi29-maker.github.io/ai-access-observatory/
+Live: https://samuelajayi29-maker.github.io/ai-access-observatory/
 
-## The three dimensions
+## How it is built
 
-- **Jobs** (`jobs.html`) — how AI is changing employment, digital work and economic opportunity
-- **Access** (`access.html`) — whether individuals and businesses can afford and use AI technologies
-- **Infrastructure** (`infra.html`) — data centres, compute, connectivity and the ground beneath the AI economy
+    python build_pages.py      # reads data/, writes every page and every chart SVG
+    python render_charts.py    # each chart SVG -> PNG at 3x, exact intrinsic size
+    python validate.py         # enforces the source rules; exits 1 and blocks the build on failure
+    python publish_site.py     # pushes the whole tree in one commit
 
-Each dimension page pairs a long-form essay with its live, source-linked feed. The homepage (`index.html`) carries the product story and the full three-column tracker.
+Data is the source of record: `data/*.json` and `data/*.csv`. Pages are generated, never
+hand-edited. `data/items.json` is maintained by the daily tracker job.
 
-## Data
+## The contract behind every figure
 
-The public download is an Excel workbook: [`data/ai-access-observatory.xlsx`](data/ai-access-observatory.xlsx) — one sheet per dimension plus an "All items" sheet and an "About" sheet carrying totals, definitions, sourcing and attribution.
+Two orthogonal status fields (`evidence_status` x `temporal_status`), one definition per
+metric on the method page, one source per row with an archive snapshot, statuses never
+mixed, gaps stated as numbers, derived figures naming their weakest input, and every
+derived metric reproducible from the published CSVs. Corrections are logged with the date,
+the source and the prior value.
 
-Machine-readable mirrors, kept in sync each run:
+Method and coverage: https://samuelajayi29-maker.github.io/ai-access-observatory/method.html
 
-- `data/items.json` (canonical, what the site renders from)
-- `data/items.csv`
+## Licence
 
-Item schema: `{t: title, u: url, s: source, d: date label, dot: category}`. Pages render the feed client-side from the JSON; counts, ordering (newest first, year-aware dates) and the See-more cap are computed, never hand-edited.
+Charts and data are published under Creative Commons Attribution 4.0. Credit reads:
+Astrolabe Africa.
 
-## Update pipeline
-
-A daily cron (Hermes, 08:00 WAT) searches the web for new items in each dimension, then runs `C:/Users/USER/AppData/Local/hermes/scripts/update_tracker.py` (v5, workbook builder in `xlsx_build.py`). The updater:
-
-1. fetches the canonical `data/items.json`
-2. merges the new items, dedupes by URL, sorts newest-first
-3. pushes `data/items.json`, `data/items.csv` and the Excel workbook in a single commit (Git Data API)
-
-Empty stdin = normalization-only run; nothing is pushed when nothing changed.
-
-## History
-
-The previous bucket-style design is preserved at the `legacy-2026-09` tag. Design iterations are staged in `samuelajayi29-maker/astrolabe-observatory-preview` (frozen staging snapshot of the Sep 2026 relaunch).
+Release 2026-09-21. Previous design archived at tag `pre-v2-2026-09`.

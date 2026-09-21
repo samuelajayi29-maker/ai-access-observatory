@@ -1,0 +1,31 @@
+{
+ "register": "device-policy",
+ "unit": "policy instrument",
+ "holds": "excise duties, tariffs, import levies, local-assembly incentives",
+ "schema_version": "2026.10.1",
+ "status_fields": [
+  "evidence_status",
+  "temporal_status"
+ ],
+ "compiled": "2026-09-11",
+ "observations": [
+  {
+   "date": "2026-05-14",
+   "scope": "Kenya",
+   "metric": "Excise duty on smartphones",
+   "change_pct": 25,
+   "type": "proposal",
+   "source": "Kenya Finance Bill 2026",
+   "url": "https://www.businessdailyafrica.com/bd/economy/kenya-finance-bill-2026-smartphones-excise-duty",
+   "note": "Proposed 25% excise duty, which would land directly on device prices.",
+   "geography_scope": "country",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "proposal",
+   "headline_eligible": false,
+   "legacy_type": "proposal",
+   "originating_source": "Kenya Finance Bill 2026",
+   "evidence_host": "businessdailyafrica.com",
+   "source_quality": "ok"
+  }
+ ]
+}

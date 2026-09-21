@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 444" width="1120" height="444" role="img" aria-label="A grid of subscription tiers against countries showing the monthly list price as a share of monthly income. The same $20 tier runs from under 4% of monthly income in South Africa to over 20% in Ethiopia.">
+<rect width="1120" height="444" fill="#FFFFFF"/>
+<text x="28" y="38" font-family="'Source Serif 4',Georgia,serif" font-size="21" font-weight="600" fill="#0D1B2A">What a monthly AI subscription costs, as a share of income</text>
+<text x="28" y="60" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#66757F">Published USD list price against GNI per capita, Atlas method, divided by 12. Whether a provider offers regional pricing is recorded in the register, not assumed here.</text>
+<text x="292.0" y="110" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">NGA</text>
+<text x="376.0" y="110" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">KEN</text>
+<text x="460.0" y="110" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">ZAF</text>
+<text x="544.0" y="110" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">GHA</text>
+<text x="628.0" y="110" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">EGY</text>
+<text x="712.0" y="110" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">MAR</text>
+<text x="796.0" y="110" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">ETH</text>
+<text x="880.0" y="110" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">RWA</text>
+<text x="964.0" y="110" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">SEN</text>
+<text x="1048.0" y="110" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">CIV</text>
+<text x="238" y="138" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">Google Google AI Plus</text>
+<text x="238" y="151" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">$4.99 per month</text>
+<rect x="251.0" y="124" width="82" height="28" fill="#EAF3EF"/>
+<text x="292.0" y="144" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">4.4%</text>
+<rect x="335.0" y="124" width="82" height="28" fill="#EAF3EF"/>
+<text x="376.0" y="144" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">2.7%</text>
+<rect x="419.0" y="124" width="82" height="28" fill="#EAF3EF"/>
+<text x="460.0" y="144" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">1.0%</text>
+<rect x="503.0" y="124" width="82" height="28" fill="#EAF3EF"/>
+<text x="544.0" y="144" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">2.3%</text>
+<rect x="587.0" y="124" width="82" height="28" fill="#EAF3EF"/>
+<text x="628.0" y="144" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">1.8%</text>
+<rect x="671.0" y="124" width="82" height="28" fill="#EAF3EF"/>
+<text x="712.0" y="144" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">1.4%</text>
+<rect x="755.0" y="124" width="82" height="28" fill="#F6E7C8"/>
+<text x="796.0" y="144" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">5.4%</text>
+<rect x="839.0" y="124" width="82" height="28" fill="#F6E7C8"/>
+<text x="880.0" y="144" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">5.2%</text>
+<rect x="923.0" y="124" width="82" height="28" fill="#EAF3EF"/>
+<text x="964.0" y="144" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">3.4%</text>
+<rect x="1007.0" y="124" width="82" height="28" fill="#EAF3EF"/>
+<text x="1048.0" y="144" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">2.2%</text>
+<text x="238" y="172" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">OpenAI Go</text>
+<text x="238" y="185" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">$8.00 per month</text>
+<rect x="251.0" y="158" width="82" height="28" fill="#F6E7C8"/>
+<text x="292.0" y="178" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">7.1%</text>
+<rect x="335.0" y="158" width="82" height="28" fill="#EAF3EF"/>
+<text x="376.0" y="178" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">4.4%</text>
+<rect x="419.0" y="158" width="82" height="28" fill="#EAF3EF"/>
+<text x="460.0" y="178" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">1.5%</text>
+<rect x="503.0" y="158" width="82" height="28" fill="#EAF3EF"/>
+<text x="544.0" y="178" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">3.7%</text>
+<rect x="587.0" y="158" width="82" height="28" fill="#EAF3EF"/>
+<text x="628.0" y="178" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">2.9%</text>
+<rect x="671.0" y="158" width="82" height="28" fill="#EAF3EF"/>
+<text x="712.0" y="178" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">2.2%</text>
+<rect x="755.0" y="158" width="82" height="28" fill="#F6E7C8"/>
+<text x="796.0" y="178" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">8.6%</text>
+<rect x="839.0" y="158" width="82" height="28" fill="#F6E7C8"/>
+<text x="880.0" y="178" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">8.3%</text>
+<rect x="923.0" y="158" width="82" height="28" fill="#F6E7C8"/>
+<text x="964.0" y="178" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">5.4%</text>
+<rect x="1007.0" y="158" width="82" height="28" fill="#EAF3EF"/>
+<text x="1048.0" y="178" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">3.5%</text>
+<text x="238" y="206" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">Microsoft Microsoft 365 Personal</text>
+<text x="238" y="219" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">$9.99 per month</text>
+<rect x="251.0" y="192" width="82" height="28" fill="#F6E7C8"/>
+<text x="292.0" y="212" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">8.8%</text>
+<rect x="335.0" y="192" width="82" height="28" fill="#F6E7C8"/>
+<text x="376.0" y="212" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">5.4%</text>
+<rect x="419.0" y="192" width="82" height="28" fill="#EAF3EF"/>
+<text x="460.0" y="212" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">1.9%</text>
+<rect x="503.0" y="192" width="82" height="28" fill="#EAF3EF"/>
+<text x="544.0" y="212" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">4.6%</text>
+<rect x="587.0" y="192" width="82" height="28" fill="#EAF3EF"/>
+<text x="628.0" y="212" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">3.7%</text>
+<rect x="671.0" y="192" width="82" height="28" fill="#EAF3EF"/>
+<text x="712.0" y="212" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">2.7%</text>
+<rect x="755.0" y="192" width="82" height="28" fill="#F6E7C8"/>
+<text x="796.0" y="212" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">10.8%</text>
+<rect x="839.0" y="192" width="82" height="28" fill="#F6E7C8"/>
+<text x="880.0" y="212" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">10.4%</text>
+<rect x="923.0" y="192" width="82" height="28" fill="#F6E7C8"/>
+<text x="964.0" y="212" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">6.7%</text>
+<rect x="1007.0" y="192" width="82" height="28" fill="#EAF3EF"/>
+<text x="1048.0" y="212" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">4.3%</text>
+<text x="238" y="240" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">xAI SuperGrok Lite</text>
+<text x="238" y="253" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">$10.00 per month</text>
+<rect x="251.0" y="226" width="82" height="28" fill="#F6E7C8"/>
+<text x="292.0" y="246" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">8.8%</text>
+<rect x="335.0" y="226" width="82" height="28" fill="#F6E7C8"/>
+<text x="376.0" y="246" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">5.5%</text>
+<rect x="419.0" y="226" width="82" height="28" fill="#EAF3EF"/>
+<text x="460.0" y="246" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">1.9%</text>
+<rect x="503.0" y="226" width="82" height="28" fill="#EAF3EF"/>
+<text x="544.0" y="246" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">4.6%</text>
+<rect x="587.0" y="226" width="82" height="28" fill="#EAF3EF"/>
+<text x="628.0" y="246" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">3.7%</text>
+<rect x="671.0" y="226" width="82" height="28" fill="#EAF3EF"/>
+<text x="712.0" y="246" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">2.8%</text>
+<rect x="755.0" y="226" width="82" height="28" fill="#F6E7C8"/>
+<text x="796.0" y="246" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">10.8%</text>
+<rect x="839.0" y="226" width="82" height="28" fill="#F6E7C8"/>
+<text x="880.0" y="246" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">10.4%</text>
+<rect x="923.0" y="226" width="82" height="28" fill="#F6E7C8"/>
+<text x="964.0" y="246" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">6.7%</text>
+<rect x="1007.0" y="226" width="82" height="28" fill="#EAF3EF"/>
+<text x="1048.0" y="246" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">4.3%</text>
+<text x="238" y="274" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">Microsoft Microsoft 365 Family</text>
+<text x="238" y="287" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">$12.99 per month</text>
+<rect x="251.0" y="260" width="82" height="28" fill="#F6E7C8"/>
+<text x="292.0" y="280" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">11.5%</text>
+<rect x="335.0" y="260" width="82" height="28" fill="#F6E7C8"/>
+<text x="376.0" y="280" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">7.1%</text>
+<rect x="419.0" y="260" width="82" height="28" fill="#EAF3EF"/>
+<text x="460.0" y="280" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">2.5%</text>
+<rect x="503.0" y="260" width="82" height="28" fill="#F6E7C8"/>
+<text x="544.0" y="280" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">5.9%</text>
+<rect x="587.0" y="260" width="82" height="28" fill="#EAF3EF"/>
+<text x="628.0" y="280" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">4.8%</text>
+<rect x="671.0" y="260" width="82" height="28" fill="#EAF3EF"/>
+<text x="712.0" y="280" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">3.6%</text>
+<rect x="755.0" y="260" width="82" height="28" fill="#F6E7C8"/>
+<text x="796.0" y="280" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">14.0%</text>
+<rect x="839.0" y="260" width="82" height="28" fill="#F6E7C8"/>
+<text x="880.0" y="280" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">13.6%</text>
+<rect x="923.0" y="260" width="82" height="28" fill="#F6E7C8"/>
+<text x="964.0" y="280" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">8.8%</text>
+<rect x="1007.0" y="260" width="82" height="28" fill="#F6E7C8"/>
+<text x="1048.0" y="280" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">5.6%</text>
+<text x="238" y="308" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">Google Google AI Pro</text>
+<text x="238" y="321" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">$19.99 per month</text>
+<rect x="251.0" y="294" width="82" height="28" fill="#F6E7C8"/>
+<text x="292.0" y="314" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">17.6%</text>
+<rect x="335.0" y="294" width="82" height="28" fill="#F6E7C8"/>
+<text x="376.0" y="314" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">10.9%</text>
+<rect x="419.0" y="294" width="82" height="28" fill="#EAF3EF"/>
+<text x="460.0" y="314" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">3.8%</text>
+<rect x="503.0" y="294" width="82" height="28" fill="#F6E7C8"/>
+<text x="544.0" y="314" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">9.1%</text>
+<rect x="587.0" y="294" width="82" height="28" fill="#F6E7C8"/>
+<text x="628.0" y="314" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">7.4%</text>
+<rect x="671.0" y="294" width="82" height="28" fill="#F6E7C8"/>
+<text x="712.0" y="314" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">5.5%</text>
+<rect x="755.0" y="294" width="82" height="28" fill="#F6E7C8"/>
+<text x="796.0" y="314" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">21.6%</text>
+<rect x="839.0" y="294" width="82" height="28" fill="#F6E7C8"/>
+<text x="880.0" y="314" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">20.9%</text>
+<rect x="923.0" y="294" width="82" height="28" fill="#F6E7C8"/>
+<text x="964.0" y="314" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">13.5%</text>
+<rect x="1007.0" y="294" width="82" height="28" fill="#F6E7C8"/>
+<text x="1048.0" y="314" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">8.6%</text>
+<line x1="28" y1="398" x2="1092" y2="398" stroke="#E2E5E2"/>
+<text x="28" y="417" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">Data: the Observatory record · CC BY 4.0 · compiled 2026-09-11 · list prices; a regional price where one is published is shown in the register</text>
+</svg>

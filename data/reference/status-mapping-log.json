@@ -1,0 +1,518 @@
+{
+ "schema_version": "2026.10.1",
+ "migrated_at": "2026-09-21",
+ "rows": [
+  {
+   "register": "model-prices",
+   "key": "Claude Fable 5.1",
+   "legacy_field": "status",
+   "legacy_value": "reported",
+   "evidence_status": "industry_body",
+   "temporal_status": "measured",
+   "headline_eligible": true
+  },
+  {
+   "register": "model-prices",
+   "key": "GPT-6 Astra",
+   "legacy_field": "status",
+   "legacy_value": "reported",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "measured",
+   "headline_eligible": false
+  },
+  {
+   "register": "model-prices",
+   "key": "Gemini 3.8 Flash",
+   "legacy_field": "status",
+   "legacy_value": "official",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "measured",
+   "headline_eligible": false
+  },
+  {
+   "register": "model-prices",
+   "key": "Kimi K3 (max)",
+   "legacy_field": "status",
+   "legacy_value": "reported",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "measured",
+   "headline_eligible": false
+  },
+  {
+   "register": "model-prices",
+   "key": "Grok 4.6",
+   "legacy_field": "status",
+   "legacy_value": "reported",
+   "evidence_status": "industry_body",
+   "temporal_status": "measured",
+   "headline_eligible": true
+  },
+  {
+   "register": "model-prices",
+   "key": "DeepSeek V4 Pro 0813 (max)",
+   "legacy_field": "status",
+   "legacy_value": "official",
+   "evidence_status": "official",
+   "temporal_status": "measured",
+   "headline_eligible": true
+  },
+  {
+   "register": "model-prices",
+   "key": "DeepSeek V4 Flash 0731",
+   "legacy_field": "status",
+   "legacy_value": "official",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "measured",
+   "headline_eligible": false
+  },
+  {
+   "register": "model-prices",
+   "key": "Claude Opus 5",
+   "legacy_field": "status",
+   "legacy_value": "reported",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "measured",
+   "headline_eligible": false
+  },
+  {
+   "register": "model-prices",
+   "key": "Claude Opus 5 (routed)",
+   "legacy_field": "status",
+   "legacy_value": "third_party",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "measured",
+   "headline_eligible": false
+  },
+  {
+   "register": "model-prices",
+   "key": "GPT-5.6 Sol",
+   "legacy_field": "status",
+   "legacy_value": "reported",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "measured",
+   "headline_eligible": false
+  },
+  {
+   "register": "model-prices",
+   "key": "GPT-5.6 Terra",
+   "legacy_field": "status",
+   "legacy_value": "reported",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "measured",
+   "headline_eligible": false
+  },
+  {
+   "register": "model-prices",
+   "key": "GPT-5.6 Luna",
+   "legacy_field": "status",
+   "legacy_value": "reported",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "measured",
+   "headline_eligible": false
+  },
+  {
+   "register": "model-prices",
+   "key": "Muse Spark 1.1",
+   "legacy_field": "status",
+   "legacy_value": "reported",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "measured",
+   "headline_eligible": false
+  },
+  {
+   "register": "model-price-events",
+   "key": "OpenAI GPT-5.6 Luna / Terra",
+   "legacy_field": "source",
+   "legacy_value": "OpenAI",
+   "evidence_status": "official",
+   "temporal_status": "measured",
+   "headline_eligible": true
+  },
+  {
+   "register": "model-price-events",
+   "key": "DeepSeek DeepSeek V4 Pro",
+   "legacy_field": "source",
+   "legacy_value": "DeepSeek V4 Hub",
+   "evidence_status": "unclear",
+   "temporal_status": "measured",
+   "headline_eligible": false
+  },
+  {
+   "register": "model-price-events",
+   "key": "DeepSeek DeepSeek API rate card",
+   "legacy_field": "source",
+   "legacy_value": "DeepSeek API Docs",
+   "evidence_status": "official",
+   "temporal_status": "measured",
+   "headline_eligible": true
+  },
+  {
+   "register": "model-price-events",
+   "key": "OpenAI GPT-5.6 Sol",
+   "legacy_field": "source",
+   "legacy_value": "Technology Org",
+   "evidence_status": "unclear",
+   "temporal_status": "measured",
+   "headline_eligible": false
+  },
+  {
+   "register": "model-price-events",
+   "key": "Google Gemini 3.8 Flash",
+   "legacy_field": "source",
+   "legacy_value": "Google / PacketNebula",
+   "evidence_status": "unclear",
+   "temporal_status": "measured",
+   "headline_eligible": false
+  },
+  {
+   "register": "device-shipments",
+   "key": "Shipment outlook, 2026 (Africa)",
+   "legacy_field": "type",
+   "legacy_value": "forecast",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "forecast",
+   "headline_eligible": false,
+   "geography_scope": "region"
+  },
+  {
+   "register": "device-policy",
+   "key": "Excise duty on smartphones (Kenya)",
+   "legacy_field": "type",
+   "legacy_value": "proposal",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "proposal",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "device-shipments",
+   "key": "Smartphone market growth, Q1 2026 (South Africa)",
+   "legacy_field": "type",
+   "legacy_value": "actual",
+   "evidence_status": "industry_body",
+   "temporal_status": "measured",
+   "headline_eligible": true,
+   "geography_scope": "country"
+  },
+  {
+   "register": "device-prices",
+   "key": "Device prices, 2026 projection (Nigeria)",
+   "legacy_field": "type",
+   "legacy_value": "projection",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "projection",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "device-prices",
+   "key": "Device prices (Emerging markets)",
+   "legacy_field": "type",
+   "legacy_value": "actual",
+   "evidence_status": "industry_body",
+   "temporal_status": "measured",
+   "headline_eligible": true,
+   "geography_scope": "region"
+  },
+  {
+   "register": "component-costs",
+   "key": "DRAM contract price, Q2 2026 (Global components)",
+   "legacy_field": "type",
+   "legacy_value": "actual",
+   "evidence_status": "industry_body",
+   "temporal_status": "measured",
+   "headline_eligible": true,
+   "geography_scope": "global"
+  },
+  {
+   "register": "device-shipments",
+   "key": "Shipments, 2026 forecast (Africa)",
+   "legacy_field": "type",
+   "legacy_value": "forecast",
+   "evidence_status": "industry_body",
+   "temporal_status": "forecast",
+   "headline_eligible": false,
+   "geography_scope": "region"
+  },
+  {
+   "register": "device-shipments",
+   "key": "Shipments, Q2 2026 (Sub-$100 segment)",
+   "legacy_field": "type",
+   "legacy_value": "actual",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "measured",
+   "headline_eligible": false,
+   "geography_scope": "region"
+  },
+  {
+   "register": "device-shipments",
+   "key": "Shipments, Q2 2026 (Africa)",
+   "legacy_field": "type",
+   "legacy_value": "actual",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "measured",
+   "headline_eligible": false,
+   "geography_scope": "region"
+  },
+  {
+   "register": "device-prices",
+   "key": "Telecoms average selling price, H1 2026 (South Africa)",
+   "legacy_field": "type",
+   "legacy_value": "actual",
+   "evidence_status": "unclear",
+   "temporal_status": "measured",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "device-prices",
+   "key": "Average selling price, 2026 (Global)",
+   "legacy_field": "type",
+   "legacy_value": "projection",
+   "evidence_status": "industry_body",
+   "temporal_status": "projection",
+   "headline_eligible": false,
+   "geography_scope": "global"
+  },
+  {
+   "register": "device-prices",
+   "key": "Device prices (Middle East & Africa)",
+   "legacy_field": "type",
+   "legacy_value": "actual",
+   "evidence_status": "industry_body",
+   "temporal_status": "measured",
+   "headline_eligible": true,
+   "geography_scope": "region"
+  },
+  {
+   "register": "device-prices",
+   "key": "Entry-level price band (Nigeria)",
+   "legacy_field": "type",
+   "legacy_value": "actual",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "measured",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "infrastructure",
+   "key": "Nairobi Two (NBO2)",
+   "legacy_field": "source",
+   "legacy_value": "TechAfrica News",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "measured",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "infrastructure",
+   "key": "NSIA AI data centre",
+   "legacy_field": "source",
+   "legacy_value": "BusinessDay",
+   "evidence_status": "unclear",
+   "temporal_status": "announced",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "infrastructure",
+   "key": "MTN AI-ready data centres",
+   "legacy_field": "source",
+   "legacy_value": "Nairametrics / Bloomberg",
+   "evidence_status": "unclear",
+   "temporal_status": "announced",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "infrastructure",
+   "key": "Vodafone, Elsewedy and Cassava data centre",
+   "legacy_field": "source",
+   "legacy_value": "TechAfrica News",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "announced",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "infrastructure",
+   "key": "Hassan Allam data centres (first phase)",
+   "legacy_field": "source",
+   "legacy_value": "Data Center Knowledge",
+   "evidence_status": "unclear",
+   "temporal_status": "measured",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "infrastructure",
+   "key": "Heka Data AI hub",
+   "legacy_field": "source",
+   "legacy_value": "TechAfrica News",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "announced",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "infrastructure",
+   "key": "Huawei AI data centre bid",
+   "legacy_field": "source",
+   "legacy_value": "Bloomberg",
+   "evidence_status": "unclear",
+   "temporal_status": "announced",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "infrastructure",
+   "key": "Airtel Kenya data centre",
+   "legacy_field": "source",
+   "legacy_value": "TechAfrica News",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "measured",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "infrastructure",
+   "key": "Mombasa AI data centre",
+   "legacy_field": "source",
+   "legacy_value": "Business Daily Africa",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "announced",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "infrastructure",
+   "key": "Cape Town hyperscale campus (two sites)",
+   "legacy_field": "source",
+   "legacy_value": "iAfrica",
+   "evidence_status": "unclear",
+   "temporal_status": "measured",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "infrastructure",
+   "key": "Equinix Cape Town campus",
+   "legacy_field": "source",
+   "legacy_value": "FurtherAfrica",
+   "evidence_status": "unclear",
+   "temporal_status": "measured",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "infrastructure",
+   "key": "Teraco portfolio (including JB7)",
+   "legacy_field": "source",
+   "legacy_value": "Voxilens (trade analysis)",
+   "evidence_status": "unclear",
+   "temporal_status": "measured",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "infrastructure",
+   "key": "Cassava AI Factory",
+   "legacy_field": "source",
+   "legacy_value": "TechAfrica News",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "measured",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "infrastructure",
+   "key": "Raxio expansion programme",
+   "legacy_field": "source",
+   "legacy_value": "TechAfrica News",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "announced",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "infrastructure",
+   "key": "Africa Data Centres Accra",
+   "legacy_field": "source",
+   "legacy_value": "Trade press (Data Centres Africa)",
+   "evidence_status": "unclear",
+   "temporal_status": "measured",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "infrastructure",
+   "key": "Wiocc capital raise",
+   "legacy_field": "source",
+   "legacy_value": "TechCentral",
+   "evidence_status": "unclear",
+   "temporal_status": "announced",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "infrastructure",
+   "key": "Côte d'Ivoire sovereign data centre",
+   "legacy_field": "source",
+   "legacy_value": "Developing Telecoms",
+   "evidence_status": "unclear",
+   "temporal_status": "measured",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "infrastructure",
+   "key": "Gabon sovereign data centre",
+   "legacy_field": "source",
+   "legacy_value": "ITWeb Africa",
+   "evidence_status": "unclear",
+   "temporal_status": "measured",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "infrastructure",
+   "key": "Cybastion AI hub",
+   "legacy_field": "source",
+   "legacy_value": "FurtherAfrica",
+   "evidence_status": "unclear",
+   "temporal_status": "announced",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "infrastructure",
+   "key": "Google African cloud region (Nairobi)",
+   "legacy_field": "source",
+   "legacy_value": "Tech In Africa",
+   "evidence_status": "unclear",
+   "temporal_status": "announced",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "infrastructure",
+   "key": "Nigeria cloud and AI investment target",
+   "legacy_field": "source",
+   "legacy_value": "iAfrica.com",
+   "evidence_status": "unclear",
+   "temporal_status": "announced",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  },
+  {
+   "register": "infrastructure",
+   "key": "Project BRIDGE fibre programme",
+   "legacy_field": "source",
+   "legacy_value": "TechAfrica News",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "measured",
+   "headline_eligible": false,
+   "geography_scope": "country"
+  }
+ ]
+}

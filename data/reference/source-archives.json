@@ -1,0 +1,610 @@
+{
+ "https://api-docs.deepseek.com/quick_start/pricing/": {
+  "archive_url": "https://web.archive.org/web/20260917051418/https://api-docs.deepseek.com/quick_start/pricing/",
+  "archived_at": "2026-09-17",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://apimaster.ai/blog/claude-opus-5-apimaster-launch-2026": {
+  "archive_url": "https://web.archive.org/web/20260921122612/https://apimaster.ai/blog/claude-opus-5-apimaster-launch-2026",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://artificialanalysis.ai/models": {
+  "archive_url": "https://web.archive.org/web/20260921091817/https://artificialanalysis.ai/models",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://artificialanalysis.ai/models/claude-fable-5-1": {
+  "archive_url": "https://web.archive.org/web/20260919054503/https://artificialanalysis.ai/models/claude-fable-5-1",
+  "archived_at": "2026-09-19",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://benchlm.ai/models/gemini-3-8-flash": {
+  "archive_url": "https://web.archive.org/web/20260920211440/https://benchlm.ai/models/gemini-3-8-flash",
+  "archived_at": "2026-09-20",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://businessday.ng/technology/article/nsia-bets-on-100mw-ai-data-centre-to-power-nigerias-digital-economy/": {
+  "archive_url": "https://web.archive.org/web/20260911080947/https://businessday.ng/technology/article/nsia-bets-on-100mw-ai-data-centre-to-power-nigerias-digital-economy/",
+  "archived_at": "2026-09-11",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://cyprus-mail.com/2026/08/25/africas-smartphone-market-suffers-first-decline-in-three-years/": {
+  "archive_url": "https://web.archive.org/web/20260921122637/https://cyprus-mail.com/2026/08/25/africas-smartphone-market-suffers-first-decline-in-three-years/",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://datacentresafrica.com/": {
+  "archive_url": "https://web.archive.org/web/20260921122653/https://datacentresafrica.com/",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://deepseekv4pro.com/news/deepseek-v4-pro-0813-official-release-opus-fable-benchmarks": {
+  "archive_url": "https://web.archive.org/web/20260921122725/https://deepseekv4pro.com/news/deepseek-v4-pro-0813-official-release-opus-fable-benchmarks",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://developingtelecoms.com/telecom-business/telecom-investment-mergers/20549-cote-divoire-approves-starlin": {
+  "status": "none",
+  "checked_at": "2026-09-21",
+  "submitted": true,
+  "archive_attempt": {
+   "method": "web.archive.org/save",
+   "attempted_at": "2026-09-21",
+   "outcome": "rejected",
+   "detail": "Wayback save endpoint returned HTTP 500 for automated submission; availability API returned HTTP 429 (rate limited) in the same run. Snapshot is not attainable from this host."
+  }
+ },
+ "https://furtherafrica.com/2026/08/04/equinix-wins-approval-for-major-cape-town-data-centre-campus/": {
+  "archive_url": "https://web.archive.org/web/20260921122736/https://furtherafrica.com/2026/08/04/equinix-wins-approval-for-major-cape-town-data-centre-campus/",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://furtherafrica.com/2026/09/02/cybastion-cameroon-investment-anchors-a-75m-ai-hub/": {
+  "archive_url": "https://web.archive.org/web/20260921123220/https://furtherafrica.com/2026/09/02/cybastion-cameroon-investment-anchors-a-75m-ai-hub/",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://iafrica.com/cape-town-approves-two-hyperscale-data-centres-totalling-174mw-among-africas-largest-new-g": {
+  "status": "none",
+  "checked_at": "2026-09-21",
+  "submitted": true,
+  "archive_attempt": {
+   "method": "web.archive.org/save",
+   "attempted_at": "2026-09-21",
+   "outcome": "rejected",
+   "detail": "Wayback save endpoint returned HTTP 500 for automated submission; availability API returned HTTP 429 (rate limited) in the same run. Snapshot is not attainable from this host."
+  }
+ },
+ "https://iafrica.com/nigeria-targets-750m-in-cloud-and-ai-infrastructure-investment-within-24-months-under-new-": {
+  "status": "none",
+  "checked_at": "2026-09-21",
+  "submitted": true,
+  "archive_attempt": {
+   "method": "web.archive.org/save",
+   "attempted_at": "2026-09-21",
+   "outcome": "rejected",
+   "detail": "Wayback save endpoint returned HTTP 500 for automated submission; availability API returned HTTP 429 (rate limited) in the same run. Snapshot is not attainable from this host."
+  }
+ },
+ "https://itweb.africa/article/gabon-launches-sovereign-data-centre/xnklOvz14JDq4Ymz": {
+  "archive_url": "https://web.archive.org/web/20260921122809/https://itweb.africa/article/gabon-launches-sovereign-data-centre/xnklOvz14JDq4Ymz",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://kie.ai/blog/kimi-k3-pricing": {
+  "archive_url": "https://web.archive.org/web/20260814064310/https://kie.ai/blog/kimi-k3-pricing",
+  "archived_at": "2026-08-14",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://llm-stats.com/blog/research/gpt-6-astra-launch": {
+  "archive_url": "https://web.archive.org/web/20260918151211/https://llm-stats.com/blog/research/gpt-6-astra-launch",
+  "archived_at": "2026-09-18",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://lmmarketcap.com/reports/gpt-5-6-sol-terra-luna": {
+  "archive_url": "https://web.archive.org/web/20260921122830/https://lmmarketcap.com/reports/gpt-5-6-sol-terra-luna",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://my.idc.com/getdoc.jsp?containerId=IDC_P37251": {
+  "archive_url": "https://web.archive.org/web/20260526195345/https://my.idc.com/getdoc.jsp?containerId=IDC_P37251",
+  "archived_at": "2026-05-26",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://mybroadband.co.za/news/smartphones/": {
+  "archive_url": "https://web.archive.org/web/20260910111947/https://mybroadband.co.za/news/smartphones",
+  "archived_at": "2026-09-10",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://nairametrics.com/2026/08/26/mtn-to-develop-150mw-ai-data-centres-in-nigeria-south-africa-with-uae-back": {
+  "status": "none",
+  "checked_at": "2026-09-21",
+  "submitted": true,
+  "archive_attempt": {
+   "method": "web.archive.org/save",
+   "attempted_at": "2026-09-21",
+   "outcome": "rejected",
+   "detail": "Wayback save endpoint returned HTTP 500 for automated submission; availability API returned HTTP 429 (rate limited) in the same run. Snapshot is not attainable from this host."
+  }
+ },
+ "https://omdia.tech.informa.com/": {
+  "archive_url": "https://web.archive.org/web/20260914042150/https://omdia.tech.informa.com/",
+  "archived_at": "2026-09-14",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/": {
+  "archive_url": "https://web.archive.org/web/20260905081006/https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+  "archived_at": "2026-09-05",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://techafricanews.com/2026/08/07/airtels-150m-kenya-data-centre-now-targets-july-2027-launch/": {
+  "archive_url": "https://web.archive.org/web/20260921122930/https://techafricanews.com/2026/08/07/airtels-150m-kenya-data-centre-now-targets-july-2027-launch/",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://techafricanews.com/2026/08/10/project-bridge-enters-execution-phase-with-bridge-oa-incorporation/": {
+  "archive_url": "https://web.archive.org/web/20260921122927/https://techafricanews.com/2026/08/10/project-bridge-enters-execution-phase-with-bridge-oa-incorporation/",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://techafricanews.com/2026/08/26/cassava-ai-factory-ranks-36th-top500/": {
+  "archive_url": "https://web.archive.org/web/20260921122937/https://techafricanews.com/2026/08/26/cassava-ai-factory-ranks-36th-top500/",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://techafricanews.com/2026/09/04/egypt-explores-major-data-centre-ai-hub-project-heka-data-us-consortium/": {
+  "archive_url": "https://web.archive.org/web/20260921123321/https://techafricanews.com/2026/09/04/egypt-explores-major-data-centre-ai-hub-project-heka-data-us-consortium/",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://techafricanews.com/2026/09/07/digital-realty-opens-6-4mw-nairobi-two-data-center-east-africa/": {
+  "archive_url": "https://web.archive.org/web/20260921123344/https://techafricanews.com/2026/09/07/digital-realty-opens-6-4mw-nairobi-two-data-center-east-africa/",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://techafricanews.com/2026/09/08/egypt-vodafone-elsewedy-cassava-1bn-data-centre/": {
+  "archive_url": "https://web.archive.org/web/20260921123009/https://techafricanews.com/2026/09/08/egypt-vodafone-elsewedy-cassava-1bn-data-centre/",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://techcabal.com/": {
+  "archive_url": "https://web.archive.org/web/20260912170311/https://techcabal.com/",
+  "archived_at": "2026-09-12",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://techcentral.co.za/wiocc-300-million-afc-vision-invest/285628/": {
+  "archive_url": "https://web.archive.org/web/20260910161338/https://techcentral.co.za/wiocc-300-million-afc-vision-invest/285628/",
+  "archived_at": "2026-09-10",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://telecomlead.com/smartphone/africa-smartphone-shipments-fall-7-in-q2-2026-as-sub-100-devices-plunge-34": {
+  "status": "none",
+  "checked_at": "2026-09-21",
+  "submitted": true,
+  "archive_attempt": {
+   "method": "web.archive.org/save",
+   "attempted_at": "2026-09-21",
+   "outcome": "rejected",
+   "detail": "Wayback save endpoint returned HTTP 500 for automated submission; availability API returned HTTP 429 (rate limited) in the same run. Snapshot is not attainable from this host."
+  }
+ },
+ "https://vercel.com/ai-gateway/models/muse-spark-1-1": {
+  "status": "none",
+  "checked_at": "2026-09-21",
+  "submitted": true,
+  "archive_attempt": {
+   "method": "web.archive.org/save",
+   "attempted_at": "2026-09-21",
+   "outcome": "rejected",
+   "detail": "Wayback save endpoint returned HTTP 500 for automated submission; availability API returned HTTP 429 (rate limited) in the same run. Snapshot is not attainable from this host."
+  }
+ },
+ "https://voxilens.com/": {
+  "archive_url": "https://web.archive.org/web/20260703083548/https://www.voxilens.com/",
+  "archived_at": "2026-07-03",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://www.aipricing.guru/openai-pricing/": {
+  "archive_url": "https://web.archive.org/web/20260906163405/https://www.aipricing.guru/openai-pricing/",
+  "archived_at": "2026-09-06",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://www.bloomberg.com/news/articles/2026-08-26/huawei-egypt-ai-ascend-chips-test-us-tech-diplomacy-nvidia-": {
+  "status": "none",
+  "checked_at": "2026-09-21",
+  "submitted": true,
+  "archive_attempt": {
+   "method": "web.archive.org/save",
+   "attempted_at": "2026-09-21",
+   "outcome": "rejected",
+   "detail": "Wayback save endpoint returned HTTP 500 for automated submission; availability API returned HTTP 429 (rate limited) in the same run. Snapshot is not attainable from this host."
+  }
+ },
+ "https://www.businessdailyafrica.com/bd/corporate/technology/greek-firm-amaco-plans-sh194bn-ai-data-centre-5561": {
+  "status": "none",
+  "checked_at": "2026-09-21",
+  "submitted": true,
+  "archive_attempt": {
+   "method": "web.archive.org/save",
+   "attempted_at": "2026-09-21",
+   "outcome": "rejected",
+   "detail": "Wayback save endpoint returned HTTP 500 for automated submission; availability API returned HTTP 429 (rate limited) in the same run. Snapshot is not attainable from this host."
+  }
+ },
+ "https://www.businessdailyafrica.com/bd/economy/kenya-finance-bill-2026-smartphones-excise-duty": {
+  "status": "none",
+  "checked_at": "2026-09-21",
+  "submitted": true,
+  "archive_attempt": {
+   "method": "web.archive.org/save",
+   "attempted_at": "2026-09-21",
+   "outcome": "rejected",
+   "detail": "Wayback save endpoint returned HTTP 500 for automated submission; availability API returned HTTP 429 (rate limited) in the same run. Snapshot is not attainable from this host."
+  }
+ },
+ "https://www.datacenterknowledge.com/data-center-construction/new-data-center-developments-august-2026": {
+  "archive_url": "https://web.archive.org/web/20260917202014/https://www.datacenterknowledge.com/data-center-construction/new-data-center-developments-august-2026",
+  "archived_at": "2026-09-17",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://www.legit.ng/business-economy/technology/": {
+  "archive_url": "https://web.archive.org/web/20260917194024/https://www.legit.ng/business-economy/technology/",
+  "archived_at": "2026-09-17",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://www.morphllm.com/deepseek-v4": {
+  "archive_url": "https://web.archive.org/web/20260616041347/https://www.morphllm.com/deepseek-v4",
+  "archived_at": "2026-06-16",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://www.packetnebula.com/gemini-38-flash-price-cliff/": {
+  "status": "none",
+  "checked_at": "2026-09-21",
+  "submitted": true,
+  "archive_attempt": {
+   "method": "web.archive.org/save",
+   "attempted_at": "2026-09-21",
+   "outcome": "rejected",
+   "detail": "Wayback save endpoint returned HTTP 500 for automated submission; availability API returned HTTP 429 (rate limited) in the same run. Snapshot is not attainable from this host."
+  }
+ },
+ "https://www.techafricanews.com/2026/07/14/raxio-secures-over-us380-million-to-accelerate-africa-data-centre-ex": {
+  "status": "none",
+  "checked_at": "2026-09-21",
+  "submitted": true,
+  "archive_attempt": {
+   "method": "web.archive.org/save",
+   "attempted_at": "2026-09-21",
+   "outcome": "rejected",
+   "detail": "Wayback save endpoint returned HTTP 500 for automated submission; availability API returned HTTP 429 (rate limited) in the same run. Snapshot is not attainable from this host."
+  }
+ },
+ "https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/": {
+  "archive_url": "https://web.archive.org/web/20260708182858/https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/",
+  "archived_at": "2026-07-08",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://www.technology.org/2026/08/24/openai-gpt-5-6-sol-price-cut-developers/": {
+  "archive_url": "https://web.archive.org/web/20260921123612/https://www.technology.org/2026/08/24/openai-gpt-5-6-sol-price-cut-developers/",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "204",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://www.trendforce.com/presscenter/": {
+  "archive_url": "https://web.archive.org/web/20260713183927/https://www.trendforce.com/presscenter",
+  "archived_at": "2026-07-13",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://api-docs.deepseek.com/quick_start/pricing": {
+  "archive_url": "https://web.archive.org/web/20260917051418/https://api-docs.deepseek.com/quick_start/pricing/",
+  "archived_at": "2026-09-17",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html?locale=en_US": {
+  "archive_url": "https://web.archive.org/web/20260918172743/https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html?locale=en_US",
+  "archived_at": "2026-09-18",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://chatgpt.com/pricing/": {
+  "archive_url": "https://web.archive.org/web/20260920222650/https://chatgpt.com/pricing/",
+  "archived_at": "2026-09-20",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://claude.com/pricing": {
+  "status": "none",
+  "checked_at": "2026-09-21",
+  "submitted": true,
+  "archive_attempt": {
+   "method": "web.archive.org/save",
+   "attempted_at": "2026-09-21",
+   "outcome": "rejected",
+   "detail": "Wayback save endpoint returned HTTP 500 for automated submission; availability API returned HTTP 429 (rate limited) in the same run. Snapshot is not attainable from this host."
+  }
+ },
+ "https://copilot.com/": {
+  "archive_url": "https://web.archive.org/web/20260921090333/https://copilot.com/",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://gemini.google/ng/subscriptions/": {
+  "archive_url": "https://web.archive.org/web/20251007194859/https://gemini.google/ng/subscriptions/",
+  "archived_at": "2025-10-07",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://gemini.google/subscriptions/?hl=en&gl=us": {
+  "status": "none",
+  "checked_at": "2026-09-21",
+  "submitted": true,
+  "archive_attempt": {
+   "method": "web.archive.org/save",
+   "attempted_at": "2026-09-21",
+   "outcome": "rejected",
+   "detail": "Wayback save endpoint returned HTTP 500 for automated submission; availability API returned HTTP 429 (rate limited) in the same run. Snapshot is not attainable from this host."
+  }
+ },
+ "https://help.openai.com/en/articles/7947663-chatgpt-supported-countries": {
+  "archive_url": "https://web.archive.org/web/20260917085436/https://help.openai.com/en/articles/7947663-chatgpt-supported-countries",
+  "archived_at": "2026-09-17",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://openai.com/index/introducing-chatgpt-go/": {
+  "archive_url": "https://web.archive.org/web/20260903055853/https://openai.com/index/introducing-chatgpt-go/",
+  "archived_at": "2026-09-03",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://support.google.com/gemini/answer/13575153": {
+  "archive_url": "https://web.archive.org/web/20260913162652/https://support.google.com/gemini/answer/13575153",
+  "archived_at": "2026-09-13",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://support.google.com/googleplay/answer/2651410?hl=en&co=GENIE.CountryCode%3DEG": {
+  "status": "none",
+  "checked_at": "2026-09-21",
+  "submitted": true,
+  "archive_attempt": {
+   "method": "web.archive.org/save",
+   "attempted_at": "2026-09-21",
+   "outcome": "rejected",
+   "detail": "Wayback save endpoint returned HTTP 500 for automated submission; availability API returned HTTP 429 (rate limited) in the same run. Snapshot is not attainable from this host."
+  }
+ },
+ "https://support.google.com/googleplay/answer/2651410?hl=en&co=GENIE.CountryCode%3DGH": {
+  "status": "none",
+  "checked_at": "2026-09-21",
+  "submitted": true,
+  "archive_attempt": {
+   "method": "web.archive.org/save",
+   "attempted_at": "2026-09-21",
+   "outcome": "rejected",
+   "detail": "Wayback save endpoint returned HTTP 500 for automated submission; availability API returned HTTP 429 (rate limited) in the same run. Snapshot is not attainable from this host."
+  }
+ },
+ "https://support.google.com/googleplay/answer/2651410?hl=en&co=GENIE.CountryCode%3DKE": {
+  "archive_url": "https://web.archive.org/web/20260816160910/https://support.google.com/googleplay/answer/2651410?co=GENIE.CountryCode%3DKE&hl=en",
+  "archived_at": "2026-08-16",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://support.google.com/googleplay/answer/2651410?hl=en&co=GENIE.CountryCode%3DMA": {
+  "archive_url": "https://web.archive.org/web/20260513085552/https://support.google.com/googleplay/answer/2651410?co=GENIE.CountryCode%3DMA&hl=en",
+  "archived_at": "2026-05-13",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://support.google.com/googleplay/answer/2651410?hl=en&co=GENIE.CountryCode%3DNG": {
+  "archive_url": "https://web.archive.org/web/20260610135824/https://support.google.com/googleplay/answer/2651410?co=GENIE.CountryCode%3DNG&hl=en",
+  "archived_at": "2026-06-10",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://support.google.com/googleplay/answer/2651410?hl=en&co=GENIE.CountryCode%3DZA": {
+  "archive_url": "https://web.archive.org/web/20260302012235/https://support.google.com/googleplay/answer/2651410?co=GENIE.CountryCode%3DZA&hl=en",
+  "archived_at": "2026-03-02",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://techcabal.com/2026/08/17/how-to-pay-for-premium-ai-tools-like-chatgpt-plus-and-claude-pro-in-nigeria/": {
+  "status": "none",
+  "checked_at": "2026-09-21",
+  "submitted": true,
+  "archive_attempt": {
+   "method": "web.archive.org/save",
+   "attempted_at": "2026-09-21",
+   "outcome": "rejected",
+   "detail": "Wayback save endpoint returned HTTP 500 for automated submission; availability API returned HTTP 429 (rate limited) in the same run. Snapshot is not attainable from this host."
+  }
+ },
+ "https://www.aipricing.guru/subscriptions/claude-max-20x/": {
+  "archive_url": "https://web.archive.org/web/20260916024829/https://www.aipricing.guru/subscriptions/claude-max-20x/",
+  "archived_at": "2026-09-16",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://www.anthropic.com/supported-countries": {
+  "archive_url": "https://web.archive.org/web/20260919112849/https://www.anthropic.com/supported-countries",
+  "archived_at": "2026-09-19",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://www.microsoft.com/en-us/microsoft-365-copilot/pricing/individuals": {
+  "archive_url": "https://web.archive.org/web/20260920031858/https://www.microsoft.com/en-us/microsoft-365-copilot/pricing/individuals",
+  "archived_at": "2026-09-20",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://www.perplexity.ai/help-center/en/articles/10353002-billing-faq-for-pro-plan-subscribers": {
+  "archive_url": "https://web.archive.org/web/20260406173424/https://www.perplexity.ai/help-center/en/articles/10353002-billing-faq-for-pro-plan-subscribers",
+  "archived_at": "2026-04-06",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://www.perplexity.ai/hub/pricing": {
+  "archive_url": "https://web.archive.org/web/20260827003856/https://www.perplexity.ai/hub/pricing",
+  "archived_at": "2026-08-27",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://x.ai/legal/terms-of-service": {
+  "archive_url": "https://web.archive.org/web/20260920181732/https://x.ai/legal/terms-of-service",
+  "archived_at": "2026-09-20",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://x.ai/pricing": {
+  "archive_url": "https://web.archive.org/web/20260920221651/https://x.ai/pricing",
+  "archived_at": "2026-09-20",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ }
+}

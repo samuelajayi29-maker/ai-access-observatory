@@ -1,0 +1,14 @@
+model,lab,cost_standard_workload_usd,input_usd_per_mtok,output_usd_per_mtok,capability_index,capability_basis,status,event,date,source,url
+Claude Fable 5.1,Anthropic,22.5,10.0,50.0,53,current,reported,launch,2026-09-01,Artificial Analysis / OpenRouter,https://artificialanalysis.ai/models/claude-fable-5-1
+GPT-6 Astra,OpenAI,22.5,10.0,50.0,53,current,reported,launch,2026-09-03,LLM Stats / Artificial Analysis,https://llm-stats.com/blog/research/gpt-6-astra-launch
+Gemini 3.8 Flash,Google,1.6875,0.75,3.75,41,current,official,launch,2026-09-02,Google / PacketNebula / Artificial Analysis,https://benchlm.ai/models/gemini-3-8-flash
+Kimi K3 (max),Moonshot AI,6.75,3.0,15.0,50,current,reported,launch,2026-07-16,Kie AI / Artificial Analysis,https://kie.ai/blog/kimi-k3-pricing
+Grok 4.6,SpaceXAI,3.5,2.0,6.0,44,current-derived,reported,launch,2026-08-01,Artificial Analysis / FollowNews,https://artificialanalysis.ai/models
+DeepSeek V4 Pro 0813 (max),DeepSeek,1.155,0.66,1.98,36,current,official,reprice,2026-08-13,DeepSeek API docs / Artificial Analysis,https://api-docs.deepseek.com/quick_start/pricing/
+DeepSeek V4 Flash 0731,DeepSeek,0.385,0.22,0.66,35,current,official,reprice,2026-08-13,DeepSeek API docs / MorphLLM,https://www.morphllm.com/deepseek-v4
+Claude Opus 5,Anthropic,11.25,5.0,25.0,63,launch,reported,launch,2026-07-24,Coursiv / APIMaster,https://apimaster.ai/blog/claude-opus-5-apimaster-launch-2026
+Claude Opus 5 (routed),Anthropic,4.5,2.0,10.0,63,launch,third_party,promo,2026-07-24,APIMaster,https://apimaster.ai/blog/claude-opus-5-apimaster-launch-2026
+GPT-5.6 Sol,OpenAI,12.5,5.0,30.0,59,launch,reported,launch,2026-07-09,AIPricing Guru / macgpu,https://www.aipricing.guru/openai-pricing/
+GPT-5.6 Terra,OpenAI,6.25,2.5,15.0,55,launch,reported,launch,2026-07-09,AIPricing Guru / LM Market Cap,https://lmmarketcap.com/reports/gpt-5-6-sol-terra-luna
+GPT-5.6 Luna,OpenAI,2.5,1.0,6.0,51,launch,reported,launch,2026-07-09,AIPricing Guru / LM Market Cap,https://lmmarketcap.com/reports/gpt-5-6-sol-terra-luna
+Muse Spark 1.1,Meta,2.3125,1.25,4.25,51,launch,reported,launch,2026-07-09,LinkedIn / Vercel AI Gateway,https://vercel.com/ai-gateway/models/muse-spark-1-1

@@ -1,0 +1,11 @@
+country_iso3,country_name,indicator,indicator_name,year,gni_per_capita_atlas_usd,api_last_updated
+CIV,Cote d'Ivoire,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",2025,2780,2026-07-13
+EGY,"Egypt, Arab Rep.",NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",2025,3260,2026-07-13
+ETH,Ethiopia,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",2025,1110,2026-07-13
+GHA,Ghana,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",2025,2630,2026-07-13
+KEN,Kenya,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",2025,2200,2026-07-13
+MAR,Morocco,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",2025,4360,2026-07-13
+NGA,Nigeria,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",2025,1360,2026-07-13
+RWA,Rwanda,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",2025,1150,2026-07-13
+SEN,Senegal,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",2025,1780,2026-07-13
+ZAF,South Africa,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",2025,6270,2026-07-13

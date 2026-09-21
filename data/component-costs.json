@@ -1,0 +1,33 @@
+{
+ "register": "component-costs",
+ "unit": "contract price or % change",
+ "holds": "DRAM, NAND, display and SoC input costs",
+ "schema_version": "2026.10.1",
+ "status_fields": [
+  "evidence_status",
+  "temporal_status"
+ ],
+ "compiled": "2026-09-11",
+ "observations": [
+  {
+   "date": "2026-07-05",
+   "scope": "Global components",
+   "metric": "DRAM contract price, Q2 2026",
+   "change_pct": 63,
+   "type": "actual",
+   "source": "TrendForce",
+   "url": "https://www.trendforce.com/presscenter/",
+   "note": "58% to 63% quarter on quarter; NAND contract prices up 70% to 75%.",
+   "geography_scope": "global",
+   "evidence_status": "industry_body",
+   "temporal_status": "measured",
+   "headline_eligible": true,
+   "legacy_type": "actual",
+   "originating_source": "TrendForce",
+   "evidence_host": "trendforce.com",
+   "source_quality": "ok",
+   "archive_url": "https://web.archive.org/web/20260713183927/https://www.trendforce.com/presscenter",
+   "archived_at": "2026-07-13"
+  }
+ ]
+}

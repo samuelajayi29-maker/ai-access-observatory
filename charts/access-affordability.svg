@@ -1,0 +1,300 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1146 604" width="1146" height="604" role="img" aria-label="A grid of 13 models against 10 countries showing what a month of moderate use costs as a share of monthly income. The cheapest model on the grid costs 4.6% of monthly income and the dearest 268%, so affordability turns on which model a user picks, not only on where they live. Across the countries with a statutory minimum wage, a month of moderate use costs between 4 and 1,899 hours of minimum-wage work.">
+<rect width="1146" height="604" fill="#FFFFFF"/>
+<text x="28" y="38" font-family="'Source Serif 4',Georgia,serif" font-size="21" font-weight="600" fill="#0D1B2A">A month of moderate use, as a share of monthly income</text>
+<text x="28" y="60" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#66757F">20 x the standard workload (1M input + 250k output tokens), against GNI per capita, Atlas method, divided by 12. Built on the record&#x27;s frozen unit, unchanged since the first release.</text>
+<text x="280.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">NGA</text>
+<text x="368.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">KEN</text>
+<text x="456.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">ZAF</text>
+<text x="544.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">GHA</text>
+<text x="632.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">EGY</text>
+<text x="720.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">MAR</text>
+<text x="808.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">ETH</text>
+<text x="896.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">RWA</text>
+<text x="984.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">SEN</text>
+<text x="1072.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">CIV</text>
+<text x="224" y="138" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">DeepSeek V4 Flash 0731</text>
+<rect x="237.0" y="120" width="86" height="26" fill="#EAF3EF"/>
+<text x="280.0" y="138" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">6.8%</text>
+<rect x="325.0" y="120" width="86" height="26" fill="#EAF3EF"/>
+<text x="368.0" y="138" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">4.2%</text>
+<rect x="413.0" y="120" width="86" height="26" fill="#EAF3EF"/>
+<text x="456.0" y="138" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">1.5%</text>
+<rect x="501.0" y="120" width="86" height="26" fill="#EAF3EF"/>
+<text x="544.0" y="138" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">3.5%</text>
+<rect x="589.0" y="120" width="86" height="26" fill="#EAF3EF"/>
+<text x="632.0" y="138" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">2.8%</text>
+<rect x="677.0" y="120" width="86" height="26" fill="#EAF3EF"/>
+<text x="720.0" y="138" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">2.1%</text>
+<rect x="765.0" y="120" width="86" height="26" fill="#EAF3EF"/>
+<text x="808.0" y="138" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">8.3%</text>
+<rect x="853.0" y="120" width="86" height="26" fill="#EAF3EF"/>
+<text x="896.0" y="138" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">8.0%</text>
+<rect x="941.0" y="120" width="86" height="26" fill="#EAF3EF"/>
+<text x="984.0" y="138" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">5.2%</text>
+<rect x="1029.0" y="120" width="86" height="26" fill="#EAF3EF"/>
+<text x="1072.0" y="138" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">3.3%</text>
+<text x="224" y="168" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">DeepSeek V4 Pro 0813 (max)</text>
+<rect x="237.0" y="150" width="86" height="26" fill="#F6E7C8"/>
+<text x="280.0" y="168" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">20.4%</text>
+<rect x="325.0" y="150" width="86" height="26" fill="#F6E7C8"/>
+<text x="368.0" y="168" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">12.6%</text>
+<rect x="413.0" y="150" width="86" height="26" fill="#EAF3EF"/>
+<text x="456.0" y="168" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">4.4%</text>
+<rect x="501.0" y="150" width="86" height="26" fill="#F6E7C8"/>
+<text x="544.0" y="168" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">10.5%</text>
+<rect x="589.0" y="150" width="86" height="26" fill="#EAF3EF"/>
+<text x="632.0" y="168" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">8.5%</text>
+<rect x="677.0" y="150" width="86" height="26" fill="#EAF3EF"/>
+<text x="720.0" y="168" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">6.4%</text>
+<rect x="765.0" y="150" width="86" height="26" fill="#F6E7C8"/>
+<text x="808.0" y="168" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">25.0%</text>
+<rect x="853.0" y="150" width="86" height="26" fill="#F6E7C8"/>
+<text x="896.0" y="168" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">24.1%</text>
+<rect x="941.0" y="150" width="86" height="26" fill="#F6E7C8"/>
+<text x="984.0" y="168" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">15.6%</text>
+<rect x="1029.0" y="150" width="86" height="26" fill="#EAF3EF"/>
+<text x="1072.0" y="168" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">10.0%</text>
+<text x="224" y="198" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">Gemini 3.8 Flash</text>
+<rect x="237.0" y="180" width="86" height="26" fill="#F6E7C8"/>
+<text x="280.0" y="198" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">29.8%</text>
+<rect x="325.0" y="180" width="86" height="26" fill="#F6E7C8"/>
+<text x="368.0" y="198" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">18.4%</text>
+<rect x="413.0" y="180" width="86" height="26" fill="#EAF3EF"/>
+<text x="456.0" y="198" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">6.5%</text>
+<rect x="501.0" y="180" width="86" height="26" fill="#F6E7C8"/>
+<text x="544.0" y="198" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">15.4%</text>
+<rect x="589.0" y="180" width="86" height="26" fill="#F6E7C8"/>
+<text x="632.0" y="198" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">12.4%</text>
+<rect x="677.0" y="180" width="86" height="26" fill="#EAF3EF"/>
+<text x="720.0" y="198" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">9.3%</text>
+<rect x="765.0" y="180" width="86" height="26" fill="#F6E7C8"/>
+<text x="808.0" y="198" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">36.5%</text>
+<rect x="853.0" y="180" width="86" height="26" fill="#F6E7C8"/>
+<text x="896.0" y="198" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">35.2%</text>
+<rect x="941.0" y="180" width="86" height="26" fill="#F6E7C8"/>
+<text x="984.0" y="198" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">22.8%</text>
+<rect x="1029.0" y="180" width="86" height="26" fill="#F6E7C8"/>
+<text x="1072.0" y="198" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">14.6%</text>
+<text x="224" y="228" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">Muse Spark 1.1</text>
+<rect x="237.0" y="210" width="86" height="26" fill="#F6E7C8"/>
+<text x="280.0" y="228" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">40.8%</text>
+<rect x="325.0" y="210" width="86" height="26" fill="#F6E7C8"/>
+<text x="368.0" y="228" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">25.2%</text>
+<rect x="413.0" y="210" width="86" height="26" fill="#EAF3EF"/>
+<text x="456.0" y="228" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">8.9%</text>
+<rect x="501.0" y="210" width="86" height="26" fill="#F6E7C8"/>
+<text x="544.0" y="228" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">21.1%</text>
+<rect x="589.0" y="210" width="86" height="26" fill="#F6E7C8"/>
+<text x="632.0" y="228" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">17.0%</text>
+<rect x="677.0" y="210" width="86" height="26" fill="#F6E7C8"/>
+<text x="720.0" y="228" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">12.7%</text>
+<rect x="765.0" y="210" width="86" height="26" fill="#EFC98A"/>
+<text x="808.0" y="228" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">50.0%</text>
+<rect x="853.0" y="210" width="86" height="26" fill="#F6E7C8"/>
+<text x="896.0" y="228" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">48.3%</text>
+<rect x="941.0" y="210" width="86" height="26" fill="#F6E7C8"/>
+<text x="984.0" y="228" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">31.2%</text>
+<rect x="1029.0" y="210" width="86" height="26" fill="#F6E7C8"/>
+<text x="1072.0" y="228" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">20.0%</text>
+<text x="224" y="258" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">GPT-5.6 Luna</text>
+<rect x="237.0" y="240" width="86" height="26" fill="#F6E7C8"/>
+<text x="280.0" y="258" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">44.1%</text>
+<rect x="325.0" y="240" width="86" height="26" fill="#F6E7C8"/>
+<text x="368.0" y="258" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">27.3%</text>
+<rect x="413.0" y="240" width="86" height="26" fill="#EAF3EF"/>
+<text x="456.0" y="258" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">9.6%</text>
+<rect x="501.0" y="240" width="86" height="26" fill="#F6E7C8"/>
+<text x="544.0" y="258" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">22.8%</text>
+<rect x="589.0" y="240" width="86" height="26" fill="#F6E7C8"/>
+<text x="632.0" y="258" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">18.4%</text>
+<rect x="677.0" y="240" width="86" height="26" fill="#F6E7C8"/>
+<text x="720.0" y="258" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">13.8%</text>
+<rect x="765.0" y="240" width="86" height="26" fill="#EFC98A"/>
+<text x="808.0" y="258" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">54.1%</text>
+<rect x="853.0" y="240" width="86" height="26" fill="#EFC98A"/>
+<text x="896.0" y="258" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">52.2%</text>
+<rect x="941.0" y="240" width="86" height="26" fill="#F6E7C8"/>
+<text x="984.0" y="258" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">33.7%</text>
+<rect x="1029.0" y="240" width="86" height="26" fill="#F6E7C8"/>
+<text x="1072.0" y="258" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">21.6%</text>
+<text x="224" y="288" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">Grok 4.6</text>
+<rect x="237.0" y="270" width="86" height="26" fill="#EFC98A"/>
+<text x="280.0" y="288" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">61.8%</text>
+<rect x="325.0" y="270" width="86" height="26" fill="#F6E7C8"/>
+<text x="368.0" y="288" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">38.2%</text>
+<rect x="413.0" y="270" width="86" height="26" fill="#F6E7C8"/>
+<text x="456.0" y="288" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">13.4%</text>
+<rect x="501.0" y="270" width="86" height="26" fill="#F6E7C8"/>
+<text x="544.0" y="288" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">31.9%</text>
+<rect x="589.0" y="270" width="86" height="26" fill="#F6E7C8"/>
+<text x="632.0" y="288" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">25.8%</text>
+<rect x="677.0" y="270" width="86" height="26" fill="#F6E7C8"/>
+<text x="720.0" y="288" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">19.3%</text>
+<rect x="765.0" y="270" width="86" height="26" fill="#EFC98A"/>
+<text x="808.0" y="288" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">75.7%</text>
+<rect x="853.0" y="270" width="86" height="26" fill="#EFC98A"/>
+<text x="896.0" y="288" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">73.0%</text>
+<rect x="941.0" y="270" width="86" height="26" fill="#F6E7C8"/>
+<text x="984.0" y="288" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">47.2%</text>
+<rect x="1029.0" y="270" width="86" height="26" fill="#F6E7C8"/>
+<text x="1072.0" y="288" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">30.2%</text>
+<text x="224" y="318" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">Claude Opus 5 (routed)</text>
+<rect x="237.0" y="300" width="86" height="26" fill="#EFC98A"/>
+<text x="280.0" y="318" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">79.4%</text>
+<rect x="325.0" y="300" width="86" height="26" fill="#F6E7C8"/>
+<text x="368.0" y="318" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">49.1%</text>
+<rect x="413.0" y="300" width="86" height="26" fill="#F6E7C8"/>
+<text x="456.0" y="318" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">17.2%</text>
+<rect x="501.0" y="300" width="86" height="26" fill="#F6E7C8"/>
+<text x="544.0" y="318" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">41.1%</text>
+<rect x="589.0" y="300" width="86" height="26" fill="#F6E7C8"/>
+<text x="632.0" y="318" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">33.1%</text>
+<rect x="677.0" y="300" width="86" height="26" fill="#F6E7C8"/>
+<text x="720.0" y="318" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">24.8%</text>
+<rect x="765.0" y="300" width="86" height="26" fill="#EFC98A"/>
+<text x="808.0" y="318" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">97.3%</text>
+<rect x="853.0" y="300" width="86" height="26" fill="#EFC98A"/>
+<text x="896.0" y="318" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">93.9%</text>
+<rect x="941.0" y="300" width="86" height="26" fill="#EFC98A"/>
+<text x="984.0" y="318" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">60.7%</text>
+<rect x="1029.0" y="300" width="86" height="26" fill="#F6E7C8"/>
+<text x="1072.0" y="318" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">38.8%</text>
+<text x="224" y="348" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">GPT-5.6 Terra</text>
+<rect x="237.0" y="330" width="86" height="26" fill="#D98A6A"/>
+<text x="280.0" y="348" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">110%</text>
+<rect x="325.0" y="330" width="86" height="26" fill="#EFC98A"/>
+<text x="368.0" y="348" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">68.2%</text>
+<rect x="413.0" y="330" width="86" height="26" fill="#F6E7C8"/>
+<text x="456.0" y="348" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">23.9%</text>
+<rect x="501.0" y="330" width="86" height="26" fill="#EFC98A"/>
+<text x="544.0" y="348" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">57.0%</text>
+<rect x="589.0" y="330" width="86" height="26" fill="#F6E7C8"/>
+<text x="632.0" y="348" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">46.0%</text>
+<rect x="677.0" y="330" width="86" height="26" fill="#F6E7C8"/>
+<text x="720.0" y="348" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">34.4%</text>
+<rect x="765.0" y="330" width="86" height="26" fill="#D98A6A"/>
+<text x="808.0" y="348" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">135%</text>
+<rect x="853.0" y="330" width="86" height="26" fill="#D98A6A"/>
+<text x="896.0" y="348" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">130%</text>
+<rect x="941.0" y="330" width="86" height="26" fill="#EFC98A"/>
+<text x="984.0" y="348" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">84.3%</text>
+<rect x="1029.0" y="330" width="86" height="26" fill="#EFC98A"/>
+<text x="1072.0" y="348" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">54.0%</text>
+<text x="224" y="378" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">Kimi K3 (max)</text>
+<rect x="237.0" y="360" width="86" height="26" fill="#D98A6A"/>
+<text x="280.0" y="378" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">119%</text>
+<rect x="325.0" y="360" width="86" height="26" fill="#EFC98A"/>
+<text x="368.0" y="378" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">73.6%</text>
+<rect x="413.0" y="360" width="86" height="26" fill="#F6E7C8"/>
+<text x="456.0" y="378" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">25.8%</text>
+<rect x="501.0" y="360" width="86" height="26" fill="#EFC98A"/>
+<text x="544.0" y="378" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">61.6%</text>
+<rect x="589.0" y="360" width="86" height="26" fill="#F6E7C8"/>
+<text x="632.0" y="378" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">49.7%</text>
+<rect x="677.0" y="360" width="86" height="26" fill="#F6E7C8"/>
+<text x="720.0" y="378" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">37.2%</text>
+<rect x="765.0" y="360" width="86" height="26" fill="#D98A6A"/>
+<text x="808.0" y="378" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">146%</text>
+<rect x="853.0" y="360" width="86" height="26" fill="#D98A6A"/>
+<text x="896.0" y="378" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">141%</text>
+<rect x="941.0" y="360" width="86" height="26" fill="#EFC98A"/>
+<text x="984.0" y="378" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">91.0%</text>
+<rect x="1029.0" y="360" width="86" height="26" fill="#EFC98A"/>
+<text x="1072.0" y="378" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">58.3%</text>
+<text x="224" y="408" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">Claude Opus 5</text>
+<rect x="237.0" y="390" width="86" height="26" fill="#D98A6A"/>
+<text x="280.0" y="408" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">199%</text>
+<rect x="325.0" y="390" width="86" height="26" fill="#D98A6A"/>
+<text x="368.0" y="408" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">123%</text>
+<rect x="413.0" y="390" width="86" height="26" fill="#F6E7C8"/>
+<text x="456.0" y="408" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">43.1%</text>
+<rect x="501.0" y="390" width="86" height="26" fill="#D98A6A"/>
+<text x="544.0" y="408" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">103%</text>
+<rect x="589.0" y="390" width="86" height="26" fill="#EFC98A"/>
+<text x="632.0" y="408" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">82.8%</text>
+<rect x="677.0" y="390" width="86" height="26" fill="#EFC98A"/>
+<text x="720.0" y="408" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">61.9%</text>
+<rect x="765.0" y="390" width="86" height="26" fill="#D98A6A"/>
+<text x="808.0" y="408" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">243%</text>
+<rect x="853.0" y="390" width="86" height="26" fill="#D98A6A"/>
+<text x="896.0" y="408" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">235%</text>
+<rect x="941.0" y="390" width="86" height="26" fill="#D98A6A"/>
+<text x="984.0" y="408" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">152%</text>
+<rect x="1029.0" y="390" width="86" height="26" fill="#EFC98A"/>
+<text x="1072.0" y="408" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">97.1%</text>
+<text x="224" y="438" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">GPT-5.6 Sol</text>
+<rect x="237.0" y="420" width="86" height="26" fill="#D98A6A"/>
+<text x="280.0" y="438" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">221%</text>
+<rect x="325.0" y="420" width="86" height="26" fill="#D98A6A"/>
+<text x="368.0" y="438" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">136%</text>
+<rect x="413.0" y="420" width="86" height="26" fill="#F6E7C8"/>
+<text x="456.0" y="438" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">47.8%</text>
+<rect x="501.0" y="420" width="86" height="26" fill="#D98A6A"/>
+<text x="544.0" y="438" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">114%</text>
+<rect x="589.0" y="420" width="86" height="26" fill="#EFC98A"/>
+<text x="632.0" y="438" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">92.0%</text>
+<rect x="677.0" y="420" width="86" height="26" fill="#EFC98A"/>
+<text x="720.0" y="438" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">68.8%</text>
+<rect x="765.0" y="420" width="86" height="26" fill="#D98A6A"/>
+<text x="808.0" y="438" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">270%</text>
+<rect x="853.0" y="420" width="86" height="26" fill="#D98A6A"/>
+<text x="896.0" y="438" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">261%</text>
+<rect x="941.0" y="420" width="86" height="26" fill="#D98A6A"/>
+<text x="984.0" y="438" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">169%</text>
+<rect x="1029.0" y="420" width="86" height="26" fill="#D98A6A"/>
+<text x="1072.0" y="438" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">108%</text>
+<text x="224" y="468" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">Claude Fable 5.1</text>
+<rect x="237.0" y="450" width="86" height="26" fill="#D98A6A"/>
+<text x="280.0" y="468" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">397%</text>
+<rect x="325.0" y="450" width="86" height="26" fill="#D98A6A"/>
+<text x="368.0" y="468" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">245%</text>
+<rect x="413.0" y="450" width="86" height="26" fill="#EFC98A"/>
+<text x="456.0" y="468" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">86.1%</text>
+<rect x="501.0" y="450" width="86" height="26" fill="#D98A6A"/>
+<text x="544.0" y="468" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">205%</text>
+<rect x="589.0" y="450" width="86" height="26" fill="#D98A6A"/>
+<text x="632.0" y="468" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">166%</text>
+<rect x="677.0" y="450" width="86" height="26" fill="#D98A6A"/>
+<text x="720.0" y="468" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">124%</text>
+<rect x="765.0" y="450" width="86" height="26" fill="#D98A6A"/>
+<text x="808.0" y="468" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">486%</text>
+<rect x="853.0" y="450" width="86" height="26" fill="#D98A6A"/>
+<text x="896.0" y="468" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">470%</text>
+<rect x="941.0" y="450" width="86" height="26" fill="#D98A6A"/>
+<text x="984.0" y="468" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">303%</text>
+<rect x="1029.0" y="450" width="86" height="26" fill="#D98A6A"/>
+<text x="1072.0" y="468" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">194%</text>
+<text x="224" y="498" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">GPT-6 Astra</text>
+<rect x="237.0" y="480" width="86" height="26" fill="#D98A6A"/>
+<text x="280.0" y="498" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">397%</text>
+<rect x="325.0" y="480" width="86" height="26" fill="#D98A6A"/>
+<text x="368.0" y="498" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">245%</text>
+<rect x="413.0" y="480" width="86" height="26" fill="#EFC98A"/>
+<text x="456.0" y="498" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">86.1%</text>
+<rect x="501.0" y="480" width="86" height="26" fill="#D98A6A"/>
+<text x="544.0" y="498" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">205%</text>
+<rect x="589.0" y="480" width="86" height="26" fill="#D98A6A"/>
+<text x="632.0" y="498" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">166%</text>
+<rect x="677.0" y="480" width="86" height="26" fill="#D98A6A"/>
+<text x="720.0" y="498" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">124%</text>
+<rect x="765.0" y="480" width="86" height="26" fill="#D98A6A"/>
+<text x="808.0" y="498" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">486%</text>
+<rect x="853.0" y="480" width="86" height="26" fill="#D98A6A"/>
+<text x="896.0" y="498" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">470%</text>
+<rect x="941.0" y="480" width="86" height="26" fill="#D98A6A"/>
+<text x="984.0" y="498" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">303%</text>
+<rect x="1029.0" y="480" width="86" height="26" fill="#D98A6A"/>
+<text x="1072.0" y="498" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#3A1A10">194%</text>
+<line x1="228" y1="116" x2="1116" y2="116" stroke="#E2E5E2"/>
+<rect x="228" y="534" width="11" height="11" fill="#EAF3EF"/>
+<text x="245" y="544" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">under 10% of monthly income</text>
+<rect x="412.8" y="534" width="11" height="11" fill="#F6E7C8"/>
+<text x="429.8" y="544" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">10 to 50%</text>
+<rect x="482.4" y="534" width="11" height="11" fill="#EFC98A"/>
+<text x="499.4" y="544" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">50 to 100%</text>
+<rect x="558.4" y="534" width="11" height="11" fill="#D98A6A"/>
+<text x="575.4" y="544" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">more than monthly income</text>
+<text x="228" y="566" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">Cells show the share of monthly GNI per capita; above 100% means a month of use costs more than a month of average income. Minimum-wage hours are in the data table.</text>
+<line x1="28" y1="558" x2="1118" y2="558" stroke="#E2E5E2"/>
+<text x="28" y="577" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">Data: the Observatory record · CC BY 4.0 · compiled 2026-09-11 · income base is the Atlas method, which smooths exchange rates</text>
+</svg>

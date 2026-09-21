@@ -3,223 +3,111 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>The analysis — AI Access Observatory</title>
-<meta name="description" content="What AI costs in Africa and what the continent is building: device affordability, frontier model pricing and the compute gap, with the evidence behind each claim.">
-<link rel="canonical" href="https://samuelajayi29-maker.github.io/ai-access-observatory/analysis.html">
-<meta property="og:title" content="The analysis — AI Access Observatory">
-<meta property="og:description" content="What AI costs in Africa and what the continent is building: device affordability, frontier model pricing and the compute gap, with the evidence behind each claim.">
-<meta property="og:url" content="https://samuelajayi29-maker.github.io/ai-access-observatory/analysis.html">
-<meta property="og:type" content="article">
-<meta property="og:image" content="https://samuelajayi29-maker.github.io/ai-access-observatory/og-card.png">
-<meta property="og:site_name" content="Astrolabe Data">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://samuelajayi29-maker.github.io/ai-access-observatory/og-card.png">
-<meta name="theme-color" content="#0d1b2a">
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
-<link rel="icon" type="image/svg+xml" href="favicon.svg">
-<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=3">
+<title>Essays — what the record shows</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
 </head>
-<body class="dim-access" data-bucket="access">
-<div class="wrap">
-  <nav>
-    <div class="lock">
-      <svg viewBox="0 0 200 200" aria-hidden="true"><circle cx="100" cy="100" r="84" fill="none" stroke="#111" stroke-width="7"/><circle cx="128" cy="72" r="7.5" fill="#c9a227"/></svg>
-      <div><div class="lw">Astrolabe</div><div class="la">DATA</div></div>
+<body>
+<div class="flag"><div class="wrap"><b>Prototype.</b> Written from the record; every claim traces to a row.</div></div>
+<header class="masthead"><div class="wrap">
+  <a class="mark" href="index.html">Astrolabe <span>Africa</span></a>
+  <nav class="nav"><a href="index.html">The record</a><a href="infrastructure.html">Infrastructure</a><a href="access.html">Access</a><a href="jobs.html">Jobs</a><a href="method.html">Method</a></nav>
+</div></header>
+<div class="accent-rule"></div>
+<header class="title"><div class="wrap">
+  <div class="crumb"><a href="index.html">The record</a> / Essays</div>
+  <h1>What the record shows</h1>
+  <p class="standfirst">The argument behind the data: three essays on infrastructure, access and work.</p>
+</div></header>
+<div class="wrap layout">
+  <div>
+    <h2 class="sec">Essays</h2>
+    <p class="sec-note">The argument behind the record: what the numbers mean for Africa's economic position.
+    Published here rather than on the series pages, so the data stands on its own.</p>
+    <div class="prose"><p>Two converging barriers: collapsing device affordability and frontier model pricing that excludes African budgets.</p>
+<h3>Overview</h3>
+<p>The access squeeze operates on two levels. Device access — the cheap smartphones that brought millions online are becoming unaffordable as AI-driven chip demand reshapes supply chains. And frontier model pricing — even if you have a device, the cost of using the world's most capable AI is priced for Western enterprise budgets, not Nigerian, Kenyan, or Ghanaian incomes.</p>
+<h3>Device Access</h3>
+<h3>The Cheap Smartphone Crisis</h3>
+<p>The "cheap smartphone miracle" — devices in the $30–$120 range — brought hundreds of millions of Africans online over the past decade. That era is ending. AI's insatiable demand for DRAM memory is reallocating chip supply from consumer electronics to data centres. Memory supply is inelastic; prices rise structurally.</p>
+<p>IDC projects a 13% decline in global smartphone shipments for 2026 — the largest single-year drop ever recorded. Africa and the Middle East are hit disproportionately: shipments down over 20%, concentrated entirely in the budget segment.</p>
+<p>Global DRAM price increases of ~20% translate to roughly $8–$15 added to a phone's BOM. But Nigeria's import bottlenecks — FX scarcity, port delays, multiple taxes and levies — amplify that to an estimated 60% retail price surge at the consumer end (Techpoint Africa, 2025). A phone that cost N80,000 (~$50) could exceed N128,000 (~$80) — pushing it out of reach for millions.</p>
+<p>This is not a temporary cycle. AI model sizes are growing, not shrinking. Each new generation of frontier models requires more memory for inference, which means more DRAM demand, which means ongoing pressure on consumer electronics pricing.</p>
+<h3>Frontier Model Pricing</h3>
+<h3>The Cost of Capability</h3>
+<p>Device access is one barrier. The cost of using frontier AI models is a separate, equally important one. As of July 2026, here is the full pricing spectrum:</p>
+<p>Nigeria's monthly minimum wage is approximately $45. A single deep analysis query on Claude Mythos 5 ($75/M output tokens) can consume more than a week's wage. Even GPT-5.6 Luna ($6/M output), the cheapest frontier model, adds up fast for real research or development workflows — a day's worth of serious API calls could equal a month's rent.</p>
+<h3>The Open-Weight Alternative</h3>
+<p>Open-weight models (Llama 4, DeepSeek-V3, Qwen 2.5, Mistral Large) are free to download and use. But "free" is misleading — they require expensive hardware to run. A Llama 4-70B at 4-bit quantization needs ~35GB of VRAM, which means a GPU costing $15,000–$30,000. Cloud inference on these models, even at cost, still requires compute that's priced in dollars on infrastructure that barely exists in Africa.</p>
+<p>The gap between "free to download" and "actually usable in Lagos" is itself a metric worth tracking.</p>
+<h3>The Geopolitical Gate</h3>
+<p>Access isn't just about price. Claude Fable 5 and Claude Mythos 5 were subject to US export controls from their June 9 launch until July 2, 2026 — a 23-day period where the most capable AI models in the world were legally restricted from certain users and regions.</p>
+<p>The restrictions were lifted, but the Fortune analysis noted the episode revealed a policy framework that is "still a mess." The ability to access frontier AI depends not just on whether you can pay, but on geopolitical decisions made in Washington, Brussels, and Beijing. For African policymakers building digital strategies around AI, this adds an unpredictable variable.</p>
+<h3>What We're Tracking</h3>
+<p class="bullet">Quarterly smartphone shipment data by region and price tier (IDC, Counterpoint)</p>
+<p class="bullet">DRAM/NAND pricing trends and supply forecasts</p>
+<p class="bullet">Frontier model API pricing changes across all providers</p>
+<p class="bullet">Export control and AI governance policy developments</p>
+<p class="bullet">Open-weight model efficiency gains (quantisation, distillation)</p>
+<p class="bullet">Edge AI / on-device LLM feasibility for African hardware</p>
+<p class="bullet">Inference cost-per-query vs. GDP per capita tracker</p>
+<h3>Infrastructure: the analysis</h3>
+<p>Africa holds less than 1% of global data centre capacity. As AI becomes more compute-intensive, that gap decides how much of the economy can be built at home.</p>
+<h3>Overview</h3>
+<p>The infrastructure squeeze is the most structural of the three. It cannot be solved by pricing adjustments or policy alone — it requires physical data centres, submarine cables, reliable electricity, and skilled engineers. Africa is starting from a position of extreme deficit.</p>
+<h3>The Data Centre Gap</h3>
+<p>Africa's total data centre capacity is estimated at less than 200MW — roughly equivalent to a single large hyperscale campus in Virginia or Northern Virginia. The entire continent has fewer data centres than the city of London.</p>
+<p>This capacity is concentrated in just three countries: South Africa (the dominant hub, with ~60% of total capacity), Nigeria, and Kenya. Most African countries have effectively zero commercial data centre capacity.</p>
+<p>Training a single frontier-class LLM can consume gigawatt-months of compute. A single training run for GPT-5.6 Sol or Claude Opus 4.8 likely required more electricity than all of Africa's data centres combined consume in a year. The inference gap is smaller but still vast — serving millions of users requires distributed, low-latency infrastructure that simply doesn't exist at scale on the continent.</p>
+<h3>Hyperscaler Activity</h3>
+<p>Progress is being made, but slowly:</p>
+<p>Google's Nairobi region announcement (July 2026) is significant — it will be the first East African hyperscale cloud region — but the 2028 target date means it's still two years away. The gap between announcement and operation matters when AI model generations are being measured in weeks.</p>
+<h3>Connectivity & Energy</h3>
+<p>Data centres are useless without connectivity and power. Submarine cable capacity to Africa has grown significantly — projects like 2Africa, Equiano, and SEA-ME-WE 5 have added substantial bandwidth — but last-mile connectivity remains expensive and unreliable.</p>
+<p>Energy is the harder constraint. Data centres need reliable, 24/7 power. In Nigeria, the national grid experiences multiple collapses per year; in South Africa, load-shedding (planned blackouts) has been a recurring problem. Off-grid solutions (solar + battery + diesel) add cost that makes African data centres more expensive to operate than their European or US counterparts. This creates a vicious cycle: higher costs mean less investment, which means fewer facilities, which means higher costs for those that do exist.</p>
+<p>A 2025 study by the African Data Centres Association found that the total cost of ownership for a medium-sized data centre in Lagos is approximately 30–40% higher than an equivalent facility in Frankfurt or Virginia, driven primarily by energy costs and backup generation requirements.</p>
+<h3>National AI Strategies</h3>
+<p>Only 7 of 54 African nations have published national AI strategies: South Africa, Nigeria, Kenya, Rwanda, Mauritius, Tunisia, and Ghana. Most are aspirational rather than fully funded. Few include specific provisions for compute infrastructure, data centre development, or energy planning for AI workloads.</p>
+<p>The African Union's Continental AI Strategy (draft, 2025) identifies infrastructure as a priority but has no binding mechanism for member states to act on it.</p>
+<h3>What We're Tracking</h3>
+<p class="bullet">Data centre construction announcements and timelines across Africa</p>
+<p class="bullet">Hyperscaler cloud region launches and service expansions</p>
+<p class="bullet">Submarine cable projects and bandwidth pricing trends</p>
+<p class="bullet">National AI strategy publications and implementation progress</p>
+<p class="bullet">Energy infrastructure developments relevant to compute</p>
+<p class="bullet">Edge computing and distributed inference initiatives</p>
+<p class="bullet">Academic research on efficient inference for low-resource settings</p></div></div>
+
+  <aside class="side">
+    <div class="box">
+      <h3>Download the data</h3>
+      <div class="files"><a href="data/ai-access-observatory.xlsx" download>Excel</a><a href="data/items.csv" download>CSV</a><a href="data/items.json" download>JSON</a></div>
+      <p>Every row carries its source link. Compiled 2026-09-11.</p>
     </div>
-    <div class="navr">
-      <a href="index.html">Dashboard</a>
-      <a class="" href="jobs.html">Jobs</a>
-      <a class="" href="access.html">Access</a>
-      <a class="" href="infra.html">Infrastructure</a>
-      <a class="on" href="analysis.html">Analysis</a>
-      <a href="methodology.html">Methodology</a>
-      <a href="index.html#tracker">Tracker</a>
-      <a class="btn g" href="index.html#weekly">The Weekly</a>
+    <div class="box" id="embed">
+      <h3>Embed a chart</h3>
+      <textarea readonly>&lt;img src="https://samuelajayi29-maker.github.io/ai-access-observatory/charts/record-activity.png" alt="Signals added to the record, by month"&gt;</textarea>
+      <p>Chart files update with each release, so an embed stays current.</p>
     </div>
-  </nav>
-  <div class="page dim">
-    <div class="k"><span class="kdot"></span>Analysis</div>
-    <h1>The analysis</h1>
-    <p class="lede">Two converging barriers: collapsing device affordability and frontier model pricing that excludes African budgets.</p>
-    
-    <div class="essay">
-
-  <!-- Overview -->
-  <div class="sec">
-    <h2>Overview</h2>
-    <p>The access squeeze operates on two levels. <strong>Device access</strong> &mdash; the cheap smartphones that brought millions online are becoming unaffordable as AI-driven chip demand reshapes supply chains. And <strong>frontier model pricing</strong> &mdash; even if you have a device, the cost of using the world's most capable AI is priced for Western enterprise budgets, not Nigerian, Kenyan, or Ghanaian incomes.</p>
-
-    <div class="statgrid">
-      <div class="stat"><div class="num">>20%</div><div class="lbl">Smartphone shipment decline 2026</div></div>
-      <div class="stat"><div class="num">$1&ndash;$75</div><div class="lbl">Frontier model /1M tok range</div></div>
-      <div class="stat"><div class="num">60%</div><div class="lbl">Potential phone price surge (NG)</div></div>
-      <div class="stat"><div class="num">75&times;</div><div class="lbl">Cheapest to priciest range</div></div>
+    <div class="box">
+      <h3>This release</h3>
+      <ul><li><b>Version</b>v2026.09</li><li><b>Compiled</b>2026-09-11</li></ul>
     </div>
-  </div>
-
-  <!-- Device Access -->
-  <div class="sec">
-    <h2>Device Access</h2>
-    <h3>The Cheap Smartphone Crisis</h3>
-    <p>The "cheap smartphone miracle" &mdash; devices in the <strong>$30&ndash;$120 range</strong> &mdash; brought hundreds of millions of Africans online over the past decade. That era is ending. AI's insatiable demand for DRAM memory is reallocating chip supply from consumer electronics to data centres. Memory supply is inelastic; prices rise structurally.</p>
-    <p><strong>IDC</strong> projects a <strong>13% decline</strong> in global smartphone shipments for 2026 &mdash; the largest single-year drop ever recorded. Africa and the Middle East are hit disproportionately: shipments down over <strong>20%</strong>, concentrated entirely in the budget segment.</p>
-
-    <div class="callout">
-      <h4>Nigeria: the math is brutal</h4>
-      <p>Global DRAM price increases of ~20% translate to roughly $8&ndash;$15 added to a phone's BOM. But Nigeria's import bottlenecks &mdash; FX scarcity, port delays, multiple taxes and levies &mdash; amplify that to an estimated <strong>60% retail price surge</strong> at the consumer end (Techpoint Africa, 2025). A phone that cost N80,000 (~$50) could exceed N128,000 (~$80) &mdash; pushing it out of reach for millions.</p>
+    <div class="box">
+      <h3>Latest additions</h3>
+      <ul><li><b>Infrastructure</b>22 rows</li><li><b>Access</b>26 records</li><li><b>Jobs</b>61 signals</li></ul>
     </div>
-
-    <p>This is not a temporary cycle. AI model sizes are growing, not shrinking. Each new generation of frontier models requires more memory for inference, which means more DRAM demand, which means ongoing pressure on consumer electronics pricing.</p>
-  </div>
-
-  <!-- Frontier Model Pricing -->
-  <div class="sec">
-    <h2>Frontier Model Pricing</h2>
-    <h3>The Cost of Capability</h3>
-    <p>Device access is one barrier. The cost of using frontier AI models is a separate, equally important one. As of <strong>July 2026</strong>, here is the full pricing spectrum:</p>
-
-    <table class="pricing-table">
-      <thead><tr><th>Model</th><th>Provider</th><th>Released</th><th>Input / 1M</th><th>Output / 1M</th></tr></thead>
-      <tbody>
-        <tr><td class="new">Claude Mythos 5</td><td>Anthropic</td><td>Jun 9</td><td>$15</td><td class="price">$75</td></tr>
-        <tr><td class="new">Claude Fable 5</td><td>Anthropic</td><td>Jun 9</td><td>$10</td><td class="price">$50</td></tr>
-        <tr><td>GPT-5.6 Sol</td><td>OpenAI</td><td>Jul 9</td><td>$5</td><td class="price">$30</td></tr>
-        <tr><td>Claude Opus 4.8</td><td>Anthropic</td><td>May 28</td><td>$5</td><td class="price">$25</td></tr>
-        <tr><td>Claude Sonnet 5</td><td>Anthropic</td><td>Jun 30</td><td>$3</td><td class="price">$15</td></tr>
-        <tr><td>GPT-5.6 Terra</td><td>OpenAI</td><td>Jul 9</td><td>$2.50</td><td class="price">$15</td></tr>
-        <tr><td>GPT-5.6 Luna</td><td>OpenAI</td><td>Jul 9</td><td>$1</td><td class="price">$6</td></tr>
-      </tbody>
-    </table>
-
-    <div class="callout">
-      <h4>Putting it in perspective</h4>
-      <p><strong>Nigeria's monthly minimum wage is approximately $45.</strong> A single deep analysis query on Claude Mythos 5 ($75/M output tokens) can consume more than a week's wage. Even GPT-5.6 Luna ($6/M output), the cheapest frontier model, adds up fast for real research or development workflows &mdash; a day's worth of serious API calls could equal a month's rent.</p>
+    <div class="box">
+      <h3>Permanent link</h3>
+      <div class="perm">https://samuelajayi29-maker.github.io/ai-access-observatory/</div>
+      <p>This address does not change. Cite it directly.</p>
     </div>
-
-    <h3>The Open-Weight Alternative</h3>
-    <p>Open-weight models (Llama 4, DeepSeek-V3, Qwen 2.5, Mistral Large) are free to download and use. But "free" is misleading &mdash; they require expensive hardware to run. A Llama 4-70B at 4-bit quantization needs ~35GB of VRAM, which means a GPU costing $15,000&ndash;$30,000. Cloud inference on these models, even at cost, still requires compute that's priced in dollars on infrastructure that barely exists in Africa.</p>
-    <p>The gap between "free to download" and "actually usable in Lagos" is itself a metric worth tracking.</p>
-  </div>
-
-  <!-- Geopolitical Dimension -->
-  <div class="sec">
-    <h3>The Geopolitical Gate</h3>
-    <p>Access isn't just about price. <strong>Claude Fable 5 and Claude Mythos 5</strong> were subject to <strong>US export controls</strong> from their June 9 launch until July 2, 2026 &mdash; a 23-day period where the most capable AI models in the world were legally restricted from certain users and regions.</p>
-    <p>The restrictions were lifted, but the <strong>Fortune</strong> analysis noted the episode revealed a policy framework that is "still a mess." The ability to access frontier AI depends not just on whether you can pay, but on geopolitical decisions made in Washington, Brussels, and Beijing. For African policymakers building digital strategies around AI, this adds an unpredictable variable.</p>
-
-    <div class="source-box">
-      <strong>Sources:</strong> IDC Quarterly Mobile Phone Tracker (Q2 2026) &middot; Techpoint Africa (2025) &middot; Anthropic pricing page &middot; OpenAI pricing page &middot; Counterpoint Research &middot; Fortune (Jul 2, 2026) &middot; Simon Willison (Jul 9, 2026)
-    </div>
-  </div>
-
-  <!-- What to track -->
-  <div class="sec">
-    <h3>What We're Tracking</h3>
-    <ul style="padding-left:1.25rem;color:#475569;font-size:0.9rem;">
-      <li>Quarterly smartphone shipment data by region and price tier (IDC, Counterpoint)</li>
-      <li>DRAM/NAND pricing trends and supply forecasts</li>
-      <li>Frontier model API pricing changes across all providers</li>
-      <li>Export control and AI governance policy developments</li>
-      <li>Open-weight model efficiency gains (quantisation, distillation)</li>
-      <li>Edge AI / on-device LLM feasibility for African hardware</li>
-      <li>Inference cost-per-query vs. GDP per capita tracker</li>
-    </ul>
-  </div>
-  </div>
-<h2 id="infrastructure" style="font-size:24px;color:#0d1b2a;margin:52px 0 6px">Infrastructure: the analysis</h2>
-<p style="font-size:16px;color:#425466;margin-bottom:8px">Africa holds less than 1% of global data centre capacity. As AI becomes more compute-intensive, that gap decides how much of the economy can be built at home.</p>
-<div class="essay">
-
-  <!-- Overview -->
-  <div class="sec">
-    <h2>Overview</h2>
-    <p>The infrastructure squeeze is the most structural of the three. It cannot be solved by pricing adjustments or policy alone &mdash; it requires physical data centres, submarine cables, reliable electricity, and skilled engineers. Africa is starting from a position of extreme deficit.</p>
-
-    <div class="statgrid">
-      <div class="stat"><div class="num">&lt;1%</div><div class="lbl">Global data centre capacity</div></div>
-      <div class="stat"><div class="num">18%</div><div class="lbl">Share of world population</div></div>
-      <div class="stat"><div class="num">7/54</div><div class="lbl">Countries with AI strategy</div></div>
-      <div class="stat"><div class="num">3</div><div class="lbl">Countries with AI compute hubs</div></div>
-    </div>
-  </div>
-
-  <!-- Data Centre Gap -->
-  <div class="sec">
-    <h2>The Data Centre Gap</h2>
-    <p>Africa's total data centre capacity is estimated at less than <strong>200MW</strong> &mdash; roughly equivalent to a single large hyperscale campus in Virginia or Northern Virginia. The entire continent has fewer data centres than the city of London.</p>
-
-    <p>This capacity is concentrated in just three countries: <strong>South Africa</strong> (the dominant hub, with ~60% of total capacity), <strong>Nigeria</strong>, and <strong>Kenya</strong>. Most African countries have effectively zero commercial data centre capacity.</p>
-
-    <div class="callout">
-      <h4>The capacity math</h4>
-      <p>Training a single frontier-class LLM can consume <strong>gigawatt-months</strong> of compute. A single training run for GPT-5.6 Sol or Claude Opus 4.8 likely required more electricity than all of Africa's data centres combined consume in a year. The inference gap is smaller but still vast &mdash; serving millions of users requires distributed, low-latency infrastructure that simply doesn't exist at scale on the continent.</p>
-    </div>
-  </div>
-
-  <!-- Hyperscaler Activity -->
-  <div class="sec">
-    <h3>Hyperscaler Activity</h3>
-    <p>Progress is being made, but slowly:</p>
-
-    <div class="map-callout">
-      <h4>Hyperscaler cloud regions in Africa</h4>
-      <div class="row"><span>AWS Africa (Cape Town)</span><span class="v">Live (2020)</span></div>
-      <div class="row"><span>Microsoft Azure (Cape Town, Johannesburg)</span><span class="v">Live (2022)</span></div>
-      <div class="row"><span>Google Cloud (Nairobi)</span><span class="v">Target 2028</span></div>
-      <div class="row"><span>Oracle (planned &mdash; SA, Nigeria)</span><span class="v">Announced</span></div>
-      <div class="row"><span>Equinix (NG, SA expansions)</span><span class="v">In progress</span></div>
-      <div class="row"><span>Raxio Data Centres (multiple countries)</span><span class="v">Expanding</span></div>
-    </div>
-
-    <p>Google's Nairobi region announcement (July 2026) is significant &mdash; it will be the first East African hyperscale cloud region &mdash; but the 2028 target date means it's still <strong>two years away</strong>. The gap between announcement and operation matters when AI model generations are being measured in weeks.</p>
-  </div>
-
-  <!-- Connectivity -->
-  <div class="sec">
-    <h3>Connectivity &amp; Energy</h3>
-    <p>Data centres are useless without connectivity and power. Submarine cable capacity to Africa has grown significantly &mdash; projects like <strong>2Africa</strong>, <strong>Equiano</strong>, and <strong>SEA-ME-WE 5</strong> have added substantial bandwidth &mdash; but last-mile connectivity remains expensive and unreliable.</p>
-
-    <p>Energy is the harder constraint. Data centres need <strong>reliable, 24/7 power</strong>. In Nigeria, the national grid experiences multiple collapses per year; in South Africa, load-shedding (planned blackouts) has been a recurring problem. Off-grid solutions (solar + battery + diesel) add cost that makes African data centres more expensive to operate than their European or US counterparts. This creates a vicious cycle: higher costs mean less investment, which means fewer facilities, which means higher costs for those that do exist.</p>
-
-    <div class="callout-amber">
-      <h4>The energy cost penalty</h4>
-      <p>A 2025 study by the <strong>African Data Centres Association</strong> found that the total cost of ownership for a medium-sized data centre in Lagos is approximately <strong>30&ndash;40% higher</strong> than an equivalent facility in Frankfurt or Virginia, driven primarily by energy costs and backup generation requirements.</p>
-    </div>
-  </div>
-
-  <!-- AI Strategies -->
-  <div class="sec">
-    <h3>National AI Strategies</h3>
-    <p>Only <strong>7 of 54</strong> African nations have published national AI strategies: South Africa, Nigeria, Kenya, Rwanda, Mauritius, Tunisia, and Ghana. Most are aspirational rather than fully funded. Few include specific provisions for compute infrastructure, data centre development, or energy planning for AI workloads.</p>
-    <p>The <strong>African Union's Continental AI Strategy</strong> (draft, 2025) identifies infrastructure as a priority but has no binding mechanism for member states to act on it.</p>
-  </div>
-
-  <!-- What to track -->
-  <div class="sec">
-    <h3>What We're Tracking</h3>
-    <ul style="padding-left:1.25rem;color:#475569;font-size:0.9rem;">
-      <li>Data centre construction announcements and timelines across Africa</li>
-      <li>Hyperscaler cloud region launches and service expansions</li>
-      <li>Submarine cable projects and bandwidth pricing trends</li>
-      <li>National AI strategy publications and implementation progress</li>
-      <li>Energy infrastructure developments relevant to compute</li>
-      <li>Edge computing and distributed inference initiatives</li>
-      <li>Academic research on efficient inference for low-resource settings</li>
-    </ul>
-  </div>
-
-  <div class="source-box">
-    <strong>Sources:</strong> WEF &middot; GSMA &middot; Xalam Analytics &middot; African Data Centres Association &middot; TechCabal &middot; Google Cloud (Jul 2026) &middot; African Union Continental AI Strategy (draft) &middot; UN population data
-  </div>
-  </div>
-
-  </div>
-  <footer>
-    <div>© 2026 Astrolabe Africa · The AI Access Observatory</div>
-    <div>Astrolabe Media · Astrolabe Research · Astrolabe Data</div>
-  </footer>
+  </aside>
 </div>
-<script src="app.js"></script>
+<footer><div class="wrap">
+  <a href="method.html">Method</a> &middot; <a href="analysis.html">Essays</a>
+</div></footer>
 </body>
 </html>
