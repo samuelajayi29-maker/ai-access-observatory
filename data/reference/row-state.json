@@ -1,0 +1,550 @@
+{
+ "infrastructure": {
+  "Nairobi Two (NBO2)": {
+   "payload": {
+    "capacity_mw": 6.4,
+    "capex_usd": null,
+    "capex_local": null,
+    "status": "operational",
+    "online": "2026-09-07",
+    "url": "https://techafricanews.com/2026/09/07/digital-realty-opens-6-4mw-nairobi-two-data-center-east-africa/"
+   },
+   "hash": "560129f4238a1c7f",
+   "date": "2026-09-07"
+  },
+  "NSIA AI data centre": {
+   "payload": {
+    "capacity_mw": 100,
+    "capex_usd": null,
+    "capex_local": null,
+    "status": "announced",
+    "online": null,
+    "url": "https://businessday.ng/technology/article/nsia-bets-on-100mw-ai-data-centre-to-power-nigerias-digital-economy/"
+   },
+   "hash": "dc9dbfd87fd58ab4",
+   "date": "2026-09-01"
+  },
+  "MTN AI-ready data centres": {
+   "payload": {
+    "capacity_mw": 150,
+    "capex_usd": null,
+    "capex_local": null,
+    "status": "announced",
+    "online": null,
+    "url": "https://nairametrics.com/2026/08/26/mtn-to-develop-150mw-ai-data-centres-in-nigeria-south-africa-with-uae-back"
+   },
+   "hash": "329c7b31714be003",
+   "date": "2026-08-26"
+  },
+  "Vodafone, Elsewedy and Cassava data centre": {
+   "payload": {
+    "capacity_mw": null,
+    "capex_usd": 1000000000,
+    "capex_local": null,
+    "status": "announced",
+    "online": null,
+    "url": "https://techafricanews.com/2026/09/08/egypt-vodafone-elsewedy-cassava-1bn-data-centre/"
+   },
+   "hash": "2c3297c42a9874f3",
+   "date": "2026-09-08"
+  },
+  "Hassan Allam data centres (first phase)": {
+   "payload": {
+    "capacity_mw": null,
+    "capex_usd": 400000000,
+    "capex_local": null,
+    "status": "approved",
+    "online": null,
+    "url": "https://www.datacenterknowledge.com/data-center-construction/new-data-center-developments-august-2026"
+   },
+   "hash": "e748ea121c81a4a1",
+   "date": "2026-08-05"
+  },
+  "Heka Data AI hub": {
+   "payload": {
+    "capacity_mw": null,
+    "capex_usd": null,
+    "capex_local": null,
+    "status": "exploring",
+    "online": null,
+    "url": "https://techafricanews.com/2026/09/04/egypt-explores-major-data-centre-ai-hub-project-heka-data-us-consortium/"
+   },
+   "hash": "2064124a61fc497b",
+   "date": "2026-09-04"
+  },
+  "Huawei AI data centre bid": {
+   "payload": {
+    "capacity_mw": null,
+    "capex_usd": null,
+    "capex_local": null,
+    "status": "exploring",
+    "online": null,
+    "url": "https://www.bloomberg.com/news/articles/2026-08-26/huawei-egypt-ai-ascend-chips-test-us-tech-diplomacy-nvidia-"
+   },
+   "hash": "ef076d3ade4d1d46",
+   "date": "2026-08-26"
+  },
+  "Airtel Kenya data centre": {
+   "payload": {
+    "capacity_mw": null,
+    "capex_usd": 150000000,
+    "capex_local": null,
+    "status": "under_construction",
+    "online": "2027-07",
+    "url": "https://techafricanews.com/2026/08/07/airtels-150m-kenya-data-centre-now-targets-july-2027-launch/"
+   },
+   "hash": "bc8e3a29a0445576",
+   "date": "2026-08-07"
+  },
+  "Mombasa AI data centre": {
+   "payload": {
+    "capacity_mw": null,
+    "capex_usd": null,
+    "capex_local": "KES 194bn",
+    "status": "announced",
+    "online": null,
+    "url": "https://www.businessdailyafrica.com/bd/corporate/technology/greek-firm-amaco-plans-sh194bn-ai-data-centre-5561"
+   },
+   "hash": "1ccf7e429532a621",
+   "date": "2026-08-17"
+  },
+  "Cape Town hyperscale campus (two sites)": {
+   "payload": {
+    "capacity_mw": 174,
+    "capex_usd": null,
+    "capex_local": null,
+    "status": "approved",
+    "online": null,
+    "url": "https://iafrica.com/cape-town-approves-two-hyperscale-data-centres-totalling-174mw-among-africas-largest-new-g"
+   },
+   "hash": "2cf449d4985583d0",
+   "date": "2026-07-24"
+  },
+  "Equinix Cape Town campus": {
+   "payload": {
+    "capacity_mw": null,
+    "capex_usd": null,
+    "capex_local": null,
+    "status": "approved",
+    "online": null,
+    "url": "https://furtherafrica.com/2026/08/04/equinix-wins-approval-for-major-cape-town-data-centre-campus/"
+   },
+   "hash": "66657587d9a3ae90",
+   "date": "2026-08-04"
+  },
+  "Teraco portfolio (including JB7)": {
+   "payload": {
+    "capacity_mw": 228,
+    "capex_usd": null,
+    "capex_local": null,
+    "status": "under_construction",
+    "online": "2026-12",
+    "url": "https://voxilens.com/"
+   },
+   "hash": "2061769ec3b31e26",
+   "date": "2026-07-01"
+  },
+  "Cassava AI Factory": {
+   "payload": {
+    "capacity_mw": null,
+    "capex_usd": 700000000,
+    "capex_local": null,
+    "status": "operational",
+    "online": "2026-08-26",
+    "url": "https://techafricanews.com/2026/08/26/cassava-ai-factory-ranks-36th-top500/"
+   },
+   "hash": "3c45bc9816c7b51e",
+   "date": "2026-08-26"
+  },
+  "Raxio expansion programme": {
+   "payload": {
+    "capacity_mw": null,
+    "capex_usd": 380000000,
+    "capex_local": null,
+    "status": "funding",
+    "online": null,
+    "url": "https://www.techafricanews.com/2026/07/14/raxio-secures-over-us380-million-to-accelerate-africa-data-centre-ex"
+   },
+   "hash": "6b3914ab7d38ee2c",
+   "date": "2026-07-14"
+  },
+  "Africa Data Centres Accra": {
+   "payload": {
+    "capacity_mw": 30,
+    "capex_usd": null,
+    "capex_local": null,
+    "status": "under_construction",
+    "online": null,
+    "url": "https://datacentresafrica.com/"
+   },
+   "hash": "39e381afd3f9ecb1",
+   "date": "2026-06-01"
+  },
+  "Wiocc capital raise": {
+   "payload": {
+    "capacity_mw": null,
+    "capex_usd": 300000000,
+    "capex_local": null,
+    "status": "funding",
+    "online": null,
+    "url": "https://techcentral.co.za/wiocc-300-million-afc-vision-invest/285628/"
+   },
+   "hash": "576b00aa0d0c14f7",
+   "date": "2026-09-01"
+  },
+  "Côte d'Ivoire sovereign data centre": {
+   "payload": {
+    "capacity_mw": null,
+    "capex_usd": 170000000,
+    "capex_local": null,
+    "status": "approved",
+    "online": null,
+    "url": "https://developingtelecoms.com/telecom-business/telecom-investment-mergers/20549-cote-divoire-approves-starlin"
+   },
+   "hash": "d5c4d2fc96ad342a",
+   "date": "2026-07-20"
+  },
+  "Gabon sovereign data centre": {
+   "payload": {
+    "capacity_mw": null,
+    "capex_usd": null,
+    "capex_local": null,
+    "status": "operational",
+    "online": "2026-07-08",
+    "url": "https://itweb.africa/article/gabon-launches-sovereign-data-centre/xnklOvz14JDq4Ymz"
+   },
+   "hash": "3d592bc08225f0a9",
+   "date": "2026-07-08"
+  },
+  "Cybastion AI hub": {
+   "payload": {
+    "capacity_mw": null,
+    "capex_usd": 75000000,
+    "capex_local": null,
+    "status": "announced",
+    "online": null,
+    "url": "https://furtherafrica.com/2026/09/02/cybastion-cameroon-investment-anchors-a-75m-ai-hub/"
+   },
+   "hash": "0828f178922f57c4",
+   "date": "2026-09-02"
+  },
+  "Google African cloud region (Nairobi)": {
+   "payload": {
+    "capacity_mw": null,
+    "capex_usd": null,
+    "capex_local": null,
+    "status": "announced",
+    "online": "2028",
+    "url": "https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/"
+   },
+   "hash": "34204b35fc693cb8",
+   "date": "2026-07-06"
+  },
+  "Nigeria cloud and AI investment target": {
+   "payload": {
+    "capacity_mw": null,
+    "capex_usd": 750000000,
+    "capex_local": null,
+    "status": "policy_target",
+    "online": "2028-08",
+    "url": "https://iafrica.com/nigeria-targets-750m-in-cloud-and-ai-infrastructure-investment-within-24-months-under-new-"
+   },
+   "hash": "be93bd261deb03b0",
+   "date": "2026-08-24"
+  },
+  "Project BRIDGE fibre programme": {
+   "payload": {
+    "capacity_mw": null,
+    "capex_usd": null,
+    "capex_local": null,
+    "status": "under_construction",
+    "online": null,
+    "url": "https://techafricanews.com/2026/08/10/project-bridge-enters-execution-phase-with-bridge-oa-incorporation/"
+   },
+   "hash": "d50aea7aa859e73b",
+   "date": "2026-08-10"
+  }
+ },
+ "model-prices": {
+  "Claude Fable 5.1": {
+   "payload": {
+    "input": 10.0,
+    "output": 50.0,
+    "capability": 53.4,
+    "cap_basis": "current",
+    "status": "reported",
+    "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
+   },
+   "hash": "1382a0a602ca7616",
+   "date": "2026-09-01"
+  },
+  "GPT-6 Astra": {
+   "payload": {
+    "input": 10.0,
+    "output": 50.0,
+    "capability": 52.7,
+    "cap_basis": "current",
+    "status": "reported",
+    "url": "https://llm-stats.com/blog/research/gpt-6-astra-launch"
+   },
+   "hash": "6d45c7551edf6a8d",
+   "date": "2026-09-03"
+  },
+  "Gemini 3.8 Flash": {
+   "payload": {
+    "input": 0.75,
+    "output": 3.75,
+    "capability": 40.9,
+    "cap_basis": "current",
+    "status": "official",
+    "url": "https://benchlm.ai/models/gemini-3-8-flash"
+   },
+   "hash": "040524b85e37abc1",
+   "date": "2026-09-02"
+  },
+  "Kimi K3 (max)": {
+   "payload": {
+    "input": 3.0,
+    "output": 15.0,
+    "capability": 43.6,
+    "cap_basis": "current",
+    "status": "reported",
+    "url": "https://kie.ai/blog/kimi-k3-pricing"
+   },
+   "hash": "c7bdb22f97000d98",
+   "date": "2026-07-16"
+  },
+  "Grok 4.6": {
+   "payload": {
+    "input": 2.0,
+    "output": 6.0,
+    "capability": 44.3,
+    "cap_basis": "current",
+    "status": "reported",
+    "url": "https://artificialanalysis.ai/models"
+   },
+   "hash": "7d7ddc1f992e0a59",
+   "date": "2026-08-01"
+  },
+  "DeepSeek V4 Pro 0813 (max)": {
+   "payload": {
+    "input": 0.66,
+    "output": 1.98,
+    "capability": 36.0,
+    "cap_basis": "current",
+    "status": "official",
+    "url": "https://api-docs.deepseek.com/quick_start/pricing/"
+   },
+   "hash": "1940a31999649d76",
+   "date": "2026-08-13"
+  },
+  "DeepSeek V4 Flash 0731": {
+   "payload": {
+    "input": 0.22,
+    "output": 0.66,
+    "capability": 35,
+    "cap_basis": "no current score",
+    "status": "official",
+    "url": "https://www.morphllm.com/deepseek-v4"
+   },
+   "hash": "609bd5496b115b7e",
+   "date": "2026-08-13"
+  },
+  "Claude Opus 5": {
+   "payload": {
+    "input": 5.0,
+    "output": 25.0,
+    "capability": 50.8,
+    "cap_basis": "current",
+    "status": "reported",
+    "url": "https://apimaster.ai/blog/claude-opus-5-apimaster-launch-2026"
+   },
+   "hash": "7f33844313e19300",
+   "date": "2026-07-24"
+  },
+  "Claude Opus 5 (routed)": {
+   "payload": {
+    "input": 2.0,
+    "output": 10.0,
+    "capability": 50.8,
+    "cap_basis": "current",
+    "status": "third_party",
+    "url": "https://apimaster.ai/blog/claude-opus-5-apimaster-launch-2026"
+   },
+   "hash": "6d56d9fd17314e24",
+   "date": "2026-07-24"
+  },
+  "GPT-5.6 Sol": {
+   "payload": {
+    "input": 5.0,
+    "output": 30.0,
+    "capability": 47.0,
+    "cap_basis": "current",
+    "status": "reported",
+    "url": "https://www.aipricing.guru/openai-pricing/"
+   },
+   "hash": "db5ccf2e107c3911",
+   "date": "2026-07-09"
+  },
+  "GPT-5.6 Terra": {
+   "payload": {
+    "input": 2.5,
+    "output": 15.0,
+    "capability": 42.1,
+    "cap_basis": "current",
+    "status": "reported",
+    "url": "https://lmmarketcap.com/reports/gpt-5-6-sol-terra-luna"
+   },
+   "hash": "55179b59c929e895",
+   "date": "2026-07-09"
+  },
+  "GPT-5.6 Luna": {
+   "payload": {
+    "input": 1.0,
+    "output": 6.0,
+    "capability": 37.3,
+    "cap_basis": "current",
+    "status": "reported",
+    "url": "https://lmmarketcap.com/reports/gpt-5-6-sol-terra-luna"
+   },
+   "hash": "78b64a99e0041c64",
+   "date": "2026-07-09"
+  },
+  "Muse Spark 1.1": {
+   "payload": {
+    "input": 1.25,
+    "output": 4.25,
+    "capability": 51,
+    "cap_basis": "no current score",
+    "status": "reported",
+    "url": "https://vercel.com/ai-gateway/models/muse-spark-1-1"
+   },
+   "hash": "8d2013b887a70dac",
+   "date": "2026-07-09"
+  }
+ },
+ "device-prices": {
+  "Entry-level price band|Nigeria|2026-09-08": {
+   "payload": {
+    "change_pct": null,
+    "value_low": 150000,
+    "value_high": 300000,
+    "metric": "Entry-level price band"
+   },
+   "hash": "1a02a06fffb38e32",
+   "date": "2026-09-08"
+  },
+  "Average selling price, 2026|Global|2026-09-05": {
+   "payload": {
+    "change_pct": 27.6,
+    "value_low": null,
+    "value_high": null,
+    "metric": "Average selling price, 2026"
+   },
+   "hash": "6e6490f11c484278",
+   "date": "2026-09-05"
+  },
+  "Device prices|Middle East & Africa|2026-09-05": {
+   "payload": {
+    "change_pct": 18,
+    "value_low": null,
+    "value_high": null,
+    "metric": "Device prices"
+   },
+   "hash": "dd34d0cfc5872e98",
+   "date": "2026-09-05"
+  },
+  "Telecoms average selling price, H1 2026|South Africa|2026-09-01": {
+   "payload": {
+    "change_pct": 9.8,
+    "value_low": null,
+    "value_high": null,
+    "metric": "Telecoms average selling price, H1 2026"
+   },
+   "hash": "311d3d6cd765cafd",
+   "date": "2026-09-01"
+  },
+  "Device prices|Emerging markets|2026-06-23": {
+   "payload": {
+    "change_pct": 50,
+    "value_low": null,
+    "value_high": null,
+    "metric": "Device prices"
+   },
+   "hash": "d9a91ac68b1f058a",
+   "date": "2026-06-23"
+  },
+  "Device prices, 2026 projection|Nigeria|2026-06-03": {
+   "payload": {
+    "change_pct": 30,
+    "value_low": null,
+    "value_high": null,
+    "metric": "Device prices, 2026 projection"
+   },
+   "hash": "b5394fb563d53087",
+   "date": "2026-06-03"
+  }
+ },
+ "device-shipments": {
+  "Shipments, Q2 2026|Africa|2026-08-25": {
+   "payload": {
+    "change_pct": -7,
+    "metric": "Shipments, Q2 2026"
+   },
+   "hash": "75d09c3b39ed31a6",
+   "date": "2026-08-25"
+  },
+  "Shipments, 2026 forecast|Africa|2026-08-20": {
+   "payload": {
+    "change_pct": -26,
+    "metric": "Shipments, 2026 forecast"
+   },
+   "hash": "0f0af6a5da71f475",
+   "date": "2026-08-20"
+  },
+  "Shipments, Q2 2026|Sub-$100 segment|2026-08-20": {
+   "payload": {
+    "change_pct": -34,
+    "metric": "Shipments, Q2 2026"
+   },
+   "hash": "8e6da3e5aeec47c1",
+   "date": "2026-08-20"
+  },
+  "Smartphone market growth, Q1 2026|South Africa|2026-05-27": {
+   "payload": {
+    "change_pct": 17,
+    "metric": "Smartphone market growth, Q1 2026"
+   },
+   "hash": "a507fff2d22fc6cc",
+   "date": "2026-05-27"
+  },
+  "Shipment outlook, 2026|Africa|2026-02-28": {
+   "payload": {
+    "change_pct": -25,
+    "metric": "Shipment outlook, 2026"
+   },
+   "hash": "04e64277a0ca5150",
+   "date": "2026-02-28"
+  }
+ },
+ "device-policy": {
+  "Excise duty on smartphones|Kenya|2026-05-14": {
+   "payload": {
+    "change_pct": 25,
+    "metric": "Excise duty on smartphones"
+   },
+   "hash": "6f4e4d7170272540",
+   "date": "2026-05-14"
+  }
+ },
+ "component-costs": {
+  "DRAM contract price, Q2 2026|Global components|2026-07-05": {
+   "payload": {
+    "change_pct": 63,
+    "metric": "DRAM contract price, Q2 2026"
+   },
+   "hash": "33d9e5a73f847df9",
+   "date": "2026-07-05"
+  }
+ }
+}

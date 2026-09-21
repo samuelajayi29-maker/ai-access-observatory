@@ -24,7 +24,7 @@
    "output": 50.0,
    "status": "reported",
    "event": "launch",
-   "capability": 53,
+   "capability": 53.4,
    "cap_basis": "current",
    "cap_note": "First of the 201 models on the current index. Flagged by Artificial Analysis as among the most token-hungry models scoring above 25, so real cost per task runs above the rate card.",
    "source": "Artificial Analysis / OpenRouter",
@@ -38,7 +38,10 @@
    "evidence_host": "artificialanalysis.ai",
    "source_quality": "ok",
    "archive_url": "https://web.archive.org/web/20260919054503/https://artificialanalysis.ai/models/claude-fable-5-1",
-   "archived_at": "2026-09-19"
+   "archived_at": "2026-09-19",
+   "capability_prior_value": 53,
+   "capability_prior_basis": "current",
+   "capability_source_url": "https://artificialanalysis.ai/models/claude-fable-5-1"
   },
   {
    "date": "2026-09-03",
@@ -48,7 +51,7 @@
    "output": 50.0,
    "status": "reported",
    "event": "launch",
-   "capability": 53,
+   "capability": 52.7,
    "cap_basis": "current",
    "cap_note": "Artificial Analysis reports Astra equal to Fable 5.1 on the current index at roughly 40% of the cost per task, because it completes work in fewer steps.",
    "source": "LLM Stats / Artificial Analysis",
@@ -62,7 +65,10 @@
    "evidence_host": "llm-stats.com",
    "source_quality": "ok",
    "archive_url": "https://web.archive.org/web/20260918151211/https://llm-stats.com/blog/research/gpt-6-astra-launch",
-   "archived_at": "2026-09-18"
+   "archived_at": "2026-09-18",
+   "capability_prior_value": 53,
+   "capability_prior_basis": "current",
+   "capability_source_url": "https://artificialanalysis.ai/models/gpt-6-astra"
   },
   {
    "date": "2026-09-02",
@@ -72,7 +78,7 @@
    "output": 3.75,
    "status": "official",
    "event": "launch",
-   "capability": 41,
+   "capability": 40.9,
    "cap_basis": "current",
    "cap_note": "Current index, high effort. Launch coverage scored it 59 on the pre-restatement scale.",
    "price_note": "Introductory rate to 31 December 2026. Rises to $1.50 / $7.50 on 1 January 2027.",
@@ -87,7 +93,10 @@
    "evidence_host": "benchlm.ai",
    "source_quality": "ok",
    "archive_url": "https://web.archive.org/web/20260920211440/https://benchlm.ai/models/gemini-3-8-flash",
-   "archived_at": "2026-09-20"
+   "archived_at": "2026-09-20",
+   "capability_prior_value": 41,
+   "capability_prior_basis": "current",
+   "capability_source_url": "https://artificialanalysis.ai/models/gemini-3-8-flash"
   },
   {
    "date": "2026-07-16",
@@ -97,7 +106,7 @@
    "output": 15.0,
    "status": "reported",
    "event": "launch",
-   "capability": 50,
+   "capability": 43.6,
    "cap_basis": "current",
    "cap_note": "Highest-ranked open-weights model on the current index. Scored 57 on the pre-restatement scale.",
    "source": "Kie AI / Artificial Analysis",
@@ -111,7 +120,10 @@
    "evidence_host": "kie.ai",
    "source_quality": "ok",
    "archive_url": "https://web.archive.org/web/20260814064310/https://kie.ai/blog/kimi-k3-pricing",
-   "archived_at": "2026-08-14"
+   "archived_at": "2026-08-14",
+   "capability_prior_value": 50,
+   "capability_prior_basis": "current",
+   "capability_source_url": "https://artificialanalysis.ai/models/kimi-k3"
   },
   {
    "date": "2026-08-01",
@@ -121,8 +133,8 @@
    "output": 6.0,
    "status": "reported",
    "event": "launch",
-   "capability": 44,
-   "cap_basis": "current-derived",
+   "capability": 44.3,
+   "cap_basis": "current",
    "cap_note": "Derived: one source reports 9 index points behind Claude Fable 5.1 at 8x lower price. Score was 61 on the pre-restatement scale. Treat as approximate.",
    "source": "Artificial Analysis / FollowNews",
    "url": "https://artificialanalysis.ai/models",
@@ -135,7 +147,10 @@
    "evidence_host": "artificialanalysis.ai",
    "source_quality": "ok",
    "archive_url": "https://web.archive.org/web/20260921091817/https://artificialanalysis.ai/models",
-   "archived_at": "2026-09-21"
+   "archived_at": "2026-09-21",
+   "capability_prior_value": 44,
+   "capability_prior_basis": "current-derived",
+   "capability_source_url": "https://artificialanalysis.ai/models/grok-4-6"
   },
   {
    "date": "2026-08-13",
@@ -145,7 +160,7 @@
    "output": 1.98,
    "status": "official",
    "event": "reprice",
-   "capability": 36,
+   "capability": 36.0,
    "cap_basis": "current",
    "cap_note": "Rank 7 of 112 on the current index.",
    "price_note": "Off-peak rate. Peak windows are 01:00-04:00 and 06:00-10:00 UTC, at roughly double.",
@@ -160,7 +175,10 @@
    "evidence_host": "api-docs.deepseek.com",
    "source_quality": "ok",
    "archive_url": "https://web.archive.org/web/20260917051418/https://api-docs.deepseek.com/quick_start/pricing/",
-   "archived_at": "2026-09-17"
+   "archived_at": "2026-09-17",
+   "capability_prior_value": 36,
+   "capability_prior_basis": "current",
+   "capability_source_url": "https://artificialanalysis.ai/models/deepseek-v4-pro"
   },
   {
    "date": "2026-08-13",
@@ -171,7 +189,7 @@
    "status": "official",
    "event": "reprice",
    "capability": 35,
-   "cap_basis": "current",
+   "cap_basis": "no current score",
    "cap_note": "One index point below V4 Pro on the current basis.",
    "price_note": "Off-peak rate; peak roughly double.",
    "source": "DeepSeek API docs / MorphLLM",
@@ -185,7 +203,10 @@
    "evidence_host": "morphllm.com",
    "source_quality": "ok",
    "archive_url": "https://web.archive.org/web/20260616041347/https://www.morphllm.com/deepseek-v4",
-   "archived_at": "2026-06-16"
+   "archived_at": "2026-06-16",
+   "capability_prior_value": 35,
+   "capability_prior_basis": "current",
+   "capability_source_url": ""
   },
   {
    "date": "2026-07-24",
@@ -195,8 +216,8 @@
    "output": 25.0,
    "status": "reported",
    "event": "launch",
-   "capability": 63,
-   "cap_basis": "launch",
+   "capability": 50.8,
+   "cap_basis": "current",
    "cap_note": "Scored on the pre-restatement scale; not comparable with the current basis.",
    "source": "Coursiv / APIMaster",
    "url": "https://apimaster.ai/blog/claude-opus-5-apimaster-launch-2026",
@@ -209,7 +230,10 @@
    "evidence_host": "apimaster.ai",
    "source_quality": "ok",
    "archive_url": "https://web.archive.org/web/20260921122612/https://apimaster.ai/blog/claude-opus-5-apimaster-launch-2026",
-   "archived_at": "2026-09-21"
+   "archived_at": "2026-09-21",
+   "capability_prior_value": 63,
+   "capability_prior_basis": "launch",
+   "capability_source_url": "https://artificialanalysis.ai/models/claude-opus-5"
   },
   {
    "date": "2026-07-24",
@@ -219,8 +243,8 @@
    "output": 10.0,
    "status": "third_party",
    "event": "promo",
-   "capability": 63,
-   "cap_basis": "launch",
+   "capability": 50.8,
+   "cap_basis": "current",
    "cap_note": "Same model, resold below list.",
    "source": "APIMaster",
    "url": "https://apimaster.ai/blog/claude-opus-5-apimaster-launch-2026",
@@ -233,7 +257,10 @@
    "evidence_host": "apimaster.ai",
    "source_quality": "ok",
    "archive_url": "https://web.archive.org/web/20260921122612/https://apimaster.ai/blog/claude-opus-5-apimaster-launch-2026",
-   "archived_at": "2026-09-21"
+   "archived_at": "2026-09-21",
+   "capability_prior_value": 63,
+   "capability_prior_basis": "launch",
+   "capability_source_url": "https://artificialanalysis.ai/models/claude-opus-5"
   },
   {
    "date": "2026-07-09",
@@ -243,8 +270,8 @@
    "output": 30.0,
    "status": "reported",
    "event": "launch",
-   "capability": 59,
-   "cap_basis": "launch",
+   "capability": 47.0,
+   "cap_basis": "current",
    "cap_note": "Pre-restatement scale.",
    "source": "AIPricing Guru / macgpu",
    "url": "https://www.aipricing.guru/openai-pricing/",
@@ -257,7 +284,10 @@
    "evidence_host": "aipricing.guru",
    "source_quality": "ok",
    "archive_url": "https://web.archive.org/web/20260906163405/https://www.aipricing.guru/openai-pricing/",
-   "archived_at": "2026-09-06"
+   "archived_at": "2026-09-06",
+   "capability_prior_value": 59,
+   "capability_prior_basis": "launch",
+   "capability_source_url": "https://artificialanalysis.ai/models/gpt-5-6-sol"
   },
   {
    "date": "2026-07-09",
@@ -267,8 +297,8 @@
    "output": 15.0,
    "status": "reported",
    "event": "launch",
-   "capability": 55,
-   "cap_basis": "launch",
+   "capability": 42.1,
+   "cap_basis": "current",
    "cap_note": "Pre-restatement scale.",
    "source": "AIPricing Guru / LM Market Cap",
    "url": "https://lmmarketcap.com/reports/gpt-5-6-sol-terra-luna",
@@ -281,7 +311,10 @@
    "evidence_host": "lmmarketcap.com",
    "source_quality": "ok",
    "archive_url": "https://web.archive.org/web/20260921122830/https://lmmarketcap.com/reports/gpt-5-6-sol-terra-luna",
-   "archived_at": "2026-09-21"
+   "archived_at": "2026-09-21",
+   "capability_prior_value": 55,
+   "capability_prior_basis": "launch",
+   "capability_source_url": "https://artificialanalysis.ai/models/gpt-5-6-terra"
   },
   {
    "date": "2026-07-09",
@@ -291,8 +324,8 @@
    "output": 6.0,
    "status": "reported",
    "event": "launch",
-   "capability": 51,
-   "cap_basis": "launch",
+   "capability": 37.3,
+   "cap_basis": "current",
    "cap_note": "Pre-restatement scale.",
    "source": "AIPricing Guru / LM Market Cap",
    "url": "https://lmmarketcap.com/reports/gpt-5-6-sol-terra-luna",
@@ -305,7 +338,10 @@
    "evidence_host": "lmmarketcap.com",
    "source_quality": "ok",
    "archive_url": "https://web.archive.org/web/20260921122830/https://lmmarketcap.com/reports/gpt-5-6-sol-terra-luna",
-   "archived_at": "2026-09-21"
+   "archived_at": "2026-09-21",
+   "capability_prior_value": 51,
+   "capability_prior_basis": "launch",
+   "capability_source_url": "https://artificialanalysis.ai/models/gpt-5-6-luna"
   },
   {
    "date": "2026-07-09",
@@ -316,7 +352,7 @@
    "status": "reported",
    "event": "launch",
    "capability": 51,
-   "cap_basis": "launch",
+   "cap_basis": "no current score",
    "cap_note": "Pre-restatement scale. Meta's 1.3 release scored 61 on that older scale in September.",
    "source": "LinkedIn / Vercel AI Gateway",
    "url": "https://vercel.com/ai-gateway/models/muse-spark-1-1",
@@ -327,7 +363,10 @@
    "legacy_status": "reported",
    "originating_source": "LinkedIn / Vercel AI Gateway",
    "evidence_host": "vercel.com",
-   "source_quality": "ok"
+   "source_quality": "ok",
+   "capability_prior_value": 51,
+   "capability_prior_basis": "launch",
+   "capability_source_url": ""
   }
  ],
  "events": [
@@ -418,5 +457,6 @@
   "evidence_status",
   "temporal_status"
  ],
- "schema_version": "2026.10.1"
+ "schema_version": "2026.10.1",
+ "capability_basis_note": "Every capability score carries one basis: the index as restated in September 2026. Prior launch-basis values are retained per row in capability_prior_value and capability_prior_basis, and the restatement is logged in data/reference/capability-restatement-log.json."
 }

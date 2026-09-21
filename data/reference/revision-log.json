@@ -1,0 +1,275 @@
+{
+ "entries": [
+  {
+   "built_at": "2026-09-21",
+   "added": [
+    {
+     "register": "infrastructure",
+     "row": "Nairobi Two (NBO2)",
+     "date": "2026-09-07"
+    },
+    {
+     "register": "infrastructure",
+     "row": "NSIA AI data centre",
+     "date": "2026-09-01"
+    },
+    {
+     "register": "infrastructure",
+     "row": "MTN AI-ready data centres",
+     "date": "2026-08-26"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Vodafone, Elsewedy and Cassava data centre",
+     "date": "2026-09-08"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Hassan Allam data centres (first phase)",
+     "date": "2026-08-05"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Heka Data AI hub",
+     "date": "2026-09-04"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Huawei AI data centre bid",
+     "date": "2026-08-26"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Airtel Kenya data centre",
+     "date": "2026-08-07"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Mombasa AI data centre",
+     "date": "2026-08-17"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Cape Town hyperscale campus (two sites)",
+     "date": "2026-07-24"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Equinix Cape Town campus",
+     "date": "2026-08-04"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Teraco portfolio (including JB7)",
+     "date": "2026-07-01"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Cassava AI Factory",
+     "date": "2026-08-26"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Raxio expansion programme",
+     "date": "2026-07-14"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Africa Data Centres Accra",
+     "date": "2026-06-01"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Wiocc capital raise",
+     "date": "2026-09-01"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Côte d'Ivoire sovereign data centre",
+     "date": "2026-07-20"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Gabon sovereign data centre",
+     "date": "2026-07-08"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Cybastion AI hub",
+     "date": "2026-09-02"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Google African cloud region (Nairobi)",
+     "date": "2026-07-06"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Nigeria cloud and AI investment target",
+     "date": "2026-08-24"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Project BRIDGE fibre programme",
+     "date": "2026-08-10"
+    },
+    {
+     "register": "model-prices",
+     "row": "Claude Fable 5.1",
+     "date": "2026-09-01"
+    },
+    {
+     "register": "model-prices",
+     "row": "GPT-6 Astra",
+     "date": "2026-09-03"
+    },
+    {
+     "register": "model-prices",
+     "row": "Gemini 3.8 Flash",
+     "date": "2026-09-02"
+    },
+    {
+     "register": "model-prices",
+     "row": "Kimi K3 (max)",
+     "date": "2026-07-16"
+    },
+    {
+     "register": "model-prices",
+     "row": "Grok 4.6",
+     "date": "2026-08-01"
+    },
+    {
+     "register": "model-prices",
+     "row": "DeepSeek V4 Pro 0813 (max)",
+     "date": "2026-08-13"
+    },
+    {
+     "register": "model-prices",
+     "row": "DeepSeek V4 Flash 0731",
+     "date": "2026-08-13"
+    },
+    {
+     "register": "model-prices",
+     "row": "Claude Opus 5",
+     "date": "2026-07-24"
+    },
+    {
+     "register": "model-prices",
+     "row": "Claude Opus 5 (routed)",
+     "date": "2026-07-24"
+    },
+    {
+     "register": "model-prices",
+     "row": "GPT-5.6 Sol",
+     "date": "2026-07-09"
+    },
+    {
+     "register": "model-prices",
+     "row": "GPT-5.6 Terra",
+     "date": "2026-07-09"
+    },
+    {
+     "register": "model-prices",
+     "row": "GPT-5.6 Luna",
+     "date": "2026-07-09"
+    },
+    {
+     "register": "model-prices",
+     "row": "Muse Spark 1.1",
+     "date": "2026-07-09"
+    },
+    {
+     "register": "device-prices",
+     "row": "Entry-level price band|Nigeria|2026-09-08",
+     "date": "2026-09-08"
+    },
+    {
+     "register": "device-prices",
+     "row": "Average selling price, 2026|Global|2026-09-05",
+     "date": "2026-09-05"
+    },
+    {
+     "register": "device-prices",
+     "row": "Device prices|Middle East & Africa|2026-09-05",
+     "date": "2026-09-05"
+    },
+    {
+     "register": "device-prices",
+     "row": "Telecoms average selling price, H1 2026|South Africa|2026-09-01",
+     "date": "2026-09-01"
+    },
+    {
+     "register": "device-prices",
+     "row": "Device prices|Emerging markets|2026-06-23",
+     "date": "2026-06-23"
+    },
+    {
+     "register": "device-prices",
+     "row": "Device prices, 2026 projection|Nigeria|2026-06-03",
+     "date": "2026-06-03"
+    },
+    {
+     "register": "device-shipments",
+     "row": "Shipments, Q2 2026|Africa|2026-08-25",
+     "date": "2026-08-25"
+    },
+    {
+     "register": "device-shipments",
+     "row": "Shipments, 2026 forecast|Africa|2026-08-20",
+     "date": "2026-08-20"
+    },
+    {
+     "register": "device-shipments",
+     "row": "Shipments, Q2 2026|Sub-$100 segment|2026-08-20",
+     "date": "2026-08-20"
+    },
+    {
+     "register": "device-shipments",
+     "row": "Smartphone market growth, Q1 2026|South Africa|2026-05-27",
+     "date": "2026-05-27"
+    },
+    {
+     "register": "device-shipments",
+     "row": "Shipment outlook, 2026|Africa|2026-02-28",
+     "date": "2026-02-28"
+    },
+    {
+     "register": "device-policy",
+     "row": "Excise duty on smartphones|Kenya|2026-05-14",
+     "date": "2026-05-14"
+    },
+    {
+     "register": "component-costs",
+     "row": "DRAM contract price, Q2 2026|Global components|2026-07-05",
+     "date": "2026-07-05"
+    }
+   ],
+   "changed": [],
+   "removed": []
+  },
+  {
+   "built_at": "2026-09-21",
+   "added": [],
+   "changed": [],
+   "removed": []
+  },
+  {
+   "built_at": "2026-09-21",
+   "added": [],
+   "changed": [],
+   "removed": []
+  },
+  {
+   "built_at": "2026-09-21",
+   "added": [],
+   "changed": [],
+   "removed": []
+  },
+  {
+   "built_at": "2026-09-21",
+   "added": [],
+   "changed": [],
+   "removed": []
+  }
+ ]
+}

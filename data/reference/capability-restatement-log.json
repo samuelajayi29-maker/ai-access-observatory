@@ -1,0 +1,111 @@
+{
+ "restated_at": "2026-09-21",
+ "basis": "Artificial Analysis Intelligence Index, restated basis",
+ "source": "https://artificialanalysis.ai/models",
+ "restatements": [
+  {
+   "model": "Claude Fable 5.1",
+   "prior_value": 53,
+   "prior_basis": "current",
+   "restated_value": 53.4,
+   "restated_basis": "current",
+   "matched_universe_row": "Claude Fable 5.1",
+   "note": null
+  },
+  {
+   "model": "GPT-6 Astra",
+   "prior_value": 53,
+   "prior_basis": "current",
+   "restated_value": 52.7,
+   "restated_basis": "current",
+   "matched_universe_row": "GPT-6 Astra",
+   "note": null
+  },
+  {
+   "model": "Gemini 3.8 Flash",
+   "prior_value": 41,
+   "prior_basis": "current",
+   "restated_value": 40.9,
+   "restated_basis": "current",
+   "matched_universe_row": "Gemini 3.8 Flash",
+   "note": null
+  },
+  {
+   "model": "Kimi K3 (max)",
+   "prior_value": 50,
+   "prior_basis": "current",
+   "restated_value": 43.6,
+   "restated_basis": "current",
+   "matched_universe_row": "Kimi K3",
+   "note": "the register prices the max-effort variant; the index score published is for Kimi K3, and no separate score for the max variant is published"
+  },
+  {
+   "model": "Grok 4.6",
+   "prior_value": 44,
+   "prior_basis": "current-derived",
+   "restated_value": 44.3,
+   "restated_basis": "current",
+   "matched_universe_row": "Grok 4.6",
+   "note": null
+  },
+  {
+   "model": "Claude Opus 5",
+   "prior_value": 63,
+   "prior_basis": "launch",
+   "restated_value": 50.8,
+   "restated_basis": "current",
+   "matched_universe_row": "Claude Opus 5",
+   "note": null
+  },
+  {
+   "model": "Claude Opus 5 (routed)",
+   "prior_value": 63,
+   "prior_basis": "launch",
+   "restated_value": 50.8,
+   "restated_basis": "current",
+   "matched_universe_row": "Claude Opus 5",
+   "note": "same model reached through a router, so it carries the same index score and a different rate card"
+  },
+  {
+   "model": "GPT-5.6 Sol",
+   "prior_value": 59,
+   "prior_basis": "launch",
+   "restated_value": 47.0,
+   "restated_basis": "current",
+   "matched_universe_row": "GPT-5.6 Sol",
+   "note": null
+  },
+  {
+   "model": "GPT-5.6 Terra",
+   "prior_value": 55,
+   "prior_basis": "launch",
+   "restated_value": 42.1,
+   "restated_basis": "current",
+   "matched_universe_row": "GPT-5.6 Terra",
+   "note": null
+  },
+  {
+   "model": "GPT-5.6 Luna",
+   "prior_value": 51,
+   "prior_basis": "launch",
+   "restated_value": 37.3,
+   "restated_basis": "current",
+   "matched_universe_row": "GPT-5.6 Luna",
+   "note": null
+  }
+ ],
+ "excluded": [
+  {
+   "model": "DeepSeek V4 Flash 0731",
+   "prior_value": 35,
+   "prior_basis": "current",
+   "reason": "no score for this model on the restated index"
+  },
+  {
+   "model": "Muse Spark 1.1",
+   "prior_value": 51,
+   "prior_basis": "launch",
+   "reason": "no score for this model on the restated index"
+  }
+ ]
+}

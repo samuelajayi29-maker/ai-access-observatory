@@ -1,0 +1,158 @@
+{
+ "concept_url": "https://samuelajayi29-maker.github.io/ai-access-observatory/",
+ "about": "A machine-readable manifest of every release: version, compile date and a SHA-256 checksum per file, so a downloaded file can be verified against the release that produced it. A DOI is listed only once one has been minted.",
+ "releases": [
+  {
+   "version": "v2026.10",
+   "compiled": "2026-09-21",
+   "base_url": "https://samuelajayi29-maker.github.io/ai-access-observatory",
+   "schema_version": "2026.10.1",
+   "licence": "CC BY 4.0. Credit reads: Astrolabe Africa",
+   "file_count": 35,
+   "files": {
+    "index.html": {
+     "sha256": "388c5ab4b5d1339e38e1b4c09fd3cb489199201c53a9db524c75aebb585224ea",
+     "bytes": 16328
+    },
+    "infrastructure.html": {
+     "sha256": "523757c92a1347d2637ef2162cde992a2fd918d0907fb38271d5200ec4693445",
+     "bytes": 20590
+    },
+    "access.html": {
+     "sha256": "2ece27d042c23fe2242d55fc6b635080193b93d89964b04fd444520497f25db0",
+     "bytes": 56741
+    },
+    "jobs.html": {
+     "sha256": "c8fd7825873ce57819328e21d4b4edb302068673c12fed9a0b02fca792212817",
+     "bytes": 14720
+    },
+    "method.html": {
+     "sha256": "bc78f78a6c72f5c0a75ce73a0a08008f00e90eeb3db600bbaa2e436da500793b",
+     "bytes": 28470
+    },
+    "analysis.html": {
+     "sha256": "80ab72f1a4c0c3a686340085ec1a781364f3de769c6bd4f6a8c51fa58b029bba",
+     "bytes": 13818
+    },
+    "404.html": {
+     "sha256": "cb52f865f1d1bfb7b585cb93bc2c1a46fee953f68a5275a81f7114554b13edb7",
+     "bytes": 1631
+    },
+    "data/affordability.csv": {
+     "sha256": "cb1090914f89121635299680f1ef5f80da71f59b1f24478663c6722ed93afbae",
+     "bytes": 36153
+    },
+    "data/fx-decomposition.csv": {
+     "sha256": "5f7e60e05f715c7639f50bddf127eb5478d62aca859cd512708d711319ea1cef",
+     "bytes": 37836
+    },
+    "data/subscription-register.csv": {
+     "sha256": "3d69a4e3eeaf1479336eebde13ba3077f37136dd17565e9cd56f1165ecde599a",
+     "bytes": 47517
+    },
+    "data/availability-register.csv": {
+     "sha256": "06daedb16e1cc2d59ff2f5cf4b5b0433f6699bb28e05bcc7d14336abbf3c20ff",
+     "bytes": 23156
+    },
+    "data/device-prices.csv": {
+     "sha256": "458a92d548f8f2c37d0c676e4b6e3abe3561f7597545d88343b71069876f3c86",
+     "bytes": 2492
+    },
+    "data/device-shipments.csv": {
+     "sha256": "459efdf64c8ff6101bcf6e1b87fd108923f4db9b5e7063aa24cba1d2d26c677d",
+     "bytes": 2119
+    },
+    "data/device-policy.csv": {
+     "sha256": "de5d05be6f99229622bc2ba3ef06e301c0c0f678cc7c40e78c2204719683f14e",
+     "bytes": 521
+    },
+    "data/component-costs.csv": {
+     "sha256": "6011840118b9c3105b1df57f4cb6220ca508674980e9926975e58199a1b1e148",
+     "bytes": 530
+    },
+    "data/model-prices.csv": {
+     "sha256": "1f50883d467f51f6b16f61c89deb1b6fd5b5f0cc6c88d10c1bb2471a6de1eb48",
+     "bytes": 2227
+    },
+    "data/infra-projects.csv": {
+     "sha256": "6b487608485d32bae9d4b828f722c5895d5a566fda8710ca942822de8d5ef8a6",
+     "bytes": 4634
+    },
+    "data/items.csv": {
+     "sha256": "6329728052ad8e09277d97c5c9b9dbcf7d172777f47e494aec298c2f8a1502eb",
+     "bytes": 70043
+    },
+    "data/items.json": {
+     "sha256": "b3ce589b99ae938cf27bc8deb75e797a7ff87d1a1cc7c035642c2cc2bba4a57d",
+     "bytes": 100629
+    },
+    "charts/access-affordability.png": {
+     "sha256": "8f07133789946c97460a8268522da9d926583753c7b36a814488867eab03ae83",
+     "bytes": 355792
+    },
+    "charts/access-affordability.svg": {
+     "sha256": "bfbab961f4ace4421832e8d8884416c329c9658c289b6f74860b0644ebe4d433",
+     "bytes": 37217
+    },
+    "charts/access-capability-vs-cost.png": {
+     "sha256": "7d17e47f24b61ec1e78177bc06bc5462ae01ac5a2034b183f338c782910972ab",
+     "bytes": 301190
+    },
+    "charts/access-capability-vs-cost.svg": {
+     "sha256": "856eb4bafcef14b989757d1454afc4448b238b48f62a87d9641136f8a2a0dafa",
+     "bytes": 10936
+    },
+    "charts/access-device-moves.png": {
+     "sha256": "19861f060fa2270ebb6e348b1caf0a6f34334294cfe9ec84a579b9dcbc4de672",
+     "bytes": 249558
+    },
+    "charts/access-device-moves.svg": {
+     "sha256": "f39dc969fff87441811a7d5bb111f474e6e2089be2c2fb55aa6aa00619d55598",
+     "bytes": 7844
+    },
+    "charts/access-fx-decomposition.png": {
+     "sha256": "7ebeec5e7908ab07c569dc59829afeb93e696137c3bfb3995a1d738587759ea8",
+     "bytes": 169929
+    },
+    "charts/access-fx-decomposition.svg": {
+     "sha256": "cd4410086a1acfed5f3021d4c20051f34a06391d35da85d1f19c0049844c8b07",
+     "bytes": 7051
+    },
+    "charts/access-subscription-share.png": {
+     "sha256": "ba6da27d5501704d8b104e19426119d20b54f26c2312363df7a7acc1a2ebf997",
+     "bytes": 225974
+    },
+    "charts/access-subscription-share.svg": {
+     "sha256": "41d9bb4a19d3ff90564f1c58ba94e19385b47f385a5da9c00133faa6da95c050",
+     "bytes": 19218
+    },
+    "charts/infra-capacity-by-status.png": {
+     "sha256": "7f500bb5af12b7545fee5eeeb2fc54c897674b87d268866a65200bf1ffba5f01",
+     "bytes": 166300
+    },
+    "charts/infra-capacity-by-status.svg": {
+     "sha256": "c8b4858ae91567f6bdd35d112fc1212a01fc0a5924a0631bb4e81d3e20246003",
+     "bytes": 3753
+    },
+    "charts/infra-capital-by-country.png": {
+     "sha256": "8d5d7dbb4523b74fe2926de169252826cf1045afc599876c0e60b40fbbea7c83",
+     "bytes": 138889
+    },
+    "charts/infra-capital-by-country.svg": {
+     "sha256": "7465532fa75b3fc2ae519564ed97d178347ff65550815f0ba82500df4481ef1e",
+     "bytes": 5031
+    },
+    "charts/record-activity.png": {
+     "sha256": "651245d668686363f65513554779b0f0589d7338864204f1e777db2e91dd529a",
+     "bytes": 93990
+    },
+    "charts/record-activity.svg": {
+     "sha256": "95b55df005f8050f139f9f1dc128e05c6fc7428b2a435cc6ea75f16c7805c571",
+     "bytes": 5315
+    }
+   }
+  }
+ ],
+ "latest": "v2026.10",
+ "updated": "2026-09-21"
+}
