@@ -16,6 +16,7 @@
   /* Ink -------------------------------------------------------------------- */
   --ink: #1a1815;
   --ink-secondary: #55504a;
+  --ink-note: #706a61;      /* small muted text: 5.1:1 on --paper */
   --ink-muted: #8a837a;
   --action: #1b4f8a;
 
@@ -59,6 +60,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
+    --ink-note: #b3aca2;
     --paper: #14130f;
     --paper-sunk: #1d1b16;
     --rule: #322f28;
