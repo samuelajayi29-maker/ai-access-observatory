@@ -383,6 +383,40 @@ footer a { color: var(--ink-secondary); border: 0; }
 .map__legend-unit { margin-left: auto; font-family: var(--font-data); }
 @media (max-width: 900px) { .map__body { grid-template-columns: 1fr; } }
 
+
+/* ---------- signals, research and provenance markers ---------------------- */
+.sig, .rst { display: inline-block; font-family: var(--font-text); font-size: 0.72rem;
+             text-transform: uppercase; letter-spacing: 0.06em; padding: 1px 5px; margin-right: var(--s-2);
+             border: 1px solid var(--rule-strong); border-radius: 2px; color: var(--ink-note);
+             vertical-align: 1px; }
+.sig--research, .rst--preprint { border-color: var(--derived); color: var(--derived); }
+.rst--peerreviewed { border-color: var(--measured); color: var(--measured); }
+.rst--institutional { border-color: var(--pillar-infra); color: var(--pillar-infra); }
+.rst--topic, .sig--topic { border-style: dotted; }
+.sig--government, .rst--bucket { border-color: var(--rule-strong); color: var(--ink-secondary); }
+.sig--company { border-color: var(--proposal); color: var(--proposal); }
+.why { display: block; font-size: var(--step--1); color: var(--ink-secondary);
+       margin-top: var(--s-1); max-width: 62ch; }
+.rs-list { list-style: none; margin: 0; padding: 0; }
+.rs-item { padding: var(--s-4) 0; border-top: 1px solid var(--rule); }
+.rs-tags { margin-bottom: var(--s-2); }
+.rs-title { font-family: var(--font-display); font-size: var(--step-1); margin: 0 0 var(--s-1);
+            font-weight: 600; max-width: 68ch; }
+.rs-meta, .rs-authors, .rs-where-line { font-size: var(--step--1); color: var(--ink-note); margin: 0 0 var(--s-1); }
+.rs-authors { color: var(--ink-secondary); }
+.rs-abstract { margin-top: var(--s-2); font-size: var(--step--1); color: var(--ink-secondary); }
+.rs-abstract summary { cursor: pointer; color: var(--ink-note); font-family: var(--font-text); }
+.rs-abstract p { margin: var(--s-2) 0 0; max-width: 74ch; }
+.rs-why { font-size: var(--step-0); color: var(--ink-secondary); margin: var(--s-2) 0 0; max-width: 66ch; }
+
+/* ---------- data quality view ------------------------------------------- */
+.quality { display: grid; grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr)); gap: var(--s-5);
+           margin: var(--s-4) 0 var(--s-6); padding-top: var(--s-4); border-top: 1px solid var(--rule); }
+.q b { display: block; font-family: var(--font-data); font-size: var(--step-3); line-height: 1.05;
+       font-variant-numeric: tabular-nums; }
+.q__label { display: block; font-size: var(--step--1); color: var(--ink-secondary); margin-top: var(--s-1); }
+.q__note { display: block; font-size: var(--step--1); color: var(--ink-note); margin-top: 2px; }
+
 /* ---------- brand --------------------------------------------------------- */
 .strap { font-family: var(--font-text); font-size: var(--step--1); color: var(--ink-note);
          margin-left: var(--s-3); white-space: nowrap; }
