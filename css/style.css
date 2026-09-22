@@ -312,6 +312,36 @@ footer a { color: var(--ink-secondary); border: 0; }
               margin: 0 0 var(--s-2); max-width: var(--measure-prose); }
 .open__link { margin: var(--s-4) 0 var(--s-3); font-family: var(--font-text); font-size: var(--step-0); }
 
+
+/* ---------- at a glance --------------------------------------------------- */
+.band--sunk { background: var(--paper-sunk); }
+.glance { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--s-8); align-items: start; }
+.glance__card { border-top: 3px solid var(--p); padding-top: var(--s-4); }
+.glance__card--jobs { --p: var(--pillar-jobs); }
+.glance__card--access { --p: var(--pillar-access); }
+.glance__card--infrastructure { --p: var(--pillar-infra); }
+.glance__pillar { font-family: var(--font-text); font-size: var(--step--1); text-transform: uppercase;
+                  letter-spacing: 0.08em; color: var(--ink-note); margin: 0 0 var(--s-3); font-weight: 600; }
+.glance__value { display: block; font-family: var(--font-display); font-size: var(--step-5); line-height: 1;
+                 font-variant-numeric: tabular-nums; }
+.glance__label { font-size: var(--step-1); color: var(--ink-secondary); margin: var(--s-2) 0 var(--s-3); max-width: 30ch; }
+.glance__meta { font-family: var(--font-data); font-size: var(--step--1); color: var(--ink-note); margin: 0 0 var(--s-3); }
+.glance__status { display: flex; align-items: center; gap: var(--s-2); flex-wrap: wrap; margin: 0 0 var(--s-2); }
+.glance__tier { font-size: var(--step--1); color: var(--ink-note); }
+.glance__source { font-size: var(--step--1); color: var(--ink-secondary); margin: 0 0 var(--s-2); }
+.glance__spread { font-size: var(--step--1); color: var(--ink-note); margin: 0 0 var(--s-3); }
+.glance__link { font-family: var(--font-text); font-size: var(--step-0); }
+.glance__foot { font-size: var(--step--1); color: var(--ink-note); margin: var(--s-6) 0 0; padding-top: var(--s-4);
+                border-top: 1px solid var(--rule); max-width: var(--measure-prose); }
+.hero__stats { font-family: var(--font-data); font-size: var(--step-0); color: var(--ink-secondary);
+               margin: var(--s-4) 0 var(--s-3); font-variant-numeric: tabular-nums; }
+@media (max-width: 1080px) { .glance { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 720px) { .glance { grid-template-columns: 1fr; } }
+
+/* ---------- brand --------------------------------------------------------- */
+.strap { font-family: var(--font-text); font-size: var(--step--1); color: var(--ink-note);
+         margin-left: var(--s-3); white-space: nowrap; }
+
 /* ---------- status legend strip ------------------------------------------- */
 .legend-strip { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-3) var(--s-4);
                 margin-top: var(--s-6); padding-top: var(--s-4); border-top: 1px solid var(--rule);
