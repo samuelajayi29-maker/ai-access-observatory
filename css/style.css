@@ -417,6 +417,35 @@ footer a { color: var(--ink-secondary); border: 0; }
 .q__label { display: block; font-size: var(--step--1); color: var(--ink-secondary); margin-top: var(--s-1); }
 .q__note { display: block; font-size: var(--step--1); color: var(--ink-note); margin-top: 2px; }
 
+/* ---------- country profiles ------------------------------------------- */
+.cp-none { color: var(--ink-note); font-size: var(--step--1); margin: var(--s-2) 0 var(--s-4);
+           padding-left: var(--s-4); border-left: 2px solid var(--rule-strong); max-width: 62ch; }
+.cp-row { padding: var(--s-4) 0; border-top: 1px solid var(--rule); }
+.cp-head { display: flex; align-items: baseline; justify-content: space-between; gap: var(--s-4); flex-wrap: wrap; }
+.cp-ind { font-family: var(--font-text); font-size: var(--step-0); font-weight: 600; margin: 0; max-width: 44ch; }
+.cp-value { font-family: var(--font-display); font-size: var(--step-3); margin: 0; font-variant-numeric: tabular-nums; }
+.cp-unit { font-family: var(--font-data); font-size: var(--step--1); color: var(--ink-note); }
+.cp-prov { display: flex; align-items: center; gap: var(--s-2); flex-wrap: wrap; margin: var(--s-2) 0 var(--s-1); }
+.cp-tier { font-size: var(--step--1); color: var(--ink-note); }
+.cp-src { font-size: var(--step--1); color: var(--ink-secondary); margin: 0 0 var(--s-1); }
+.cp-method { font-size: var(--step--1); color: var(--ink-note); margin: 0 0 var(--s-1); max-width: 76ch; }
+.cp-recompute { font-size: var(--step--1); color: var(--ink-note); margin: 0; }
+.cp-recompute code { font-family: var(--font-data); font-size: 0.95em; }
+
+/* ---------- what changed -------------------------------------------------- */
+.changed { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--s-8); align-items: start; }
+.changed h3 { font-family: var(--font-text); font-size: var(--step--1); text-transform: uppercase;
+              letter-spacing: 0.08em; color: var(--ink-note); margin: 0 0 var(--s-3); font-weight: 600; }
+.chg { list-style: none; margin: 0; padding: 0; }
+.chg li { padding: var(--s-2) 0; border-top: 1px solid var(--rule); font-size: var(--step--1);
+          display: flex; flex-wrap: wrap; gap: var(--s-2); align-items: baseline; }
+.chg li b { font-weight: 600; color: var(--ink); }
+.chg li .meta { margin-left: auto; color: var(--ink-note); font-family: var(--font-data); }
+.chg li.none { color: var(--ink-note); }
+.chg__foot { font-size: var(--step--1); color: var(--ink-note); margin: var(--s-3) 0 0; }
+.map__link { margin: var(--s-3) 0 0; font-family: var(--font-text); font-size: var(--step-0); }
+@media (max-width: 900px) { .changed { grid-template-columns: 1fr; } }
+
 /* ---------- brand --------------------------------------------------------- */
 .strap { font-family: var(--font-text); font-size: var(--step--1); color: var(--ink-note);
          margin-left: var(--s-3); white-space: nowrap; }

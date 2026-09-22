@@ -71,7 +71,10 @@
       }
       rows += '</div>';
     });
-    panel.innerHTML = '<h3 class="map__panel-title">' + name + '</h3>' + rows +
+    var link = (D.pages && D.pages[iso])
+      ? '<p class="map__link"><a href="' + D.pages[iso] + '">Open the country profile \u2192</a></p>'
+      : '';
+    panel.innerHTML = '<h3 class="map__panel-title">' + name + '</h3>' + rows + link +
       '<p class="map__prov">Last updated 22 September 2026</p>';
   }
   host.addEventListener('click', function (e) {
