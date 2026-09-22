@@ -338,6 +338,51 @@ footer a { color: var(--ink-secondary); border: 0; }
 @media (max-width: 1080px) { .glance { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 720px) { .glance { grid-template-columns: 1fr; } }
 
+
+/* ---------- the Africa map ------------------------------------------------ */
+.map { margin: var(--s-5) 0 0; }
+.map__controls { display: flex; gap: var(--s-2); flex-wrap: wrap; margin-bottom: var(--s-4); }
+.map__tab { font-family: var(--font-text); font-size: var(--step--1); padding: var(--s-1) var(--s-3);
+            border: 1px solid var(--rule-strong); background: var(--paper); color: var(--ink);
+            border-radius: 2px; cursor: pointer; }
+.map__tab.is-on { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.map__tab-n { opacity: 0.7; margin-left: 0.35em; font-variant-numeric: tabular-nums; }
+.map__body { display: grid; grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr); gap: var(--s-6);
+             align-items: start; }
+.map__svg { width: 100%; height: auto; background: var(--paper); border: 1px solid var(--rule); }
+.map__c { stroke: var(--paper); stroke-width: 0.7; cursor: pointer; }
+.map__c:focus, .map__mark:focus { outline: 2px solid var(--action); outline-offset: 1px; }
+.map__c--none, .map__mark--none { fill: var(--paper-sunk); stroke: var(--rule-strong); }
+.map__mark { stroke: var(--paper); stroke-width: 0.7; cursor: pointer; }
+.map__c--1, .map__mark--1 { fill: color-mix(in srgb, var(--pillar-infra) 18%, var(--paper)); }
+.map__c--2, .map__mark--2 { fill: color-mix(in srgb, var(--pillar-infra) 36%, var(--paper)); }
+.map__c--3, .map__mark--3 { fill: color-mix(in srgb, var(--pillar-infra) 54%, var(--paper)); }
+.map__c--4, .map__mark--4 { fill: color-mix(in srgb, var(--pillar-infra) 74%, var(--paper)); }
+.map__c--5, .map__mark--5 { fill: var(--pillar-infra); }
+.map__panel { border-top: 3px solid var(--pillar-infra); padding-top: var(--s-4); min-height: 12rem; }
+.map__panel-title { font-family: var(--font-display); font-size: var(--step-2); margin: 0 0 var(--s-3); }
+.map__hint, .map__none { font-size: var(--step--1); color: var(--ink-note); margin: 0 0 var(--s-2); }
+.map__row { padding: var(--s-3) 0; border-top: 1px solid var(--rule); }
+.map__row h4 { font-family: var(--font-text); font-size: var(--step--1); text-transform: uppercase;
+               letter-spacing: 0.08em; color: var(--ink-note); margin: 0 0 var(--s-1); font-weight: 600; }
+.map__value { font-family: var(--font-display); font-size: var(--step-2); margin: 0; font-variant-numeric: tabular-nums; }
+.map__prov { font-size: var(--step--1); color: var(--ink-note); margin: var(--s-1) 0; }
+.map__status { font-family: var(--font-text); text-transform: uppercase; letter-spacing: 0.06em; }
+.map__src { font-size: var(--step--1); color: var(--ink-secondary); margin: 0; }
+.map__legend { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-2) var(--s-4);
+               margin-top: var(--s-4); padding-top: var(--s-3); border-top: 1px solid var(--rule);
+               font-size: var(--step--1); color: var(--ink-note); }
+.map__legend-item { display: inline-flex; align-items: center; gap: var(--s-2); }
+.map__sw { width: 14px; height: 12px; display: inline-block; border: 1px solid var(--rule-strong); }
+.map__sw--1 { background: color-mix(in srgb, var(--pillar-infra) 18%, var(--paper)); }
+.map__sw--2 { background: color-mix(in srgb, var(--pillar-infra) 36%, var(--paper)); }
+.map__sw--3 { background: color-mix(in srgb, var(--pillar-infra) 54%, var(--paper)); }
+.map__sw--4 { background: color-mix(in srgb, var(--pillar-infra) 74%, var(--paper)); }
+.map__sw--5 { background: var(--pillar-infra); }
+.map__sw--none { background: var(--paper-sunk); }
+.map__legend-unit { margin-left: auto; font-family: var(--font-data); }
+@media (max-width: 900px) { .map__body { grid-template-columns: 1fr; } }
+
 /* ---------- brand --------------------------------------------------------- */
 .strap { font-family: var(--font-text); font-size: var(--step--1); color: var(--ink-note);
          margin-left: var(--s-3); white-space: nowrap; }
