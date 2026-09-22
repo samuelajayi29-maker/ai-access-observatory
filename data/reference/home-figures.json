@@ -1,0 +1,132 @@
+{
+ "compiled": "2026-09-11",
+ "band_points": 5.0,
+ "infrastructure": {
+  "adca": {
+   "active_mw": 360,
+   "under_construction_mw": 238,
+   "planned_mw": 656,
+   "global_share_pct": 0.6,
+   "source": "Africa Data Centres Association, Data Centres in Africa 2026: The Economic Report",
+   "url": "https://africadca.org/en/data-centres-in-africa-2026-the-economic-report"
+  },
+  "our_register_mw_by_status": {
+   "operational": 6.4,
+   "announced": 250,
+   "approved": 174,
+   "exploring": 0,
+   "under_construction": 258,
+   "funding": 0,
+   "policy_target": 0
+  }
+ },
+ "access": {
+  "baseline_model": "Claude Opus 5",
+  "baseline_lab": "Anthropic",
+  "baseline_workload_usd": 11.25,
+  "basket_usd": 225.0,
+  "basket_multiplier": 20,
+  "band_size": 4,
+  "band_models": [
+   "Claude Opus 5 (routed)",
+   "Claude Opus 5",
+   "Claude Fable 5.1",
+   "GPT-6 Astra"
+  ],
+  "countries_computed": 8,
+  "countries_total": 10,
+  "awarded_month_hours": 216.0,
+  "mean_pct_of_wage_month": 187.3,
+  "median_pct_of_wage_month": 153.1,
+  "min_pct": 55.3,
+  "max_pct": 439.6,
+  "min_country": "Morocco",
+  "max_country": "Ghana",
+  "rows": [
+   {
+    "iso3": "MAR",
+    "name": "Morocco",
+    "hours": 119.4,
+    "pct_of_wage_month": 55.3,
+    "monthly_wage_local": 3870.72,
+    "currency": "MAD",
+    "min_wage_date": "2026-01-01"
+   },
+   {
+    "iso3": "ZAF",
+    "name": "South Africa",
+    "hours": 120.6,
+    "pct_of_wage_month": 55.8,
+    "monthly_wage_local": 6529.68,
+    "currency": "ZAR",
+    "min_wage_date": "2026-03-01"
+   },
+   {
+    "iso3": "CIV",
+    "name": "Cote d'Ivoire",
+    "hours": 297.6,
+    "pct_of_wage_month": 137.8,
+    "monthly_wage_local": 93480.48,
+    "currency": "XOF",
+    "min_wage_date": "2023-01-01"
+   },
+   {
+    "iso3": "KEN",
+    "name": "Kenya",
+    "hours": 314.8,
+    "pct_of_wage_month": 145.7,
+    "monthly_wage_local": 19990.8,
+    "currency": "KES",
+    "min_wage_date": "2026-05-01"
+   },
+   {
+    "iso3": "EGY",
+    "name": "Egypt",
+    "hours": 346.8,
+    "pct_of_wage_month": 160.5,
+    "monthly_wage_local": 7268.4,
+    "currency": "EGP",
+    "min_wage_date": "2025-03-01"
+   },
+   {
+    "iso3": "SEN",
+    "name": "Senegal",
+    "hours": 347.6,
+    "pct_of_wage_month": 160.9,
+    "monthly_wage_local": 80033.62,
+    "currency": "XOF",
+    "min_wage_date": "2023-07-01"
+   },
+   {
+    "iso3": "NGA",
+    "name": "Nigeria",
+    "hours": 741.3,
+    "pct_of_wage_month": 343.2,
+    "monthly_wage_local": 87246.72,
+    "currency": "NGN",
+    "min_wage_date": "2024-05-01"
+   },
+   {
+    "iso3": "GHA",
+    "name": "Ghana",
+    "hours": 949.6,
+    "pct_of_wage_month": 439.6,
+    "monthly_wage_local": 587.52,
+    "currency": "GHS",
+    "min_wage_date": "2026-01-01"
+   }
+  ]
+ },
+ "jobs": {
+  "figure": 20,
+  "label": "of jobs are exposed to AI",
+  "region": "Sub-Saharan Africa",
+  "derived_from": "about four-fifths of jobs in sub-Saharan Africa have limited exposure to AI",
+  "source": "IMF, Unlocking the Potential: AI in Sub-Saharan Africa (Departmental Paper, 2026)",
+  "url": "https://www.elibrary.imf.org/view/journals/087/2026/013/article-A001-en.xml",
+  "comparison": "one in four workers worldwide are in an occupation with some generative-AI exposure",
+  "comparison_source": "ILO, Generative AI and jobs: a 2025 update",
+  "comparison_url": "https://www.ilo.org/publications/generative-ai-and-jobs-2025-update",
+  "method": "100 minus the IMF's low-exposure estimate. A modelled occupational estimate of today, not an observed count of displaced workers."
+ }
+}

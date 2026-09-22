@@ -4,34 +4,34 @@
  "releases": [
   {
    "version": "v2026.10",
-   "compiled": "2026-09-21",
+   "compiled": "2026-09-22",
    "base_url": "https://samuelajayi29-maker.github.io/ai-access-observatory",
    "schema_version": "2026.10.1",
    "licence": "CC BY 4.0. Credit reads: Astrolabe Africa",
    "file_count": 35,
    "files": {
     "index.html": {
-     "sha256": "9c9fd20d63971d7698ccf35a875586f88296beecba6e635aff9522428bec539b",
-     "bytes": 17215
+     "sha256": "6efc0e6d1ff7c5c209f227fd3ac483ebf1b2b4f22c16e4918af09f71d77beab9",
+     "bytes": 12198
     },
     "infrastructure.html": {
-     "sha256": "48cfe3d0d531d0c1fce6e53091a5d1bd49a9695d87e87cad71b08810f0eb6580",
+     "sha256": "6f8254e4e30f59779bbc79baa86eef1657ad50f5ddaf3c181c992d3a3e04bac9",
      "bytes": 20529
     },
     "access.html": {
-     "sha256": "301f9d8c54df53fa961d6356e3d77615105bcea0048c6310c5ef40b48797b08e",
+     "sha256": "38bef44bbf4f5b8bc84800513a44c3e0f0fce34c5ca210aa1c9aa4ebe69faca2",
      "bytes": 56680
     },
     "jobs.html": {
-     "sha256": "7462700cc885e29e83167e8d73b6ad728031c6e2f370f197be3e721844bf48f9",
-     "bytes": 14659
+     "sha256": "d7d7a741293605142f294f2f1e0d94cab9ce22949dfdb64bf1986acfab83fe3c",
+     "bytes": 14201
     },
     "method.html": {
-     "sha256": "77142b00752239b26062a6662032b6f0c34ac87f66519fce9336891a4df16fea",
+     "sha256": "fac39e77708299e8e107ed3e7ad2d2d193e3bd21efd56f250f4ee44bbd3fed0a",
      "bytes": 28409
     },
     "analysis.html": {
-     "sha256": "9a44e572158fdae0a6c82ee8b1f60be8dc16c6fb0cae78d453e04f62147bcba6",
+     "sha256": "18b50c7cb6422da97d1303f4237f69f4eced58b54ae294c10c54a1a7c16ec87c",
      "bytes": 13757
     },
     "404.html": {
@@ -79,80 +79,80 @@
      "bytes": 4634
     },
     "data/items.csv": {
-     "sha256": "6329728052ad8e09277d97c5c9b9dbcf7d172777f47e494aec298c2f8a1502eb",
-     "bytes": 70043
+     "sha256": "f004e9201390fc123ff27856a18d05553df116a4a8f63ef2b68226b9daaac4f1",
+     "bytes": 72541
     },
     "data/items.json": {
-     "sha256": "b3ce589b99ae938cf27bc8deb75e797a7ff87d1a1cc7c035642c2cc2bba4a57d",
-     "bytes": 100629
+     "sha256": "3aedecdda13c1f648a7cca0f7d83f67868bcc3c8666a6883d9add5175a64b60a",
+     "bytes": 104283
     },
     "charts/access-affordability.png": {
-     "sha256": "8f07133789946c97460a8268522da9d926583753c7b36a814488867eab03ae83",
-     "bytes": 355792
+     "sha256": "480aa503b3c5d7d5c0f255eb4f48a1fad33591da2c71e0ad12b843f83ec6d34c",
+     "bytes": 356033
     },
     "charts/access-affordability.svg": {
-     "sha256": "bfbab961f4ace4421832e8d8884416c329c9658c289b6f74860b0644ebe4d433",
+     "sha256": "e5bd93bca62218043e6d374bf0b25bf9e407057bc165d4aafb789f5cf8c2882e",
      "bytes": 37217
     },
     "charts/access-capability-vs-cost.png": {
-     "sha256": "7d17e47f24b61ec1e78177bc06bc5462ae01ac5a2034b183f338c782910972ab",
-     "bytes": 301190
+     "sha256": "39a6489ac2cf441d062e93b090bdfb4093db861afb8d75d1c03c56fbf7431b3e",
+     "bytes": 301568
     },
     "charts/access-capability-vs-cost.svg": {
-     "sha256": "856eb4bafcef14b989757d1454afc4448b238b48f62a87d9641136f8a2a0dafa",
+     "sha256": "3e1ec21db19618f496859056b6aaa3c47d6c74546ca7bc8c95ef78e544bd090e",
      "bytes": 10936
     },
     "charts/access-device-moves.png": {
-     "sha256": "19861f060fa2270ebb6e348b1caf0a6f34334294cfe9ec84a579b9dcbc4de672",
-     "bytes": 249558
+     "sha256": "7a14e0b0675d23fe076a7a1838dda052716cacdb7999f684d3cbc0e710dc8296",
+     "bytes": 249807
     },
     "charts/access-device-moves.svg": {
-     "sha256": "f39dc969fff87441811a7d5bb111f474e6e2089be2c2fb55aa6aa00619d55598",
+     "sha256": "67d79937d5578380eaffc9ef368d510afd3aba3b7ce66c27fc3311669fbd2e6f",
      "bytes": 7844
     },
     "charts/access-fx-decomposition.png": {
-     "sha256": "7ebeec5e7908ab07c569dc59829afeb93e696137c3bfb3995a1d738587759ea8",
-     "bytes": 169929
+     "sha256": "d38202a5b05e66b439092b1d6d967d5b149bae9753807e6d9388389d8dcb6eac",
+     "bytes": 170137
     },
     "charts/access-fx-decomposition.svg": {
-     "sha256": "cd4410086a1acfed5f3021d4c20051f34a06391d35da85d1f19c0049844c8b07",
+     "sha256": "7682c02177c4d4e3a96f3f4806c03b45a12352272c05f983a171f5b2896c9315",
      "bytes": 7051
     },
     "charts/access-subscription-share.png": {
-     "sha256": "ba6da27d5501704d8b104e19426119d20b54f26c2312363df7a7acc1a2ebf997",
-     "bytes": 225974
+     "sha256": "0ca9e8ba36c69b6a76595f6aa947ee4828e2907b1047422abafff1bf9b009cd3",
+     "bytes": 226245
     },
     "charts/access-subscription-share.svg": {
-     "sha256": "41d9bb4a19d3ff90564f1c58ba94e19385b47f385a5da9c00133faa6da95c050",
+     "sha256": "452fa1ff4de9157646d23730bee83ccc9bc0c243fd796438e7ab525b5159184c",
      "bytes": 19218
     },
     "charts/infra-capacity-by-status.png": {
-     "sha256": "7f500bb5af12b7545fee5eeeb2fc54c897674b87d268866a65200bf1ffba5f01",
-     "bytes": 166300
+     "sha256": "4216e52a8000d8afeb257a51b0cada220fb32a27e4284799ced229684ec28de4",
+     "bytes": 166558
     },
     "charts/infra-capacity-by-status.svg": {
-     "sha256": "c8b4858ae91567f6bdd35d112fc1212a01fc0a5924a0631bb4e81d3e20246003",
+     "sha256": "36c31e6a22952a5acfcd1fa7f19e9b491d49ce9c6683c81bf600c155aec3e5df",
      "bytes": 3753
     },
     "charts/infra-capital-by-country.png": {
-     "sha256": "8d5d7dbb4523b74fe2926de169252826cf1045afc599876c0e60b40fbbea7c83",
-     "bytes": 138889
+     "sha256": "24924e4466b9d7bc9cd3c10e7201c550708908a1679d2e6750c8e6b5c22a2e2f",
+     "bytes": 139149
     },
     "charts/infra-capital-by-country.svg": {
-     "sha256": "7465532fa75b3fc2ae519564ed97d178347ff65550815f0ba82500df4481ef1e",
+     "sha256": "0e8a0a4835c856c6a239d1d2d2382f0f009e0c83003f6ac5c2c85f691ed5340f",
      "bytes": 5031
     },
     "charts/record-activity.png": {
-     "sha256": "651245d668686363f65513554779b0f0589d7338864204f1e777db2e91dd529a",
-     "bytes": 93990
+     "sha256": "be6728b74d096a74438248da03ac675152f5822784c74dbd4f7caabf7fdbd485",
+     "bytes": 95760
     },
     "charts/record-activity.svg": {
-     "sha256": "95b55df005f8050f139f9f1dc128e05c6fc7428b2a435cc6ea75f16c7805c571",
-     "bytes": 5315
+     "sha256": "d9b861d81d63522f96d598728a44f9c23cbf3fae4c3593d03f902fa04a33803b",
+     "bytes": 5543
     }
    }
   }
  ],
  "latest": "v2026.10",
- "updated": "2026-09-21"
+ "updated": "2026-09-22"
 }
