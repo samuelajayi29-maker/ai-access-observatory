@@ -530,5 +530,13 @@
   "http_status": "200",
   "checked_at": "2026-09-22",
   "submitted": false
+ },
+ "https://arxiv.org/abs/2605.17086": {
+  "archive_url": "https://web.archive.org/web/20260620160214/https://arxiv.org/abs/2605.17086",
+  "archived_at": "2026-06-20",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-22",
+  "submitted": false
  }
 }

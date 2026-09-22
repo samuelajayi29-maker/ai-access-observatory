@@ -8,7 +8,7 @@
    "base_url": "https://samuelajayi29-maker.github.io/ai-access-observatory",
    "schema_version": "2026.10.2",
    "licence": "CC BY 4.0. Credit reads: Astrolabe Africa",
-   "file_count": 37,
+   "file_count": 39,
    "files": {
     "index.html": {
      "sha256": "141f9483a379afc5697a4dac8cb9cf849755395a720c28d9b0d544702b3f42cc",
@@ -19,16 +19,16 @@
      "bytes": 20529
     },
     "access.html": {
-     "sha256": "7383e13aa77c28d4ecc313665f7891fbaae33a0768af05c921c1cf6cd00671eb",
+     "sha256": "ebe9a8356ae2bfb665c4f5c362f86bbde2ff6109d095549f0f7fabf48d201d48",
      "bytes": 56680
     },
     "jobs.html": {
-     "sha256": "9c09a1c2564422dddea7b18275011ff80d2a54bc0877e91fe7964078b573b1f6",
-     "bytes": 21345
+     "sha256": "561ce61ec536b96da884321964f29cefc909dda856536dc5e70865304d1bba5f",
+     "bytes": 28829
     },
     "method.html": {
-     "sha256": "c230f7668da12677597bdb2a3b5a76aa1ba9ac93874d1e2fc7a231eb9066d331",
-     "bytes": 28784
+     "sha256": "becf2bae75e5ee5596800bba2f5d00b9367dfa7ba8b780eff492995d34a449f8",
+     "bytes": 28947
     },
     "analysis.html": {
      "sha256": "18b50c7cb6422da97d1303f4237f69f4eced58b54ae294c10c54a1a7c16ec87c",
@@ -141,6 +141,14 @@
     "charts/infra-capital-by-country.svg": {
      "sha256": "0e8a0a4835c856c6a239d1d2d2382f0f009e0c83003f6ac5c2c85f691ed5340f",
      "bytes": 5031
+    },
+    "charts/jobs-atlas-exposure.png": {
+     "sha256": "04a28f0898d3b324a3c691ef7c416efdd844f3169c119dd05db41f9de9baa0d6",
+     "bytes": 364463
+    },
+    "charts/jobs-atlas-exposure.svg": {
+     "sha256": "f2a7050c728c5498b29c1e55e4c9c796e7a4f4f31f57cb92a6043d2e7c283cf9",
+     "bytes": 17432
     },
     "charts/jobs-exposure.png": {
      "sha256": "84567e12e719f2efc14539edda08e6c9a1af80952a4019870fded44ca8f76024",
