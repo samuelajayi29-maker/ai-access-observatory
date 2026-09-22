@@ -207,7 +207,8 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px soli
 .gaps li::before { content: ""; position: absolute; left: 0; top: 0.55em; width: 14px; height: 1px; background: var(--rule-strong); }
 
 /* ---------- cite and download ---------------------------------------------- */
-.cite { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: var(--s-8); align-items: start; }
+.cite { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--s-8); align-items: start; }
+.cite > div { max-width: var(--measure-prose); }
 .cite__block { background: var(--paper); border: 1px solid var(--rule); padding: var(--s-4); font-family: var(--font-data); font-size: var(--step--1); white-space: pre-wrap; overflow-x: auto; }
 .cite__actions { display: flex; gap: var(--s-3); flex-wrap: wrap; margin-top: var(--s-3); }
 .cite__actions a, .cite__actions button { font-size: var(--step--1); padding: var(--s-1) var(--s-2); border: 1px solid var(--rule-strong); border-radius: 2px; background: var(--paper); color: var(--ink); cursor: pointer; }
