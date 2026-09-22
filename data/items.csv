@@ -1,10 +1,14 @@
 bucket,date,source,title,url
+jobs,Sep 22,Outsource Accelerator,Philippine labor market stays resilient amid the AI boom,https://news.outsourceaccelerator.com/philippine-labor-ai-resilient/
+jobs,Sep 21,Outsource Accelerator,Egypt targets $12B in outsourcing exports by 2029,https://news.outsourceaccelerator.com/egypt-outsourcing-exports-2029/
+jobs,Sep 21,Outsource Accelerator,Tax perks not enough to save PH BPO: WTO,https://news.outsourceaccelerator.com/wto-philippines-bpo-incentives/
 jobs,Sep 20,Times of Oman,"Only four countries lead global AI adoption by 20%, muting hiring in tech and services: Goldman Sachs",https://timesofoman.com/article/177144-only-four-countries-lead-global-ai-adoption-by-20-muting-hiring-in-tech-and-services-goldman-sachs
 jobs,Sep 19,Euronews,"Fear of AI job loss outweighs AI job creation excitement, study finds",https://www.euronews.com/next/2026/09/19/fear-of-ai-job-losses-now-outweighs-hope-of-new-jobs-study-finds
 jobs,Sep 19,People Daily,Kenya's next export boom may be online as WTO predicts AI could reshape global trade,https://peopledaily.digital/business/kenyas-next-export-boom-may-be-online-as-wto-predicts-ai-could-reshape-global-trade
 jobs,Sep 19,Business Day,Arthur Goldstuck: African banks teach Amazon Web Services about AI,https://www.businessday.co.za/business-times/opinion/2026-09-19-arthur-goldstuck-african-banks-teach-aws-about-ai/
 jobs,Sep 18,TechAfrica News,Kenya Plans to Expand BPO and GBS Opportunities Beyond Nairobi,https://techafricanews.com/2026/09/18/kenya-plans-expand-bpo-gbs-opportunities-beyond-nairobi/
 jobs,Sep 18,iAfrica,"AI in Creative Industries: Artist Ally, Enemy or Somewhere In-Between?",https://iafrica.com/ai-in-creative-industries-artist-ally-enemy-or-somewhere-in-between/
+jobs,Sep 18,arXiv,"When AI Enters the Workplace, Who Faces Greater Risks? A Gendered Analysis",https://arxiv.org/abs/2609.21756
 jobs,Sep 17,Ecofin Agency,"Nigeria to Train 32,000 Citizens in AI and Cybersecurity via New Academy",https://www.ecofinagency.com/news-services/1709-58988-nigeria-to-train-32-000-citizens-in-ai-and-cybersecurity-via-new-academy
 jobs,Sep 17,TechAfrica News,"InteLogix Opens New Contact Centre in New Cairo, Egypt",https://techafricanews.com/2026/09/17/intelogix-opens-new-contact-centre-new-cairo-egypt/
 jobs,Sep 17,African Development Bank,"Korea, African Development Bank sign deal to launch joint AI Hub to support Africa",https://www.afdb.org/en/news-and-events/press-releases/korea-african-development-bank-sign-deal-launch-joint-ai-hub-support-africa-96857
@@ -87,6 +91,8 @@ jobs,Mar 31,WeeTracker,South Africa's gig economy becomes a bargain with AI skil
 jobs,Dec 25,"Deric Cheng, AI Frontiers",AI Could Undermine Emerging Economies,https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies
 access,Sep 21,TechAfrica News,Mozambique INCM Develops Tariff System to Improve Mobile Data Transparency,https://techafricanews.com/2026/09/21/mozambique-incm-tariff-system-mobile-data-transparency/
 access,Sep 21,Cyprus Mail,"Record chip sales threaten higher prices for phones, PCs and gaming",https://cyprus-mail.com/2026/09/21/record-chip-sales-threaten-higher-prices-for-phones-pcs-and-gaming
+access,Sep 21,TechCabal,Nigeria's new phone tracking policy could price millions offline,https://techcabal.com/2026/09/21/nigerias-new-phone-tracking-policy-could-price-millions-offline/
+access,Sep 21,GSMA,GSMA and PDAA Unveil Roadmap to Close Africa's Mobile Internet Usage Gap and Connect One Billion People by 2030,https://www.gsma.com/newsroom/press-release/gsma-and-pdaa-unveil-roadmap-to-close-africas-mobile-internet-usage-gap-and-connect-one-billion-people-by-2030/
 access,Sep 20,AI Pricing Guru,"AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",https://www.aipricing.guru/
 access,Sep 20,Capital Ethiopia,Sub-Saharan Africa faces digital divide as handset costs and usage gap persist,https://capitalethiopia.com/2026/09/20/sub-saharan-africa-faces-digital-divide-as-handset-costs-and-usage-gap-persist/
 access,Sep 20,Tech Review Africa,Kenya urged to enhance AI capacity for financial inclusion and security,https://techreviewafrica.com/news/7360/kenya-urged-to-enhance-ai-capacity-for-financial-inclusion-and-security
@@ -100,6 +106,7 @@ access,Sep 16,Businessday NG,Entry-level smartphone costs hit 76% of monthly inc
 access,Sep 16,ITWeb,AI boom threatens smartphone affordability,https://www.itweb.co.za/article/ai-boom-threatens-smartphone-affordability/j5alrvQAoB9vpYQk
 access,Sep 16,DigiTimes,"Apple reportedly accepts Samsung's 1Q27 memory hike, raising the 2027 smartphone cost floor",https://www.digitimes.com/news/a20260916VL210/apple-samsung-2027-smartphone-cost.html
 access,Sep 15,GSMA,GSMA warns of emerging global AI divide as three billion people remain offline and smartphone component costs soar,https://www.gsma.com/newsroom/press-release/gsma-warns-of-emerging-global-ai-divide-as-three-billion-people-remain-offline-and-smartphone-component-costs-soar/
+access,Sep 15,Ecofin Agency,Africa's $40 Smartphone Ambition Runs Into Memory Prices and Customs Costs,https://www.ecofinagency.com/news/1509-58915-africas-40-smartphone-ambition-runs-into-memory-prices-and-customs-costs
 access,Sep 14,AI Pricing Guru,"Anthropic Claude API pricing 2026: Fable, Opus, Sonnet cache-read rates",https://www.aipricing.guru/anthropic-pricing/
 access,Sep 13,TechReviewAfrica,"AI Skills and Compute Africa, AIMS partner to expand AI research and compute access",https://techreviewafrica.com/news/7195/ai-skills-and-compute-africa-aims-partner-to-expand-ai-research-and-compute-access
 access,Sep 13,arXiv,BigMoMo: Efficient Inference of Large-Scale MoE with Speculative Decoding on Mobile Devices,https://arxiv.org/abs/2609.14643
@@ -204,13 +211,20 @@ access,May 27,Trustonic,"Deconstructing Africa's smartphone market: shipments, p
 access,May 26,"David Oks, Substack",AI Is Killing the Cheap Smartphone,https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone
 access,Apr 15,Japan Times / AFP,AI-driven chip shortage slowing efforts to get world online: GSMA,https://www.thejapantimes.jp/Technology/658420-ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma.html
 access,Feb 26,Techpoint Africa,AI Chip Demand — Smartphone Prices in Nigeria,https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/
+infra,Sep 22,TechAfrica News,"Egypt and NVIDIA Discuss AI Cooperation, Skills Development and Innovation",https://techafricanews.com/2026/09/22/egypt-nvidia-discuss-ai-cooperation-skills-development-innovation/
+infra,Sep 22,TechAfrica News,Rwanda Signs MoU With ChipMango to Build Local Semiconductor Design Skills,https://techafricanews.com/2026/09/22/rwanda-signs-mou-with-chipmango-to-build-local-semiconductor-design-skills/
 infra,Sep 21,TechAfrica News,Kenya and Stanford's Hoover Institution Sign Five-Year Deal on AI and Data Governance,https://techafricanews.com/2026/09/21/kenya-stanford-hoover-institution-ai-data-governance-deal/
 infra,Sep 21,TechAfrica News,"Resilience, Routing and Data Sovereignty in African Networks",https://techafricanews.com/2026/09/21/resilience-routing-and-data-sovereignty-in-african-networks/
 infra,Sep 21,Independent Newspaper Nigeria,Digital Parks Africa To Build Tier IV Carrier-Neutral Data Centre In Lagos,https://independent.ng/digital-parks-africa-to-build-tier-iv-carrier-neutral-data-centre-in-lagos/
 infra,Sep 21,TechTrends KE,"Vertiv, Pinnacle ICT in distribution deal to expand data infrastructure reach in Southern Africa",https://techtrendske.co.ke/2026/09/21/vertiv-pinnacle-ict-in-distribution-deal-to-expand-data-infrastructure-reach-in-southern-africa/
+infra,Sep 21,NVIDIA Blog,"From Enablement to Execution, Egypt's AI Ecosystem Reaches Production Scale",https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/
+infra,Sep 21,Business Day,The 14-week race to move Nigeria's bank data home,https://businessday.ng/technology/article/the-14-week-race-to-move-nigerias-bank-data-home/
+infra,Sep 21,iAfrica,FSCA Holds Off on AI Rules Until Global Standards Body Reports,https://iafrica.com/fsca-holds-off-on-ai-rules-until-global-standards-body-reports/
+infra,Sep 21,arXiv,Context-Aware Pre-Deployment Evaluation of AI Systems: A Regulatory Framework for Nigerian Fintech,https://arxiv.org/abs/2609.24016
 infra,Sep 20,TechReview Africa,Cassava Technologies CEO calls for African ownership of AI compute infrastructure,https://techreviewafrica.com/news/7356/cassava-technologies-ceo-calls-for-african-ownership-of-ai-compute-infrastructure
 infra,Sep 20,Daily Maverick,Data centre deal: Cape Town forced back to the drawing board,https://www.dailymaverick.co.za/article/2026-09-20-data-centre-deal-cape-town-forced-back-to-the-drawing-board/
 infra,Sep 20,Daily Maverick,Datatec is riding the global AI infrastructure wave from the JSE,https://www.dailymaverick.co.za/article/2026-09-20-datatec-is-riding-the-global-ai-infrastructure-wave-from-the-jse/
+infra,Sep 20,arXiv,Beyond PUE: A Local Impact Audit Framework for Data Center Environmental Accountability,https://arxiv.org/abs/2609.23421
 infra,Sep 19,iAfrica,"Cape Town Groups File Legal Challenge Against Equinix Data Centres, Demand National Moratorium",https://iafrica.com/cape-town-groups-file-legal-challenge-against-equinix-data-centres-demand-national-moratorium/
 infra,Sep 19,iAfrica,Egypt's Synapse Analytics Raises $13m Series A Led by Partech,https://iafrica.com/egypts-synapse-analytics-raises-13m-series-a-led-by-partech/
 infra,Sep 19,MyBroadband,South Africa's data centre boom gets push from government,https://mybroadband.co.za/news/cloud-hosting/666504-south-africas-data-centre-boom-gets-push-from-government.html
