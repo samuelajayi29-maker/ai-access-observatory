@@ -1,7 +1,7 @@
 {
  "release": "v2026.10",
  "schema_version": "2026.10.1",
- "validated_at": "2026-09-21",
+ "validated_at": "2026-09-22",
  "counts": {
   "rows_checked": 692,
   "rows_passing": 363,
