@@ -1,0 +1,221 @@
+Provider,Tier,Country,Price USD/month,Share of monthly income,Local price published,Local currency,Evidence
+OpenAI,Go,CIV,8,3.4532,yes,NGN,derived
+OpenAI,Go,EGY,8,2.9448,yes,NGN,derived
+OpenAI,Go,ETH,8,8.6486,yes,NGN,derived
+OpenAI,Go,GHA,8,3.6502,yes,NGN,derived
+OpenAI,Go,KEN,8,4.3636,yes,NGN,derived
+OpenAI,Go,MAR,8,2.2018,yes,NGN,derived
+OpenAI,Go,NGA,8,7.0588,yes,NGN,derived
+OpenAI,Go,RWA,8,8.3478,yes,NGN,derived
+OpenAI,Go,SEN,8,5.3933,yes,NGN,derived
+OpenAI,Go,ZAF,8,1.5311,yes,NGN,derived
+Google,Google AI Plus,CIV,4.99,2.154,yes,NGN,derived
+Google,Google AI Plus,EGY,4.99,1.8368,yes,NGN,derived
+Google,Google AI Plus,ETH,4.99,5.3946,yes,NGN,derived
+Google,Google AI Plus,GHA,4.99,2.2768,yes,NGN,derived
+Google,Google AI Plus,KEN,4.99,2.7218,yes,NGN,derived
+Google,Google AI Plus,MAR,4.99,1.3734,yes,NGN,derived
+Google,Google AI Plus,NGA,4.99,4.4029,yes,NGN,derived
+Google,Google AI Plus,RWA,4.99,5.207,yes,NGN,derived
+Google,Google AI Plus,SEN,4.99,3.364,yes,NGN,derived
+Google,Google AI Plus,ZAF,4.99,0.955,yes,NGN,derived
+Google,Google AI Pro,CIV,19.99,8.6288,yes,NGN,derived
+Google,Google AI Pro,EGY,19.99,7.3583,yes,NGN,derived
+Google,Google AI Pro,ETH,19.99,21.6108,yes,NGN,derived
+Google,Google AI Pro,GHA,19.99,9.1209,yes,NGN,derived
+Google,Google AI Pro,KEN,19.99,10.9036,yes,NGN,derived
+Google,Google AI Pro,MAR,19.99,5.5018,yes,NGN,derived
+Google,Google AI Pro,NGA,19.99,17.6382,yes,NGN,derived
+Google,Google AI Pro,RWA,19.99,20.8591,yes,NGN,derived
+Google,Google AI Pro,SEN,19.99,13.4764,yes,NGN,derived
+Google,Google AI Pro,ZAF,19.99,3.8258,yes,NGN,derived
+Google,Google AI Ultra 20x,CIV,199.99,86.3266,yes,NGN,derived
+Google,Google AI Ultra 20x,EGY,199.99,73.616,yes,NGN,derived
+Google,Google AI Ultra 20x,ETH,199.99,216.2054,yes,NGN,derived
+Google,Google AI Ultra 20x,GHA,199.99,91.2502,yes,NGN,derived
+Google,Google AI Ultra 20x,KEN,199.99,109.0855,yes,NGN,derived
+Google,Google AI Ultra 20x,MAR,199.99,55.0431,yes,NGN,derived
+Google,Google AI Ultra 20x,NGA,199.99,176.4618,yes,NGN,derived
+Google,Google AI Ultra 20x,RWA,199.99,208.6852,yes,NGN,derived
+Google,Google AI Ultra 20x,SEN,199.99,134.8247,yes,NGN,derived
+Google,Google AI Ultra 20x,ZAF,199.99,38.2756,yes,NGN,derived
+Google,Google AI Ultra 5x,CIV,99.99,43.1612,yes,NGN,derived
+Google,Google AI Ultra 5x,EGY,99.99,36.8061,yes,NGN,derived
+Google,Google AI Ultra 5x,ETH,99.99,108.0973,yes,NGN,derived
+Google,Google AI Ultra 5x,GHA,99.99,45.6228,yes,NGN,derived
+Google,Google AI Ultra 5x,KEN,99.99,54.54,yes,NGN,derived
+Google,Google AI Ultra 5x,MAR,99.99,27.5202,yes,NGN,derived
+Google,Google AI Ultra 5x,NGA,99.99,88.2265,yes,NGN,derived
+Google,Google AI Ultra 5x,RWA,99.99,104.3374,yes,NGN,derived
+Google,Google AI Ultra 5x,SEN,99.99,67.409,yes,NGN,derived
+Google,Google AI Ultra 5x,ZAF,99.99,19.1368,yes,NGN,derived
+Perplexity,Max,CIV,200,86.3309,yes,NGN,derived
+Perplexity,Max,EGY,200,73.6196,yes,NGN,derived
+Perplexity,Max,ETH,200,216.2162,yes,NGN,derived
+Perplexity,Max,GHA,200,91.2548,yes,NGN,derived
+Perplexity,Max,KEN,200,109.0909,yes,NGN,derived
+Perplexity,Max,MAR,200,55.0459,yes,NGN,derived
+Perplexity,Max,NGA,200,176.4706,yes,NGN,derived
+Perplexity,Max,RWA,200,208.6957,yes,NGN,derived
+Perplexity,Max,SEN,200,134.8315,yes,NGN,derived
+Perplexity,Max,ZAF,200,38.2775,yes,NGN,derived
+Anthropic,Max 20x,CIV,200,86.3309,yes,NGN,derived
+Anthropic,Max 20x,EGY,200,73.6196,yes,NGN,derived
+Anthropic,Max 20x,ETH,200,216.2162,yes,NGN,derived
+Anthropic,Max 20x,GHA,200,91.2548,yes,NGN,derived
+Anthropic,Max 20x,KEN,200,109.0909,yes,NGN,derived
+Anthropic,Max 20x,MAR,200,55.0459,yes,NGN,derived
+Anthropic,Max 20x,NGA,200,176.4706,yes,NGN,derived
+Anthropic,Max 20x,RWA,200,208.6957,yes,NGN,derived
+Anthropic,Max 20x,SEN,200,134.8315,yes,NGN,derived
+Anthropic,Max 20x,ZAF,200,38.2775,yes,NGN,derived
+Anthropic,Max 5x,CIV,100,43.1655,yes,NGN,derived
+Anthropic,Max 5x,EGY,100,36.8098,yes,NGN,derived
+Anthropic,Max 5x,ETH,100,108.1081,yes,NGN,derived
+Anthropic,Max 5x,GHA,100,45.6274,yes,NGN,derived
+Anthropic,Max 5x,KEN,100,54.5455,yes,NGN,derived
+Anthropic,Max 5x,MAR,100,27.5229,yes,NGN,derived
+Anthropic,Max 5x,NGA,100,88.2353,yes,NGN,derived
+Anthropic,Max 5x,RWA,100,104.3478,yes,NGN,derived
+Anthropic,Max 5x,SEN,100,67.4157,yes,NGN,derived
+Anthropic,Max 5x,ZAF,100,19.1388,yes,NGN,derived
+Microsoft,Microsoft 365 Family (includes limited Copilot AI),CIV,12.99,5.6072,no,,derived
+Microsoft,Microsoft 365 Family (includes limited Copilot AI),EGY,12.99,4.7816,no,,derived
+Microsoft,Microsoft 365 Family (includes limited Copilot AI),ETH,12.99,14.0432,no,,derived
+Microsoft,Microsoft 365 Family (includes limited Copilot AI),GHA,12.99,5.927,no,,derived
+Microsoft,Microsoft 365 Family (includes limited Copilot AI),KEN,12.99,7.0855,no,,derived
+Microsoft,Microsoft 365 Family (includes limited Copilot AI),MAR,12.99,3.5752,no,,derived
+Microsoft,Microsoft 365 Family (includes limited Copilot AI),NGA,12.99,11.4618,no,,derived
+Microsoft,Microsoft 365 Family (includes limited Copilot AI),RWA,12.99,13.5548,no,,derived
+Microsoft,Microsoft 365 Family (includes limited Copilot AI),SEN,12.99,8.7573,no,,derived
+Microsoft,Microsoft 365 Family (includes limited Copilot AI),ZAF,12.99,2.4861,no,,derived
+Microsoft,Microsoft 365 Personal (includes limited Copilot AI),CIV,9.99,4.3122,no,,derived
+Microsoft,Microsoft 365 Personal (includes limited Copilot AI),EGY,9.99,3.6773,no,,derived
+Microsoft,Microsoft 365 Personal (includes limited Copilot AI),ETH,9.99,10.8,no,,derived
+Microsoft,Microsoft 365 Personal (includes limited Copilot AI),GHA,9.99,4.5582,no,,derived
+Microsoft,Microsoft 365 Personal (includes limited Copilot AI),KEN,9.99,5.4491,no,,derived
+Microsoft,Microsoft 365 Personal (includes limited Copilot AI),MAR,9.99,2.7495,no,,derived
+Microsoft,Microsoft 365 Personal (includes limited Copilot AI),NGA,9.99,8.8147,no,,derived
+Microsoft,Microsoft 365 Personal (includes limited Copilot AI),RWA,9.99,10.4243,no,,derived
+Microsoft,Microsoft 365 Personal (includes limited Copilot AI),SEN,9.99,6.7348,no,,derived
+Microsoft,Microsoft 365 Personal (includes limited Copilot AI),ZAF,9.99,1.912,no,,derived
+Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),CIV,19.99,8.6288,no,,derived
+Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),EGY,19.99,7.3583,no,,derived
+Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),ETH,19.99,21.6108,no,,derived
+Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),GHA,19.99,9.1209,no,,derived
+Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),KEN,19.99,10.9036,no,,derived
+Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),MAR,19.99,5.5018,no,,derived
+Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),NGA,19.99,17.6382,no,,derived
+Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),RWA,19.99,20.8591,no,,derived
+Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),SEN,19.99,13.4764,no,,derived
+Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),ZAF,19.99,3.8258,no,,derived
+Microsoft,Microsoft 365 Pro (highest Copilot usage),CIV,99.99,43.1612,no,,derived
+Microsoft,Microsoft 365 Pro (highest Copilot usage),EGY,99.99,36.8061,no,,derived
+Microsoft,Microsoft 365 Pro (highest Copilot usage),ETH,99.99,108.0973,no,,derived
+Microsoft,Microsoft 365 Pro (highest Copilot usage),GHA,99.99,45.6228,no,,derived
+Microsoft,Microsoft 365 Pro (highest Copilot usage),KEN,99.99,54.54,no,,derived
+Microsoft,Microsoft 365 Pro (highest Copilot usage),MAR,99.99,27.5202,no,,derived
+Microsoft,Microsoft 365 Pro (highest Copilot usage),NGA,99.99,88.2265,no,,derived
+Microsoft,Microsoft 365 Pro (highest Copilot usage),RWA,99.99,104.3374,no,,derived
+Microsoft,Microsoft 365 Pro (highest Copilot usage),SEN,99.99,67.409,no,,derived
+Microsoft,Microsoft 365 Pro (highest Copilot usage),ZAF,99.99,19.1368,no,,derived
+OpenAI,Plus,CIV,20,8.6331,yes,NGN,derived
+OpenAI,Plus,EGY,20,7.362,yes,NGN,derived
+OpenAI,Plus,ETH,20,21.6216,yes,NGN,derived
+OpenAI,Plus,GHA,20,9.1255,yes,NGN,derived
+OpenAI,Plus,KEN,20,10.9091,yes,NGN,derived
+OpenAI,Plus,MAR,20,5.5046,yes,NGN,derived
+OpenAI,Plus,NGA,20,17.6471,yes,NGN,derived
+OpenAI,Plus,RWA,20,20.8696,yes,NGN,derived
+OpenAI,Plus,SEN,20,13.4831,yes,NGN,derived
+OpenAI,Plus,ZAF,20,3.8278,yes,NGN,derived
+OpenAI,Pro,CIV,100,43.1655,yes,NGN,derived
+Anthropic,Pro,CIV,20,8.6331,yes,NGN,derived
+Perplexity,Pro,CIV,20,8.6331,yes,NGN,derived
+OpenAI,Pro,EGY,100,36.8098,yes,NGN,derived
+Anthropic,Pro,EGY,20,7.362,yes,NGN,derived
+Perplexity,Pro,EGY,20,7.362,yes,NGN,derived
+OpenAI,Pro,ETH,100,108.1081,yes,NGN,derived
+Anthropic,Pro,ETH,20,21.6216,yes,NGN,derived
+Perplexity,Pro,ETH,20,21.6216,yes,NGN,derived
+OpenAI,Pro,GHA,100,45.6274,yes,NGN,derived
+Anthropic,Pro,GHA,20,9.1255,yes,NGN,derived
+Perplexity,Pro,GHA,20,9.1255,yes,NGN,derived
+OpenAI,Pro,KEN,100,54.5455,yes,NGN,derived
+Anthropic,Pro,KEN,20,10.9091,yes,NGN,derived
+Perplexity,Pro,KEN,20,10.9091,yes,NGN,derived
+OpenAI,Pro,MAR,100,27.5229,yes,NGN,derived
+Anthropic,Pro,MAR,20,5.5046,yes,NGN,derived
+Perplexity,Pro,MAR,20,5.5046,yes,NGN,derived
+OpenAI,Pro,NGA,100,88.2353,yes,NGN,derived
+Anthropic,Pro,NGA,20,17.6471,yes,NGN,derived
+Perplexity,Pro,NGA,20,17.6471,yes,NGN,derived
+OpenAI,Pro,RWA,100,104.3478,yes,NGN,derived
+Anthropic,Pro,RWA,20,20.8696,yes,NGN,derived
+Perplexity,Pro,RWA,20,20.8696,yes,NGN,derived
+OpenAI,Pro,SEN,100,67.4157,yes,NGN,derived
+Anthropic,Pro,SEN,20,13.4831,yes,NGN,derived
+Perplexity,Pro,SEN,20,13.4831,yes,NGN,derived
+OpenAI,Pro,ZAF,100,19.1388,yes,NGN,derived
+Anthropic,Pro,ZAF,20,3.8278,yes,NGN,derived
+Perplexity,Pro,ZAF,20,3.8278,yes,NGN,derived
+xAI,SuperGrok,CIV,30,12.9496,yes,NGN,derived
+xAI,SuperGrok,EGY,30,11.0429,yes,NGN,derived
+xAI,SuperGrok,ETH,30,32.4324,yes,NGN,derived
+xAI,SuperGrok,GHA,30,13.6882,yes,NGN,derived
+xAI,SuperGrok,KEN,30,16.3636,yes,NGN,derived
+xAI,SuperGrok,MAR,30,8.2569,yes,NGN,derived
+xAI,SuperGrok,NGA,30,26.4706,yes,NGN,derived
+xAI,SuperGrok,RWA,30,31.3043,yes,NGN,derived
+xAI,SuperGrok,SEN,30,20.2247,yes,NGN,derived
+xAI,SuperGrok,ZAF,30,5.7416,yes,NGN,derived
+xAI,SuperGrok Heavy,CIV,300,129.4964,yes,NGN,derived
+xAI,SuperGrok Heavy,EGY,300,110.4294,yes,NGN,derived
+xAI,SuperGrok Heavy,ETH,300,324.3243,yes,NGN,derived
+xAI,SuperGrok Heavy,GHA,300,136.8821,yes,NGN,derived
+xAI,SuperGrok Heavy,KEN,300,163.6364,yes,NGN,derived
+xAI,SuperGrok Heavy,MAR,300,82.5688,yes,NGN,derived
+xAI,SuperGrok Heavy,NGA,300,264.7059,yes,NGN,derived
+xAI,SuperGrok Heavy,RWA,300,313.0435,yes,NGN,derived
+xAI,SuperGrok Heavy,SEN,300,202.2472,yes,NGN,derived
+xAI,SuperGrok Heavy,ZAF,300,57.4163,yes,NGN,derived
+xAI,SuperGrok Lite,CIV,10,4.3165,unclear,,derived
+xAI,SuperGrok Lite,EGY,10,3.681,unclear,,derived
+xAI,SuperGrok Lite,ETH,10,10.8108,unclear,,derived
+xAI,SuperGrok Lite,GHA,10,4.5627,unclear,,derived
+xAI,SuperGrok Lite,KEN,10,5.4545,unclear,,derived
+xAI,SuperGrok Lite,MAR,10,2.7523,unclear,,derived
+xAI,SuperGrok Lite,NGA,10,8.8235,unclear,,derived
+xAI,SuperGrok Lite,RWA,10,10.4348,unclear,,derived
+xAI,SuperGrok Lite,SEN,10,6.7416,unclear,,derived
+xAI,SuperGrok Lite,ZAF,10,1.9139,unclear,,derived
+xAI,SuperGrok Plus,CIV,100,43.1655,yes,NGN,derived
+xAI,SuperGrok Plus,EGY,100,36.8098,yes,NGN,derived
+xAI,SuperGrok Plus,ETH,100,108.1081,yes,NGN,derived
+xAI,SuperGrok Plus,GHA,100,45.6274,yes,NGN,derived
+xAI,SuperGrok Plus,KEN,100,54.5455,yes,NGN,derived
+xAI,SuperGrok Plus,MAR,100,27.5229,yes,NGN,derived
+xAI,SuperGrok Plus,NGA,100,88.2353,yes,NGN,derived
+xAI,SuperGrok Plus,RWA,100,104.3478,yes,NGN,derived
+xAI,SuperGrok Plus,SEN,100,67.4157,yes,NGN,derived
+xAI,SuperGrok Plus,ZAF,100,19.1388,yes,NGN,derived
+Anthropic,Team premium seat,CIV,100,43.1655,no,,derived
+Anthropic,Team premium seat,EGY,100,36.8098,no,,derived
+Anthropic,Team premium seat,ETH,100,108.1081,no,,derived
+Anthropic,Team premium seat,GHA,100,45.6274,no,,derived
+Anthropic,Team premium seat,KEN,100,54.5455,no,,derived
+Anthropic,Team premium seat,MAR,100,27.5229,no,,derived
+Anthropic,Team premium seat,NGA,100,88.2353,no,,derived
+Anthropic,Team premium seat,RWA,100,104.3478,no,,derived
+Anthropic,Team premium seat,SEN,100,67.4157,no,,derived
+Anthropic,Team premium seat,ZAF,100,19.1388,no,,derived
+Anthropic,Team standard seat,CIV,20,8.6331,no,,derived
+Anthropic,Team standard seat,EGY,20,7.362,no,,derived
+Anthropic,Team standard seat,ETH,20,21.6216,no,,derived
+Anthropic,Team standard seat,GHA,20,9.1255,no,,derived
+Anthropic,Team standard seat,KEN,20,10.9091,no,,derived
+Anthropic,Team standard seat,MAR,20,5.5046,no,,derived
+Anthropic,Team standard seat,NGA,20,17.6471,no,,derived
+Anthropic,Team standard seat,RWA,20,20.8696,no,,derived
+Anthropic,Team standard seat,SEN,20,13.4831,no,,derived
+Anthropic,Team standard seat,ZAF,20,3.8278,no,,derived

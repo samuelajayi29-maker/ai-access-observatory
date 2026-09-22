@@ -1,11 +1,11 @@
 {
  "release": "v2026.10",
- "schema_version": "2026.10.1",
+ "schema_version": "2026.10.2",
  "validated_at": "2026-09-22",
  "counts": {
-  "rows_checked": 692,
+  "rows_checked": 725,
   "rows_passing": 363,
-  "rows_quarantined": 329,
+  "rows_quarantined": 362,
   "rows_missing_archive": 11,
   "rows_with_bad_url": 8,
   "rows_missing_status": 0,
@@ -79,21 +79,28 @@
    "rows": 290,
    "passing": 250,
    "quarantined": 40,
-   "missing_archive": 90,
+   "missing_archive": 40,
    "bad_url": 10
   },
   "free-tier-register.csv": {
    "rows": 29,
    "passing": 25,
    "quarantined": 4,
-   "missing_archive": 9,
+   "missing_archive": 4,
    "bad_url": 1
   },
   "availability-register.csv": {
    "rows": 60,
    "passing": 58,
    "quarantined": 2,
-   "missing_archive": 4,
+   "missing_archive": 0,
+   "bad_url": 0
+  },
+  "jobs-exposure.csv": {
+   "rows": 33,
+   "passing": 0,
+   "quarantined": 33,
+   "missing_archive": 0,
    "bad_url": 0
   }
  },

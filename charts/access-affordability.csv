@@ -1,0 +1,131 @@
+Model,Country,Basket share of monthly income,Single workload share,Basket in minimum-wage hours,Single workload in hours,Currency,Workload cost USD,Monthly GNI per capita USD,Formula version,Held back by
+Claude Fable 5.1,CIV,194.24%,9.71%,595.2,29.76,XOF,22.5000,231.67,A-1.0,minimum-wage source is industry_body
+Claude Fable 5.1,EGY,165.64%,8.28%,693.6,34.68,EGP,22.5000,271.67,A-1.0,headline eligible
+Claude Fable 5.1,ETH,486.49%,24.32%,,,,22.5000,92.50,A-1.0,no statutory minimum wage
+Claude Fable 5.1,GHA,205.32%,10.27%,"1,899.3",94.96,GHS,22.5000,219.17,A-1.0,minimum-wage source is trade_reporting
+Claude Fable 5.1,KEN,245.45%,12.27%,629.6,31.48,KES,22.5000,183.33,A-1.0,headline eligible
+Claude Fable 5.1,MAR,123.85%,6.19%,238.9,11.94,MAD,22.5000,363.33,A-1.0,headline eligible
+Claude Fable 5.1,NGA,397.06%,19.85%,"1,482.5",74.13,NGN,22.5000,113.33,A-1.0,minimum-wage source is industry_body
+Claude Fable 5.1,RWA,469.57%,23.48%,,,,22.5000,95.83,A-1.0,no statutory minimum wage
+Claude Fable 5.1,SEN,303.37%,15.17%,695.2,34.76,XOF,22.5000,148.33,A-1.0,minimum-wage source is trade_reporting
+Claude Fable 5.1,ZAF,86.12%,4.31%,241.2,12.06,ZAR,22.5000,522.50,A-1.0,headline eligible
+Claude Opus 5,CIV,97.12%,4.86%,297.6,14.88,XOF,11.2500,231.67,A-1.0,model price row is trade_reporting
+Claude Opus 5,EGY,82.82%,4.14%,346.8,17.34,EGP,11.2500,271.67,A-1.0,model price row is trade_reporting
+Claude Opus 5,ETH,243.24%,12.16%,,,,11.2500,92.50,A-1.0,model price row is trade_reporting
+Claude Opus 5,GHA,102.66%,5.13%,949.6,47.48,GHS,11.2500,219.17,A-1.0,model price row is trade_reporting
+Claude Opus 5,KEN,122.73%,6.14%,314.8,15.74,KES,11.2500,183.33,A-1.0,model price row is trade_reporting
+Claude Opus 5,MAR,61.93%,3.10%,119.4,5.97,MAD,11.2500,363.33,A-1.0,model price row is trade_reporting
+Claude Opus 5,NGA,198.53%,9.93%,741.3,37.06,NGN,11.2500,113.33,A-1.0,model price row is trade_reporting
+Claude Opus 5,RWA,234.78%,11.74%,,,,11.2500,95.83,A-1.0,model price row is trade_reporting
+Claude Opus 5,SEN,151.69%,7.58%,347.6,17.38,XOF,11.2500,148.33,A-1.0,model price row is trade_reporting
+Claude Opus 5,ZAF,43.06%,2.15%,120.6,6.03,ZAR,11.2500,522.50,A-1.0,model price row is trade_reporting
+Claude Opus 5 (routed),CIV,38.85%,1.94%,119.0,5.95,XOF,4.5000,231.67,A-1.0,model price row is trade_reporting
+Claude Opus 5 (routed),EGY,33.13%,1.66%,138.7,6.94,EGP,4.5000,271.67,A-1.0,model price row is trade_reporting
+Claude Opus 5 (routed),ETH,97.30%,4.86%,,,,4.5000,92.50,A-1.0,model price row is trade_reporting
+Claude Opus 5 (routed),GHA,41.06%,2.05%,379.9,18.99,GHS,4.5000,219.17,A-1.0,model price row is trade_reporting
+Claude Opus 5 (routed),KEN,49.09%,2.45%,125.9,6.30,KES,4.5000,183.33,A-1.0,model price row is trade_reporting
+Claude Opus 5 (routed),MAR,24.77%,1.24%,47.8,2.39,MAD,4.5000,363.33,A-1.0,model price row is trade_reporting
+Claude Opus 5 (routed),NGA,79.41%,3.97%,296.5,14.83,NGN,4.5000,113.33,A-1.0,model price row is trade_reporting
+Claude Opus 5 (routed),RWA,93.91%,4.70%,,,,4.5000,95.83,A-1.0,model price row is trade_reporting
+Claude Opus 5 (routed),SEN,60.67%,3.03%,139.0,6.95,XOF,4.5000,148.33,A-1.0,model price row is trade_reporting
+Claude Opus 5 (routed),ZAF,17.22%,0.86%,48.2,2.41,ZAR,4.5000,522.50,A-1.0,model price row is trade_reporting
+DeepSeek V4 Flash 0731,CIV,3.32%,0.17%,10.2,0.51,XOF,0.3850,231.67,A-1.0,model price row is trade_reporting
+DeepSeek V4 Flash 0731,EGY,2.83%,0.14%,11.9,0.59,EGP,0.3850,271.67,A-1.0,model price row is trade_reporting
+DeepSeek V4 Flash 0731,ETH,8.32%,0.42%,,,,0.3850,92.50,A-1.0,model price row is trade_reporting
+DeepSeek V4 Flash 0731,GHA,3.51%,0.18%,32.5,1.62,GHS,0.3850,219.17,A-1.0,model price row is trade_reporting
+DeepSeek V4 Flash 0731,KEN,4.20%,0.21%,10.8,0.54,KES,0.3850,183.33,A-1.0,model price row is trade_reporting
+DeepSeek V4 Flash 0731,MAR,2.12%,0.11%,4.1,0.20,MAD,0.3850,363.33,A-1.0,model price row is trade_reporting
+DeepSeek V4 Flash 0731,NGA,6.79%,0.34%,25.4,1.27,NGN,0.3850,113.33,A-1.0,model price row is trade_reporting
+DeepSeek V4 Flash 0731,RWA,8.03%,0.40%,,,,0.3850,95.83,A-1.0,model price row is trade_reporting
+DeepSeek V4 Flash 0731,SEN,5.19%,0.26%,11.9,0.59,XOF,0.3850,148.33,A-1.0,model price row is trade_reporting
+DeepSeek V4 Flash 0731,ZAF,1.47%,0.07%,4.1,0.21,ZAR,0.3850,522.50,A-1.0,model price row is trade_reporting
+DeepSeek V4 Pro 0813 (max),CIV,9.97%,0.50%,30.6,1.53,XOF,1.1550,231.67,A-1.0,minimum-wage source is industry_body
+DeepSeek V4 Pro 0813 (max),EGY,8.50%,0.43%,35.6,1.78,EGP,1.1550,271.67,A-1.0,headline eligible
+DeepSeek V4 Pro 0813 (max),ETH,24.97%,1.25%,,,,1.1550,92.50,A-1.0,no statutory minimum wage
+DeepSeek V4 Pro 0813 (max),GHA,10.54%,0.53%,97.5,4.87,GHS,1.1550,219.17,A-1.0,minimum-wage source is trade_reporting
+DeepSeek V4 Pro 0813 (max),KEN,12.60%,0.63%,32.3,1.62,KES,1.1550,183.33,A-1.0,headline eligible
+DeepSeek V4 Pro 0813 (max),MAR,6.36%,0.32%,12.3,0.61,MAD,1.1550,363.33,A-1.0,headline eligible
+DeepSeek V4 Pro 0813 (max),NGA,20.38%,1.02%,76.1,3.81,NGN,1.1550,113.33,A-1.0,minimum-wage source is industry_body
+DeepSeek V4 Pro 0813 (max),RWA,24.10%,1.21%,,,,1.1550,95.83,A-1.0,no statutory minimum wage
+DeepSeek V4 Pro 0813 (max),SEN,15.57%,0.78%,35.7,1.78,XOF,1.1550,148.33,A-1.0,minimum-wage source is trade_reporting
+DeepSeek V4 Pro 0813 (max),ZAF,4.42%,0.22%,12.4,0.62,ZAR,1.1550,522.50,A-1.0,headline eligible
+GPT-5.6 Luna,CIV,21.58%,1.08%,66.1,3.31,XOF,2.5000,231.67,A-1.0,model price row is trade_reporting
+GPT-5.6 Luna,EGY,18.40%,0.92%,77.1,3.85,EGP,2.5000,271.67,A-1.0,model price row is trade_reporting
+GPT-5.6 Luna,ETH,54.05%,2.70%,,,,2.5000,92.50,A-1.0,model price row is trade_reporting
+GPT-5.6 Luna,GHA,22.81%,1.14%,211.0,10.55,GHS,2.5000,219.17,A-1.0,model price row is trade_reporting
+GPT-5.6 Luna,KEN,27.27%,1.36%,70.0,3.50,KES,2.5000,183.33,A-1.0,model price row is trade_reporting
+GPT-5.6 Luna,MAR,13.76%,0.69%,26.5,1.33,MAD,2.5000,363.33,A-1.0,model price row is trade_reporting
+GPT-5.6 Luna,NGA,44.12%,2.21%,164.7,8.24,NGN,2.5000,113.33,A-1.0,model price row is trade_reporting
+GPT-5.6 Luna,RWA,52.17%,2.61%,,,,2.5000,95.83,A-1.0,model price row is trade_reporting
+GPT-5.6 Luna,SEN,33.71%,1.69%,77.2,3.86,XOF,2.5000,148.33,A-1.0,model price row is trade_reporting
+GPT-5.6 Luna,ZAF,9.57%,0.48%,26.8,1.34,ZAR,2.5000,522.50,A-1.0,model price row is trade_reporting
+GPT-5.6 Sol,CIV,107.91%,5.40%,330.6,16.53,XOF,12.5000,231.67,A-1.0,model price row is trade_reporting
+GPT-5.6 Sol,EGY,92.02%,4.60%,385.3,19.27,EGP,12.5000,271.67,A-1.0,model price row is trade_reporting
+GPT-5.6 Sol,ETH,270.27%,13.51%,,,,12.5000,92.50,A-1.0,model price row is trade_reporting
+GPT-5.6 Sol,GHA,114.07%,5.70%,"1,055.2",52.76,GHS,12.5000,219.17,A-1.0,model price row is trade_reporting
+GPT-5.6 Sol,KEN,136.36%,6.82%,349.8,17.49,KES,12.5000,183.33,A-1.0,model price row is trade_reporting
+GPT-5.6 Sol,MAR,68.81%,3.44%,132.7,6.63,MAD,12.5000,363.33,A-1.0,model price row is trade_reporting
+GPT-5.6 Sol,NGA,220.59%,11.03%,823.6,41.18,NGN,12.5000,113.33,A-1.0,model price row is trade_reporting
+GPT-5.6 Sol,RWA,260.87%,13.04%,,,,12.5000,95.83,A-1.0,model price row is trade_reporting
+GPT-5.6 Sol,SEN,168.54%,8.43%,386.2,19.31,XOF,12.5000,148.33,A-1.0,model price row is trade_reporting
+GPT-5.6 Sol,ZAF,47.85%,2.39%,134.0,6.70,ZAR,12.5000,522.50,A-1.0,model price row is trade_reporting
+GPT-5.6 Terra,CIV,53.96%,2.70%,165.3,8.27,XOF,6.2500,231.67,A-1.0,model price row is trade_reporting
+GPT-5.6 Terra,EGY,46.01%,2.30%,192.7,9.63,EGP,6.2500,271.67,A-1.0,model price row is trade_reporting
+GPT-5.6 Terra,ETH,135.14%,6.76%,,,,6.2500,92.50,A-1.0,model price row is trade_reporting
+GPT-5.6 Terra,GHA,57.03%,2.85%,527.6,26.38,GHS,6.2500,219.17,A-1.0,model price row is trade_reporting
+GPT-5.6 Terra,KEN,68.18%,3.41%,174.9,8.74,KES,6.2500,183.33,A-1.0,model price row is trade_reporting
+GPT-5.6 Terra,MAR,34.40%,1.72%,66.3,3.32,MAD,6.2500,363.33,A-1.0,model price row is trade_reporting
+GPT-5.6 Terra,NGA,110.29%,5.51%,411.8,20.59,NGN,6.2500,113.33,A-1.0,model price row is trade_reporting
+GPT-5.6 Terra,RWA,130.43%,6.52%,,,,6.2500,95.83,A-1.0,model price row is trade_reporting
+GPT-5.6 Terra,SEN,84.27%,4.21%,193.1,9.65,XOF,6.2500,148.33,A-1.0,model price row is trade_reporting
+GPT-5.6 Terra,ZAF,23.92%,1.20%,67.0,3.35,ZAR,6.2500,522.50,A-1.0,model price row is trade_reporting
+GPT-6 Astra,CIV,194.24%,9.71%,595.2,29.76,XOF,22.5000,231.67,A-1.0,model price row is trade_reporting
+GPT-6 Astra,EGY,165.64%,8.28%,693.6,34.68,EGP,22.5000,271.67,A-1.0,model price row is trade_reporting
+GPT-6 Astra,ETH,486.49%,24.32%,,,,22.5000,92.50,A-1.0,model price row is trade_reporting
+GPT-6 Astra,GHA,205.32%,10.27%,"1,899.3",94.96,GHS,22.5000,219.17,A-1.0,model price row is trade_reporting
+GPT-6 Astra,KEN,245.45%,12.27%,629.6,31.48,KES,22.5000,183.33,A-1.0,model price row is trade_reporting
+GPT-6 Astra,MAR,123.85%,6.19%,238.9,11.94,MAD,22.5000,363.33,A-1.0,model price row is trade_reporting
+GPT-6 Astra,NGA,397.06%,19.85%,"1,482.5",74.13,NGN,22.5000,113.33,A-1.0,model price row is trade_reporting
+GPT-6 Astra,RWA,469.57%,23.48%,,,,22.5000,95.83,A-1.0,model price row is trade_reporting
+GPT-6 Astra,SEN,303.37%,15.17%,695.2,34.76,XOF,22.5000,148.33,A-1.0,model price row is trade_reporting
+GPT-6 Astra,ZAF,86.12%,4.31%,241.2,12.06,ZAR,22.5000,522.50,A-1.0,model price row is trade_reporting
+Gemini 3.8 Flash,CIV,14.57%,0.73%,44.6,2.23,XOF,1.6875,231.67,A-1.0,model price row is trade_reporting
+Gemini 3.8 Flash,EGY,12.42%,0.62%,52.0,2.60,EGP,1.6875,271.67,A-1.0,model price row is trade_reporting
+Gemini 3.8 Flash,ETH,36.49%,1.82%,,,,1.6875,92.50,A-1.0,model price row is trade_reporting
+Gemini 3.8 Flash,GHA,15.40%,0.77%,142.4,7.12,GHS,1.6875,219.17,A-1.0,model price row is trade_reporting
+Gemini 3.8 Flash,KEN,18.41%,0.92%,47.2,2.36,KES,1.6875,183.33,A-1.0,model price row is trade_reporting
+Gemini 3.8 Flash,MAR,9.29%,0.46%,17.9,0.90,MAD,1.6875,363.33,A-1.0,model price row is trade_reporting
+Gemini 3.8 Flash,NGA,29.78%,1.49%,111.2,5.56,NGN,1.6875,113.33,A-1.0,model price row is trade_reporting
+Gemini 3.8 Flash,RWA,35.22%,1.76%,,,,1.6875,95.83,A-1.0,model price row is trade_reporting
+Gemini 3.8 Flash,SEN,22.75%,1.14%,52.1,2.61,XOF,1.6875,148.33,A-1.0,model price row is trade_reporting
+Gemini 3.8 Flash,ZAF,6.46%,0.32%,18.1,0.90,ZAR,1.6875,522.50,A-1.0,model price row is trade_reporting
+Grok 4.6,CIV,30.22%,1.51%,92.6,4.63,XOF,3.5000,231.67,A-1.0,minimum-wage source is industry_body
+Grok 4.6,EGY,25.77%,1.29%,107.9,5.39,EGP,3.5000,271.67,A-1.0,headline eligible
+Grok 4.6,ETH,75.68%,3.78%,,,,3.5000,92.50,A-1.0,no statutory minimum wage
+Grok 4.6,GHA,31.94%,1.60%,295.4,14.77,GHS,3.5000,219.17,A-1.0,minimum-wage source is trade_reporting
+Grok 4.6,KEN,38.18%,1.91%,97.9,4.90,KES,3.5000,183.33,A-1.0,headline eligible
+Grok 4.6,MAR,19.27%,0.96%,37.2,1.86,MAD,3.5000,363.33,A-1.0,headline eligible
+Grok 4.6,NGA,61.76%,3.09%,230.6,11.53,NGN,3.5000,113.33,A-1.0,minimum-wage source is industry_body
+Grok 4.6,RWA,73.04%,3.65%,,,,3.5000,95.83,A-1.0,no statutory minimum wage
+Grok 4.6,SEN,47.19%,2.36%,108.1,5.41,XOF,3.5000,148.33,A-1.0,minimum-wage source is trade_reporting
+Grok 4.6,ZAF,13.40%,0.67%,37.5,1.88,ZAR,3.5000,522.50,A-1.0,headline eligible
+Kimi K3 (max),CIV,58.27%,2.91%,178.6,8.93,XOF,6.7500,231.67,A-1.0,model price row is trade_reporting
+Kimi K3 (max),EGY,49.69%,2.48%,208.1,10.40,EGP,6.7500,271.67,A-1.0,model price row is trade_reporting
+Kimi K3 (max),ETH,145.95%,7.30%,,,,6.7500,92.50,A-1.0,model price row is trade_reporting
+Kimi K3 (max),GHA,61.60%,3.08%,569.8,28.49,GHS,6.7500,219.17,A-1.0,model price row is trade_reporting
+Kimi K3 (max),KEN,73.64%,3.68%,188.9,9.44,KES,6.7500,183.33,A-1.0,model price row is trade_reporting
+Kimi K3 (max),MAR,37.16%,1.86%,71.7,3.58,MAD,6.7500,363.33,A-1.0,model price row is trade_reporting
+Kimi K3 (max),NGA,119.12%,5.96%,444.8,22.24,NGN,6.7500,113.33,A-1.0,model price row is trade_reporting
+Kimi K3 (max),RWA,140.87%,7.04%,,,,6.7500,95.83,A-1.0,model price row is trade_reporting
+Kimi K3 (max),SEN,91.01%,4.55%,208.6,10.43,XOF,6.7500,148.33,A-1.0,model price row is trade_reporting
+Kimi K3 (max),ZAF,25.84%,1.29%,72.4,3.62,ZAR,6.7500,522.50,A-1.0,model price row is trade_reporting
+Muse Spark 1.1,CIV,19.96%,1.00%,61.2,3.06,XOF,2.3125,231.67,A-1.0,model price row is trade_reporting
+Muse Spark 1.1,EGY,17.02%,0.85%,71.3,3.56,EGP,2.3125,271.67,A-1.0,model price row is trade_reporting
+Muse Spark 1.1,ETH,50.00%,2.50%,,,,2.3125,92.50,A-1.0,model price row is trade_reporting
+Muse Spark 1.1,GHA,21.10%,1.06%,195.2,9.76,GHS,2.3125,219.17,A-1.0,model price row is trade_reporting
+Muse Spark 1.1,KEN,25.23%,1.26%,64.7,3.24,KES,2.3125,183.33,A-1.0,model price row is trade_reporting
+Muse Spark 1.1,MAR,12.73%,0.64%,24.6,1.23,MAD,2.3125,363.33,A-1.0,model price row is trade_reporting
+Muse Spark 1.1,NGA,40.81%,2.04%,152.4,7.62,NGN,2.3125,113.33,A-1.0,model price row is trade_reporting
+Muse Spark 1.1,RWA,48.26%,2.41%,,,,2.3125,95.83,A-1.0,model price row is trade_reporting
+Muse Spark 1.1,SEN,31.18%,1.56%,71.5,3.57,XOF,2.3125,148.33,A-1.0,model price row is trade_reporting
+Muse Spark 1.1,ZAF,8.85%,0.44%,24.8,1.24,ZAR,2.3125,522.50,A-1.0,model price row is trade_reporting

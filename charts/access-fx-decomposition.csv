@@ -1,0 +1,131 @@
+Country,Currency,Model,Local index (base 100),Currency effect,Rate card effect,Total,Rate type,Rate-card basis
+CIV,XOF,Claude Fable 5.1,102.03,+2.0100%,+0.0000%,+2.0100%,official,"single observation, no change recorded"
+CIV,XOF,Claude Opus 5,102.03,+2.0100%,+0.0000%,+2.0100%,official,"single observation, no change recorded"
+CIV,XOF,Claude Opus 5 (routed),102.03,+2.0100%,+0.0000%,+2.0100%,official,"single observation, no change recorded"
+CIV,XOF,DeepSeek V4 Flash 0731,102.03,+2.0100%,+0.0000%,+2.0100%,official,"single observation, no change recorded"
+CIV,XOF,DeepSeek V4 Pro 0813 (max),"1,224.36",+2.0100%,+248.4907%,+250.5006%,official,recorded event
+CIV,XOF,GPT-5.6 Luna,20.41,+2.0100%,-160.9438%,-158.9338%,official,recorded event
+CIV,XOF,GPT-5.6 Sol,81.62,+2.0100%,-22.3144%,-20.3044%,official,recorded event
+CIV,XOF,GPT-5.6 Terra,102.03,+2.0100%,+0.0000%,+2.0100%,official,"single observation, no change recorded"
+CIV,XOF,GPT-6 Astra,102.03,+2.0100%,+0.0000%,+2.0100%,official,"single observation, no change recorded"
+CIV,XOF,Gemini 3.8 Flash,204.06,+2.0100%,+69.3147%,+71.3247%,official,recorded event
+CIV,XOF,Grok 4.6,102.03,+2.0100%,+0.0000%,+2.0100%,official,"single observation, no change recorded"
+CIV,XOF,Kimi K3 (max),102.03,+2.0100%,+0.0000%,+2.0100%,official,"single observation, no change recorded"
+CIV,XOF,Muse Spark 1.1,102.03,+2.0100%,+0.0000%,+2.0100%,official,"single observation, no change recorded"
+EGY,EGP,Claude Fable 5.1,109.72,+9.2758%,+0.0000%,+9.2758%,official,"single observation, no change recorded"
+EGY,EGP,Claude Opus 5,109.72,+9.2758%,+0.0000%,+9.2758%,official,"single observation, no change recorded"
+EGY,EGP,Claude Opus 5 (routed),109.72,+9.2758%,+0.0000%,+9.2758%,official,"single observation, no change recorded"
+EGY,EGP,DeepSeek V4 Flash 0731,109.72,+9.2758%,+0.0000%,+9.2758%,official,"single observation, no change recorded"
+EGY,EGP,DeepSeek V4 Pro 0813 (max),"1,316.64",+9.2758%,+248.4907%,+257.7665%,official,recorded event
+EGY,EGP,GPT-5.6 Luna,21.94,+9.2758%,-160.9438%,-151.6680%,official,recorded event
+EGY,EGP,GPT-5.6 Sol,87.78,+9.2758%,-22.3144%,-13.0385%,official,recorded event
+EGY,EGP,GPT-5.6 Terra,109.72,+9.2758%,+0.0000%,+9.2758%,official,"single observation, no change recorded"
+EGY,EGP,GPT-6 Astra,109.72,+9.2758%,+0.0000%,+9.2758%,official,"single observation, no change recorded"
+EGY,EGP,Gemini 3.8 Flash,219.44,+9.2758%,+69.3147%,+78.5905%,official,recorded event
+EGY,EGP,Grok 4.6,109.72,+9.2758%,+0.0000%,+9.2758%,official,"single observation, no change recorded"
+EGY,EGP,Kimi K3 (max),109.72,+9.2758%,+0.0000%,+9.2758%,official,"single observation, no change recorded"
+EGY,EGP,Muse Spark 1.1,109.72,+9.2758%,+0.0000%,+9.2758%,official,"single observation, no change recorded"
+ETH,ETB,Claude Fable 5.1,103.71,+3.6448%,+0.0000%,+3.6448%,official,"single observation, no change recorded"
+ETH,ETB,Claude Opus 5,103.71,+3.6448%,+0.0000%,+3.6448%,official,"single observation, no change recorded"
+ETH,ETB,Claude Opus 5 (routed),103.71,+3.6448%,+0.0000%,+3.6448%,official,"single observation, no change recorded"
+ETH,ETB,DeepSeek V4 Flash 0731,103.71,+3.6448%,+0.0000%,+3.6448%,official,"single observation, no change recorded"
+ETH,ETB,DeepSeek V4 Pro 0813 (max),"1,244.54",+3.6448%,+248.4907%,+252.1355%,official,recorded event
+ETH,ETB,GPT-5.6 Luna,20.74,+3.6448%,-160.9438%,-157.2990%,official,recorded event
+ETH,ETB,GPT-5.6 Sol,82.97,+3.6448%,-22.3144%,-18.6695%,official,recorded event
+ETH,ETB,GPT-5.6 Terra,103.71,+3.6448%,+0.0000%,+3.6448%,official,"single observation, no change recorded"
+ETH,ETB,GPT-6 Astra,103.71,+3.6448%,+0.0000%,+3.6448%,official,"single observation, no change recorded"
+ETH,ETB,Gemini 3.8 Flash,207.42,+3.6448%,+69.3147%,+72.9596%,official,recorded event
+ETH,ETB,Grok 4.6,103.71,+3.6448%,+0.0000%,+3.6448%,official,"single observation, no change recorded"
+ETH,ETB,Kimi K3 (max),103.71,+3.6448%,+0.0000%,+3.6448%,official,"single observation, no change recorded"
+ETH,ETB,Muse Spark 1.1,103.71,+3.6448%,+0.0000%,+3.6448%,official,"single observation, no change recorded"
+GHA,GHS,Claude Fable 5.1,106.30,+6.1060%,+0.0000%,+6.1060%,official,"single observation, no change recorded"
+GHA,GHS,Claude Opus 5,106.30,+6.1060%,+0.0000%,+6.1060%,official,"single observation, no change recorded"
+GHA,GHS,Claude Opus 5 (routed),106.30,+6.1060%,+0.0000%,+6.1060%,official,"single observation, no change recorded"
+GHA,GHS,DeepSeek V4 Flash 0731,106.30,+6.1060%,+0.0000%,+6.1060%,official,"single observation, no change recorded"
+GHA,GHS,DeepSeek V4 Pro 0813 (max),"1,275.56",+6.1060%,+248.4907%,+254.5967%,official,recorded event
+GHA,GHS,GPT-5.6 Luna,21.26,+6.1060%,-160.9438%,-154.8378%,official,recorded event
+GHA,GHS,GPT-5.6 Sol,85.04,+6.1060%,-22.3144%,-16.2083%,official,recorded event
+GHA,GHS,GPT-5.6 Terra,106.30,+6.1060%,+0.0000%,+6.1060%,official,"single observation, no change recorded"
+GHA,GHS,GPT-6 Astra,106.30,+6.1060%,+0.0000%,+6.1060%,official,"single observation, no change recorded"
+GHA,GHS,Gemini 3.8 Flash,212.59,+6.1060%,+69.3147%,+75.4207%,official,recorded event
+GHA,GHS,Grok 4.6,106.30,+6.1060%,+0.0000%,+6.1060%,official,"single observation, no change recorded"
+GHA,GHS,Kimi K3 (max),106.30,+6.1060%,+0.0000%,+6.1060%,official,"single observation, no change recorded"
+GHA,GHS,Muse Spark 1.1,106.30,+6.1060%,+0.0000%,+6.1060%,official,"single observation, no change recorded"
+KEN,KES,Claude Fable 5.1,100.36,+0.3559%,+0.0000%,+0.3559%,official,"single observation, no change recorded"
+KEN,KES,Claude Opus 5,100.36,+0.3559%,+0.0000%,+0.3559%,official,"single observation, no change recorded"
+KEN,KES,Claude Opus 5 (routed),100.36,+0.3559%,+0.0000%,+0.3559%,official,"single observation, no change recorded"
+KEN,KES,DeepSeek V4 Flash 0731,100.36,+0.3559%,+0.0000%,+0.3559%,official,"single observation, no change recorded"
+KEN,KES,DeepSeek V4 Pro 0813 (max),"1,204.28",+0.3559%,+248.4907%,+248.8465%,official,recorded event
+KEN,KES,GPT-5.6 Luna,20.07,+0.3559%,-160.9438%,-160.5879%,official,recorded event
+KEN,KES,GPT-5.6 Sol,80.29,+0.3559%,-22.3144%,-21.9585%,official,recorded event
+KEN,KES,GPT-5.6 Terra,100.36,+0.3559%,+0.0000%,+0.3559%,official,"single observation, no change recorded"
+KEN,KES,GPT-6 Astra,100.36,+0.3559%,+0.0000%,+0.3559%,official,"single observation, no change recorded"
+KEN,KES,Gemini 3.8 Flash,200.71,+0.3559%,+69.3147%,+69.6706%,official,recorded event
+KEN,KES,Grok 4.6,100.36,+0.3559%,+0.0000%,+0.3559%,official,"single observation, no change recorded"
+KEN,KES,Kimi K3 (max),100.36,+0.3559%,+0.0000%,+0.3559%,official,"single observation, no change recorded"
+KEN,KES,Muse Spark 1.1,100.36,+0.3559%,+0.0000%,+0.3559%,official,"single observation, no change recorded"
+MAR,MAD,Claude Fable 5.1,103.15,+3.0995%,+0.0000%,+3.0995%,official,"single observation, no change recorded"
+MAR,MAD,Claude Opus 5,103.15,+3.0995%,+0.0000%,+3.0995%,official,"single observation, no change recorded"
+MAR,MAD,Claude Opus 5 (routed),103.15,+3.0995%,+0.0000%,+3.0995%,official,"single observation, no change recorded"
+MAR,MAD,DeepSeek V4 Flash 0731,103.15,+3.0995%,+0.0000%,+3.0995%,official,"single observation, no change recorded"
+MAR,MAD,DeepSeek V4 Pro 0813 (max),"1,237.78",+3.0995%,+248.4907%,+251.5902%,official,recorded event
+MAR,MAD,GPT-5.6 Luna,20.63,+3.0995%,-160.9438%,-157.8443%,official,recorded event
+MAR,MAD,GPT-5.6 Sol,82.52,+3.0995%,-22.3144%,-19.2148%,official,recorded event
+MAR,MAD,GPT-5.6 Terra,103.15,+3.0995%,+0.0000%,+3.0995%,official,"single observation, no change recorded"
+MAR,MAD,GPT-6 Astra,103.15,+3.0995%,+0.0000%,+3.0995%,official,"single observation, no change recorded"
+MAR,MAD,Gemini 3.8 Flash,206.30,+3.0995%,+69.3147%,+72.4142%,official,recorded event
+MAR,MAD,Grok 4.6,103.15,+3.0995%,+0.0000%,+3.0995%,official,"single observation, no change recorded"
+MAR,MAD,Kimi K3 (max),103.15,+3.0995%,+0.0000%,+3.0995%,official,"single observation, no change recorded"
+MAR,MAD,Muse Spark 1.1,103.15,+3.0995%,+0.0000%,+3.0995%,official,"single observation, no change recorded"
+NGA,NGN,Claude Fable 5.1,93.79,-6.4093%,+0.0000%,-6.4093%,official,"single observation, no change recorded"
+NGA,NGN,Claude Opus 5,93.79,-6.4093%,+0.0000%,-6.4093%,official,"single observation, no change recorded"
+NGA,NGN,Claude Opus 5 (routed),93.79,-6.4093%,+0.0000%,-6.4093%,official,"single observation, no change recorded"
+NGA,NGN,DeepSeek V4 Flash 0731,93.79,-6.4093%,+0.0000%,-6.4093%,official,"single observation, no change recorded"
+NGA,NGN,DeepSeek V4 Pro 0813 (max),"1,125.50",-6.4093%,+248.4907%,+242.0813%,official,recorded event
+NGA,NGN,GPT-5.6 Luna,18.76,-6.4093%,-160.9438%,-167.3531%,official,recorded event
+NGA,NGN,GPT-5.6 Sol,75.03,-6.4093%,-22.3144%,-28.7237%,official,recorded event
+NGA,NGN,GPT-5.6 Terra,93.79,-6.4093%,+0.0000%,-6.4093%,official,"single observation, no change recorded"
+NGA,NGN,GPT-6 Astra,93.79,-6.4093%,+0.0000%,-6.4093%,official,"single observation, no change recorded"
+NGA,NGN,Gemini 3.8 Flash,187.58,-6.4093%,+69.3147%,+62.9054%,official,recorded event
+NGA,NGN,Grok 4.6,93.79,-6.4093%,+0.0000%,-6.4093%,official,"single observation, no change recorded"
+NGA,NGN,Kimi K3 (max),93.79,-6.4093%,+0.0000%,-6.4093%,official,"single observation, no change recorded"
+NGA,NGN,Muse Spark 1.1,93.79,-6.4093%,+0.0000%,-6.4093%,official,"single observation, no change recorded"
+RWA,RWF,Claude Fable 5.1,101.44,+1.4306%,+0.0000%,+1.4306%,official,"single observation, no change recorded"
+RWA,RWF,Claude Opus 5,101.44,+1.4306%,+0.0000%,+1.4306%,official,"single observation, no change recorded"
+RWA,RWF,Claude Opus 5 (routed),101.44,+1.4306%,+0.0000%,+1.4306%,official,"single observation, no change recorded"
+RWA,RWF,DeepSeek V4 Flash 0731,101.44,+1.4306%,+0.0000%,+1.4306%,official,"single observation, no change recorded"
+RWA,RWF,DeepSeek V4 Pro 0813 (max),"1,217.29",+1.4306%,+248.4907%,+249.9213%,official,recorded event
+RWA,RWF,GPT-5.6 Luna,20.29,+1.4306%,-160.9438%,-159.5132%,official,recorded event
+RWA,RWF,GPT-5.6 Sol,81.15,+1.4306%,-22.3144%,-20.8837%,official,recorded event
+RWA,RWF,GPT-5.6 Terra,101.44,+1.4306%,+0.0000%,+1.4306%,official,"single observation, no change recorded"
+RWA,RWF,GPT-6 Astra,101.44,+1.4306%,+0.0000%,+1.4306%,official,"single observation, no change recorded"
+RWA,RWF,Gemini 3.8 Flash,202.88,+1.4306%,+69.3147%,+70.7453%,official,recorded event
+RWA,RWF,Grok 4.6,101.44,+1.4306%,+0.0000%,+1.4306%,official,"single observation, no change recorded"
+RWA,RWF,Kimi K3 (max),101.44,+1.4306%,+0.0000%,+1.4306%,official,"single observation, no change recorded"
+RWA,RWF,Muse Spark 1.1,101.44,+1.4306%,+0.0000%,+1.4306%,official,"single observation, no change recorded"
+SEN,XOF,Claude Fable 5.1,102.03,+2.0100%,+0.0000%,+2.0100%,official,"single observation, no change recorded"
+SEN,XOF,Claude Opus 5,102.03,+2.0100%,+0.0000%,+2.0100%,official,"single observation, no change recorded"
+SEN,XOF,Claude Opus 5 (routed),102.03,+2.0100%,+0.0000%,+2.0100%,official,"single observation, no change recorded"
+SEN,XOF,DeepSeek V4 Flash 0731,102.03,+2.0100%,+0.0000%,+2.0100%,official,"single observation, no change recorded"
+SEN,XOF,DeepSeek V4 Pro 0813 (max),"1,224.36",+2.0100%,+248.4907%,+250.5006%,official,recorded event
+SEN,XOF,GPT-5.6 Luna,20.41,+2.0100%,-160.9438%,-158.9338%,official,recorded event
+SEN,XOF,GPT-5.6 Sol,81.62,+2.0100%,-22.3144%,-20.3044%,official,recorded event
+SEN,XOF,GPT-5.6 Terra,102.03,+2.0100%,+0.0000%,+2.0100%,official,"single observation, no change recorded"
+SEN,XOF,GPT-6 Astra,102.03,+2.0100%,+0.0000%,+2.0100%,official,"single observation, no change recorded"
+SEN,XOF,Gemini 3.8 Flash,204.06,+2.0100%,+69.3147%,+71.3247%,official,recorded event
+SEN,XOF,Grok 4.6,102.03,+2.0100%,+0.0000%,+2.0100%,official,"single observation, no change recorded"
+SEN,XOF,Kimi K3 (max),102.03,+2.0100%,+0.0000%,+2.0100%,official,"single observation, no change recorded"
+SEN,XOF,Muse Spark 1.1,102.03,+2.0100%,+0.0000%,+2.0100%,official,"single observation, no change recorded"
+ZAF,ZAR,Claude Fable 5.1,98.75,-1.2558%,+0.0000%,-1.2558%,official,"single observation, no change recorded"
+ZAF,ZAR,Claude Opus 5,98.75,-1.2558%,+0.0000%,-1.2558%,official,"single observation, no change recorded"
+ZAF,ZAR,Claude Opus 5 (routed),98.75,-1.2558%,+0.0000%,-1.2558%,official,"single observation, no change recorded"
+ZAF,ZAR,DeepSeek V4 Flash 0731,98.75,-1.2558%,+0.0000%,-1.2558%,official,"single observation, no change recorded"
+ZAF,ZAR,DeepSeek V4 Pro 0813 (max),"1,185.02",-1.2558%,+248.4907%,+247.2348%,official,recorded event
+ZAF,ZAR,GPT-5.6 Luna,19.75,-1.2558%,-160.9438%,-162.1996%,official,recorded event
+ZAF,ZAR,GPT-5.6 Sol,79.00,-1.2558%,-22.3144%,-23.5702%,official,recorded event
+ZAF,ZAR,GPT-5.6 Terra,98.75,-1.2558%,+0.0000%,-1.2558%,official,"single observation, no change recorded"
+ZAF,ZAR,GPT-6 Astra,98.75,-1.2558%,+0.0000%,-1.2558%,official,"single observation, no change recorded"
+ZAF,ZAR,Gemini 3.8 Flash,197.50,-1.2558%,+69.3147%,+68.0589%,official,recorded event
+ZAF,ZAR,Grok 4.6,98.75,-1.2558%,+0.0000%,-1.2558%,official,"single observation, no change recorded"
+ZAF,ZAR,Kimi K3 (max),98.75,-1.2558%,+0.0000%,-1.2558%,official,"single observation, no change recorded"
+ZAF,ZAR,Muse Spark 1.1,98.75,-1.2558%,+0.0000%,-1.2558%,official,"single observation, no change recorded"

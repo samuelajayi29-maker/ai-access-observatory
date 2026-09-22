@@ -1,5 +1,5 @@
 {
- "schema_version": "2026.10.1",
+ "schema_version": "2026.10.2",
  "migrated_at": "2026-09-21",
  "rows": [
   {
@@ -513,6 +513,19 @@
    "temporal_status": "measured",
    "headline_eligible": false,
    "geography_scope": "country"
+  }
+ ],
+ "vocabulary_additions": [
+  {
+   "added_at": "2026-09-22",
+   "evidence_status_added": "academic",
+   "temporal_status_added": "modelled",
+   "reason": "The Jobs exposure register cites a research paper (arXiv:2607.05404) whose values are modelled estimates of the present occupational structure. No existing value was true: trade_reporting is press, and measured/forecast both misstate a modelled estimate.",
+   "affects": [
+    "jobs-exposure register",
+    "homepage status legend",
+    "method page status table"
+   ]
   }
  ]
 }

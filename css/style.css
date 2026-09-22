@@ -130,6 +130,8 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px soli
 .chip--derived { color: var(--derived); }
 .chip--derived .chip__mark { background: var(--derived); border-radius: 50%; }
 .chip--derived::after { content: "\0192"; font-size: 0.85em; opacity: 0.8; }
+.chip--modelled { color: var(--derived); border-style: dotted; }
+.chip--modelled .chip__mark { background: repeating-linear-gradient(45deg, var(--derived) 0 1px, transparent 1px 2px); }
 .chip--correction { color: var(--correction); }
 .chip--correction .chip__mark { background: var(--correction); }
 
@@ -307,6 +309,15 @@ footer a { color: var(--ink-secondary); border: 0; }
 .open__note { font-size: var(--step--1); line-height: 1.55; color: var(--ink-note);
               margin: 0 0 var(--s-2); max-width: var(--measure-prose); }
 .open__link { margin: var(--s-4) 0 var(--s-3); font-family: var(--font-text); font-size: var(--step-0); }
+
+/* ---------- status legend strip ------------------------------------------- */
+.legend-strip { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-3) var(--s-4);
+                margin-top: var(--s-6); padding-top: var(--s-4); border-top: 1px solid var(--rule);
+                font-size: var(--step--1); color: var(--ink-note); }
+.legend-strip ul { display: flex; flex-wrap: wrap; gap: var(--s-2) var(--s-4); list-style: none;
+                   margin: 0; padding: 0; }
+.legend-strip li { display: inline-flex; align-items: center; gap: var(--s-2); }
+.legend-strip .cap { color: var(--ink-note); max-width: 34ch; }
 
 /* ---------- pillar graph: a finding, drawn to scale ----------------------- */
 .lead-figure { display: block; font-family: var(--font-display); font-size: var(--step-4);

@@ -1,0 +1,141 @@
+country,iso3,national_ai_exposure_index,in_africa_subset
+Afghanistan,,0.189,no
+Albania,,0.230,no
+Angola,AGO,0.206,yes
+Argentina,,0.294,no
+Australia,,0.322,no
+Austria,,0.321,no
+Bahamas,,0.282,no
+Bangladesh,,0.218,no
+Barbados,,0.286,no
+Belarus,,0.282,no
+Belgium,,0.323,no
+Belize,,0.242,no
+Benin,BEN,0.227,yes
+Bhutan,,0.242,no
+Bolivia (Plurinational State of),,0.241,no
+Bosnia and Herzegovina,,0.263,no
+Botswana,BWA,0.228,yes
+Brazil,,0.278,no
+Brunei Darussalam,,0.307,no
+Bulgaria,,0.292,no
+Burkina Faso,BFA,0.198,yes
+Burundi,BDI,0.144,yes
+Cabo Verde,CPV,0.220,yes
+Cambodia,,0.221,no
+Chile,,0.279,no
+Colombia,,0.263,no
+"Congo, Democratic Republic of the",COD,0.197,yes
+Cook Islands,,0.290,no
+Costa Rica,,0.274,no
+Croatia,,0.311,no
+Cuba,,0.265,no
+Cyprus,,0.322,no
+Czechia,,0.302,no
+Côte d'Ivoire,CIV,0.240,yes
+Denmark,,0.324,no
+Dominican Republic,,0.264,no
+Ecuador,,0.222,no
+Egypt,EGY,0.254,yes
+El Salvador,,0.251,no
+Estonia,,0.311,no
+Eswatini,SWZ,0.244,yes
+Ethiopia,ETH,0.177,yes
+Fiji,,0.259,no
+Finland,,0.309,no
+France,,0.319,no
+Gambia,GMB,0.234,yes
+Georgia,,0.237,no
+Germany,,0.333,no
+Ghana,GHA,0.220,yes
+Greece,,0.315,no
+Guatemala,,0.234,no
+Guinea,GIN,0.227,yes
+Guinea-Bissau,GNB,0.179,yes
+Guyana,,0.247,no
+Honduras,,0.231,no
+Hungary,,0.309,no
+India,,0.217,no
+Indonesia,,0.242,no
+Iran (Islamic Republic of),,0.254,no
+Iraq,,0.243,no
+Ireland,,0.331,no
+Israel,,0.333,no
+Italy,,0.313,no
+Jamaica,,0.266,no
+Japan,,0.316,no
+Jordan,,0.255,no
+Kenya,KEN,0.199,yes
+Kiribati,,0.227,no
+Kosovo,,0.288,no
+Kyrgyzstan,,0.240,no
+Lao People’s Democratic Republic,,0.205,no
+Latvia,,0.304,no
+Lebanon,,0.264,no
+Lesotho,LSO,0.175,yes
+Lithuania,,0.309,no
+Luxembourg,,0.371,no
+Madagascar,MDG,0.166,yes
+Malawi,MWI,0.223,yes
+Maldives,,0.280,no
+Mali,MLI,0.200,yes
+Marshall Islands,,0.268,no
+Mauritius,MUS,0.289,yes
+Mexico,,0.264,no
+Micronesia (Federated States of),,0.219,no
+Mongolia,,0.263,no
+Montenegro,,0.318,no
+Montserrat,,0.290,no
+Mozambique,MOZ,0.162,yes
+Myanmar,,0.229,no
+Nepal,,0.233,no
+Netherlands,,0.339,no
+Niger,NER,0.241,yes
+Niue,,0.314,no
+North Macedonia,,0.286,no
+Norway,,0.320,no
+Pakistan,,0.225,no
+Palau,,0.295,no
+Palestine (State of),,0.253,no
+Panama,,0.232,no
+Papua New Guinea,,0.236,no
+Peru,,0.243,no
+Philippines,,0.252,no
+Poland,,0.317,no
+Portugal,,0.314,no
+Romania,,0.272,no
+Russian Federation,,0.298,no
+Rwanda,RWA,0.186,yes
+Samoa,,0.239,no
+Sao Tome and Principe,STP,0.230,yes
+Serbia,,0.285,no
+Sierra Leone,SLE,0.205,yes
+Singapore,,0.368,no
+Slovenia,,0.304,no
+Solomon Islands,,0.199,no
+Somalia,SOM,0.259,yes
+Spain,,0.301,no
+Sri Lanka,,0.237,no
+Sudan,SDN,0.213,yes
+Suriname,,0.270,no
+Sweden,,0.334,no
+Switzerland,,0.335,no
+Tajikistan,,0.222,no
+"Tanzania, United Republic of",TZA,0.173,yes
+Thailand,,0.250,no
+Timor-Leste,,0.208,no
+Togo,TGO,0.235,yes
+Tokelau,,0.273,no
+Tonga,,0.259,no
+Tunisia,TUN,0.236,yes
+Tuvalu,,0.305,no
+Uganda,,0.182,no
+United Arab Emirates,,0.281,no
+United Kingdom of Great Britain and Northern Ireland,,0.329,no
+United States of America,,0.323,no
+Uruguay,,0.281,no
+Vanuatu,,0.218,no
+Viet Nam,,0.225,no
+Wallis and Futuna,,0.291,no
+Zambia,ZMB,0.187,yes
+Zimbabwe,ZWE,0.192,yes
