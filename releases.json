@@ -11,28 +11,28 @@
    "file_count": 39,
    "files": {
     "index.html": {
-     "sha256": "b4ea242217252f2d361155091b1b587afd1ebc5c3e73891be83181d784ee3356",
-     "bytes": 54754
+     "sha256": "0972069e387cdb2eb808bfffe6f9fa22473aa11ba3357ca42e0faecfc04b3893",
+     "bytes": 54756
     },
     "infrastructure.html": {
-     "sha256": "7e20c6f66698632195ceb1583f207cd4f8fd667662ea0b7654f95df4cc63c1c0",
-     "bytes": 28008
+     "sha256": "58746cdd47d121df67d4fad8a2b8e7d11947835b28de2b90b9fac394a05e83d7",
+     "bytes": 27937
     },
     "access.html": {
-     "sha256": "f56532c27574fea6d914b51129ef94dde9c95eca48fe09f7703f608ba8210f19",
-     "bytes": 64556
+     "sha256": "63dc56fbb9affccf7f3f029689a3d7e090509c9b44067cefaa9efee1daa78aff",
+     "bytes": 64613
     },
     "jobs.html": {
-     "sha256": "c160d2a0076d55fb301f2955650cd2d87b9d43f791750dbe69d5ae310eaff4a5",
-     "bytes": 29497
+     "sha256": "570a19852c4214bc5c9b7dd57fd9104ada13c2c4a2871f3ca758c2a41d2054fb",
+     "bytes": 29426
     },
     "method.html": {
-     "sha256": "85e2098e6793bf7254083d92f5fd764e6a69a1e61ee6994a2217057007b5d384",
-     "bytes": 36109
+     "sha256": "59ff98a4f47e4afad99a27b783797a4a8693354af24e032f312ce32a5ffac002",
+     "bytes": 36038
     },
     "analysis.html": {
-     "sha256": "0b8d9886e27434e839243cba4c4d5ca5d3ec4a204a6ffbbee3f3bf64ed766b0c",
-     "bytes": 13307
+     "sha256": "3a597a83ad97b486b7216bcaeb8d9f333df4d4425ff2a236e5e7ede478102c20",
+     "bytes": 13236
     },
     "404.html": {
      "sha256": "cb52f865f1d1bfb7b585cb93bc2c1a46fee953f68a5275a81f7114554b13edb7",
