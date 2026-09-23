@@ -1,54 +1,52 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 556" width="900" height="556" role="img" aria-label="Decomposition of the change in local-currency price of a fixed model since 2026-01-15. The currency effect runs from -6.41% in NGA to +9.28% in EGY, with no change on the rate card.">
 <rect width="900" height="556" fill="#FFFFFF"/>
 <text x="28" y="38" font-family="'Source Serif 4',Georgia,serif" font-size="21" font-weight="600" fill="#0D1B2A">What a fixed model costs in local currency, split by cause</text>
-<text x="28" y="60" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#66757F">Log change in the local-currency price of the standard workload since 2026-01-15. Currency effect on the left, rate card on the right.</text>
+<text x="28" y="60.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#66757F">Log change in the local-currency price of the standard workload since 2026-01-15, decomposed. The two components sum</text>
+<text x="28" y="76.5" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#66757F">exactly to the total.</text>
 <line x1="460.0" y1="96" x2="460.0" y2="452" stroke="#E2E5E2"/>
 <text x="136" y="129" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#0D1B2A">NGA</text>
-<rect x="295.2" y="114" width="164.8" height="24" fill="#B98A1F"/>
-<rect x="295.2" y="114" width="0.0" height="24" fill="#1A8A7A"/>
-<text x="287.2" y="131" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#0D1B2A">-6.41%</text>
+<rect x="454.1" y="114" width="5.9" height="24" fill="#B98A1F"/>
+<rect x="454.1" y="114" width="9.6" height="24" fill="#1A8A7A"/>
+<text x="471.6" y="131" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#0D1B2A">+3.94%</text>
 <text x="136" y="163" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#0D1B2A">ZAF</text>
-<rect x="427.7" y="148" width="32.3" height="24" fill="#B98A1F"/>
-<rect x="427.7" y="148" width="0.0" height="24" fill="#1A8A7A"/>
-<text x="419.7" y="165" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#0D1B2A">-1.26%</text>
+<rect x="458.8" y="148" width="1.2" height="24" fill="#B98A1F"/>
+<rect x="458.8" y="148" width="9.6" height="24" fill="#1A8A7A"/>
+<text x="476.4" y="165" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#0D1B2A">+9.09%</text>
 <text x="136" y="197" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#0D1B2A">KEN</text>
-<rect x="460.0" y="182" width="9.1" height="24" fill="#B98A1F"/>
-<rect x="469.1" y="182" width="0.0" height="24" fill="#1A8A7A"/>
-<text x="477.1" y="199" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#0D1B2A">+0.36%</text>
+<rect x="460.0" y="182" width="0.3" height="24" fill="#B98A1F"/>
+<rect x="460.3" y="182" width="9.6" height="24" fill="#1A8A7A"/>
+<text x="477.9" y="199" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#0D1B2A">+10.71%</text>
 <text x="136" y="231" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#0D1B2A">RWA</text>
-<rect x="460.0" y="216" width="36.8" height="24" fill="#B98A1F"/>
-<rect x="496.8" y="216" width="0.0" height="24" fill="#1A8A7A"/>
-<text x="504.8" y="233" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#0D1B2A">+1.43%</text>
+<rect x="460.0" y="216" width="1.3" height="24" fill="#B98A1F"/>
+<rect x="461.3" y="216" width="9.6" height="24" fill="#1A8A7A"/>
+<text x="478.9" y="233" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#0D1B2A">+11.78%</text>
 <text x="136" y="265" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#0D1B2A">SEN</text>
-<rect x="460.0" y="250" width="51.7" height="24" fill="#B98A1F"/>
-<rect x="511.7" y="250" width="0.0" height="24" fill="#1A8A7A"/>
-<text x="519.7" y="267" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#0D1B2A">+2.01%</text>
+<rect x="460.0" y="250" width="1.9" height="24" fill="#B98A1F"/>
+<rect x="461.9" y="250" width="9.6" height="24" fill="#1A8A7A"/>
+<text x="479.4" y="267" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#0D1B2A">+12.36%</text>
 <text x="136" y="299" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#0D1B2A">CIV</text>
-<rect x="460.0" y="284" width="51.7" height="24" fill="#B98A1F"/>
-<rect x="511.7" y="284" width="0.0" height="24" fill="#1A8A7A"/>
-<text x="519.7" y="301" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#0D1B2A">+2.01%</text>
+<rect x="460.0" y="284" width="1.9" height="24" fill="#B98A1F"/>
+<rect x="461.9" y="284" width="9.6" height="24" fill="#1A8A7A"/>
+<text x="479.4" y="301" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#0D1B2A">+12.36%</text>
 <text x="136" y="333" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#0D1B2A">MAR</text>
-<rect x="460.0" y="318" width="79.7" height="24" fill="#B98A1F"/>
-<rect x="539.7" y="318" width="0.0" height="24" fill="#1A8A7A"/>
-<text x="547.7" y="335" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#0D1B2A">+3.10%</text>
+<rect x="460.0" y="318" width="2.9" height="24" fill="#B98A1F"/>
+<rect x="462.9" y="318" width="9.6" height="24" fill="#1A8A7A"/>
+<text x="480.4" y="335" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#0D1B2A">+13.45%</text>
 <text x="136" y="367" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#0D1B2A">ETH</text>
-<rect x="460.0" y="352" width="93.7" height="24" fill="#B98A1F"/>
-<rect x="553.7" y="352" width="0.0" height="24" fill="#1A8A7A"/>
-<text x="561.7" y="369" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#0D1B2A">+3.64%</text>
+<rect x="460.0" y="352" width="3.4" height="24" fill="#B98A1F"/>
+<rect x="463.4" y="352" width="9.6" height="24" fill="#1A8A7A"/>
+<text x="480.9" y="369" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#0D1B2A">+13.99%</text>
 <text x="136" y="401" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#0D1B2A">GHA</text>
-<rect x="460.0" y="386" width="157.0" height="24" fill="#B98A1F"/>
-<rect x="617.0" y="386" width="0.0" height="24" fill="#1A8A7A"/>
-<text x="625.0" y="403" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#0D1B2A">+6.11%</text>
+<rect x="460.0" y="386" width="5.6" height="24" fill="#B98A1F"/>
+<rect x="465.6" y="386" width="9.6" height="24" fill="#1A8A7A"/>
+<text x="483.2" y="403" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#0D1B2A">+16.46%</text>
 <text x="136" y="435" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#0D1B2A">EGY</text>
-<rect x="460.0" y="420" width="238.5" height="24" fill="#B98A1F"/>
-<rect x="698.5" y="420" width="0.0" height="24" fill="#1A8A7A"/>
-<text x="706.5" y="437" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#0D1B2A">+9.28%</text>
+<rect x="460.0" y="420" width="8.6" height="24" fill="#B98A1F"/>
+<rect x="468.6" y="420" width="9.6" height="24" fill="#1A8A7A"/>
+<text x="486.1" y="437" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#0D1B2A">+19.63%</text>
 <rect x="150" y="478" width="11" height="11" fill="#B98A1F"/>
 <text x="167" y="488" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">currency effect</text>
-<rect x="300" y="478" width="11" height="11" fill="#1A8A7A"/>
-<text x="317" y="488" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">rate card effect</text>
-<text x="150" y="504" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">A positive figure means the local-currency price rose. Rate cards are held fixed here, so the whole movement is currency.</text>
-<text x="150" y="520" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">Excluded from this panel: 4 models with a recorded price change, listed with their components in the data table below and in data/fx-decomposition.csv.</text>
+<text x="150" y="510" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">A positive figure means the local-currency price rose. Where a model has only one observation the rate-card component is zero by absence of evidence, not by evidence of no change.</text>
 <line x1="28" y1="510" x2="872" y2="510" stroke="#E2E5E2"/>
 <text x="28" y="529" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">Data: the Observatory record · CC BY 4.0 · compiled 2026-09-23 · official rates only; parallel rates are held separately and never blended</text>
 </svg>

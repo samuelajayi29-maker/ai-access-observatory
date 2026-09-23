@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1146 604" width="1146" height="604" role="img" aria-label="A grid of 13 models against 10 countries showing what a month of moderate use costs as a share of monthly income. The cheapest model on the grid costs 4.6% of monthly income and the dearest 268%, so affordability turns on which model a user picks, not only on where they live. Across the countries with a statutory minimum wage, a month of moderate use costs between 4 and 1,899 hours of minimum-wage work.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1146 604" width="1146" height="604" role="img" aria-label="A grid of 13 models against 10 countries showing what a month of moderate use costs as a share of monthly income. The cheapest model on the grid costs 4.6% of monthly income and the dearest 268%, so affordability turns on which model a user picks, not only on where they live.">
 <rect width="1146" height="604" fill="#FFFFFF"/>
 <text x="28" y="38" font-family="'Source Serif 4',Georgia,serif" font-size="21" font-weight="600" fill="#0D1B2A">A month of moderate use, as a share of monthly income</text>
-<text x="28" y="60" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#66757F">20 x the standard workload (1M input + 250k output tokens), against GNI per capita, Atlas method, divided by 12. Built on the record&#x27;s frozen unit, unchanged since the first release.</text>
+<text x="28" y="60.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#66757F">20 x the standard workload (1M input + 250k output tokens), against GNI per capita, Atlas method, divided by 12.</text>
+<text x="28" y="76.5" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#66757F">Banked on the record&#x27;s frozen unit.</text>
 <text x="280.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">NGA</text>
 <text x="368.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">KEN</text>
 <text x="456.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">ZAF</text>
@@ -294,7 +295,7 @@
 <text x="499.4" y="544" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">50 to 100%</text>
 <rect x="558.4" y="534" width="11" height="11" fill="#D98A6A"/>
 <text x="575.4" y="544" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">more than monthly income</text>
-<text x="228" y="566" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">Cells show the share of monthly GNI per capita; above 100% means a month of use costs more than a month of average income. Minimum-wage hours are in the data table.</text>
+<text x="228" y="566" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">Cells show the share of monthly GNI per capita; a value above 100% means a month of use costs more than a month of average income.</text>
 <line x1="28" y1="558" x2="1118" y2="558" stroke="#E2E5E2"/>
 <text x="28" y="577" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">Data: the Observatory record · CC BY 4.0 · compiled 2026-09-23 · income base is the Atlas method, which smooths exchange rates</text>
 </svg>

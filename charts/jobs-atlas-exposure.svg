@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1028" width="900" height="1028" role="img" aria-label="Share of tasks economically exposed to AI in 36 African countries. South Africa is highest at 51.0% and South Sudan lowest at 3.3%, against an African average of 24.6% and 41.4% across all 124 measured countries. The measure is the share of tasks rated 2 or 3 on a 0-3 exposure scale under each country&#x27;s conditions, not a share of jobs.">
 <rect width="900" height="1028" fill="#FFFFFF"/>
 <text x="28" y="38" font-family="'Source Serif 4',Georgia,serif" font-size="21" font-weight="600" fill="#0D1B2A">Share of tasks economically exposed to AI, under country conditions</text>
-<text x="28" y="60" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#66757F">The paper&#x27;s economic-exposure threshold: tasks rated 2 or 3 on a 0-3 scale, labelled per country. Not a share of jobs.</text>
+<text x="28" y="60.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#66757F">The paper&#x27;s economic-exposure threshold: tasks rated 2 or 3 on a 0-3 scale, labelled per country. Not a share of jobs.</text>
 <text x="238" y="120" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#0D1B2A">South Africa</text>
 <rect x="250" y="109" width="523.2" height="13" fill="#4A5568"/>
 <text x="781.2" y="120" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#0D1B2A">51.0%</text>

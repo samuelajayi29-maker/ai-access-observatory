@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 444" width="1120" height="444" role="img" aria-label="A grid of subscription tiers against countries showing the monthly list price as a share of monthly income. The same $20 tier runs from under 4% of monthly income in South Africa to over 20% in Ethiopia.">
 <rect width="1120" height="444" fill="#FFFFFF"/>
 <text x="28" y="38" font-family="'Source Serif 4',Georgia,serif" font-size="21" font-weight="600" fill="#0D1B2A">What a monthly AI subscription costs, as a share of income</text>
-<text x="28" y="60" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#66757F">Published USD list price against GNI per capita, Atlas method, divided by 12. Whether a provider offers regional pricing is recorded in the register, not assumed here.</text>
+<text x="28" y="60.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#66757F">Published USD list price against GNI per capita, Atlas method, divided by 12. Whether a provider offers regional</text>
+<text x="28" y="76.5" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#66757F">pricing is recorded in the register, not assumed here.</text>
 <text x="292.0" y="110" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">NGA</text>
 <text x="376.0" y="110" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">KEN</text>
 <text x="460.0" y="110" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#0D1B2A">ZAF</text>
@@ -56,7 +57,7 @@
 <text x="964.0" y="178" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">5.4%</text>
 <rect x="1007.0" y="158" width="82" height="28" fill="#EAF3EF"/>
 <text x="1048.0" y="178" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">3.5%</text>
-<text x="238" y="206" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">Microsoft Microsoft 365 Personal</text>
+<text x="238" y="206" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">Microsoft Microsoft 365 Personal (</text>
 <text x="238" y="219" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">$9.99 per month</text>
 <rect x="251.0" y="192" width="82" height="28" fill="#F6E7C8"/>
 <text x="292.0" y="212" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">8.8%</text>
@@ -100,7 +101,7 @@
 <text x="964.0" y="246" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">6.7%</text>
 <rect x="1007.0" y="226" width="82" height="28" fill="#EAF3EF"/>
 <text x="1048.0" y="246" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">4.3%</text>
-<text x="238" y="274" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">Microsoft Microsoft 365 Family</text>
+<text x="238" y="274" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0D1B2A">Microsoft Microsoft 365 Family (in</text>
 <text x="238" y="287" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">$12.99 per month</text>
 <rect x="251.0" y="260" width="82" height="28" fill="#F6E7C8"/>
 <text x="292.0" y="280" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0D1B2A">11.5%</text>

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 422" width="820" height="422" role="img" aria-label="Announced capital by country: Egypt leads with $1.4bn of $3.2bn announced across 7 countries.">
 <rect width="820" height="422" fill="#FFFFFF"/>
 <text x="28" y="38" font-family="'Source Serif 4',Georgia,serif" font-size="21" font-weight="600" fill="#0D1B2A">Announced capital by country</text>
-<text x="28" y="60" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#66757F">US dollars committed in public announcements. Government targets excluded.</text>
+<text x="28" y="60.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#66757F">US dollars committed in public announcements. Government targets excluded.</text>
 <text x="226" y="114" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#0D1B2A">Egypt</text>
 <rect x="240" y="100" width="409.5" height="26" fill="#1A8A7A"/>
 <text x="659.5" y="113" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#0D1B2A">$1.4bn</text>

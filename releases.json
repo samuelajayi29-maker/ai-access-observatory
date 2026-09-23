@@ -11,24 +11,24 @@
    "file_count": 39,
    "files": {
     "index.html": {
-     "sha256": "0972069e387cdb2eb808bfffe6f9fa22473aa11ba3357ca42e0faecfc04b3893",
-     "bytes": 54756
+     "sha256": "15a2522880f29a47a783be0f113afdee163b7182a843571528c7b9abbabdf08f",
+     "bytes": 27421
     },
     "infrastructure.html": {
      "sha256": "58746cdd47d121df67d4fad8a2b8e7d11947835b28de2b90b9fac394a05e83d7",
      "bytes": 27937
     },
     "access.html": {
-     "sha256": "63dc56fbb9affccf7f3f029689a3d7e090509c9b44067cefaa9efee1daa78aff",
-     "bytes": 64613
+     "sha256": "8ec69e2d4153d832796e4afa2548efd1a1fa48048de5f875eace05f6248af72f",
+     "bytes": 61660
     },
     "jobs.html": {
-     "sha256": "570a19852c4214bc5c9b7dd57fd9104ada13c2c4a2871f3ca758c2a41d2054fb",
-     "bytes": 29426
+     "sha256": "daecc477c5b91defbbe694b18e86c0afb967d0aaca38f563e3f565fd141d7b0b",
+     "bytes": 29387
     },
     "method.html": {
-     "sha256": "59ff98a4f47e4afad99a27b783797a4a8693354af24e032f312ce32a5ffac002",
-     "bytes": 36038
+     "sha256": "cc1c7f32e73de1e423399d8ca37f5a873dcbb0b35c72a7201d34c124c4e0e4ab",
+     "bytes": 36310
     },
     "analysis.html": {
      "sha256": "3a597a83ad97b486b7216bcaeb8d9f333df4d4425ff2a236e5e7ede478102c20",
@@ -87,84 +87,84 @@
      "bytes": 107792
     },
     "charts/access-affordability.png": {
-     "sha256": "f077c472d596e76ca5f53b7355fac48d73e7f31c9b455a8a41760b2d36e68a8c",
-     "bytes": 356381
+     "sha256": "f96fb409e00e91791a03d563b6b5f263c99a067a1eb958aa4d5a3a05eb4d790d",
+     "bytes": 356531
     },
     "charts/access-affordability.svg": {
-     "sha256": "dbc0a632069320e82728e366fe6021150a2404e0515862df6b3ebff8a2102087",
-     "bytes": 37217
+     "sha256": "3eb41bd05ffc7cc9c234b7c5acead633f340cf03753557428b2bcbf98c189068",
+     "bytes": 37163
     },
     "charts/access-capability-vs-cost.png": {
-     "sha256": "8a57270adb7f1e3c641c825191bf760ce31edd16fd8a5346711aec17ff5f5e6f",
-     "bytes": 301943
+     "sha256": "1f1af7a0b240c49e68b2f0d24f17460ddcd1cb006c2771eb40a4efd8003b9ed2",
+     "bytes": 335573
     },
     "charts/access-capability-vs-cost.svg": {
-     "sha256": "fc04a9ab15775450c88b4129b2283f9ca73ecfa4512d08a6bb2326b65d1b9894",
-     "bytes": 10936
+     "sha256": "f64a9f4e364f7ed78464691eb07d8f3e15310d94e2f9ce06ecdec0902f851200",
+     "bytes": 11485
     },
     "charts/access-device-moves.png": {
-     "sha256": "22ecfe47e3ac57e166af40911ca9b6965d866816ce6cff0dc973448b76479990",
-     "bytes": 250160
+     "sha256": "cd855e4d972826e3ed1e1a386a57392fad110f83b95326dac0a64b753e2b702f",
+     "bytes": 271896
     },
     "charts/access-device-moves.svg": {
-     "sha256": "9a3e48d7758d05ebbf02188b2950e789fcfe4e19ea78d80c00be8c2b8d5eb903",
-     "bytes": 7844
+     "sha256": "c944549faa0cc0e6548cc4d65c7768c98be3eba1801dd16bb0a5483a1d5dc730",
+     "bytes": 8858
     },
     "charts/access-fx-decomposition.png": {
-     "sha256": "2a9420781b83ed61f7419abb13956c79dccd8a812bcdf9aebb4081b02ffbb20b",
-     "bytes": 170496
+     "sha256": "923c447bb0122ef3e3bb27b8f6ea460fc0515bd89d23c41d1421593bead10e66",
+     "bytes": 160529
     },
     "charts/access-fx-decomposition.svg": {
-     "sha256": "306ce6485d8d02c4062119913a3d6ffc11f309e5990592938083576155c183a7",
-     "bytes": 7051
+     "sha256": "ffdb8a14786e644e24367e5fe941b60ccf8445bcc46b6998a246fe419f245891",
+     "bytes": 6743
     },
     "charts/access-subscription-share.png": {
-     "sha256": "a32709d7495682034a59609e7e17b3e870cfc85f508756ff931317cb2746360f",
-     "bytes": 226581
+     "sha256": "7da8b69462e6847b34fb7258f10decb265d66df731303d3b769232d12d0452bd",
+     "bytes": 233694
     },
     "charts/access-subscription-share.svg": {
-     "sha256": "64852adabe566260f62c3834ff1d842baa71d3de5acbca39f9fed8c31294aab1",
-     "bytes": 19218
+     "sha256": "5fbeddd6a4f58a007a50e6a61cc0d4919b9ba6adb558192164f3e3a39cda9f9e",
+     "bytes": 19368
     },
     "charts/infra-capacity-by-status.png": {
      "sha256": "fc689b0d808d6fab2c6571063564e677469e46faa4dadc66900a747d912642e8",
      "bytes": 173731
     },
     "charts/infra-capacity-by-status.svg": {
-     "sha256": "6ea4ec8116167aecf28ae4e0ae4357c64984f7ba0bc0a946825bab0e3d46b077",
-     "bytes": 4513
+     "sha256": "a90a1a68883f54130b2c7d78d89ee87075bbf299136a561fc10a2780ad2b7e93",
+     "bytes": 4515
     },
     "charts/infra-capital-by-country.png": {
      "sha256": "c8bb96578b239e113a0c9ede0dae9c9ea0acdc82497ce1e4fcc7aff09774d98b",
      "bytes": 139501
     },
     "charts/infra-capital-by-country.svg": {
-     "sha256": "717c1cbc64c93d68fb451bf3d3fbf6ff74e55bc44b655566e2a732eae0b80a4c",
-     "bytes": 5031
+     "sha256": "4920197c2444509deda82d68c86341a7b3e29e26e9eb13216138eef854a485d8",
+     "bytes": 5033
     },
     "charts/jobs-atlas-exposure.png": {
      "sha256": "f8720a39b94ecb759427d310b8244de15c4372662d40f91ffd3ed6069301fb29",
      "bytes": 364823
     },
     "charts/jobs-atlas-exposure.svg": {
-     "sha256": "fa9388083613db92bfccbcec61c3426bd6ba49ec0369fc50f50bcfec5ae968b2",
-     "bytes": 17432
+     "sha256": "cacc744075833c265eb61defcb674cebfd3dc9e9f2b635a454d94c9d14e80028",
+     "bytes": 17434
     },
     "charts/jobs-exposure.png": {
-     "sha256": "050b9de61321a4aea7f965b98797a08607ecf0d0c6c4032f18207512471d64a0",
-     "bytes": 330906
+     "sha256": "70313b74a5b5bb7807e7673159c7af587bb3af64329e65a8a54f8202a0dd9ee1",
+     "bytes": 315898
     },
     "charts/jobs-exposure.svg": {
-     "sha256": "c9a62b97a3c23fe7836130578273e9af47d31c49e64245ece90a1a11012e53e1",
-     "bytes": 15347
+     "sha256": "37194d0773ad3bf50bba55acc4d1bced171b89c3978c26468393cb84763793cd",
+     "bytes": 15036
     },
     "charts/record-activity.png": {
-     "sha256": "b1ea1d76a8eed91df2c72b045ef7a47b267a361c46a957cc227e702a63ea99e8",
-     "bytes": 97417
+     "sha256": "9e65391b2a3f4e0e5cb6e4d157d4c45d6da4d869d3d1f90991ba86baacecc48b",
+     "bytes": 84773
     },
     "charts/record-activity.svg": {
-     "sha256": "a22e2ec306b1fab3afedc94d943bfb23158bdb4a89bb610636eac59331ad78ac",
-     "bytes": 5771
+     "sha256": "f233c85a91085276ce29f0929f50a587d3243dbb3c62c023ee740719b5b65766",
+     "bytes": 6237
     }
    }
   }
