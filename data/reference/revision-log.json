@@ -600,6 +600,27 @@
    "added": [],
    "changed": [],
    "removed": []
+  },
+  {
+   "built_at": "2026-09-23",
+   "added": [],
+   "changed": [
+    {
+     "register": "infrastructure",
+     "row": "Mombasa AI data centre",
+     "field": "source",
+     "from": "https://www.businessdailyafrica.com/bd/corporate/technology/greek-firm-amaco-plans-sh194bn-ai-data-centre-5561",
+     "to": "https://www.standardmedia.co.ke/business/business/article/2001557829/greeks-amaco-partners-with-us-firm-for-planned-kenya-data-centre"
+    },
+    {
+     "register": "model-prices",
+     "row": "Muse Spark 1.1",
+     "field": "source",
+     "from": "https://vercel.com/ai-gateway/models/muse-spark-1-1",
+     "to": "https://openrouter.ai/meta/muse-spark-1.1"
+    }
+   ],
+   "removed": []
   }
  ]
 }

@@ -6,9 +6,9 @@
   "rows_checked": 765,
   "rows_passing": 365,
   "rows_quarantined": 400,
-  "rows_missing_archive": 54,
+  "rows_missing_archive": 51,
   "rows_with_bad_url": 19,
-  "rows_with_dead_source": 4,
+  "rows_with_dead_source": 0,
   "rows_missing_status": 0,
   "indicators": 87,
   "indicators_failing_contract": 0,
@@ -19,9 +19,9 @@
    "rows": 13,
    "passing": 3,
    "quarantined": 10,
-   "missing_archive": 1,
+   "missing_archive": 0,
    "bad_url": 0,
-   "dead_source": 1
+   "dead_source": 0
   },
   "model-price-events": {
    "rows": 5,
@@ -29,15 +29,15 @@
    "quarantined": 3,
    "missing_archive": 1,
    "bad_url": 0,
-   "dead_source": 1
+   "dead_source": 0
   },
   "infrastructure": {
    "rows": 22,
    "passing": 0,
    "quarantined": 22,
-   "missing_archive": 6,
+   "missing_archive": 5,
    "bad_url": 2,
-   "dead_source": 1
+   "dead_source": 0
   },
   "device-prices": {
    "rows": 6,
@@ -59,9 +59,9 @@
    "rows": 1,
    "passing": 0,
    "quarantined": 1,
-   "missing_archive": 1,
+   "missing_archive": 0,
    "bad_url": 0,
-   "dead_source": 1
+   "dead_source": 0
   },
   "component-costs": {
    "rows": 1,
@@ -138,11 +138,9 @@
  },
  "hard_failures": [],
  "warnings": [
-  "model-prices[12] Muse Spark 1.1: no archive snapshot captured for https://vercel.com/ai-gateway/models/muse-spark-1-1",
-  "model-price-events[4] Gemini 3.8 Flash: no archive snapshot captured for https://www.packetnebula.com/gemini-38-flash-price-cliff/",
+  "model-price-events[4] Gemini 3.8 Flash: no archive snapshot captured for https://www.digitalapplied.com/blog/gemini-3-8-flash-costs-the-same-un",
   "infrastructure[2] MTN AI-ready data centres: no archive snapshot captured for https://nairametrics.com/2026/08/26/mtn-to-develop-150mw-ai-data-centr",
   "infrastructure[6] Huawei AI data centre bid: no archive snapshot captured for https://www.bloomberg.com/news/articles/2026-08-26/huawei-egypt-ai-asc",
-  "infrastructure[8] Mombasa AI data centre: no archive snapshot captured for https://www.businessdailyafrica.com/bd/corporate/technology/greek-firm",
   "infrastructure[9] Cape Town hyperscale campus (two sites): no archive snapshot captured for https://iafrica.com/cape-town-approves-two-hyperscale-data-centres-tot",
   "infrastructure[11] Teraco portfolio (including JB7): source_url is bare_domain -> https://voxilens.com/",
   "infrastructure[13] Raxio expansion programme: no archive snapshot captured for https://www.techafricanews.com/2026/07/14/raxio-secures-over-us380-mil",
@@ -154,8 +152,7 @@
   "device-prices[5] Device prices, 2026 projection: source_url is bare_domain -> https://techcabal.com/",
   "device-shipments[1] Shipments, 2026 forecast: source_url is bare_domain -> https://omdia.tech.informa.com/",
   "device-shipments[2] Shipments, Q2 2026: no archive snapshot captured for https://telecomlead.com/smartphone/africa-smartphone-shipments-fall-7-",
-  "device-shipments[3] Smartphone market growth, Q1 2026: source_url is ephemeral -> https://my.idc.com/getdoc.jsp?containerId=IDC_P37251",
-  "device-policy[0] Excise duty on smartphones: no archive snapshot captured for https://www.businessdailyafrica.com/bd/economy/kenya-finance-bill-2026"
+  "device-shipments[3] Smartphone market growth, Q1 2026: source_url is ephemeral -> https://my.idc.com/getdoc.jsp?containerId=IDC_P37251"
  ],
  "status": "pass"
 }

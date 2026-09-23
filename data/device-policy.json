@@ -15,17 +15,21 @@
    "metric": "Excise duty on smartphones",
    "change_pct": 25,
    "type": "proposal",
-   "source": "Kenya Finance Bill 2026",
-   "url": "https://www.businessdailyafrica.com/bd/economy/kenya-finance-bill-2026-smartphones-excise-duty",
-   "note": "Proposed 25% excise duty, which would land directly on device prices.",
+   "source": "Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/kenya-finance-bill-2026-targets-smartphones-with-25-excise-duty/khwl0bp",
+   "note": "Proposed 25% excise duty, which would land directly on device prices. Proposed 25% excise duty, assessed at activation, which would land directly on device prices.",
    "geography_scope": "country",
    "evidence_status": "trade_reporting",
    "temporal_status": "proposal",
    "headline_eligible": false,
    "legacy_type": "proposal",
    "originating_source": "Kenya Finance Bill 2026",
-   "evidence_host": "businessdailyafrica.com",
-   "source_quality": "ok"
+   "evidence_host": "africa.businessinsider.com",
+   "source_quality": "ok",
+   "source_replaced_at": "2026-09-23",
+   "source_replaced_from": "https://www.businessdailyafrica.com/bd/economy/kenya-finance-bill-2026-smartphones-excise-duty",
+   "archive_url": "https://web.archive.org/web/20260615042751/https://africa.businessinsider.com/local/markets/kenya-finance-bill-2026-targets-smartphones-with-25-excise-duty/khwl0bp",
+   "archived_at": "2026-06-15"
   }
  ]
 }

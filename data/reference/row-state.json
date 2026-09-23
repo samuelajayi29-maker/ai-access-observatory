@@ -103,9 +103,9 @@
     "capex_local": "KES 194bn",
     "status": "announced",
     "online": null,
-    "url": "https://www.businessdailyafrica.com/bd/corporate/technology/greek-firm-amaco-plans-sh194bn-ai-data-centre-5561"
+    "url": "https://www.standardmedia.co.ke/business/business/article/2001557829/greeks-amaco-partners-with-us-firm-for-planned-kenya-data-centre"
    },
-   "hash": "1ccf7e429532a621",
+   "hash": "27c91f29246d4d8b",
    "date": "2026-08-17"
   },
   "Cape Town hyperscale campus (two sites)": {
@@ -417,9 +417,9 @@
     "capability": 51,
     "cap_basis": "no current score",
     "status": "reported",
-    "url": "https://vercel.com/ai-gateway/models/muse-spark-1-1"
+    "url": "https://openrouter.ai/meta/muse-spark-1.1"
    },
-   "hash": "8d2013b887a70dac",
+   "hash": "3bce0efab41f3c3a",
    "date": "2026-07-09"
   }
  },

@@ -354,19 +354,23 @@
    "capability": 51,
    "cap_basis": "no current score",
    "cap_note": "Pre-restatement scale. Meta's 1.3 release scored 61 on that older scale in September.",
-   "source": "LinkedIn / Vercel AI Gateway",
-   "url": "https://vercel.com/ai-gateway/models/muse-spark-1-1",
-   "note": "Meta's first paid model API, priced to undercut incumbents.",
+   "source": "OpenRouter listing",
+   "url": "https://openrouter.ai/meta/muse-spark-1.1",
+   "note": "Meta's first paid model API, priced to undercut incumbents. Price taken from the router's model listing, which mirrors Meta's published rate; the listing dates the model 16 July 2026 against the 9 July launch recorded here.",
    "evidence_status": "trade_reporting",
    "temporal_status": "measured",
    "headline_eligible": false,
    "legacy_status": "reported",
    "originating_source": "LinkedIn / Vercel AI Gateway",
-   "evidence_host": "vercel.com",
+   "evidence_host": "openrouter.ai",
    "source_quality": "ok",
    "capability_prior_value": 51,
    "capability_prior_basis": "launch",
-   "capability_source_url": ""
+   "capability_source_url": "",
+   "source_replaced_at": "2026-09-23",
+   "source_replaced_from": "https://vercel.com/ai-gateway/models/muse-spark-1-1",
+   "archive_url": "https://web.archive.org/web/20260921142647/https://openrouter.ai/meta/muse-spark-1.1",
+   "archived_at": "2026-09-21"
   }
  ],
  "events": [
@@ -443,14 +447,16 @@
    "model": "Gemini 3.8 Flash",
    "kind": "rise",
    "change_pct": 100,
-   "source": "Google / PacketNebula",
-   "url": "https://www.packetnebula.com/gemini-38-flash-price-cliff/",
-   "note": "Scheduled: introductory rate ends 31 December 2026, list price doubles on 1 January 2027.",
+   "source": "Digital Applied, quoting Google's launch post",
+   "url": "https://www.digitalapplied.com/blog/gemini-3-8-flash-costs-the-same-until-it-doubles-in-january",
+   "note": "Scheduled: introductory rate ends 31 December 2026, list price doubles on 1 January 2027. The source quotes the launch post's footnote: introductory price expires 31 December 2026, then $1.50 and $7.50 per million tokens apply. The doubling is Google's stated schedule, quoted second hand.",
    "evidence_status": "unclear",
    "temporal_status": "measured",
    "headline_eligible": false,
-   "evidence_host": "packetnebula.com",
-   "source_quality": "ok"
+   "evidence_host": "digitalapplied.com",
+   "source_quality": "ok",
+   "source_replaced_at": "2026-09-23",
+   "source_replaced_from": "https://www.packetnebula.com/gemini-38-flash-price-cliff/"
   }
  ],
  "status_fields": [

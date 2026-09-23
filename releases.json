@@ -11,23 +11,23 @@
    "file_count": 39,
    "files": {
     "index.html": {
-     "sha256": "e7f738f5dc0a94d9d588e8966311cdddde6949d3b39423419e119d1b45f85fd0",
-     "bytes": 54834
+     "sha256": "b4ea242217252f2d361155091b1b587afd1ebc5c3e73891be83181d784ee3356",
+     "bytes": 54754
     },
     "infrastructure.html": {
-     "sha256": "3f83af7afbf71f638b5e5f635d39bd02109e5f21eb1ea2cc953badcea3c7a259",
-     "bytes": 27985
+     "sha256": "7e20c6f66698632195ceb1583f207cd4f8fd667662ea0b7654f95df4cc63c1c0",
+     "bytes": 28008
     },
     "access.html": {
-     "sha256": "a3e9c41dcff9eb645a04110d584fdd8900ff27df8177579007bac21dd785571b",
-     "bytes": 64311
+     "sha256": "f56532c27574fea6d914b51129ef94dde9c95eca48fe09f7703f608ba8210f19",
+     "bytes": 64556
     },
     "jobs.html": {
      "sha256": "c160d2a0076d55fb301f2955650cd2d87b9d43f791750dbe69d5ae310eaff4a5",
      "bytes": 29497
     },
     "method.html": {
-     "sha256": "10939b2994b247584b1e75ec43f7f966bd39df00ff60ed12a1f4254997764e12",
+     "sha256": "85e2098e6793bf7254083d92f5fd764e6a69a1e61ee6994a2217057007b5d384",
      "bytes": 36109
     },
     "analysis.html": {
@@ -63,20 +63,20 @@
      "bytes": 2119
     },
     "data/device-policy.csv": {
-     "sha256": "de5d05be6f99229622bc2ba3ef06e301c0c0f678cc7c40e78c2204719683f14e",
-     "bytes": 521
+     "sha256": "108857852354c06425ede5e370137c6b176680f200e1004491a6910bf2e024e1",
+     "bytes": 807
     },
     "data/component-costs.csv": {
      "sha256": "6011840118b9c3105b1df57f4cb6220ca508674980e9926975e58199a1b1e148",
      "bytes": 530
     },
     "data/model-prices.csv": {
-     "sha256": "1f50883d467f51f6b16f61c89deb1b6fd5b5f0cc6c88d10c1bb2471a6de1eb48",
-     "bytes": 2227
+     "sha256": "939245f7bc9b74546a5e7c747c0463cf287be3dc05551de7e4384a8fafa2dff7",
+     "bytes": 2207
     },
     "data/infra-projects.csv": {
-     "sha256": "6b487608485d32bae9d4b828f722c5895d5a566fda8710ca942822de8d5ef8a6",
-     "bytes": 4634
+     "sha256": "fc2c64644882af033f44b39fd2ecc15e4b8c93ea442841d8a384f347a197dd4d",
+     "bytes": 4656
     },
     "data/items.csv": {
      "sha256": "f01c2c4f463884d0a06003c08344957326266fbfd9ac82906fff563d5a61c636",
