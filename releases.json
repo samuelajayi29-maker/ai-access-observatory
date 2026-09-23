@@ -8,10 +8,10 @@
    "base_url": "https://samuelajayi29-maker.github.io/ai-access-observatory",
    "schema_version": "2026.10.2",
    "licence": "CC BY 4.0. Credit reads: Astrolabe Africa",
-   "file_count": 39,
+   "file_count": 41,
    "files": {
     "index.html": {
-     "sha256": "cbac2a826032b30c24d6f03f070550f2c1b4db923afae9591249db1ecdbd3ab4",
+     "sha256": "3b8137997d8fed7b553bc2d664f7f009e7a2e27563ac8c701d67fcf58f61d5d1",
      "bytes": 27500
     },
     "infrastructure.html": {
@@ -19,8 +19,8 @@
      "bytes": 27937
     },
     "access.html": {
-     "sha256": "8ec69e2d4153d832796e4afa2548efd1a1fa48048de5f875eace05f6248af72f",
-     "bytes": 61660
+     "sha256": "1d9e805b2a130821117a65ea9abf8b4a14d4c789b6b80b936942a915b8b35dea",
+     "bytes": 65305
     },
     "jobs.html": {
      "sha256": "daecc477c5b91defbbe694b18e86c0afb967d0aaca38f563e3f565fd141d7b0b",
@@ -102,13 +102,13 @@
      "sha256": "f64a9f4e364f7ed78464691eb07d8f3e15310d94e2f9ce06ecdec0902f851200",
      "bytes": 11485
     },
-    "charts/access-device-moves.png": {
-     "sha256": "cd855e4d972826e3ed1e1a386a57392fad110f83b95326dac0a64b753e2b702f",
-     "bytes": 271896
+    "charts/access-device-prices.png": {
+     "sha256": "7a524d3bc9a9a91c4eecd49ffaec80774c97d5fee75d2356af047a3110f25844",
+     "bytes": 214387
     },
-    "charts/access-device-moves.svg": {
-     "sha256": "c944549faa0cc0e6548cc4d65c7768c98be3eba1801dd16bb0a5483a1d5dc730",
-     "bytes": 8858
+    "charts/access-device-prices.svg": {
+     "sha256": "526e540411cf343d9cb10d382987510d6e598cca99964a3d4013ccf50459e6de",
+     "bytes": 6264
     },
     "charts/access-fx-decomposition.png": {
      "sha256": "923c447bb0122ef3e3bb27b8f6ea460fc0515bd89d23c41d1421593bead10e66",
@@ -117,6 +117,14 @@
     "charts/access-fx-decomposition.svg": {
      "sha256": "ffdb8a14786e644e24367e5fe941b60ccf8445bcc46b6998a246fe419f245891",
      "bytes": 6743
+    },
+    "charts/access-shipments.png": {
+     "sha256": "a01cdec492e9e5909af0a87e4b82d95cf6b2bff6891a3128eb20067aadee6eaf",
+     "bytes": 170587
+    },
+    "charts/access-shipments.svg": {
+     "sha256": "f0e12bddd1c2fbc1560abf8ede5e497e52e50a5aebec8f17b992d887222781d2",
+     "bytes": 4833
     },
     "charts/access-subscription-share.png": {
      "sha256": "7da8b69462e6847b34fb7258f10decb265d66df731303d3b769232d12d0452bd",
