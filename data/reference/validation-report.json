@@ -6,7 +6,7 @@
   "rows_checked": 765,
   "rows_passing": 365,
   "rows_quarantined": 400,
-  "rows_missing_archive": 59,
+  "rows_missing_archive": 54,
   "rows_with_bad_url": 19,
   "rows_missing_status": 0,
   "indicators": 87,
@@ -32,7 +32,7 @@
    "rows": 22,
    "passing": 0,
    "quarantined": 22,
-   "missing_archive": 7,
+   "missing_archive": 6,
    "bad_url": 2
   },
   "device-prices": {
@@ -116,7 +116,7 @@
    "rows": 4,
    "passing": 2,
    "quarantined": 2,
-   "missing_archive": 4,
+   "missing_archive": 0,
    "bad_url": 0
   }
  },
@@ -131,7 +131,6 @@
   "infrastructure[11] Teraco portfolio (including JB7): source_url is bare_domain -> https://voxilens.com/",
   "infrastructure[13] Raxio expansion programme: no archive snapshot captured for https://www.techafricanews.com/2026/07/14/raxio-secures-over-us380-mil",
   "infrastructure[14] Africa Data Centres Accra: source_url is bare_domain -> https://datacentresafrica.com/",
-  "infrastructure[16] Côte d'Ivoire sovereign data centre: no archive snapshot captured for https://developingtelecoms.com/telecom-business/telecom-investment-mer",
   "infrastructure[20] Nigeria cloud and AI investment target: no archive snapshot captured for https://iafrica.com/nigeria-targets-750m-in-cloud-and-ai-infrastructur",
   "device-prices[1] Average selling price, 2026: source_url is ephemeral -> https://my.idc.com/getdoc.jsp?containerId=IDC_P37251",
   "device-prices[2] Device prices: source_url is ephemeral -> https://my.idc.com/getdoc.jsp?containerId=IDC_P37251",

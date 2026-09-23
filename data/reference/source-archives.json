@@ -72,9 +72,12 @@
   "submitted": false
  },
  "https://developingtelecoms.com/telecom-business/telecom-investment-mergers/20549-cote-divoire-approves-starlin": {
-  "status": "none",
+  "archive_url": "https://web.archive.org/web/20260923085135/https://developingtelecoms.com/telecom-business/telecom-investment-mergers/20549-cote-divoire-approves-starlin",
+  "archived_at": "2026-09-23",
+  "status": "found",
+  "http_status": "200",
   "checked_at": "2026-09-23",
-  "submitted": true
+  "submitted": false
  },
  "https://furtherafrica.com/2026/08/04/equinix-wins-approval-for-major-cape-town-data-centre-campus/": {
   "archive_url": "https://web.archive.org/web/20260921122736/https://furtherafrica.com/2026/08/04/equinix-wins-approval-for-major-cape-town-data-centre-campus/",
@@ -537,6 +540,14 @@
   "status": "found",
   "http_status": "200",
   "checked_at": "2026-09-22",
+  "submitted": false
+ },
+ "https://africadca.org/en/data-centres-in-africa-2026-the-economic-report": {
+  "archive_url": "https://web.archive.org/web/20260917153932/https://africadca.org/en/data-centres-in-africa-2026-the-economic-report",
+  "archived_at": "2026-09-17",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-23",
   "submitted": false
  }
 }

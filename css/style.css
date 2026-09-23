@@ -494,6 +494,16 @@ footer a { color: var(--ink-secondary); border: 0; }
               max-width: 52ch; }
 
 
+/* ---------- why, dimensions, the jobs decision */
+.dims { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1px;
+        background: var(--rule); border: 1px solid var(--rule); margin: 1.4rem 0; }
+.dim { background: var(--paper); padding: 1rem 1.1rem; }
+.dim h3 { margin: 0 0 .4rem; font-size: 1rem; }
+.dim p { margin: 0; color: var(--ink-secondary); font-size: .93rem; line-height: 1.55; }
+.decide { list-style: none; padding: 0; margin: 1.2rem 0; }
+.decide li { border-left: 2px solid var(--rule-strong); padding: .1rem 0 .1rem 1rem; margin: 0 0 1rem; }
+.decide li b { color: var(--ink); }
+
 /* ---------- responsive ----------------------------------------------------- */
 @media (max-width: 1000px) {
   .state { grid-template-columns: repeat(2, minmax(0, 1fr)); }
