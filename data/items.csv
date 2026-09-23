@@ -1,7 +1,10 @@
 bucket,date,source,title,url
+jobs,Sep 23,Outsource Accelerator,AI is scrambling the tech job market,https://news.outsourceaccelerator.com/ai-tech-job-market/
 jobs,Sep 22,Outsource Accelerator,Philippine labor market stays resilient amid the AI boom,https://news.outsourceaccelerator.com/philippine-labor-ai-resilient/
+jobs,Sep 22,Outsource Accelerator,AI-exposed jobs see faster pay growth: Indeed,https://news.outsourceaccelerator.com/ai-exposed-pay-growth/
 jobs,Sep 21,Outsource Accelerator,Egypt targets $12B in outsourcing exports by 2029,https://news.outsourceaccelerator.com/egypt-outsourcing-exports-2029/
 jobs,Sep 21,Outsource Accelerator,Tax perks not enough to save PH BPO: WTO,https://news.outsourceaccelerator.com/wto-philippines-bpo-incentives/
+jobs,Sep 21,TechTrendsKE,Google trains Kenyan Gen-Z creators and students on Gemini AI tools,https://techtrendske.co.ke/2026/09/21/google-trains-kenyan-gen-z-creators-students-on-gemini-ai-tools/
 jobs,Sep 20,Times of Oman,"Only four countries lead global AI adoption by 20%, muting hiring in tech and services: Goldman Sachs",https://timesofoman.com/article/177144-only-four-countries-lead-global-ai-adoption-by-20-muting-hiring-in-tech-and-services-goldman-sachs
 jobs,Sep 19,Euronews,"Fear of AI job loss outweighs AI job creation excitement, study finds",https://www.euronews.com/next/2026/09/19/fear-of-ai-job-losses-now-outweighs-hope-of-new-jobs-study-finds
 jobs,Sep 19,People Daily,Kenya's next export boom may be online as WTO predicts AI could reshape global trade,https://peopledaily.digital/business/kenyas-next-export-boom-may-be-online-as-wto-predicts-ai-could-reshape-global-trade
@@ -89,6 +92,10 @@ jobs,May 16,UN Economic Commission for Africa,AI and jobs in Africa: turning dis
 jobs,Apr 25,Mastercard Foundation,40% of Tasks in Africa's Tech Outsourcing May Be Affected by AI by 2030,https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/
 jobs,Mar 31,WeeTracker,South Africa's gig economy becomes a bargain with AI skills shortage looming,https://weetracker.com/2026/03/31/south-africa-freelance-economy-ai-talent-gap-2026/
 jobs,Dec 25,"Deric Cheng, AI Frontiers",AI Could Undermine Emerging Economies,https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies
+access,Sep 23,DigiTimes,OpenAI and Anthropic cut frontier model prices ten days after calling for a slowdown,https://www.digitimes.com/news/a20260923VL200/anthropic-openai-opus-claude-price.html
+access,Sep 22,CNBC,Anthropic and OpenAI roll out cheaper models in first release since call for slowdown,https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html
+access,Sep 22,Fortune,What slowdown? OpenAI and Anthropic release dueling models as AI price wars heat up,https://fortune.com/2026/09/22/what-ai-slowdown-openai-anthropic-release-dueling-moreaffordable-models-as-ai-price-wars-heat-up/
+access,Sep 22,Leadership,UNGA 81: Global digital push targets wider access and skills,https://leadership.ng/unga-81-global-digital-push-targets-wider-access-skills/
 access,Sep 21,TechAfrica News,Mozambique INCM Develops Tariff System to Improve Mobile Data Transparency,https://techafricanews.com/2026/09/21/mozambique-incm-tariff-system-mobile-data-transparency/
 access,Sep 21,Cyprus Mail,"Record chip sales threaten higher prices for phones, PCs and gaming",https://cyprus-mail.com/2026/09/21/record-chip-sales-threaten-higher-prices-for-phones-pcs-and-gaming
 access,Sep 21,TechCabal,Nigeria's new phone tracking policy could price millions offline,https://techcabal.com/2026/09/21/nigerias-new-phone-tracking-policy-could-price-millions-offline/
@@ -97,6 +104,7 @@ access,Sep 20,AI Pricing Guru,"AI API Pricing 2026: Compare GPT, Claude, Gemini 
 access,Sep 20,Capital Ethiopia,Sub-Saharan Africa faces digital divide as handset costs and usage gap persist,https://capitalethiopia.com/2026/09/20/sub-saharan-africa-faces-digital-divide-as-handset-costs-and-usage-gap-persist/
 access,Sep 20,Tech Review Africa,Kenya urged to enhance AI capacity for financial inclusion and security,https://techreviewafrica.com/news/7360/kenya-urged-to-enhance-ai-capacity-for-financial-inclusion-and-security
 access,Sep 19,The Hindu,The price of AI is falling; why are enterprises still spending more? Explained,https://www.thehindu.com/business/the-price-of-ai-is-falling-why-are-enterprises-still-spending-more-explained/article71484317.ece
+access,Sep 19,TechTrendsKE,Kenya reaches 52 million smartphones as mobile data use grows,https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/
 access,Sep 18,TrendForce,"AMD Reportedly Plans 10% Price Hike for GPUs, AI Chips, Chipsets in 4Q26 as TSMC Costs Rise",https://www.trendforce.com/news/2026/09/18/news-amd-reportedly-plans-10-price-hike-for-gpus-ai-chips-chipsets-in-4q26-as-tsmc-costs-rise/
 access,Sep 17,TechAfrica News,New GSMA Report Maps Rwanda's Path to Wider Digital Inclusion and Over 1 Million More Mobile Internet Users by 2031,https://techafricanews.com/2026/09/17/gsma-rwanda-reforms-connect-1-07-million-more-mobile-internet-users-2031/
 access,Sep 16,Nairametrics,GSMA warns rising smartphone costs could deepen Nigeria's mobile internet gap,https://nairametrics.com/2026/09/16/gsma-warns-rising-smartphone-costs-could-deepen-nigerias-mobile-internet-gap/
@@ -213,6 +221,10 @@ access,Apr 15,Japan Times / AFP,AI-driven chip shortage slowing efforts to get w
 access,Feb 26,Techpoint Africa,AI Chip Demand — Smartphone Prices in Nigeria,https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/
 infra,Sep 22,TechAfrica News,"Egypt and NVIDIA Discuss AI Cooperation, Skills Development and Innovation",https://techafricanews.com/2026/09/22/egypt-nvidia-discuss-ai-cooperation-skills-development-innovation/
 infra,Sep 22,TechAfrica News,Rwanda Signs MoU With ChipMango to Build Local Semiconductor Design Skills,https://techafricanews.com/2026/09/22/rwanda-signs-mou-with-chipmango-to-build-local-semiconductor-design-skills/
+infra,Sep 22,iAfrica,South Africa seeks UN commitment to global AI governance framework,https://iafrica.com/south-africa-seeks-un-commitment-to-global-ai-governance-framework/
+infra,Sep 22,Headlines Nigeria,UNGA: Nigeria sets four pillars for its inclusive AI push,https://headlines.ng/unga-nigeria-sets-four-pillars-for-its-inclusive-ai-push/
+infra,Sep 22,iAfrica,"Vodafone Egypt begins commercial rollout of Ericsson's AI RAN processor, among first markets after Japan",https://iafrica.com/vodafone-egypt-begins-commercial-rollout-of-ericssons-ai-ran-processor-among-first-markets-after-japan/
+infra,Sep 22,iAfrica,Offshore wind is pitched to power Cape Town's data centres. It won't arrive until 2035,https://iafrica.com/offshore-wind-is-pitched-to-power-cape-towns-data-centres-it-wont-arrive-until-2035/
 infra,Sep 21,TechAfrica News,Kenya and Stanford's Hoover Institution Sign Five-Year Deal on AI and Data Governance,https://techafricanews.com/2026/09/21/kenya-stanford-hoover-institution-ai-data-governance-deal/
 infra,Sep 21,TechAfrica News,"Resilience, Routing and Data Sovereignty in African Networks",https://techafricanews.com/2026/09/21/resilience-routing-and-data-sovereignty-in-african-networks/
 infra,Sep 21,Independent Newspaper Nigeria,Digital Parks Africa To Build Tier IV Carrier-Neutral Data Centre In Lagos,https://independent.ng/digital-parks-africa-to-build-tier-iv-carrier-neutral-data-centre-in-lagos/
@@ -221,6 +233,7 @@ infra,Sep 21,NVIDIA Blog,"From Enablement to Execution, Egypt's AI Ecosystem Rea
 infra,Sep 21,Business Day,The 14-week race to move Nigeria's bank data home,https://businessday.ng/technology/article/the-14-week-race-to-move-nigerias-bank-data-home/
 infra,Sep 21,iAfrica,FSCA Holds Off on AI Rules Until Global Standards Body Reports,https://iafrica.com/fsca-holds-off-on-ai-rules-until-global-standards-body-reports/
 infra,Sep 21,arXiv,Context-Aware Pre-Deployment Evaluation of AI Systems: A Regulatory Framework for Nigerian Fintech,https://arxiv.org/abs/2609.24016
+infra,Sep 21,Africa Hyperscalers,What digital sovereignty and data localisation should mean for Africa,https://africa.hyperscalers.news/data-center/what-digital-sovereignty-and-data-localisation-should-mean-for-africa/
 infra,Sep 20,TechReview Africa,Cassava Technologies CEO calls for African ownership of AI compute infrastructure,https://techreviewafrica.com/news/7356/cassava-technologies-ceo-calls-for-african-ownership-of-ai-compute-infrastructure
 infra,Sep 20,Daily Maverick,Data centre deal: Cape Town forced back to the drawing board,https://www.dailymaverick.co.za/article/2026-09-20-data-centre-deal-cape-town-forced-back-to-the-drawing-board/
 infra,Sep 20,Daily Maverick,Datatec is riding the global AI infrastructure wave from the JSE,https://www.dailymaverick.co.za/article/2026-09-20-datatec-is-riding-the-global-ai-infrastructure-wave-from-the-jse/

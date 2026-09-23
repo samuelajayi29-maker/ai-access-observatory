@@ -1,13 +1,27 @@
 {
- "updated": "2026-09-22",
+ "updated": "2026-09-23",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
     {
+     "t": "AI is scrambling the tech job market",
+     "u": "https://news.outsourceaccelerator.com/ai-tech-job-market/",
+     "s": "Outsource Accelerator",
+     "d": "Sep 23",
+     "dot": "dot-jobs"
+    },
+    {
      "t": "Philippine labor market stays resilient amid the AI boom",
      "u": "https://news.outsourceaccelerator.com/philippine-labor-ai-resilient/",
+     "s": "Outsource Accelerator",
+     "d": "Sep 22",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "AI-exposed jobs see faster pay growth: Indeed",
+     "u": "https://news.outsourceaccelerator.com/ai-exposed-pay-growth/",
      "s": "Outsource Accelerator",
      "d": "Sep 22",
      "dot": "dot-jobs"
@@ -23,6 +37,13 @@
      "t": "Tax perks not enough to save PH BPO: WTO",
      "u": "https://news.outsourceaccelerator.com/wto-philippines-bpo-incentives/",
      "s": "Outsource Accelerator",
+     "d": "Sep 21",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Google trains Kenyan Gen-Z creators and students on Gemini AI tools",
+     "u": "https://techtrendske.co.ke/2026/09/21/google-trains-kenyan-gen-z-creators-students-on-gemini-ai-tools/",
+     "s": "TechTrendsKE",
      "d": "Sep 21",
      "dot": "dot-jobs"
     },
@@ -641,6 +662,34 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "OpenAI and Anthropic cut frontier model prices ten days after calling for a slowdown",
+     "u": "https://www.digitimes.com/news/a20260923VL200/anthropic-openai-opus-claude-price.html",
+     "s": "DigiTimes",
+     "d": "Sep 23",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
+     "u": "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
+     "s": "CNBC",
+     "d": "Sep 22",
+     "dot": "dot-price"
+    },
+    {
+     "t": "What slowdown? OpenAI and Anthropic release dueling models as AI price wars heat up",
+     "u": "https://fortune.com/2026/09/22/what-ai-slowdown-openai-anthropic-release-dueling-moreaffordable-models-as-ai-price-wars-heat-up/",
+     "s": "Fortune",
+     "d": "Sep 22",
+     "dot": "dot-price"
+    },
+    {
+     "t": "UNGA 81: Global digital push targets wider access and skills",
+     "u": "https://leadership.ng/unga-81-global-digital-push-targets-wider-access-skills/",
+     "s": "Leadership",
+     "d": "Sep 22",
+     "dot": "dot-access"
+    },
+    {
      "t": "Mozambique INCM Develops Tariff System to Improve Mobile Data Transparency",
      "u": "https://techafricanews.com/2026/09/21/mozambique-incm-tariff-system-mobile-data-transparency/",
      "s": "TechAfrica News",
@@ -695,6 +744,13 @@
      "s": "The Hindu",
      "d": "Sep 19",
      "dot": "dot-price"
+    },
+    {
+     "t": "Kenya reaches 52 million smartphones as mobile data use grows",
+     "u": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
+     "s": "TechTrendsKE",
+     "d": "Sep 19",
+     "dot": "dot-access"
     },
     {
      "t": "AMD Reportedly Plans 10% Price Hike for GPUs, AI Chips, Chipsets in 4Q26 as TSMC Costs Rise",
@@ -1514,6 +1570,34 @@
      "dot": "dot-infra"
     },
     {
+     "t": "South Africa seeks UN commitment to global AI governance framework",
+     "u": "https://iafrica.com/south-africa-seeks-un-commitment-to-global-ai-governance-framework/",
+     "s": "iAfrica",
+     "d": "Sep 22",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "UNGA: Nigeria sets four pillars for its inclusive AI push",
+     "u": "https://headlines.ng/unga-nigeria-sets-four-pillars-for-its-inclusive-ai-push/",
+     "s": "Headlines Nigeria",
+     "d": "Sep 22",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Vodafone Egypt begins commercial rollout of Ericsson's AI RAN processor, among first markets after Japan",
+     "u": "https://iafrica.com/vodafone-egypt-begins-commercial-rollout-of-ericssons-ai-ran-processor-among-first-markets-after-japan/",
+     "s": "iAfrica",
+     "d": "Sep 22",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Offshore wind is pitched to power Cape Town's data centres. It won't arrive until 2035",
+     "u": "https://iafrica.com/offshore-wind-is-pitched-to-power-cape-towns-data-centres-it-wont-arrive-until-2035/",
+     "s": "iAfrica",
+     "d": "Sep 22",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Kenya and Stanford's Hoover Institution Sign Five-Year Deal on AI and Data Governance",
      "u": "https://techafricanews.com/2026/09/21/kenya-stanford-hoover-institution-ai-data-governance-deal/",
      "s": "TechAfrica News",
@@ -1568,6 +1652,13 @@
      "s": "arXiv",
      "d": "Sep 21",
      "dot": "dot-arxiv"
+    },
+    {
+     "t": "What digital sovereignty and data localisation should mean for Africa",
+     "u": "https://africa.hyperscalers.news/data-center/what-digital-sovereignty-and-data-localisation-should-mean-for-africa/",
+     "s": "Africa Hyperscalers",
+     "d": "Sep 21",
+     "dot": "dot-infra"
     },
     {
      "t": "Cassava Technologies CEO calls for African ownership of AI compute infrastructure",
