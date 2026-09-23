@@ -3,12 +3,13 @@
  "band_points": 5.0,
  "infrastructure": {
   "adca": {
-   "active_mw": 360,
-   "under_construction_mw": 238,
-   "planned_mw": 656,
+   "active_mw": 360.0,
+   "under_construction_mw": 238.0,
+   "planned_mw": 656.0,
    "global_share_pct": 0.6,
-   "source": "Africa Data Centres Association, Data Centres in Africa 2026: The Economic Report",
-   "url": "https://africadca.org/en/data-centres-in-africa-2026-the-economic-report"
+   "source": "Africa Data Centres Association",
+   "url": "https://africadca.org/en/data-centres-in-africa-2026-the-economic-report",
+   "source_title": "Data Centres in Africa 2026: The Economic Report"
   },
   "our_register_mw_by_status": {
    "operational": 6.4,
@@ -37,6 +38,10 @@
   "countries_total": 10,
   "awarded_month_hours": 216.0,
   "mean_pct_of_wage_month": 187.3,
+  "cheapest_model": "Claude Opus 5 (routed)",
+  "cheapest_pct_of_wage_month": 74.9,
+  "dearest_model": "GPT-6 Astra",
+  "dearest_pct_of_wage_month": 374.7,
   "median_pct_of_wage_month": 153.1,
   "min_pct": 55.3,
   "max_pct": 439.6,

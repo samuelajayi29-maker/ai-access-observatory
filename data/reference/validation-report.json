@@ -1,12 +1,12 @@
 {
  "release": "v2026.10",
  "schema_version": "2026.10.2",
- "validated_at": "2026-09-22",
+ "validated_at": "2026-09-23",
  "counts": {
-  "rows_checked": 761,
-  "rows_passing": 363,
-  "rows_quarantined": 398,
-  "rows_missing_archive": 55,
+  "rows_checked": 765,
+  "rows_passing": 365,
+  "rows_quarantined": 400,
+  "rows_missing_archive": 59,
   "rows_with_bad_url": 19,
   "rows_missing_status": 0,
   "indicators": 87,
@@ -110,6 +110,13 @@
    "passing": 0,
    "quarantined": 36,
    "missing_archive": 0,
+   "bad_url": 0
+  },
+  "infra-capacity.csv": {
+   "rows": 4,
+   "passing": 2,
+   "quarantined": 2,
+   "missing_archive": 4,
    "bad_url": 0
   }
  },

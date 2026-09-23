@@ -16,8 +16,8 @@
   /* Ink -------------------------------------------------------------------- */
   --ink: #1a1815;
   --ink-secondary: #55504a;
-  --ink-note: #706a61;      /* small muted text: 5.1:1 on --paper */
-  --ink-muted: #8a837a;
+  --ink-note: #706a61;      /* small muted text: 5.13:1 on --paper */
+  --ink-muted: #706a61;     /* was #8a837a, 3.59:1 and below the AA floor */
   --action: #1b4f8a;
 
   /* Status ----------------------------------------------------------------- */
@@ -392,7 +392,8 @@ footer a { color: var(--ink-secondary); border: 0; }
 .sig--research, .rst--preprint { border-color: var(--derived); color: var(--derived); }
 .rst--peerreviewed { border-color: var(--measured); color: var(--measured); }
 .rst--institutional { border-color: var(--pillar-infra); color: var(--pillar-infra); }
-.rst--topic, .sig--topic { border-style: dotted; }
+.rst--topic, .sig--context { border-color: var(--rule-strong); color: var(--ink-secondary); font-style: italic; }
+.sig--topic { border-style: dotted; }
 .sig--government, .rst--bucket { border-color: var(--rule-strong); color: var(--ink-secondary); }
 .sig--company { border-color: var(--proposal); color: var(--proposal); }
 .why { display: block; font-size: var(--step--1); color: var(--ink-secondary);
