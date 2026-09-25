@@ -1,24 +1,10 @@
 {
- "updated": "2026-09-25",
+ "updated": "2026-09-23",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
-    {
-     "t": "Uganda pitches BPO and creative industries as new export engines",
-     "u": "https://news.outsourceaccelerator.com/uganda-bpo-creative-exports/",
-     "s": "Outsource Accelerator",
-     "d": "Sep 24",
-     "dot": "dot-jobs"
-    },
-    {
-     "t": "Can Labour Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring",
-     "u": "https://arxiv.org/abs/2609.30058",
-     "s": "arXiv",
-     "d": "Sep 24",
-     "dot": "dot-arxiv"
-    },
     {
      "t": "AI is scrambling the tech job market",
      "u": "https://news.outsourceaccelerator.com/ai-tech-job-market/",
@@ -676,30 +662,9 @@
    "label": "Access & Pricing",
    "items": [
     {
-     "t": "Africa's $30 smartphone goal is becoming harder to achieve",
-     "u": "https://techcabal.com/2026/09/24/africas-30-smartphone-goal-is-becoming-harder-to-achieve/",
-     "s": "TechCabal",
-     "d": "Sep 24",
-     "dot": "dot-access"
-    },
-    {
-     "t": "How Africa's AI boom is leaving 100 million disabled citizens behind",
-     "u": "https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/",
-     "s": "TechCabal",
-     "d": "Sep 24",
-     "dot": "dot-access"
-    },
-    {
      "t": "OpenAI and Anthropic cut frontier model prices ten days after calling for a slowdown",
      "u": "https://www.digitimes.com/news/a20260923VL200/anthropic-openai-opus-claude-price.html",
      "s": "DigiTimes",
-     "d": "Sep 23",
-     "dot": "dot-price"
-    },
-    {
-     "t": "GPT-6 Luna vs Gemini 3.8 Flash vs DeepSeek: what the sub-$1 API tier actually costs",
-     "u": "https://apidog.com/blog/gpt-6-luna-vs-gemini-flash-vs-deepseek/",
-     "s": "Apidog",
      "d": "Sep 23",
      "dot": "dot-price"
     },
@@ -751,13 +716,6 @@
      "s": "GSMA",
      "d": "Sep 21",
      "dot": "dot-access"
-    },
-    {
-     "t": "Who Pays for the KV Cache? Attributing Shared AI Inference Spend Across Kubernetes and LLM Provider Bills",
-     "u": "https://arxiv.org/abs/2609.24991",
-     "s": "arXiv",
-     "d": "Sep 21",
-     "dot": "dot-arxiv"
     },
     {
      "t": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",
@@ -1598,27 +1556,6 @@
    "label": "Infrastructure",
    "items": [
     {
-     "t": "Africa's $76B network investment will go further when risk comes down, says GSMA's Caroline Mbugua",
-     "u": "https://techafricanews.com/2026/09/24/africas-76b-network-investment-will-go-further-when-risk-comes-down-says-gsmas-caroline-mbugua/",
-     "s": "TechAfrica News",
-     "d": "Sep 24",
-     "dot": "dot-infra"
-    },
-    {
-     "t": "NuRAN Wireless to pilot Starlink LEO backhaul at rural site in Nigeria",
-     "u": "https://techafricanews.com/2026/09/24/nuran-wireless-starlink-leo-backhaul-pilot-nigeria/",
-     "s": "TechAfrica News",
-     "d": "Sep 24",
-     "dot": "dot-infra"
-    },
-    {
-     "t": "Microsoft sets out a six-part definition of digital sovereignty to South African officials",
-     "u": "https://iafrica.com/microsoft-sets-out-a-six-part-definition-of-digital-sovereignty-to-south-african-officials/",
-     "s": "iAfrica",
-     "d": "Sep 24",
-     "dot": "dot-infra"
-    },
-    {
      "t": "Egypt and NVIDIA Discuss AI Cooperation, Skills Development and Innovation",
      "u": "https://techafricanews.com/2026/09/22/egypt-nvidia-discuss-ai-cooperation-skills-development-innovation/",
      "s": "TechAfrica News",
@@ -1657,13 +1594,6 @@
      "t": "Offshore wind is pitched to power Cape Town's data centres. It won't arrive until 2035",
      "u": "https://iafrica.com/offshore-wind-is-pitched-to-power-cape-towns-data-centres-it-wont-arrive-until-2035/",
      "s": "iAfrica",
-     "d": "Sep 22",
-     "dot": "dot-infra"
-    },
-    {
-     "t": "Minister pitches South Africa as a submarine cable and digital infrastructure hub",
-     "u": "https://www.connectingafrica.com/connectivity/minister-pitches-south-africa-as-digital-infrastructure-hub",
-     "s": "Connecting Africa",
      "d": "Sep 22",
      "dot": "dot-infra"
     },
