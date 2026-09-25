@@ -226,6 +226,15 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px soli
 .signals a { color: var(--ink); border: 0; }
 .signals a:hover { border-bottom: 1px solid var(--rule-strong); }
 .signals .meta { display: block; color: var(--ink-muted); font-size: var(--step--1); }
+.signal-groups { max-width: var(--measure-wide); }
+.signal-group { border-top: 1px solid var(--rule-strong); }
+.signal-group:last-child { border-bottom: 1px solid var(--rule-strong); }
+.signal-group summary { display: flex; align-items: baseline; justify-content: space-between; gap: var(--s-4);
+                       flex-wrap: wrap; padding: var(--s-4) 0; cursor: pointer; font-weight: 600; }
+.signal-group summary:hover { color: var(--ink-secondary); }
+.signal-group__count { font-family: var(--font-data); font-size: var(--step--1); font-weight: 400;
+                       color: var(--ink-note); }
+.signal-group .feed { margin-bottom: var(--s-6); }
 
 /* ---------- charts --------------------------------------------------------- */
 .chart-block { margin: 0 0 var(--s-8); }
