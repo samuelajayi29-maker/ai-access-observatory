@@ -1,7 +1,7 @@
 {
  "release": "v2026.10",
  "schema_version": "2026.10.2",
- "validated_at": "2026-09-25",
+ "validated_at": "2026-09-26",
  "counts": {
   "rows_checked": 765,
   "rows_passing": 365,
@@ -13,6 +13,80 @@
   "indicators": 87,
   "indicators_failing_contract": 0,
   "fx_rows_checked": 130
+ },
+ "country_context": {
+  "rows": 324,
+  "reported": 320,
+  "no_information": 4,
+  "by_indicator": {
+   "IT.NET.USER.ZS": {
+    "label": "Individuals using the Internet (% of population)",
+    "reported": 54,
+    "no_information": 0
+   },
+   "IT.CEL.SETS.P2": {
+    "label": "Mobile cellular subscriptions (per 100 people)",
+    "reported": 54,
+    "no_information": 0
+   },
+   "IT.NET.BBND.P2": {
+    "label": "Fixed broadband subscriptions (per 100 people)",
+    "reported": 54,
+    "no_information": 0
+   },
+   "EG.ELC.ACCS.ZS": {
+    "label": "Access to electricity (% of population)",
+    "reported": 54,
+    "no_information": 0
+   },
+   "IC.ELC.OUTG.ZS": {
+    "label": "Firms experiencing electrical outages (% of firms)",
+    "reported": 52,
+    "no_information": 2
+   },
+   "IC.FRM.OUTG.ZS": {
+    "label": "Value lost due to electrical outages (% of sales for affected firms)",
+    "reported": 52,
+    "no_information": 2
+   }
+  }
+ },
+ "provider_country_availability": {
+  "rows": 324,
+  "products": 6,
+  "listed_supported": 324,
+  "by_product": {
+   "OpenAI|ChatGPT web and mobile": {
+    "provider": "OpenAI",
+    "product": "ChatGPT web and mobile",
+    "listed_supported": 54
+   },
+   "OpenAI|OpenAI API": {
+    "provider": "OpenAI",
+    "product": "OpenAI API",
+    "listed_supported": 54
+   },
+   "Anthropic|Claude.ai web and mobile": {
+    "provider": "Anthropic",
+    "product": "Claude.ai web and mobile",
+    "listed_supported": 54
+   },
+   "Anthropic|Anthropic commercial API": {
+    "provider": "Anthropic",
+    "product": "Anthropic commercial API",
+    "listed_supported": 54
+   },
+   "Google|Gemini web app": {
+    "provider": "Google",
+    "product": "Gemini web app",
+    "listed_supported": 54
+   },
+   "Google|Google AI Studio and Gemini API": {
+    "provider": "Google",
+    "product": "Google AI Studio and Gemini API",
+    "listed_supported": 54
+   }
+  }
  },
  "per_register": {
   "model-prices": {

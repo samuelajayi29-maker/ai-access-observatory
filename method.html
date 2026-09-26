@@ -103,7 +103,7 @@ the task share, and the page says so rather than leaving a hole.</p>
       <div class="q"><b>51</b><span class="q__label">rows without an archive</span></div>
       <div class="q"><b>19</b><span class="q__label">rows with a weak URL</span><span class="q__note">bare domain or session container</span></div>
       <div class="q"><b>0</b><span class="q__label">rows citing a source that no longer resolves</span><span class="q__note">the page returns 404 and no archive snapshot exists, so the row cannot be verified by anyone</span></div>
-      <div class="q"><b>44</b><span class="q__label">countries with an indicator</span></div>
+      <div class="q"><b>44</b><span class="q__label">countries with AI-specific indicator data</span></div>
       <div class="q"><b>87</b><span class="q__label">indicators published</span></div>
       <div class="q"><b>0</b><span class="q__label">indicators failing the contract</span><span class="q__note">must be zero</span></div>
       <div class="q"><b>7</b><span class="q__label">distinct indicator sources</span></div>
@@ -126,7 +126,7 @@ the task share, and the page says so rather than leaving a hole.</p>
         <h3><span class="figlabel">Figure 1</span>Signals added to the record, by month</h3>
         <p class="chart-block__deck">Stories recorded per series. This is the monitoring layer&#x27;s own output, not a measure of the market</p>
       </div>
-      <a href="https://samuelajayi29-maker.github.io/ai-access-observatory/charts/record-activity.svg"><img src="charts/record-activity.svg" alt="Signals added to the record by month and series: May 8, Jun 3, Jul 102, Aug 114, Sep 158. This measures the monitoring layer, not the market."></a>
+      <a href="https://samuelajayi29-maker.github.io/ai-access-observatory/charts/record-activity.svg"><img src="charts/record-activity.svg" alt="Signals added to the record by month and series: May 8, Jun 3, Jul 102, Aug 114, Sep 184. This measures the monitoring layer, not the market."></a>
       <p class="chart-block__caption">Added daily · counts from the live record</p>
       <p class="chart-block__status"></p>
       <div class="chart-block__foot">
@@ -138,7 +138,7 @@ the task share, and the page says so rather than leaving a hole.</p>
           <a href="#embed">Embed</a>
         </span>
       </div>
-      <details class="datatable"><summary>Data table &mdash; the values plotted above</summary><table class="register"><thead><tr><th>Month 2026</th><th>Jobs</th><th>Access</th><th>Infrastructure</th><th>Total</th></tr></thead><tbody><tr><td>May</td><td>3</td><td>2</td><td>3</td><td>8</td></tr><tr><td>Jun</td><td>0</td><td>2</td><td>1</td><td>3</td></tr><tr><td>Jul</td><td>20</td><td>36</td><td>46</td><td>102</td></tr><tr><td>Aug</td><td>26</td><td>42</td><td>46</td><td>114</td></tr><tr><td>Sep</td><td>41</td><td>43</td><td>74</td><td>158</td></tr></tbody></table></details>
+      <details class="datatable"><summary>Data table &mdash; the values plotted above</summary><table class="register"><thead><tr><th>Month 2026</th><th>Jobs</th><th>Access</th><th>Infrastructure</th><th>Total</th></tr></thead><tbody><tr><td>May</td><td>3</td><td>2</td><td>3</td><td>8</td></tr><tr><td>Jun</td><td>0</td><td>2</td><td>1</td><td>3</td></tr><tr><td>Jul</td><td>20</td><td>36</td><td>46</td><td>102</td></tr><tr><td>Aug</td><td>26</td><td>42</td><td>46</td><td>114</td></tr><tr><td>Sep</td><td>47</td><td>50</td><td>87</td><td>184</td></tr></tbody></table></details>
     </figure>
     <h2 class="sec">What this record is</h2>
     <div class="prose">
@@ -206,9 +206,23 @@ the task share, and the page says so rather than leaving a hole.</p>
         <tr><td class="pr">Infrastructure</td><td class="num">22</td><td>16 rows without a published capacity; privately built facilities that are never announced; competing estimates put the continent at 223–230 facilities and 360 MW active</td></tr>
         <tr><td class="pr">Access, models</td><td class="num">13</td><td>African providers and locally hosted inference are not yet priced; launch-era capability scores are on an earlier scale</td></tr>
         <tr><td class="pr">Access, devices</td><td class="num">13</td><td>No country-level entry-tier device price; no index of our own construction</td></tr>
-        <tr><td class="pr">Jobs</td><td class="num">93</td><td>A feed, not a register: structured fields are not yet extracted, so no country totals exist</td></tr>
+        <tr><td class="pr">Jobs</td><td class="num">99</td><td>Daily signals remain unstructured; separate country-level exposure measures are listed below with their coverage and gaps</td></tr>
       </tbody>
     </table>
+    <h2 class="sec">Country coverage and missing information</h2>
+    <p class="sec-note">The country profiles cover all 54 African countries. “No information” means no country-level value or record appears in the stated dataset in this release; it is not zero and is not a claim that no source exists anywhere. Country totals below are computed from the published registers and the separate context snapshot.</p>
+    <table class="register">
+      <thead><tr><th>Measure</th><th>With information</th><th>No information</th><th>Scope and limitation</th></tr></thead>
+      <tbody><tr><td class="pr">Jobs · task exposure</td><td class="num">36 of 54</td><td class="num">18</td><td>Published task-country summary; no country values are inferred.</td></tr><tr><td class="pr">Jobs · employment-weighted exposure</td><td class="num">33 of 54</td><td class="num">21</td><td>Separate model and denominator from the task-share measure.</td></tr><tr><td class="pr">Access · signup and payment evidence sample</td><td class="num">10 of 54</td><td class="num">44</td><td>Observed signup/payment sample; it does not define provider-wide supported regions.</td></tr><tr><td class="pr">Access · AI product support lists</td><td class="num">54 of 54</td><td class="num">0</td><td>Any one listed product-country pair; geographic listing only.</td></tr><tr><td class="pr">Access · Anthropic — Anthropic commercial API</td><td class="num">54 of 54</td><td class="num">0</td><td>Official supported-region list; not a test of signup, features, local payment, price, or uptime.</td></tr><tr><td class="pr">Access · Anthropic — Claude.ai web and mobile</td><td class="num">54 of 54</td><td class="num">0</td><td>Official supported-region list; not a test of signup, features, local payment, price, or uptime.</td></tr><tr><td class="pr">Access · Google — Gemini web app</td><td class="num">54 of 54</td><td class="num">0</td><td>Official supported-region list; not a test of signup, features, local payment, price, or uptime.</td></tr><tr><td class="pr">Access · Google — Google AI Studio and Gemini API</td><td class="num">54 of 54</td><td class="num">0</td><td>Official supported-region list; not a test of signup, features, local payment, price, or uptime.</td></tr><tr><td class="pr">Access · OpenAI — ChatGPT web and mobile</td><td class="num">54 of 54</td><td class="num">0</td><td>Official supported-region list; not a test of signup, features, local payment, price, or uptime.</td></tr><tr><td class="pr">Access · OpenAI — OpenAI API</td><td class="num">54 of 54</td><td class="num">0</td><td>Official supported-region list; not a test of signup, features, local payment, price, or uptime.</td></tr><tr><td class="pr">Access · AI workload affordability</td><td class="num">8 of 54</td><td class="num">46</td><td>No wage figure is estimated where the required input is absent.</td></tr><tr><td class="pr">Infrastructure · named projects</td><td class="num">8 of 54</td><td class="num">46</td><td>Named project records are not a complete facility census; shared and unallocated rows are not assigned to countries.</td></tr><tr><td class="pr">Infrastructure · country capacity values</td><td class="num">4 of 54</td><td class="num">50</td><td>A project without a published country-level capacity stays blank.</td></tr><tr><td class="pr">Context · Access to electricity (% of population)</td><td class="num">54 of 54</td><td class="num">0</td><td>Latest available annual observations; years 2024–2024. Not an AI-specific measure.</td></tr><tr><td class="pr">Context · Firms experiencing electrical outages (% of firms)</td><td class="num">52 of 54</td><td class="num">2</td><td>Latest available annual observations; years 2009–2025. Not an AI-specific measure.</td></tr><tr><td class="pr">Context · Value lost due to electrical outages (% of sales for affected firms)</td><td class="num">52 of 54</td><td class="num">2</td><td>Latest available annual observations; years 2009–2025. Not an AI-specific measure.</td></tr><tr><td class="pr">Context · Mobile cellular subscriptions (per 100 people)</td><td class="num">54 of 54</td><td class="num">0</td><td>Latest available annual observations; years 2022–2024. Not an AI-specific measure.</td></tr><tr><td class="pr">Context · Fixed broadband subscriptions (per 100 people)</td><td class="num">54 of 54</td><td class="num">0</td><td>Latest available annual observations; years 2021–2024. Not an AI-specific measure.</td></tr><tr><td class="pr">Context · Individuals using the Internet (% of population)</td><td class="num">54 of 54</td><td class="num">0</td><td>Latest available annual observations; years 2017–2024. Not an AI-specific measure.</td></tr></tbody>
+    </table>
+    <div class="prose">
+      <h3>Why the Jobs gaps stay gaps</h3>
+      <p>The Global Automation Atlas replication data publish country summaries for 36 African countries. A 2026 ILO working paper models a broader country sample, but does not publish a reusable table of country-level estimates. We therefore keep the two adopted measures separate and do not digitize chart points or substitute estimates from another method. <a href="https://www.automationatlas.org/data/" target="_blank" rel="noopener">Atlas data</a> · <a href="https://www.ilo.org/publications/disruption-without-dividend-how-digital-divide-and-task-differences-split" target="_blank" rel="noopener">ILO Working Paper 166</a>.</p>
+      <h3>Infrastructure country gaps</h3>
+      <p>The African Data Centres Association's 2026 report estimates 220–230 facilities across 38 countries and gives continental active, under-construction and planned capacity. Those continent-wide values cannot be assigned to a specific country's profile without country-level facility and capacity evidence. This register therefore shows named projects and numeric MW only where a source identifies them; an unlisted country is not treated as having zero capacity. <a href="https://africadca.org/wp-content/uploads/2026/02/DataCentresInAfrica2026-EN.pdf" target="_blank" rel="noopener">Read the ADCA 2026 report</a>.</p>
+      <h3>Context indicators are not AI outcomes</h3>
+      <p>Internet use and broadband subscriptions describe general connectivity; household electricity access does not establish reliable power for a data centre. Firm outage measures are survey observations and their years vary. The values are kept outside the AI-specific indicator registry and cannot enter its headline figures. The CSV records each observation year, country-specific API query, originating dataset, and retrieval date. The World Bank API's MRNEV option returns the most recent non-empty observation; all values were retrieved from the API snapshot last updated 2026-07-13. <a href="data/reference/country-context.csv">Download the country context snapshot</a> · <a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/898581" target="_blank" rel="noopener">World Bank API query guide</a> · <a href="https://datacatalog.worldbank.org/public-licenses" target="_blank" rel="noopener">World Bank licensing</a>.</p>
+    </div>
     <h2 class="sec">Affordability and the exchange rate</h2>
     <div class="prose">
       <h3>Cost of intelligence as a share of income</h3>
@@ -270,7 +284,7 @@ the task share, and the page says so rather than leaving a hole.</p>
     <div class="box">
       <h3>Download the data</h3>
       <div class="files"><a href="data/ai-access-observatory.xlsx" download>Excel</a><a href="data/items.csv" download>CSV</a><a href="data/items.json" download>JSON</a><a href="data/affordability.csv" download>Affordability</a></div>
-      <p>Every row carries its source link. Compiled 2026-09-23.</p>
+      <p>Every row carries its source link. Compiled 2026-09-26.</p>
     </div>
     <div class="box" id="embed">
       <h3>Embed a chart</h3>
@@ -297,7 +311,7 @@ the task share, and the page says so rather than leaving a hole.</p>
     <div class="cite">
       <div>
         <h3>Cite this release</h3>
-        <div class="cite__block" id="cite-plain">Astrolabe Africa. The record: Africa&#x27;s AI economy across infrastructure, access and jobs. v2026.10, compiled 2026-09-23. https://samuelajayi29-maker.github.io/ai-access-observatory/</div>
+        <div class="cite__block" id="cite-plain">Astrolabe Africa. The record: Africa&#x27;s AI economy across infrastructure, access and jobs. v2026.10, compiled 2026-09-26. https://samuelajayi29-maker.github.io/ai-access-observatory/</div>
         <div class="cite__actions">
           <button type="button" data-copy="cite-plain">Copy citation</button>
           <button type="button" data-copy="cite-bibtex">Copy BibTeX</button>
@@ -307,7 +321,7 @@ the task share, and the page says so rather than leaving a hole.</p>
   title        = {The record: Africa&#x27;s AI economy across infrastructure, access and jobs},
   author       = {{Astrolabe Africa}},
   year         = {2026},
-  note         = {Release v2026.10, compiled 2026-09-23},
+  note         = {Release v2026.10, compiled 2026-09-26},
   howpublished = {\url{https://samuelajayi29-maker.github.io/ai-access-observatory/}}
 }</div>
         </details>

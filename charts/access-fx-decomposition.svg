@@ -48,5 +48,5 @@
 <text x="167" y="488" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">currency effect</text>
 <text x="150" y="510" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">A positive figure means the local-currency price rose. Where a model has only one observation the rate-card component is zero by absence of evidence, not by evidence of no change.</text>
 <line x1="28" y1="510" x2="872" y2="510" stroke="#E2E5E2"/>
-<text x="28" y="529" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">Data: the Observatory record · CC BY 4.0 · compiled 2026-09-23 · official rates only; parallel rates are held separately and never blended</text>
+<text x="28" y="529" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">Data: the Observatory record · CC BY 4.0 · compiled 2026-09-26 · official rates only; parallel rates are held separately and never blended</text>
 </svg>

@@ -20,16 +20,16 @@
 <div class="accent-rule"></div>
 <div class="wrap pagehead">
   <h1>Kenya</h1>
-  <p class="standfirst">What the record measures about Kenya, and nothing it does not. All three pillars carry data here.</p>
-  <span class="protochip">4 indicators and 23 signals recorded.</span>
+  <p class="standfirst">AI-specific country records and supporting context for Kenya, kept separate. 3 of three AI pillars have a country record.</p>
+  <span class="protochip">4 AI-specific indicators; 6 of six context measures reported.</span>
 </div>
 <div class="wrap layout">
   <div>
     <div class="readout">
-      <div><b>4</b><small>indicators held</small></div>
-      <div><b>3 of 3</b><small>pillars with data</small></div>
-      <div><b>23</b><small>signals recorded</small></div>
-      <div><b>KEN</b><small>ISO alpha-3</small></div>
+      <div><b>4</b><small>AI-specific indicators held</small></div>
+      <div><b>3 of 3</b><small>AI pillars with a country record</small></div>
+      <div><b>6 of 6</b><small>context measures reported</small></div>
+      <div><b>26</b><small>signals recorded</small></div>
     </div>
     <h2 class="sec">Jobs</h2>
         <div class="cp-row">
@@ -64,7 +64,16 @@
           <p class="cp-src">Computed from Claude Opus 5 (Anthropic) rate card and the statutory minimum wage</p>
           <p class="cp-method">A month of moderate use = 20 standard workloads at the median frontier rate card ($11.25 per workload), divided by the monthly statutory minimum wage.</p>
           <p class="cp-recompute">Recompute from <code>data/affordability.csv</code>.</p>
-        </div><h2 class="sec">Infrastructure</h2>
+        </div>
+        <h3 class="cp-ind">Official provider location listings</h3>
+        <p class="sec-note">This records a country appearing on a provider's published geographic support list. It does not test signup, payment, every plan or feature, or service uptime. API and consumer products are separate.</p>
+        <table class="register"><thead><tr><th>Provider</th><th>Product</th><th>Published status</th><th>Evidence</th></tr></thead>
+        <tbody><tr><td class="pr">OpenAI</td><td>ChatGPT web and mobile</td><td>Listed as supported</td><td><a href="https://help.openai.com/en/articles/7947663-chatgpt-supported-countries" target="_blank" rel="noopener">Official list</a></td></tr><tr><td class="pr">OpenAI</td><td>OpenAI API</td><td>Listed as supported</td><td><a href="https://help.openai.com/en/articles/5347006-openai-api-supported-countries-and-territories" target="_blank" rel="noopener">Official list</a></td></tr><tr><td class="pr">Anthropic</td><td>Claude.ai web and mobile</td><td>Listed as supported</td><td><a href="https://www.anthropic.com/supported-countries" target="_blank" rel="noopener">Official list</a></td></tr><tr><td class="pr">Anthropic</td><td>Anthropic commercial API</td><td>Listed as supported</td><td><a href="https://www.anthropic.com/supported-countries" target="_blank" rel="noopener">Official list</a></td></tr><tr><td class="pr">Google</td><td>Gemini web app</td><td>Listed as supported</td><td><a href="https://support.google.com/gemini/answer/13575153?hl=en" target="_blank" rel="noopener">Official list</a></td></tr><tr><td class="pr">Google</td><td>Google AI Studio and Gemini API</td><td>Listed as supported</td><td><a href="https://ai.google.dev/gemini-api/docs/available-regions" target="_blank" rel="noopener">Official list</a></td></tr></tbody></table>
+        <p class="sec-note"><a href="data/reference/ai-provider-country-availability.csv">Download the full source register</a>.</p>
+        <h3 class="cp-ind">Signup and payment observations in the 10-country sample</h3>
+        <p class="sec-note">These records describe the stated signup, card and payment evidence for sampled countries. They are separate from official geographic support lists and do not calculate affordability.</p>
+        <table class="register"><thead><tr><th>Provider</th><th>Signup status</th><th>Evidence</th></tr></thead>
+        <tbody><tr><td class="pr">OpenAI</td><td>yes</td><td><a href="https://help.openai.com/en/articles/7947663-chatgpt-supported-countries" target="_blank" rel="noopener">Source</a></td></tr><tr><td class="pr">Anthropic</td><td>yes</td><td><a href="https://www.anthropic.com/supported-countries" target="_blank" rel="noopener">Source</a></td></tr><tr><td class="pr">Google</td><td>yes</td><td><a href="https://support.google.com/googleplay/answer/2651410?hl=en&amp;co=GENIE.CountryCode%3DKE" target="_blank" rel="noopener">Source</a></td></tr><tr><td class="pr">xAI</td><td>unclear</td><td><a href="https://x.ai/legal/terms-of-service" target="_blank" rel="noopener">Source</a></td></tr><tr><td class="pr">Perplexity</td><td>unclear</td><td><a href="https://www.perplexity.ai/help-center/en/articles/10353002-billing-faq-for-pro-plan-subscribers" target="_blank" rel="noopener">Source</a></td></tr><tr><td class="pr">DeepSeek</td><td>unclear</td><td><a href="https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html?locale=en_US" target="_blank" rel="noopener">Source</a></td></tr></tbody></table><h2 class="sec">Infrastructure</h2>
         <div class="cp-row">
           <div class="cp-head">
             <h3 class="cp-ind">Data centre capacity named in the register</h3>
@@ -75,37 +84,39 @@
           <p class="cp-src">Observatory infrastructure register</p>
           <p class="cp-method">Sum of published capacity in the register. Projects without a published capacity figure are excluded, never counted as zero. Announced capacity is not operational capacity and the two are never added together in a single figure.</p>
           <p class="cp-recompute">Recompute from <code>data/infrastructure.json</code>.</p>
-        </div>
+        </div><h3 class="cp-ind">Named data-centre projects in the register</h3><ul class="feed"><li><b>Nairobi Two (NBO2)</b> &mdash; operational; 6.4 MW stated; 2026-09-07. <a href="https://techafricanews.com/2026/09/07/digital-realty-opens-6-4mw-nairobi-two-data-center-east-africa/" target="_blank" rel="noopener">Source</a></li><li><b>Airtel Kenya data centre</b> &mdash; under_construction; No capacity figure published; 2027-07. <a href="https://techafricanews.com/2026/08/07/airtels-150m-kenya-data-centre-now-targets-july-2027-launch/" target="_blank" rel="noopener">Source</a></li><li><b>Mombasa AI data centre</b> &mdash; announced; No capacity figure published; 2026-08-17. <a href="https://www.standardmedia.co.ke/business/business/article/2001557829/greeks-amaco-partners-with-us-firm-for-planned-kenya-data-centre" target="_blank" rel="noopener">Source</a></li><li><b>Google African cloud region (Nairobi)</b> &mdash; announced; No capacity figure published; 2028. <a href="https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/" target="_blank" rel="noopener">Source</a></li></ul>
+
+    <h2 class="sec">Country context</h2>
+    <p class="sec-note">Connectivity and power conditions help explain the environment for digital services. These are not AI-use, AI-adoption or data-centre-capacity measures. Each value keeps its source year.</p>
+    <h3 class="cp-ind">Connectivity</h3><table class="register"><thead><tr><th>Measure</th><th>Value / status</th><th>Year</th><th>Source</th></tr></thead><tbody><tr><td class="pr">Individuals using the Internet (% of population)<br><small>IT.NET.USER.ZS</small></td><td>35.0 % of population</td><td>2024</td><td><a href="https://api.worldbank.org/v2/country/KEN/indicator/IT.NET.USER.ZS?format=json&amp;mrnev=1&amp;per_page=100" target="_blank" rel="noopener">World Bank API</a></td></tr><tr><td class="pr">Mobile cellular subscriptions (per 100 people)<br><small>IT.CEL.SETS.P2</small></td><td>126.5 subscriptions per 100 people</td><td>2024</td><td><a href="https://api.worldbank.org/v2/country/KEN/indicator/IT.CEL.SETS.P2?format=json&amp;mrnev=1&amp;per_page=100" target="_blank" rel="noopener">World Bank API</a></td></tr><tr><td class="pr">Fixed broadband subscriptions (per 100 people)<br><small>IT.NET.BBND.P2</small></td><td>3.0 subscriptions per 100 people</td><td>2024</td><td><a href="https://api.worldbank.org/v2/country/KEN/indicator/IT.NET.BBND.P2?format=json&amp;mrnev=1&amp;per_page=100" target="_blank" rel="noopener">World Bank API</a></td></tr></tbody></table><h3 class="cp-ind">Power and reliability</h3><table class="register"><thead><tr><th>Measure</th><th>Value / status</th><th>Year</th><th>Source</th></tr></thead><tbody><tr><td class="pr">Access to electricity (% of population)<br><small>EG.ELC.ACCS.ZS</small></td><td>77.0 % of population</td><td>2024</td><td><a href="https://api.worldbank.org/v2/country/KEN/indicator/EG.ELC.ACCS.ZS?format=json&amp;mrnev=1&amp;per_page=100" target="_blank" rel="noopener">World Bank API</a></td></tr><tr><td class="pr">Firms experiencing electrical outages (% of firms)<br><small>IC.ELC.OUTG.ZS</small></td><td>74.6 % of firms</td><td>2025</td><td><a href="https://api.worldbank.org/v2/country/KEN/indicator/IC.ELC.OUTG.ZS?format=json&amp;mrnev=1&amp;per_page=100" target="_blank" rel="noopener">World Bank API</a></td></tr><tr><td class="pr">Value lost due to electrical outages (% of sales for affected firms)<br><small>IC.FRM.OUTG.ZS</small></td><td>0.0 % of sales among firms affected</td><td>2025</td><td><a href="https://api.worldbank.org/v2/country/KEN/indicator/IC.FRM.OUTG.ZS?format=json&amp;mrnev=1&amp;per_page=100" target="_blank" rel="noopener">World Bank API</a></td></tr></tbody></table>
+    <p class="sec-note"><a href="data/reference/country-context.csv">Download all country context values and source links</a>.</p>
 
     <h2 class="sec">Signals</h2>
     <p class="sec-note">Signals whose headline names this country, newest first. Tags say what kind of
     source each one is.</p>
-    <ul class="feed"><li><span class="dot dot-jobs"></span><a href="https://techtrendske.co.ke/2026/09/21/google-trains-kenyan-gen-z-creators-students-on-gemini-ai-tools/" target="_blank" rel="noopener">Google trains Kenyan Gen-Z creators and students on Gemini AI tools</a><span class="sig sig--topic">Models and capability</span><span class="meta">TechTrendsKE &middot; Sep 21</span></li><li><span class="dot dot-jobs"></span><a href="https://peopledaily.digital/business/kenyas-next-export-boom-may-be-online-as-wto-predicts-ai-could-reshape-global-trade" target="_blank" rel="noopener">Kenya&#x27;s next export boom may be online as WTO predicts AI could reshape global trade</a><span class="sig sig--topic">Employment and outsourcing</span><span class="meta">People Daily &middot; Sep 19</span></li><li><span class="dot dot-jobs"></span><a href="https://techafricanews.com/2026/09/18/kenya-plans-expand-bpo-gbs-opportunities-beyond-nairobi/" target="_blank" rel="noopener">Kenya Plans to Expand BPO and GBS Opportunities Beyond Nairobi</a><span class="sig sig--topic">Employment and outsourcing</span><span class="meta">TechAfrica News &middot; Sep 18</span></li><li><span class="dot dot-jobs"></span><a href="https://iafrica.com/by-2034-a-robot-in-the-us-will-undercut-kenyan-garment-workers-that-is-the-clock-africas-industrial-strategy-is-running-against/" target="_blank" rel="noopener">By 2034 a Robot in the US Will Undercut Kenyan Garment Workers. That Is the Clock Africa&#x27;s Industrial Strategy Is Running Against</a><span class="sig sig--topic">Policy and regulation</span><span class="meta">iAfrica &middot; Sep 13</span></li><li><span class="dot dot-jobs"></span><a href="https://allafrica.com/stories/202609080096.html" target="_blank" rel="noopener">Kenya: Remote Work 2.0 - Can Kenya Become Africa&#x27;s Digital Services Hub?</a><span class="sig sig--topic">Employment and outsourcing</span><span class="meta">allAfrica &middot; Sep 8</span></li><li><span class="dot dot-jobs"></span><a href="https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html" target="_blank" rel="noopener">Kenyans Made a Living Writing College Essays. Then A.I. Arrived.</a><span class="sig sig--topic">Employment and outsourcing</span><span class="meta">The New York Times &middot; Sep 5</span></li><li><span class="dot dot-jobs"></span><a href="https://allafrica.com/stories/202608170255.html" target="_blank" rel="noopener">Kenya: &#x27;Jobs Will Be Lost&#x27; - Thigo Urges Kenyans to Adapt to AI Revolution</a><span class="sig sig--topic">Employment and outsourcing</span><span class="meta">allAfrica &middot; Aug 17</span></li><li><span class="dot dot-jobs"></span><a href="https://allafrica.com/stories/202608170191.html" target="_blank" rel="noopener">AI Will Take Some Jobs - but Create 78 Million More, Kenya&#x27;s Tech Envoy Forecasts</a><span class="sig sig--topic">Investment and funding</span><span class="meta">AllAfrica (Capital FM) &middot; Aug 17</span></li><li><span class="dot dot-jobs"></span><a href="https://techafricanews.com/2026/08/13/kenya-and-aws-deepen-partnership-to-build-globally-competitive-digital-talent/" target="_blank" rel="noopener">Kenya and AWS deepen partnership to build globally competitive digital talent</a><span class="sig sig--topic">Skills and talent</span><span class="meta">TechAfrica News &middot; Aug 13</span></li><li><span class="dot dot-jobs"></span><a href="https://weetracker.com/2026/07/24/kenya-ai-minimum-pay-mental-healthcare-workers/" target="_blank" rel="noopener">Kenya&#x27;s New Pay &amp; Mental Health Rules For AI Data Workers</a><span class="sig sig--topic">Employment and outsourcing</span><span class="meta">Weetracker &middot; Jul 24</span></li></ul>
+    <ul class="feed"><li><span class="dot dot-jobs"></span><a href="https://techafricanews.com/2026/09/24/kenya-digital-literacy-programme-10382-junior-schools/" target="_blank" rel="noopener">Kenya expands digital literacy programme to 10,382 junior schools</a><span class="sig sig--topic">Employment and outsourcing</span><span class="meta">TechAfrica News &middot; Sep 24</span></li><li><span class="dot dot-jobs"></span><a href="https://techtrendske.co.ke/2026/09/21/google-trains-kenyan-gen-z-creators-students-on-gemini-ai-tools/" target="_blank" rel="noopener">Google trains Kenyan Gen-Z creators and students on Gemini AI tools</a><span class="sig sig--topic">Models and capability</span><span class="meta">TechTrendsKE &middot; Sep 21</span></li><li><span class="dot dot-jobs"></span><a href="https://peopledaily.digital/business/kenyas-next-export-boom-may-be-online-as-wto-predicts-ai-could-reshape-global-trade" target="_blank" rel="noopener">Kenya&#x27;s next export boom may be online as WTO predicts AI could reshape global trade</a><span class="sig sig--topic">Employment and outsourcing</span><span class="meta">People Daily &middot; Sep 19</span></li><li><span class="dot dot-jobs"></span><a href="https://techafricanews.com/2026/09/18/kenya-plans-expand-bpo-gbs-opportunities-beyond-nairobi/" target="_blank" rel="noopener">Kenya Plans to Expand BPO and GBS Opportunities Beyond Nairobi</a><span class="sig sig--topic">Employment and outsourcing</span><span class="meta">TechAfrica News &middot; Sep 18</span></li><li><span class="dot dot-jobs"></span><a href="https://iafrica.com/by-2034-a-robot-in-the-us-will-undercut-kenyan-garment-workers-that-is-the-clock-africas-industrial-strategy-is-running-against/" target="_blank" rel="noopener">By 2034 a Robot in the US Will Undercut Kenyan Garment Workers. That Is the Clock Africa&#x27;s Industrial Strategy Is Running Against</a><span class="sig sig--topic">Policy and regulation</span><span class="meta">iAfrica &middot; Sep 13</span></li><li><span class="dot dot-jobs"></span><a href="https://allafrica.com/stories/202609080096.html" target="_blank" rel="noopener">Kenya: Remote Work 2.0 - Can Kenya Become Africa&#x27;s Digital Services Hub?</a><span class="sig sig--topic">Employment and outsourcing</span><span class="meta">allAfrica &middot; Sep 8</span></li><li><span class="dot dot-jobs"></span><a href="https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html" target="_blank" rel="noopener">Kenyans Made a Living Writing College Essays. Then A.I. Arrived.</a><span class="sig sig--topic">Employment and outsourcing</span><span class="meta">The New York Times &middot; Sep 5</span></li><li><span class="dot dot-jobs"></span><a href="https://allafrica.com/stories/202608170255.html" target="_blank" rel="noopener">Kenya: &#x27;Jobs Will Be Lost&#x27; - Thigo Urges Kenyans to Adapt to AI Revolution</a><span class="sig sig--topic">Employment and outsourcing</span><span class="meta">allAfrica &middot; Aug 17</span></li><li><span class="dot dot-jobs"></span><a href="https://allafrica.com/stories/202608170191.html" target="_blank" rel="noopener">AI Will Take Some Jobs - but Create 78 Million More, Kenya&#x27;s Tech Envoy Forecasts</a><span class="sig sig--topic">Investment and funding</span><span class="meta">AllAfrica (Capital FM) &middot; Aug 17</span></li><li><span class="dot dot-jobs"></span><a href="https://techafricanews.com/2026/08/13/kenya-and-aws-deepen-partnership-to-build-globally-competitive-digital-talent/" target="_blank" rel="noopener">Kenya and AWS deepen partnership to build globally competitive digital talent</a><span class="sig sig--topic">Skills and talent</span><span class="meta">TechAfrica News &middot; Aug 13</span></li></ul>
 
     <h2 class="sec">About this page</h2>
     <div class="prose">
       <h3>Generated, not written</h3>
-      <p>Every figure here is pulled from the indicator registry, which is built from the registers. The page
-      exists because the record measures something about Kenya; it does not fill the gaps to look
-      complete, and a pillar with no entry reports <em>data unavailable</em> rather than zero.</p>
+      <p>This profile exists for every African country in the Observatory's geographic scope. The AI-specific indicator count excludes the context table. “No information” means no country-level value or record was available in the named dataset; it does not mean zero or prove that no information exists elsewhere.</p>
 
       <h3>Where the numbers come from</h3>
-      <p>Each indicator states its own source, date, evidence status and the file it can be recomputed from.
-      Country profiles are the same data as the series pages, arranged by country instead of by theme.</p>
+      <p>AI-specific figures come from the indicator registry and pillar registers. The separate context snapshot uses World Bank API indicators, with the originating ITU, ESMAP and Enterprise Surveys sources named in the downloadable file. Every context row links to its country-specific API query. Product geography is separately transcribed from the cited providers' supported-region lists, retrieved 25 September 2026. <a href="data/reference/ai-provider-country-availability-method.md">Read the matching method and limitations</a>.</p>
     </div></div>
 
   <aside class="side">
     <div class="box">
       <h3>Download the data</h3>
-      <div class="files"><a href="data/indicators.json" download>Indicator registry</a><a href="data/ai-access-observatory.xlsx" download>All registers</a></div>
-      <p>Every row carries its source link. Compiled 2026-09-23.</p>
+      <div class="files"><a href="data/indicators.json" download>Indicator registry</a><a href="data/reference/country-context.csv" download>Country context</a><a href="data/reference/ai-provider-country-availability.csv" download>Provider country availability</a><a href="data/reference/ai-provider-country-availability-method.md" download>Availability method</a><a href="data/ai-access-observatory.xlsx" download>All registers</a></div>
+      <p>Every row carries its source link. Compiled 2026-09-26.</p>
     </div>
     <div class="box">
       <h3>This release</h3>
-      <ul><li><b>Coverage</b>4 indicators, 23 signals</li><li><b>Corrections</b>none open</li></ul>
+      <ul><li><b>Coverage</b>4 AI indicators, 6/6 context values</li><li><b>Signals</b>26 recorded</li></ul>
     </div>
     <div class="box">
-      <h3>Indicators held</h3>
+      <h3>Country evidence</h3>
       <ul><li><b>Share of tasks economically exposed to AI</b>2026</li><li><b>Employment-weighted AI exposure of the occupatio</b>2026</li><li><b>Illustrative AI workload as a share of a monthly</b>2026-05-01</li></ul>
     </div>
     <div class="box">
@@ -120,7 +131,7 @@
     <div class="cite">
       <div>
         <h3>Cite this release</h3>
-        <div class="cite__block" id="cite-plain">Astrolabe Africa. The record: Africa&#x27;s AI economy across infrastructure, access and jobs. v2026.10, compiled 2026-09-23. https://samuelajayi29-maker.github.io/ai-access-observatory/</div>
+        <div class="cite__block" id="cite-plain">Astrolabe Africa. The record: Africa&#x27;s AI economy across infrastructure, access and jobs. v2026.10, compiled 2026-09-26. https://samuelajayi29-maker.github.io/ai-access-observatory/</div>
         <div class="cite__actions">
           <button type="button" data-copy="cite-plain">Copy citation</button>
           <button type="button" data-copy="cite-bibtex">Copy BibTeX</button>
@@ -130,7 +141,7 @@
   title        = {The record: Africa&#x27;s AI economy across infrastructure, access and jobs},
   author       = {{Astrolabe Africa}},
   year         = {2026},
-  note         = {Release v2026.10, compiled 2026-09-23},
+  note         = {Release v2026.10, compiled 2026-09-26},
   howpublished = {\url{https://samuelajayi29-maker.github.io/ai-access-observatory/}}
 }</div>
         </details>

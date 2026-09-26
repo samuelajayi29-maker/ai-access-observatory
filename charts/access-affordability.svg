@@ -297,5 +297,5 @@
 <text x="575.4" y="544" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">more than monthly income</text>
 <text x="228" y="566" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">Cells show the share of monthly GNI per capita; a value above 100% means a month of use costs more than a month of average income.</text>
 <line x1="28" y1="558" x2="1118" y2="558" stroke="#E2E5E2"/>
-<text x="28" y="577" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">Data: the Observatory record · CC BY 4.0 · compiled 2026-09-23 · income base is the Atlas method, which smooths exchange rates</text>
+<text x="28" y="577" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">Data: the Observatory record · CC BY 4.0 · compiled 2026-09-26 · income base is the Atlas method, which smooths exchange rates</text>
 </svg>
