@@ -17,9 +17,9 @@
    "metric": "Shipment outlook, 2026",
    "change_pct": -25,
    "type": "forecast",
-   "source": "Legit.ng / analyst forecast",
-   "url": "https://www.legit.ng/business-economy/technology/",
-   "note": "Continental shipments projected to plunge nearly 25% as component costs push entry-level devices up."
+   "source": "Legit.ng reporting Omdia",
+   "url": "https://www.legit.ng/business-economy/technology/1698983-nigerias-smartphone-boom-risk-sharp-shipment-decline-soaring-costs-2026/",
+   "note": "Legit.ng reported Omdia's February 2026 forecast of an approximately 23% to 25% annual shipment decline. Omdia's later Q2 outlook revised the full-year estimate to -26%; this earlier forecast is retained as dated reporting, not the current outlook."
   },
   {
    "date": "2026-05-14",
@@ -27,19 +27,19 @@
    "metric": "Excise duty on smartphones",
    "change_pct": 25,
    "type": "proposal",
-   "source": "Kenya Finance Bill 2026",
-   "url": "https://www.businessdailyafrica.com/bd/economy/kenya-finance-bill-2026-smartphones-excise-duty",
-   "note": "Proposed 25% excise duty, which would land directly on device prices."
+   "source": "Business Insider Africa",
+   "url": "https://africa.businessinsider.com/local/markets/kenya-finance-bill-2026-targets-smartphones-with-25-excise-duty/khwl0bp",
+   "note": "Proposed 25% excise duty, which would land directly on device prices. Proposed 25% excise duty, assessed at activation, which would land directly on device prices."
   },
   {
-   "date": "2026-05-27",
+   "date": "2026-05-26",
    "scope": "South Africa",
    "metric": "Smartphone market growth, Q1 2026",
    "change_pct": 17,
    "type": "actual",
-   "source": "IDC",
-   "url": "https://my.idc.com/getdoc.jsp?containerId=IDC_P37251",
-   "note": "Continental market grew 3% in the same quarter as the premium mix shifted up."
+   "source": "Omdia",
+   "url": "https://omdia.tech.informa.com/pr/2026/may/africas-smartphone-shipments-grew-3percent-in-1q26-but-2026-outlook-falls-28percent-amid-affordability-pressures",
+   "note": "South Africa's smartphone shipments grew 17% year on year in 1Q26. The same Omdia release reports Africa overall +3% and Nigeria +8%."
   },
   {
    "date": "2026-06-03",
@@ -47,29 +47,29 @@
    "metric": "Device prices, 2026 projection",
    "change_pct": 30,
    "type": "projection",
-   "source": "Aggregated reporting",
-   "url": "https://techcabal.com/",
-   "note": "Market grew 8% in Q1 2026, but component costs were projected to lift device prices by up to 30%."
+   "source": "TechCabal",
+   "url": "https://techcabal.com/2026/06/03/nigerias-smartphone-market-grew-8-in-q1/",
+   "note": "TechCabal reports Omdia's projection that component-cost pressure could raise Nigerian smartphone prices by up to 30% in 2026; this is a forecast, not a measured price index."
   },
   {
-   "date": "2026-06-23",
+   "date": "2026-04-24",
    "scope": "Emerging markets",
    "metric": "Device prices",
    "change_pct": 50,
    "type": "actual",
-   "source": "IDC",
-   "url": "https://my.idc.com/getdoc.jsp?containerId=IDC_P37251",
-   "note": "Prices in several emerging markets up as much as 40% to 50%, weighing on price-sensitive demand."
+   "source": "TechWire Asia, citing IDC",
+   "url": "https://techwireasia.com/2026/04/global-smartphone-market-2026-memory-crisis/",
+   "note": "A secondary report attributes increases of up to 40–50% in some emerging markets to IDC, but does not identify countries, price bases or a comparable sample. Retained as a quarantined regional report; no country-level value is inferred."
   },
   {
-   "date": "2026-07-05",
+   "date": "2026-03-31",
    "scope": "Global components",
    "metric": "DRAM contract price, Q2 2026",
    "change_pct": 63,
    "type": "actual",
    "source": "TrendForce",
-   "url": "https://www.trendforce.com/presscenter/",
-   "note": "58% to 63% quarter on quarter; NAND contract prices up 70% to 75%."
+   "url": "https://www.trendforce.com/presscenter/news/20260331-12995.html",
+   "note": "TrendForce forecast conventional DRAM contract prices to rise 58–63% quarter on quarter and NAND Flash 70–75% in 2Q26. This is a contract-price forecast, not a realised consumer-device price change."
   },
   {
    "date": "2026-08-20",
@@ -77,9 +77,15 @@
    "metric": "Shipments, 2026 forecast",
    "change_pct": -26,
    "type": "forecast",
-   "source": "Omdia",
-   "url": "https://omdia.tech.informa.com/",
-   "note": "Forecast cut to a 26% decline; market leader Transsion shipments fell 14% and its share slipped below 50%."
+   "source": "Telecompaper (reporting Omdia)",
+   "url": "https://www.telecompaper.com/news/africa-smartphone-market-faces-26-slump-in-2026-after-q2-brings-first-decline-in-3-years-omdia--1580390",
+   "note": "Telecompaper reports Omdia's 26% full-year 2026 decline forecast. The Omdia primary URL is retained in original_source_url but has no retrievable Wayback snapshot; this secondary-source row is quarantined from headline use.",
+   "evidence_status": "trade_reporting",
+   "headline_eligible": false,
+   "originating_source": "Omdia",
+   "original_source_url": "https://omdia.tech.informa.com/om146997/africas-smartphone-market-is-expected-to-decline-26-in-2026-following-the-first-contraction-in-three-years",
+   "archive_url": "https://web.archive.org/web/20260820102247/https://www.telecompaper.com/news/africa-smartphone-market-faces-26-slump-in-2026-after-q2-brings-first-decline-in-3-years-omdia--1580390",
+   "archived_at": "2026-08-20"
   },
   {
    "date": "2026-08-20",
@@ -87,9 +93,15 @@
    "metric": "Shipments, Q2 2026",
    "change_pct": -34,
    "type": "actual",
-   "source": "Omdia via TelecomLead",
-   "url": "https://telecomlead.com/smartphone/africa-smartphone-shipments-fall-7-in-q2-2026-as-sub-100-devices-plunge-34",
-   "note": "Close to 3 million units lost. The segment's share fell from 45% to 30% of African shipments in three quarters."
+   "source": "Telecompaper (reporting Omdia)",
+   "url": "https://www.telecompaper.com/news/africa-smartphone-market-faces-26-slump-in-2026-after-q2-brings-first-decline-in-3-years-omdia--1580390",
+   "note": "Telecompaper's public report preview attributes a 34% 2Q26 decline, nearly 3 million units, in Africa's sub-$100 segment to Omdia. The Omdia primary URL is retained in original_source_url but has no retrievable Wayback snapshot; this secondary-source row is quarantined from headline use.",
+   "evidence_status": "trade_reporting",
+   "headline_eligible": false,
+   "originating_source": "Omdia",
+   "original_source_url": "https://omdia.tech.informa.com/om146997/africas-smartphone-market-is-expected-to-decline-26-in-2026-following-the-first-contraction-in-three-years",
+   "archive_url": "https://web.archive.org/web/20260820102247/https://www.telecompaper.com/news/africa-smartphone-market-faces-26-slump-in-2026-after-q2-brings-first-decline-in-3-years-omdia--1580390",
+   "archived_at": "2026-08-20"
   },
   {
    "date": "2026-08-25",
@@ -97,9 +109,15 @@
    "metric": "Shipments, Q2 2026",
    "change_pct": -7,
    "type": "actual",
-   "source": "Omdia / Cyprus Mail",
-   "url": "https://cyprus-mail.com/2026/08/25/africas-smartphone-market-suffers-first-decline-in-three-years/",
-   "note": "The first year-on-year decline in three years, driven by rising device prices."
+   "source": "Telecompaper (reporting Omdia)",
+   "url": "https://www.telecompaper.com/news/africa-smartphone-market-faces-26-slump-in-2026-after-q2-brings-first-decline-in-3-years-omdia--1580390",
+   "note": "Telecompaper reports Omdia's estimate that African smartphone shipments fell 7% year on year in 2Q26. The Omdia primary URL is retained in original_source_url but has no retrievable Wayback snapshot; this secondary-source row is quarantined from headline use.",
+   "evidence_status": "trade_reporting",
+   "headline_eligible": false,
+   "originating_source": "Omdia",
+   "original_source_url": "https://omdia.tech.informa.com/om146997/africas-smartphone-market-is-expected-to-decline-26-in-2026-following-the-first-contraction-in-three-years",
+   "archive_url": "https://web.archive.org/web/20260820102247/https://www.telecompaper.com/news/africa-smartphone-market-faces-26-slump-in-2026-after-q2-brings-first-decline-in-3-years-omdia--1580390",
+   "archived_at": "2026-08-20"
   },
   {
    "date": "2026-09-01",
@@ -107,12 +125,12 @@
    "metric": "Telecoms average selling price, H1 2026",
    "change_pct": 9.8,
    "type": "actual",
-   "source": "NielsenIQ, State of the Retail Nation",
-   "url": "https://mybroadband.co.za/news/smartphones/",
-   "note": "Unit sales fell 7.9% over the same period: more spent, fewer devices bought."
+   "source": "TechCentral, citing NielsenIQ",
+   "url": "https://techcentral.co.za/smartphone-prices-south-africa-niq-2026/285592/",
+   "note": "TechCentral reports NielsenIQ's H1 2026 South African smartphone average selling prices rose 9.8% year on year while unit volumes fell 7.9%. This is a retail-sales mix measure, not a controlled device-price index."
   },
   {
-   "date": "2026-09-05",
+   "date": "2026-08-26",
    "scope": "Global",
    "metric": "Average selling price, 2026",
    "value": 581,
@@ -120,21 +138,21 @@
    "change_pct": 27.6,
    "type": "projection",
    "source": "IDC",
-   "url": "https://my.idc.com/getdoc.jsp?containerId=IDC_P37251",
-   "note": "Revised up from a $550 forecast a quarter earlier, with brands passing increased costs to buyers."
+   "url": "https://www.idc.com/resource-center/blog/smartphone-shipments-set-for-record-16-7-drop-in-2026-as-the-memory-crisis-hits-full-force/",
+   "note": "IDC forecasts a worldwide 2026 smartphone average selling price of $581, up 27.6% year on year, revised from $550."
   },
   {
-   "date": "2026-09-05",
+   "date": "2026-09-03",
    "scope": "Middle East & Africa",
    "metric": "Device prices",
    "change_pct": 18,
    "type": "actual",
-   "source": "IDC via aggregated reporting",
-   "url": "https://my.idc.com/getdoc.jsp?containerId=IDC_P37251",
-   "note": "Existing models up about 15% globally, new launches 25% costlier, with the Middle East and Africa at 18%."
+   "source": "Counterpoint Research",
+   "url": "https://counterpointresearch.com/en/insights/global-existing-smartphone-prices-climb-about-15-percent-in-2026",
+   "note": "Counterpoint reports existing smartphone prices up 15% globally on average so far in 2026; new launches 25% costlier year on year; Middle East & Africa up 18%."
   },
   {
-   "date": "2026-09-08",
+   "date": "2026-08-29",
    "scope": "Nigeria",
    "metric": "Entry-level price band",
    "value_low": 150000,
@@ -142,8 +160,8 @@
    "unit": "NGN",
    "type": "actual",
    "source": "Legit.ng",
-   "url": "https://www.legit.ng/business-economy/technology/",
-   "note": "What affordable now buys. Analysts expect a further 15% to 30% rise through the rest of 2026, with buyers returning to feature phones."
+   "url": "https://www.legit.ng/business-economy/technology/1727923-is-era-cheap-smartphones-nigeria-what-n100000-n300000-buys/",
+   "note": "Legit.ng reviewed current Nigerian retail listings and reported budget-phone prices across the ₦100,000–₦300,000 range on 29 August 2026. These are sampled listings, not a national price index."
   }
  ],
  "superseded_by": [

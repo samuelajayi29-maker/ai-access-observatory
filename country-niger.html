@@ -21,12 +21,12 @@
 <div class="wrap pagehead">
   <h1>Niger</h1>
   <p class="standfirst">AI-specific country records and supporting context for Niger, kept separate. 2 of three AI pillars have a country record.</p>
-  <span class="protochip">2 AI-specific indicators; 6 of six context measures reported.</span>
+  <span class="protochip">3 AI-specific indicators; 6 of six context measures reported.</span>
 </div>
 <div class="wrap layout">
   <div>
     <div class="readout">
-      <div><b>2</b><small>AI-specific indicators held</small></div>
+      <div><b>3</b><small>AI-specific indicators held</small></div>
       <div><b>2 of 3</b><small>AI pillars with a country record</small></div>
       <div><b>6 of 6</b><small>context measures reported</small></div>
       <div><b>0</b><small>signals recorded</small></div>
@@ -39,7 +39,7 @@
           </div>
           <p class="cp-prov"><span class="chip chip--modelled"><span class="chip__mark" aria-hidden="true"></span>modelled</span>
           <span class="cp-tier">Academic research &middot; Tier 2 &middot; 2026</span></p>
-          <p class="cp-src">Garg, Crosta and Baier, Global Automation Atlas (2026)</p>
+          <p class="cp-src"><a href="https://arxiv.org/abs/2605.17086" target="_blank" rel="noopener">Garg, Crosta and Baier, Global Automation Atlas (2026)</a></p>
           <p class="cp-method">Tasks rated 2 or 3 on a 0-3 exposure scale, relabelled under each country&#x27;s conditions. Not employment-weighted and not a share of jobs.</p>
           <p class="cp-recompute">Recompute from <code>data/jobs-atlas-exposure.csv</code>.</p>
         </div>
@@ -50,10 +50,21 @@
           </div>
           <p class="cp-prov"><span class="chip chip--modelled"><span class="chip__mark" aria-hidden="true"></span>modelled</span>
           <span class="cp-tier">Academic research &middot; Tier 2 &middot; 2026</span></p>
-          <p class="cp-src">Garg, Crosta and Baier, The Jagged Global Economy (2026)</p>
+          <p class="cp-src"><a href="https://arxiv.org/abs/2607.05404" target="_blank" rel="noopener">Garg, Crosta and Baier, The Jagged Global Economy (2026)</a></p>
           <p class="cp-method">Employment-share-weighted average exposure of a country&#x27;s occupational structure.</p>
           <p class="cp-recompute">Recompute from <code>data/jobs-exposure.csv</code>.</p>
-        </div><h2 class="sec">Access</h2><p class="cp-none"><strong>No information.</strong> No information on a comparable AI-workload affordability figure or local payment observation from the current sample. Official provider location listings appear below and do not measure price or successful access.</p>
+        </div><h2 class="sec">Access</h2>
+        <div class="cp-row">
+          <div class="cp-head">
+            <h3 class="cp-ind">Illustrative AI-use basket as a share of monthly GNI per capita</h3>
+            <p class="cp-value">360 <span class="cp-unit">% of monthly GNI per capita</span></p>
+          </div>
+          <p class="cp-prov"><span class="chip chip--modelled"><span class="chip__mark" aria-hidden="true"></span>modelled</span>
+          <span class="cp-tier">Derived from reported pricing and official economic data &middot; Tier 4 &middot; 2025</span></p>
+          <p class="cp-src"><a href="https://api.worldbank.org/v2/country/NER/indicator/NY.GNP.PCAP.CD?format=json&amp;mrnev=1&amp;per_page=100" target="_blank" rel="noopener">Computed from Claude Opus 5 rate card and World Bank GNI per-capita data</a></p>
+          <p class="cp-method">20 standard workloads at the median frontier rate card ($11.25 per workload), divided by monthly GNI per capita on the Atlas method (annual value divided by 12). Published only when the latest non-empty GNI observation is within the five-calendar-year freshness window.</p>
+          <p class="cp-recompute">Recompute from <code>data/affordability.csv</code>.</p>
+        </div>
         <h3 class="cp-ind">Official provider location listings</h3>
         <p class="sec-note">This records a country appearing on a provider's published geographic support list. It does not test signup, payment, every plan or feature, or service uptime. API and consumer products are separate.</p>
         <table class="register"><thead><tr><th>Provider</th><th>Product</th><th>Published status</th><th>Evidence</th></tr></thead>
@@ -87,11 +98,11 @@
     </div>
     <div class="box">
       <h3>This release</h3>
-      <ul><li><b>Coverage</b>2 AI indicators, 6/6 context values</li><li><b>Signals</b>0 recorded</li></ul>
+      <ul><li><b>Coverage</b>3 AI indicators, 6/6 context values</li><li><b>Signals</b>0 recorded</li></ul>
     </div>
     <div class="box">
       <h3>Country evidence</h3>
-      <ul><li><b>Share of tasks economically exposed to AI</b>2026</li><li><b>Employment-weighted AI exposure of the occupatio</b>2026</li></ul>
+      <ul><li><b>Share of tasks economically exposed to AI</b>2026</li><li><b>Employment-weighted AI exposure of the occupatio</b>2026</li><li><b>Illustrative AI-use basket as a share of monthly</b>2025</li></ul>
     </div>
     <div class="box">
       <h3>Permanent link</h3>

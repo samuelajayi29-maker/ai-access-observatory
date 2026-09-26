@@ -5,11 +5,14 @@
     "capacity_mw": 6.4,
     "capex_usd": null,
     "capex_local": null,
+    "committed_capital_lower_bound_usd": null,
+    "investment_target_usd": null,
     "status": "operational",
+    "status_detail": null,
     "online": "2026-09-07",
     "url": "https://techafricanews.com/2026/09/07/digital-realty-opens-6-4mw-nairobi-two-data-center-east-africa/"
    },
-   "hash": "560129f4238a1c7f",
+   "hash": "77731ac10bdb3b4e",
    "date": "2026-09-07"
   },
   "NSIA AI data centre": {
@@ -17,11 +20,14 @@
     "capacity_mw": 100,
     "capex_usd": null,
     "capex_local": null,
+    "committed_capital_lower_bound_usd": null,
+    "investment_target_usd": null,
     "status": "announced",
+    "status_detail": null,
     "online": null,
     "url": "https://businessday.ng/technology/article/nsia-bets-on-100mw-ai-data-centre-to-power-nigerias-digital-economy/"
    },
-   "hash": "dc9dbfd87fd58ab4",
+   "hash": "0038438981dd0b64",
    "date": "2026-09-01"
   },
   "MTN AI-ready data centres": {
@@ -29,11 +35,14 @@
     "capacity_mw": 150,
     "capex_usd": null,
     "capex_local": null,
+    "committed_capital_lower_bound_usd": null,
+    "investment_target_usd": null,
     "status": "announced",
+    "status_detail": null,
     "online": null,
-    "url": "https://nairametrics.com/2026/08/26/mtn-to-develop-150mw-ai-data-centres-in-nigeria-south-africa-with-uae-back"
+    "url": "https://nairametrics.com/2026/08/26/mtn-to-develop-150mw-ai-data-centres-in-nigeria-south-africa-with-uae-backed-investor/"
    },
-   "hash": "329c7b31714be003",
+   "hash": "a9f69da7401a2897",
    "date": "2026-08-26"
   },
   "Vodafone, Elsewedy and Cassava data centre": {
@@ -41,11 +50,14 @@
     "capacity_mw": null,
     "capex_usd": 1000000000,
     "capex_local": null,
+    "committed_capital_lower_bound_usd": null,
+    "investment_target_usd": null,
     "status": "announced",
+    "status_detail": null,
     "online": null,
     "url": "https://techafricanews.com/2026/09/08/egypt-vodafone-elsewedy-cassava-1bn-data-centre/"
    },
-   "hash": "2c3297c42a9874f3",
+   "hash": "0587059d6fea1f67",
    "date": "2026-09-08"
   },
   "Hassan Allam data centres (first phase)": {
@@ -53,11 +65,14 @@
     "capacity_mw": null,
     "capex_usd": 400000000,
     "capex_local": null,
+    "committed_capital_lower_bound_usd": null,
+    "investment_target_usd": null,
     "status": "approved",
+    "status_detail": null,
     "online": null,
     "url": "https://www.datacenterknowledge.com/data-center-construction/new-data-center-developments-august-2026"
    },
-   "hash": "e748ea121c81a4a1",
+   "hash": "37871bda12999666",
    "date": "2026-08-05"
   },
   "Heka Data AI hub": {
@@ -65,11 +80,14 @@
     "capacity_mw": null,
     "capex_usd": null,
     "capex_local": null,
+    "committed_capital_lower_bound_usd": null,
+    "investment_target_usd": null,
     "status": "exploring",
+    "status_detail": null,
     "online": null,
     "url": "https://techafricanews.com/2026/09/04/egypt-explores-major-data-centre-ai-hub-project-heka-data-us-consortium/"
    },
-   "hash": "2064124a61fc497b",
+   "hash": "695b247b212a86b3",
    "date": "2026-09-04"
   },
   "Huawei AI data centre bid": {
@@ -77,11 +95,14 @@
     "capacity_mw": null,
     "capex_usd": null,
     "capex_local": null,
+    "committed_capital_lower_bound_usd": null,
+    "investment_target_usd": null,
     "status": "exploring",
+    "status_detail": null,
     "online": null,
-    "url": "https://www.bloomberg.com/news/articles/2026-08-26/huawei-egypt-ai-ascend-chips-test-us-tech-diplomacy-nvidia-"
+    "url": "https://www.bloomberg.com/news/articles/2026-08-26/huawei-courts-egypt-ai-chips-in-test-of-us-tech-diplomacy"
    },
-   "hash": "ef076d3ade4d1d46",
+   "hash": "b0741e2bcc6107c1",
    "date": "2026-08-26"
   },
   "Airtel Kenya data centre": {
@@ -89,11 +110,14 @@
     "capacity_mw": null,
     "capex_usd": 150000000,
     "capex_local": null,
+    "committed_capital_lower_bound_usd": null,
+    "investment_target_usd": null,
     "status": "under_construction",
+    "status_detail": null,
     "online": "2027-07",
     "url": "https://techafricanews.com/2026/08/07/airtels-150m-kenya-data-centre-now-targets-july-2027-launch/"
    },
-   "hash": "bc8e3a29a0445576",
+   "hash": "e28a49e186d550b4",
    "date": "2026-08-07"
   },
   "Mombasa AI data centre": {
@@ -101,95 +125,119 @@
     "capacity_mw": null,
     "capex_usd": null,
     "capex_local": "KES 194bn",
+    "committed_capital_lower_bound_usd": null,
+    "investment_target_usd": null,
     "status": "announced",
+    "status_detail": null,
     "online": null,
     "url": "https://www.standardmedia.co.ke/business/business/article/2001557829/greeks-amaco-partners-with-us-firm-for-planned-kenya-data-centre"
    },
-   "hash": "27c91f29246d4d8b",
+   "hash": "d7c3c09659f25b57",
    "date": "2026-08-17"
   },
   "Cape Town hyperscale campus (two sites)": {
    "payload": {
-    "capacity_mw": 174,
+    "capacity_mw": null,
     "capex_usd": null,
     "capex_local": null,
-    "status": "approved",
+    "committed_capital_lower_bound_usd": null,
+    "investment_target_usd": null,
+    "status": "appeal_pending",
+    "status_detail": "Planning approval legally suspended pending appeal; no immediate development plan reported.",
     "online": null,
-    "url": "https://iafrica.com/cape-town-approves-two-hyperscale-data-centres-totalling-174mw-among-africas-largest-new-g"
+    "url": "https://www.dailymaverick.co.za/article/2026-09-20-data-centre-deal-cape-town-forced-back-to-the-drawing-board/"
    },
-   "hash": "2cf449d4985583d0",
-   "date": "2026-07-24"
+   "hash": "80b23332805144d9",
+   "date": "2026-07-14"
   },
   "Equinix Cape Town campus": {
    "payload": {
     "capacity_mw": null,
     "capex_usd": null,
     "capex_local": null,
+    "committed_capital_lower_bound_usd": null,
+    "investment_target_usd": null,
     "status": "approved",
+    "status_detail": null,
     "online": null,
     "url": "https://furtherafrica.com/2026/08/04/equinix-wins-approval-for-major-cape-town-data-centre-campus/"
    },
-   "hash": "66657587d9a3ae90",
+   "hash": "69665c58573dc59b",
    "date": "2026-08-04"
   },
-  "Teraco portfolio (including JB7)": {
+  "Teraco JB7 data centre expansion": {
    "payload": {
-    "capacity_mw": 228,
+    "capacity_mw": 40,
     "capex_usd": null,
     "capex_local": null,
+    "committed_capital_lower_bound_usd": null,
+    "investment_target_usd": null,
     "status": "under_construction",
-    "online": "2026-12",
-    "url": "https://voxilens.com/"
+    "status_detail": "MyBroadband reported it was still expanding on 27 August 2026; the 2026 completion date is a schedule, not confirmation of commissioning.",
+    "online": "2026",
+    "url": "https://mybroadband.co.za/news/cloud-hosting/664345-one-data-centre-in-south-africa-will-use-more-power-than-kimberley-or-nelspruit.html"
    },
-   "hash": "2061769ec3b31e26",
-   "date": "2026-07-01"
+   "hash": "afea98d7cd29142f",
+   "date": "2024-11-13"
   },
   "Cassava AI Factory": {
    "payload": {
     "capacity_mw": null,
     "capex_usd": 700000000,
     "capex_local": null,
+    "committed_capital_lower_bound_usd": null,
+    "investment_target_usd": null,
     "status": "operational",
+    "status_detail": null,
     "online": "2026-08-26",
     "url": "https://techafricanews.com/2026/08/26/cassava-ai-factory-ranks-36th-top500/"
    },
-   "hash": "3c45bc9816c7b51e",
+   "hash": "5ac89e7dcd8ea343",
    "date": "2026-08-26"
   },
   "Raxio expansion programme": {
    "payload": {
     "capacity_mw": null,
-    "capex_usd": 380000000,
+    "capex_usd": null,
     "capex_local": null,
+    "committed_capital_lower_bound_usd": 380000000,
+    "investment_target_usd": null,
     "status": "funding",
+    "status_detail": "Portfolio-level committed capital, not project capex.",
     "online": null,
-    "url": "https://www.techafricanews.com/2026/07/14/raxio-secures-over-us380-million-to-accelerate-africa-data-centre-ex"
+    "url": "https://www.raxiogroup.com/raxio-tops-us380-million-in-committed-capital-as-roha-and-meridiam-boost-stakes-amid-sixfold-growth-surge-for-its-african-data-centres/"
    },
-   "hash": "6b3914ab7d38ee2c",
+   "hash": "d85284cc3f934eb0",
    "date": "2026-07-14"
   },
   "Africa Data Centres Accra": {
    "payload": {
-    "capacity_mw": 30,
+    "capacity_mw": 10,
     "capex_usd": null,
     "capex_local": null,
-    "status": "under_construction",
+    "committed_capital_lower_bound_usd": null,
+    "investment_target_usd": null,
+    "status": "announced",
+    "status_detail": "2023 plan; current commissioning or construction status not confirmed in reviewed sources.",
     "online": null,
-    "url": "https://datacentresafrica.com/"
+    "url": "https://www.africadatacentres.com/africa-data-centres-announces-that-it-will-start-construction-on-a-new-facility-in-accra-ghana/"
    },
-   "hash": "39e381afd3f9ecb1",
-   "date": "2026-06-01"
+   "hash": "34d96a859dabfabc",
+   "date": "2023-05-18"
   },
   "Wiocc capital raise": {
    "payload": {
     "capacity_mw": null,
     "capex_usd": 300000000,
     "capex_local": null,
+    "committed_capital_lower_bound_usd": null,
+    "investment_target_usd": null,
     "status": "funding",
+    "status_detail": null,
     "online": null,
     "url": "https://techcentral.co.za/wiocc-300-million-afc-vision-invest/285628/"
    },
-   "hash": "576b00aa0d0c14f7",
+   "hash": "8379445f73e70146",
    "date": "2026-09-01"
   },
   "Côte d'Ivoire sovereign data centre": {
@@ -197,11 +245,14 @@
     "capacity_mw": null,
     "capex_usd": 170000000,
     "capex_local": null,
+    "committed_capital_lower_bound_usd": null,
+    "investment_target_usd": null,
     "status": "approved",
+    "status_detail": null,
     "online": null,
     "url": "https://developingtelecoms.com/telecom-business/telecom-investment-mergers/20549-cote-divoire-approves-starlin"
    },
-   "hash": "d5c4d2fc96ad342a",
+   "hash": "03837c65c20a7508",
    "date": "2026-07-20"
   },
   "Gabon sovereign data centre": {
@@ -209,11 +260,14 @@
     "capacity_mw": null,
     "capex_usd": null,
     "capex_local": null,
+    "committed_capital_lower_bound_usd": null,
+    "investment_target_usd": null,
     "status": "operational",
+    "status_detail": null,
     "online": "2026-07-08",
     "url": "https://itweb.africa/article/gabon-launches-sovereign-data-centre/xnklOvz14JDq4Ymz"
    },
-   "hash": "3d592bc08225f0a9",
+   "hash": "d2874f001e5fa2f5",
    "date": "2026-07-08"
   },
   "Cybastion AI hub": {
@@ -221,11 +275,14 @@
     "capacity_mw": null,
     "capex_usd": 75000000,
     "capex_local": null,
+    "committed_capital_lower_bound_usd": null,
+    "investment_target_usd": null,
     "status": "announced",
+    "status_detail": null,
     "online": null,
     "url": "https://furtherafrica.com/2026/09/02/cybastion-cameroon-investment-anchors-a-75m-ai-hub/"
    },
-   "hash": "0828f178922f57c4",
+   "hash": "34e113b7e57b59b5",
    "date": "2026-09-02"
   },
   "Google African cloud region (Nairobi)": {
@@ -233,35 +290,44 @@
     "capacity_mw": null,
     "capex_usd": null,
     "capex_local": null,
+    "committed_capital_lower_bound_usd": null,
+    "investment_target_usd": null,
     "status": "announced",
+    "status_detail": null,
     "online": "2028",
     "url": "https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/"
    },
-   "hash": "34204b35fc693cb8",
+   "hash": "97a2aac747881864",
    "date": "2026-07-06"
   },
   "Nigeria cloud and AI investment target": {
    "payload": {
     "capacity_mw": null,
-    "capex_usd": 750000000,
+    "capex_usd": null,
     "capex_local": null,
+    "committed_capital_lower_bound_usd": null,
+    "investment_target_usd": 750000000,
     "status": "policy_target",
-    "online": "2028-08",
-    "url": "https://iafrica.com/nigeria-targets-750m-in-cloud-and-ai-infrastructure-investment-within-24-months-under-new-"
+    "status_detail": "Government mobilization target, not committed capital or project capex.",
+    "online": null,
+    "url": "https://fmcide.gov.ng/federal-government-unveils-national-digital-cloud-policy-to-drive-investment-digital-sovereignty-and-government-transformation/"
    },
-   "hash": "be93bd261deb03b0",
-   "date": "2026-08-24"
+   "hash": "3fd0d54431cc1142",
+   "date": "2026-08-17"
   },
   "Project BRIDGE fibre programme": {
    "payload": {
     "capacity_mw": null,
     "capex_usd": null,
     "capex_local": null,
+    "committed_capital_lower_bound_usd": null,
+    "investment_target_usd": null,
     "status": "under_construction",
+    "status_detail": null,
     "online": null,
     "url": "https://techafricanews.com/2026/08/10/project-bridge-enters-execution-phase-with-bridge-oa-incorporation/"
    },
-   "hash": "d50aea7aa859e73b",
+   "hash": "460feb0a2d6aaf80",
    "date": "2026-08-10"
   }
  },
@@ -424,7 +490,7 @@
   }
  },
  "device-prices": {
-  "Entry-level price band|Nigeria|2026-09-08": {
+  "Entry-level price band|Nigeria|2026-08-29": {
    "payload": {
     "change_pct": null,
     "value_low": 150000,
@@ -432,9 +498,9 @@
     "metric": "Entry-level price band"
    },
    "hash": "1a02a06fffb38e32",
-   "date": "2026-09-08"
+   "date": "2026-08-29"
   },
-  "Average selling price, 2026|Global|2026-09-05": {
+  "Average selling price, 2026|Global|2026-08-26": {
    "payload": {
     "change_pct": 27.6,
     "value_low": null,
@@ -442,9 +508,9 @@
     "metric": "Average selling price, 2026"
    },
    "hash": "6e6490f11c484278",
-   "date": "2026-09-05"
+   "date": "2026-08-26"
   },
-  "Device prices|Middle East & Africa|2026-09-05": {
+  "Device prices|Middle East & Africa|2026-09-03": {
    "payload": {
     "change_pct": 18,
     "value_low": null,
@@ -452,7 +518,7 @@
     "metric": "Device prices"
    },
    "hash": "dd34d0cfc5872e98",
-   "date": "2026-09-05"
+   "date": "2026-09-03"
   },
   "Telecoms average selling price, H1 2026|South Africa|2026-09-01": {
    "payload": {
@@ -464,7 +530,7 @@
    "hash": "311d3d6cd765cafd",
    "date": "2026-09-01"
   },
-  "Device prices|Emerging markets|2026-06-23": {
+  "Device prices|Emerging markets|2026-04-24": {
    "payload": {
     "change_pct": 50,
     "value_low": null,
@@ -472,7 +538,7 @@
     "metric": "Device prices"
    },
    "hash": "d9a91ac68b1f058a",
-   "date": "2026-06-23"
+   "date": "2026-04-24"
   },
   "Device prices, 2026 projection|Nigeria|2026-06-03": {
    "payload": {
@@ -510,13 +576,13 @@
    "hash": "8e6da3e5aeec47c1",
    "date": "2026-08-20"
   },
-  "Smartphone market growth, Q1 2026|South Africa|2026-05-27": {
+  "Smartphone shipments, Q1 2026|South Africa|2026-05-26": {
    "payload": {
     "change_pct": 17,
-    "metric": "Smartphone market growth, Q1 2026"
+    "metric": "Smartphone shipments, Q1 2026"
    },
-   "hash": "a507fff2d22fc6cc",
-   "date": "2026-05-27"
+   "hash": "19312dc20dc3553f",
+   "date": "2026-05-26"
   },
   "Shipment outlook, 2026|Africa|2026-02-28": {
    "payload": {
@@ -538,13 +604,555 @@
   }
  },
  "component-costs": {
-  "DRAM contract price, Q2 2026|Global components|2026-07-05": {
+  "DRAM contract price, Q2 2026|Global components|2026-03-31": {
    "payload": {
     "change_pct": 63,
     "metric": "DRAM contract price, Q2 2026"
    },
    "hash": "33d9e5a73f847df9",
-   "date": "2026-07-05"
+   "date": "2026-03-31"
+  }
+ },
+ "gni-per-capita": {
+  "AGO": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "2860",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/AGO/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "6cf9be50be4907ea",
+   "date": ""
+  },
+  "BDI": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "240",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/BDI/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "851b0a045f3fd6f7",
+   "date": ""
+  },
+  "BEN": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "1600",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/BEN/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "21fcd156241b34ff",
+   "date": ""
+  },
+  "BFA": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "980",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/BFA/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "1f15ccdda4219733",
+   "date": ""
+  },
+  "BWA": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "7390",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/BWA/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "575913282bb850da",
+   "date": ""
+  },
+  "CAF": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "560",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/CAF/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "6c3c404498f0d73f",
+   "date": ""
+  },
+  "CIV": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "2780",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/CIV/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "b0633bff9a23345a",
+   "date": ""
+  },
+  "CMR": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "1860",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/CMR/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "371b60b229c13bd2",
+   "date": ""
+  },
+  "COD": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "720",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/COD/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "13fa3cb95648ced0",
+   "date": ""
+  },
+  "COG": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "2280",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/COG/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "9a5e161ed2685419",
+   "date": ""
+  },
+  "COM": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "1950",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/COM/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "27f98853fb975bc0",
+   "date": ""
+  },
+  "CPV": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "5590",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/CPV/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "a60833f2707f4d8d",
+   "date": ""
+  },
+  "DJI": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "3960",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/DJI/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "dcffd4b1a96e9762",
+   "date": ""
+  },
+  "DZA": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "5850",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/DZA/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "c69a2598be432c79",
+   "date": ""
+  },
+  "EGY": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "3260",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/EGY/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "4ff3bd5a50ac2521",
+   "date": ""
+  },
+  "ERI": {
+   "payload": {
+    "year": "2011",
+    "gni_per_capita_atlas_usd": "650",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/ERI/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "828b550c8469af40",
+   "date": ""
+  },
+  "ETH": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "1110",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/ETH/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "0c3d9a255a75146b",
+   "date": ""
+  },
+  "GAB": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "8090",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/GAB/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "0ad2e12a6dbfc4b9",
+   "date": ""
+  },
+  "GHA": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "2630",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/GHA/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "bac6ef80c30f603c",
+   "date": ""
+  },
+  "GIN": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "1730",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/GIN/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "c12ae56ded6bc87c",
+   "date": ""
+  },
+  "GMB": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "930",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/GMB/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "cfb7ff2d61c0717a",
+   "date": ""
+  },
+  "GNB": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "1090",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/GNB/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "11793275822ce249",
+   "date": ""
+  },
+  "GNQ": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "5890",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/GNQ/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "2a50179727c4b277",
+   "date": ""
+  },
+  "KEN": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "2200",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/KEN/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "2bbb8d2ccc046b74",
+   "date": ""
+  },
+  "LBR": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "830",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/LBR/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "2e11afd8d3a74bdb",
+   "date": ""
+  },
+  "LBY": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "7250",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/LBY/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "dbd0b8d0059aaa47",
+   "date": ""
+  },
+  "LSO": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "1280",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/LSO/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "03d54c7d32594273",
+   "date": ""
+  },
+  "MAR": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "4360",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/MAR/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "6bc3f32e72bacba4",
+   "date": ""
+  },
+  "MDG": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "560",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/MDG/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "c3da22287226dc2e",
+   "date": ""
+  },
+  "MLI": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "1120",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/MLI/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "ab82ed3e5e37e8a2",
+   "date": ""
+  },
+  "MOZ": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "570",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/MOZ/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "3dc5479787488287",
+   "date": ""
+  },
+  "MRT": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "2210",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/MRT/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "12279097dd75461a",
+   "date": ""
+  },
+  "MUS": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "14040",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/MUS/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "4549a533d9b1ffa4",
+   "date": ""
+  },
+  "MWI": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "600",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/MWI/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "43c54d920592c9b0",
+   "date": ""
+  },
+  "NAM": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "4340",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/NAM/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "d19a0cccfa94540e",
+   "date": ""
+  },
+  "NER": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "750",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/NER/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "dfbd97e7bfc1d92d",
+   "date": ""
+  },
+  "NGA": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "1360",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/NGA/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "5daf95c050b1e6e6",
+   "date": ""
+  },
+  "RWA": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "1150",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/RWA/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "78f57facb97ed15b",
+   "date": ""
+  },
+  "SDN": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "900",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/SDN/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "daadaba08fd194cf",
+   "date": ""
+  },
+  "SEN": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "1780",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/SEN/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "80764b3cb268dec2",
+   "date": ""
+  },
+  "SLE": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "830",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/SLE/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "bcaec330fda0ada4",
+   "date": ""
+  },
+  "SOM": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "640",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/SOM/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "c8747f8094ed6c9c",
+   "date": ""
+  },
+  "SSD": {
+   "payload": {
+    "year": "2015",
+    "gni_per_capita_atlas_usd": "1050",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/SSD/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "71b00ba18f634dcc",
+   "date": ""
+  },
+  "STP": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "3800",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/STP/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "7b0489216a2c5447",
+   "date": ""
+  },
+  "SWZ": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "3730",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/SWZ/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "1585fe8d5c69b376",
+   "date": ""
+  },
+  "SYC": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "19200",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/SYC/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "299ff977d90d0466",
+   "date": ""
+  },
+  "TCD": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "970",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/TCD/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "4a6c1aba9b835f4f",
+   "date": ""
+  },
+  "TGO": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "1350",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/TGO/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "bc4b34b06dbca531",
+   "date": ""
+  },
+  "TUN": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "4300",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "aa46744d20d5be3b",
+   "date": ""
+  },
+  "TZA": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "1270",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/TZA/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "dd08c47d3732e9c9",
+   "date": ""
+  },
+  "UGA": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "1120",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/UGA/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "32a7982b8f76a08b",
+   "date": ""
+  },
+  "ZAF": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "6270",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/ZAF/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "689c2f74f0986836",
+   "date": ""
+  },
+  "ZMB": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "1200",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/ZMB/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "86f2d1c417169499",
+   "date": ""
+  },
+  "ZWE": {
+   "payload": {
+    "year": "2025",
+    "gni_per_capita_atlas_usd": "2660",
+    "api_last_updated": "2026-07-13",
+    "source_url": "https://api.worldbank.org/v2/country/ZWE/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
+   },
+   "hash": "2cc1b5f9ed58ff63",
+   "date": ""
   }
  }
 }

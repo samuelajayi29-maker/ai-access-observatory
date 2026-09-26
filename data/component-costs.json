@@ -10,24 +10,24 @@
  "compiled": "2026-09-11",
  "observations": [
   {
-   "date": "2026-07-05",
+   "date": "2026-03-31",
    "scope": "Global components",
    "metric": "DRAM contract price, Q2 2026",
    "change_pct": 63,
    "type": "actual",
    "source": "TrendForce",
-   "url": "https://www.trendforce.com/presscenter/",
-   "note": "58% to 63% quarter on quarter; NAND contract prices up 70% to 75%.",
+   "url": "https://www.trendforce.com/presscenter/news/20260331-12995.html",
+   "note": "TrendForce forecast conventional DRAM contract prices to rise 58–63% quarter on quarter and NAND Flash 70–75% in 2Q26. This is a contract-price forecast, not a realised consumer-device price change.",
    "geography_scope": "global",
    "evidence_status": "industry_body",
-   "temporal_status": "measured",
-   "headline_eligible": true,
+   "temporal_status": "forecast",
+   "headline_eligible": false,
    "legacy_type": "actual",
    "originating_source": "TrendForce",
    "evidence_host": "trendforce.com",
    "source_quality": "ok",
-   "archive_url": "https://web.archive.org/web/20260713183927/https://www.trendforce.com/presscenter",
-   "archived_at": "2026-07-13"
+   "archive_url": "https://web.archive.org/web/20260924041700/https://www.trendforce.com/presscenter/news/20260331-12995.html",
+   "archived_at": "2026-09-24"
   }
  ]
 }

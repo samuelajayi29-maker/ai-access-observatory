@@ -807,6 +807,529 @@
    "added": [],
    "changed": [],
    "removed": []
+  },
+  {
+   "built_at": "2026-09-26",
+   "added": [
+    {
+     "register": "infrastructure",
+     "row": "Teraco JB7 data centre expansion",
+     "date": "2024-11-13"
+    },
+    {
+     "register": "device-prices",
+     "row": "Average selling price, 2026|Global|2026-08-26",
+     "date": "2026-08-26"
+    },
+    {
+     "register": "device-prices",
+     "row": "Device prices|Middle East & Africa|2026-09-03",
+     "date": "2026-09-03"
+    },
+    {
+     "register": "device-prices",
+     "row": "Device prices|Emerging markets|2026-04-24",
+     "date": "2026-04-24"
+    },
+    {
+     "register": "device-shipments",
+     "row": "Smartphone shipments, Q1 2026|South Africa|2026-05-26",
+     "date": "2026-05-26"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "AGO",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "BDI",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "BEN",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "BFA",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "BWA",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "CAF",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "CIV",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "CMR",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "COD",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "COG",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "COM",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "CPV",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "DJI",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "DZA",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "EGY",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "ERI",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "ETH",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "GAB",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "GHA",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "GIN",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "GMB",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "GNB",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "GNQ",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "KEN",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "LBR",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "LBY",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "LSO",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "MAR",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "MDG",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "MLI",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "MOZ",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "MRT",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "MUS",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "MWI",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "NAM",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "NER",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "NGA",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "RWA",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "SDN",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "SEN",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "SLE",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "SOM",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "SSD",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "STP",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "SWZ",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "SYC",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "TCD",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "TGO",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "TUN",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "TZA",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "UGA",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "ZAF",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "ZMB",
+     "date": ""
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "ZWE",
+     "date": ""
+    }
+   ],
+   "changed": [
+    {
+     "register": "infrastructure",
+     "row": "MTN AI-ready data centres",
+     "field": "source",
+     "from": "https://nairametrics.com/2026/08/26/mtn-to-develop-150mw-ai-data-centres-in-nigeria-south-africa-with-uae-back",
+     "to": "https://nairametrics.com/2026/08/26/mtn-to-develop-150mw-ai-data-centres-in-nigeria-south-africa-with-uae-backed-investor/"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Huawei AI data centre bid",
+     "field": "source",
+     "from": "https://www.bloomberg.com/news/articles/2026-08-26/huawei-egypt-ai-ascend-chips-test-us-tech-diplomacy-nvidia-",
+     "to": "https://www.bloomberg.com/news/articles/2026-08-26/huawei-courts-egypt-ai-chips-in-test-of-us-tech-diplomacy"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Cape Town hyperscale campus (two sites)",
+     "field": "capacity (MW)",
+     "from": 174,
+     "to": null
+    },
+    {
+     "register": "infrastructure",
+     "row": "Cape Town hyperscale campus (two sites)",
+     "field": "delivery status",
+     "from": "approved",
+     "to": "appeal_pending"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Cape Town hyperscale campus (two sites)",
+     "field": "status evidence detail",
+     "from": null,
+     "to": "Planning approval legally suspended pending appeal; no immediate development plan reported."
+    },
+    {
+     "register": "infrastructure",
+     "row": "Cape Town hyperscale campus (two sites)",
+     "field": "source",
+     "from": "https://iafrica.com/cape-town-approves-two-hyperscale-data-centres-totalling-174mw-among-africas-largest-new-g",
+     "to": "https://www.dailymaverick.co.za/article/2026-09-20-data-centre-deal-cape-town-forced-back-to-the-drawing-board/"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Raxio expansion programme",
+     "field": "capital (USD)",
+     "from": 380000000,
+     "to": null
+    },
+    {
+     "register": "infrastructure",
+     "row": "Raxio expansion programme",
+     "field": "portfolio capital lower bound (USD)",
+     "from": null,
+     "to": 380000000
+    },
+    {
+     "register": "infrastructure",
+     "row": "Raxio expansion programme",
+     "field": "status evidence detail",
+     "from": null,
+     "to": "Portfolio-level committed capital, not project capex."
+    },
+    {
+     "register": "infrastructure",
+     "row": "Raxio expansion programme",
+     "field": "source",
+     "from": "https://www.techafricanews.com/2026/07/14/raxio-secures-over-us380-million-to-accelerate-africa-data-centre-ex",
+     "to": "https://www.raxiogroup.com/raxio-tops-us380-million-in-committed-capital-as-roha-and-meridiam-boost-stakes-amid-sixfold-growth-surge-for-its-african-data-centres/"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Africa Data Centres Accra",
+     "field": "capacity (MW)",
+     "from": 30,
+     "to": 10
+    },
+    {
+     "register": "infrastructure",
+     "row": "Africa Data Centres Accra",
+     "field": "delivery status",
+     "from": "under_construction",
+     "to": "announced"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Africa Data Centres Accra",
+     "field": "status evidence detail",
+     "from": null,
+     "to": "2023 plan; current commissioning or construction status not confirmed in reviewed sources."
+    },
+    {
+     "register": "infrastructure",
+     "row": "Africa Data Centres Accra",
+     "field": "source",
+     "from": "https://datacentresafrica.com/",
+     "to": "https://www.africadatacentres.com/africa-data-centres-announces-that-it-will-start-construction-on-a-new-facility-in-accra-ghana/"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Nigeria cloud and AI investment target",
+     "field": "capital (USD)",
+     "from": 750000000,
+     "to": null
+    },
+    {
+     "register": "infrastructure",
+     "row": "Nigeria cloud and AI investment target",
+     "field": "government investment target (USD)",
+     "from": null,
+     "to": 750000000
+    },
+    {
+     "register": "infrastructure",
+     "row": "Nigeria cloud and AI investment target",
+     "field": "status evidence detail",
+     "from": null,
+     "to": "Government mobilization target, not committed capital or project capex."
+    },
+    {
+     "register": "infrastructure",
+     "row": "Nigeria cloud and AI investment target",
+     "field": "energised date",
+     "from": "2028-08",
+     "to": null
+    },
+    {
+     "register": "infrastructure",
+     "row": "Nigeria cloud and AI investment target",
+     "field": "source",
+     "from": "https://iafrica.com/nigeria-targets-750m-in-cloud-and-ai-infrastructure-investment-within-24-months-under-new-",
+     "to": "https://fmcide.gov.ng/federal-government-unveils-national-digital-cloud-policy-to-drive-investment-digital-sovereignty-and-government-transformation/"
+    }
+   ],
+   "removed": [
+    {
+     "register": "infrastructure",
+     "row": "Teraco portfolio (including JB7)"
+    },
+    {
+     "register": "device-prices",
+     "row": "Average selling price, 2026|Global|2026-09-05"
+    },
+    {
+     "register": "device-prices",
+     "row": "Device prices|Middle East & Africa|2026-09-05"
+    },
+    {
+     "register": "device-prices",
+     "row": "Device prices|Emerging markets|2026-06-23"
+    },
+    {
+     "register": "device-shipments",
+     "row": "Smartphone market growth, Q1 2026|South Africa|2026-05-27"
+    }
+   ]
+  },
+  {
+   "built_at": "2026-09-26",
+   "added": [
+    {
+     "register": "device-prices",
+     "row": "Entry-level price band|Nigeria|2026-08-29",
+     "date": "2026-08-29"
+    },
+    {
+     "register": "component-costs",
+     "row": "DRAM contract price, Q2 2026|Global components|2026-03-31",
+     "date": "2026-03-31"
+    }
+   ],
+   "changed": [],
+   "removed": [
+    {
+     "register": "device-prices",
+     "row": "Entry-level price band|Nigeria|2026-09-08"
+    },
+    {
+     "register": "component-costs",
+     "row": "DRAM contract price, Q2 2026|Global components|2026-07-05"
+    }
+   ]
+  },
+  {
+   "built_at": "2026-09-26",
+   "added": [],
+   "changed": [],
+   "removed": []
+  },
+  {
+   "built_at": "2026-09-26",
+   "added": [],
+   "changed": [],
+   "removed": []
+  },
+  {
+   "built_at": "2026-09-26",
+   "added": [],
+   "changed": [],
+   "removed": []
+  },
+  {
+   "built_at": "2026-09-26",
+   "added": [],
+   "changed": [],
+   "removed": []
+  },
+  {
+   "built_at": "2026-09-26",
+   "added": [],
+   "changed": [],
+   "removed": []
+  }
+ ],
+ "release_notes": [
+  {
+   "id": "2026-09-26/v2026.10/schema-2026.10.3",
+   "date": "2026-09-26",
+   "release": "v2026.10",
+   "schema_version": "2026.10.3",
+   "summary": "Adds a freshness-gated GNI affordability comparison for all African country profiles, preserves the ten-country minimum-wage sample, separates project capex from portfolio capital and policy targets, and quarantines Omdia shipment figures where the primary page has no recoverable archive snapshot.",
+   "source": "World Bank World Development Indicators API; project-specific primary and specialist sources listed on the register rows."
   }
  ]
 }

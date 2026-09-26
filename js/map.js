@@ -16,6 +16,12 @@
                          forecast: 'FORECAST', projection: 'PROJECTION', proposal: 'PROPOSAL' };
   var selected = null;
 
+  function esc(value) {
+    return String(value == null ? '' : value).replace(/[&<>"']/g, function (ch) {
+      return ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[ch];
+    });
+  }
+
   function band(k, v) {
     var b = D.breaks[k] || [];
     if (v === null || v === undefined) return 'none';
@@ -57,7 +63,7 @@
       var m = D.meta[k] || {};
       var v = (D.layers[k] || {})[iso];
       var f = fmt(k, v);
-      rows += '<div class="map__row"><h4>' + m.label + '</h4>';
+      rows += '<div class="map__row"><h4>' + esc(m.label) + '</h4>';
       if (f === null) {
         rows += '<p class="map__none">Data unavailable</p>';
       } else {
@@ -67,15 +73,17 @@
         var tier = m.tier_label ? (m.tier_label + ' \u00b7 Tier ' + m.tier) : '';
         rows += '<p class="map__value">' + f + '</p>' +
                 '<p class="map__prov"><span class="map__status">' + st + '</span> ' + tier + '</p>' +
-                '<p class="map__src">' + m.source + '</p>';
+                '<p class="map__src">' + ((D.source_urls && D.source_urls[k] && D.source_urls[k][iso])
+                  ? '<a href="' + esc(D.source_urls[k][iso]) + '" target="_blank" rel="noopener">' + esc(m.source) + '</a>'
+                  : esc(m.source)) + '</p>';
       }
       rows += '</div>';
     });
     var link = (D.pages && D.pages[iso])
-      ? '<p class="map__link"><a href="' + D.pages[iso] + '">Open the country profile \u2192</a></p>'
+      ? '<p class="map__link"><a href="' + esc(D.pages[iso]) + '">Open the country profile \u2192</a></p>'
       : '';
     panel.innerHTML = '<h3 class="map__panel-title">' + name + '</h3>' + rows + link +
-      '<p class="map__prov">Last updated 22 September 2026</p>';
+      '<p class="map__prov">Record compiled ' + esc(D.compiled) + '</p>';
   }
   host.addEventListener('click', function (e) {
     var t = e.target.closest ? e.target.closest('[data-iso],.map__tab') : null;

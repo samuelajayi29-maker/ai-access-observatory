@@ -4,11 +4,11 @@
 <text x="28" y="60.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#66757F">Recorded percentage change in prices, duties and component costs. Shipments are a separate register with a separate</text>
 <text x="28" y="76.5" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#66757F">unit and are charted on their own.</text>
 <text x="286" y="116" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#0D1B2A">DRAM contract price, Q2 2026</text>
-<text x="286" y="132" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">Global components · 2026-07-05</text>
+<text x="286" y="132" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">Global components · 2026-03-31</text>
 <rect x="540.0" y="106" width="208.0" height="24" fill="#B98A1F"/>
 <text x="757.0" y="123" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0D1B2A">+63%</text>
 <text x="286" y="162" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#0D1B2A">Device prices</text>
-<text x="286" y="178" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">Emerging markets · 2026-06-23</text>
+<text x="286" y="178" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">Emerging markets · 2026-04-24</text>
 <rect x="540.0" y="152" width="165.1" height="24" fill="#B98A1F"/>
 <text x="714.1" y="169" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0D1B2A">+50%</text>
 <text x="286" y="208" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#0D1B2A">Device prices, 2026 projection</text>
@@ -16,7 +16,7 @@
 <rect x="540.0" y="198" width="99.0" height="24" fill="#B98A1F"/>
 <text x="648.0" y="215" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0D1B2A">+30%</text>
 <text x="286" y="254" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#0D1B2A">Average selling price, 2026</text>
-<text x="286" y="270" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">Global · 2026-09-05</text>
+<text x="286" y="270" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">Global · 2026-08-26</text>
 <rect x="540.0" y="244" width="91.1" height="24" fill="#B98A1F"/>
 <text x="640.1" y="261" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0D1B2A">+27.6%</text>
 <text x="286" y="300" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#0D1B2A">Excise duty on smartphones</text>
@@ -24,7 +24,7 @@
 <rect x="540.0" y="290" width="82.5" height="24" fill="#B98A1F"/>
 <text x="631.5" y="307" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0D1B2A">+25%</text>
 <text x="286" y="346" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#0D1B2A">Device prices</text>
-<text x="286" y="362" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">Middle East &amp; Africa · 2026-09-05</text>
+<text x="286" y="362" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">Middle East &amp; Africa · 2026-09-03</text>
 <rect x="540.0" y="336" width="59.4" height="24" fill="#B98A1F"/>
 <text x="608.4" y="353" text-anchor="start" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0D1B2A">+18%</text>
 <text x="286" y="392" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#0D1B2A">Telecoms average selling price, H1 2026</text>

@@ -1,8 +1,8 @@
 ﻿# AI provider country availability: method and limits
 
-**Snapshot retrieved:** 2026-09-25  
-**Geographic scope:** the Observatory's 54 African countries  
-**Observation unit:** one country × one named provider product  
+**Snapshot retrieved:** 2026-09-25
+**Geographic scope:** the Observatory's 54 African countries
+**Observation unit:** one country × one named provider product
 **Result:** 324 country–product records; all six official lists included all 54 countries on the retrieval date.
 
 The register records only a country appearing on the cited provider's published supported-country or available-region list. We matched each list's country names against the Observatory's 54-country ISO 3166-1 alpha-3 scope and retained separate rows for different products and delivery channels. The regeneration script pins that reviewed country set and stops if the Observatory's geographic scope changes, forcing a new check. The status listed_supported means only that the country appears in that list.

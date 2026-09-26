@@ -21,12 +21,12 @@
 <div class="wrap pagehead">
   <h1>Nigeria</h1>
   <p class="standfirst">AI-specific country records and supporting context for Nigeria, kept separate. 3 of three AI pillars have a country record.</p>
-  <span class="protochip">3 AI-specific indicators; 6 of six context measures reported.</span>
+  <span class="protochip">4 AI-specific indicators; 6 of six context measures reported.</span>
 </div>
 <div class="wrap layout">
   <div>
     <div class="readout">
-      <div><b>3</b><small>AI-specific indicators held</small></div>
+      <div><b>4</b><small>AI-specific indicators held</small></div>
       <div><b>3 of 3</b><small>AI pillars with a country record</small></div>
       <div><b>6 of 6</b><small>context measures reported</small></div>
       <div><b>35</b><small>signals recorded</small></div>
@@ -39,7 +39,7 @@
           </div>
           <p class="cp-prov"><span class="chip chip--modelled"><span class="chip__mark" aria-hidden="true"></span>modelled</span>
           <span class="cp-tier">Academic research &middot; Tier 2 &middot; 2026</span></p>
-          <p class="cp-src">Garg, Crosta and Baier, Global Automation Atlas (2026)</p>
+          <p class="cp-src"><a href="https://arxiv.org/abs/2605.17086" target="_blank" rel="noopener">Garg, Crosta and Baier, Global Automation Atlas (2026)</a></p>
           <p class="cp-method">Tasks rated 2 or 3 on a 0-3 exposure scale, relabelled under each country&#x27;s conditions. Not employment-weighted and not a share of jobs.</p>
           <p class="cp-recompute">Recompute from <code>data/jobs-atlas-exposure.csv</code>.</p>
         </div><h2 class="sec">Access</h2>
@@ -52,6 +52,17 @@
           <span class="cp-tier">Derived from academic and official inputs &middot; Tier 2 &middot; 2024-05-01</span></p>
           <p class="cp-src">Computed from Claude Opus 5 (Anthropic) rate card and the statutory minimum wage</p>
           <p class="cp-method">A month of moderate use = 20 standard workloads at the median frontier rate card ($11.25 per workload), divided by the monthly statutory minimum wage.</p>
+          <p class="cp-recompute">Recompute from <code>data/affordability.csv</code>.</p>
+        </div>
+        <div class="cp-row">
+          <div class="cp-head">
+            <h3 class="cp-ind">Illustrative AI-use basket as a share of monthly GNI per capita</h3>
+            <p class="cp-value">199 <span class="cp-unit">% of monthly GNI per capita</span></p>
+          </div>
+          <p class="cp-prov"><span class="chip chip--modelled"><span class="chip__mark" aria-hidden="true"></span>modelled</span>
+          <span class="cp-tier">Derived from reported pricing and official economic data &middot; Tier 4 &middot; 2025</span></p>
+          <p class="cp-src"><a href="https://api.worldbank.org/v2/country/NGA/indicator/NY.GNP.PCAP.CD?format=json&amp;mrnev=1&amp;per_page=100" target="_blank" rel="noopener">Computed from Claude Opus 5 rate card and World Bank GNI per-capita data</a></p>
+          <p class="cp-method">20 standard workloads at the median frontier rate card ($11.25 per workload), divided by monthly GNI per capita on the Atlas method (annual value divided by 12). Published only when the latest non-empty GNI observation is within the five-calendar-year freshness window.</p>
           <p class="cp-recompute">Recompute from <code>data/affordability.csv</code>.</p>
         </div>
         <h3 class="cp-ind">Official provider location listings</h3>
@@ -70,10 +81,10 @@
           </div>
           <p class="cp-prov"><span class="chip chip--announced"><span class="chip__mark" aria-hidden="true"></span>announced</span>
           <span class="cp-tier">News reporting &middot; Tier 4 &middot; 2026</span></p>
-          <p class="cp-src">Observatory infrastructure register</p>
+          <p class="cp-src"><a href="https://businessday.ng/technology/article/nsia-bets-on-100mw-ai-data-centre-to-power-nigerias-digital-economy/" target="_blank" rel="noopener">Observatory infrastructure register</a></p>
           <p class="cp-method">Sum of published capacity in the register. Projects without a published capacity figure are excluded, never counted as zero. Announced capacity is not operational capacity and the two are never added together in a single figure.</p>
           <p class="cp-recompute">Recompute from <code>data/infrastructure.json</code>.</p>
-        </div><h3 class="cp-ind">Named data-centre projects in the register</h3><ul class="feed"><li><b>NSIA AI data centre</b> &mdash; announced; 100.0 MW stated; 2026-09-01. <a href="https://businessday.ng/technology/article/nsia-bets-on-100mw-ai-data-centre-to-power-nigerias-digital-economy/" target="_blank" rel="noopener">Source</a></li><li><b>MTN AI-ready data centres</b> &mdash; announced; 150.0 MW across multiple countries; national split not reported; 2026-08-26. <a href="https://nairametrics.com/2026/08/26/mtn-to-develop-150mw-ai-data-centres-in-nigeria-south-africa-with-uae-back" target="_blank" rel="noopener">Source</a></li><li><b>Nigeria cloud and AI investment target</b> &mdash; policy_target; No capacity figure published; 2028-08. <a href="https://iafrica.com/nigeria-targets-750m-in-cloud-and-ai-infrastructure-investment-within-24-months-under-new-" target="_blank" rel="noopener">Source</a></li><li><b>Project BRIDGE fibre programme</b> &mdash; under_construction; No capacity figure published; 2026-08-10. <a href="https://techafricanews.com/2026/08/10/project-bridge-enters-execution-phase-with-bridge-oa-incorporation/" target="_blank" rel="noopener">Source</a></li></ul>
+        </div><h3 class="cp-ind">Named data-centre projects in the register</h3><ul class="feed"><li><b>NSIA AI data centre</b> &mdash; announced; 100.0 MW stated; 2026-09-01. <a href="https://businessday.ng/technology/article/nsia-bets-on-100mw-ai-data-centre-to-power-nigerias-digital-economy/" target="_blank" rel="noopener">Source</a></li><li><b>MTN AI-ready data centres</b> &mdash; announced; 150.0 MW across multiple countries; national split not reported; 2026-08-26. <a href="https://nairametrics.com/2026/08/26/mtn-to-develop-150mw-ai-data-centres-in-nigeria-south-africa-with-uae-backed-investor/" target="_blank" rel="noopener">Source</a></li><li><b>Nigeria cloud and AI investment target</b> &mdash; policy_target; No capacity figure published; 2026-08-17. <a href="https://fmcide.gov.ng/federal-government-unveils-national-digital-cloud-policy-to-drive-investment-digital-sovereignty-and-government-transformation/" target="_blank" rel="noopener">Source</a></li><li><b>Project BRIDGE fibre programme</b> &mdash; under_construction; No capacity figure published; 2026-08-10. <a href="https://techafricanews.com/2026/08/10/project-bridge-enters-execution-phase-with-bridge-oa-incorporation/" target="_blank" rel="noopener">Source</a></li></ul>
 
     <h2 class="sec">Country context</h2>
     <p class="sec-note">Connectivity and power conditions help explain the environment for digital services. These are not AI-use, AI-adoption or data-centre-capacity measures. Each value keeps its source year.</p>
@@ -102,11 +113,11 @@
     </div>
     <div class="box">
       <h3>This release</h3>
-      <ul><li><b>Coverage</b>3 AI indicators, 6/6 context values</li><li><b>Signals</b>35 recorded</li></ul>
+      <ul><li><b>Coverage</b>4 AI indicators, 6/6 context values</li><li><b>Signals</b>35 recorded</li></ul>
     </div>
     <div class="box">
       <h3>Country evidence</h3>
-      <ul><li><b>Share of tasks economically exposed to AI</b>2026</li><li><b>Illustrative AI workload as a share of a monthly</b>2024-05-01</li><li><b>Data centre capacity named in the register</b>2026</li></ul>
+      <ul><li><b>Share of tasks economically exposed to AI</b>2026</li><li><b>Illustrative AI workload as a share of a monthly</b>2024-05-01</li><li><b>Illustrative AI-use basket as a share of monthly</b>2025</li></ul>
     </div>
     <div class="box">
       <h3>Permanent link</h3>

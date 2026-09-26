@@ -1,16 +1,16 @@
 {
  "release": "v2026.10",
- "schema_version": "2026.10.2",
+ "schema_version": "2026.10.3",
  "validated_at": "2026-09-26",
  "counts": {
-  "rows_checked": 765,
-  "rows_passing": 365,
-  "rows_quarantined": 400,
-  "rows_missing_archive": 51,
-  "rows_with_bad_url": 19,
+  "rows_checked": 1337,
+  "rows_passing": 366,
+  "rows_quarantined": 971,
+  "rows_missing_archive": 47,
+  "rows_with_bad_url": 11,
   "rows_with_dead_source": 0,
   "rows_missing_status": 0,
-  "indicators": 87,
+  "indicators": 139,
   "indicators_failing_contract": 0,
   "fx_rows_checked": 130
  },
@@ -88,6 +88,23 @@
    }
   }
  },
+ "gni_per_capita": {
+  "rows": 54,
+  "reported": 54,
+  "current_comparison": 52,
+  "stale": 2,
+  "no_information": 0,
+  "current_from_year": 2021
+ },
+ "affordability_coverage": {
+  "rows": 702,
+  "countries": 54,
+  "models": 13,
+  "recent_gni_countries": 52,
+  "minimum_wage_value_countries": 8,
+  "formula_failures": 0,
+  "declared_minimum_wage_sample_countries": 10
+ },
  "per_register": {
   "model-prices": {
    "rows": 13,
@@ -101,7 +118,7 @@
    "rows": 5,
    "passing": 2,
    "quarantined": 3,
-   "missing_archive": 1,
+   "missing_archive": 0,
    "bad_url": 0,
    "dead_source": 0
   },
@@ -109,24 +126,24 @@
    "rows": 22,
    "passing": 0,
    "quarantined": 22,
-   "missing_archive": 5,
-   "bad_url": 2,
+   "missing_archive": 2,
+   "bad_url": 0,
    "dead_source": 0
   },
   "device-prices": {
    "rows": 6,
-   "passing": 0,
-   "quarantined": 6,
-   "missing_archive": 0,
-   "bad_url": 4,
+   "passing": 1,
+   "quarantined": 5,
+   "missing_archive": 1,
+   "bad_url": 0,
    "dead_source": 0
   },
   "device-shipments": {
    "rows": 5,
-   "passing": 0,
-   "quarantined": 5,
-   "missing_archive": 1,
-   "bad_url": 2,
+   "passing": 1,
+   "quarantined": 4,
+   "missing_archive": 0,
+   "bad_url": 0,
    "dead_source": 0
   },
   "device-policy": {
@@ -139,16 +156,16 @@
   },
   "component-costs": {
    "rows": 1,
-   "passing": 1,
-   "quarantined": 0,
+   "passing": 0,
+   "quarantined": 1,
    "missing_archive": 0,
    "bad_url": 0,
    "dead_source": 0
   },
   "affordability.csv": {
-   "rows": 130,
+   "rows": 702,
    "passing": 12,
-   "quarantined": 118,
+   "quarantined": 690,
    "missing_archive": 0,
    "bad_url": 0,
    "dead_source": 0
@@ -212,21 +229,9 @@
  },
  "hard_failures": [],
  "warnings": [
-  "model-price-events[4] Gemini 3.8 Flash: no archive snapshot captured for https://www.digitalapplied.com/blog/gemini-3-8-flash-costs-the-same-un",
-  "infrastructure[2] MTN AI-ready data centres: no archive snapshot captured for https://nairametrics.com/2026/08/26/mtn-to-develop-150mw-ai-data-centr",
-  "infrastructure[6] Huawei AI data centre bid: no archive snapshot captured for https://www.bloomberg.com/news/articles/2026-08-26/huawei-egypt-ai-asc",
-  "infrastructure[9] Cape Town hyperscale campus (two sites): no archive snapshot captured for https://iafrica.com/cape-town-approves-two-hyperscale-data-centres-tot",
-  "infrastructure[11] Teraco portfolio (including JB7): source_url is bare_domain -> https://voxilens.com/",
-  "infrastructure[13] Raxio expansion programme: no archive snapshot captured for https://www.techafricanews.com/2026/07/14/raxio-secures-over-us380-mil",
-  "infrastructure[14] Africa Data Centres Accra: source_url is bare_domain -> https://datacentresafrica.com/",
-  "infrastructure[20] Nigeria cloud and AI investment target: no archive snapshot captured for https://iafrica.com/nigeria-targets-750m-in-cloud-and-ai-infrastructur",
-  "device-prices[1] Average selling price, 2026: source_url is ephemeral -> https://my.idc.com/getdoc.jsp?containerId=IDC_P37251",
-  "device-prices[2] Device prices: source_url is ephemeral -> https://my.idc.com/getdoc.jsp?containerId=IDC_P37251",
-  "device-prices[4] Device prices: source_url is ephemeral -> https://my.idc.com/getdoc.jsp?containerId=IDC_P37251",
-  "device-prices[5] Device prices, 2026 projection: source_url is bare_domain -> https://techcabal.com/",
-  "device-shipments[1] Shipments, 2026 forecast: source_url is bare_domain -> https://omdia.tech.informa.com/",
-  "device-shipments[2] Shipments, Q2 2026: no archive snapshot captured for https://telecomlead.com/smartphone/africa-smartphone-shipments-fall-7-",
-  "device-shipments[3] Smartphone market growth, Q1 2026: source_url is ephemeral -> https://my.idc.com/getdoc.jsp?containerId=IDC_P37251"
+  "infrastructure[6] Huawei AI data centre bid: no archive snapshot captured for https://www.bloomberg.com/news/articles/2026-08-26/huawei-courts-egypt",
+  "infrastructure[11] Teraco JB7 data centre expansion: no archive snapshot captured for https://mybroadband.co.za/news/cloud-hosting/664345-one-data-centre-in",
+  "device-prices[4] Device prices: no archive snapshot captured for https://techwireasia.com/2026/04/global-smartphone-market-2026-memory-"
  ],
  "status": "pass"
 }
