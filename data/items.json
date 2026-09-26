@@ -1,10 +1,52 @@
 {
- "updated": "2026-09-23",
+ "updated": "2026-09-26",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "Egypt says more than 100 faculties now offer AI and computer science programmes",
+     "u": "https://iafrica.com/egypt-says-more-than-100-faculties-now-offer-ai-and-computer-science-programmes/",
+     "s": "iAfrica",
+     "d": "Sep 26",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Outsourcing body launches AI-focused job board for remote South African talent",
+     "u": "https://news.outsourceaccelerator.com/hiresa-south-african-talent/",
+     "s": "Outsource Accelerator",
+     "d": "Sep 25",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "AI splits Bangladesh's workforce as HR faces job-security fears",
+     "u": "https://news.outsourceaccelerator.com/bangladesh-ai-hr-workforce/",
+     "s": "Outsource Accelerator",
+     "d": "Sep 25",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Unverified claim of 80 Indian layoffs on one call goes viral",
+     "u": "https://news.outsourceaccelerator.com/viral-indian-layoffs-claim/",
+     "s": "Outsource Accelerator",
+     "d": "Sep 25",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Why Nigeria must convert digital skills to productive work, enterprise and improved livelihoods",
+     "u": "https://itpulse.com.ng/why-nigeria-must-convert-digital-skills-to-productive-work-enterprise-and-improved-livelihoods/",
+     "s": "ITPulse",
+     "d": "Sep 24",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Kenya expands digital literacy programme to 10,382 junior schools",
+     "u": "https://techafricanews.com/2026/09/24/kenya-digital-literacy-programme-10382-junior-schools/",
+     "s": "TechAfrica News",
+     "d": "Sep 24",
+     "dot": "dot-jobs"
+    },
     {
      "t": "AI is scrambling the tech job market",
      "u": "https://news.outsourceaccelerator.com/ai-tech-job-market/",
@@ -661,6 +703,55 @@
   "access": {
    "label": "Access & Pricing",
    "items": [
+    {
+     "t": "Over 23 million Nigerians still offline as RuralConnect Summit 2.0 seeks solutions",
+     "u": "https://itpulse.com.ng/over-23-million-nigerians-still-offline-as-ruralconnect-summit-2-0-seeks-solutions/",
+     "s": "ITPulse",
+     "d": "Sep 25",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Smart offers affordable access to AI models in the Philippines",
+     "u": "https://www.developingtelecoms.com/telecom-technology/enterprise-ecosystems/20878-smart-offers-affordable-access-to-ai-models-in-the-philippines.html",
+     "s": "Developing Telecoms",
+     "d": "Sep 25",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Tecno wins two IFA innovation awards for modular phone and mini PC",
+     "u": "https://techtrendske.co.ke/2026/09/25/tecno-wins-two-ifa-innovation-awards-for-modular-phone-mini-pc/",
+     "s": "TechTrendsKE",
+     "d": "Sep 25",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Africa's $30 smartphone goal is becoming harder to achieve",
+     "u": "https://techcabal.com/2026/09/24/africas-30-smartphone-goal-is-becoming-harder-to-achieve/",
+     "s": "TechCabal",
+     "d": "Sep 24",
+     "dot": "dot-price"
+    },
+    {
+     "t": "AI boom is leaving 100 million disabled Africans behind, data gap flagged",
+     "u": "https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/",
+     "s": "TechCabal",
+     "d": "Sep 24",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Alibaba unveils full-stack AI strategy with new Qwen models, chips and agentic cloud",
+     "u": "https://techafricanews.com/2026/09/24/alibaba-full-stack-ai-strategy-qwen-chips-agentic-cloud/",
+     "s": "TechAfrica News",
+     "d": "Sep 24",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Airtel Uganda rolls out Starlink satellite-to-mobile service",
+     "u": "https://techafricanews.com/2026/09/24/airtel-uganda-rolls-out-starlink-satellite-to-mobile-service/",
+     "s": "TechAfrica News",
+     "d": "Sep 24",
+     "dot": "dot-access"
+    },
     {
      "t": "OpenAI and Anthropic cut frontier model prices ten days after calling for a slowdown",
      "u": "https://www.digitimes.com/news/a20260923VL200/anthropic-openai-opus-claude-price.html",
@@ -1555,6 +1646,97 @@
   "infra": {
    "label": "Infrastructure",
    "items": [
+    {
+     "t": "NVIDIA confirms Morocco in two African AI compute projects, including 500MW Casablanca factory",
+     "u": "https://iafrica.com/nvidia-confirms-morocco-in-two-african-ai-compute-projects-including-500mw-casablanca-factory/",
+     "s": "iAfrica",
+     "d": "Sep 26",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Kenya signs responsible AI declaration with Anthropic",
+     "u": "https://iafrica.com/kenya-signs-responsible-ai-declaration-with-anthropic-days-after-being-named-in-the-companys-threat-report/",
+     "s": "iAfrica",
+     "d": "Sep 25",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Rwanda's PM sets three tests for AI sovereignty: 'A market, not a participant'",
+     "u": "https://iafrica.com/a-market-not-a-participant-rwandas-pm-sets-three-tests-for-ai-sovereignty/",
+     "s": "iAfrica",
+     "d": "Sep 25",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Lesotho is first to apply UN AI blueprint, starting with what it needs before what it builds",
+     "u": "https://iafrica.com/lesotho-is-first-to-apply-un-ai-blueprint-starting-with-what-it-needs-before-what-it-builds/",
+     "s": "iAfrica",
+     "d": "Sep 25",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "South Africa: Malatsi on the AI policy collapse, redraft now slipping to March",
+     "u": "https://iafrica.com/we-didnt-interrogate-the-bibliography-malatsi-on-the-ai-policy-collapse-and-a-redraft-now-slipping-to-march/",
+     "s": "iAfrica",
+     "d": "Sep 25",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Egypt AI Council reviews national AI strategy progress and quantum computing plans",
+     "u": "https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/",
+     "s": "TechAfrica News",
+     "d": "Sep 25",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Akamai secures $11.6 billion Anthropic cloud infrastructure commitment over seven years",
+     "u": "https://techafricanews.com/2026/09/25/akamai-11-6-billion-anthropic-cloud-infrastructure-commitment/",
+     "s": "TechAfrica News",
+     "d": "Sep 25",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Kenya to double Ethiopian power imports as domestic grid pressures mount",
+     "u": "https://www.theafricareport.com/431601/kenya-to-double-ethiopian-power-imports-as-domestic-grid-pressures-mount/",
+     "s": "The Africa Report",
+     "d": "Sep 25",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "5,000 fibre cuts threaten Nigeria's digital economy",
+     "u": "https://itpulse.com.ng/5000-fibre-cuts-threaten-nigerias-digital-economy/",
+     "s": "ITPulse",
+     "d": "Sep 25",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Coffee With Larry Yon: why Africa's tech ecosystem should be building the next NVIDIA",
+     "u": "https://techcabal.com/2026/09/25/larry-yon-africa-digital-trust-diaspora-investment/",
+     "s": "TechCabal",
+     "d": "Sep 25",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Africa's 5G market is set to nearly quadruple by 2030",
+     "u": "https://techafricanews.com/2026/09/24/africas-5g-market-is-set-to-nearly-quadruple-by-2030-what-will-drive-the-growth/",
+     "s": "TechAfrica News",
+     "d": "Sep 24",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "NuRAN Wireless to pilot Starlink LEO backhaul at rural Nigeria sites",
+     "u": "https://techafricanews.com/2026/09/24/nuran-wireless-starlink-leo-backhaul-pilot-nigeria/",
+     "s": "TechAfrica News",
+     "d": "Sep 24",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "R4.54 billion in a week: who is paying for Africa's fibre build-out?",
+     "u": "https://www.itnewsafrica.com/mobile-and-telecoms/r4-54bn-in-a-week-who-is-paying-for-africas-fibre-build-out/",
+     "s": "ITNewsAfrica",
+     "d": "Sep 24",
+     "dot": "dot-infra"
+    },
     {
      "t": "Egypt and NVIDIA Discuss AI Cooperation, Skills Development and Innovation",
      "u": "https://techafricanews.com/2026/09/22/egypt-nvidia-discuss-ai-cooperation-skills-development-innovation/",

@@ -1,6 +1,10 @@
 bucket,date,source,title,url
-jobs,Sep 24,Outsource Accelerator,Uganda pitches BPO and creative industries as new export engines,https://news.outsourceaccelerator.com/uganda-bpo-creative-exports/
-jobs,Sep 24,arXiv,Can Labour Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring,https://arxiv.org/abs/2609.30058
+jobs,Sep 26,iAfrica,Egypt says more than 100 faculties now offer AI and computer science programmes,https://iafrica.com/egypt-says-more-than-100-faculties-now-offer-ai-and-computer-science-programmes/
+jobs,Sep 25,Outsource Accelerator,Outsourcing body launches AI-focused job board for remote South African talent,https://news.outsourceaccelerator.com/hiresa-south-african-talent/
+jobs,Sep 25,Outsource Accelerator,AI splits Bangladesh's workforce as HR faces job-security fears,https://news.outsourceaccelerator.com/bangladesh-ai-hr-workforce/
+jobs,Sep 25,Outsource Accelerator,Unverified claim of 80 Indian layoffs on one call goes viral,https://news.outsourceaccelerator.com/viral-indian-layoffs-claim/
+jobs,Sep 24,ITPulse,"Why Nigeria must convert digital skills to productive work, enterprise and improved livelihoods",https://itpulse.com.ng/why-nigeria-must-convert-digital-skills-to-productive-work-enterprise-and-improved-livelihoods/
+jobs,Sep 24,TechAfrica News,"Kenya expands digital literacy programme to 10,382 junior schools",https://techafricanews.com/2026/09/24/kenya-digital-literacy-programme-10382-junior-schools/
 jobs,Sep 23,Outsource Accelerator,AI is scrambling the tech job market,https://news.outsourceaccelerator.com/ai-tech-job-market/
 jobs,Sep 22,Outsource Accelerator,Philippine labor market stays resilient amid the AI boom,https://news.outsourceaccelerator.com/philippine-labor-ai-resilient/
 jobs,Sep 22,Outsource Accelerator,AI-exposed jobs see faster pay growth: Indeed,https://news.outsourceaccelerator.com/ai-exposed-pay-growth/
@@ -94,10 +98,14 @@ jobs,May 16,UN Economic Commission for Africa,AI and jobs in Africa: turning dis
 jobs,Apr 25,Mastercard Foundation,40% of Tasks in Africa's Tech Outsourcing May Be Affected by AI by 2030,https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/
 jobs,Mar 31,WeeTracker,South Africa's gig economy becomes a bargain with AI skills shortage looming,https://weetracker.com/2026/03/31/south-africa-freelance-economy-ai-talent-gap-2026/
 jobs,Dec 25,"Deric Cheng, AI Frontiers",AI Could Undermine Emerging Economies,https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies
+access,Sep 25,ITPulse,Over 23 million Nigerians still offline as RuralConnect Summit 2.0 seeks solutions,https://itpulse.com.ng/over-23-million-nigerians-still-offline-as-ruralconnect-summit-2-0-seeks-solutions/
+access,Sep 25,Developing Telecoms,Smart offers affordable access to AI models in the Philippines,https://www.developingtelecoms.com/telecom-technology/enterprise-ecosystems/20878-smart-offers-affordable-access-to-ai-models-in-the-philippines.html
+access,Sep 25,TechTrendsKE,Tecno wins two IFA innovation awards for modular phone and mini PC,https://techtrendske.co.ke/2026/09/25/tecno-wins-two-ifa-innovation-awards-for-modular-phone-mini-pc/
 access,Sep 24,TechCabal,Africa's $30 smartphone goal is becoming harder to achieve,https://techcabal.com/2026/09/24/africas-30-smartphone-goal-is-becoming-harder-to-achieve/
-access,Sep 24,TechCabal,How Africa's AI boom is leaving 100 million disabled citizens behind,https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/
+access,Sep 24,TechCabal,"AI boom is leaving 100 million disabled Africans behind, data gap flagged",https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/
+access,Sep 24,TechAfrica News,"Alibaba unveils full-stack AI strategy with new Qwen models, chips and agentic cloud",https://techafricanews.com/2026/09/24/alibaba-full-stack-ai-strategy-qwen-chips-agentic-cloud/
+access,Sep 24,TechAfrica News,Airtel Uganda rolls out Starlink satellite-to-mobile service,https://techafricanews.com/2026/09/24/airtel-uganda-rolls-out-starlink-satellite-to-mobile-service/
 access,Sep 23,DigiTimes,OpenAI and Anthropic cut frontier model prices ten days after calling for a slowdown,https://www.digitimes.com/news/a20260923VL200/anthropic-openai-opus-claude-price.html
-access,Sep 23,Apidog,GPT-6 Luna vs Gemini 3.8 Flash vs DeepSeek: what the sub-$1 API tier actually costs,https://apidog.com/blog/gpt-6-luna-vs-gemini-flash-vs-deepseek/
 access,Sep 22,CNBC,Anthropic and OpenAI roll out cheaper models in first release since call for slowdown,https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html
 access,Sep 22,Fortune,What slowdown? OpenAI and Anthropic release dueling models as AI price wars heat up,https://fortune.com/2026/09/22/what-ai-slowdown-openai-anthropic-release-dueling-moreaffordable-models-as-ai-price-wars-heat-up/
 access,Sep 22,Leadership,UNGA 81: Global digital push targets wider access and skills,https://leadership.ng/unga-81-global-digital-push-targets-wider-access-skills/
@@ -105,7 +113,6 @@ access,Sep 21,TechAfrica News,Mozambique INCM Develops Tariff System to Improve 
 access,Sep 21,Cyprus Mail,"Record chip sales threaten higher prices for phones, PCs and gaming",https://cyprus-mail.com/2026/09/21/record-chip-sales-threaten-higher-prices-for-phones-pcs-and-gaming
 access,Sep 21,TechCabal,Nigeria's new phone tracking policy could price millions offline,https://techcabal.com/2026/09/21/nigerias-new-phone-tracking-policy-could-price-millions-offline/
 access,Sep 21,GSMA,GSMA and PDAA Unveil Roadmap to Close Africa's Mobile Internet Usage Gap and Connect One Billion People by 2030,https://www.gsma.com/newsroom/press-release/gsma-and-pdaa-unveil-roadmap-to-close-africas-mobile-internet-usage-gap-and-connect-one-billion-people-by-2030/
-access,Sep 21,arXiv,Who Pays for the KV Cache? Attributing Shared AI Inference Spend Across Kubernetes and LLM Provider Bills,https://arxiv.org/abs/2609.24991
 access,Sep 20,AI Pricing Guru,"AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",https://www.aipricing.guru/
 access,Sep 20,Capital Ethiopia,Sub-Saharan Africa faces digital divide as handset costs and usage gap persist,https://capitalethiopia.com/2026/09/20/sub-saharan-africa-faces-digital-divide-as-handset-costs-and-usage-gap-persist/
 access,Sep 20,Tech Review Africa,Kenya urged to enhance AI capacity for financial inclusion and security,https://techreviewafrica.com/news/7360/kenya-urged-to-enhance-ai-capacity-for-financial-inclusion-and-security
@@ -225,16 +232,25 @@ access,May 27,Trustonic,"Deconstructing Africa's smartphone market: shipments, p
 access,May 26,"David Oks, Substack",AI Is Killing the Cheap Smartphone,https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone
 access,Apr 15,Japan Times / AFP,AI-driven chip shortage slowing efforts to get world online: GSMA,https://www.thejapantimes.jp/Technology/658420-ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma.html
 access,Feb 26,Techpoint Africa,AI Chip Demand — Smartphone Prices in Nigeria,https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/
-infra,Sep 24,TechAfrica News,"Africa's $76B network investment will go further when risk comes down, says GSMA's Caroline Mbugua",https://techafricanews.com/2026/09/24/africas-76b-network-investment-will-go-further-when-risk-comes-down-says-gsmas-caroline-mbugua/
-infra,Sep 24,TechAfrica News,NuRAN Wireless to pilot Starlink LEO backhaul at rural site in Nigeria,https://techafricanews.com/2026/09/24/nuran-wireless-starlink-leo-backhaul-pilot-nigeria/
-infra,Sep 24,iAfrica,Microsoft sets out a six-part definition of digital sovereignty to South African officials,https://iafrica.com/microsoft-sets-out-a-six-part-definition-of-digital-sovereignty-to-south-african-officials/
+infra,Sep 26,iAfrica,"NVIDIA confirms Morocco in two African AI compute projects, including 500MW Casablanca factory",https://iafrica.com/nvidia-confirms-morocco-in-two-african-ai-compute-projects-including-500mw-casablanca-factory/
+infra,Sep 25,iAfrica,Kenya signs responsible AI declaration with Anthropic,https://iafrica.com/kenya-signs-responsible-ai-declaration-with-anthropic-days-after-being-named-in-the-companys-threat-report/
+infra,Sep 25,iAfrica,"Rwanda's PM sets three tests for AI sovereignty: 'A market, not a participant'",https://iafrica.com/a-market-not-a-participant-rwandas-pm-sets-three-tests-for-ai-sovereignty/
+infra,Sep 25,iAfrica,"Lesotho is first to apply UN AI blueprint, starting with what it needs before what it builds",https://iafrica.com/lesotho-is-first-to-apply-un-ai-blueprint-starting-with-what-it-needs-before-what-it-builds/
+infra,Sep 25,iAfrica,"South Africa: Malatsi on the AI policy collapse, redraft now slipping to March",https://iafrica.com/we-didnt-interrogate-the-bibliography-malatsi-on-the-ai-policy-collapse-and-a-redraft-now-slipping-to-march/
+infra,Sep 25,TechAfrica News,Egypt AI Council reviews national AI strategy progress and quantum computing plans,https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/
+infra,Sep 25,TechAfrica News,Akamai secures $11.6 billion Anthropic cloud infrastructure commitment over seven years,https://techafricanews.com/2026/09/25/akamai-11-6-billion-anthropic-cloud-infrastructure-commitment/
+infra,Sep 25,The Africa Report,Kenya to double Ethiopian power imports as domestic grid pressures mount,https://www.theafricareport.com/431601/kenya-to-double-ethiopian-power-imports-as-domestic-grid-pressures-mount/
+infra,Sep 25,ITPulse,"5,000 fibre cuts threaten Nigeria's digital economy",https://itpulse.com.ng/5000-fibre-cuts-threaten-nigerias-digital-economy/
+infra,Sep 25,TechCabal,Coffee With Larry Yon: why Africa's tech ecosystem should be building the next NVIDIA,https://techcabal.com/2026/09/25/larry-yon-africa-digital-trust-diaspora-investment/
+infra,Sep 24,TechAfrica News,Africa's 5G market is set to nearly quadruple by 2030,https://techafricanews.com/2026/09/24/africas-5g-market-is-set-to-nearly-quadruple-by-2030-what-will-drive-the-growth/
+infra,Sep 24,TechAfrica News,NuRAN Wireless to pilot Starlink LEO backhaul at rural Nigeria sites,https://techafricanews.com/2026/09/24/nuran-wireless-starlink-leo-backhaul-pilot-nigeria/
+infra,Sep 24,ITNewsAfrica,R4.54 billion in a week: who is paying for Africa's fibre build-out?,https://www.itnewsafrica.com/mobile-and-telecoms/r4-54bn-in-a-week-who-is-paying-for-africas-fibre-build-out/
 infra,Sep 22,TechAfrica News,"Egypt and NVIDIA Discuss AI Cooperation, Skills Development and Innovation",https://techafricanews.com/2026/09/22/egypt-nvidia-discuss-ai-cooperation-skills-development-innovation/
 infra,Sep 22,TechAfrica News,Rwanda Signs MoU With ChipMango to Build Local Semiconductor Design Skills,https://techafricanews.com/2026/09/22/rwanda-signs-mou-with-chipmango-to-build-local-semiconductor-design-skills/
 infra,Sep 22,iAfrica,South Africa seeks UN commitment to global AI governance framework,https://iafrica.com/south-africa-seeks-un-commitment-to-global-ai-governance-framework/
 infra,Sep 22,Headlines Nigeria,UNGA: Nigeria sets four pillars for its inclusive AI push,https://headlines.ng/unga-nigeria-sets-four-pillars-for-its-inclusive-ai-push/
 infra,Sep 22,iAfrica,"Vodafone Egypt begins commercial rollout of Ericsson's AI RAN processor, among first markets after Japan",https://iafrica.com/vodafone-egypt-begins-commercial-rollout-of-ericssons-ai-ran-processor-among-first-markets-after-japan/
 infra,Sep 22,iAfrica,Offshore wind is pitched to power Cape Town's data centres. It won't arrive until 2035,https://iafrica.com/offshore-wind-is-pitched-to-power-cape-towns-data-centres-it-wont-arrive-until-2035/
-infra,Sep 22,Connecting Africa,Minister pitches South Africa as a submarine cable and digital infrastructure hub,https://www.connectingafrica.com/connectivity/minister-pitches-south-africa-as-digital-infrastructure-hub
 infra,Sep 21,TechAfrica News,Kenya and Stanford's Hoover Institution Sign Five-Year Deal on AI and Data Governance,https://techafricanews.com/2026/09/21/kenya-stanford-hoover-institution-ai-data-governance-deal/
 infra,Sep 21,TechAfrica News,"Resilience, Routing and Data Sovereignty in African Networks",https://techafricanews.com/2026/09/21/resilience-routing-and-data-sovereignty-in-african-networks/
 infra,Sep 21,Independent Newspaper Nigeria,Digital Parks Africa To Build Tier IV Carrier-Neutral Data Centre In Lagos,https://independent.ng/digital-parks-africa-to-build-tier-iv-carrier-neutral-data-centre-in-lagos/
