@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26",
+ "updated": "2026-09-27",
  "schema": 1,
  "buckets": {
   "jobs": {
@@ -9,6 +9,20 @@
      "t": "Egypt says more than 100 faculties now offer AI and computer science programmes",
      "u": "https://iafrica.com/egypt-says-more-than-100-faculties-now-offer-ai-and-computer-science-programmes/",
      "s": "iAfrica",
+     "d": "Sep 26",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Trump's H-1B crackdown: for African tech talent, the road to America is getting narrower",
+     "u": "https://techcabal.com/2026/09/26/trumps-immigration-policy-squeeze/",
+     "s": "TechCabal",
+     "d": "Sep 26",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Outsourcing works when vendors join discovery, not just delivery",
+     "u": "https://news.outsourceaccelerator.com/outsourcing-discovery-not-delivery/",
+     "s": "Outsource Accelerator",
      "d": "Sep 26",
      "dot": "dot-jobs"
     },
@@ -704,6 +718,27 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "Nigeria's smartphone ownership rises to 75% as digital use expands",
+     "u": "https://nairametrics.com/2026/09/26/nigerias-smartphone-ownership-rises-to-75-as-digital-use-expands-report/",
+     "s": "Nairametrics",
+     "d": "Sep 26",
+     "dot": "dot-access"
+    },
+    {
+     "t": "KPMG and Orange launch Nigeria smartphone study as OPay and WhatsApp lead app rankings",
+     "u": "https://technext24.com/news/kpmg-orange-launch-nigeria-smartphone-study/",
+     "s": "Technext24",
+     "d": "Sep 26",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Kenyan startup builds robotic sign language interpreter, and the African dataset to train it",
+     "u": "https://iafrica.com/kenyan-startup-builds-robotic-sign-language-interpreter-and-the-african-dataset-to-train-it/",
+     "s": "iAfrica",
+     "d": "Sep 26",
+     "dot": "dot-access"
+    },
+    {
      "t": "Over 23 million Nigerians still offline as RuralConnect Summit 2.0 seeks solutions",
      "u": "https://itpulse.com.ng/over-23-million-nigerians-still-offline-as-ruralconnect-summit-2-0-seeks-solutions/",
      "s": "ITPulse",
@@ -721,6 +756,13 @@
      "t": "Tecno wins two IFA innovation awards for modular phone and mini PC",
      "u": "https://techtrendske.co.ke/2026/09/25/tecno-wins-two-ifa-innovation-awards-for-modular-phone-mini-pc/",
      "s": "TechTrendsKE",
+     "d": "Sep 25",
+     "dot": "dot-access"
+    },
+    {
+     "t": "WhatsApp is installed on 95% of Nigerian smartphones",
+     "u": "https://technext24.com/news/whatsapp-is-installed-on-nigerian-smartphones/",
+     "s": "Technext24",
      "d": "Sep 25",
      "dot": "dot-access"
     },
@@ -1654,6 +1696,13 @@
      "dot": "dot-infra"
     },
     {
+     "t": "Kenya cyber threats hit 11 billion as DDoS attacks double",
+     "u": "https://www.itnewsafrica.com/cybersecurity/kenya-cyber-threats-hit-11-billion/",
+     "s": "ITNewsAfrica",
+     "d": "Sep 26",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Kenya signs responsible AI declaration with Anthropic",
      "u": "https://iafrica.com/kenya-signs-responsible-ai-declaration-with-anthropic-days-after-being-named-in-the-companys-threat-report/",
      "s": "iAfrica",
@@ -1713,6 +1762,20 @@
      "t": "Coffee With Larry Yon: why Africa's tech ecosystem should be building the next NVIDIA",
      "u": "https://techcabal.com/2026/09/25/larry-yon-africa-digital-trust-diaspora-investment/",
      "s": "TechCabal",
+     "d": "Sep 25",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Africa cannot secure agentic AI with yesterday's security model",
+     "u": "https://itpulse.com.ng/africa-cannot-secure-agentic-ai-with-yesterdays-security-model/",
+     "s": "ITPulse",
+     "d": "Sep 25",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Eastern Africa countries, EAC and IGAD advance regional digital integration in Nairobi",
+     "u": "https://techafricanews.com/2026/09/25/eastern-africa-eac-igad-regional-digital-integration/",
+     "s": "TechAfrica News",
      "d": "Sep 25",
      "dot": "dot-infra"
     },
