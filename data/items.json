@@ -1,10 +1,24 @@
 {
- "updated": "2026-09-27",
+ "updated": "2026-09-28",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "The CX automation boom has an intelligence gap",
+     "u": "https://techcentral.co.za/cx-automation-intelligence-gap-callminer/286515/",
+     "s": "TechCentral",
+     "d": "Sep 28",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "From outsourcing to AI-enabled global services: NITDA DG positions Nigeria for next digital economy",
+     "u": "https://newsexpressngr.com/news/326163/from-outsourcing-to-ai-enabled-global-services-nitda-dg-positions-nigeria-for-next-digital-economy",
+     "s": "News Express Nigeria",
+     "d": "Sep 28",
+     "dot": "dot-jobs"
+    },
     {
      "t": "Egypt says more than 100 faculties now offer AI and computer science programmes",
      "u": "https://iafrica.com/egypt-says-more-than-100-faculties-now-offer-ai-and-computer-science-programmes/",
@@ -44,6 +58,13 @@
      "t": "Unverified claim of 80 Indian layoffs on one call goes viral",
      "u": "https://news.outsourceaccelerator.com/viral-indian-layoffs-claim/",
      "s": "Outsource Accelerator",
+     "d": "Sep 25",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Digital freelancers find more work and new pressure on pay",
+     "u": "https://www.pymnts.com/consumer-insights/2026/digital-freelancers-find-more-work-and-new-pressure-on-pay/",
+     "s": "PYMNTS",
      "d": "Sep 25",
      "dot": "dot-jobs"
     },
@@ -718,6 +739,27 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "HMD Aura 2 Pro leak shows how budget phones are changing in the memory crisis",
+     "u": "https://memeburn.com/hmd-aura-2-pro-leak-shows-how-budget-phones-are-changing-in-the-memory-crisis/",
+     "s": "Memeburn",
+     "d": "Sep 28",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Samsung Care+ cuts screen repair costs across East Africa",
+     "u": "https://techtrendske.co.ke/2026/09/28/samsung-care-cuts-screen-repair-costs-across-east-africa/",
+     "s": "TechTrendsKE",
+     "d": "Sep 28",
+     "dot": "dot-access"
+    },
+    {
+     "t": "9 in 10 Nigerian smartphone users are on Android, KPMG finds",
+     "u": "https://technext24.com/news/9-in-10-nigerians-use-android-smartphones/",
+     "s": "Technext24",
+     "d": "Sep 27",
+     "dot": "dot-access"
+    },
+    {
      "t": "Nigeria's smartphone ownership rises to 75% as digital use expands",
      "u": "https://nairametrics.com/2026/09/26/nigerias-smartphone-ownership-rises-to-75-as-digital-use-expands-report/",
      "s": "Nairametrics",
@@ -737,6 +779,13 @@
      "s": "iAfrica",
      "d": "Sep 26",
      "dot": "dot-access"
+    },
+    {
+     "t": "Chinese AI models surge in global adoption",
+     "u": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
+     "s": "CNBC",
+     "d": "Sep 26",
+     "dot": "dot-price"
     },
     {
      "t": "Over 23 million Nigerians still offline as RuralConnect Summit 2.0 seeks solutions",
@@ -1688,6 +1737,27 @@
   "infra": {
    "label": "Infrastructure",
    "items": [
+    {
+     "t": "Egypt and Mali deepen digital cooperation on fibre networks and AI",
+     "u": "https://techafricanews.com/2026/09/28/egypt-mali-digital-cooperation-fibre-networks-ai/",
+     "s": "TechAfrica News",
+     "d": "Sep 28",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Gabon pushes African priorities in global digital governance ahead of ITU PP-26",
+     "u": "https://techafricanews.com/2026/09/28/gabon-african-priorities-global-digital-governance-itu-pp26/",
+     "s": "TechAfrica News",
+     "d": "Sep 28",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Malawi's telecoms regulator proposes AI surveillance network for Blantyre",
+     "u": "https://iafrica.com/malawis-telecoms-regulator-proposes-ai-surveillance-network-for-blantyre/",
+     "s": "iAfrica",
+     "d": "Sep 28",
+     "dot": "dot-infra"
+    },
     {
      "t": "NVIDIA confirms Morocco in two African AI compute projects, including 500MW Casablanca factory",
      "u": "https://iafrica.com/nvidia-confirms-morocco-in-two-african-ai-compute-projects-including-500mw-casablanca-factory/",
