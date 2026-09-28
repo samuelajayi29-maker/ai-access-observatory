@@ -41,7 +41,10 @@
     });
     if (legend) legend.innerHTML = D.legends[current] || '';
     host.querySelectorAll('.map__tab').forEach(function (b) {
-      b.classList.toggle('is-on', b.getAttribute('data-layer') === current);
+      var active = b.getAttribute('data-layer') === current;
+      b.classList.toggle('is-on', active);
+      b.setAttribute('aria-selected', active ? 'true' : 'false');
+      b.setAttribute('tabindex', active ? '0' : '-1');
     });
   }
   function fmt(k, v) {
@@ -79,24 +82,36 @@
       }
       rows += '</div>';
     });
-    var link = (D.pages && D.pages[iso])
-      ? '<p class="map__link"><a href="' + esc(D.pages[iso]) + '">Open the country profile \u2192</a></p>'
-      : '';
+    var profile = (D.pages && D.pages[iso]) || ('countries.html#country-' + encodeURIComponent(iso));
+    var link = '<p class="map__link"><a href="' + esc(profile) + '">Open the country profile \u2192</a></p>';
     panel.innerHTML = '<h3 class="map__panel-title">' + name + '</h3>' + rows + link +
       '<p class="map__prov">Record compiled ' + esc(D.compiled) + '</p>';
   }
   host.addEventListener('click', function (e) {
-    var t = e.target.closest ? e.target.closest('[data-iso],.map__tab') : null;
+    var t = e.target.closest ? e.target.closest('[data-iso],.map__tab,[data-map-select]') : null;
     if (!t) return;
     if (t.classList.contains('map__tab')) {
       current = t.getAttribute('data-layer');
       paint();
       if (selected) show(selected);
+    } else if (t.hasAttribute('data-map-select')) {
+      show(t.getAttribute('data-map-select'));
     } else {
       show(t.getAttribute('data-iso'));
     }
   });
   host.addEventListener('keydown', function (e) {
+    var tab = e.target.closest ? e.target.closest('.map__tab') : null;
+    if (tab && ['ArrowLeft', 'ArrowRight', 'Home', 'End'].indexOf(e.key) !== -1) {
+      e.preventDefault();
+      var tabs = Array.prototype.slice.call(host.querySelectorAll('.map__tab'));
+      var index = tabs.indexOf(tab);
+      var next = e.key === 'Home' ? 0 : (e.key === 'End' ? tabs.length - 1
+        : (index + (e.key === 'ArrowRight' ? 1 : tabs.length - 1)) % tabs.length);
+      tabs[next].focus();
+      tabs[next].click();
+      return;
+    }
     if (e.key !== 'Enter' && e.key !== ' ') return;
     var t = e.target;
     if (t && t.hasAttribute && t.hasAttribute('data-iso')) {
