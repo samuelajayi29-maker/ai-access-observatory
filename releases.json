@@ -383,8 +383,8 @@
      "bytes": 34529
     },
     "css/style.css": {
-     "sha256": "a8913df26e9f59ba85a1611d2c7dd75374e42cc337bef45aff55fd84835645d3",
-     "bytes": 54572
+     "sha256": "2eb324d27a1d1fd1c9efc0ea883c2d0c82dba00f4957a947951f15f7156d0a1c",
+     "bytes": 61496
     },
     "data/affordability.csv": {
      "sha256": "3973b1d0949ecf08be2749db0031a01d6250c5cdd92b4ee85d2813b6023f4d46",
@@ -567,8 +567,8 @@
      "bytes": 11578
     },
     "data/reference/revision-log.json": {
-     "sha256": "d3c82b6ac18a81dd1ffe182554e038f49463a42bff769e9f9bf34bc1b5548a56",
-     "bytes": 29181
+     "sha256": "c80de48a9fbbd98f719bca7be17f9dd1b8ac9d7ae3e0f6c0621e988e42c24f75",
+     "bytes": 29276
     },
     "data/reference/row-state.json": {
      "sha256": "4cf079ed792f0aaf1a8c3b6293f3f944d1e3413a5c7c880c0a68af780d3627bc",
@@ -635,7 +635,7 @@
      "bytes": 205
     },
     "index.html": {
-     "sha256": "4e02501a8eac5ef5b9ecf7f52112d5b06a04a94516f232f4df1c3605fbf34177",
+     "sha256": "e5986932054c1b30ddae4bc71ba8ffff8485cff44b7baaa92d32e33733ba1d3b",
      "bytes": 933818
     },
     "infrastructure.html": {
@@ -643,8 +643,8 @@
      "bytes": 162384
     },
     "jobs.html": {
-     "sha256": "f7c5d00f64ae136cad95df5481853efeed9466b0899022d2eb916996a3cb8920",
-     "bytes": 147752
+     "sha256": "3267a0b8731e1a291428d84f168732196ae5521e69fbc409068cf52fae5f95c3",
+     "bytes": 147751
     },
     "js/chart-builder.js": {
      "sha256": "b1cba3e33759063afe4c15cf42687b9cc8849a2273ae6c563826812c8d775710",
