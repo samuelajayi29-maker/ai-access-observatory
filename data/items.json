@@ -1,10 +1,31 @@
 {
- "updated": "2026-09-28",
+ "updated": "2026-09-29",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "The competency illusion: Why Africa’s tech ecosystem is firing top engineers",
+     "u": "https://techcabal.com/2026/09/29/why-africas-tech-ecosystem-is-firing-top-engineers/",
+     "s": "TechCabal",
+     "d": "Sep 29",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Top Nigerian higher institutions leading the AI revolution",
+     "u": "https://businessday.ng/education/article/top-nigerian-higher-institutions-leading-the-ai-revolution/",
+     "s": "BusinessDay",
+     "d": "Sep 29",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Is AI Widening the Wage Gap? A Hybrid Agentic Simulation for Labor Equity",
+     "u": "https://arxiv.org/abs/2609.33367",
+     "s": "arXiv cs.CY",
+     "d": "Sep 29",
+     "dot": "dot-arxiv"
+    },
     {
      "t": "The CX automation boom has an intelligence gap",
      "u": "https://techcentral.co.za/cx-automation-intelligence-gap-callminer/286515/",
@@ -16,6 +37,34 @@
      "t": "From outsourcing to AI-enabled global services: NITDA DG positions Nigeria for next digital economy",
      "u": "https://newsexpressngr.com/news/326163/from-outsourcing-to-ai-enabled-global-services-nitda-dg-positions-nigeria-for-next-digital-economy",
      "s": "News Express Nigeria",
+     "d": "Sep 28",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Nigeria targets global AI services market as Inuwa pushes ‘Hire from Nigeria’",
+     "u": "https://itpulse.com.ng/nigeria-targets-global-ai-services-market-as-inuwa-pushes-hire-from-nigeria/",
+     "s": "ITPulse",
+     "d": "Sep 28",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Egypt counts 200,000 specialists exporting digital services",
+     "u": "https://news.outsourceaccelerator.com/egypt-digital-export-workforce/",
+     "s": "Outsource Accelerator",
+     "d": "Sep 28",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "India’s Tier-2 GCC push hits infrastructure, AI talent gaps",
+     "u": "https://news.outsourceaccelerator.com/india-tier2-gcc-gaps/",
+     "s": "Outsource Accelerator",
+     "d": "Sep 28",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "TP opens more than 10,000 customer service jobs in the Philippines",
+     "u": "https://news.outsourceaccelerator.com/tp-philippines-10000-jobs/",
+     "s": "Outsource Accelerator",
      "d": "Sep 28",
      "dot": "dot-jobs"
     },
@@ -739,6 +788,27 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "OpenAI cancels October launch of GPT-6.1 Astra",
+     "u": "https://techcentral.co.za/openai-cancels-gpt-6-1-astra-launch/286566/",
+     "s": "TechCentral",
+     "d": "Sep 29",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Anthropic IPO: AI will outstrip electricity and the internet",
+     "u": "https://techcentral.co.za/anthropic-ipo-ai-outstrip-electricity-internet/286562/",
+     "s": "TechCentral",
+     "d": "Sep 29",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Vivo X Fold 6 launch date leak: a RAM cut and harder price math",
+     "u": "https://memeburn.com/vivo-x-fold-6-launch-date/",
+     "s": "Memeburn",
+     "d": "Sep 29",
+     "dot": "dot-access"
+    },
+    {
      "t": "HMD Aura 2 Pro leak shows how budget phones are changing in the memory crisis",
      "u": "https://memeburn.com/hmd-aura-2-pro-leak-shows-how-budget-phones-are-changing-in-the-memory-crisis/",
      "s": "Memeburn",
@@ -749,6 +819,27 @@
      "t": "Samsung Care+ cuts screen repair costs across East Africa",
      "u": "https://techtrendske.co.ke/2026/09/28/samsung-care-cuts-screen-repair-costs-across-east-africa/",
      "s": "TechTrendsKE",
+     "d": "Sep 28",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Samsung and SK Hynix battle for U.S. AI memory dominance",
+     "u": "https://restofworld.org/2026/samsung-sk-hynix-ai-memory-chip-war-nvidia-openai/",
+     "s": "Rest of World",
+     "d": "Sep 28",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Building African-language AI is easier than finding the data",
+     "u": "https://techcabal.com/2026/09/28/africa-ai-models-data-training-gap/",
+     "s": "TechCabal",
+     "d": "Sep 28",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Africa Is Connected. So Why Are 906 Million People Offline?",
+     "u": "https://cioafrica.co/africa-is-connected-so-why-are-906-million-people-offline/",
+     "s": "CIO Africa",
      "d": "Sep 28",
      "dot": "dot-access"
     },
@@ -1738,6 +1829,27 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "The AU’s Question: What 55 Countries Need to Agree on Before Africa Can Govern AI",
+     "u": "https://techafricanews.com/2026/09/29/the-aus-question-what-55-countries-need-to-agree-on-before-africa-can-govern-ai/",
+     "s": "TechAfrica News",
+     "d": "Sep 29",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Africa AI solutions must grow from local soil",
+     "u": "https://furtherafrica.com/2026/09/29/africa-ai-solutions-must-grow-from-local-soil/",
+     "s": "FurtherAfrica",
+     "d": "Sep 29",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Beyond Energy: When Sustainability Dimensions Reshape LLM Serving Decisions",
+     "u": "https://arxiv.org/abs/2609.35569",
+     "s": "arXiv cs.CY",
+     "d": "Sep 29",
+     "dot": "dot-arxiv"
+    },
+    {
      "t": "Egypt and Mali deepen digital cooperation on fibre networks and AI",
      "u": "https://techafricanews.com/2026/09/28/egypt-mali-digital-cooperation-fibre-networks-ai/",
      "s": "TechAfrica News",
@@ -1754,6 +1866,20 @@
     {
      "t": "Malawi's telecoms regulator proposes AI surveillance network for Blantyre",
      "u": "https://iafrica.com/malawis-telecoms-regulator-proposes-ai-surveillance-network-for-blantyre/",
+     "s": "iAfrica",
+     "d": "Sep 28",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "TCS Sovereign Cloud Goes Live In Nairobi",
+     "u": "https://cioafrica.co/tcs-sovereign-cloud-goes-live-in-nairobi/",
+     "s": "CIO Africa",
+     "d": "Sep 28",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "UN AI Panel Member: African Countries Should Start With the Problem, Not the Technology",
+     "u": "https://iafrica.com/un-ai-panel-member-african-countries-should-start-with-the-problem-not-the-technology/",
      "s": "iAfrica",
      "d": "Sep 28",
      "dot": "dot-infra"
