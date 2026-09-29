@@ -7,6 +7,7 @@
    ========================================================================= */
 
 :root {
+  color-scheme: light;
   --surface-card: #ffffff;
   --chart-preview-min: 40rem;
   --surface-accent: #edf3f0;
@@ -81,7 +82,7 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --surface-card: #1d1b16;
     --surface-accent: #22352e;
     --ink-note: #b3aca2;
@@ -104,10 +105,37 @@
     --pillar-infra: #58b394;
     --pillar-access: #c8a44e;
     --pillar-jobs: #d98773;
+    color-scheme: dark;
   }
 }
+:root[data-theme="dark"] {
+    --surface-card: #1d1b16;
+    --surface-accent: #22352e;
+    --ink-note: #b3aca2;
+    --paper: #14130f;
+    --paper-sunk: #1d1b16;
+    --rule: #322f28;
+    --rule-strong: #4d4840;
+    --ink: #f2efe9;
+    --ink-secondary: #c2bcb2;
+    --ink-muted: #918a80;
+    --action: #8fb8e8;
+    /* status colours re-tuned for a dark ground, not inverted: each is checked
+       for contrast against --paper and against its own chip background */
+    --measured: #58b394;
+    --announced: #93b8ac;
+    --forecast: #a49c92;
+    --proposal: #c2ab84;
+    --derived: #93a3bb;
+    --correction: #e08a76;
+    --pillar-infra: #58b394;
+    --pillar-access: #c8a44e;
+    --pillar-jobs: #d98773;
+  color-scheme: dark;
+}
+
 [data-theme="dark"] { color-scheme: dark; }
-[data-theme="dark"] body { background: #14130f; }
+
 
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
@@ -836,3 +864,6 @@ footer { background: var(--paper-sunk); margin-top: var(--s-8); }
   .table-tools { grid-template-columns: minmax(0,1fr); }
   .table-tools__count { grid-column: 1; grid-row: 3; }
 }
+
+.theme-picker { display: flex; align-items: center; gap: var(--s-2); margin-left: auto; font-size: var(--step--1); color: var(--ink-secondary); }
+.theme-picker select { min-height: var(--control-height); padding: var(--s-2) var(--s-3); font: inherit; color: var(--ink); background: var(--paper); border: var(--line-thin) solid var(--rule-strong); border-radius: var(--radius-control); }

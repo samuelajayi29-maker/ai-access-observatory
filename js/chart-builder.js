@@ -110,6 +110,11 @@
     return y;
   }
   function drawChart(rows) {
+    var currentStyle = getComputedStyle(document.documentElement);
+    Object.keys(theme).forEach(function (name) {
+      var tokens = {paper: "--paper", ink: "--ink", rule: "--rule", note: "--ink-note", accent: "--action"};
+      theme[name] = currentStyle.getPropertyValue(tokens[name]).trim();
+    });
     preview.replaceChildren();
     if (!rows.length) { svg=null; preview.textContent='Select at least one record to make a chart.'; return; }
     svg=svgElement('svg',{xmlns:ns,width:1100,role:'img','aria-labelledby':'custom-chart-title custom-chart-desc','font-family':'Arial, Helvetica, sans-serif'});
@@ -251,5 +256,6 @@
     try {if(!navigator.clipboard) throw new Error();await navigator.clipboard.writeText(url.href);message.textContent='Chart link copied. It reopens this selection using the current published register.';}
     catch(_){get('.chart-share-fallback').hidden=false;get('[data-cb-link]').value=url.href;get('[data-cb-link]').select();message.textContent='Copy the link below.';}
   });
+  document.addEventListener("observatory-theme-change", render);
   activate(initial,params.has('chart'));
 })();
