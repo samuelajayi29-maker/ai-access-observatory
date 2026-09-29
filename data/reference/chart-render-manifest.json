@@ -1,0 +1,46 @@
+{
+ "access-affordability": {
+  "svg": "9079a78e4a19de52437d4eeea9612798073e4a1e6bb387acbb17b175a8d1ed0d",
+  "png": "58c823502a523ee09ad04fc67ebd28d720e4a66a4979ebd9f34833adc4be6e9b"
+ },
+ "access-capability-vs-cost": {
+  "svg": "cfd02f8d38c55880c3644beb5eb86efc0c6e1851955afe8a07c8831616725750",
+  "png": "ad2b05f47810d482a3b0a47bff53d6820f53353d9df2391749478e1917eeb4db"
+ },
+ "access-device-prices": {
+  "svg": "5284113c4ffcb057265a94eaf305265bd20fbacea14572b19869758e762bc74d",
+  "png": "5b6c5f2c1861a8becd9202d0acbce7eaa22e01108a1410424347d6cf1c4a09ef"
+ },
+ "access-fx-decomposition": {
+  "svg": "9a5c4a506cd042b9ffe28c5d6fed326b91330019d761a9b344836a2530f9fceb",
+  "png": "4e2dd3127ff1ec198ef2e12bf713b66fe93b8385f80f8e2671832f75685256fc"
+ },
+ "access-shipments": {
+  "svg": "b039d1aec9393cee8224c438ef5145b97e002f21346695cb899a40c87882821a",
+  "png": "df17c6a48e7af54f465c64ba424c4603f1404f837cbd4a5a089ac94cf277d234"
+ },
+ "access-subscription-share": {
+  "svg": "294683963c02e5134c734471f0e32e743132143a85e820ab12f80476f53e2687",
+  "png": "e163dd866fd1e70dff3b688183abb8903042ff2472e2b2d9471c0eeec6f42343"
+ },
+ "infra-capacity-by-status": {
+  "svg": "d1b916b857c17196c2d495f0ec6380184718a05839f3a7bb84cd4a387b758db5",
+  "png": "2adce0f12d0ffcacddccde02950f1dc0bbed2205549770da452ec61df0b75385"
+ },
+ "infra-capital-by-country": {
+  "svg": "0d69ca2562aabc7eaee8d3525ca6bf7b0bfd5378767f08341640ddac0f365650",
+  "png": "7d5029ed911da87e678a111a2f2ed3083a86d3e8f26262d8efe4099f485ee41a"
+ },
+ "jobs-atlas-exposure": {
+  "svg": "ad2f0ca23b87bda74ed590faac6d58d405b9b9c16d574c77f47286203167087a",
+  "png": "6a3d0a2ba51b763bf0d93b43dedeab0e94947236ba3499bacaa8b158edb59ce2"
+ },
+ "jobs-exposure": {
+  "svg": "3adb4ebe08d4b1bb93fd73f101befa4e183101e967c10bb112331eda4961cc7c",
+  "png": "3f3029c22897ea31e8ac0882e7f60980286aa0eaf633031580567bf15bd68cfb"
+ },
+ "record-activity": {
+  "svg": "7b0a231dddbead975bf077ea9c8d43fcb43a353f7927ef3d37287a38b55130f7",
+  "png": "8bba131ceca15e9f0af7391c465b05038fba33c0a3bedeacdf207997a2af612b"
+ }
+}

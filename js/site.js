@@ -82,6 +82,7 @@
   function addTableFilters() {
     var tables = Array.prototype.slice.call(document.querySelectorAll('table.register'));
     tables.forEach(function (table, index) {
+      if (table.hasAttribute('data-cb-table')) return;
       Array.prototype.slice.call(table.querySelectorAll('thead th')).forEach(function (heading) {
         if (!heading.hasAttribute('scope')) heading.setAttribute('scope', 'col');
       });
@@ -576,7 +577,7 @@
         heading.className = 'capacity-status-row__heading';
         addText(heading, 'strong', '', displayLabel(group.status));
         addText(heading, 'span', '', group.data.count + ' project ' + (group.data.count === 1 ? 'row' : 'rows'));
-        addText(heading, 'span', 'capacity-status-row__value', group.data.mw
+        addText(heading, 'span', 'capacity-status-row__value', group.data.count > group.data.unknown
           ? group.data.mw.toLocaleString('en-US', { maximumFractionDigits: 1 }) + ' MW named'
           : 'No information for capacity');
         row.appendChild(heading);
@@ -617,7 +618,7 @@
           var item = document.createElement('li');
           addText(item, 'strong', '', countryNames[iso] || iso);
           addText(item, 'span', '', group.count + ' project ' + (group.count === 1 ? 'row' : 'rows'));
-          addText(item, 'span', 'country-capacity-list__value', group.mw
+          addText(item, 'span', 'country-capacity-list__value', group.count > group.unknown
             ? group.mw.toLocaleString('en-US', { maximumFractionDigits: 1 }) + ' MW named'
             : 'No published capacity');
           if (group.unknown) addText(item, 'span', 'project-meta', group.unknown + ' rows without a published MW figure');

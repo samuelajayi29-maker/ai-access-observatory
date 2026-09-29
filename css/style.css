@@ -7,6 +7,11 @@
    ========================================================================= */
 
 :root {
+  --chart-picker-width: 19rem;
+  --chart-list-height: 26rem;
+  --chart-focus-width: 3px;
+  --chart-min-control: 12rem;
+  --chart-control-height: 2.75rem;
   /* Surface ---------------------------------------------------------------- */
   --paper: #fbfaf8;
   --paper-sunk: #f2f0ec;
@@ -600,6 +605,35 @@ footer a { color: var(--ink-secondary); border: 0; }
   .table-tools__count, .country-filter__count { grid-column: 1; grid-row: auto; }
   .country-grid { grid-template-columns: 1fr; }
 }
+
+/* Select comparable records and export an attributable chart. */
+.resource-wrap { margin-block: var(--s-12); }
+.resource-shortcut { margin-block: var(--s-4); }
+.resource-shortcut a { font-weight: 600; }
+.resource-tools { padding-block: var(--s-8); border-top: var(--line-strong) solid var(--ink); }
+.resource-tools h2 { margin-bottom: var(--s-4); }
+.resource-details { margin-block: var(--s-6); border-top: var(--line-thin) solid var(--rule); padding-top: var(--s-4); }
+.resource-details summary { cursor: pointer; font-weight: 600; margin-bottom: var(--s-4); }
+.chart-controls { display: grid; grid-template-columns: repeat(auto-fit,minmax(min(100%,var(--chart-min-control)),1fr)); gap: var(--s-4); margin-block: var(--s-6); }
+.chart-controls label, .chart-picker > label, .chart-share-fallback { display: grid; gap: var(--s-2); font-size: var(--step--1); }
+.chart-controls input, .chart-controls select, .chart-picker input[type=search], .chart-share-fallback input { width: 100%; min-width: 0; min-height: var(--chart-control-height); padding: var(--s-2); font: inherit; color: var(--ink); background: var(--paper); border: var(--line-thin) solid var(--rule-strong); }
+.chart-workspace { display: grid; grid-template-columns: minmax(0,var(--chart-picker-width)) minmax(0,1fr); gap: var(--s-6); align-items: start; }
+.chart-picker { min-width: 0; padding: var(--s-4); border: var(--line-thin) solid var(--rule); }
+.chart-picker legend { font-weight: 600; }
+.chart-record-list { max-height: var(--chart-list-height); overflow-y: auto; }
+.chart-record { display: flex; gap: var(--s-3); align-items: flex-start; padding-block: var(--s-3); border-bottom: var(--line-thin) solid var(--rule); cursor: pointer; }
+.chart-record input { margin-top: var(--s-1); flex-shrink: 0; }
+.chart-record small { display: block; color: var(--ink-note); font-size: var(--step--1); }
+.chart-preview { min-width: 0; border: var(--line-thin) solid var(--rule); padding: var(--s-2); background: var(--paper); }
+.chart-preview svg { display: block; width: 100%; height: auto; }
+.chart-actions { display: flex; flex-wrap: wrap; gap: var(--s-2); margin-block: var(--s-4); }
+.chart-actions button { border: var(--line-thin) solid var(--action); color: var(--action); background: var(--paper); min-height: var(--chart-control-height); padding: var(--s-2) var(--s-3); cursor: pointer; font: inherit; font-size: var(--step--1); }
+.chart-actions button:hover { background: var(--paper-sunk); }
+.chart-actions button:disabled { opacity: .5; cursor: default; }
+.resource-tools :focus-visible { outline: var(--chart-focus-width) solid var(--action); outline-offset: var(--s-1); }
+.signal-review-note { display: block; margin-block: var(--s-2); color: var(--ink-secondary); font-size: var(--step--1); }
+.chart-share-fallback[hidden] { display: none; }
+@media (max-width: 760px) { .chart-workspace { grid-template-columns: minmax(0,1fr); } }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
 
 /* ---------- guided pillar explorers -------------------------------------- */

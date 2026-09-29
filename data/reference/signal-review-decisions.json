@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "decisions": [
+    {
+      "signal_url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+      "decision": "evidence_added",
+      "reviewed_at": "2026-09-28",
+      "observation_ids": [
+        "nvidia-africa-training"
+      ],
+      "note": "Primary source reviewed. Findings are in the signal evidence register with their scope, period and status."
+    },
+    {
+      "signal_url": "https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/",
+      "decision": "evidence_added",
+      "reviewed_at": "2026-09-28",
+      "observation_ids": [
+        "bpo-automatable",
+        "bpo-resilient",
+        "bpo-entry-level",
+        "bpo-customer-experience"
+      ],
+      "note": "Primary source reviewed. Findings are in the signal evidence register with their scope, period and status."
+    },
+    {
+      "signal_url": "https://techafricanews.com/2026/09/17/gsma-rwanda-reforms-connect-1-07-million-more-mobile-internet-users-2031/",
+      "decision": "evidence_added",
+      "reviewed_at": "2026-09-28",
+      "observation_ids": [
+        "rwanda-additional-users",
+        "rwanda-reform-growth",
+        "rwanda-fiscal-benefit"
+      ],
+      "note": "Primary source reviewed. Findings are in the signal evidence register with their scope, period and status."
+    },
+    {
+      "signal_url": "https://www.gsma.com/newsroom/press-release/gsma-and-pdaa-unveil-roadmap-to-close-africas-mobile-internet-usage-gap-and-connect-one-billion-people-by-2030/",
+      "decision": "evidence_added",
+      "reviewed_at": "2026-09-28",
+      "observation_ids": [
+        "africa-usage-gap",
+        "africa-coverage-gap"
+      ],
+      "note": "Primary source reviewed. Findings are in the signal evidence register with their scope, period and status."
+    },
+    {
+      "signal_url": "https://www.gsma.com/newsroom/press-release/gsma-warns-of-emerging-global-ai-divide-as-three-billion-people-remain-offline-and-smartphone-component-costs-soar/",
+      "decision": "evidence_added",
+      "reviewed_at": "2026-09-28",
+      "observation_ids": [
+        "handset-ssa",
+        "handset-lmic"
+      ],
+      "note": "Primary source reviewed. Findings are in the signal evidence register with their scope, period and status."
+    },
+    {
+      "signal_url": "https://businessday.ng/technology/article/entry-level-smartphone-costs-hit-76-of-monthly-income-in-sub-saharan-africa/",
+      "decision": "corrected_scope",
+      "reviewed_at": "2026-09-28",
+      "observation_ids": [
+        "handset-ssa"
+      ],
+      "source_url": "https://www.gsma.com/newsroom/press-release/gsma-warns-of-emerging-global-ai-divide-as-three-billion-people-remain-offline-and-smartphone-component-costs-soar/",
+      "note": "76% refers to the poorest 20% of people, not average income across all residents. Observation: end of 2025."
+    },
+    {
+      "signal_url": "https://iafrica.com/nvidia-confirms-morocco-in-two-african-ai-compute-projects-including-500mw-casablanca-factory/",
+      "decision": "project_added",
+      "reviewed_at": "2026-09-28",
+      "source_url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+      "project": "Nexus AI factory (Casablanca)",
+      "note": "Added 500 MW planned capacity and USD 1.2 billion initial investment; status announced."
+    },
+    {
+      "signal_url": "https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/",
+      "decision": "excluded_unverified",
+      "reviewed_at": "2026-09-28",
+      "source_url": "https://cloud.google.com/blog/products/infrastructure/heita-south-africa-new-cloud-region",
+      "prior_record": {
+        "name": "Google African cloud region (Nairobi)",
+        "country": "Kenya",
+        "sponsors": "Google Cloud",
+        "capacity_mw": null,
+        "capex_usd": null,
+        "status": "announced",
+        "announced": "2026-07-06",
+        "online": "2028",
+        "source": "Tech In Africa",
+        "url": "https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/",
+        "note": "First Google cloud region on the continent, targeted for 2028.",
+        "evidence_status": "unclear",
+        "temporal_status": "announced",
+        "geography_scope": "country",
+        "headline_eligible": false,
+        "originating_source": "Tech In Africa",
+        "evidence_host": "techinafrica.com",
+        "source_quality": "ok",
+        "archive_url": "https://web.archive.org/web/20260708182858/https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/",
+        "archived_at": "2026-07-08"
+      },
+      "note": "Removed unconfirmed Nairobi proposal from the active project register. Google states its first African region opened in Johannesburg on 2024-01-31. This does not establish a Nairobi project or its proposed 2028 opening."
+    },
+    {
+      "signal_url": "https://technext24.com/news/kpmg-orange-launch-nigeria-smartphone-study/",
+      "decision": "evidence_added",
+      "reviewed_at": "2026-09-28",
+      "source_url": "https://kpmg.com/content/dam/kpmgsites/ng/pdf/2026/09/Nigeria%20Smartphone%20Study%20-%20Orange%20Group%20and%20KPMG.pdf.coredownload.inline.pdf",
+      "observation_ids": [
+        "nga-survey-ai-1",
+        "nga-survey-ai-2",
+        "nga-survey-ai-3",
+        "nga-survey-ai-4",
+        "nga-survey-ai-5",
+        "nga-survey-ai-6",
+        "nga-survey-ai-7",
+        "nga-survey-ai-8",
+        "nga-survey-ai-9",
+        "nga-survey-ai-10"
+      ],
+      "note": "Added the AI-tools comparison from p.41 with the city-survey scope. Methods on pp.9–10 limit interpretation; not national adoption."
+    },
+    {
+      "signal_url": "https://nairametrics.com/2026/09/26/nigerias-smartphone-ownership-rises-to-75-as-digital-use-expands-report/",
+      "decision": "needs_clarification",
+      "reviewed_at": "2026-09-28",
+      "source_url": "https://kpmg.com/content/dam/kpmgsites/ng/pdf/2026/09/Nigeria%20Smartphone%20Study%20-%20Orange%20Group%20and%20KPMG.pdf.coredownload.inline.pdf",
+      "note": "The report labels ownership 75% on p.12, but its methodology describes selected urban/semi-urban smartphone users (pp.9–10). Withheld as a national ownership estimate until the sampling denominator and weights are clarified."
+    },
+    {
+      "signal_url": "https://technext24.com/news/9-in-10-nigerians-use-android-smartphones/",
+      "decision": "corrected_scope",
+      "reviewed_at": "2026-09-28",
+      "source_url": "https://kpmg.com/content/dam/kpmgsites/ng/pdf/2026/09/Nigeria%20Smartphone%20Study%20-%20Orange%20Group%20and%20KPMG.pdf.coredownload.inline.pdf",
+      "note": "Primary report p.15 gives 88%, with a smartphone-user base of 9,944 for 2025. The rounded headline is not a share of all Nigerians. Kept as contextual evidence; no national ownership value inferred."
+    },
+    {
+      "signal_url": "https://techafricanews.com/2026/09/16/senegal-300m-cybastion-digitalisation-projects/",
+      "decision": "corrected_scope",
+      "reviewed_at": "2026-09-28",
+      "source_url": "https://prod.cybastiontech.com/fr/blog/salle-de-presse-4/senegal-and-cybastion-announce-proposed-digital-transformation-partnership-417",
+      "observation_ids": [
+        "sen-cybastion-financing-target"
+      ],
+      "note": "Company statement says USD300m financing target subject to agreements and approvals. Recorded separately from committed capital and project capex."
+    }
+  ]
+}

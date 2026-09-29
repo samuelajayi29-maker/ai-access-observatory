@@ -1,16 +1,16 @@
 {
  "release": "v2026.10",
  "schema_version": "2026.10.3",
- "validated_at": "2026-09-28",
+ "validated_at": "2026-09-29",
  "counts": {
   "rows_checked": 1337,
   "rows_passing": 366,
   "rows_quarantined": 971,
-  "rows_missing_archive": 47,
+  "rows_missing_archive": 48,
   "rows_with_bad_url": 11,
   "rows_with_dead_source": 0,
   "rows_missing_status": 0,
-  "indicators": 139,
+  "indicators": 140,
   "indicators_failing_contract": 0,
   "fx_rows_checked": 130
  },
@@ -126,7 +126,7 @@
    "rows": 22,
    "passing": 0,
    "quarantined": 22,
-   "missing_archive": 2,
+   "missing_archive": 3,
    "bad_url": 0,
    "dead_source": 0
   },
@@ -231,6 +231,7 @@
  "warnings": [
   "infrastructure[6] Huawei AI data centre bid: no archive snapshot captured for https://www.bloomberg.com/news/articles/2026-08-26/huawei-courts-egypt",
   "infrastructure[11] Teraco JB7 data centre expansion: no archive snapshot captured for https://mybroadband.co.za/news/cloud-hosting/664345-one-data-centre-in",
+  "infrastructure[21] Nexus AI factory (Casablanca): no archive snapshot captured for https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
   "device-prices[4] Device prices: no archive snapshot captured for https://techwireasia.com/2026/04/global-smartphone-market-2026-memory-"
  ],
  "status": "pass"

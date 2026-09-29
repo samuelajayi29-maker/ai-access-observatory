@@ -1,5 +1,5 @@
 {
- "compiled": "2026-09-26",
+ "compiled": "2026-09-29",
  "schema_version": "2026.10.2",
  "tier_scheme": {
   "primary_filing": {
@@ -2791,6 +2791,27 @@
    "note": ""
   },
   {
+   "id": "infra.capacity.morocco",
+   "pillar": "Infrastructure",
+   "indicator": "Data centre capacity named in the register",
+   "value": 500.0,
+   "unit": "MW named (all delivery statuses)",
+   "geography": "Morocco",
+   "geo_iso3": "MAR",
+   "date": "2026",
+   "source": "Observatory infrastructure register",
+   "source_url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+   "source_type": "NEWS",
+   "tier": 4,
+   "tier_label": "News reporting",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "announced",
+   "methodology": "Sum of published capacity in the register. Projects without a published capacity figure are excluded, never counted as zero. This inventory total includes all labelled delivery statuses; it is not operational supply. Use the status breakdown for operating capacity.",
+   "recompute_from": "data/infrastructure.json",
+   "headline": false,
+   "note": "0.0 MW of this is serving load."
+  },
+  {
    "id": "infra.capacity.nigeria",
    "pillar": "Infrastructure",
    "indicator": "Data centre capacity named in the register",
@@ -2806,7 +2827,7 @@
    "tier_label": "News reporting",
    "evidence_status": "trade_reporting",
    "temporal_status": "announced",
-   "methodology": "Sum of published capacity in the register. Projects without a published capacity figure are excluded, never counted as zero. Announced capacity is not operational capacity and the two are never added together in a single figure.",
+   "methodology": "Sum of published capacity in the register. Projects without a published capacity figure are excluded, never counted as zero. This inventory total includes all labelled delivery statuses; it is not operational supply. Use the status breakdown for operating capacity.",
    "recompute_from": "data/infrastructure.json",
    "headline": false,
    "note": "0.0 MW of this is serving load. 2 of 3 projects in this country carry no published capacity and are excluded rather than counted as zero."
@@ -2827,7 +2848,7 @@
    "tier_label": "News reporting",
    "evidence_status": "trade_reporting",
    "temporal_status": "announced",
-   "methodology": "Sum of published capacity in the register. Projects without a published capacity figure are excluded, never counted as zero. Announced capacity is not operational capacity and the two are never added together in a single figure.",
+   "methodology": "Sum of published capacity in the register. Projects without a published capacity figure are excluded, never counted as zero. This inventory total includes all labelled delivery statuses; it is not operational supply. Use the status breakdown for operating capacity.",
    "recompute_from": "data/infrastructure.json",
    "headline": false,
    "note": "0.0 MW of this is serving load. 3 of 4 projects in this country carry no published capacity and are excluded rather than counted as zero."
@@ -2848,7 +2869,7 @@
    "tier_label": "News reporting",
    "evidence_status": "trade_reporting",
    "temporal_status": "announced",
-   "methodology": "Sum of published capacity in the register. Projects without a published capacity figure are excluded, never counted as zero. Announced capacity is not operational capacity and the two are never added together in a single figure.",
+   "methodology": "Sum of published capacity in the register. Projects without a published capacity figure are excluded, never counted as zero. This inventory total includes all labelled delivery statuses; it is not operational supply. Use the status breakdown for operating capacity.",
    "recompute_from": "data/infrastructure.json",
    "headline": false,
    "note": "0.0 MW of this is serving load."
@@ -2869,10 +2890,10 @@
    "tier_label": "News reporting",
    "evidence_status": "trade_reporting",
    "temporal_status": "announced",
-   "methodology": "Sum of published capacity in the register. Projects without a published capacity figure are excluded, never counted as zero. Announced capacity is not operational capacity and the two are never added together in a single figure.",
+   "methodology": "Sum of published capacity in the register. Projects without a published capacity figure are excluded, never counted as zero. This inventory total includes all labelled delivery statuses; it is not operational supply. Use the status breakdown for operating capacity.",
    "recompute_from": "data/infrastructure.json",
    "headline": false,
-   "note": "6.4 MW of this is serving load. 3 of 4 projects in this country carry no published capacity and are excluded rather than counted as zero."
+   "note": "6.4 MW of this is serving load. 2 of 3 projects in this country carry no published capacity and are excluded rather than counted as zero."
   },
   {
    "id": "infra.active-data-centre-capacity-in-africa",

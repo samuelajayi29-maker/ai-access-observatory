@@ -3,7 +3,7 @@
  "metric": "infrastructure_project",
  "definition": "Colocation and hyperscale data centre facilities of 1 MW design capacity or above, plus nationally announced cloud or AI compute programmes, publicly announced and traceable to a named source. Enterprise self-build, sub-1 MW sites and unannounced facilities are out of scope in this version. The definition is published so coverage can be judged against it, and it will be revised in the open.",
  "unit": "MW (capacity) and USD (capital). The two are never summed.",
- "compiled": "2026-09-11",
+ "compiled": "2026-09-28",
  "status_key": {
   "operational": "Open and serving customers",
   "under_construction": "Building, with a stated target date",
@@ -457,28 +457,6 @@
    "archived_at": "2026-09-21"
   },
   {
-   "name": "Google African cloud region (Nairobi)",
-   "country": "Kenya",
-   "sponsors": "Google Cloud",
-   "capacity_mw": null,
-   "capex_usd": null,
-   "status": "announced",
-   "announced": "2026-07-06",
-   "online": "2028",
-   "source": "Tech In Africa",
-   "url": "https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/",
-   "note": "First Google cloud region on the continent, targeted for 2028.",
-   "evidence_status": "unclear",
-   "temporal_status": "announced",
-   "geography_scope": "country",
-   "headline_eligible": false,
-   "originating_source": "Tech In Africa",
-   "evidence_host": "techinafrica.com",
-   "source_quality": "ok",
-   "archive_url": "https://web.archive.org/web/20260708182858/https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/",
-   "archived_at": "2026-07-08"
-  },
-  {
    "name": "Nigeria cloud and AI investment target",
    "country": "Nigeria",
    "sponsors": "Federal Government of Nigeria",
@@ -523,6 +501,28 @@
    "source_quality": "ok",
    "archive_url": "https://web.archive.org/web/20260921122927/https://techafricanews.com/2026/08/10/project-bridge-enters-execution-phase-with-bridge-oa-incorporation/",
    "archived_at": "2026-09-21"
+  },
+  {
+   "name": "Nexus AI factory (Casablanca)",
+   "country": "Morocco",
+   "sponsors": "Nexus Core Systems; Moroccan government partners",
+   "capacity_mw": 500,
+   "capex_usd": 1200000000,
+   "status": "announced",
+   "announced": "2026-04",
+   "online": null,
+   "source": "NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+   "note": "Planned capacity; USD 1.2 billion is the initial investment announcement. No commissioning evidence. Announcement month only.",
+   "evidence_status": "company_filing",
+   "temporal_status": "announced",
+   "geography_scope": "country",
+   "headline_eligible": false,
+   "originating_source": "NVIDIA",
+   "evidence_host": "blogs.nvidia.com",
+   "source_quality": "ok",
+   "reviewed_at": "2026-09-28",
+   "source_published_at": "2026-09-21"
   }
  ],
  "context": [

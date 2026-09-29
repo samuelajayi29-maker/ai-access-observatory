@@ -285,21 +285,6 @@
    "hash": "34e113b7e57b59b5",
    "date": "2026-09-02"
   },
-  "Google African cloud region (Nairobi)": {
-   "payload": {
-    "capacity_mw": null,
-    "capex_usd": null,
-    "capex_local": null,
-    "committed_capital_lower_bound_usd": null,
-    "investment_target_usd": null,
-    "status": "announced",
-    "status_detail": null,
-    "online": "2028",
-    "url": "https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/"
-   },
-   "hash": "97a2aac747881864",
-   "date": "2026-07-06"
-  },
   "Nigeria cloud and AI investment target": {
    "payload": {
     "capacity_mw": null,
@@ -329,6 +314,21 @@
    },
    "hash": "460feb0a2d6aaf80",
    "date": "2026-08-10"
+  },
+  "Nexus AI factory (Casablanca)": {
+   "payload": {
+    "capacity_mw": 500,
+    "capex_usd": 1200000000,
+    "capex_local": null,
+    "committed_capital_lower_bound_usd": null,
+    "investment_target_usd": null,
+    "status": "announced",
+    "status_detail": null,
+    "online": null,
+    "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/"
+   },
+   "hash": "1bf2f183a94828ce",
+   "date": "2026-04"
   }
  },
  "model-prices": {

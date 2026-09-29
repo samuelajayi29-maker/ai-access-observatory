@@ -1,0 +1,46 @@
+{
+ "infra-capacity-by-status": {
+  "svg": "d1b916b857c17196c2d495f0ec6380184718a05839f3a7bb84cd4a387b758db5",
+  "csv": "3a5498e157a6f5f447ba659af748506a39865768f2850e265602596f68d9b52e"
+ },
+ "infra-capital-by-country": {
+  "svg": "0d69ca2562aabc7eaee8d3525ca6bf7b0bfd5378767f08341640ddac0f365650",
+  "csv": "4fa2978700ac11ee99d0a3495288f49065fc38eb13a2e92fe8ad29e526464b4f"
+ },
+ "access-capability-vs-cost": {
+  "svg": "cfd02f8d38c55880c3644beb5eb86efc0c6e1851955afe8a07c8831616725750",
+  "csv": "06a2bc2a49501af500e017c5401ec3e08e7baac356b0455fdbc24deb15a759b7"
+ },
+ "access-device-prices": {
+  "svg": "5284113c4ffcb057265a94eaf305265bd20fbacea14572b19869758e762bc74d",
+  "csv": "6ea8a3d9e63945f00fd0e554284851baad5e8b95fe101b1c0e388ba0f025dcc6"
+ },
+ "access-shipments": {
+  "svg": "b039d1aec9393cee8224c438ef5145b97e002f21346695cb899a40c87882821a",
+  "csv": "5f771ce5b1476cfd4c6345a8566b2340cddf96b1094e6b8a39012e5917541b9a"
+ },
+ "record-activity": {
+  "svg": "7b0a231dddbead975bf077ea9c8d43fcb43a353f7927ef3d37287a38b55130f7",
+  "csv": "530863ee21d7dc80f5e9985491a7afde195bb64a16ef936dcdaf396b5a628d1b"
+ },
+ "access-affordability": {
+  "svg": "9079a78e4a19de52437d4eeea9612798073e4a1e6bb387acbb17b175a8d1ed0d",
+  "csv": "3e0d9220ea8d927a013550ea2f6ee702e3d02168a76b7ed2946cba90d98db079"
+ },
+ "access-fx-decomposition": {
+  "svg": "9a5c4a506cd042b9ffe28c5d6fed326b91330019d761a9b344836a2530f9fceb",
+  "csv": "fbfa70526a17db71e0efa671cef06f027061a41468c139b917e3c3687a23ca8b"
+ },
+ "access-subscription-share": {
+  "svg": "294683963c02e5134c734471f0e32e743132143a85e820ab12f80476f53e2687",
+  "csv": "741172ec41c3ab7292b00673b37b5defd850c8409bad3ff0053f4844d3f2cb28"
+ },
+ "jobs-exposure": {
+  "svg": "3adb4ebe08d4b1bb93fd73f101befa4e183101e967c10bb112331eda4961cc7c",
+  "csv": "a2920e02c83cbb41fe8cfdc47bb520976e3f578503bedf31a60c68800edcc216"
+ },
+ "jobs-atlas-exposure": {
+  "svg": "ad2f0ca23b87bda74ed590faac6d58d405b9b9c16d574c77f47286203167087a",
+  "csv": "1fb1e3664e69a502f19d406334b0a2de5c4512eb5527e2f24d06705d1fcf9aaf"
+ }
+}
