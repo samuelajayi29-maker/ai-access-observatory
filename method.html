@@ -132,7 +132,7 @@ the task share, and the page says so rather than leaving a hole.</p>
       </div>
       <a href="https://samuelajayi29-maker.github.io/ai-access-observatory/charts/record-activity.svg"><img src="charts/record-activity.svg" alt="Signals added to the record by month and series: May 8, Jun 3, Jul 102, Aug 114, Sep 242. This measures the monitoring layer, not the market."></a>
       <p class="chart-block__caption">Added daily · counts from the live record</p>
-      <p class="chart-block__status"></p>
+      <p class="chart-block__status"> <a href="method.html#status-key">Status key</a></p>
       <div class="chart-block__foot">
         <span>Status treatments are defined once on the method page.</span>
         <span class="dl">
@@ -180,7 +180,7 @@ the task share, and the page says so rather than leaving a hole.</p>
       score being invented. No second independent capability reference is carried yet; that is a known gap.</p>
     </div>
 
-    <h2 class="sec">Status: two orthogonal fields</h2>
+    <h2 class="sec" id="status-key">Status: two orthogonal fields</h2>
     <p class="sec-note">A row is an evidence status and a temporal status, never one blended label. The cross-tab
     covers 48 rows in the model-prices, infrastructure, device-prices, device-shipments,
     device-policy and component-costs JSON registers. It excludes CSV registers and model-price events;
@@ -366,6 +366,7 @@ document.querySelectorAll('[data-copy]').forEach(function (b) {
     var el = document.getElementById(b.getAttribute('data-copy'));
     if (el && navigator.clipboard) navigator.clipboard.writeText(el.textContent);
     b.textContent = 'Copied';
+    if (!matchMedia('(prefers-reduced-motion: reduce)').matches && b.animate) b.animate([{opacity:0},{opacity:1}], {duration:400});
     setTimeout(function () { b.textContent = b.textContent.replace('Copied', 'Copy ' + (b.getAttribute('data-copy').indexOf('bibtex') > -1 ? 'BibTeX' : 'citation')); }, 1600);
   });
 });

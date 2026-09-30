@@ -109,6 +109,30 @@
     });
     return y;
   }
+  function statusKey(text) {
+    text=String(text).toLowerCase();
+    if(/modelled/.test(text)) return 'modelled';
+    if(/derived/.test(text)) return 'derived';
+    if(/forecast|projection/.test(text)) return 'forecast';
+    if(/proposal/.test(text)) return 'proposal';
+    if(/announced|construction|approved|exploring|appeal|funding|policy_target/.test(text)) return 'announced';
+    if(/measured|operational/.test(text)) return 'measured';
+    return null;
+  }
+  function statusMark(shape, attrs, row) {
+    var key=statusKey(row.status);
+    var color=getComputedStyle(document.documentElement).getPropertyValue('--'+(key || 'ink-secondary')).trim();
+    attrs.stroke=color;attrs['stroke-width']=1.5;attrs['data-status']=key || 'unspecified';
+    attrs.fill=(key==='measured' || key==='derived') ? color : theme.paper;
+    if(key==='forecast') attrs['stroke-dasharray']='4 3';
+    if(key==='proposal') attrs.fill='url(#cb-proposal)';
+    var mark=svgElement(shape,attrs);mark.appendChild(svgElement('title',{},row.status));svg.appendChild(mark);
+    if(key==='derived' || key==='modelled') {
+      svg.appendChild(svgElement('text',{x:shape==='circle'?attrs.cx:attrs.x+4,
+        y:shape==='circle'?attrs.cy+3:attrs.y+14,'font-size':10,
+        'text-anchor':shape==='circle'?'middle':'start',fill:key==='derived'?theme.paper:color},key==='derived'?'ƒ':'∿'));
+    }
+  }
   function drawChart(rows) {
     var currentStyle = getComputedStyle(document.documentElement);
     Object.keys(theme).forEach(function (name) {
@@ -117,7 +141,10 @@
     });
     preview.replaceChildren();
     if (!rows.length) { svg=null; preview.textContent='Select at least one record to make a chart.'; return; }
-    svg=svgElement('svg',{xmlns:ns,width:1100,role:'img','aria-labelledby':'custom-chart-title custom-chart-desc','font-family':'Arial, Helvetica, sans-serif'});
+    svg=svgElement('svg',{xmlns:ns,width:1100,role:'img','aria-labelledby':'custom-chart-title custom-chart-desc','font-family':'IBM Plex Sans, Arial, sans-serif','style':'font-variant-numeric:tabular-nums lining-nums'});
+    var defs=svgElement('defs',{}), pattern=svgElement('pattern',{id:'cb-proposal',width:6,height:6,patternUnits:'userSpaceOnUse'});
+    pattern.appendChild(svgElement('path',{d:'M0 6L6 0',stroke:getComputedStyle(document.documentElement).getPropertyValue('--proposal').trim(),'stroke-width':1}));
+    defs.appendChild(pattern);svg.appendChild(defs);
     var chartTitle = title.value.trim() || current.title;
     svg.appendChild(svgElement('title',{id:'custom-chart-title'},chartTitle));
     svg.appendChild(svgElement('desc',{id:'custom-chart-desc'},current.description+' '+rows.map(function (r) {return r.label+': '+valueLabel(r)+' '+current.unit+'; '+r.period+'; '+r.status;}).join('. ')));
@@ -148,10 +175,10 @@
       svg.appendChild(svgElement('line',{x1:left,x2:right,y1:y-5,y2:y-5,stroke:theme.rule}));
       if(r.value!==null) {
         var x=position(r.value), zero=position(0);
-        if(type.value==='dots') svg.appendChild(svgElement('circle',{cx:x,cy:y-5,r:6,fill:theme.accent}));
-        else svg.appendChild(svgElement('rect',{x:Math.min(x,zero),y:y-15,width:Math.max(0,Math.abs(x-zero)),height:20,fill:theme.accent}));
+        if(type.value==='dots') statusMark('circle',{cx:x,cy:y-5,r:7},r);
+        else statusMark('rect',{x:Math.min(x,zero),y:y-15,width:Math.max(0,Math.abs(x-zero)),height:20},r);
       }
-      svg.appendChild(svgElement('text',{x:1065,y:y,'text-anchor':'end','font-size':13,fill:theme.ink},valueLabel(r)));
+      svg.appendChild(svgElement('text',{x:1065,y:y,'text-anchor':'end','font-size':13,'font-family':'IBM Plex Mono, Consolas, monospace',fill:theme.ink},valueLabel(r)));
       y=Math.max(labelY,y+18);
       y=lines(r.period+' · '+r.status,34,y,127,11,theme.note)+20;
     });

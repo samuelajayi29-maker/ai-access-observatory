@@ -172,6 +172,7 @@ document.querySelectorAll('[data-copy]').forEach(function (b) {
     var el = document.getElementById(b.getAttribute('data-copy'));
     if (el && navigator.clipboard) navigator.clipboard.writeText(el.textContent);
     b.textContent = 'Copied';
+    if (!matchMedia('(prefers-reduced-motion: reduce)').matches && b.animate) b.animate([{opacity:0},{opacity:1}], {duration:400});
     setTimeout(function () { b.textContent = b.textContent.replace('Copied', 'Copy ' + (b.getAttribute('data-copy').indexOf('bibtex') > -1 ? 'BibTeX' : 'citation')); }, 1600);
   });
 });

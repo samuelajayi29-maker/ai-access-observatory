@@ -140,7 +140,7 @@
       </div>
       <a href="https://samuelajayi29-maker.github.io/ai-access-observatory/charts/access-capability-vs-cost.svg"><img src="charts/access-capability-vs-cost.svg" alt="Cost of the standard workload against capability on one basis for 11 models. Within the top 5-point capability band the same work costs 5.0 times more on the dearest model than on the cheapest; the raw spread across every model priced is 19 times, which reflects product segmentation rather than market access. 2 models are not plotted because they have no score on the restated index."></a>
       <p class="chart-block__caption">13 models on one capability scale</p>
-      <p class="chart-block__status"></p>
+      <p class="chart-block__status"> <a href="method.html#status-key">Status key</a></p>
       <div class="chart-block__foot">
         <span>Status treatments are defined once on the method page.</span>
         <span class="dl">
@@ -160,7 +160,7 @@
       </div>
       <a href="https://samuelajayi29-maker.github.io/ai-access-observatory/charts/access-affordability.svg"><img src="charts/access-affordability.svg" alt="A grid of 13 models against 10 countries showing what a month of moderate use costs as a share of monthly GNI per capita. The cheapest model on the grid costs 4.6% of monthly GNI per capita and the dearest 268%, so affordability turns on which model a user picks, not only on where they live."></a>
       <p class="chart-block__caption">Share of monthly GNI per capita, Atlas method</p>
-      <p class="chart-block__status"></p>
+      <p class="chart-block__status"> <a href="method.html#status-key">Status key</a></p>
       <div class="chart-block__foot">
         <span>Status treatments are defined once on the method page.</span>
         <span class="dl">
@@ -180,7 +180,7 @@
       </div>
       <a href="https://samuelajayi29-maker.github.io/ai-access-observatory/charts/access-fx-decomposition.svg"><img src="charts/access-fx-decomposition.svg" alt="Decomposition of the change in local-currency price of a fixed model since 2026-01-15. The currency effect runs from -6.41% in Nigeria to +9.28% in Egypt; a rate-card change cannot be estimated from one observation."></a>
       <p class="chart-block__caption">Official rates only; parallel rates are held separately</p>
-      <p class="chart-block__status"></p>
+      <p class="chart-block__status"> <a href="method.html#status-key">Status key</a></p>
       <div class="chart-block__foot">
         <span>Status treatments are defined once on the method page.</span>
         <span class="dl">
@@ -200,7 +200,7 @@
       </div>
       <a href="https://samuelajayi29-maker.github.io/ai-access-observatory/charts/access-subscription-share.svg"><img src="charts/access-subscription-share.svg" alt="A grid of subscription tiers against countries showing the monthly list price as a share of monthly income. The same $20 tier runs from under 4% of monthly income in South Africa to over 20% in Ethiopia."></a>
       <p class="chart-block__caption">Published list price against GNI per capita, divided by 12</p>
-      <p class="chart-block__status"></p>
+      <p class="chart-block__status"> <a href="method.html#status-key">Status key</a></p>
       <div class="chart-block__foot">
         <span>Status treatments are defined once on the method page.</span>
         <span class="dl">
@@ -220,7 +220,7 @@
       </div>
       <a href="https://samuelajayi29-maker.github.io/ai-access-observatory/charts/access-device-prices.svg"><img src="charts/access-device-prices.svg" alt="What moved in device prices. DRAM contract price, Q2 2026 (Global components) +63%; Device prices (Emerging markets) +50%; Device prices, 2026 projection (Nigeria) +30%; Average selling price, 2026 (Global) +27.6%; Excise duty on smartphones (Kenya) +25%; Device prices (Middle East &amp;amp; Africa) +18%; Telecoms average selling price, H1 2026 (South Africa) +9.8%."></a>
       <p class="chart-block__caption">Price, duty and component records, February to September 2026</p>
-      <p class="chart-block__status"></p>
+      <p class="chart-block__status"> <a href="method.html#status-key">Status key</a></p>
       <div class="chart-block__foot">
         <span>Status treatments are defined once on the method page.</span>
         <span class="dl">
@@ -240,7 +240,7 @@
       </div>
       <a href="https://samuelajayi29-maker.github.io/ai-access-observatory/charts/access-shipments.svg"><img src="charts/access-shipments.svg" alt="What moved in shipments and market volume. Shipments, Q2 2026 (Sub-$100 segment) -34%; Shipments, 2026 forecast (Africa) -26%; Shipment outlook, 2026 (Africa) -25%; Smartphone market growth, Q1 2026 (South Africa) +17%; Shipments, Q2 2026 (Africa) -7%."></a>
       <p class="chart-block__caption">Shipment records, February to September 2026</p>
-      <p class="chart-block__status"></p>
+      <p class="chart-block__status"> <a href="method.html#status-key">Status key</a></p>
       <div class="chart-block__foot">
         <span>Status treatments are defined once on the method page.</span>
         <span class="dl">
@@ -339,6 +339,7 @@ document.querySelectorAll('[data-copy]').forEach(function (b) {
     var el = document.getElementById(b.getAttribute('data-copy'));
     if (el && navigator.clipboard) navigator.clipboard.writeText(el.textContent);
     b.textContent = 'Copied';
+    if (!matchMedia('(prefers-reduced-motion: reduce)').matches && b.animate) b.animate([{opacity:0},{opacity:1}], {duration:400});
     setTimeout(function () { b.textContent = b.textContent.replace('Copied', 'Copy ' + (b.getAttribute('data-copy').indexOf('bibtex') > -1 ? 'BibTeX' : 'citation')); }, 1600);
   });
 });

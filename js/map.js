@@ -55,6 +55,9 @@
   }
   function show(iso) {
     selected = iso;
+    host.querySelectorAll('[data-iso]').forEach(function(node) {
+      node.setAttribute('aria-pressed', node.getAttribute('data-iso') === iso ? 'true' : 'false');
+    });
     var name = iso;
     var el = host.querySelector('[data-iso="' + iso + '"]');
     if (el) {
@@ -86,6 +89,10 @@
     var link = '<p class="map__link"><a href="' + esc(profile) + '">Open the country profile \u2192</a></p>';
     panel.innerHTML = '<h3 class="map__panel-title">' + name + '</h3>' + rows + link +
       '<p class="map__prov">Record compiled ' + esc(D.compiled) + '</p>';
+    if (!matchMedia('(prefers-reduced-motion: reduce)').matches && panel.animate) {
+      panel.getAnimations().forEach(function(a) { a.cancel(); });
+      panel.animate([{opacity:0},{opacity:1}], {duration:400,easing:'cubic-bezier(0.2,0,0,1)'});
+    }
   }
   host.addEventListener('click', function (e) {
     var t = e.target.closest ? e.target.closest('[data-iso],.map__tab,[data-map-select]') : null;

@@ -573,6 +573,7 @@
       groups.forEach(function (group) {
         var row = document.createElement('div');
         row.className = 'capacity-status-row';
+        row.dataset.status = group.status === 'operational' ? 'measured' : 'announced';
         var heading = document.createElement('div');
         heading.className = 'capacity-status-row__heading';
         addText(heading, 'strong', '', displayLabel(group.status));
@@ -740,4 +741,46 @@
     initJobsExplorer();
     initInfrastructureExplorer();
   });
+})();
+
+// A chart is revealed once, when first viewed. Interaction redraws stay immediate.
+(function () {
+  function enhance() {
+    document.querySelectorAll('table td').forEach(function(cell) {
+      if (/^[+−-]?[\d,.]+\s*(%|MW|USD)?$/.test(cell.textContent.trim())) cell.dataset.numeric='true';
+    });
+    if (matchMedia('(prefers-reduced-motion: reduce)').matches || !window.IntersectionObserver) return;
+    var seen=new WeakSet();
+    var observer=new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (!entry.isIntersecting || seen.has(entry.target)) return;
+        seen.add(entry.target); observer.unobserve(entry.target);
+        if(entry.target.classList.contains('revision-values')) entry.target.classList.add('is-viewed');
+        else entry.target.classList.add('evidence-draw');
+      });
+    }, {threshold:0.15});
+    document.querySelectorAll('.chart-block img,.spark,.graph,.revision-values,.chart-preview').forEach(function(node) { observer.observe(node); });
+  }
+  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',enhance); else enhance();
+})();
+
+(function () {
+ function statusRows() {
+  document.querySelectorAll('table').forEach(function(table) {
+   var headers=Array.from(table.querySelectorAll('thead th')).map(function(h){return h.textContent.trim().toLowerCase();});
+   var columns=headers.map(function(h,i){return /status/.test(h)?i:-1;}).filter(function(i){return i>=0;});
+   if(!columns.length) return;
+   table.querySelectorAll('tbody tr').forEach(function(row){
+    columns.forEach(function(i){var cell=row.cells[i];if(!cell || cell.querySelector('.chip'))return;
+     var value=cell.textContent.trim().toLowerCase(), key=value==='projection'?'forecast':value;
+     if(!['measured','announced','forecast','proposal','derived','modelled'].includes(key))return;
+     row.dataset.status=key;
+     var chip=document.createElement('span');chip.className='chip chip--'+key;
+     var mark=document.createElement('span');mark.className='chip__mark';mark.setAttribute('aria-hidden','true');
+     chip.appendChild(mark);chip.appendChild(document.createTextNode(value));cell.replaceChildren(chip);
+    });
+   });
+  });
+ }
+ if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',statusRows);else statusRows();
 })();

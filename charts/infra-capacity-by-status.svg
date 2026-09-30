@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 460" width="820" height="460" role="img" aria-label="0.8% of the capacity named in the register is serving load: 6.4 MW energised against 806.4 MW named across four delivery statuses.">
-<rect width="820" height="460" fill="#FFFFFF"/>
-<text x="28" y="38" font-family="'Source Serif 4',Georgia,serif" font-size="21" font-weight="600" fill="#0D1B2A">Data centre capacity in Africa by delivery status</text>
-<text x="28" y="60.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#66757F">Megawatts named in the register. Status is never mixed and announced is not built.</text>
+<defs><pattern id="status-proposal" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 6L6 0" stroke="#756342" stroke-width="1" /></pattern></defs><rect width="820" height="460" fill="#fbfaf8" />
+<text x="28" y="38" font-family="'Source Serif 4',Georgia,serif" font-size="21" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Data centre capacity in Africa by delivery status</text>
+<text x="28" y="60.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Megawatts named in the register. Status is never mixed and announced is not built.</text>
 <defs>
-<pattern id="h-underc" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="9" height="9" fill="#B98A1F" opacity="0.25"/><line x1="0" y1="0" x2="0" y2="9" stroke="#B98A1F" stroke-width="3.2"/></pattern>
-<pattern id="h-approved" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(0)"><rect width="9" height="9" fill="#C9D2CB" opacity="0.25"/><line x1="0" y1="0" x2="9" y2="0" stroke="#C9D2CB" stroke-width="3.2"/></pattern>
-<pattern id="h-announced" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(0)"><rect width="9" height="9" fill="#C9D2CB" opacity="0.25"/><circle cx="4.5" cy="4.5" r="1.7" fill="#C9D2CB"/></pattern>
+<pattern id="h-underc" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="9" height="9" fill="#456c60" opacity="0.25" /><line x1="0" y1="0" x2="0" y2="9" stroke="#456c60" stroke-width="3.2" /></pattern>
+<pattern id="h-approved" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(0)"><rect width="9" height="9" fill="#706a61" opacity="0.25" /><line x1="0" y1="0" x2="9" y2="0" stroke="#706a61" stroke-width="3.2" /></pattern>
+<pattern id="h-announced" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(0)"><rect width="9" height="9" fill="#706a61" opacity="0.25" /><circle cx="4.5" cy="4.5" r="1.7" fill="#706a61" /></pattern>
 </defs>
-<text x="236" y="108" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#0D1B2A">Energised, serving load</text>
-<rect x="250" y="92" width="3.4" height="34" fill="#1A8A7A"/>
-<text x="263.4" y="105" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#0D1B2A">6.4 MW</text>
-<text x="263.4" y="120" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">1% of all capacity named</text>
-<text x="236" y="166" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#0D1B2A">Under construction</text>
-<rect x="250" y="150" width="21.6" height="34" fill="url(#h-underc)"/>
-<text x="281.6" y="163" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#0D1B2A">40.0 MW</text>
-<text x="281.6" y="178" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">5% of all capacity named</text>
-<text x="236" y="224" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#0D1B2A">Approved, not building</text>
-<text x="260" y="224" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#66757F">No information</text>
-<text x="236" y="282" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#0D1B2A">Announced, no consent</text>
-<rect x="250" y="266" width="409.5" height="34" fill="url(#h-announced)"/>
-<text x="669.5" y="279" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#0D1B2A">760.0 MW</text>
-<text x="669.5" y="294" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#66757F">94% of all capacity named</text>
-<text x="28" y="340" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#66757F">16 of 22 register rows carry no published megawatt figure and are excluded.</text>
-<text x="28" y="360" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#66757F">0.8% of the capacity named here is serving load. Announced capacity is a promise, not a supply.</text>
-<line x1="28" y1="414" x2="792" y2="414" stroke="#E2E5E2"/>
-<text x="28" y="433" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">Data: the Observatory record · CC BY 4.0 · compiled 2026-09-30</text>
+<text x="236" y="108" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Energised, serving load</text>
+<rect x="250" y="92" width="3.4" height="34" fill="#1a5f4a" data-status="measured" stroke="#1a5f4a" stroke-width="1"><title>measured</title></rect>
+<text x="263.4" y="105" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">6.4 MW</text>
+<text x="263.4" y="120" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">1% of all capacity named</text>
+<text x="236" y="166" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Under construction</text>
+<rect x="250" y="150" width="21.6" height="34" fill="#fbfaf8" data-status="announced" stroke="#456c60" stroke-width="1"><title>announced</title></rect>
+<text x="281.6" y="163" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">40.0 MW</text>
+<text x="281.6" y="178" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">5% of all capacity named</text>
+<text x="236" y="224" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Approved, not building</text>
+<text x="260" y="224" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">No information</text>
+<text x="236" y="282" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Announced, no consent</text>
+<rect x="250" y="266" width="409.5" height="34" fill="#fbfaf8" data-status="announced" stroke="#456c60" stroke-width="1"><title>announced</title></rect>
+<text x="669.5" y="279" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">760.0 MW</text>
+<text x="669.5" y="294" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">94% of all capacity named</text>
+<text x="28" y="340" font-family="'IBM Plex Mono',Consolas,monospace" font-size="12" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">16 of 22 register rows carry no published megawatt figure and are excluded.</text>
+<text x="28" y="360" font-family="'IBM Plex Mono',Consolas,monospace" font-size="12" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">0.8% of the capacity named here is serving load. Announced capacity is a promise, not a supply.</text>
+<line x1="28" y1="414" x2="792" y2="414" stroke="#ddd8d0" />
+<text x="28" y="433" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Data: the Observatory record · CC BY 4.0 · compiled 2026-09-30</text>
 </svg>
