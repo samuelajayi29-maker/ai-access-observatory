@@ -112,7 +112,7 @@ the task share, and the page says so rather than leaving a hole.</p>
       <div class="q"><b>0</b><span class="q__label">indicators failing the contract</span><span class="q__note">must be zero</span></div>
       <div class="q"><b>8</b><span class="q__label">distinct indicator sources</span></div>
       <div class="q"><b>0</b><span class="q__label">hard failures</span></div>
-      <div class="q"><b>2026-09-29</b><span class="q__label">last validated</span></div>
+      <div class="q"><b>2026-09-30</b><span class="q__label">last validated</span></div>
       <div class="q"><b>v2026.10</b><span class="q__label">release</span></div>
     </div>
     <table class="register">
@@ -182,8 +182,11 @@ the task share, and the page says so rather than leaving a hole.</p>
 
     <h2 class="sec">Status: two orthogonal fields</h2>
     <p class="sec-note">A row is an evidence status and a temporal status, never one blended label. The cross-tab
-    below is every combination actually present in this release, and whether that combination may enter a
-    headline series.</p>
+    covers 48 rows in the model-prices, infrastructure, device-prices, device-shipments,
+    device-policy and component-costs JSON registers. It excludes CSV registers and model-price events;
+    the full release count appears under Validated at build time. Derived is an evidence status and
+    modelled is a temporal status, both within this same two-field system. A status pair may qualify for
+    a headline only when the row also passes source-quality and other validation rules.</p>
     <table class="register">
       <thead><tr><th>Evidence status</th><th>Temporal status</th><th class="num">Rows</th><th>Headline</th></tr></thead>
       <tbody><tr><td class="pr">trade reporting</td><td>measured</td><td class="num">19</td><td><span class="st third"><i></i>never headlines</span></td></tr><tr><td class="pr">trade reporting</td><td>announced</td><td class="num">7</td><td><span class="st third"><i></i>never headlines</span></td></tr><tr><td class="pr">industry body</td><td>measured</td><td class="num">4</td><td><span class="st official"><i></i>may headline</span></td></tr><tr><td class="pr">unclear</td><td>measured</td><td class="num">4</td><td><span class="st third"><i></i>never headlines</span></td></tr><tr><td class="pr">company filing</td><td>announced</td><td class="num">3</td><td><span class="st third"><i></i>never headlines</span></td></tr><tr><td class="pr">unclear</td><td>announced</td><td class="num">3</td><td><span class="st third"><i></i>never headlines</span></td></tr><tr><td class="pr">trade reporting</td><td>forecast</td><td class="num">2</td><td><span class="st third"><i></i>never headlines</span></td></tr><tr><td class="pr">industry body</td><td>forecast</td><td class="num">1</td><td><span class="st third"><i></i>never headlines</span></td></tr><tr><td class="pr">industry body</td><td>projection</td><td class="num">1</td><td><span class="st third"><i></i>never headlines</span></td></tr><tr><td class="pr">official</td><td>measured</td><td class="num">1</td><td><span class="st official"><i></i>may headline</span></td></tr><tr><td class="pr">official</td><td>proposal</td><td class="num">1</td><td><span class="st third"><i></i>never headlines</span></td></tr><tr><td class="pr">trade reporting</td><td>projection</td><td class="num">1</td><td><span class="st third"><i></i>never headlines</span></td></tr><tr><td class="pr">trade reporting</td><td>proposal</td><td class="num">1</td><td><span class="st third"><i></i>never headlines</span></td></tr></tbody>
@@ -210,7 +213,7 @@ the task share, and the page says so rather than leaving a hole.</p>
         <tr><td class="pr">Infrastructure</td><td class="num">22</td><td>16 rows without a published capacity; privately built facilities that are never announced; competing estimates put the continent at 223–230 facilities and 360 MW active</td></tr>
         <tr><td class="pr">Access, models</td><td class="num">13</td><td>African providers and locally hosted inference are not yet priced; launch-era capability scores are on an earlier scale</td></tr>
         <tr><td class="pr">Access, devices</td><td class="num">13</td><td>No country-level entry-tier device price; no index of our own construction</td></tr>
-        <tr><td class="pr">Jobs</td><td class="num">116</td><td>Daily signals remain unstructured; separate country-level exposure measures are listed below with their coverage and gaps</td></tr>
+        <tr><td class="pr">Jobs</td><td>69 register rows (36 task-share + 33 employment-weighted); 116 separate monitoring signals</td><td>Register rows are observations from two different measures, not unique countries. Monitoring signals are a separate feed and are not added to register coverage. The validation table below lists the same two CSV registers.</td></tr>
       </tbody>
     </table>
     <h2 class="sec">Country coverage and missing information</h2>
@@ -312,7 +315,7 @@ the task share, and the page says so rather than leaving a hole.</p>
     </div>
     <div class="box">
       <h3>What each series holds</h3>
-      <ul><li><b>Infrastructure</b>22 rows, 10 countries</li><li><b>Access</b>26 records across models and devices</li><li><b>Jobs</b>61 signals, register in build</li></ul>
+      <ul><li><b>Infrastructure</b>22 rows, 10 countries</li><li><b>Access</b>26 records across models and devices</li><li><b>Jobs</b>69 register rows (36 task-share + 33 employment-weighted); 116 separate monitoring signals</li></ul>
     </div>
     <div class="box">
       <h3>Permanent link</h3>
