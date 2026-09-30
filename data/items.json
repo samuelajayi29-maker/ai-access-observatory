@@ -1,10 +1,17 @@
 {
- "updated": "2026-09-29",
+ "updated": "2026-09-30",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "Ema raises $77Mn to take AI agents into IT services work",
+     "u": "https://news.outsourceaccelerator.com/ema-series-b-funding/",
+     "s": "Outsource Accelerator",
+     "d": "Sep 30",
+     "dot": "dot-jobs"
+    },
     {
      "t": "The competency illusion: Why Africa’s tech ecosystem is firing top engineers",
      "u": "https://techcabal.com/2026/09/29/why-africas-tech-ecosystem-is-firing-top-engineers/",
@@ -25,6 +32,20 @@
      "s": "arXiv cs.CY",
      "d": "Sep 29",
      "dot": "dot-arxiv"
+    },
+    {
+     "t": "Why Kenya's mobile money agents are under pressure",
+     "u": "https://techcabal.com/2026/09/29/why-kenyas-mobile-money-agents-are-under-pressure/",
+     "s": "TechCabal",
+     "d": "Sep 29",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Bridging Kenya's digital skills gap: why practical application and AI capability-building are defining tech workforce readiness",
+     "u": "https://techtrendske.co.ke/2026/09/29/kenya-tech-workforce-capability-gap-moringa-report-2026/",
+     "s": "TechTrendsKE",
+     "d": "Sep 29",
+     "dot": "dot-jobs"
     },
     {
      "t": "The CX automation boom has an intelligence gap",
@@ -65,6 +86,20 @@
      "t": "TP opens more than 10,000 customer service jobs in the Philippines",
      "u": "https://news.outsourceaccelerator.com/tp-philippines-10000-jobs/",
      "s": "Outsource Accelerator",
+     "d": "Sep 28",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "The phone is the new office: how content is creating jobs in Nigeria",
+     "u": "https://itpulse.com.ng/the-phone-is-the-new-office-how-content-is-creating-jobs-in-nigeria/",
+     "s": "ITPulse",
+     "d": "Sep 28",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Federal Government rolls out the largest skills-to-jobs initiative in Nigeria's history, targeting 300,000 youths",
+     "u": "https://techpoint.africa/brandpress/federal-government-rolls-out-the-largest-skills-to-jobs-initiative-in-nigerias-history/",
+     "s": "Techpoint Africa",
      "d": "Sep 28",
      "dot": "dot-jobs"
     },
@@ -809,6 +844,27 @@
      "dot": "dot-access"
     },
     {
+     "t": "Lessons from how much mobile data costs in 5 African countries: $0.17/GB in Nigeria, $0.86 in Congo",
+     "u": "https://technext24.com/reviews/mobile-data-costs-5-african-countries/",
+     "s": "Technext24",
+     "d": "Sep 29",
+     "dot": "dot-access"
+    },
+    {
+     "t": "GPT-6.1 Sol comes close to Astra at a fifth of the price",
+     "u": "https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/",
+     "s": "The Decoder",
+     "d": "Sep 29",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Helios and UNICEF aim to enhance digital learning access in Africa",
+     "u": "https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20894-helios-and-unicef-aim-to-enhance-digital-learning-access-in-africa.html",
+     "s": "Developing Telecoms",
+     "d": "Sep 29",
+     "dot": "dot-access"
+    },
+    {
      "t": "HMD Aura 2 Pro leak shows how budget phones are changing in the memory crisis",
      "u": "https://memeburn.com/hmd-aura-2-pro-leak-shows-how-budget-phones-are-changing-in-the-memory-crisis/",
      "s": "Memeburn",
@@ -842,6 +898,20 @@
      "s": "CIO Africa",
      "d": "Sep 28",
      "dot": "dot-access"
+    },
+    {
+     "t": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+     "u": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/",
+     "s": "The Decoder",
+     "d": "Sep 28",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Anthropic releases Claude Sonnet 5.5 at the same $2/$10 price",
+     "u": "https://www.marktechpost.com/2026/09/28/anthropic-releases-claude-sonnet-5-5-70-6-on-terminal-bench-4-0-at-the-same-2-10-price/",
+     "s": "MarkTechPost",
+     "d": "Sep 28",
+     "dot": "dot-price"
     },
     {
      "t": "9 in 10 Nigerian smartphone users are on Android, KPMG finds",
@@ -1829,6 +1899,20 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "Vodacom to deploy Nokia's passive-active massive MIMO solution",
+     "u": "https://www.developingtelecoms.com/telecom-technology/wireless-networks/20898-vodacom-to-deploy-nokias-passive-active-massive-mimo-solution.html",
+     "s": "Developing Telecoms",
+     "d": "Sep 30",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Wetech Conference: Africa must build its own AI, integrate more women in decision-making",
+     "u": "https://techpoint.africa/coverage/wetech-conference-event-coverage/",
+     "s": "Techpoint Africa",
+     "d": "Sep 30",
+     "dot": "dot-infra"
+    },
+    {
      "t": "The AU’s Question: What 55 Countries Need to Agree on Before Africa Can Govern AI",
      "u": "https://techafricanews.com/2026/09/29/the-aus-question-what-55-countries-need-to-agree-on-before-africa-can-govern-ai/",
      "s": "TechAfrica News",
@@ -1848,6 +1932,62 @@
      "s": "arXiv cs.CY",
      "d": "Sep 29",
      "dot": "dot-arxiv"
+    },
+    {
+     "t": "Africa's AI problem isn't talent: compute scarcity is the bottleneck",
+     "u": "https://techcabal.com/2026/09/29/africas-ai-problem-isnt-talent/",
+     "s": "TechCabal",
+     "d": "Sep 29",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Nigeria's central bank data localisation push is about more than local servers",
+     "u": "https://techcabal.com/2026/09/29/cbn-data-localisation-nigeria-financial-data/",
+     "s": "TechCabal",
+     "d": "Sep 29",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Standard Bank and Huawei forge strategic cloud partnership",
+     "u": "https://techcentral.co.za/standard-bank-huawei-cloud-partnership/286590/",
+     "s": "TechCentral",
+     "d": "Sep 29",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Angola Cables upgrades transatlantic capacity with Ciena technology",
+     "u": "https://www.developingtelecoms.com/telecom-technology/optical-fixed-networks/20897-angola-cables-upgrades-transatlantic-capacity-with-ciena-technology.html",
+     "s": "Developing Telecoms",
+     "d": "Sep 29",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Cape Verde Telecom and DE-CIX explore new cable route",
+     "u": "https://www.developingtelecoms.com/telecom-technology/optical-fixed-networks/20896-cape-verde-telecom-and-de-cix-explore-new-cable-route.html",
+     "s": "Developing Telecoms",
+     "d": "Sep 29",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Building a data hub in Egypt",
+     "u": "https://english.ahram.org.eg/NewsContent/50/1202/577840/AlAhram-Weekly/Economy/Building-a-data-hub-in-Egypt.aspx",
+     "s": "Al-Ahram Weekly",
+     "d": "Sep 29",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Schneider Electric backs Kenya push to build data centre talent",
+     "u": "https://businessday.ng/companies/article/schneider-electric-backs-kenya-push-to-build-data-centre-talent/",
+     "s": "Businessday NG",
+     "d": "Sep 29",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "AI must generate $6 trillion and invent $4.2T in products to justify the data centre boom",
+     "u": "https://technext24.com/reviews/ai-must-generate-6-trillion-data-centre/",
+     "s": "Technext24",
+     "d": "Sep 29",
+     "dot": "dot-infra"
     },
     {
      "t": "Egypt and Mali deepen digital cooperation on fibre networks and AI",
@@ -1882,6 +2022,13 @@
      "u": "https://iafrica.com/un-ai-panel-member-african-countries-should-start-with-the-problem-not-the-technology/",
      "s": "iAfrica",
      "d": "Sep 28",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "The data center Americans hate could light up rural Africa: Rockefeller's Emergent Grid",
+     "u": "https://www.forbes.com/sites/kensilverstein/2026/09/27/the-data-center-americans-hate-could-light-up-rural-africa/",
+     "s": "Forbes",
+     "d": "Sep 27",
      "dot": "dot-infra"
     },
     {

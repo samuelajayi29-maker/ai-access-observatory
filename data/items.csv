@@ -1,13 +1,18 @@
 bucket,date,source,title,url
+jobs,Sep 30,Outsource Accelerator,Ema raises $77Mn to take AI agents into IT services work,https://news.outsourceaccelerator.com/ema-series-b-funding/
 jobs,Sep 29,TechCabal,The competency illusion: Why Africa’s tech ecosystem is firing top engineers,https://techcabal.com/2026/09/29/why-africas-tech-ecosystem-is-firing-top-engineers/
 jobs,Sep 29,BusinessDay,Top Nigerian higher institutions leading the AI revolution,https://businessday.ng/education/article/top-nigerian-higher-institutions-leading-the-ai-revolution/
 jobs,Sep 29,arXiv cs.CY,Is AI Widening the Wage Gap? A Hybrid Agentic Simulation for Labor Equity,https://arxiv.org/abs/2609.33367
+jobs,Sep 29,TechCabal,Why Kenya's mobile money agents are under pressure,https://techcabal.com/2026/09/29/why-kenyas-mobile-money-agents-are-under-pressure/
+jobs,Sep 29,TechTrendsKE,Bridging Kenya's digital skills gap: why practical application and AI capability-building are defining tech workforce readiness,https://techtrendske.co.ke/2026/09/29/kenya-tech-workforce-capability-gap-moringa-report-2026/
 jobs,Sep 28,TechCentral,The CX automation boom has an intelligence gap,https://techcentral.co.za/cx-automation-intelligence-gap-callminer/286515/
 jobs,Sep 28,News Express Nigeria,From outsourcing to AI-enabled global services: NITDA DG positions Nigeria for next digital economy,https://newsexpressngr.com/news/326163/from-outsourcing-to-ai-enabled-global-services-nitda-dg-positions-nigeria-for-next-digital-economy
 jobs,Sep 28,ITPulse,Nigeria targets global AI services market as Inuwa pushes ‘Hire from Nigeria’,https://itpulse.com.ng/nigeria-targets-global-ai-services-market-as-inuwa-pushes-hire-from-nigeria/
 jobs,Sep 28,Outsource Accelerator,"Egypt counts 200,000 specialists exporting digital services",https://news.outsourceaccelerator.com/egypt-digital-export-workforce/
 jobs,Sep 28,Outsource Accelerator,"India’s Tier-2 GCC push hits infrastructure, AI talent gaps",https://news.outsourceaccelerator.com/india-tier2-gcc-gaps/
 jobs,Sep 28,Outsource Accelerator,"TP opens more than 10,000 customer service jobs in the Philippines",https://news.outsourceaccelerator.com/tp-philippines-10000-jobs/
+jobs,Sep 28,ITPulse,The phone is the new office: how content is creating jobs in Nigeria,https://itpulse.com.ng/the-phone-is-the-new-office-how-content-is-creating-jobs-in-nigeria/
+jobs,Sep 28,Techpoint Africa,"Federal Government rolls out the largest skills-to-jobs initiative in Nigeria's history, targeting 300,000 youths",https://techpoint.africa/brandpress/federal-government-rolls-out-the-largest-skills-to-jobs-initiative-in-nigerias-history/
 jobs,Sep 26,iAfrica,Egypt says more than 100 faculties now offer AI and computer science programmes,https://iafrica.com/egypt-says-more-than-100-faculties-now-offer-ai-and-computer-science-programmes/
 jobs,Sep 26,TechCabal,"Trump's H-1B crackdown: for African tech talent, the road to America is getting narrower",https://techcabal.com/2026/09/26/trumps-immigration-policy-squeeze/
 jobs,Sep 26,Outsource Accelerator,"Outsourcing works when vendors join discovery, not just delivery",https://news.outsourceaccelerator.com/outsourcing-discovery-not-delivery/
@@ -113,11 +118,16 @@ jobs,Dec 25,"Deric Cheng, AI Frontiers",AI Could Undermine Emerging Economies,ht
 access,Sep 29,TechCentral,OpenAI cancels October launch of GPT-6.1 Astra,https://techcentral.co.za/openai-cancels-gpt-6-1-astra-launch/286566/
 access,Sep 29,TechCentral,Anthropic IPO: AI will outstrip electricity and the internet,https://techcentral.co.za/anthropic-ipo-ai-outstrip-electricity-internet/286562/
 access,Sep 29,Memeburn,Vivo X Fold 6 launch date leak: a RAM cut and harder price math,https://memeburn.com/vivo-x-fold-6-launch-date/
+access,Sep 29,Technext24,"Lessons from how much mobile data costs in 5 African countries: $0.17/GB in Nigeria, $0.86 in Congo",https://technext24.com/reviews/mobile-data-costs-5-african-countries/
+access,Sep 29,The Decoder,GPT-6.1 Sol comes close to Astra at a fifth of the price,https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/
+access,Sep 29,Developing Telecoms,Helios and UNICEF aim to enhance digital learning access in Africa,https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20894-helios-and-unicef-aim-to-enhance-digital-learning-access-in-africa.html
 access,Sep 28,Memeburn,HMD Aura 2 Pro leak shows how budget phones are changing in the memory crisis,https://memeburn.com/hmd-aura-2-pro-leak-shows-how-budget-phones-are-changing-in-the-memory-crisis/
 access,Sep 28,TechTrendsKE,Samsung Care+ cuts screen repair costs across East Africa,https://techtrendske.co.ke/2026/09/28/samsung-care-cuts-screen-repair-costs-across-east-africa/
 access,Sep 28,Rest of World,Samsung and SK Hynix battle for U.S. AI memory dominance,https://restofworld.org/2026/samsung-sk-hynix-ai-memory-chip-war-nvidia-openai/
 access,Sep 28,TechCabal,Building African-language AI is easier than finding the data,https://techcabal.com/2026/09/28/africa-ai-models-data-training-gap/
 access,Sep 28,CIO Africa,Africa Is Connected. So Why Are 906 Million People Offline?,https://cioafrica.co/africa-is-connected-so-why-are-906-million-people-offline/
+access,Sep 28,The Decoder,Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task,https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/
+access,Sep 28,MarkTechPost,Anthropic releases Claude Sonnet 5.5 at the same $2/$10 price,https://www.marktechpost.com/2026/09/28/anthropic-releases-claude-sonnet-5-5-70-6-on-terminal-bench-4-0-at-the-same-2-10-price/
 access,Sep 27,Technext24,"9 in 10 Nigerian smartphone users are on Android, KPMG finds",https://technext24.com/news/9-in-10-nigerians-use-android-smartphones/
 access,Sep 26,Nairametrics,Nigeria's smartphone ownership rises to 75% as digital use expands,https://nairametrics.com/2026/09/26/nigerias-smartphone-ownership-rises-to-75-as-digital-use-expands-report/
 access,Sep 26,Technext24,KPMG and Orange launch Nigeria smartphone study as OPay and WhatsApp lead app rankings,https://technext24.com/news/kpmg-orange-launch-nigeria-smartphone-study/
@@ -258,14 +268,25 @@ access,May 27,Trustonic,"Deconstructing Africa's smartphone market: shipments, p
 access,May 26,"David Oks, Substack",AI Is Killing the Cheap Smartphone,https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone
 access,Apr 15,Japan Times / AFP,AI-driven chip shortage slowing efforts to get world online: GSMA,https://www.thejapantimes.jp/Technology/658420-ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma.html
 access,Feb 26,Techpoint Africa,AI Chip Demand — Smartphone Prices in Nigeria,https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/
+infra,Sep 30,Developing Telecoms,Vodacom to deploy Nokia's passive-active massive MIMO solution,https://www.developingtelecoms.com/telecom-technology/wireless-networks/20898-vodacom-to-deploy-nokias-passive-active-massive-mimo-solution.html
+infra,Sep 30,Techpoint Africa,"Wetech Conference: Africa must build its own AI, integrate more women in decision-making",https://techpoint.africa/coverage/wetech-conference-event-coverage/
 infra,Sep 29,TechAfrica News,The AU’s Question: What 55 Countries Need to Agree on Before Africa Can Govern AI,https://techafricanews.com/2026/09/29/the-aus-question-what-55-countries-need-to-agree-on-before-africa-can-govern-ai/
 infra,Sep 29,FurtherAfrica,Africa AI solutions must grow from local soil,https://furtherafrica.com/2026/09/29/africa-ai-solutions-must-grow-from-local-soil/
 infra,Sep 29,arXiv cs.CY,Beyond Energy: When Sustainability Dimensions Reshape LLM Serving Decisions,https://arxiv.org/abs/2609.35569
+infra,Sep 29,TechCabal,Africa's AI problem isn't talent: compute scarcity is the bottleneck,https://techcabal.com/2026/09/29/africas-ai-problem-isnt-talent/
+infra,Sep 29,TechCabal,Nigeria's central bank data localisation push is about more than local servers,https://techcabal.com/2026/09/29/cbn-data-localisation-nigeria-financial-data/
+infra,Sep 29,TechCentral,Standard Bank and Huawei forge strategic cloud partnership,https://techcentral.co.za/standard-bank-huawei-cloud-partnership/286590/
+infra,Sep 29,Developing Telecoms,Angola Cables upgrades transatlantic capacity with Ciena technology,https://www.developingtelecoms.com/telecom-technology/optical-fixed-networks/20897-angola-cables-upgrades-transatlantic-capacity-with-ciena-technology.html
+infra,Sep 29,Developing Telecoms,Cape Verde Telecom and DE-CIX explore new cable route,https://www.developingtelecoms.com/telecom-technology/optical-fixed-networks/20896-cape-verde-telecom-and-de-cix-explore-new-cable-route.html
+infra,Sep 29,Al-Ahram Weekly,Building a data hub in Egypt,https://english.ahram.org.eg/NewsContent/50/1202/577840/AlAhram-Weekly/Economy/Building-a-data-hub-in-Egypt.aspx
+infra,Sep 29,Businessday NG,Schneider Electric backs Kenya push to build data centre talent,https://businessday.ng/companies/article/schneider-electric-backs-kenya-push-to-build-data-centre-talent/
+infra,Sep 29,Technext24,AI must generate $6 trillion and invent $4.2T in products to justify the data centre boom,https://technext24.com/reviews/ai-must-generate-6-trillion-data-centre/
 infra,Sep 28,TechAfrica News,Egypt and Mali deepen digital cooperation on fibre networks and AI,https://techafricanews.com/2026/09/28/egypt-mali-digital-cooperation-fibre-networks-ai/
 infra,Sep 28,TechAfrica News,Gabon pushes African priorities in global digital governance ahead of ITU PP-26,https://techafricanews.com/2026/09/28/gabon-african-priorities-global-digital-governance-itu-pp26/
 infra,Sep 28,iAfrica,Malawi's telecoms regulator proposes AI surveillance network for Blantyre,https://iafrica.com/malawis-telecoms-regulator-proposes-ai-surveillance-network-for-blantyre/
 infra,Sep 28,CIO Africa,TCS Sovereign Cloud Goes Live In Nairobi,https://cioafrica.co/tcs-sovereign-cloud-goes-live-in-nairobi/
 infra,Sep 28,iAfrica,"UN AI Panel Member: African Countries Should Start With the Problem, Not the Technology",https://iafrica.com/un-ai-panel-member-african-countries-should-start-with-the-problem-not-the-technology/
+infra,Sep 27,Forbes,The data center Americans hate could light up rural Africa: Rockefeller's Emergent Grid,https://www.forbes.com/sites/kensilverstein/2026/09/27/the-data-center-americans-hate-could-light-up-rural-africa/
 infra,Sep 26,iAfrica,"NVIDIA confirms Morocco in two African AI compute projects, including 500MW Casablanca factory",https://iafrica.com/nvidia-confirms-morocco-in-two-african-ai-compute-projects-including-500mw-casablanca-factory/
 infra,Sep 26,ITNewsAfrica,Kenya cyber threats hit 11 billion as DDoS attacks double,https://www.itnewsafrica.com/cybersecurity/kenya-cyber-threats-hit-11-billion/
 infra,Sep 25,iAfrica,Kenya signs responsible AI declaration with Anthropic,https://iafrica.com/kenya-signs-responsible-ai-declaration-with-anthropic-days-after-being-named-in-the-companys-threat-report/
