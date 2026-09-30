@@ -19,12 +19,12 @@
      "bytes": 1613
     },
     "access.html": {
-     "sha256": "cb5757e7daacb3e8dc10e6cea2b958aa89bf724a7758aa551be4c6e14326b758",
-     "bytes": 1108301
+     "sha256": "4a8e750985f7010425700c1994dbf4f8332b5f2321da70ffc3d98bb423fc94a3",
+     "bytes": 1108523
     },
     "analysis.html": {
-     "sha256": "b795d0cd92cf193d2d8bec08e1d2da61a95ab09786578633c199fe5b7f31c93d",
-     "bytes": 878444
+     "sha256": "cc6e85495a87529ff090db0ecb1570a90da973bd026cf9b14a4b4bd8dbe4b9f7",
+     "bytes": 3939
     },
     "apple-touch-icon.png": {
      "sha256": "183c55a2985065ae98b01cd0290cee3013e12769afa9c5004adb8df1fe3743e7",
@@ -531,7 +531,7 @@
      "bytes": 5768
     },
     "data/reference/consistency-report.json": {
-     "sha256": "d53f1ebdd23a77237c4eb383577dffb6d019e5dc6911ec94e911f712ebce8c5c",
+     "sha256": "a4bdb97c724b10284607595bf69490da7130da1268004936d1b3921d194f99dd",
      "bytes": 321
     },
     "data/reference/country-context.csv": {
@@ -567,8 +567,8 @@
      "bytes": 11578
     },
     "data/reference/revision-log.json": {
-     "sha256": "25a915d68463389d4b35cf8fa6c568a8302a5b02e79d7a3a2df000a86ad72493",
-     "bytes": 29656
+     "sha256": "8642aa6c149799e5d6744b1ef273ff23b7fd4c29679e76e96043e5640634bbce",
+     "bytes": 29751
     },
     "data/reference/row-state.json": {
      "sha256": "4cf079ed792f0aaf1a8c3b6293f3f944d1e3413a5c7c880c0a68af780d3627bc",
@@ -635,16 +635,16 @@
      "bytes": 205
     },
     "index.html": {
-     "sha256": "833b3269e9ac8cf44870598297cf58d08f17abd4deb3b64a8e15d45498a1ef18",
-     "bytes": 934974
+     "sha256": "4c924fdaa2f049b3121308d2afd8dffe9f1ef72219a229ffa1ca11f973731ed1",
+     "bytes": 933803
     },
     "infrastructure.html": {
-     "sha256": "f5dc0ace5fc24360a19b2969d93821c7169329f37cb838ea1e50d88cbd6fd664",
-     "bytes": 162672
+     "sha256": "8549573954bcb1b1492fc272a7f5c1452d99a40c57673b020d3810bde1a2092a",
+     "bytes": 162894
     },
     "jobs.html": {
-     "sha256": "03baa446c42f687db11140a81580a122e877ef962f4949f5cf0fe3eb01ab5dd6",
-     "bytes": 148015
+     "sha256": "aad9ae9779b94a330789c062482ed0f7ee4aa2de7a76ab4caaefe377ede94872",
+     "bytes": 148224
     },
     "js/chart-builder.js": {
      "sha256": "ed0434f71146292be5e0fde978cadac7b6507f78c14a90ae8a210ba00e03e015",
