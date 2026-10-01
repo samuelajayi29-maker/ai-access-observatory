@@ -22285,6 +22285,70 @@
    }
   },
   {
+   "id": "infra-capacity-by-status",
+   "pillar": "infrastructure",
+   "title": "Capacity by delivery status",
+   "unit": "MW",
+   "description": "Published megawatts summed separately by delivery status, matching Infrastructure Figure 1. Announced capacity is not operating capacity. Unpublished MW are excluded and counted in each row note.",
+   "rows": [
+    {
+     "id": "a8b1120ad6583e",
+     "label": "Energised, serving load",
+     "value": 6.4,
+     "period": "2026-09-28",
+     "status": "derived; measured",
+     "source": "Observatory project register; source-reported capacity",
+     "source_url": "https://samuelajayi29-maker.github.io/ai-access-observatory/data/infra-projects.csv",
+     "country": "",
+     "note": "Sum of published capacity_mw within delivery status operational (v1). 1 of 3 project rows have capacity; 2 have no information. No known capacity yields null, not zero. This is not independently verified capacity. Per-project sources are in the register CSV.",
+     "relation": "="
+    },
+    {
+     "id": "69189794a6d110",
+     "label": "Under construction",
+     "value": 40.0,
+     "period": "2026-09-28",
+     "status": "derived; announced",
+     "source": "Observatory project register; source-reported capacity",
+     "source_url": "https://samuelajayi29-maker.github.io/ai-access-observatory/data/infra-projects.csv",
+     "country": "",
+     "note": "Sum of published capacity_mw within delivery status under_construction (v1). 1 of 3 project rows have capacity; 2 have no information. No known capacity yields null, not zero. This is not independently verified capacity. Per-project sources are in the register CSV.",
+     "relation": "="
+    },
+    {
+     "id": "2775b921aeb8fa",
+     "label": "Approved, not building",
+     "value": null,
+     "period": "2026-09-28",
+     "status": "derived; announced",
+     "source": "Observatory project register; source-reported capacity",
+     "source_url": "https://samuelajayi29-maker.github.io/ai-access-observatory/data/infra-projects.csv",
+     "country": "",
+     "note": "Sum of published capacity_mw within delivery status approved (v1). 0 of 3 project rows have capacity; 3 have no information. No known capacity yields null, not zero. This is not independently verified capacity. Per-project sources are in the register CSV.",
+     "relation": "="
+    },
+    {
+     "id": "01301dc276ce76",
+     "label": "Announced, no consent",
+     "value": 760.0,
+     "period": "2026-09-28",
+     "status": "derived; announced",
+     "source": "Observatory project register; source-reported capacity",
+     "source_url": "https://samuelajayi29-maker.github.io/ai-access-observatory/data/infra-projects.csv",
+     "country": "",
+     "note": "Sum of published capacity_mw within delivery status announced (v1). 4 of 7 project rows have capacity; 3 have no information. No known capacity yields null, not zero. This is not independently verified capacity. Per-project sources are in the register CSV.",
+     "relation": "="
+    }
+   ],
+   "register": "data/infra-projects.csv",
+   "domain": null,
+   "revision": "7f438ac7be0f6f",
+   "coverage": {
+    "known": 3,
+    "total": 4
+   }
+  },
+  {
    "id": "infra-capacity_mw-announced",
    "pillar": "infrastructure",
    "title": "Capacity — announced",

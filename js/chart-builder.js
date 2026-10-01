@@ -11,8 +11,23 @@
   var LIMIT = 20;
   var ns = 'http://www.w3.org/2000/svg';
   var params = new URLSearchParams(location.search);
-  var initial = series.find(function (s) { return s.id === params.get('chart'); }) ||
-    series.find(function (s) { return s.id === 'infra-capacity_mw-operational'; }) || series[0];
+  var SPARSE_THRESHOLD = 0.25;
+  function hasValue(row) { return typeof row.value === 'number' && Number.isFinite(row.value); }
+  function coverageOf(dataset) {
+    var known=dataset.rows.filter(hasValue).length, total=dataset.rows.length;
+    return {known:known, missingRate:total ? (total-known)/total : 1};
+  }
+  function openingSeries() {
+    var aggregate=series.find(function(s) { return s.id==='infra-capacity-by-status'; });
+    if (['index.html','infrastructure.html','countries.html'].includes(payload.page) && aggregate && coverageOf(aggregate).known) return aggregate;
+    var first=series[0];
+    if (coverageOf(first).missingRate<=SPARSE_THRESHOLD || coverageOf(first).known>=Math.min(3,first.rows.length) && coverageOf(first).known>0) return first;
+    // Prefer a sufficiently populated measure within this page's actual datasets.
+    var populated=series.filter(function(s) { return coverageOf(s).known>0; });
+    var dense=populated.filter(function(s) { return coverageOf(s).missingRate<=SPARSE_THRESHOLD; });
+    return dense[0] || populated[0] || first;
+  }
+  var initial = series.find(function (s) { return s.id === params.get('chart'); }) || openingSeries();
   var current = initial;
   var selected = new Set();
   var svg;
@@ -226,7 +241,12 @@
       ids.forEach(function(id){if(valid.has(id)) selected.add(id);});
       if(selected.size<ids.length) selectionNotice='Some shared records are no longer in the current register.';
       if(params.get('chartVersion') && params.get('chartVersion')!==s.revision) selectionNotice+=' Data has changed since this link was created.';
-    } else sortedRows().filter(function(r){return r.value!==null;}).slice(0,8).forEach(function(r){selected.add(r.id);});
+    } else {
+      var coverage=coverageOf(s);
+      sortedRows().filter(hasValue).slice(0,8).forEach(function(r){selected.add(r.id);});
+      if (!coverage.known) selectionNotice='This measure has no published values. Records remain selectable below.';
+      else if (coverage.missingRate>SPARSE_THRESHOLD) selectionNotice='Starting with published values. Records with no information remain selectable below.';
+    }
     get('[data-cb-definition]').textContent=s.description;
     get('[data-cb-coverage]').textContent=s.coverage.known+' of '+s.coverage.total+' records have a value. '+(s.coverage.total-s.coverage.known)+' have no information in this series.';
     message.textContent='';drawPicker();render();

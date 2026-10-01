@@ -19,8 +19,8 @@
      "bytes": 1613
     },
     "access.html": {
-     "sha256": "46434b6132bdd9de3089ff573f6c4d3c977650917b49353544f3a05015d018c6",
-     "bytes": 1108300
+     "sha256": "9852f27fc9e98bc61cb1a8845840ce4ff5c36e364265c046c2d61b856d8dcfcb",
+     "bytes": 1108287
     },
     "analysis.html": {
      "sha256": "b6157637742fb37378f3f54319fbf456e9f6a443d4f17f5c4d4c7211263773dd",
@@ -167,8 +167,8 @@
      "bytes": 8677
     },
     "countries.html": {
-     "sha256": "d9e4247195d807d3c5e159d7a1cfbd54dd976a468342fcd2d3463a9761ae2b40",
-     "bytes": 883202
+     "sha256": "4942fc692c026c0d2903097a7a1ca565d7a294a7faed51543bcff6b5a4f88c4c",
+     "bytes": 886076
     },
     "country-algeria.html": {
      "sha256": "fe8c3cfba4af03954858faf1bbeed8eca5c2b6c7f142a515fbe3d843ca1df945",
@@ -403,8 +403,8 @@
      "bytes": 23156
     },
     "data/chart-catalog.json": {
-     "sha256": "a26fdac6d3acb524f2ed6a824d8c1e2adda4a79a44f4a4f56b5f6098e0fca116",
-     "bytes": 994946
+     "sha256": "b9f9b27324dfe923e6c0466035c4fdcce4cafdb10575f97b24474918beb781e9",
+     "bytes": 998178
     },
     "data/component-costs.csv": {
      "sha256": "90c7822cd552fa06ef371b1ce46a02d1337c563a7bab1b00ce4315c469e27fb8",
@@ -535,7 +535,7 @@
      "bytes": 5768
     },
     "data/reference/consistency-report.json": {
-     "sha256": "3701d5e1db15f88aa777417d272cfd8097e323ed34048f930a6db177afedb3f1",
+     "sha256": "3912b6df6af01b99a84afbd212302b4b42428f60654d3296849a3205700cc750",
      "bytes": 321
     },
     "data/reference/country-context.csv": {
@@ -571,8 +571,8 @@
      "bytes": 11578
     },
     "data/reference/revision-log.json": {
-     "sha256": "c0799389209fbdabf75c1a47870eaeb7b070651082737ea10b8b35951d230487",
-     "bytes": 30036
+     "sha256": "977c6bfa1e116e799bb218352ad139a0cf00947efe4493c25c51b6c1a16c1c58",
+     "bytes": 30131
     },
     "data/reference/row-state.json": {
      "sha256": "4cf079ed792f0aaf1a8c3b6293f3f944d1e3413a5c7c880c0a68af780d3627bc",
@@ -639,20 +639,20 @@
      "bytes": 205
     },
     "index.html": {
-     "sha256": "13bf0eeb38f092e8743024adab3ed937e06eebd69abd05c6e5d93c458705b753",
-     "bytes": 933898
+     "sha256": "5fa6a9bd04836484342e5c2458700e015e0cc55cb1462370159bbcdf3ef77c93",
+     "bytes": 936772
     },
     "infrastructure.html": {
-     "sha256": "99ad3c4737928be44a2795954a3bad7c83314d16fb5cf32faa08dd01ec3696c5",
-     "bytes": 162652
+     "sha256": "d7f194b483c45d2055bd031473fb4f7f98b97c30a866b564488818409a9c61ef",
+     "bytes": 165526
     },
     "jobs.html": {
-     "sha256": "60da868a1a050606e00200a9daf231b6f85489e4c2fa7cdbc92c5734553a55cc",
-     "bytes": 148131
+     "sha256": "dd748aa080964f7dce5887db5246106d7ee3ab750d1e070990814157e8592f7c",
+     "bytes": 148130
     },
     "js/chart-builder.js": {
-     "sha256": "ed0434f71146292be5e0fde978cadac7b6507f78c14a90ae8a210ba00e03e015",
-     "bytes": 20841
+     "sha256": "d3b01f8928798b5eea75eeb273bf6847b17f51cac57b03e3fd72ebbd55e64e76",
+     "bytes": 22156
     },
     "js/map.js": {
      "sha256": "9bcf7814fd86e75f481ff71579a3dd45421e1beec0b4891494ddf16cad66ea4e",
@@ -667,8 +667,8 @@
      "bytes": 2086
     },
     "method.html": {
-     "sha256": "6013328eddce7d806f05d265b0cce0ca46956bda5897de636feed7df22ba143f",
-     "bytes": 910805
+     "sha256": "db198ac2d5bf39a067ca3228c3217f9b837b40c8d35b3c653275cd077d0df616",
+     "bytes": 913679
     },
     "og-card.png": {
      "sha256": "0b362fb943860a6f6c8c838e2b03205fcc7a38ac09bc7e970aebc85902ec6ae4",
