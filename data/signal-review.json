@@ -1,9 +1,9 @@
 {
  "schema_version": 1,
- "feed_updated": "2026-09-30",
- "feed_sha256": "05b24493d27562d154d44ed503ef2106ca82db37bd1fe2c27ebfdb31eddbf751",
+ "feed_updated": "2026-10-01",
+ "feed_sha256": "75b62ca54f923f9deca88df76ab678d391f3bd934212e5e8a1493e1e28244b54",
  "counts": {
-  "needs_source_review": 440,
+  "needs_source_review": 449,
   "evidence_added": 6,
   "corrected_scope": 3,
   "needs_clarification": 1,
@@ -31,7 +31,39 @@
    "evidence_ids": []
   },
   {
-   "id": "c0206898b78e8c",
+   "id": "c1165df3983a44",
+   "pillar": "jobs",
+   "headline": "Concentrix takes $1.05bn impairment as AI-era deals reach 50% of revenue",
+   "signal_url": "https://news.outsourceaccelerator.com/concentrix-q3-2026-results/",
+   "feed_date_label": "Sep 30",
+   "review_state": "needs_source_review",
+   "review_basis": "automated_triage",
+   "reviewed_at": "",
+   "priority": "high",
+   "topic": "Context and research",
+   "related_registers": [],
+   "duplicate_of": "",
+   "note": "Headline triage only. Read the source and verify its definition, geography and date before adding values.",
+   "evidence_ids": []
+  },
+  {
+   "id": "f1992244a118f6",
+   "pillar": "jobs",
+   "headline": "Nutun eyes global deployment of AI debt collector",
+   "signal_url": "https://www.itweb.co.za/article/nutun-eyes-global-deployment-of-ai-debt-collector/WnxpEv4Yy6Z7V8XL",
+   "feed_date_label": "Sep 30",
+   "review_state": "needs_source_review",
+   "review_basis": "automated_triage",
+   "reviewed_at": "",
+   "priority": "normal",
+   "topic": "Context and research",
+   "related_registers": [],
+   "duplicate_of": "",
+   "note": "Headline triage only. Read the source and verify its definition, geography and date before adding values.",
+   "evidence_ids": []
+  },
+  {
+   "id": "14b010d9c170ac",
    "pillar": "jobs",
    "headline": "The competency illusion: Why Africa’s tech ecosystem is firing top engineers",
    "signal_url": "https://techcabal.com/2026/09/29/why-africas-tech-ecosystem-is-firing-top-engineers/",
@@ -47,7 +79,7 @@
    "evidence_ids": []
   },
   {
-   "id": "3682a423f7e88e",
+   "id": "9334342171bb6b",
    "pillar": "jobs",
    "headline": "Top Nigerian higher institutions leading the AI revolution",
    "signal_url": "https://businessday.ng/education/article/top-nigerian-higher-institutions-leading-the-ai-revolution/",
@@ -63,7 +95,7 @@
    "evidence_ids": []
   },
   {
-   "id": "ab34c54a9c5a29",
+   "id": "9afe04d5873c6b",
    "pillar": "jobs",
    "headline": "Is AI Widening the Wage Gap? A Hybrid Agentic Simulation for Labor Equity",
    "signal_url": "https://arxiv.org/abs/2609.33367",
@@ -79,7 +111,7 @@
    "evidence_ids": []
   },
   {
-   "id": "5d3cd18dac99d3",
+   "id": "a3a20ba0f3c90a",
    "pillar": "jobs",
    "headline": "Why Kenya's mobile money agents are under pressure",
    "signal_url": "https://techcabal.com/2026/09/29/why-kenyas-mobile-money-agents-are-under-pressure/",
@@ -95,7 +127,7 @@
    "evidence_ids": []
   },
   {
-   "id": "69e9c7f1ac1240",
+   "id": "351d68d6412657",
    "pillar": "jobs",
    "headline": "Bridging Kenya's digital skills gap: why practical application and AI capability-building are defining tech workforce readiness",
    "signal_url": "https://techtrendske.co.ke/2026/09/29/kenya-tech-workforce-capability-gap-moringa-report-2026/",
@@ -111,7 +143,7 @@
    "evidence_ids": []
   },
   {
-   "id": "be88e6bddb6117",
+   "id": "087264ec123c68",
    "pillar": "jobs",
    "headline": "The CX automation boom has an intelligence gap",
    "signal_url": "https://techcentral.co.za/cx-automation-intelligence-gap-callminer/286515/",
@@ -127,7 +159,7 @@
    "evidence_ids": []
   },
   {
-   "id": "0f505d1f7efa63",
+   "id": "8077b93f395b9b",
    "pillar": "jobs",
    "headline": "From outsourcing to AI-enabled global services: NITDA DG positions Nigeria for next digital economy",
    "signal_url": "https://newsexpressngr.com/news/326163/from-outsourcing-to-ai-enabled-global-services-nitda-dg-positions-nigeria-for-next-digital-economy",
@@ -143,7 +175,7 @@
    "evidence_ids": []
   },
   {
-   "id": "194ed52db2ffb9",
+   "id": "2cac684ef3c166",
    "pillar": "jobs",
    "headline": "Nigeria targets global AI services market as Inuwa pushes ‘Hire from Nigeria’",
    "signal_url": "https://itpulse.com.ng/nigeria-targets-global-ai-services-market-as-inuwa-pushes-hire-from-nigeria/",
@@ -159,7 +191,7 @@
    "evidence_ids": []
   },
   {
-   "id": "75f38492f29b5e",
+   "id": "cd1037150ad1dc",
    "pillar": "jobs",
    "headline": "Egypt counts 200,000 specialists exporting digital services",
    "signal_url": "https://news.outsourceaccelerator.com/egypt-digital-export-workforce/",
@@ -175,7 +207,7 @@
    "evidence_ids": []
   },
   {
-   "id": "2d7776839a420e",
+   "id": "da019e132366a9",
    "pillar": "jobs",
    "headline": "India’s Tier-2 GCC push hits infrastructure, AI talent gaps",
    "signal_url": "https://news.outsourceaccelerator.com/india-tier2-gcc-gaps/",
@@ -191,7 +223,7 @@
    "evidence_ids": []
   },
   {
-   "id": "e42b1b0d93fd1b",
+   "id": "ede077ce5f88d8",
    "pillar": "jobs",
    "headline": "TP opens more than 10,000 customer service jobs in the Philippines",
    "signal_url": "https://news.outsourceaccelerator.com/tp-philippines-10000-jobs/",
@@ -207,7 +239,7 @@
    "evidence_ids": []
   },
   {
-   "id": "d8cbbd26e09139",
+   "id": "51aad0e2563a22",
    "pillar": "jobs",
    "headline": "The phone is the new office: how content is creating jobs in Nigeria",
    "signal_url": "https://itpulse.com.ng/the-phone-is-the-new-office-how-content-is-creating-jobs-in-nigeria/",
@@ -223,7 +255,7 @@
    "evidence_ids": []
   },
   {
-   "id": "b430061e6a22d3",
+   "id": "88642e745a6913",
    "pillar": "jobs",
    "headline": "Federal Government rolls out the largest skills-to-jobs initiative in Nigeria's history, targeting 300,000 youths",
    "signal_url": "https://techpoint.africa/brandpress/federal-government-rolls-out-the-largest-skills-to-jobs-initiative-in-nigerias-history/",
@@ -239,7 +271,7 @@
    "evidence_ids": []
   },
   {
-   "id": "87d7ad48b963e0",
+   "id": "ca5d37ad34849d",
    "pillar": "jobs",
    "headline": "Egypt says more than 100 faculties now offer AI and computer science programmes",
    "signal_url": "https://iafrica.com/egypt-says-more-than-100-faculties-now-offer-ai-and-computer-science-programmes/",
@@ -255,7 +287,7 @@
    "evidence_ids": []
   },
   {
-   "id": "f3d31d9b497c06",
+   "id": "35670b90932407",
    "pillar": "jobs",
    "headline": "Trump's H-1B crackdown: for African tech talent, the road to America is getting narrower",
    "signal_url": "https://techcabal.com/2026/09/26/trumps-immigration-policy-squeeze/",
@@ -271,7 +303,7 @@
    "evidence_ids": []
   },
   {
-   "id": "3fc5d3cc72d852",
+   "id": "35da5106713f0b",
    "pillar": "jobs",
    "headline": "Outsourcing works when vendors join discovery, not just delivery",
    "signal_url": "https://news.outsourceaccelerator.com/outsourcing-discovery-not-delivery/",
@@ -287,7 +319,7 @@
    "evidence_ids": []
   },
   {
-   "id": "a486c0954cca83",
+   "id": "1e2817bb735ee0",
    "pillar": "jobs",
    "headline": "Outsourcing body launches AI-focused job board for remote South African talent",
    "signal_url": "https://news.outsourceaccelerator.com/hiresa-south-african-talent/",
@@ -303,7 +335,7 @@
    "evidence_ids": []
   },
   {
-   "id": "86e31670e3c3eb",
+   "id": "272430d991dd56",
    "pillar": "jobs",
    "headline": "AI splits Bangladesh's workforce as HR faces job-security fears",
    "signal_url": "https://news.outsourceaccelerator.com/bangladesh-ai-hr-workforce/",
@@ -319,7 +351,7 @@
    "evidence_ids": []
   },
   {
-   "id": "f1b3a7a953e7ca",
+   "id": "6ad52c4a16aa84",
    "pillar": "jobs",
    "headline": "Unverified claim of 80 Indian layoffs on one call goes viral",
    "signal_url": "https://news.outsourceaccelerator.com/viral-indian-layoffs-claim/",
@@ -335,7 +367,7 @@
    "evidence_ids": []
   },
   {
-   "id": "0f2f83f02e3cc6",
+   "id": "11d41691b43fcb",
    "pillar": "jobs",
    "headline": "Digital freelancers find more work and new pressure on pay",
    "signal_url": "https://www.pymnts.com/consumer-insights/2026/digital-freelancers-find-more-work-and-new-pressure-on-pay/",
@@ -351,7 +383,7 @@
    "evidence_ids": []
   },
   {
-   "id": "6cea154c9f96a4",
+   "id": "a8c954ca90e04b",
    "pillar": "jobs",
    "headline": "Why Nigeria must convert digital skills to productive work, enterprise and improved livelihoods",
    "signal_url": "https://itpulse.com.ng/why-nigeria-must-convert-digital-skills-to-productive-work-enterprise-and-improved-livelihoods/",
@@ -367,7 +399,7 @@
    "evidence_ids": []
   },
   {
-   "id": "cf0285e84ef5be",
+   "id": "c084919a4d3e26",
    "pillar": "jobs",
    "headline": "Kenya expands digital literacy programme to 10,382 junior schools",
    "signal_url": "https://techafricanews.com/2026/09/24/kenya-digital-literacy-programme-10382-junior-schools/",
@@ -383,7 +415,7 @@
    "evidence_ids": []
   },
   {
-   "id": "3f8c56755b5901",
+   "id": "b12d434b28dc05",
    "pillar": "jobs",
    "headline": "AI is scrambling the tech job market",
    "signal_url": "https://news.outsourceaccelerator.com/ai-tech-job-market/",
@@ -399,7 +431,7 @@
    "evidence_ids": []
   },
   {
-   "id": "48116e9400f946",
+   "id": "c3ec96ee90cd3d",
    "pillar": "jobs",
    "headline": "Philippine labor market stays resilient amid the AI boom",
    "signal_url": "https://news.outsourceaccelerator.com/philippine-labor-ai-resilient/",
@@ -415,7 +447,7 @@
    "evidence_ids": []
   },
   {
-   "id": "d47e8da78575d9",
+   "id": "f2e888caea3583",
    "pillar": "jobs",
    "headline": "AI-exposed jobs see faster pay growth: Indeed",
    "signal_url": "https://news.outsourceaccelerator.com/ai-exposed-pay-growth/",
@@ -431,7 +463,7 @@
    "evidence_ids": []
   },
   {
-   "id": "f6bd68232f9316",
+   "id": "a0c4f604609ba5",
    "pillar": "jobs",
    "headline": "Egypt targets $12B in outsourcing exports by 2029",
    "signal_url": "https://news.outsourceaccelerator.com/egypt-outsourcing-exports-2029/",
@@ -447,7 +479,7 @@
    "evidence_ids": []
   },
   {
-   "id": "f1ebf88b54f2e2",
+   "id": "8f65bd7ca08500",
    "pillar": "jobs",
    "headline": "Tax perks not enough to save PH BPO: WTO",
    "signal_url": "https://news.outsourceaccelerator.com/wto-philippines-bpo-incentives/",
@@ -463,7 +495,7 @@
    "evidence_ids": []
   },
   {
-   "id": "9b64814e5415f3",
+   "id": "954e3b717ff4e1",
    "pillar": "jobs",
    "headline": "Google trains Kenyan Gen-Z creators and students on Gemini AI tools",
    "signal_url": "https://techtrendske.co.ke/2026/09/21/google-trains-kenyan-gen-z-creators-students-on-gemini-ai-tools/",
@@ -479,7 +511,7 @@
    "evidence_ids": []
   },
   {
-   "id": "071c5e74545264",
+   "id": "20da1238437e43",
    "pillar": "jobs",
    "headline": "Only four countries lead global AI adoption by 20%, muting hiring in tech and services: Goldman Sachs",
    "signal_url": "https://timesofoman.com/article/177144-only-four-countries-lead-global-ai-adoption-by-20-muting-hiring-in-tech-and-services-goldman-sachs",
@@ -495,7 +527,7 @@
    "evidence_ids": []
   },
   {
-   "id": "9aba00bc82c28b",
+   "id": "983564eb3a038c",
    "pillar": "jobs",
    "headline": "Fear of AI job loss outweighs AI job creation excitement, study finds",
    "signal_url": "https://www.euronews.com/next/2026/09/19/fear-of-ai-job-losses-now-outweighs-hope-of-new-jobs-study-finds",
@@ -511,7 +543,7 @@
    "evidence_ids": []
   },
   {
-   "id": "ec9f9c1ab674ad",
+   "id": "0095af9fc6a2d0",
    "pillar": "jobs",
    "headline": "Kenya's next export boom may be online as WTO predicts AI could reshape global trade",
    "signal_url": "https://peopledaily.digital/business/kenyas-next-export-boom-may-be-online-as-wto-predicts-ai-could-reshape-global-trade",
@@ -527,7 +559,7 @@
    "evidence_ids": []
   },
   {
-   "id": "748cf89dd6e2e6",
+   "id": "df5fa77df472de",
    "pillar": "jobs",
    "headline": "Arthur Goldstuck: African banks teach Amazon Web Services about AI",
    "signal_url": "https://www.businessday.co.za/business-times/opinion/2026-09-19-arthur-goldstuck-african-banks-teach-aws-about-ai/",
@@ -543,7 +575,7 @@
    "evidence_ids": []
   },
   {
-   "id": "e9eee2f0805880",
+   "id": "48c676d3e36756",
    "pillar": "jobs",
    "headline": "Kenya Plans to Expand BPO and GBS Opportunities Beyond Nairobi",
    "signal_url": "https://techafricanews.com/2026/09/18/kenya-plans-expand-bpo-gbs-opportunities-beyond-nairobi/",
@@ -559,7 +591,7 @@
    "evidence_ids": []
   },
   {
-   "id": "8cbdaf59d1f81e",
+   "id": "9e4a3239aebc8e",
    "pillar": "jobs",
    "headline": "AI in Creative Industries: Artist Ally, Enemy or Somewhere In-Between?",
    "signal_url": "https://iafrica.com/ai-in-creative-industries-artist-ally-enemy-or-somewhere-in-between/",
@@ -575,7 +607,7 @@
    "evidence_ids": []
   },
   {
-   "id": "37775d081bb72b",
+   "id": "f836d6e0726eca",
    "pillar": "jobs",
    "headline": "When AI Enters the Workplace, Who Faces Greater Risks? A Gendered Analysis",
    "signal_url": "https://arxiv.org/abs/2609.21756",
@@ -591,7 +623,7 @@
    "evidence_ids": []
   },
   {
-   "id": "21152f61bf4e2e",
+   "id": "e8228f2fd09acc",
    "pillar": "jobs",
    "headline": "Nigeria to Train 32,000 Citizens in AI and Cybersecurity via New Academy",
    "signal_url": "https://www.ecofinagency.com/news-services/1709-58988-nigeria-to-train-32-000-citizens-in-ai-and-cybersecurity-via-new-academy",
@@ -607,7 +639,7 @@
    "evidence_ids": []
   },
   {
-   "id": "b632d08c1b1fb8",
+   "id": "c08b953b98406a",
    "pillar": "jobs",
    "headline": "InteLogix Opens New Contact Centre in New Cairo, Egypt",
    "signal_url": "https://techafricanews.com/2026/09/17/intelogix-opens-new-contact-centre-new-cairo-egypt/",
@@ -623,7 +655,7 @@
    "evidence_ids": []
   },
   {
-   "id": "d914927020266e",
+   "id": "0bef52f4de451e",
    "pillar": "jobs",
    "headline": "Korea, African Development Bank sign deal to launch joint AI Hub to support Africa",
    "signal_url": "https://www.afdb.org/en/news-and-events/press-releases/korea-african-development-bank-sign-deal-launch-joint-ai-hub-support-africa-96857",
@@ -639,7 +671,7 @@
    "evidence_ids": []
   },
   {
-   "id": "2aa5b661bbacad",
+   "id": "1ef6a18222d749",
    "pillar": "jobs",
    "headline": "Globally, More People Expect AI to Cause Job Loss Than Growth",
    "signal_url": "https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/",
@@ -655,7 +687,7 @@
    "evidence_ids": []
   },
   {
-   "id": "953a92d0fe1ea2",
+   "id": "5d31a768016128",
    "pillar": "jobs",
    "headline": "Egypt Partners With Intel to Train 1 Million Citizens in AI Annually",
    "signal_url": "https://techafricanews.com/2026/09/16/egypt-intel-train-one-million-citizens-ai-annually/",
@@ -671,7 +703,7 @@
    "evidence_ids": []
   },
   {
-   "id": "1f2e92f4700e7a",
+   "id": "8562f2b97849a4",
    "pillar": "jobs",
    "headline": "Execution-only BPOs face an AI squeeze: Asiatel CEO",
    "signal_url": "https://news.outsourceaccelerator.com/execution-bpo-ai-squeeze/",
@@ -687,7 +719,7 @@
    "evidence_ids": []
   },
   {
-   "id": "151c7c34d1c591",
+   "id": "b6984d0b7c3af7",
    "pillar": "jobs",
    "headline": "CX workforce budgets take a hit as AI spend rises",
    "signal_url": "https://news.outsourceaccelerator.com/cx-budgets-ai-spending/",
@@ -703,7 +735,7 @@
    "evidence_ids": []
   },
   {
-   "id": "4ea2171ae1f16f",
+   "id": "ff35ac98ae981c",
    "pillar": "jobs",
    "headline": "South Africans voice growing concerns over AI's rapid rise",
    "signal_url": "https://www.africanews.com/2026/09/16/south-africans-voice-growing-concerns-over-ais-rapid-rise/",
@@ -719,7 +751,7 @@
    "evidence_ids": []
   },
   {
-   "id": "f810733de5d1f7",
+   "id": "e876863a44db37",
    "pillar": "jobs",
    "headline": "Prepared Or Unprepared? Evaluating Healthcare Workforce Readiness for Clinical Adoption of Artificial Intelligence in Nigeria",
    "signal_url": "https://arxiv.org/abs/2609.19096",
@@ -735,7 +767,7 @@
    "evidence_ids": []
   },
   {
-   "id": "7ee951a0f4740d",
+   "id": "8379d5fa3c4cb1",
    "pillar": "jobs",
    "headline": "As 2040 Approaches, Should We Still Be Studying for Yesterday's Jobs?",
    "signal_url": "https://www.modernghana.com/news/1527324/as-2040-approaches-should-we-still-be-studying.html",
@@ -751,7 +783,7 @@
    "evidence_ids": []
   },
   {
-   "id": "c74ac411f69485",
+   "id": "8c55a74ffec19b",
    "pillar": "jobs",
    "headline": "By 2034 a Robot in the US Will Undercut Kenyan Garment Workers. That Is the Clock Africa's Industrial Strategy Is Running Against",
    "signal_url": "https://iafrica.com/by-2034-a-robot-in-the-us-will-undercut-kenyan-garment-workers-that-is-the-clock-africas-industrial-strategy-is-running-against/",
@@ -767,7 +799,7 @@
    "evidence_ids": []
   },
   {
-   "id": "147f1682cb4415",
+   "id": "c0df7a043a59d6",
    "pillar": "jobs",
    "headline": "Namibia's NOVA Trains AI Technicians Around a Blunt Statistic: Nine Million African Graduates a Year With Nowhere to Go",
    "signal_url": "https://iafrica.com/namibias-nova-trains-ai-technicians-around-a-blunt-statistic-nine-million-african-graduates-a-year-with-nowhere-to-go/",
@@ -783,7 +815,7 @@
    "evidence_ids": []
   },
   {
-   "id": "f3e25223d4fb72",
+   "id": "e2f6167616e1af",
    "pillar": "jobs",
    "headline": "AI is changing work faster than education can adapt, Africa may offer a different model",
    "signal_url": "https://disruptafrica.com/2026/09/11/ai-is-changing-work-faster-than-education-can-adapt-africa-may-offer-a-different-model/",
@@ -799,7 +831,7 @@
    "evidence_ids": []
   },
   {
-   "id": "85250c6fd55412",
+   "id": "ac8afdbc08b1c6",
    "pillar": "jobs",
    "headline": "Nigeria Must Convert AI Investments Into Jobs, Local Technologies - Experts",
    "signal_url": "https://leadership.ng/nigeria-must-convert-ai-investments-into-jobs-local-technologies-experts/",
@@ -815,7 +847,7 @@
    "evidence_ids": []
   },
   {
-   "id": "879440326292be",
+   "id": "7019fc61b29d0c",
    "pillar": "jobs",
    "headline": "Data capture: How US tech giants are building the AI future without Africa",
    "signal_url": "https://www.theafricareport.com/430326/data-capture-how-us-tech-giants-are-building-the-ai-future-without-africa/",
@@ -831,7 +863,7 @@
    "evidence_ids": []
   },
   {
-   "id": "5e3642aa1e2df6",
+   "id": "f4e38ada33bf24",
    "pillar": "jobs",
    "headline": "South Africa's AI Paradox: Best Prepared, Most Exposed",
    "signal_url": "https://iol.co.za/news/brics/2026-09-10-south-africas-ai-paradox-best-prepared-most-exposed/",
@@ -847,7 +879,7 @@
    "evidence_ids": []
   },
   {
-   "id": "4ae06ee4f87b11",
+   "id": "4c0792e62fad3f",
    "pillar": "jobs",
    "headline": "Egypt Targets $8bn Outsourcing Exports as Digital Services Push Accelerates",
    "signal_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
@@ -863,7 +895,7 @@
    "evidence_ids": []
   },
   {
-   "id": "d3a841038820f5",
+   "id": "4f08d4f13d7da2",
    "pillar": "jobs",
    "headline": "How AI Is Reshaping Employment and Skills Development Across Africa",
    "signal_url": "https://iafrica.com/how-ai-is-reshaping-employment-and-skills-development-across-africa/",
@@ -879,7 +911,7 @@
    "evidence_ids": []
   },
   {
-   "id": "7eeb2ecb082556",
+   "id": "16d1284898e8b9",
    "pillar": "jobs",
    "headline": "'Automation Can Inherit a Gender': Letsike Sets Out Three Frontiers of the AI Divide",
    "signal_url": "https://iafrica.com/automation-can-inherit-a-gender-letsike-sets-out-three-frontiers-of-the-ai-divide/",
@@ -895,7 +927,7 @@
    "evidence_ids": []
   },
   {
-   "id": "2e7b8dd6364597",
+   "id": "4cc425b8a76bf5",
    "pillar": "jobs",
    "headline": "Kenya: Remote Work 2.0 - Can Kenya Become Africa's Digital Services Hub?",
    "signal_url": "https://allafrica.com/stories/202609080096.html",
@@ -911,7 +943,7 @@
    "evidence_ids": []
   },
   {
-   "id": "8725418f99e58f",
+   "id": "9fe87c9a70586a",
    "pillar": "jobs",
    "headline": "Inside Nairobi's AI Shock: What Happens After AI Wipes Out A 40,000-Worker Economy?",
    "signal_url": "https://techround.co.uk/artificial-intelligence/inside-nairobis-ai-shock-what-happens-after-ai-wipes-out-a-40000-worker-economy/",
@@ -927,7 +959,7 @@
    "evidence_ids": []
   },
   {
-   "id": "df6b355373469c",
+   "id": "2d48c04ea3ccf0",
    "pillar": "jobs",
    "headline": "Generative AI Displaces Outsourcing Workers, Reshaping Industry",
    "signal_url": "https://www.chosun.com/english/industry-en/2026/09/07/D6YS5J6V3FELVDTYW2AFHREAFI/",
@@ -943,7 +975,7 @@
    "evidence_ids": []
   },
   {
-   "id": "5e1edd38c85c98",
+   "id": "749878ccf339a6",
    "pillar": "jobs",
    "headline": "Africa's AI Productivity Push Needs a Talent-Pipeline Strategy",
    "signal_url": "https://africabusiness.com/2026/09/07/africa-ai-productivity-talent-pipeline-strategy/",
@@ -959,7 +991,7 @@
    "evidence_ids": []
   },
   {
-   "id": "c8980acc638a20",
+   "id": "44454b56a16ec2",
    "pillar": "jobs",
    "headline": "AI and the Shrinking Career Ladder: Africa's New Employment Reality",
    "signal_url": "https://dailytrust.com/ai-and-the-shrinking-career-ladder-africas-new-employment-reality/",
@@ -975,7 +1007,7 @@
    "evidence_ids": []
   },
   {
-   "id": "586eddc36add2c",
+   "id": "bea5f271c77b1c",
    "pillar": "jobs",
    "headline": "Jamaica's BPO sector sheds 12,000 jobs in two years: opinion",
    "signal_url": "https://news.outsourceaccelerator.com/jamaica-bpo-sheds-jobs/",
@@ -991,7 +1023,7 @@
    "evidence_ids": []
   },
   {
-   "id": "6ab4613a715634",
+   "id": "754dd239f29d49",
    "pillar": "jobs",
    "headline": "AI and the Shrinking Workplace: Workers' New Reality",
    "signal_url": "https://businesspost.ng/featureoped/ai-and-the-shrinking-workplace-workers-new-reality/",
@@ -1007,7 +1039,7 @@
    "evidence_ids": []
   },
   {
-   "id": "5bdb5b987c201c",
+   "id": "4f03da87bcff9f",
    "pillar": "jobs",
    "headline": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
    "signal_url": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
@@ -1023,7 +1055,7 @@
    "evidence_ids": []
   },
   {
-   "id": "e03f72c107f054",
+   "id": "a430fb3d581153",
    "pillar": "jobs",
    "headline": "AI is making South Africa's call centers pricier",
    "signal_url": "https://news.outsourceaccelerator.com/sa-ai-call-centers-cost/",
@@ -1039,7 +1071,7 @@
    "evidence_ids": []
   },
   {
-   "id": "027249f10ff517",
+   "id": "bf79385d0d26ab",
    "pillar": "jobs",
    "headline": "AI Isn't Coming for Our Jobs. It's Coming for Our Wages.",
    "signal_url": "https://jacobin.com/2026/08/ai-job-loss-wages-capital",
@@ -1055,7 +1087,7 @@
    "evidence_ids": []
   },
   {
-   "id": "47412a7badaf35",
+   "id": "7246378b8e3be3",
    "pillar": "jobs",
    "headline": "South Africa's AI Readiness Puts It in a League of Its Own",
    "signal_url": "https://iol.co.za/news/brics/2026-08-27-south-africas-ai-readiness-puts-it-in-a-league-of-its-own/",
@@ -1071,7 +1103,7 @@
    "evidence_ids": []
   },
   {
-   "id": "c451a1d2d69895",
+   "id": "41ddd01e04980b",
    "pillar": "jobs",
    "headline": "From Producing to Validating: How AI Is Deskilling Freelancers",
    "signal_url": "https://arxiv.org/abs/2608.26089",
@@ -1087,7 +1119,7 @@
    "evidence_ids": []
   },
   {
-   "id": "dc54b55221fe7d",
+   "id": "b8eaa3bf0adf2d",
    "pillar": "jobs",
    "headline": "Bill Gates proposes 'Human Reserved' jobs and a tax on AI",
    "signal_url": "https://thenextweb.com/news/bill-gates-human-reserved-jobs-ai",
@@ -1103,7 +1135,7 @@
    "evidence_ids": []
   },
   {
-   "id": "f053bd9dac0ad3",
+   "id": "cc99ba7648becd",
    "pillar": "jobs",
    "headline": "UNCTAD: AI-driven Automation May Affect 40% of Global Jobs as Market Hits $4.8tn by 2033",
    "signal_url": "https://www.thisdaylive.com/2026/08/26/unctad-ai-driven-automation-may-affect-40-of-global-jobs-as-market-hits-4-8tn-by-2033/",
@@ -1119,7 +1151,7 @@
    "evidence_ids": []
   },
   {
-   "id": "3d0a2048bddd48",
+   "id": "f4fdf73c49276e",
    "pillar": "jobs",
    "headline": "The World Is Looking for Digital Workers, and Africa Is Next",
    "signal_url": "https://www.money.hipipo.com/2026/08/22/the-world-is-looking-for-digital-workers-and-africa-is-next/",
@@ -1135,7 +1167,7 @@
    "evidence_ids": []
   },
   {
-   "id": "896f472c24ac67",
+   "id": "96cd375dbe3cd1",
    "pillar": "jobs",
    "headline": "South Africa's Unemployment Rate Climbs to 33.6% in Q2 2026",
    "signal_url": "https://www.riotimesonline.com/south-africa-unemployment-rises-336-q2-2026/",
@@ -1151,7 +1183,7 @@
    "evidence_ids": []
   },
   {
-   "id": "3c25573cd18e99",
+   "id": "c0499cb1ea97e9",
    "pillar": "jobs",
    "headline": "CentaurBench: Benchmarking LLM Capabilities on Augmenting vs. Automating Real-World Work Tasks",
    "signal_url": "https://arxiv.org/abs/2608.18554",
@@ -1167,7 +1199,7 @@
    "evidence_ids": []
   },
   {
-   "id": "cb9da4a50b9a60",
+   "id": "b86353214a72a5",
    "pillar": "jobs",
    "headline": "AI is Making Call Centres More Expensive - Not Cheaper",
    "signal_url": "https://techeconomy.ng/ai-is-making-call-centres-more-expensive-not-cheaper",
@@ -1183,7 +1215,7 @@
    "evidence_ids": []
   },
   {
-   "id": "7afa589c3f2eae",
+   "id": "a85e35d60d2f74",
    "pillar": "jobs",
    "headline": "Kenya: 'Jobs Will Be Lost' - Thigo Urges Kenyans to Adapt to AI Revolution",
    "signal_url": "https://allafrica.com/stories/202608170255.html",
@@ -1199,7 +1231,7 @@
    "evidence_ids": []
   },
   {
-   "id": "aa99ab33d386db",
+   "id": "d5ab6344de09fc",
    "pillar": "jobs",
    "headline": "AI disruption: 9m Nigerian jobs may disappear by 2030 –Experts",
    "signal_url": "https://thesun.ng/ai-disruption-9m-nigerian-jobs-may-disappear-by-2030-experts/",
@@ -1215,7 +1247,7 @@
    "evidence_ids": []
   },
   {
-   "id": "95e94554866cf5",
+   "id": "5d501a2661c81c",
    "pillar": "jobs",
    "headline": "Stranded credentials: how a skill-signaling market absorbed generative AI",
    "signal_url": "https://arxiv.org/abs/2608.17111",
@@ -1231,7 +1263,7 @@
    "evidence_ids": []
   },
   {
-   "id": "3615cd93949cd3",
+   "id": "482c8837ce22f2",
    "pillar": "jobs",
    "headline": "AI Will Take Some Jobs - but Create 78 Million More, Kenya's Tech Envoy Forecasts",
    "signal_url": "https://allafrica.com/stories/202608170191.html",
@@ -1247,7 +1279,7 @@
    "evidence_ids": []
   },
   {
-   "id": "fffa5220a31e49",
+   "id": "ae165cd6a2c439",
    "pillar": "jobs",
    "headline": "Global youth unemployment rises to 67 million, ILO warns",
    "signal_url": "https://capitalethiopia.com/2026/08/16/global-youth-unemployment-rises-to-67-million-ilo-warns/",
@@ -1263,7 +1295,7 @@
    "evidence_ids": []
   },
   {
-   "id": "66f5f45fc28073",
+   "id": "9de781da6f3f11",
    "pillar": "jobs",
    "headline": "Oracle plans fresh August layoffs as its AI spending spree bites",
    "signal_url": "https://thenextweb.com/news/oracle-august-2026-layoffs-ai-capex",
@@ -1279,7 +1311,7 @@
    "evidence_ids": []
   },
   {
-   "id": "69b681becbf7a0",
+   "id": "413e62daea88de",
    "pillar": "jobs",
    "headline": "Kenya and AWS deepen partnership to build globally competitive digital talent",
    "signal_url": "https://techafricanews.com/2026/08/13/kenya-and-aws-deepen-partnership-to-build-globally-competitive-digital-talent/",
@@ -1295,7 +1327,7 @@
    "evidence_ids": []
   },
   {
-   "id": "af055dca712613",
+   "id": "5c2a88c12d3a62",
    "pillar": "jobs",
    "headline": "AI-linked layoffs hit 205,000 workers in 2026: report",
    "signal_url": "https://news.outsourceaccelerator.com/ai-layoffs-205000/",
@@ -1311,7 +1343,7 @@
    "evidence_ids": []
   },
   {
-   "id": "15a610f8270544",
+   "id": "ac700122fa7097",
    "pillar": "jobs",
    "headline": "AI was supposed to destroy jobs. Where's the carnage?",
    "signal_url": "https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction",
@@ -1327,7 +1359,7 @@
    "evidence_ids": []
   },
   {
-   "id": "e091951279b929",
+   "id": "585259591b521b",
    "pillar": "jobs",
    "headline": "Artificial Intelligence: Driving a New Era of Employment in Africa",
    "signal_url": "https://rightforeducation.org/2026/08/10/artificial-intelligence-new-era-of-employment/",
@@ -1343,7 +1375,7 @@
    "evidence_ids": []
   },
   {
-   "id": "4afcaf4088735e",
+   "id": "7f271964d3a595",
    "pillar": "jobs",
    "headline": "White House adviser says companies may be 'AI-washing' layoffs",
    "signal_url": "https://memeburn.com/white-house-adviser-says-companies-may-be-ai-washing-layoffs/",
@@ -1359,7 +1391,7 @@
    "evidence_ids": []
   },
   {
-   "id": "9c369e02d9713a",
+   "id": "e8f9c10c471bcd",
    "pillar": "jobs",
    "headline": "The AI skills employers are actually paying for",
    "signal_url": "https://techpoint.africa/insight/ai-skills-employers-look-for/",
@@ -1375,7 +1407,7 @@
    "evidence_ids": []
   },
   {
-   "id": "6a30a451c53283",
+   "id": "73fbd667af950f",
    "pillar": "jobs",
    "headline": "World Bank: AI won't replace most jobs in Africa, power and Internet remain major hurdles",
    "signal_url": "https://techpoint.africa/news/ai-wont-replace-jobs-in-africa/",
@@ -1391,7 +1423,7 @@
    "evidence_ids": []
   },
   {
-   "id": "bdac23d55a862e",
+   "id": "ef3f83015e08fc",
    "pillar": "jobs",
    "headline": "AI offers jobs boost for developing countries, not job losses - World Bank",
    "signal_url": "https://www.the-star.co.ke/business/2026-08-06-ai-offers-jobs-boost-for-developing-countries-not-job-losses-world-bank",
@@ -1407,7 +1439,7 @@
    "evidence_ids": []
   },
   {
-   "id": "296d15a223e711",
+   "id": "9dcc574d569efd",
    "pillar": "jobs",
    "headline": "India's IT sector is surviving artificial intelligence",
    "signal_url": "https://www.economist.com/finance-and-economics/2026/08/06/indias-it-sector-is-surviving-artificial-intelligence",
@@ -1423,7 +1455,7 @@
    "evidence_ids": []
   },
   {
-   "id": "14993d9bc32803",
+   "id": "eb5337ff253c0e",
    "pillar": "jobs",
    "headline": "Workers Reflect on Challenges Amid AI Transition",
    "signal_url": "https://www.ghanawebbers.com/GhanaHomePage/business/Workers-Reflect-on-Challenges-Amid-AI-Transition-2165040",
@@ -1439,7 +1471,7 @@
    "evidence_ids": []
   },
   {
-   "id": "477f28af849169",
+   "id": "6457ad7b3e9969",
    "pillar": "jobs",
    "headline": "Nigeria faces AI crossroads as 9m jobs risk automation without local innovation",
    "signal_url": "https://businessday.ng/technology/article/nigeria-faces-ai-crossroads-as-9m-jobs-risk-automation-without-local-innovation/",
@@ -1455,7 +1487,7 @@
    "evidence_ids": []
   },
   {
-   "id": "bf50489dde5fee",
+   "id": "d525477dca1223",
    "pillar": "jobs",
    "headline": "AI is changing SA's call centres, but it won't replace every job: industry player",
    "signal_url": "https://www.ewn.co.za/2026/07/31/ai-is-changing-sas-call-centres-but-it-wont-replace-every-job-industry-player",
@@ -1471,7 +1503,7 @@
    "evidence_ids": []
   },
   {
-   "id": "5be1ed687beca3",
+   "id": "d1f5282efe4a7e",
    "pillar": "jobs",
    "headline": "Fiverr stock today: Freelance marketplace's collapse proves AI is decimating the gig economy",
    "signal_url": "https://www.fastcompany.com/91581820/fiverr-stock-today-fvrr-freelance-marketplace-collapse-proves-ai-is-decimating-gig-economy-2026-q2-earnings",
@@ -1487,7 +1519,7 @@
    "evidence_ids": []
   },
   {
-   "id": "1866df4313cc47",
+   "id": "666932dfd34894",
    "pillar": "jobs",
    "headline": "AI Job Squeeze Threatens 3.3 Million South African Workers",
    "signal_url": "https://www.riotimesonline.com/south-africa-call-centre-ai-job-squeeze-2026/",
@@ -1503,7 +1535,7 @@
    "evidence_ids": []
   },
   {
-   "id": "725c70e428d769",
+   "id": "62ff973c78aab5",
    "pillar": "jobs",
    "headline": "Joburg call centre workers lose jobs amid big shift to AI",
    "signal_url": "https://www.news24.com/business/tech/joburg-call-centre-workers-lose-jobs-amid-big-shift-to-ai-20260728-0785",
@@ -1519,7 +1551,7 @@
    "evidence_ids": []
   },
   {
-   "id": "c4345d14d78bc2",
+   "id": "d657f3caf6e93a",
    "pillar": "jobs",
    "headline": "Gartner Survey: AI Automation Reducing Entry-Level Hiring at Nearly One-Quarter of Organizations",
    "signal_url": "https://www.gartner.com/en/newsroom/press-releases/2026-7-27-gartner-survey-finds-ai-automation-is-reducing-some-entry-level-hiring-at-nearly-one-quarter-of-organizations",
@@ -1535,7 +1567,7 @@
    "evidence_ids": []
   },
   {
-   "id": "10edd5907ae76d",
+   "id": "d490e4ab2381be",
    "pillar": "jobs",
    "headline": "Morocco Breaks Into Global Top 20 for AI-Ready Outsourcing",
    "signal_url": "https://www.moroccoworldnews.com/2026/07/330825/morocco-breaks-into-global-top-20-for-ai-ready-outsourcing/",
@@ -1551,7 +1583,7 @@
    "evidence_ids": []
   },
   {
-   "id": "b4d3a7318812e9",
+   "id": "8135064b1b59f4",
    "pillar": "jobs",
    "headline": "Kenya's New Pay & Mental Health Rules For AI Data Workers",
    "signal_url": "https://weetracker.com/2026/07/24/kenya-ai-minimum-pay-mental-healthcare-workers/",
@@ -1567,7 +1599,7 @@
    "evidence_ids": []
   },
   {
-   "id": "9bea3cf2572bbf",
+   "id": "2c50950bfc2c24",
    "pillar": "jobs",
    "headline": "AI layoffs: 10 companies that cut jobs in H1 2026 and why",
    "signal_url": "https://technext24.com/reviews/10-ai-driven-layoff-in-h1-2026-and-why/",
@@ -1583,7 +1615,7 @@
    "evidence_ids": []
   },
   {
-   "id": "18953ee802b847",
+   "id": "a6c68370f40747",
    "pillar": "jobs",
    "headline": "Nigeria's AI-skilled workforce is moving faster than its businesses, creating the widest adoption gap among major outsourcing markets",
    "signal_url": "https://africa.businessinsider.com/local/markets/nigerias-ai-skilled-workforce-is-moving-faster-than-its-businesses-creating-the/e7sb4sh",
@@ -1599,7 +1631,7 @@
    "evidence_ids": []
   },
   {
-   "id": "513426c44110a7",
+   "id": "48b2cd32078da6",
    "pillar": "jobs",
    "headline": "New BPESA Guide Targets 500,000 Jobs by 2030",
    "signal_url": "https://businessexplainer.co.za/new-bpesa-guide-targets-500000-jobs-by-2030/",
@@ -1615,7 +1647,7 @@
    "evidence_ids": []
   },
   {
-   "id": "3fd3587e22b401",
+   "id": "21018ed7820053",
    "pillar": "jobs",
    "headline": "AI Strategies and the Informal Economy: Africa's Job Creation Test",
    "signal_url": "https://www.csis.org/analysis/ai-strategies-and-informal-economy-africas-job-creation-test",
@@ -1631,7 +1663,7 @@
    "evidence_ids": []
   },
   {
-   "id": "8ee16f5a5ac1f6",
+   "id": "a303d11d11d59b",
    "pillar": "jobs",
    "headline": "Agentic AI and the Future of Work in Service-Export Economies",
    "signal_url": "https://www.orfonline.org/research/agentic-ai-and-the-future-of-work-in-service-export-economies",
@@ -1647,7 +1679,7 @@
    "evidence_ids": []
   },
   {
-   "id": "324e71072bd64f",
+   "id": "49e2b11e02a36d",
    "pillar": "jobs",
    "headline": "African tech layoffs hit record high as AI, banking mergers eliminate 2,500 jobs in H1 2026",
    "signal_url": "https://businessday.ng/technology/article/african-tech-layoffs-hit-record-high-as-ai-banking-mergers-eliminate-2500-jobs-in-h1-2026/",
@@ -1663,7 +1695,7 @@
    "evidence_ids": []
   },
   {
-   "id": "1e664a07ea5e8b",
+   "id": "f425b66cde078f",
    "pillar": "jobs",
    "headline": "Upwork Future Workforce Index 2026: AI redefining value of work as skilled freelancing accelerates",
    "signal_url": "https://www.upwork.com/research/research-future-workforce-index-2026",
@@ -1679,7 +1711,7 @@
    "evidence_ids": []
   },
   {
-   "id": "98290478943aef",
+   "id": "3135a25ad37e0e",
    "pillar": "jobs",
    "headline": "Brain Drain and Weak Capital Flows Challenge Africa's AI Ambitions",
    "signal_url": "https://www.ecofinagency.com/news-services/1407-57352-brain-drain-and-weak-capital-flows-challenge-africas-ai-ambitions",
@@ -1695,7 +1727,7 @@
    "evidence_ids": []
   },
   {
-   "id": "e4fdd37b3b82e0",
+   "id": "c828918c6342fd",
    "pillar": "jobs",
    "headline": "Africa's Rise in AI Micro-Work Economy",
    "signal_url": "https://funtimesmagazine.com/africas-rise-in-ai-micro-work-economy/",
@@ -1711,7 +1743,7 @@
    "evidence_ids": []
   },
   {
-   "id": "62f652a4d9a098",
+   "id": "43d0c5165ac41b",
    "pillar": "jobs",
    "headline": "Hundreds of experts warn the world must prepare now for AI's impact",
    "signal_url": "https://www.aljazeera.com/economy/2026/7/13/hundreds-of-experts-warn-the-world-must-prepare-now-for-ais-impact",
@@ -1727,7 +1759,7 @@
    "evidence_ids": []
   },
   {
-   "id": "2fc50316e21572",
+   "id": "74500aec1ffedb",
    "pillar": "jobs",
    "headline": "Future of work: Africa must prepare workforce for AI economy",
    "signal_url": "https://www.cnbcafrica.com/media/7783695551836/future-of-work-africa-must-prepare-workforce-for-ai-economy-muraga",
@@ -1743,7 +1775,7 @@
    "evidence_ids": []
   },
   {
-   "id": "10316322046976",
+   "id": "0f5caea33fbf5c",
    "pillar": "jobs",
    "headline": "Why Africa's workforce, not just its startups, must be AI-ready",
    "signal_url": "https://techcabal.com/2026/06/19/africa-workforce-ai-ready/",
@@ -1759,7 +1791,7 @@
    "evidence_ids": []
   },
   {
-   "id": "3578b10fc7e396",
+   "id": "8e40fea9befe55",
    "pillar": "jobs",
    "headline": "AI may not take your job, but it could change how careers begin",
    "signal_url": "https://iafrica.com/ai-may-not-take-your-job-but-it-could-change-how-careers-begin/",
@@ -1775,7 +1807,7 @@
    "evidence_ids": []
   },
   {
-   "id": "ff8e8b2396e60d",
+   "id": "8de91225301593",
    "pillar": "jobs",
    "headline": "What Digital Jobs Are Left for Africa in an Age of AI?",
    "signal_url": "https://jobtechalliance.com/what-digital-jobs-are-left-for-africa-in-an-age-of-ai/",
@@ -1791,7 +1823,7 @@
    "evidence_ids": []
   },
   {
-   "id": "2f6a585cd0638d",
+   "id": "da2324b2afa06b",
    "pillar": "jobs",
    "headline": "The impact of AI-generated content on freelance writers in Africa",
    "signal_url": "https://www.africanfreelancers.com/2026/05/the-impact-of-ai-generated-content-on-freelance-writers-in-africa/",
@@ -1807,7 +1839,7 @@
    "evidence_ids": []
   },
   {
-   "id": "4b7da0d59a0185",
+   "id": "d36c0722aa54bf",
    "pillar": "jobs",
    "headline": "AI and jobs in Africa: turning disruption into opportunity",
    "signal_url": "https://www.uneca.org/stories/ai-and-jobs-in-africa-turning-disruption-into-opportunity",
@@ -1823,7 +1855,7 @@
    "evidence_ids": []
   },
   {
-   "id": "1eaec00bf4515a",
+   "id": "3777621910cea2",
    "pillar": "jobs",
    "headline": "40% of Tasks in Africa's Tech Outsourcing May Be Affected by AI by 2030",
    "signal_url": "https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/",
@@ -1844,7 +1876,7 @@
    ]
   },
   {
-   "id": "a2bfa1333aad18",
+   "id": "f8f8f1704e8be7",
    "pillar": "jobs",
    "headline": "South Africa's gig economy becomes a bargain with AI skills shortage looming",
    "signal_url": "https://weetracker.com/2026/03/31/south-africa-freelance-economy-ai-talent-gap-2026/",
@@ -1860,7 +1892,7 @@
    "evidence_ids": []
   },
   {
-   "id": "490790f392ad7f",
+   "id": "4ccb70f475c729",
    "pillar": "jobs",
    "headline": "AI Could Undermine Emerging Economies",
    "signal_url": "https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies",
@@ -1876,7 +1908,71 @@
    "evidence_ids": []
   },
   {
-   "id": "dea0b9a8fa8e8f",
+   "id": "f9805d79ccfee7",
+   "pillar": "access",
+   "headline": "How did the next billion users become collateral damage in the AI race?",
+   "signal_url": "https://techafricanews.com/2026/10/01/mobile-internet-growth-slowdown-ai-smartphone-affordability/",
+   "feed_date_label": "Oct 1",
+   "review_state": "needs_source_review",
+   "review_basis": "automated_triage",
+   "reviewed_at": "",
+   "priority": "high",
+   "topic": "Capacity and investment",
+   "related_registers": [],
+   "duplicate_of": "",
+   "note": "Headline triage only. Read the source and verify its definition, geography and date before adding values.",
+   "evidence_ids": []
+  },
+  {
+   "id": "6b40f184f6fdc5",
+   "pillar": "access",
+   "headline": "GSMA warns of widening AI divide as 3.4 billion people remain offline",
+   "signal_url": "https://independent.ng/gsma-warns-of-widening-ai-divide-as-3-4bn-people-remain-offine/",
+   "feed_date_label": "Oct 1",
+   "review_state": "needs_source_review",
+   "review_basis": "automated_triage",
+   "reviewed_at": "",
+   "priority": "high",
+   "topic": "Capacity and investment",
+   "related_registers": [],
+   "duplicate_of": "",
+   "note": "Headline triage only. Read the source and verify its definition, geography and date before adding values.",
+   "evidence_ids": []
+  },
+  {
+   "id": "682d22f77900ce",
+   "pillar": "access",
+   "headline": "Huawei's Mate 90 bets on 3D chip design to get around US curbs",
+   "signal_url": "https://techcentral.co.za/huawei-mate-90-logicfolding-chip/286729/",
+   "feed_date_label": "Oct 1",
+   "review_state": "needs_source_review",
+   "review_basis": "automated_triage",
+   "reviewed_at": "",
+   "priority": "high",
+   "topic": "Context and research",
+   "related_registers": [],
+   "duplicate_of": "",
+   "note": "Headline triage only. Read the source and verify its definition, geography and date before adding values.",
+   "evidence_ids": []
+  },
+  {
+   "id": "c49abb7e57f224",
+   "pillar": "access",
+   "headline": "Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead",
+   "signal_url": "https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/",
+   "feed_date_label": "Sep 30",
+   "review_state": "needs_source_review",
+   "review_basis": "automated_triage",
+   "reviewed_at": "",
+   "priority": "high",
+   "topic": "Context and research",
+   "related_registers": [],
+   "duplicate_of": "",
+   "note": "Headline triage only. Read the source and verify its definition, geography and date before adding values.",
+   "evidence_ids": []
+  },
+  {
+   "id": "7ffa1573b3b759",
    "pillar": "access",
    "headline": "OpenAI cancels October launch of GPT-6.1 Astra",
    "signal_url": "https://techcentral.co.za/openai-cancels-gpt-6-1-astra-launch/286566/",
@@ -1892,7 +1988,7 @@
    "evidence_ids": []
   },
   {
-   "id": "e9033c0e7f3786",
+   "id": "95bc2cf3652aaa",
    "pillar": "access",
    "headline": "Anthropic IPO: AI will outstrip electricity and the internet",
    "signal_url": "https://techcentral.co.za/anthropic-ipo-ai-outstrip-electricity-internet/286562/",
@@ -1908,7 +2004,7 @@
    "evidence_ids": []
   },
   {
-   "id": "dad546dbc4b111",
+   "id": "d5fbeffdae2dde",
    "pillar": "access",
    "headline": "Vivo X Fold 6 launch date leak: a RAM cut and harder price math",
    "signal_url": "https://memeburn.com/vivo-x-fold-6-launch-date/",
@@ -1924,7 +2020,7 @@
    "evidence_ids": []
   },
   {
-   "id": "fddb6b54291e9c",
+   "id": "fd8a2a8080c5c1",
    "pillar": "access",
    "headline": "Lessons from how much mobile data costs in 5 African countries: $0.17/GB in Nigeria, $0.86 in Congo",
    "signal_url": "https://technext24.com/reviews/mobile-data-costs-5-african-countries/",
@@ -1940,7 +2036,7 @@
    "evidence_ids": []
   },
   {
-   "id": "e692e73c767cdc",
+   "id": "65cf0a7b613e58",
    "pillar": "access",
    "headline": "GPT-6.1 Sol comes close to Astra at a fifth of the price",
    "signal_url": "https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/",
@@ -1956,7 +2052,7 @@
    "evidence_ids": []
   },
   {
-   "id": "9a84d0d51df27b",
+   "id": "d2bd86ce96d8b8",
    "pillar": "access",
    "headline": "Helios and UNICEF aim to enhance digital learning access in Africa",
    "signal_url": "https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20894-helios-and-unicef-aim-to-enhance-digital-learning-access-in-africa.html",
@@ -1972,7 +2068,7 @@
    "evidence_ids": []
   },
   {
-   "id": "2a26eb77c1048c",
+   "id": "dda63abad406c4",
    "pillar": "access",
    "headline": "HMD Aura 2 Pro leak shows how budget phones are changing in the memory crisis",
    "signal_url": "https://memeburn.com/hmd-aura-2-pro-leak-shows-how-budget-phones-are-changing-in-the-memory-crisis/",
@@ -1988,7 +2084,7 @@
    "evidence_ids": []
   },
   {
-   "id": "b7437f4bbcb565",
+   "id": "635d47c7fdf7f9",
    "pillar": "access",
    "headline": "Samsung Care+ cuts screen repair costs across East Africa",
    "signal_url": "https://techtrendske.co.ke/2026/09/28/samsung-care-cuts-screen-repair-costs-across-east-africa/",
@@ -2004,7 +2100,7 @@
    "evidence_ids": []
   },
   {
-   "id": "784f85bcc96692",
+   "id": "6209a8179d1a9e",
    "pillar": "access",
    "headline": "Samsung and SK Hynix battle for U.S. AI memory dominance",
    "signal_url": "https://restofworld.org/2026/samsung-sk-hynix-ai-memory-chip-war-nvidia-openai/",
@@ -2020,7 +2116,7 @@
    "evidence_ids": []
   },
   {
-   "id": "23115c27f307ad",
+   "id": "42694d9598c89a",
    "pillar": "access",
    "headline": "Building African-language AI is easier than finding the data",
    "signal_url": "https://techcabal.com/2026/09/28/africa-ai-models-data-training-gap/",
@@ -2036,7 +2132,7 @@
    "evidence_ids": []
   },
   {
-   "id": "6ee3d49b4b7824",
+   "id": "93b83b806e8b00",
    "pillar": "access",
    "headline": "Africa Is Connected. So Why Are 906 Million People Offline?",
    "signal_url": "https://cioafrica.co/africa-is-connected-so-why-are-906-million-people-offline/",
@@ -2052,7 +2148,7 @@
    "evidence_ids": []
   },
   {
-   "id": "708b9931f2bc52",
+   "id": "634beeeeb84caa",
    "pillar": "access",
    "headline": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
    "signal_url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/",
@@ -2068,7 +2164,7 @@
    "evidence_ids": []
   },
   {
-   "id": "c55883822f3635",
+   "id": "9e5a883f099158",
    "pillar": "access",
    "headline": "Anthropic releases Claude Sonnet 5.5 at the same $2/$10 price",
    "signal_url": "https://www.marktechpost.com/2026/09/28/anthropic-releases-claude-sonnet-5-5-70-6-on-terminal-bench-4-0-at-the-same-2-10-price/",
@@ -2084,7 +2180,7 @@
    "evidence_ids": []
   },
   {
-   "id": "cf10739dc0c612",
+   "id": "43a7b2ae6411ca",
    "pillar": "access",
    "headline": "9 in 10 Nigerian smartphone users are on Android, KPMG finds",
    "signal_url": "https://technext24.com/news/9-in-10-nigerians-use-android-smartphones/",
@@ -2100,7 +2196,7 @@
    "evidence_ids": []
   },
   {
-   "id": "24aafe4f0e75c9",
+   "id": "43dac1b48ef424",
    "pillar": "access",
    "headline": "Nigeria's smartphone ownership rises to 75% as digital use expands",
    "signal_url": "https://nairametrics.com/2026/09/26/nigerias-smartphone-ownership-rises-to-75-as-digital-use-expands-report/",
@@ -2116,7 +2212,7 @@
    "evidence_ids": []
   },
   {
-   "id": "6734eafb70670a",
+   "id": "35f8c353521fc6",
    "pillar": "access",
    "headline": "KPMG and Orange launch Nigeria smartphone study as OPay and WhatsApp lead app rankings",
    "signal_url": "https://technext24.com/news/kpmg-orange-launch-nigeria-smartphone-study/",
@@ -2143,7 +2239,7 @@
    ]
   },
   {
-   "id": "89be8e35071202",
+   "id": "3957620d40a98f",
    "pillar": "access",
    "headline": "Kenyan startup builds robotic sign language interpreter, and the African dataset to train it",
    "signal_url": "https://iafrica.com/kenyan-startup-builds-robotic-sign-language-interpreter-and-the-african-dataset-to-train-it/",
@@ -2159,7 +2255,7 @@
    "evidence_ids": []
   },
   {
-   "id": "bd6eb2f3005d48",
+   "id": "2c6666100cd728",
    "pillar": "access",
    "headline": "Chinese AI models surge in global adoption",
    "signal_url": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
@@ -2175,7 +2271,7 @@
    "evidence_ids": []
   },
   {
-   "id": "ff150efd258a7e",
+   "id": "88d856f1ea25b8",
    "pillar": "access",
    "headline": "Over 23 million Nigerians still offline as RuralConnect Summit 2.0 seeks solutions",
    "signal_url": "https://itpulse.com.ng/over-23-million-nigerians-still-offline-as-ruralconnect-summit-2-0-seeks-solutions/",
@@ -2191,7 +2287,7 @@
    "evidence_ids": []
   },
   {
-   "id": "cf9a82198d37df",
+   "id": "c6f7092b942daa",
    "pillar": "access",
    "headline": "Smart offers affordable access to AI models in the Philippines",
    "signal_url": "https://www.developingtelecoms.com/telecom-technology/enterprise-ecosystems/20878-smart-offers-affordable-access-to-ai-models-in-the-philippines.html",
@@ -2207,7 +2303,7 @@
    "evidence_ids": []
   },
   {
-   "id": "e4774db4613d2a",
+   "id": "f33b2affb5e80e",
    "pillar": "access",
    "headline": "Tecno wins two IFA innovation awards for modular phone and mini PC",
    "signal_url": "https://techtrendske.co.ke/2026/09/25/tecno-wins-two-ifa-innovation-awards-for-modular-phone-mini-pc/",
@@ -2223,7 +2319,7 @@
    "evidence_ids": []
   },
   {
-   "id": "407208d10e917f",
+   "id": "af86b2b2eca4ac",
    "pillar": "access",
    "headline": "WhatsApp is installed on 95% of Nigerian smartphones",
    "signal_url": "https://technext24.com/news/whatsapp-is-installed-on-nigerian-smartphones/",
@@ -2239,7 +2335,7 @@
    "evidence_ids": []
   },
   {
-   "id": "09f4007a4357bf",
+   "id": "ae3f9571bf36dd",
    "pillar": "access",
    "headline": "Africa's $30 smartphone goal is becoming harder to achieve",
    "signal_url": "https://techcabal.com/2026/09/24/africas-30-smartphone-goal-is-becoming-harder-to-achieve/",
@@ -2255,7 +2351,7 @@
    "evidence_ids": []
   },
   {
-   "id": "1ee633bb99cc42",
+   "id": "bcafa79e2fa88d",
    "pillar": "access",
    "headline": "AI boom is leaving 100 million disabled Africans behind, data gap flagged",
    "signal_url": "https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/",
@@ -2271,7 +2367,7 @@
    "evidence_ids": []
   },
   {
-   "id": "491639e5f46272",
+   "id": "7625bf5982fab4",
    "pillar": "access",
    "headline": "Alibaba unveils full-stack AI strategy with new Qwen models, chips and agentic cloud",
    "signal_url": "https://techafricanews.com/2026/09/24/alibaba-full-stack-ai-strategy-qwen-chips-agentic-cloud/",
@@ -2287,7 +2383,7 @@
    "evidence_ids": []
   },
   {
-   "id": "753d389a8053d3",
+   "id": "8fbaa7f0b83eaa",
    "pillar": "access",
    "headline": "Airtel Uganda rolls out Starlink satellite-to-mobile service",
    "signal_url": "https://techafricanews.com/2026/09/24/airtel-uganda-rolls-out-starlink-satellite-to-mobile-service/",
@@ -2303,7 +2399,7 @@
    "evidence_ids": []
   },
   {
-   "id": "ce832b7004ff65",
+   "id": "3d1eb0003aee81",
    "pillar": "access",
    "headline": "OpenAI and Anthropic cut frontier model prices ten days after calling for a slowdown",
    "signal_url": "https://www.digitimes.com/news/a20260923VL200/anthropic-openai-opus-claude-price.html",
@@ -2319,7 +2415,7 @@
    "evidence_ids": []
   },
   {
-   "id": "b8d0987444f792",
+   "id": "3ef06225af83a3",
    "pillar": "access",
    "headline": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
    "signal_url": "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
@@ -2335,7 +2431,7 @@
    "evidence_ids": []
   },
   {
-   "id": "83b7798fddac7c",
+   "id": "aaacce79fb8e48",
    "pillar": "access",
    "headline": "What slowdown? OpenAI and Anthropic release dueling models as AI price wars heat up",
    "signal_url": "https://fortune.com/2026/09/22/what-ai-slowdown-openai-anthropic-release-dueling-moreaffordable-models-as-ai-price-wars-heat-up/",
@@ -2351,7 +2447,7 @@
    "evidence_ids": []
   },
   {
-   "id": "4850b5af444a0f",
+   "id": "0215ab4b031efd",
    "pillar": "access",
    "headline": "UNGA 81: Global digital push targets wider access and skills",
    "signal_url": "https://leadership.ng/unga-81-global-digital-push-targets-wider-access-skills/",
@@ -2367,7 +2463,7 @@
    "evidence_ids": []
   },
   {
-   "id": "8d93e9890fa17b",
+   "id": "21f1d1ca307c4b",
    "pillar": "access",
    "headline": "Mozambique INCM Develops Tariff System to Improve Mobile Data Transparency",
    "signal_url": "https://techafricanews.com/2026/09/21/mozambique-incm-tariff-system-mobile-data-transparency/",
@@ -2383,7 +2479,7 @@
    "evidence_ids": []
   },
   {
-   "id": "b2f04a4ccb2453",
+   "id": "143b80f3b0248a",
    "pillar": "access",
    "headline": "Record chip sales threaten higher prices for phones, PCs and gaming",
    "signal_url": "https://cyprus-mail.com/2026/09/21/record-chip-sales-threaten-higher-prices-for-phones-pcs-and-gaming",
@@ -2399,7 +2495,7 @@
    "evidence_ids": []
   },
   {
-   "id": "3dcd9e761257cf",
+   "id": "2d1a1af783f5a1",
    "pillar": "access",
    "headline": "Nigeria's new phone tracking policy could price millions offline",
    "signal_url": "https://techcabal.com/2026/09/21/nigerias-new-phone-tracking-policy-could-price-millions-offline/",
@@ -2415,7 +2511,7 @@
    "evidence_ids": []
   },
   {
-   "id": "6d479d09a77ed3",
+   "id": "c23b2d713a4a26",
    "pillar": "access",
    "headline": "GSMA and PDAA Unveil Roadmap to Close Africa's Mobile Internet Usage Gap and Connect One Billion People by 2030",
    "signal_url": "https://www.gsma.com/newsroom/press-release/gsma-and-pdaa-unveil-roadmap-to-close-africas-mobile-internet-usage-gap-and-connect-one-billion-people-by-2030/",
@@ -2434,7 +2530,7 @@
    ]
   },
   {
-   "id": "41ee12e9e3e89c",
+   "id": "1cc2a006fc76e4",
    "pillar": "access",
    "headline": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",
    "signal_url": "https://www.aipricing.guru/",
@@ -2450,7 +2546,7 @@
    "evidence_ids": []
   },
   {
-   "id": "eeedc016d0c939",
+   "id": "89bec03a11d874",
    "pillar": "access",
    "headline": "Sub-Saharan Africa faces digital divide as handset costs and usage gap persist",
    "signal_url": "https://capitalethiopia.com/2026/09/20/sub-saharan-africa-faces-digital-divide-as-handset-costs-and-usage-gap-persist/",
@@ -2466,7 +2562,7 @@
    "evidence_ids": []
   },
   {
-   "id": "23472b5e3a2bfe",
+   "id": "4355e765c73451",
    "pillar": "access",
    "headline": "Kenya urged to enhance AI capacity for financial inclusion and security",
    "signal_url": "https://techreviewafrica.com/news/7360/kenya-urged-to-enhance-ai-capacity-for-financial-inclusion-and-security",
@@ -2482,7 +2578,7 @@
    "evidence_ids": []
   },
   {
-   "id": "278b4298789cb3",
+   "id": "6bc3e80ae4b6fc",
    "pillar": "access",
    "headline": "The price of AI is falling; why are enterprises still spending more? Explained",
    "signal_url": "https://www.thehindu.com/business/the-price-of-ai-is-falling-why-are-enterprises-still-spending-more-explained/article71484317.ece",
@@ -2498,7 +2594,7 @@
    "evidence_ids": []
   },
   {
-   "id": "19091ddc7bacd6",
+   "id": "32936afcb16554",
    "pillar": "access",
    "headline": "Kenya reaches 52 million smartphones as mobile data use grows",
    "signal_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
@@ -2514,7 +2610,7 @@
    "evidence_ids": []
   },
   {
-   "id": "b98e9d2a9a66d7",
+   "id": "6e6d1b46d1e0b2",
    "pillar": "access",
    "headline": "AMD Reportedly Plans 10% Price Hike for GPUs, AI Chips, Chipsets in 4Q26 as TSMC Costs Rise",
    "signal_url": "https://www.trendforce.com/news/2026/09/18/news-amd-reportedly-plans-10-price-hike-for-gpus-ai-chips-chipsets-in-4q26-as-tsmc-costs-rise/",
@@ -2530,7 +2626,7 @@
    "evidence_ids": []
   },
   {
-   "id": "ebd9f1c016116e",
+   "id": "8d7efd0adda8e7",
    "pillar": "access",
    "headline": "New GSMA Report Maps Rwanda's Path to Wider Digital Inclusion and Over 1 Million More Mobile Internet Users by 2031",
    "signal_url": "https://techafricanews.com/2026/09/17/gsma-rwanda-reforms-connect-1-07-million-more-mobile-internet-users-2031/",
@@ -2550,7 +2646,7 @@
    ]
   },
   {
-   "id": "8d67242c1cdae0",
+   "id": "463a9b6cc807b7",
    "pillar": "access",
    "headline": "GSMA warns rising smartphone costs could deepen Nigeria's mobile internet gap",
    "signal_url": "https://nairametrics.com/2026/09/16/gsma-warns-rising-smartphone-costs-could-deepen-nigerias-mobile-internet-gap/",
@@ -2566,7 +2662,7 @@
    "evidence_ids": []
   },
   {
-   "id": "994a8acb36f3bf",
+   "id": "d456300cf5bba9",
    "pillar": "access",
    "headline": "Mobile internet connects 4.8 billion globally, but 3.4 billion remain offline",
    "signal_url": "https://itpulse.com.ng/mobile-internet-connects-4-8-billion-globally-but-3-4-billion-remain-offline-report/",
@@ -2582,7 +2678,7 @@
    "evidence_ids": []
   },
   {
-   "id": "aed0a5fbf3a998",
+   "id": "e3d73037bfb8e6",
    "pillar": "access",
    "headline": "Amodei wants to slow the AI frontier. Africa is still trying to reach it",
    "signal_url": "https://techcabal.com/2026/09/16/amodei-wants-to-slow-the-ai-frontier-africa-is-still-trying-to-reach-it/",
@@ -2598,7 +2694,7 @@
    "evidence_ids": []
   },
   {
-   "id": "cead00835fae2d",
+   "id": "8231cfedfec514",
    "pillar": "access",
    "headline": "Entry-level smartphone costs hit 76% of monthly income in Sub-Saharan Africa",
    "signal_url": "https://businessday.ng/technology/article/entry-level-smartphone-costs-hit-76-of-monthly-income-in-sub-saharan-africa/",
@@ -2616,7 +2712,7 @@
    ]
   },
   {
-   "id": "d5a9302a2a62ee",
+   "id": "cea3606c956058",
    "pillar": "access",
    "headline": "AI boom threatens smartphone affordability",
    "signal_url": "https://www.itweb.co.za/article/ai-boom-threatens-smartphone-affordability/j5alrvQAoB9vpYQk",
@@ -2632,7 +2728,7 @@
    "evidence_ids": []
   },
   {
-   "id": "13d7560ae22507",
+   "id": "cac0794836ef5a",
    "pillar": "access",
    "headline": "Apple reportedly accepts Samsung's 1Q27 memory hike, raising the 2027 smartphone cost floor",
    "signal_url": "https://www.digitimes.com/news/a20260916VL210/apple-samsung-2027-smartphone-cost.html",
@@ -2648,7 +2744,7 @@
    "evidence_ids": []
   },
   {
-   "id": "56390202833f58",
+   "id": "fb499feb706688",
    "pillar": "access",
    "headline": "GSMA warns of emerging global AI divide as three billion people remain offline and smartphone component costs soar",
    "signal_url": "https://www.gsma.com/newsroom/press-release/gsma-warns-of-emerging-global-ai-divide-as-three-billion-people-remain-offline-and-smartphone-component-costs-soar/",
@@ -2667,7 +2763,7 @@
    ]
   },
   {
-   "id": "0a769c9ee517e0",
+   "id": "71074c77de6fbf",
    "pillar": "access",
    "headline": "Africa's $40 Smartphone Ambition Runs Into Memory Prices and Customs Costs",
    "signal_url": "https://www.ecofinagency.com/news/1509-58915-africas-40-smartphone-ambition-runs-into-memory-prices-and-customs-costs",
@@ -2683,7 +2779,7 @@
    "evidence_ids": []
   },
   {
-   "id": "fa973a9c006fe9",
+   "id": "15472b5c86409b",
    "pillar": "access",
    "headline": "Anthropic Claude API pricing 2026: Fable, Opus, Sonnet cache-read rates",
    "signal_url": "https://www.aipricing.guru/anthropic-pricing/",
@@ -2699,7 +2795,7 @@
    "evidence_ids": []
   },
   {
-   "id": "6a18abc5a6a9dc",
+   "id": "e9f59fe8ec99c4",
    "pillar": "access",
    "headline": "AI Skills and Compute Africa, AIMS partner to expand AI research and compute access",
    "signal_url": "https://techreviewafrica.com/news/7195/ai-skills-and-compute-africa-aims-partner-to-expand-ai-research-and-compute-access",
@@ -2715,7 +2811,7 @@
    "evidence_ids": []
   },
   {
-   "id": "8cd68ebb5e2be7",
+   "id": "3a414012cc549d",
    "pillar": "access",
    "headline": "BigMoMo: Efficient Inference of Large-Scale MoE with Speculative Decoding on Mobile Devices",
    "signal_url": "https://arxiv.org/abs/2609.14643",
@@ -2731,7 +2827,7 @@
    "evidence_ids": []
   },
   {
-   "id": "2e4253e821aea8",
+   "id": "21ce2338f720aa",
    "pillar": "access",
    "headline": "Value - quality per dollar: AI models ranked (data as of 12 Sept 2026)",
    "signal_url": "https://www.benchleader.com/leaderboards/value",
@@ -2747,7 +2843,7 @@
    "evidence_ids": []
   },
   {
-   "id": "522e32831017f9",
+   "id": "43e3ebe620dd8f",
    "pillar": "access",
    "headline": "AI Provider Cost Updates 2026-09-11",
    "signal_url": "https://finopsweekly.com/news/ai-economics-provider-updates-2026-09-11/",
@@ -2763,7 +2859,7 @@
    "evidence_ids": []
   },
   {
-   "id": "3c84d6ba59a110",
+   "id": "2ade829b6c4cb3",
    "pillar": "access",
    "headline": "AI Token Prices 2026: AI Model Pricing Compared",
    "signal_url": "https://www.aipricing.guru/pricing/",
@@ -2779,7 +2875,7 @@
    "evidence_ids": []
   },
   {
-   "id": "47b4eaef728341",
+   "id": "15f1a0fa36fe60",
    "pillar": "access",
    "headline": "Agnes 3.0 Flash: Intelligence, Performance & Price Analysis ($0.05/$0.15 per million)",
    "signal_url": "https://artificialanalysis.ai/models/agnes-3-0-flash",
@@ -2795,7 +2891,7 @@
    "evidence_ids": []
   },
   {
-   "id": "322d94fed3944b",
+   "id": "0c0499c4976332",
    "pillar": "access",
    "headline": "The days of the sub-$100 smartphone may be numbered as AI memory prices soar",
    "signal_url": "https://www.cnbc.com/2026/09/11/cheap-china-smartphones-rare-memory-ai-costs.html",
@@ -2811,7 +2907,7 @@
    "evidence_ids": []
   },
   {
-   "id": "8ab729c2dab102",
+   "id": "0ee7970543ca84",
    "pillar": "access",
    "headline": "Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient",
    "signal_url": "https://www.deepseek.com/en/news/deepseek-v4-1-flash/",
@@ -2827,7 +2923,7 @@
    "evidence_ids": []
   },
   {
-   "id": "5704452e4c84d8",
+   "id": "cdc74e780891ac",
    "pillar": "access",
    "headline": "DeepSeek V4.1 Flash Released: Benchmarks, Pricing, and Pro Retirement",
    "signal_url": "https://www.intelligentliving.co/deepseek-v41-flash-pricing-release/",
@@ -2843,7 +2939,7 @@
    "evidence_ids": []
   },
   {
-   "id": "7097d7fa51b2ac",
+   "id": "e7b7b43c9d69a8",
    "pillar": "access",
    "headline": "DeepSeek-V4.1-Flash: MIT open weights at $0.15 per million",
    "signal_url": "https://datanorth.ai/news/deepseek-releases-deepseek-v4-1-flash",
@@ -2859,7 +2955,7 @@
    "evidence_ids": []
   },
   {
-   "id": "3b54aa82c07c64",
+   "id": "c80918223e481e",
    "pillar": "access",
    "headline": "AI Is Making Smartphones More Expensive",
    "signal_url": "https://www.techbooky.com/ai-making-smartphones-more-expensive/",
@@ -2875,7 +2971,7 @@
    "evidence_ids": []
   },
   {
-   "id": "bb69a11cc512df",
+   "id": "265910379aa18c",
    "pillar": "access",
    "headline": "GPU economics face pressure as token prices fall, d-Matrix says",
    "signal_url": "https://technewstube.com/digitimes/1866380/gpu-economics-face-pressure-token-prices-fall-d-matrix/",
@@ -2891,7 +2987,7 @@
    "evidence_ids": []
   },
   {
-   "id": "3c78230dd7b892",
+   "id": "4fa8ec4007f0a6",
    "pillar": "access",
    "headline": "Connected, But Not Yet Earning: Africa's Next Digital Divide",
    "signal_url": "https://www.africa.com/business/connected-but-not-yet-earning-africas-next-digital-divide",
@@ -2907,7 +3003,7 @@
    "evidence_ids": []
   },
   {
-   "id": "e025c9aee4f68c",
+   "id": "b92699df333b84",
    "pillar": "access",
    "headline": "OpenAI API Pricing September 2026: Latest API Costs",
    "signal_url": "https://aicostbudget.com/en/blog/openai-api-pricing-change-2026",
@@ -2923,7 +3019,7 @@
    "evidence_ids": []
   },
   {
-   "id": "178e1f7a91bfa4",
+   "id": "409797c097c448",
    "pillar": "access",
    "headline": "GPT-6 Astra: Released Flagship, API Pricing and Benchmarks",
    "signal_url": "https://llm-stats.com/blog/research/gpt-6-astra-launch",
@@ -2942,7 +3038,7 @@
    "evidence_ids": []
   },
   {
-   "id": "29a24b12b1172e",
+   "id": "432eb390e8db7a",
    "pillar": "access",
    "headline": "The Cheapest Way to Get More Africans Online May Not Be a New Smartphone",
    "signal_url": "https://techafricanews.com/2026/09/03/the-cheapest-way-to-get-more-africans-online-may-not-be-a-new-smartphone/",
@@ -2958,7 +3054,7 @@
    "evidence_ids": []
   },
   {
-   "id": "a4afc28d219b84",
+   "id": "5b05e3c11a4427",
    "pillar": "access",
    "headline": "Gemini 3.8 Flash review 2026: benchmarks, pricing, and the catch",
    "signal_url": "https://www.eesel.ai/blog/gemini-3-8-flash",
@@ -2974,7 +3070,7 @@
    "evidence_ids": []
   },
   {
-   "id": "58481664f9ad21",
+   "id": "6c9f7f8d7f6374",
    "pillar": "access",
    "headline": "Claude Fable 5.1: Anthropic ships next frontier model at $10/$50 per million tokens",
    "signal_url": "https://artificialanalysis.ai/models/claude-fable-5-1",
@@ -2993,7 +3089,7 @@
    "evidence_ids": []
   },
   {
-   "id": "aeb7603b85ac6f",
+   "id": "e5a9c9b67c62c3",
    "pillar": "access",
    "headline": "AI Hardware Demand Is Now Raising US Inflation as Much as Tariffs — And African Buyers Pay in Dollars",
    "signal_url": "https://iafrica.com/ai-hardware-demand-is-now-raising-us-inflation-as-much-as-tariffs-and-african-buyers-pay-in-dollars/",
@@ -3009,7 +3105,7 @@
    "evidence_ids": []
   },
   {
-   "id": "2b3a43eefc10bc",
+   "id": "73eb1b6d3fbe1d",
    "pillar": "access",
    "headline": "Africa smartphone market set for sharp 2026 decline",
    "signal_url": "https://www.connectingafrica.com/digital-divide/africa-smartphone-market-set-for-sharp-2026-decline",
@@ -3025,7 +3121,7 @@
    "evidence_ids": []
   },
   {
-   "id": "4b3484d164ba70",
+   "id": "1589ead8c69362",
    "pillar": "access",
    "headline": "AI Token Cost in 2026: LLM API Pricing, Reconciled and Dated",
    "signal_url": "https://geotoolbox.ai/blog/ai-token-cost",
@@ -3041,7 +3137,7 @@
    "evidence_ids": []
   },
   {
-   "id": "bb24ea515d6e27",
+   "id": "3433dbd395c0b4",
    "pillar": "access",
    "headline": "Custom AI Chips Help Giants. Everyone Else Pays More",
    "signal_url": "https://ainewsround.com/blog/openai-jalapeno-chip-nvidia-compute-access-opinion",
@@ -3057,7 +3153,7 @@
    "evidence_ids": []
   },
   {
-   "id": "cd5bf1bc5cfaa4",
+   "id": "5f36795a6676a2",
    "pillar": "access",
    "headline": "Smartphones: South Africa Bucks Africa's First Market Downturn in Three Years",
    "signal_url": "https://www.ecofinagency.com/news-digital/2808-58414-smartphones-south-africa-bucks-africa-s-first-market-downturn-in-three-years",
@@ -3073,7 +3169,7 @@
    "evidence_ids": []
   },
   {
-   "id": "57dbd3971dcd6b",
+   "id": "9f2b98e8938c50",
    "pillar": "access",
    "headline": "SK Hynix to start AI chip output in Indiana in 2029, sees memory shortage through 2030",
    "signal_url": "https://telecom.economictimes.indiatimes.com/news/devices/sk-hynix-to-start-ai-chip-output-in-indiana-in-2029-sees-memory-shortage-through-2030/133581603",
@@ -3089,7 +3185,7 @@
    "evidence_ids": []
   },
   {
-   "id": "fd954be0dae910",
+   "id": "8604c051b756ff",
    "pillar": "access",
    "headline": "South African smartphones sales grow despite big price increases",
    "signal_url": "https://mybroadband.co.za/news/smartphones/664397-south-african-smartphones-sales-grow-despite-big-price-increases.html",
@@ -3105,7 +3201,7 @@
    "evidence_ids": []
   },
   {
-   "id": "e9b74d43d69567",
+   "id": "31ecc4bbfaf065",
    "pillar": "access",
    "headline": "African Smartphone Market Posts First Decline In Three Years As Prices Squeeze Affordability",
    "signal_url": "https://www.forbesafrica.com/current-affairs/2026/08/26/african-smartphone-market-posts-first-decline-in-three-years-as-prices-squeeze-affordability",
@@ -3121,7 +3217,7 @@
    "evidence_ids": []
   },
   {
-   "id": "cf04a8d4b4ecbb",
+   "id": "364a75b060fe47",
    "pillar": "access",
    "headline": "AI Data-Center Demand Puts Africa's Low-Cost Smartphone Market Under Pressure",
    "signal_url": "https://www.ecofinagency.com/news/2508-58307-ai-data-center-demand-puts-africa-s-low-cost-smartphone-market-under-pressure",
@@ -3137,7 +3233,7 @@
    "evidence_ids": []
   },
   {
-   "id": "575f5fae0de474",
+   "id": "d7104916f416a2",
    "pillar": "access",
    "headline": "Nigerians Return To Feature Phones As Smartphone Affordability Crisis Worsens",
    "signal_url": "https://weetracker.com/2026/08/24/feature-phone-surge-nigeria-device-financing-crisis/",
@@ -3153,7 +3249,7 @@
    "evidence_ids": []
   },
   {
-   "id": "9a5c4e07b83c8a",
+   "id": "cb1adc55c41d3d",
    "pillar": "access",
    "headline": "AI API Prices August 2026: Who Cut, Who Raised",
    "signal_url": "https://andrew.ooo/answers/ai-api-price-cuts-vs-hikes-august-2026-what-changed/",
@@ -3169,7 +3265,7 @@
    "evidence_ids": []
   },
   {
-   "id": "85d2f363926982",
+   "id": "de5f3a7a0739fa",
    "pillar": "access",
    "headline": "OpenAI Cuts GPT-5.6 Sol Prices by Over 20%",
    "signal_url": "https://www.technology.org/2026/08/24/openai-gpt-5-6-sol-price-cut-developers/",
@@ -3187,7 +3283,7 @@
    "evidence_ids": []
   },
   {
-   "id": "867b5606fd0b3c",
+   "id": "9b1abad91d01a3",
    "pillar": "access",
    "headline": "How the AI boom is pushing smartphone prices higher",
    "signal_url": "https://techjaja.com/ai-pushing-smartphone-prices-higher/",
@@ -3203,7 +3299,7 @@
    "evidence_ids": []
   },
   {
-   "id": "ffadd76f2e8456",
+   "id": "1f7817684c1a9d",
    "pillar": "access",
    "headline": "Google AI Plus Student Plan 2026: Free 1-Year AI Access for Tertiary Students in Ghana and 26 Other African Countries",
    "signal_url": "https://opportunitiesforyouth.org/2026/08/21/google-ai-plus-student-plan-2026-free-1-year-ai-access-for-tertiary-students-in-ghana-and-26-other-african-countries/",
@@ -3219,7 +3315,7 @@
    "evidence_ids": []
   },
   {
-   "id": "1d24f9b8d2b140",
+   "id": "b0e0fbb4190630",
    "pillar": "access",
    "headline": "OpenAI API pricing in 2026: every model after the July price cuts",
    "signal_url": "https://www.cloudzero.com/blog/openai-pricing/",
@@ -3235,7 +3331,7 @@
    "evidence_ids": []
   },
   {
-   "id": "d1e40714db1ec7",
+   "id": "41811a7aabaf11",
    "pillar": "access",
    "headline": "Africa smartphone market expected to decline 26% in 2026 following first contraction in three years",
    "signal_url": "https://omdia.tech.informa.com/pr/2026/aug/africa-smartphone-market-expected-to-decline-26percent-in-2026-following-first-contraction-in-three-years",
@@ -3251,7 +3347,7 @@
    "evidence_ids": []
   },
   {
-   "id": "631149d2e6ae81",
+   "id": "8a0bf5f6be7235",
    "pillar": "access",
    "headline": "Google is giving Nigerian students a year of free AI access",
    "signal_url": "https://techcabal.com/2026/08/20/google-is-giving-nigerian-students-a-year-of-free-ai-access/",
@@ -3267,7 +3363,7 @@
    "evidence_ids": []
   },
   {
-   "id": "c2c4011fc0ad24",
+   "id": "3e0e079c8334a4",
    "pillar": "access",
    "headline": "Who Will Control Africa's Satellite Internet Layer: Starlink, Amazon Leo or the Carriers?",
    "signal_url": "https://techafricanews.com/2026/08/20/who-will-control-africas-satellite-internet-layer-starlink-amazon-leo-or-the-carriers/",
@@ -3283,7 +3379,7 @@
    "evidence_ids": []
   },
   {
-   "id": "af368f7c4450c1",
+   "id": "be83d58dabead1",
    "pillar": "access",
    "headline": "Why AI could make your next smartphone more expensive",
    "signal_url": "https://techcabal.com/2026/08/20/ai-is-making-africas-cheapest-smartphones-harder-to-afford/",
@@ -3299,7 +3395,7 @@
    "evidence_ids": []
   },
   {
-   "id": "c8033d9250e74e",
+   "id": "8482027fa8418d",
    "pillar": "access",
    "headline": "LLM API Pricing Trends & Updates (August 2026)",
    "signal_url": "https://benchlm.ai/llm-pricing-trends",
@@ -3315,7 +3411,7 @@
    "evidence_ids": []
   },
   {
-   "id": "855a8bdffdf071",
+   "id": "805b48ba059f13",
    "pillar": "access",
    "headline": "TranslatePsy-AfriSLM: High-Quality Data Scaling For Low-Resource Machine Translation",
    "signal_url": "https://arxiv.org/abs/2608.18655v1",
@@ -3331,7 +3427,7 @@
    "evidence_ids": []
   },
   {
-   "id": "5227fd320293ef",
+   "id": "b6237943524950",
    "pillar": "access",
    "headline": "DeepSeek API Price Increase: Up to 12x, Peak Hours (2026)",
    "signal_url": "https://ofox.ai/blog/deepseek-api-price-increase-new-rates-peak-hours-cache-cost-2026/",
@@ -3347,7 +3443,7 @@
    "evidence_ids": []
   },
   {
-   "id": "72c20ed300559b",
+   "id": "e73e28c87c98ee",
    "pillar": "access",
    "headline": "Africa Smartphone Shipments Fall 7% in Q2 2026 as Sub-$100 Devices Plunge 34%",
    "signal_url": "https://telecomlead.com/smart-phone/africa-smartphone-shipments-fall-7-in-q2-2026-as-sub-100-devices-plunge-34-127334",
@@ -3363,7 +3459,7 @@
    "evidence_ids": []
   },
   {
-   "id": "aa6ff477ed5486",
+   "id": "dfe36713e692e9",
    "pillar": "access",
    "headline": "Sub-$100 smartphones are nearly extinct — and AI is to blame",
    "signal_url": "https://gagadget.com/en/722225-sub-100-smartphones-are-nearly-extinct-and-ai-is-to-blame/",
@@ -3379,7 +3475,7 @@
    "evidence_ids": []
   },
   {
-   "id": "f02c2cfd22bb23",
+   "id": "87cdd807cc9ce0",
    "pillar": "access",
    "headline": "GLM-5.3 Released by Zhipu: 740 Billion Parameters Stay the Same",
    "signal_url": "https://news.aibase.com/news/30353",
@@ -3395,7 +3491,7 @@
    "evidence_ids": []
   },
   {
-   "id": "43641c64211a4d",
+   "id": "86ca49b35a1d57",
    "pillar": "access",
    "headline": "Budgeting AI Agents on Intro Pricing Built to Double",
    "signal_url": "https://www.digitalapplied.com/blog/budgeting-ai-agents-introductory-pricing-gemini-3-7-flash",
@@ -3411,7 +3507,7 @@
    "evidence_ids": []
   },
   {
-   "id": "a24ae9e3093482",
+   "id": "08bb6d4bced3eb",
    "pillar": "access",
    "headline": "LLM Batch APIs: The Half-Price Lane Nobody Budgets",
    "signal_url": "https://www.digitalapplied.com/blog/llm-batch-api-pricing-landscape-2026",
@@ -3427,7 +3523,7 @@
    "evidence_ids": []
   },
   {
-   "id": "235e7617cf2b77",
+   "id": "847198c3d2d951",
    "pillar": "access",
    "headline": "The AI price war just flipped: DeepSeek is raising prices up to 1,100% while OpenAI and Anthropic cut",
    "signal_url": "https://pick-right.com/news/ai-price-war-flips-deepseek-raises-us-labs-cut-2026-08-14/",
@@ -3443,7 +3539,7 @@
    "evidence_ids": []
   },
   {
-   "id": "430355a286ea3e",
+   "id": "a5eeaf0bbdbbe6",
    "pillar": "access",
    "headline": "DeepSeek API moves to peak/off-peak pricing with off-peak rates at half price, effective Aug 16",
    "signal_url": "https://api-docs.deepseek.com/quick_start/pricing/",
@@ -3464,7 +3560,7 @@
    "evidence_ids": []
   },
   {
-   "id": "9ca6073608c055",
+   "id": "627a36564f2164",
    "pillar": "access",
    "headline": "DeepSeek API Price Increase Is Coming: A Developer's Cost-Optimization Playbook",
    "signal_url": "https://apidog.com/blog/deepseek-api-price-increase-cost-optimization/",
@@ -3480,7 +3576,7 @@
    "evidence_ids": []
   },
   {
-   "id": "4809b48b400b3d",
+   "id": "8d48e2048d11fc",
    "pillar": "access",
    "headline": "DeepSeek Raises API Prices by Up to 12x With the Official V4 Pro Release",
    "signal_url": "https://deepseekv4pro.com/news/deepseek-v4-pro-0813-official-release-opus-fable-benchmarks",
@@ -3498,7 +3594,7 @@
    "evidence_ids": []
   },
   {
-   "id": "1dd85b1a22f3ea",
+   "id": "c828b381ec845c",
    "pillar": "access",
    "headline": "MEA Smartphone Market Declines 10% YoY in Q2 2026 as Entry-Tier Memory Crisis Bites",
    "signal_url": "https://counterpointresearch.com/en/reports/market-monitor-oem-shipment-by-region-and-countries-q2-2026",
@@ -3514,7 +3610,7 @@
    "evidence_ids": []
   },
   {
-   "id": "359941d52ce13f",
+   "id": "6e451984c8e07c",
    "pillar": "access",
    "headline": "DeepSeek API Price Increase Announced Amid High Demand",
    "signal_url": "https://aicodenews.com/deepseek-api-price-increase-demand-surges-v4-flash/",
@@ -3530,7 +3626,7 @@
    "evidence_ids": []
   },
   {
-   "id": "579f92199743b8",
+   "id": "47b8b27ebd136a",
    "pillar": "access",
    "headline": "AI Provider Cost Updates 2026-08-07",
    "signal_url": "https://finopsweekly.com/news/ai-provider-updates-2026-08-07/",
@@ -3546,7 +3642,7 @@
    "evidence_ids": []
   },
   {
-   "id": "77564bd22487f2",
+   "id": "e213ae1521a2c2",
    "pillar": "access",
    "headline": "Claude API Pricing (August 2026): Model & Token Costs",
    "signal_url": "https://benchlm.ai/anthropic/api-pricing",
@@ -3562,7 +3658,7 @@
    "evidence_ids": []
   },
   {
-   "id": "7191c9a1e2a092",
+   "id": "91580eba728086",
    "pillar": "access",
    "headline": "ChatGPT Goes GPT-5.6: Free Tier Gets Unlimited Luna",
    "signal_url": "https://www.digitalapplied.com/blog/chatgpt-gpt-5-6-luna-free-default-unlimited-chats",
@@ -3578,7 +3674,7 @@
    "evidence_ids": []
   },
   {
-   "id": "88c5f7b6d990f3",
+   "id": "410b6ff80287bd",
    "pillar": "access",
    "headline": "DeepSeek API Price Hike Warning: What Builders Do Now",
    "signal_url": "https://explainx.ai/blog/deepseek-api-price-increase-jun-song-august-2026",
@@ -3594,7 +3690,7 @@
    "evidence_ids": []
   },
   {
-   "id": "b007a6d0064c39",
+   "id": "f7aa1321a3d075",
    "pillar": "access",
    "headline": "DeepSeek warns developers of significant API price increases",
    "signal_url": "https://dataconomy.com/2026/08/06/deepseek-significant-api-price-increase-2026/",
@@ -3610,7 +3706,7 @@
    "evidence_ids": []
   },
   {
-   "id": "afdd0269ffba33",
+   "id": "852d4601d87440",
    "pillar": "access",
    "headline": "LLM API Pricing Comparison: GPT, Claude, Gemini & DeepSeek (2026)",
    "signal_url": "https://www.spheron.network/blog/llm-api-pricing-comparison-gpt-claude-gemini-deepseek-2026/",
@@ -3626,7 +3722,7 @@
    "evidence_ids": []
   },
   {
-   "id": "b857b9b5c4ff29",
+   "id": "ddbe5ad578c735",
    "pillar": "access",
    "headline": "AI API Pricing, August 2026: Cuts, Promos, and Traps",
    "signal_url": "https://www.digitalapplied.com/blog/ai-api-pricing-august-2026-cuts-promos-tracker",
@@ -3642,7 +3738,7 @@
    "evidence_ids": []
   },
   {
-   "id": "e207a7a2aad2e9",
+   "id": "7644f8ad945c4d",
    "pillar": "access",
    "headline": "How China's A.I. Is Surging Across Africa",
    "signal_url": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html",
@@ -3658,7 +3754,7 @@
    "evidence_ids": []
   },
   {
-   "id": "05670986620fc9",
+   "id": "1b22d9bb6ce64b",
    "pillar": "access",
    "headline": "AI demand keeps consumer prices high in 'RAMaggedon' chip crunch",
    "signal_url": "https://www.euronews.com/next/2026/08/03/ai-demand-keeps-consumer-prices-high-in-ramaggedon-chip-crunch",
@@ -3674,7 +3770,7 @@
    "evidence_ids": []
   },
   {
-   "id": "792e5181c97b5d",
+   "id": "30bbf9a8011ad6",
    "pillar": "access",
    "headline": "Best LLM API Providers 2026: 4 Types and What Each Costs",
    "signal_url": "https://ofox.ai/blog/best-llm-api-providers-2026/",
@@ -3690,7 +3786,7 @@
    "evidence_ids": []
   },
   {
-   "id": "b893361cad29de",
+   "id": "2f04b52c56e6d7",
    "pillar": "access",
    "headline": "OpenAI Cuts GPT-5.6 Luna Prices by 80% and Terra by 20%",
    "signal_url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
@@ -3708,7 +3804,7 @@
    "evidence_ids": []
   },
   {
-   "id": "86a6e6dee15670",
+   "id": "84f314779d541a",
    "pillar": "access",
    "headline": "Global Smartphone Shipments Fell 6% in 2Q26 as Supply-Side Pressures Reshape the Market",
    "signal_url": "https://omdia.tech.informa.com/pr/2026/july/global-smartphone-shipments-fell-6percent-in-2q26-as-supply-side-pressures-reshape-the-market",
@@ -3724,7 +3820,7 @@
    "evidence_ids": []
   },
   {
-   "id": "c6ecfdac3295f9",
+   "id": "669eb57e066b83",
    "pillar": "access",
    "headline": "AI Inference Cost Statistics 2026",
    "signal_url": "https://axis-intelligence.com/ai-inference-cost-statistics/",
@@ -3740,7 +3836,7 @@
    "evidence_ids": []
   },
   {
-   "id": "2754d3209938e1",
+   "id": "edfea2dcbce252",
    "pillar": "access",
    "headline": "LLM API Pricing 2026: Real Cost Per Call, Compared",
    "signal_url": "https://wpwebhooks.org/blog/llm-api-pricing-cost-per-call/",
@@ -3756,7 +3852,7 @@
    "evidence_ids": []
   },
   {
-   "id": "a4c4e3405305fc",
+   "id": "f19011757036e8",
    "pillar": "access",
    "headline": "GPT-5.6 Pricing (July 2026): Sol $5, Terra $2.50, Luna $1 per 1M Tokens",
    "signal_url": "https://www.aipricing.guru/openai-pricing/",
@@ -3775,7 +3871,7 @@
    "evidence_ids": []
   },
   {
-   "id": "9cb8306f917639",
+   "id": "b5f4059d3f7a31",
    "pillar": "access",
    "headline": "2026 Memory Chip Shortage: SK Hynix Warns 2027 Will Be Worse",
    "signal_url": "https://tech-insider.org/memory-chip-shortage-2026-ai-consumer-electronics/",
@@ -3791,7 +3887,7 @@
    "evidence_ids": []
   },
   {
-   "id": "2efff368a74c90",
+   "id": "b610bc2fb205fc",
    "pillar": "access",
    "headline": "LLM API Pricing Comparison & Calculator (July 2026)",
    "signal_url": "https://benchlm.ai/llm-pricing",
@@ -3807,7 +3903,7 @@
    "evidence_ids": []
   },
   {
-   "id": "7356f08f240683",
+   "id": "4c8163243079bd",
    "pillar": "access",
    "headline": "AI Token Costs Reshape the Race",
    "signal_url": "https://www.neoteo.com/ai-token-costs-reshape-the-race/",
@@ -3823,7 +3919,7 @@
    "evidence_ids": []
   },
   {
-   "id": "e060c6ce6999f7",
+   "id": "69977ffabeefac",
    "pillar": "access",
    "headline": "Priced Out of the Future: Confronting the Rising Cost of AI in Africa",
    "signal_url": "https://guardian.ng/opinion/priced-out-of-the-future-confronting-the-rising-cost-of-ai-in-africa/",
@@ -3839,7 +3935,7 @@
    "evidence_ids": []
   },
   {
-   "id": "d5a3d7d54a53d5",
+   "id": "12fd30a1c5aafe",
    "pillar": "access",
    "headline": "Claude Opus 5: Benchmarks, Pricing & Full Guide",
    "signal_url": "https://coursiv.io/blog/claude-opus-5",
@@ -3855,7 +3951,7 @@
    "evidence_ids": []
   },
   {
-   "id": "8b07b3c1d956d9",
+   "id": "674ba0be17d6b6",
    "pillar": "access",
    "headline": "Kenya opens consultation on draft emerging technologies AI policy",
    "signal_url": "https://www.africaainews.com/p/kenya-shares-draft-ai-policy-cote",
@@ -3871,7 +3967,7 @@
    "evidence_ids": []
   },
   {
-   "id": "ea890e2d4214e9",
+   "id": "2d199f2bda5d18",
    "pillar": "access",
    "headline": "Claude Opus 5 Is Live — Frontier Reasoning at 60% Off Official Pricing ($5/$25 → $2/$10 per MTok)",
    "signal_url": "https://apimaster.ai/blog/claude-opus-5-apimaster-launch-2026",
@@ -3890,7 +3986,7 @@
    "evidence_ids": []
   },
   {
-   "id": "590ef579a08caf",
+   "id": "1595779c0d3297",
    "pillar": "access",
    "headline": "AI API Pricing Comparison 2026: 73 Models Ranked",
    "signal_url": "https://www.aipricing.guru/blog/ai-api-pricing-comparison-2026/",
@@ -3906,7 +4002,7 @@
    "evidence_ids": []
   },
   {
-   "id": "1235fa8c8b8fb8",
+   "id": "2b782ce63e63e9",
    "pillar": "access",
    "headline": "Cursor Router: Frontier Coding Quality at 30-50% Lower Cost",
    "signal_url": "https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier-delivering-frontier-coding-quality-at-30-50-lower-cost/",
@@ -3922,7 +4018,7 @@
    "evidence_ids": []
   },
   {
-   "id": "e0b0e4ba71cb3c",
+   "id": "10de578b7130a6",
    "pillar": "access",
    "headline": "LLM API Pricing (July 2026): GPT-5.6 Terra · Claude Sonnet 5 · Full Table",
    "signal_url": "https://www.tldl.io/resources/llm-api-pricing",
@@ -3938,7 +4034,7 @@
    "evidence_ids": []
   },
   {
-   "id": "798264bf601eb2",
+   "id": "e51bc65fafb426",
    "pillar": "access",
    "headline": "Africa Can Grow Faster With AI—If It Moves Now",
    "signal_url": "https://www.imf.org/en/news/articles/2026/07/21/cf-africa-can-grow-faster-with-ai-if-it-moves-now",
@@ -3954,7 +4050,7 @@
    "evidence_ids": []
   },
   {
-   "id": "cb7bc8ab9397e6",
+   "id": "adb009c0ff6692",
    "pillar": "access",
    "headline": "DeepSeek V4 Official Release: What’s Changing and When — peak-hour pricing, performance gains, mid-July window",
    "signal_url": "https://aireiter.com/blog/deepseek-v4-official-release",
@@ -3970,7 +4066,7 @@
    "evidence_ids": []
   },
   {
-   "id": "068c2a71b9908a",
+   "id": "1c07c79a7f9c9d",
    "pillar": "access",
    "headline": "Frontier Model API Pricing, July 2026: Claude vs OpenAI vs Gemini vs DeepSeek",
    "signal_url": "https://www.developersdigest.tech/blog/frontier-model-api-pricing-june-2026",
@@ -3986,7 +4082,7 @@
    "evidence_ids": []
   },
   {
-   "id": "d034edc2531661",
+   "id": "deb8fba4c9a106",
    "pillar": "access",
    "headline": "OpenAI API Pricing (July 2026): GPT-5.5 & 5.6 per 1M Tokens",
    "signal_url": "https://benchlm.ai/openai/api-pricing",
@@ -4002,7 +4098,7 @@
    "evidence_ids": []
   },
   {
-   "id": "53916098aa564f",
+   "id": "b5475c01cded00",
    "pillar": "access",
    "headline": "AI Chip Shortage Threatens to Slow Hyperscaler Data Center Expansion",
    "signal_url": "https://www.citybuzz.co/2026/07/17/ai-chip-shortage-threatens-to-slow-hyperscaler-data-center-expansion/",
@@ -4018,7 +4114,7 @@
    "evidence_ids": []
   },
   {
-   "id": "3948e228bf6708",
+   "id": "3c1bf4252572a8",
    "pillar": "access",
    "headline": "Claude vs ChatGPT (2026): Benchmarks, Pricing, Pros and Cons",
    "signal_url": "https://www.morphllm.com/claude-vs-chatgpt",
@@ -4034,7 +4130,7 @@
    "evidence_ids": []
   },
   {
-   "id": "1d4228912bebed",
+   "id": "a97944eb0debd8",
    "pillar": "access",
    "headline": "LLM API Pricing Comparison & Cost Guide (Jul 2026)",
    "signal_url": "https://costgoat.com/compare/llm-api",
@@ -4050,7 +4146,7 @@
    "evidence_ids": []
   },
   {
-   "id": "37ccb803697f3b",
+   "id": "7728ccd9238c67",
    "pillar": "access",
    "headline": "Global smartphone shipments fall 6.7% in Q2 2026 amid memory crisis",
    "signal_url": "https://www.communicationstoday.co.in/global-smartphone-shipments-fall-6-7-to-277-5m-units-in-q2-2026/",
@@ -4066,7 +4162,7 @@
    "evidence_ids": []
   },
   {
-   "id": "320847f5ac15ba",
+   "id": "0b54cf208047b5",
    "pillar": "access",
    "headline": "Kimi K3 launches at $3/$15 per million tokens — Moonshot AI's 2.8T frontier model",
    "signal_url": "https://kie.ai/blog/kimi-k3-pricing",
@@ -4085,7 +4181,7 @@
    "evidence_ids": []
   },
   {
-   "id": "fdb87dd9b88115",
+   "id": "e552df90d49e63",
    "pillar": "access",
    "headline": "The Real AI Divide in South Africa Isn't Digital — It's Human",
    "signal_url": "https://lifestyleandtech.co.za/ai-cloud/article/2026-07-15/the-real-ai-divide-in-south-africa-isnt-digital-its-human",
@@ -4101,7 +4197,7 @@
    "evidence_ids": []
   },
   {
-   "id": "82ac7c352243fb",
+   "id": "659dcc4d703344",
    "pillar": "access",
    "headline": "Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030 — A quantitative scenario analysis of inference economics",
    "signal_url": "https://arxiv.org/abs/2607.07207v1",
@@ -4117,7 +4213,7 @@
    "evidence_ids": []
   },
   {
-   "id": "f5b6967edd2a2b",
+   "id": "74ee8cfdeada8d",
    "pillar": "access",
    "headline": "Laptops, Phones Get Costlier as AI Fuels Chip Shortage",
    "signal_url": "https://www.arabtimesonline.com/news/laptops-phones-get-costlier-as-ai-fuels-chip-shortage/",
@@ -4133,7 +4229,7 @@
    "evidence_ids": []
   },
   {
-   "id": "237f92dda22a55",
+   "id": "cc894af3a176da",
    "pillar": "access",
    "headline": "Smartphone Shipments at Historic Lows as AI Memory Demand Squeezes Supply and Drives Up Prices",
    "signal_url": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/",
@@ -4149,7 +4245,7 @@
    "evidence_ids": []
   },
   {
-   "id": "5c08ca535f2bc0",
+   "id": "1963fdf063d65b",
    "pillar": "access",
    "headline": "Claude Fable 5 Extended Through July 19 With 50% Rate Limit Boost",
    "signal_url": "https://www.forbes.com/sites/sandycarter/2026/07/13/claude-fable-5-extends-to-july-19-7-days-7-power-moves/",
@@ -4165,7 +4261,7 @@
    "evidence_ids": []
   },
   {
-   "id": "c2cfc19306539b",
+   "id": "1771b06904cf93",
    "pillar": "access",
    "headline": "AI chip demand shock pushes up consumer prices — memory shortage hits Africa hardest",
    "signal_url": "https://www.sundaytimes.timeslive.co.za/business/2026-07-11-ai-chip-demand-shock-pushes-up-consumer-prices/",
@@ -4181,7 +4277,7 @@
    "evidence_ids": []
   },
   {
-   "id": "e0f1fbe5c4369b",
+   "id": "dafa47eb44b891",
    "pillar": "access",
    "headline": "AI chip demand shock pushes up consumer prices in South Africa",
    "signal_url": "https://www.businessday.co.za/business-times/2026-07-11-ai-chip-demand-shock-pushes-up-consumer-prices/",
@@ -4197,7 +4293,7 @@
    "evidence_ids": []
   },
   {
-   "id": "37b1055d988c18",
+   "id": "420ccbabae8c12",
    "pillar": "access",
    "headline": "OpenAI launches GPT-5.6 Sol, Terra, Luna — three-tier pricing $1–$30/M output",
    "signal_url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/",
@@ -4213,7 +4309,7 @@
    "evidence_ids": []
   },
   {
-   "id": "606aade45a68f3",
+   "id": "2f869339188675",
    "pillar": "access",
    "headline": "Meta Starts Charging for AI With Muse Spark 1.1 Agentic Model — undercuts Claude by 8x on input cost",
    "signal_url": "https://www.bloomberg.com/news/articles/2026-07-09/meta-starts-charging-for-ai-with-muse-spark-1-1-agentic-model",
@@ -4229,7 +4325,7 @@
    "evidence_ids": []
   },
   {
-   "id": "2524ab37fc48fd",
+   "id": "de0d17e42d3a81",
    "pillar": "access",
    "headline": "Global smartphone shipments to fall 13% in 2026 — Africa worst hit",
    "signal_url": "https://omdia.tech.informa.com/pr/2026/mar/omdia-global-smartphone-shipments-to-fall-7percent-in-2026-amid-memory-constraints-and-geopolitical-pressures",
@@ -4245,7 +4341,7 @@
    "evidence_ids": []
   },
   {
-   "id": "57319bdd3b388b",
+   "id": "d0ec9dde6a8360",
    "pillar": "access",
    "headline": "Beyond Benchmarks: The Economics of AI Inference",
    "signal_url": "https://arxiv.org/abs/2510.26136",
@@ -4261,7 +4357,7 @@
    "evidence_ids": []
   },
   {
-   "id": "dc02fd56820e8c",
+   "id": "682a9189bf2251",
    "pillar": "access",
    "headline": "US lifts export controls on Anthropic's Fable 5 and Mythos 5",
    "signal_url": "https://fortune.com/2026/07/02/anthropic-fable-and-mythos-are-restored-but-us-ai-policy-is-still-a-mess/",
@@ -4277,7 +4373,7 @@
    "evidence_ids": []
   },
   {
-   "id": "68bb4ba15776df",
+   "id": "4037460d86d55a",
    "pillar": "access",
    "headline": "LLM Inference at the Edge: Mobile, NPU and GPU Performance",
    "signal_url": "https://arxiv.org/abs/2603.23640",
@@ -4293,7 +4389,7 @@
    "evidence_ids": []
   },
   {
-   "id": "e1b62c39885602",
+   "id": "721c90376ed436",
    "pillar": "access",
    "headline": "Africa smartphone shipments fall 12% as memory crisis hits demand",
    "signal_url": "https://thebusinesstimesng.com/africa-smartphone-shipments-fall-memory-crisis-q1-2026/",
@@ -4309,7 +4405,7 @@
    "evidence_ids": []
   },
   {
-   "id": "022ec99834a6d5",
+   "id": "4bf4ea228adf6d",
    "pillar": "access",
    "headline": "Deconstructing Africa's smartphone market: shipments, price bands & the AI memory squeeze",
    "signal_url": "https://www.trustonic.com/opinion/africa-smartphone-market-2025-2026-outlook/",
@@ -4325,7 +4421,7 @@
    "evidence_ids": []
   },
   {
-   "id": "01395dbac2aa36",
+   "id": "300bb2a88631a7",
    "pillar": "access",
    "headline": "AI Is Killing the Cheap Smartphone",
    "signal_url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
@@ -4341,7 +4437,7 @@
    "evidence_ids": []
   },
   {
-   "id": "2973fb55942684",
+   "id": "57724bb59c7bbe",
    "pillar": "access",
    "headline": "AI-driven chip shortage slowing efforts to get world online: GSMA",
    "signal_url": "https://www.thejapantimes.jp/Technology/658420-ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma.html",
@@ -4357,7 +4453,7 @@
    "evidence_ids": []
   },
   {
-   "id": "d4ca974267815b",
+   "id": "bd64492b0d6489",
    "pillar": "access",
    "headline": "AI Chip Demand — Smartphone Prices in Nigeria",
    "signal_url": "https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/",
@@ -4373,7 +4469,23 @@
    "evidence_ids": []
   },
   {
-   "id": "5039ccf1bda842",
+   "id": "1b876bd2f177c6",
+   "pillar": "infra",
+   "headline": "NCC calls for increased investment in Nigeria's telecoms infrastructure",
+   "signal_url": "https://techafricanews.com/2026/10/01/ncc-calls-for-increased-investment-in-nigerias-telecoms-infrastructure/",
+   "feed_date_label": "Oct 1",
+   "review_state": "needs_source_review",
+   "review_basis": "automated_triage",
+   "reviewed_at": "",
+   "priority": "normal",
+   "topic": "Context and research",
+   "related_registers": [],
+   "duplicate_of": "",
+   "note": "Headline triage only. Read the source and verify its definition, geography and date before adding values.",
+   "evidence_ids": []
+  },
+  {
+   "id": "69e0b198a02446",
    "pillar": "infra",
    "headline": "Vodacom to deploy Nokia's passive-active massive MIMO solution",
    "signal_url": "https://www.developingtelecoms.com/telecom-technology/wireless-networks/20898-vodacom-to-deploy-nokias-passive-active-massive-mimo-solution.html",
@@ -4389,7 +4501,7 @@
    "evidence_ids": []
   },
   {
-   "id": "f89f2c9aabab4c",
+   "id": "e44a2969656430",
    "pillar": "infra",
    "headline": "Wetech Conference: Africa must build its own AI, integrate more women in decision-making",
    "signal_url": "https://techpoint.africa/coverage/wetech-conference-event-coverage/",
@@ -4405,7 +4517,39 @@
    "evidence_ids": []
   },
   {
-   "id": "9811e65e218969",
+   "id": "f8a1344e03b171",
+   "pillar": "infra",
+   "headline": "Nigeria AI Collective to host Africa's first shared compute and AI infrastructure conference",
+   "signal_url": "https://techcabal.com/2026/09/30/nigeria-ai-collective-set-to-host-africas-first-shared-compute-and-ai-infrastructure-conference-build-2026/",
+   "feed_date_label": "Sep 30",
+   "review_state": "needs_source_review",
+   "review_basis": "automated_triage",
+   "reviewed_at": "",
+   "priority": "normal",
+   "topic": "Context and research",
+   "related_registers": [],
+   "duplicate_of": "",
+   "note": "Headline triage only. Read the source and verify its definition, geography and date before adding values.",
+   "evidence_ids": []
+  },
+  {
+   "id": "addae7a8a16760",
+   "pillar": "infra",
+   "headline": "Kenya joins digital bloc as AI and data rules take shape",
+   "signal_url": "https://techtrendske.co.ke/2026/09/30/kenya-digital-cooperation-organization/",
+   "feed_date_label": "Sep 30",
+   "review_state": "needs_source_review",
+   "review_basis": "automated_triage",
+   "reviewed_at": "",
+   "priority": "normal",
+   "topic": "Context and research",
+   "related_registers": [],
+   "duplicate_of": "",
+   "note": "Headline triage only. Read the source and verify its definition, geography and date before adding values.",
+   "evidence_ids": []
+  },
+  {
+   "id": "ce133cfeae0be4",
    "pillar": "infra",
    "headline": "The AU’s Question: What 55 Countries Need to Agree on Before Africa Can Govern AI",
    "signal_url": "https://techafricanews.com/2026/09/29/the-aus-question-what-55-countries-need-to-agree-on-before-africa-can-govern-ai/",
@@ -4421,7 +4565,7 @@
    "evidence_ids": []
   },
   {
-   "id": "79ec1029ab1d33",
+   "id": "dff3cb384c2423",
    "pillar": "infra",
    "headline": "Africa AI solutions must grow from local soil",
    "signal_url": "https://furtherafrica.com/2026/09/29/africa-ai-solutions-must-grow-from-local-soil/",
@@ -4437,7 +4581,7 @@
    "evidence_ids": []
   },
   {
-   "id": "55453885546af5",
+   "id": "fe2a90b7c679fb",
    "pillar": "infra",
    "headline": "Beyond Energy: When Sustainability Dimensions Reshape LLM Serving Decisions",
    "signal_url": "https://arxiv.org/abs/2609.35569",
@@ -4453,7 +4597,7 @@
    "evidence_ids": []
   },
   {
-   "id": "dd06d6cddd7238",
+   "id": "a129806bbf2228",
    "pillar": "infra",
    "headline": "Africa's AI problem isn't talent: compute scarcity is the bottleneck",
    "signal_url": "https://techcabal.com/2026/09/29/africas-ai-problem-isnt-talent/",
@@ -4469,7 +4613,7 @@
    "evidence_ids": []
   },
   {
-   "id": "1f77de035877d1",
+   "id": "197ba0870728ea",
    "pillar": "infra",
    "headline": "Nigeria's central bank data localisation push is about more than local servers",
    "signal_url": "https://techcabal.com/2026/09/29/cbn-data-localisation-nigeria-financial-data/",
@@ -4485,7 +4629,7 @@
    "evidence_ids": []
   },
   {
-   "id": "070e646ceed728",
+   "id": "287e19b876098b",
    "pillar": "infra",
    "headline": "Standard Bank and Huawei forge strategic cloud partnership",
    "signal_url": "https://techcentral.co.za/standard-bank-huawei-cloud-partnership/286590/",
@@ -4501,7 +4645,7 @@
    "evidence_ids": []
   },
   {
-   "id": "a291c2457600f4",
+   "id": "aab315759c5fd8",
    "pillar": "infra",
    "headline": "Angola Cables upgrades transatlantic capacity with Ciena technology",
    "signal_url": "https://www.developingtelecoms.com/telecom-technology/optical-fixed-networks/20897-angola-cables-upgrades-transatlantic-capacity-with-ciena-technology.html",
@@ -4517,7 +4661,7 @@
    "evidence_ids": []
   },
   {
-   "id": "c3388b006f304f",
+   "id": "e8cdcb8008f4b2",
    "pillar": "infra",
    "headline": "Cape Verde Telecom and DE-CIX explore new cable route",
    "signal_url": "https://www.developingtelecoms.com/telecom-technology/optical-fixed-networks/20896-cape-verde-telecom-and-de-cix-explore-new-cable-route.html",
@@ -4533,7 +4677,7 @@
    "evidence_ids": []
   },
   {
-   "id": "835592701154d3",
+   "id": "a67ec283f4daca",
    "pillar": "infra",
    "headline": "Building a data hub in Egypt",
    "signal_url": "https://english.ahram.org.eg/NewsContent/50/1202/577840/AlAhram-Weekly/Economy/Building-a-data-hub-in-Egypt.aspx",
@@ -4549,7 +4693,7 @@
    "evidence_ids": []
   },
   {
-   "id": "3b37eb283f57f8",
+   "id": "48dbccacf43ba2",
    "pillar": "infra",
    "headline": "Schneider Electric backs Kenya push to build data centre talent",
    "signal_url": "https://businessday.ng/companies/article/schneider-electric-backs-kenya-push-to-build-data-centre-talent/",
@@ -4565,7 +4709,7 @@
    "evidence_ids": []
   },
   {
-   "id": "9ccaff49564391",
+   "id": "a187387138e78b",
    "pillar": "infra",
    "headline": "AI must generate $6 trillion and invent $4.2T in products to justify the data centre boom",
    "signal_url": "https://technext24.com/reviews/ai-must-generate-6-trillion-data-centre/",
@@ -4581,7 +4725,7 @@
    "evidence_ids": []
   },
   {
-   "id": "4558c62cbc9361",
+   "id": "fa878dbdc98f96",
    "pillar": "infra",
    "headline": "Egypt and Mali deepen digital cooperation on fibre networks and AI",
    "signal_url": "https://techafricanews.com/2026/09/28/egypt-mali-digital-cooperation-fibre-networks-ai/",
@@ -4597,7 +4741,7 @@
    "evidence_ids": []
   },
   {
-   "id": "095f7e1c176782",
+   "id": "ffc08792daeb80",
    "pillar": "infra",
    "headline": "Gabon pushes African priorities in global digital governance ahead of ITU PP-26",
    "signal_url": "https://techafricanews.com/2026/09/28/gabon-african-priorities-global-digital-governance-itu-pp26/",
@@ -4613,7 +4757,7 @@
    "evidence_ids": []
   },
   {
-   "id": "88cd99043c332f",
+   "id": "170db07324c35e",
    "pillar": "infra",
    "headline": "Malawi's telecoms regulator proposes AI surveillance network for Blantyre",
    "signal_url": "https://iafrica.com/malawis-telecoms-regulator-proposes-ai-surveillance-network-for-blantyre/",
@@ -4629,7 +4773,7 @@
    "evidence_ids": []
   },
   {
-   "id": "7d831c7c2342b6",
+   "id": "f666df52fdb581",
    "pillar": "infra",
    "headline": "TCS Sovereign Cloud Goes Live In Nairobi",
    "signal_url": "https://cioafrica.co/tcs-sovereign-cloud-goes-live-in-nairobi/",
@@ -4645,7 +4789,7 @@
    "evidence_ids": []
   },
   {
-   "id": "e8401d8464057f",
+   "id": "d990f48ad94a18",
    "pillar": "infra",
    "headline": "UN AI Panel Member: African Countries Should Start With the Problem, Not the Technology",
    "signal_url": "https://iafrica.com/un-ai-panel-member-african-countries-should-start-with-the-problem-not-the-technology/",
@@ -4661,7 +4805,7 @@
    "evidence_ids": []
   },
   {
-   "id": "80f280ad6b05e0",
+   "id": "ce5d358ba76b6b",
    "pillar": "infra",
    "headline": "The data center Americans hate could light up rural Africa: Rockefeller's Emergent Grid",
    "signal_url": "https://www.forbes.com/sites/kensilverstein/2026/09/27/the-data-center-americans-hate-could-light-up-rural-africa/",
@@ -4677,7 +4821,7 @@
    "evidence_ids": []
   },
   {
-   "id": "76255c40e0b3ba",
+   "id": "cadce05b54a8e5",
    "pillar": "infra",
    "headline": "NVIDIA confirms Morocco in two African AI compute projects, including 500MW Casablanca factory",
    "signal_url": "https://iafrica.com/nvidia-confirms-morocco-in-two-african-ai-compute-projects-including-500mw-casablanca-factory/",
@@ -4693,7 +4837,7 @@
    "evidence_ids": []
   },
   {
-   "id": "6e4bd0ccbefc90",
+   "id": "e1ea02ed4faa99",
    "pillar": "infra",
    "headline": "Kenya cyber threats hit 11 billion as DDoS attacks double",
    "signal_url": "https://www.itnewsafrica.com/cybersecurity/kenya-cyber-threats-hit-11-billion/",
@@ -4709,7 +4853,7 @@
    "evidence_ids": []
   },
   {
-   "id": "32f9fc1b7060db",
+   "id": "59b9f6f99219b6",
    "pillar": "infra",
    "headline": "Kenya signs responsible AI declaration with Anthropic",
    "signal_url": "https://iafrica.com/kenya-signs-responsible-ai-declaration-with-anthropic-days-after-being-named-in-the-companys-threat-report/",
@@ -4725,7 +4869,7 @@
    "evidence_ids": []
   },
   {
-   "id": "fa0944b46eeac2",
+   "id": "0c418f4f5846c5",
    "pillar": "infra",
    "headline": "Rwanda's PM sets three tests for AI sovereignty: 'A market, not a participant'",
    "signal_url": "https://iafrica.com/a-market-not-a-participant-rwandas-pm-sets-three-tests-for-ai-sovereignty/",
@@ -4741,7 +4885,7 @@
    "evidence_ids": []
   },
   {
-   "id": "b68adf3cf2e090",
+   "id": "777dbcee2c3958",
    "pillar": "infra",
    "headline": "Lesotho is first to apply UN AI blueprint, starting with what it needs before what it builds",
    "signal_url": "https://iafrica.com/lesotho-is-first-to-apply-un-ai-blueprint-starting-with-what-it-needs-before-what-it-builds/",
@@ -4757,7 +4901,7 @@
    "evidence_ids": []
   },
   {
-   "id": "fb3aec68738303",
+   "id": "12e2bd954264d0",
    "pillar": "infra",
    "headline": "South Africa: Malatsi on the AI policy collapse, redraft now slipping to March",
    "signal_url": "https://iafrica.com/we-didnt-interrogate-the-bibliography-malatsi-on-the-ai-policy-collapse-and-a-redraft-now-slipping-to-march/",
@@ -4773,7 +4917,7 @@
    "evidence_ids": []
   },
   {
-   "id": "dede6c6ed2b8f1",
+   "id": "9b9ff69decd77f",
    "pillar": "infra",
    "headline": "Egypt AI Council reviews national AI strategy progress and quantum computing plans",
    "signal_url": "https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/",
@@ -4789,7 +4933,7 @@
    "evidence_ids": []
   },
   {
-   "id": "2e80d2a643c4e2",
+   "id": "7e23f3731fc1ee",
    "pillar": "infra",
    "headline": "Akamai secures $11.6 billion Anthropic cloud infrastructure commitment over seven years",
    "signal_url": "https://techafricanews.com/2026/09/25/akamai-11-6-billion-anthropic-cloud-infrastructure-commitment/",
@@ -4805,7 +4949,7 @@
    "evidence_ids": []
   },
   {
-   "id": "6a491103e0cf00",
+   "id": "c16b9b541c038c",
    "pillar": "infra",
    "headline": "Kenya to double Ethiopian power imports as domestic grid pressures mount",
    "signal_url": "https://www.theafricareport.com/431601/kenya-to-double-ethiopian-power-imports-as-domestic-grid-pressures-mount/",
@@ -4821,7 +4965,7 @@
    "evidence_ids": []
   },
   {
-   "id": "d201530f654ce4",
+   "id": "461ca11a5ceac3",
    "pillar": "infra",
    "headline": "5,000 fibre cuts threaten Nigeria's digital economy",
    "signal_url": "https://itpulse.com.ng/5000-fibre-cuts-threaten-nigerias-digital-economy/",
@@ -4837,7 +4981,7 @@
    "evidence_ids": []
   },
   {
-   "id": "884f10d296df97",
+   "id": "8327208114f859",
    "pillar": "infra",
    "headline": "Coffee With Larry Yon: why Africa's tech ecosystem should be building the next NVIDIA",
    "signal_url": "https://techcabal.com/2026/09/25/larry-yon-africa-digital-trust-diaspora-investment/",
@@ -4853,7 +4997,7 @@
    "evidence_ids": []
   },
   {
-   "id": "92baeddfd905d1",
+   "id": "13a11f5b7f41ee",
    "pillar": "infra",
    "headline": "Africa cannot secure agentic AI with yesterday's security model",
    "signal_url": "https://itpulse.com.ng/africa-cannot-secure-agentic-ai-with-yesterdays-security-model/",
@@ -4869,7 +5013,7 @@
    "evidence_ids": []
   },
   {
-   "id": "08028f1309735d",
+   "id": "39f6ae5155241a",
    "pillar": "infra",
    "headline": "Eastern Africa countries, EAC and IGAD advance regional digital integration in Nairobi",
    "signal_url": "https://techafricanews.com/2026/09/25/eastern-africa-eac-igad-regional-digital-integration/",
@@ -4885,7 +5029,7 @@
    "evidence_ids": []
   },
   {
-   "id": "0f127351f345c8",
+   "id": "561012dd13ad26",
    "pillar": "infra",
    "headline": "Africa's 5G market is set to nearly quadruple by 2030",
    "signal_url": "https://techafricanews.com/2026/09/24/africas-5g-market-is-set-to-nearly-quadruple-by-2030-what-will-drive-the-growth/",
@@ -4901,7 +5045,7 @@
    "evidence_ids": []
   },
   {
-   "id": "c36a16a486756a",
+   "id": "5b39f891a8f76b",
    "pillar": "infra",
    "headline": "NuRAN Wireless to pilot Starlink LEO backhaul at rural Nigeria sites",
    "signal_url": "https://techafricanews.com/2026/09/24/nuran-wireless-starlink-leo-backhaul-pilot-nigeria/",
@@ -4917,7 +5061,7 @@
    "evidence_ids": []
   },
   {
-   "id": "94ac2c8096ffcf",
+   "id": "3e5d963a3dadf1",
    "pillar": "infra",
    "headline": "R4.54 billion in a week: who is paying for Africa's fibre build-out?",
    "signal_url": "https://www.itnewsafrica.com/mobile-and-telecoms/r4-54bn-in-a-week-who-is-paying-for-africas-fibre-build-out/",
@@ -4933,7 +5077,7 @@
    "evidence_ids": []
   },
   {
-   "id": "123b804999858f",
+   "id": "75cbbb3e608bac",
    "pillar": "infra",
    "headline": "Egypt and NVIDIA Discuss AI Cooperation, Skills Development and Innovation",
    "signal_url": "https://techafricanews.com/2026/09/22/egypt-nvidia-discuss-ai-cooperation-skills-development-innovation/",
@@ -4949,7 +5093,7 @@
    "evidence_ids": []
   },
   {
-   "id": "f39b2ad4efc5e6",
+   "id": "b5e83f31084d94",
    "pillar": "infra",
    "headline": "Rwanda Signs MoU With ChipMango to Build Local Semiconductor Design Skills",
    "signal_url": "https://techafricanews.com/2026/09/22/rwanda-signs-mou-with-chipmango-to-build-local-semiconductor-design-skills/",
@@ -4965,7 +5109,7 @@
    "evidence_ids": []
   },
   {
-   "id": "ed448843c9584c",
+   "id": "27d166f0beac42",
    "pillar": "infra",
    "headline": "South Africa seeks UN commitment to global AI governance framework",
    "signal_url": "https://iafrica.com/south-africa-seeks-un-commitment-to-global-ai-governance-framework/",
@@ -4981,7 +5125,7 @@
    "evidence_ids": []
   },
   {
-   "id": "2fb1753235177a",
+   "id": "768d496d1f00db",
    "pillar": "infra",
    "headline": "UNGA: Nigeria sets four pillars for its inclusive AI push",
    "signal_url": "https://headlines.ng/unga-nigeria-sets-four-pillars-for-its-inclusive-ai-push/",
@@ -4997,7 +5141,7 @@
    "evidence_ids": []
   },
   {
-   "id": "5f02fd5a4bbb4e",
+   "id": "c3eab222d4fb00",
    "pillar": "infra",
    "headline": "Vodafone Egypt begins commercial rollout of Ericsson's AI RAN processor, among first markets after Japan",
    "signal_url": "https://iafrica.com/vodafone-egypt-begins-commercial-rollout-of-ericssons-ai-ran-processor-among-first-markets-after-japan/",
@@ -5013,7 +5157,7 @@
    "evidence_ids": []
   },
   {
-   "id": "6536b0d56519d9",
+   "id": "cc125e133295a2",
    "pillar": "infra",
    "headline": "Offshore wind is pitched to power Cape Town's data centres. It won't arrive until 2035",
    "signal_url": "https://iafrica.com/offshore-wind-is-pitched-to-power-cape-towns-data-centres-it-wont-arrive-until-2035/",
@@ -5029,7 +5173,7 @@
    "evidence_ids": []
   },
   {
-   "id": "9f78bd6ab9e8d0",
+   "id": "3b8ad4f75e7124",
    "pillar": "infra",
    "headline": "Kenya and Stanford's Hoover Institution Sign Five-Year Deal on AI and Data Governance",
    "signal_url": "https://techafricanews.com/2026/09/21/kenya-stanford-hoover-institution-ai-data-governance-deal/",
@@ -5045,7 +5189,7 @@
    "evidence_ids": []
   },
   {
-   "id": "c5d1876dc88742",
+   "id": "521b8c2ddb351a",
    "pillar": "infra",
    "headline": "Resilience, Routing and Data Sovereignty in African Networks",
    "signal_url": "https://techafricanews.com/2026/09/21/resilience-routing-and-data-sovereignty-in-african-networks/",
@@ -5061,7 +5205,7 @@
    "evidence_ids": []
   },
   {
-   "id": "c889d90f7b8038",
+   "id": "79f76ea540ae6a",
    "pillar": "infra",
    "headline": "Digital Parks Africa To Build Tier IV Carrier-Neutral Data Centre In Lagos",
    "signal_url": "https://independent.ng/digital-parks-africa-to-build-tier-iv-carrier-neutral-data-centre-in-lagos/",
@@ -5077,7 +5221,7 @@
    "evidence_ids": []
   },
   {
-   "id": "16862ae01ef924",
+   "id": "fca58612d7d298",
    "pillar": "infra",
    "headline": "Vertiv, Pinnacle ICT in distribution deal to expand data infrastructure reach in Southern Africa",
    "signal_url": "https://techtrendske.co.ke/2026/09/21/vertiv-pinnacle-ict-in-distribution-deal-to-expand-data-infrastructure-reach-in-southern-africa/",
@@ -5093,7 +5237,7 @@
    "evidence_ids": []
   },
   {
-   "id": "c674038aa84633",
+   "id": "2c6ec2b26edb56",
    "pillar": "infra",
    "headline": "From Enablement to Execution, Egypt's AI Ecosystem Reaches Production Scale",
    "signal_url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
@@ -5115,7 +5259,7 @@
    ]
   },
   {
-   "id": "af8797bb90df05",
+   "id": "be2bc387e13db5",
    "pillar": "infra",
    "headline": "The 14-week race to move Nigeria's bank data home",
    "signal_url": "https://businessday.ng/technology/article/the-14-week-race-to-move-nigerias-bank-data-home/",
@@ -5131,7 +5275,7 @@
    "evidence_ids": []
   },
   {
-   "id": "f5bc4f244b859a",
+   "id": "848a05a4d880e4",
    "pillar": "infra",
    "headline": "FSCA Holds Off on AI Rules Until Global Standards Body Reports",
    "signal_url": "https://iafrica.com/fsca-holds-off-on-ai-rules-until-global-standards-body-reports/",
@@ -5147,7 +5291,7 @@
    "evidence_ids": []
   },
   {
-   "id": "cb503e95236261",
+   "id": "faaf9561b37c44",
    "pillar": "infra",
    "headline": "Context-Aware Pre-Deployment Evaluation of AI Systems: A Regulatory Framework for Nigerian Fintech",
    "signal_url": "https://arxiv.org/abs/2609.24016",
@@ -5163,7 +5307,7 @@
    "evidence_ids": []
   },
   {
-   "id": "a432c3818545fd",
+   "id": "6edbfd26ce52c3",
    "pillar": "infra",
    "headline": "What digital sovereignty and data localisation should mean for Africa",
    "signal_url": "https://africa.hyperscalers.news/data-center/what-digital-sovereignty-and-data-localisation-should-mean-for-africa/",
@@ -5179,7 +5323,7 @@
    "evidence_ids": []
   },
   {
-   "id": "af706220dd60b5",
+   "id": "ff8497f310af05",
    "pillar": "infra",
    "headline": "Cassava Technologies CEO calls for African ownership of AI compute infrastructure",
    "signal_url": "https://techreviewafrica.com/news/7356/cassava-technologies-ceo-calls-for-african-ownership-of-ai-compute-infrastructure",
@@ -5195,7 +5339,7 @@
    "evidence_ids": []
   },
   {
-   "id": "1f626ddea35649",
+   "id": "2e8f590a0d748f",
    "pillar": "infra",
    "headline": "Data centre deal: Cape Town forced back to the drawing board",
    "signal_url": "https://www.dailymaverick.co.za/article/2026-09-20-data-centre-deal-cape-town-forced-back-to-the-drawing-board/",
@@ -5214,7 +5358,7 @@
    "evidence_ids": []
   },
   {
-   "id": "111751f030d693",
+   "id": "04a9fbb5ef3fbc",
    "pillar": "infra",
    "headline": "Datatec is riding the global AI infrastructure wave from the JSE",
    "signal_url": "https://www.dailymaverick.co.za/article/2026-09-20-datatec-is-riding-the-global-ai-infrastructure-wave-from-the-jse/",
@@ -5230,7 +5374,7 @@
    "evidence_ids": []
   },
   {
-   "id": "c306062d366a9a",
+   "id": "92a588442090c9",
    "pillar": "infra",
    "headline": "Beyond PUE: A Local Impact Audit Framework for Data Center Environmental Accountability",
    "signal_url": "https://arxiv.org/abs/2609.23421",
@@ -5246,7 +5390,7 @@
    "evidence_ids": []
   },
   {
-   "id": "b660faf0862206",
+   "id": "5e72485af51269",
    "pillar": "infra",
    "headline": "Cape Town Groups File Legal Challenge Against Equinix Data Centres, Demand National Moratorium",
    "signal_url": "https://iafrica.com/cape-town-groups-file-legal-challenge-against-equinix-data-centres-demand-national-moratorium/",
@@ -5262,7 +5406,7 @@
    "evidence_ids": []
   },
   {
-   "id": "38545b1c60ff75",
+   "id": "696d903284be81",
    "pillar": "infra",
    "headline": "Egypt's Synapse Analytics Raises $13m Series A Led by Partech",
    "signal_url": "https://iafrica.com/egypts-synapse-analytics-raises-13m-series-a-led-by-partech/",
@@ -5278,7 +5422,7 @@
    "evidence_ids": []
   },
   {
-   "id": "9b6c7cdba91243",
+   "id": "229e2ed8898acd",
    "pillar": "infra",
    "headline": "South Africa's data centre boom gets push from government",
    "signal_url": "https://mybroadband.co.za/news/cloud-hosting/666504-south-africas-data-centre-boom-gets-push-from-government.html",
@@ -5294,7 +5438,7 @@
    "evidence_ids": []
   },
   {
-   "id": "0ade6d7c6f88d0",
+   "id": "b6962af02efa9e",
    "pillar": "infra",
    "headline": "'Africa needs data centre surge' to keep up with the digital economy",
    "signal_url": "https://www.businessday.co.za/business-times/2026-09-19-africa-needs-data-centre-surge-to-keep-up-with-the-digital-economy/",
@@ -5310,7 +5454,7 @@
    "evidence_ids": []
   },
   {
-   "id": "ac1916e93c1cf5",
+   "id": "22b421c1a56a70",
    "pillar": "infra",
    "headline": "Mozambique Drafts AI Rules for Schools and Universities, Due at Cabinet Before Year End",
    "signal_url": "https://iafrica.com/mozambique-drafts-ai-rules-for-schools-and-universities-due-at-cabinet-before-year-end/",
@@ -5326,7 +5470,7 @@
    "evidence_ids": []
   },
   {
-   "id": "8b7a1cfc5773ed",
+   "id": "206b66580ac051",
    "pillar": "infra",
    "headline": "VEA Capital Partners Invests in South African AI Firm Bonisa AI",
    "signal_url": "https://techafricanews.com/2026/09/18/vea-capital-partners-invests-south-african-ai-firm-bonisa-ai/",
@@ -5342,7 +5486,7 @@
    "evidence_ids": []
   },
   {
-   "id": "8f35b885530827",
+   "id": "befab89be1d46c",
    "pillar": "infra",
    "headline": "Huawei Unveils New AI Computing Technologies as Middle East Demand Grows",
    "signal_url": "https://techafricanews.com/2026/09/18/huawei-unveils-new-ai-computing-technologies-as-middle-east-demand-grows/",
@@ -5358,7 +5502,7 @@
    "evidence_ids": []
   },
   {
-   "id": "3d2c18ebc3e908",
+   "id": "80359628db4ab9",
    "pillar": "infra",
    "headline": "Stears: West Africa's data centre gap is bigger than most portfolios reflect",
    "signal_url": "https://www.cnbcafrica.com/media/7789743486778/stears-west-africas-data-centre-gap-is-bigger-than-most-portfolios-reflect",
@@ -5374,7 +5518,7 @@
    "evidence_ids": []
   },
   {
-   "id": "713780f10a0bce",
+   "id": "2038cd0a06024e",
    "pillar": "infra",
    "headline": "Inside Nigeria's Plan to Build a Regional Cloud Economy from Investment to Sovereignty",
    "signal_url": "https://techafricanews.com/2026/09/17/nigeria-national-digital-cloud-policy-750-million/",
@@ -5390,7 +5534,7 @@
    "evidence_ids": []
   },
   {
-   "id": "09146725a1c9bf",
+   "id": "b3602e56892041",
    "pillar": "infra",
    "headline": "South Africa sees offshore wind powering AI data centres",
    "signal_url": "https://techcentral.co.za/offshore-wind-framework-ai-data-centres-south-africa/286229/",
@@ -5406,7 +5550,7 @@
    "evidence_ids": []
   },
   {
-   "id": "951fe5e7b51a1d",
+   "id": "e3b9ba23bf75f3",
    "pillar": "infra",
    "headline": "South Africa's Datacentre And AI Boom Needs To Be Treated Like Critical Infrastructure",
    "signal_url": "https://techfinancials.co.za/2026/09/17/south-africas-datacentre-and-ai-boom-needs-to-be-treated-like-critical-infrastructure/",
@@ -5422,7 +5566,7 @@
    "evidence_ids": []
   },
   {
-   "id": "899d5a9db15a11",
+   "id": "2706d913e52687",
    "pillar": "infra",
    "headline": "Terrahex targets Nigeria's compute gap with modular power-driven infrastructure",
    "signal_url": "https://itpulse.com.ng/terrahex-targets-nigerias-compute-gap-with-modular-power-driven-infrastructure/",
@@ -5438,7 +5582,7 @@
    "evidence_ids": []
   },
   {
-   "id": "6eabe01137540e",
+   "id": "1d711307b034d3",
    "pillar": "infra",
    "headline": "Senegal Secures $300m Cybastion Commitment for Digitalisation Projects",
    "signal_url": "https://techafricanews.com/2026/09/16/senegal-300m-cybastion-digitalisation-projects/",
@@ -5456,7 +5600,7 @@
    ]
   },
   {
-   "id": "825c0c413da717",
+   "id": "3f5cfdbee32d4a",
    "pillar": "infra",
    "headline": "Kenya ICTA Opens Tender to Expand National Fibre and Cross-Border Connectivity",
    "signal_url": "https://techafricanews.com/2026/09/16/kenya-icta-tender-national-fibre-cross-border-connectivity/",
@@ -5472,7 +5616,7 @@
    "evidence_ids": []
   },
   {
-   "id": "35c1a3282ca47e",
+   "id": "4716b6d93a051e",
    "pillar": "infra",
    "headline": "Africa needs better data to unlock AI's promise",
    "signal_url": "https://www.cnbcafrica.com/2026/africa-needs-better-data-to-unlock-ais-promise",
@@ -5488,7 +5632,7 @@
    "evidence_ids": []
   },
   {
-   "id": "6f28809d7468cc",
+   "id": "1d47e5e3e48ea4",
    "pillar": "infra",
    "headline": "Africa's Data-Centre Expansion Accelerates as New Investment Targets AI and Digital Infrastructure",
    "signal_url": "https://www.techmanly.com/africas-data-centre-expansion-accelerates-as-new-investment-targets-ai-and-digital-infrastructure/",
@@ -5504,7 +5648,7 @@
    "evidence_ids": []
   },
   {
-   "id": "70abe10538a272",
+   "id": "f8718e562f0362",
    "pillar": "infra",
    "headline": "Ramaphosa Proposes BRICS Mechanism for Independent Scientific Evaluation of AI",
    "signal_url": "https://iafrica.com/ramaphosa-proposes-brics-mechanism-for-independent-scientific-evaluation-of-ai-citing-anthropic/",
@@ -5520,7 +5664,7 @@
    "evidence_ids": []
   },
   {
-   "id": "57a178a1183321",
+   "id": "78ecb13573e794",
    "pillar": "infra",
    "headline": "Housing Assembly raises concerns over Cape Town data centres' water, power usage",
    "signal_url": "https://www.ewn.co.za/2026/09/15/housing-assembly-raises-concerns-over-cape-town-data-centres-water-power-usage",
@@ -5536,7 +5680,7 @@
    "evidence_ids": []
   },
   {
-   "id": "2a87cf96edb125",
+   "id": "b9d6cee66d2f6d",
    "pillar": "infra",
    "headline": "Submer and Edgecore partner on AI-ready data centre infrastructure across META",
    "signal_url": "https://techafricanews.com/2026/09/14/submer-and-edgecore-partner-on-ai-ready-data-centre-infrastructure-across-meta/",
@@ -5552,7 +5696,7 @@
    "evidence_ids": []
   },
   {
-   "id": "9e71acc9c972b8",
+   "id": "9ac8038457bae3",
    "pillar": "infra",
    "headline": "Cote d'Ivoire To Build Its First State-Owned Data Centre",
    "signal_url": "https://cioafrica.co/cote-divoire-to-build-its-first-state-owned-data-centre/",
@@ -5568,7 +5712,7 @@
    "evidence_ids": []
   },
   {
-   "id": "b8e39ca4600e5e",
+   "id": "d4f5bcc1d55ddf",
    "pillar": "infra",
    "headline": "Cassava and Vodafone bring Nvidia-powered AI data centre to Egypt",
    "signal_url": "https://techpoint.africa/insight/techpoint-digest-1431/",
@@ -5584,7 +5728,7 @@
    "evidence_ids": []
   },
   {
-   "id": "ec7688905f9f2e",
+   "id": "57e97d10fb0308",
    "pillar": "infra",
    "headline": "ETCInfer: An Energy-efficient Thermal-aware Cooling-joint Scheduler for LLM Inference in AI Datacenters",
    "signal_url": "https://arxiv.org/abs/2609.15230",
@@ -5600,7 +5744,7 @@
    "evidence_ids": []
   },
   {
-   "id": "0b373cc6d15e5c",
+   "id": "85f324695637d9",
    "pillar": "infra",
    "headline": "Could Africa be the next AI frontier as US and Europe hit limits?",
    "signal_url": "https://www.foxnews.com/world/could-africa-next-ai-frontier-us-europe-hit-limits",
@@ -5616,7 +5760,7 @@
    "evidence_ids": []
   },
   {
-   "id": "08021cdbf1c779",
+   "id": "2915f5d8855acf",
    "pillar": "infra",
    "headline": "Tinubu turns to BRICS for AI, digital infrastructure and critical minerals investment",
    "signal_url": "https://nairametrics.com/2026/09/13/tinubu-turns-to-brics-for-ai-digital-infrastructure-and-critical-minerals-investment/",
@@ -5632,7 +5776,7 @@
    "evidence_ids": []
   },
   {
-   "id": "2ea041ad6eade4",
+   "id": "1e0c3bd2c3304b",
    "pillar": "infra",
    "headline": "Egypt Begins OECD Work on a National AI Strategy - While Already Running One",
    "signal_url": "https://iafrica.com/egypt-begins-oecd-work-on-a-national-ai-strategy-while-already-running-one/",
@@ -5648,7 +5792,7 @@
    "evidence_ids": []
   },
   {
-   "id": "ca681712d4bdbb",
+   "id": "642e04f2c10cc0",
    "pillar": "infra",
    "headline": "Algeria Creates Five Committees to Implement AI Strategy, With Large Language Models Given Its Own",
    "signal_url": "https://iafrica.com/algeria-creates-five-committees-to-implement-ai-strategy-with-large-language-models-given-its-own/",
@@ -5664,7 +5808,7 @@
    "evidence_ids": []
   },
   {
-   "id": "4783252094a183",
+   "id": "6dac20cfc4b00c",
    "pillar": "infra",
    "headline": "Vodafone Egypt and Cassava Launch Egypt's First AI Factory as Cairo Courts Multiple Infrastructure Partners",
    "signal_url": "https://iafrica.com/vodafone-egypt-and-cassava-launch-egypts-first-ai-factory-as-cairo-courts-multiple-infrastructure-partners/",
@@ -5680,7 +5824,7 @@
    "evidence_ids": []
   },
   {
-   "id": "5f218fe2a3541c",
+   "id": "787205bb9302af",
    "pillar": "infra",
    "headline": "NITDA outlines policy framework to unlock data centre investment in Nigeria",
    "signal_url": "https://www.worldstagenews.com/nitda-outlines-policy-framework-to-unlock-data-centre-investment-in-nigeria/",
@@ -5696,7 +5840,7 @@
    "evidence_ids": []
   },
   {
-   "id": "e6058eae9f27e3",
+   "id": "7045e0e3d2dab2",
    "pillar": "infra",
    "headline": "UduTech adds Baro AI to expand Africa's GPU supply",
    "signal_url": "https://techcabal.com/2026/09/11/udutech-adds-baro-ai-to-expand-gpu-supply/",
@@ -5712,7 +5856,7 @@
    "evidence_ids": []
   },
   {
-   "id": "3d4c59cd3f6c22",
+   "id": "cf4182d6608c5f",
    "pillar": "infra",
    "headline": "Digital Parks Africa enters Nigeria's data centre race with Lagos facility",
    "signal_url": "https://nairametrics.com/2026/09/11/digital-parks-africa-enters-nigerias-data-centre-race-with-lagos-facility/",
@@ -5728,7 +5872,7 @@
    "evidence_ids": []
   },
   {
-   "id": "3838196fdd79ad",
+   "id": "ec65edd67444c2",
    "pillar": "infra",
    "headline": "Kenya, UNDP move to operationalise sovereign AI infrastructure at Konza Data Centre",
    "signal_url": "https://techreviewafrica.com/news/7149/kenya-undp-move-to-operationalise-sovereign-ai-infrastructure-at-konza-data-centre",
@@ -5744,7 +5888,7 @@
    "evidence_ids": []
   },
   {
-   "id": "db77c388af05dc",
+   "id": "d36b17ce0b9de4",
    "pillar": "infra",
    "headline": "Tanzania plans AI data centres as Korea funds digital training",
    "signal_url": "https://streamlinefeed.co.ke/news/tanzania-plans-ai-data-centres-as-korea-funds-digital-training",
@@ -5760,7 +5904,7 @@
    "evidence_ids": []
   },
   {
-   "id": "31021088959ed0",
+   "id": "9851958c685dc8",
    "pillar": "infra",
    "headline": "Africa's AI ambition hits an expensive reality of compute, power, compliance",
    "signal_url": "https://businessday.ng/technology/article/africas-ai-ambition-hits-an-expensive-reality-of-compute-power-compliance/",
@@ -5776,7 +5920,7 @@
    "evidence_ids": []
   },
   {
-   "id": "69c988b149a47b",
+   "id": "5a6197a36dc653",
    "pillar": "infra",
    "headline": "Africa's Billion Dollar AI Data Centre Rush Is Real. Its Power and Water Aren't.",
    "signal_url": "https://iafrikan.com/africas-billion-dollar-ai-data-centre-rush-is-real-its-power-and-water-arent/",
@@ -5792,7 +5936,7 @@
    "evidence_ids": []
   },
   {
-   "id": "379b4339d4b5cc",
+   "id": "e4827788ff518f",
    "pillar": "infra",
    "headline": "Nigeria Links Data Sovereignty, AI to Fresh Digital Infrastructure Investment",
    "signal_url": "https://allafrica.com/stories/202609100269.html",
@@ -5808,7 +5952,7 @@
    "evidence_ids": []
   },
   {
-   "id": "b03e861891991f",
+   "id": "c744394ad4cca8",
    "pillar": "infra",
    "headline": "AMACO taps GE Vernova for Mombasa AI data centre",
    "signal_url": "https://techtrendske.co.ke/2026/09/10/amaco-ge-vernova-mombasa-ai-data-centre/",
@@ -5824,7 +5968,7 @@
    "evidence_ids": []
   },
   {
-   "id": "2ec1ff7076ed27",
+   "id": "eeba1c8a0b0e72",
    "pillar": "infra",
    "headline": "At ITW Africa 2026, Africa's Digital Future Came Down to Power, Fibre and Execution",
    "signal_url": "https://www.kenyaengineer.co.ke/at-itw-africa-2026-africas-digital-future-came-down-to-power-fibre-and-execution/",
@@ -5840,7 +5984,7 @@
    "evidence_ids": []
   },
   {
-   "id": "ff4f5e8b9098bc",
+   "id": "ee4b3bafdd97f0",
    "pillar": "infra",
    "headline": "Morocco Moves AI Strategy Into Implementation, Targets MAD 100 Bln in GDP Value by 2030",
    "signal_url": "https://www.maghrebdailynews.com/15755-morocco-moves-ai-strategy-into-implementation-targets-mad-100-bln-in-gdp-value-by-2030.html",
@@ -5856,7 +6000,7 @@
    "evidence_ids": []
   },
   {
-   "id": "f916567b3da6c8",
+   "id": "d093b19031108b",
    "pillar": "infra",
    "headline": "Egypt moves to build $1bn AI data centre with Nvidia tech",
    "signal_url": "https://www.arabnews.com/business/egypt-moves-to-build-1bn-ai-data-centre-with-nvidia-tech-3001048",
@@ -5872,7 +6016,7 @@
    "evidence_ids": []
   },
   {
-   "id": "548670d4295704",
+   "id": "6e32a10060df80",
    "pillar": "infra",
    "headline": "CA plans standalone licence for data centres in Kenya",
    "signal_url": "https://www.the-star.co.ke/sasa/technology/2026-09-08-ca-plans-standalone-licence-for-data-centres-in-kenya",
@@ -5888,7 +6032,7 @@
    "evidence_ids": []
   },
   {
-   "id": "61caf0dccd0426",
+   "id": "413b03b161d567",
    "pillar": "infra",
    "headline": "Egypt Partners With Vodafone, Elsewedy and Cassava on $1bn Data Centre",
    "signal_url": "https://techafricanews.com/2026/09/08/egypt-vodafone-elsewedy-cassava-1bn-data-centre/",
@@ -5907,7 +6051,7 @@
    "evidence_ids": []
   },
   {
-   "id": "861f1cb545cb2e",
+   "id": "66bfbb8790efd4",
    "pillar": "infra",
    "headline": "South Africa Pushes Subsea Cable, AI and Digital Skills Agenda to Expand Connectivity",
    "signal_url": "https://techafricanews.com/2026/09/08/south-africa-subsea-cable-ai-digital-skills-connectivity/",
@@ -5923,7 +6067,7 @@
    "evidence_ids": []
   },
   {
-   "id": "8ac2ef908d3150",
+   "id": "7cb95a761c2d34",
    "pillar": "infra",
    "headline": "HeRo: History-Aware Routing for Efficient LLM Inference",
    "signal_url": "https://arxiv.org/abs/2609.08189",
@@ -5939,7 +6083,7 @@
    "evidence_ids": []
   },
   {
-   "id": "ab3ab85678d10f",
+   "id": "092a24728fde43",
    "pillar": "infra",
    "headline": "A Measurement Study of LLM Inference Trade-offs Across Edge Continuum Hardware",
    "signal_url": "https://arxiv.org/abs/2609.08307",
@@ -5955,7 +6099,7 @@
    "evidence_ids": []
   },
   {
-   "id": "953f0252c487a5",
+   "id": "b42fc361adc15a",
    "pillar": "infra",
    "headline": "Digital Realty Opens 6.4MW Nairobi Two Data Center to Expand East Africa Capacity",
    "signal_url": "https://techafricanews.com/2026/09/07/digital-realty-opens-6-4mw-nairobi-two-data-center-east-africa/",
@@ -5974,7 +6118,7 @@
    "evidence_ids": []
   },
   {
-   "id": "ba5bf77093da57",
+   "id": "102cf81307e9d2",
    "pillar": "infra",
    "headline": "Unified AI Gateway: A Framework for Joint Model Routing and KV Cache Management",
    "signal_url": "https://arxiv.org/abs/2609.06940",
@@ -5990,7 +6134,7 @@
    "evidence_ids": []
   },
   {
-   "id": "71b63b627b15df",
+   "id": "919f54e307f7de",
    "pillar": "infra",
    "headline": "Civil society groups in South Africa call for temporary halt to new data centres",
    "signal_url": "https://www.africanews.com/2026/09/04/civil-society-groups-in-south-africa-call-for-temporary-halt-to-new-data-centres/",
@@ -6006,7 +6150,7 @@
    "evidence_ids": []
   },
   {
-   "id": "27533087699582",
+   "id": "10f1e9e83767ab",
    "pillar": "infra",
    "headline": "Egypt Explores Major Data Centre and AI Hub Project With Heka Data, US consortium",
    "signal_url": "https://techafricanews.com/2026/09/04/egypt-explores-major-data-centre-ai-hub-project-heka-data-us-consortium/",
@@ -6025,7 +6169,7 @@
    "evidence_ids": []
   },
   {
-   "id": "ccc7efd31a8fff",
+   "id": "5e2aff8ff8cb06",
    "pillar": "infra",
    "headline": "Orange Joins ReuNION Submarine Cable Project to Strengthen La Réunion-South Africa Connectivity",
    "signal_url": "https://techafricanews.com/2026/09/03/orange-joins-reunion-submarine-cable-project-to-strengthen-la-reunion-south-africa-connectivity/",
@@ -6041,7 +6185,7 @@
    "evidence_ids": []
   },
   {
-   "id": "fdd7b8a833d461",
+   "id": "8e5c29baa3dbba",
    "pillar": "infra",
    "headline": "NITDA DG urges Africa to move from AI policy talks to action on compute",
    "signal_url": "https://nationalfocusng.com/2026/09/02/nitda-dg-urges-africa-to-move-from-ai-policy-talks-to-action/",
@@ -6057,7 +6201,7 @@
    "evidence_ids": []
   },
   {
-   "id": "9e838a9280833f",
+   "id": "85adbd81cf5e53",
    "pillar": "infra",
    "headline": "Cybastion Cameroon investment anchors a $75m AI hub",
    "signal_url": "https://furtherafrica.com/2026/09/02/cybastion-cameroon-investment-anchors-a-75m-ai-hub/",
@@ -6076,7 +6220,7 @@
    "evidence_ids": []
   },
   {
-   "id": "3858555fe46e5c",
+   "id": "324e80d3008bae",
    "pillar": "infra",
    "headline": "AI data centres could make electricity more expensive",
    "signal_url": "https://groundup.org.za/article/south-africas-data-centre-build-could-deepen-energy-crisis/",
@@ -6092,7 +6236,7 @@
    "evidence_ids": []
   },
   {
-   "id": "e17d6e8f930d35",
+   "id": "4251d13026d5c6",
    "pillar": "infra",
    "headline": "NITDA DG Urges Nigeria to Prioritise AI Sovereignty at GITEX 2026",
    "signal_url": "https://techafricanews.com/2026/09/01/nitda-dg-urges-nigeria-to-prioritise-ai-sovereignty-at-gitex-2026/",
@@ -6108,7 +6252,7 @@
    "evidence_ids": []
   },
   {
-   "id": "d75510b62e137f",
+   "id": "87133e29b94fa9",
    "pillar": "infra",
    "headline": "Wiocc lands US$300-million from Saudi and African backers",
    "signal_url": "https://techcentral.co.za/wiocc-300-million-afc-vision-invest/285628/",
@@ -6127,7 +6271,7 @@
    "evidence_ids": []
   },
   {
-   "id": "8f123679b08f53",
+   "id": "c9c19b213f5179",
    "pillar": "infra",
    "headline": "NSIA bets on 100MW AI data centre to power Nigeria's digital economy",
    "signal_url": "https://businessday.ng/technology/article/nsia-bets-on-100mw-ai-data-centre-to-power-nigerias-digital-economy/",
@@ -6147,7 +6291,7 @@
    "evidence_ids": []
   },
   {
-   "id": "0ebbaf40fa1241",
+   "id": "3bc81a2480b9a2",
    "pillar": "infra",
    "headline": "Deploying DeepSeek 175B Locally on a Single Consumer-Grade RTX 4060 Laptop with 32GB RAM for 200k-Scale Protein-Ligand Virtual Screening",
    "signal_url": "https://arxiv.org/abs/2608.30877",
@@ -6163,7 +6307,7 @@
    "evidence_ids": []
   },
   {
-   "id": "a6c0b0ce7ef079",
+   "id": "7c15c6962750a4",
    "pillar": "infra",
    "headline": "US-China data centre race heats up across Africa",
    "signal_url": "https://furtherafrica.com/2026/08/31/us-and-china-race-for-africas-next-strategic-infrastructure-data-centres/",
@@ -6179,7 +6323,7 @@
    "evidence_ids": []
   },
   {
-   "id": "0c2a510d94e47f",
+   "id": "84fc06f345a580",
    "pillar": "infra",
    "headline": "SA data centre operators push back amid sustainability probe",
    "signal_url": "https://www.itweb.co.za/article/sa-data-centre-operators-push-back-amid-sustainability-probe/5yONP7EroNQMXWrb",
@@ -6195,7 +6339,7 @@
    "evidence_ids": []
   },
   {
-   "id": "7c0255acb8328d",
+   "id": "0c8704f0ab947a",
    "pillar": "infra",
    "headline": "MTN Partners UAE Data Centre Platform to Accelerate AI-Ready Infrastructure Across Africa",
    "signal_url": "https://techafricanews.com/2026/08/27/mtn-uae-data-centre-platform-ai-ready-infrastructure-africa/",
@@ -6211,7 +6355,7 @@
    "evidence_ids": []
   },
   {
-   "id": "0464da01c4a565",
+   "id": "ff94aab6567ba7",
    "pillar": "infra",
    "headline": "UAE Tycoon Al Ashram, MTN Agree to Build Africa AI Data Centers",
    "signal_url": "https://www.bloomberg.com/news/articles/2026-08-27/uae-tycoon-al-ashram-mtn-agree-to-build-africa-ai-data-centers",
@@ -6227,7 +6371,7 @@
    "evidence_ids": []
   },
   {
-   "id": "20a8286f479c34",
+   "id": "e65cd26d629f1e",
    "pillar": "infra",
    "headline": "Why Africa's AI Adoption Will Depend on Secure and Reliable Cloud Infrastructure",
    "signal_url": "https://techeconomy.ng/why-africas-ai-adoption-will-depend-on-secure-and-reliable-cloud-infrastructure",
@@ -6243,7 +6387,7 @@
    "evidence_ids": []
   },
   {
-   "id": "734dd796c48b7e",
+   "id": "a01cb88b233650",
    "pillar": "infra",
    "headline": "Cassava AI Factory Ranks 36th Globally on TOP500 Supercomputer List",
    "signal_url": "https://techafricanews.com/2026/08/26/cassava-ai-factory-ranks-36th-top500/",
@@ -6262,7 +6406,7 @@
    "evidence_ids": []
   },
   {
-   "id": "56f6ada470a447",
+   "id": "e71c09d84257b2",
    "pillar": "infra",
    "headline": "Huawei AI Data Center Bid in Egypt Spurs US to Mull Counteroffer",
    "signal_url": "https://www.bloomberg.com/news/articles/2026-08-26/huawei-egypt-ai-ascend-chips-test-us-tech-diplomacy-nvidia-amd-microsoft",
@@ -6278,7 +6422,7 @@
    "evidence_ids": []
   },
   {
-   "id": "81583ccde77dda",
+   "id": "7e338ab5d264a7",
    "pillar": "infra",
    "headline": "MTN to develop 150MW AI data centres in Nigeria, South Africa with UAE-backed investor",
    "signal_url": "https://nairametrics.com/2026/08/26/mtn-to-develop-150mw-ai-data-centres-in-nigeria-south-africa-with-uae-backed-investor/",
@@ -6297,7 +6441,7 @@
    "evidence_ids": []
   },
   {
-   "id": "135fff1392c578",
+   "id": "14ebb70f03f98f",
    "pillar": "infra",
    "headline": "Nigeria Targets $750m in Cloud and AI Infrastructure Investment Within 24 Months Under New Digital Cloud Policy",
    "signal_url": "https://iafrica.com/nigeria-targets-750m-in-cloud-and-ai-infrastructure-investment-within-24-months-under-new-digital-cloud-policy/",
@@ -6313,7 +6457,7 @@
    "evidence_ids": []
   },
   {
-   "id": "50e0c0d8f0db8c",
+   "id": "6936b9d99c6f2a",
    "pillar": "infra",
    "headline": "Approved in the dark — the hidden environmental toll of SA's data centre boom",
    "signal_url": "https://www.dailymaverick.co.za/article/2026-08-24-approved-in-the-dark-the-hidden-environmental-toll-of-sa-s-data-centre-boom/",
@@ -6329,7 +6473,7 @@
    "evidence_ids": []
   },
   {
-   "id": "11649991b52259",
+   "id": "585ae4577d818e",
    "pillar": "infra",
    "headline": "The Biggest Threat to Africa's Data Centre Race Is the Grid",
    "signal_url": "https://www.thisdaylive.com/2026/08/24/the-biggest-threat-to-africas-data-centre-race-is-the-grid/",
@@ -6345,7 +6489,7 @@
    "evidence_ids": []
   },
   {
-   "id": "ce42d9f24740e7",
+   "id": "7419274218d6f6",
    "pillar": "infra",
    "headline": "AMACO plans Kenya data centre; Terra closes $52M Seed round",
    "signal_url": "https://www.africaainews.com/p/amaco-plans-kenya-data-centre-terra",
@@ -6361,7 +6505,7 @@
    "evidence_ids": []
   },
   {
-   "id": "ad9af3efcf3533",
+   "id": "2f5154d58cd2d6",
    "pillar": "infra",
    "headline": "NITDA and Budget Office Inaugurate Committee to Drive Nigeria's Sovereign Cloud Initiative",
    "signal_url": "https://techafricanews.com/2026/08/21/nitda-budget-office-inaugurate-committee-nigeria-sovereign-cloud-initiative/",
@@ -6377,7 +6521,7 @@
    "evidence_ids": []
   },
   {
-   "id": "dd5ebb18dccefe",
+   "id": "4881a8f6335741",
    "pillar": "infra",
    "headline": "Ethio telecom Enters Active Deployment of Africa-Middle East Fibre Corridor",
    "signal_url": "https://techafricanews.com/2026/08/20/ethio-telecom-active-deployment-africa-middle-east-fibre-corridor/",
@@ -6393,7 +6537,7 @@
    "evidence_ids": []
   },
   {
-   "id": "a81a5a5e123ff6",
+   "id": "e24d67b8e950b2",
    "pillar": "infra",
    "headline": "Nigeria hopes for solid sovereign AI ecosystem, as OADC Analytics Intelligence seal cloud solutions deal",
    "signal_url": "https://www.vanguardngr.com/2026/08/nigeria-hopes-for-solid-sovereign-ai-ecosystem-as-oadc-analytics-intelligence-seal-cloud-solutions-deal/",
@@ -6409,7 +6553,7 @@
    "evidence_ids": []
   },
   {
-   "id": "88d8a319dea8b4",
+   "id": "e03af0aae5497a",
    "pillar": "infra",
    "headline": "Firms Partner to Boost Africa's AI Computing Capacity",
    "signal_url": "https://punchng.com/firms-partner-to-boost-africas-ai-computing-capacity/",
@@ -6425,7 +6569,7 @@
    "evidence_ids": []
   },
   {
-   "id": "abc3cb41cfc8eb",
+   "id": "5ba330e4c36e3b",
    "pillar": "infra",
    "headline": "Africa's Data Centre Evolution: AI, Edge Computing and New Energy Demands",
    "signal_url": "https://www.instrumentation.co.za/regular.aspx?pklregularid=27942",
@@ -6441,7 +6585,7 @@
    "evidence_ids": []
   },
   {
-   "id": "8e951d970cf63f",
+   "id": "59efe710cc5c8c",
    "pillar": "infra",
    "headline": "Greek firm Amaco plans Sh194bn AI data centre in Mombasa",
    "signal_url": "https://www.businessdailyafrica.com/bd/corporate/technology/greek-firm-amaco-plans-sh194bn-ai-data-centre-5561498",
@@ -6457,7 +6601,7 @@
    "evidence_ids": []
   },
   {
-   "id": "f8ecd140edaeed",
+   "id": "9f8b882aa0b71e",
    "pillar": "infra",
    "headline": "Africa's data centre demand could surge 5x by 2030, require $20 billion",
    "signal_url": "https://nairametrics.com/2026/08/17/africas-data-centre-demand-could-surge-5x-by-2030-require-20-billion/",
@@ -6473,7 +6617,7 @@
    "evidence_ids": []
   },
   {
-   "id": "8255ff36d5dd8b",
+   "id": "81175e23d31783",
    "pillar": "infra",
    "headline": "Senegal Moves to Strengthen Critical Infrastructure and Digital Security",
    "signal_url": "https://techafricanews.com/2026/08/14/senegal-moves-to-strengthen-critical-infrastructure-and-digital-security/",
@@ -6489,7 +6633,7 @@
    "evidence_ids": []
   },
   {
-   "id": "450146ccaf3ea6",
+   "id": "d7887cda5bd4f0",
    "pillar": "infra",
    "headline": "BoFiNet Completes P43m Fibre Project, Connects Three Botswana Villages",
    "signal_url": "https://techafricanews.com/2026/08/14/bofinet-completes-p43m-fibre-project-connects-three-botswana-villages/",
@@ -6505,7 +6649,7 @@
    "evidence_ids": []
   },
   {
-   "id": "a8335c71a5e68a",
+   "id": "ce2d6b06209730",
    "pillar": "infra",
    "headline": "Airtel Africa Launches First Satellite-to-Mobile Service in DRC with Starlink",
    "signal_url": "https://techafricanews.com/2026/08/14/airtel-africa-launches-first-satellite-to-mobile-service-in-drc-with-starlink/",
@@ -6521,7 +6665,7 @@
    "evidence_ids": []
   },
   {
-   "id": "767a857c0f07f3",
+   "id": "757439afc235e4",
    "pillar": "infra",
    "headline": "Data Centre Summit Connects Africa's Digital Growth with the Power Systems Needed to Sustain it",
    "signal_url": "https://www.africannewspage.net/2026/08/data-centre-summit-connects-africas-digital-growth-with-the-power-systems-needed-to-sustain-it/",
@@ -6537,7 +6681,7 @@
    "evidence_ids": []
   },
   {
-   "id": "094ef5ea4a9b56",
+   "id": "122ef1a4b3c25a",
    "pillar": "infra",
    "headline": "The Embedder's Dilemma: LLMs Are Better, but at What Cost?",
    "signal_url": "https://arxiv.org/abs/2608.12875",
@@ -6553,7 +6697,7 @@
    "evidence_ids": []
   },
   {
-   "id": "694f3f0101d733",
+   "id": "14e42dbcfc0fb5",
    "pillar": "infra",
    "headline": "Reduced Matrix Multiplication: Input-Adaptive Matrix-Product Reduction for LLM Inference",
    "signal_url": "https://arxiv.org/abs/2608.13426",
@@ -6569,7 +6713,7 @@
    "evidence_ids": []
   },
   {
-   "id": "42b2196905fea7",
+   "id": "fb7459a4bc9b1c",
    "pillar": "infra",
    "headline": "What is driving Kenya's data centre boom, and why does Nairobi matter for East Africa?",
    "signal_url": "https://capacityglobal.com/news/what-is-driving-kenyas-data-centre-boom/",
@@ -6585,7 +6729,7 @@
    "evidence_ids": []
   },
   {
-   "id": "f8c86c98ce52f1",
+   "id": "e0fcadb5fddf72",
    "pillar": "infra",
    "headline": "L'Afrique devient le nouveau terrain de jeu des data centers: Microsoft, Google et AWS misent des milliards sur Johannesburg, Lagos et Nairobi",
    "signal_url": "https://www.tech-connect.info/technologies/data-centers-afrique-microsoft-google-aws-souverainete-2026/",
@@ -6601,7 +6745,7 @@
    "evidence_ids": []
   },
   {
-   "id": "8aef17a30d3a02",
+   "id": "58f09cd60da543",
    "pillar": "infra",
    "headline": "Algeria Moves to Implement National AI Strategy With Inter-Ministerial Roadmap",
    "signal_url": "https://techafricanews.com/2026/08/11/algeria-moves-to-implement-national-ai-strategy-with-inter-ministerial-roadmap/",
@@ -6617,7 +6761,7 @@
    "evidence_ids": []
   },
   {
-   "id": "2d81646949db5a",
+   "id": "30fe738a7be495",
    "pillar": "infra",
    "headline": "Qua Iboe: Nigeria's only cable landing outside Lagos",
    "signal_url": "https://tech.africa/qua-iboe-cable-landing-akwa-ibom/",
@@ -6633,7 +6777,7 @@
    "evidence_ids": []
   },
   {
-   "id": "f62ec6c6528416",
+   "id": "66c7a721d50b07",
    "pillar": "infra",
    "headline": "AfPIF 2026: peering forum returns to Kigali, 18-20 August",
    "signal_url": "https://tech.africa/afpif-2026-kigali/",
@@ -6649,7 +6793,7 @@
    "evidence_ids": []
   },
   {
-   "id": "d40f94bc493030",
+   "id": "23d2617f26db1c",
    "pillar": "infra",
    "headline": "Africa's AI conversation is entering a new phase",
    "signal_url": "https://iafrica.com/africas-ai-conversation-is-entering-a-new-phase/",
@@ -6665,7 +6809,7 @@
    "evidence_ids": []
   },
   {
-   "id": "36f8e751e94391",
+   "id": "e9e53e1bf93a28",
    "pillar": "infra",
    "headline": "Nigeria pushes to keep more of its cloud infrastructure local",
    "signal_url": "https://techcabal.com/2026/08/10/nigeria-pushes-local-cloud-as-85-of-workloads-use-public-",
@@ -6681,7 +6825,7 @@
    "evidence_ids": []
   },
   {
-   "id": "b92aee9cae0529",
+   "id": "7e6dfde9c72d94",
    "pillar": "infra",
    "headline": "Nigeria's Project BRIDGE enters execution phase: 90,000 km of new fibre",
    "signal_url": "https://techafricanews.com/2026/08/10/project-bridge-enters-execution-phase-with-bridge-oa-incorporation/",
@@ -6700,7 +6844,7 @@
    "evidence_ids": []
   },
   {
-   "id": "f7c62ad16b4094",
+   "id": "3a74c39dc598f7",
    "pillar": "infra",
    "headline": "Africa AI Strategy: From Policy Documents to Competitive Advantage",
    "signal_url": "https://www.thrumos.com/insights/africas-ai-opportunity-turning-national-strategy-into-competitive-advantage",
@@ -6716,7 +6860,7 @@
    "evidence_ids": []
   },
   {
-   "id": "8791b5cf219513",
+   "id": "3e966974b7438c",
    "pillar": "infra",
    "headline": "Africa's AI boom faces infrastructure reality check",
    "signal_url": "https://businessday.ng/technology/article/africas-ai-boom-faces-infrastructure-reality-check/",
@@ -6732,7 +6876,7 @@
    "evidence_ids": []
   },
   {
-   "id": "fcda4b87bd2f36",
+   "id": "5e3b9bf370086f",
    "pillar": "infra",
    "headline": "The gateway to Africa's data centre future",
    "signal_url": "https://www.intelligentcio.com/africa/2026/08/07/the-gateway-to-africas-data-centre-future/",
@@ -6748,7 +6892,7 @@
    "evidence_ids": []
   },
   {
-   "id": "a79a370b1e7561",
+   "id": "3329e5f5454484",
    "pillar": "infra",
    "headline": "Airtel's $150M Kenya Data Centre Now Targets July 2027 Launch",
    "signal_url": "https://techafricanews.com/2026/08/07/airtels-150m-kenya-data-centre-now-targets-july-2027-launch/",
@@ -6768,7 +6912,7 @@
    "evidence_ids": []
   },
   {
-   "id": "2582e3f12677b4",
+   "id": "50185b145e1cbc",
    "pillar": "infra",
    "headline": "The Cost of Empty Capacity in Africa's Data Centre Boom",
    "signal_url": "https://techafricanews.com/2026/08/06/the-cost-of-empty-capacity-in-africas-data-centre-boom/",
@@ -6786,7 +6930,7 @@
    "evidence_ids": []
   },
   {
-   "id": "b42b58f05d7aa1",
+   "id": "4ea479c91c3db6",
    "pillar": "infra",
    "headline": "An African vision of artificial intelligence",
    "signal_url": "https://www.economist.com/middle-east-and-africa/2026/08/06/an-african-vision-of-artificial-intelligence",
@@ -6802,7 +6946,7 @@
    "evidence_ids": []
   },
   {
-   "id": "8fa1318c27866e",
+   "id": "be673e1ad83083",
    "pillar": "infra",
    "headline": "Top 15 African countries with the most data centres in 2026",
    "signal_url": "https://nairametrics.com/2026/08/05/top-15-african-countries-with-the-most-data-centres-in-2026/",
@@ -6820,7 +6964,7 @@
    "evidence_ids": []
   },
   {
-   "id": "a4605eb29a42ad",
+   "id": "cfeb8b201c7797",
    "pillar": "infra",
    "headline": "New Data Center Developments: August 2026 — Egypt licenses Hassan Allam data centres with $400M first-phase investment",
    "signal_url": "https://www.datacenterknowledge.com/data-center-construction/new-data-center-developments-august-2026",
@@ -6839,7 +6983,7 @@
    "evidence_ids": []
   },
   {
-   "id": "a2c1c6f28240e5",
+   "id": "d5989b5eed70aa",
    "pillar": "infra",
    "headline": "Equinix Wins Approval for Major Cape Town Data Centre Campus",
    "signal_url": "https://furtherafrica.com/2026/08/04/equinix-wins-approval-for-major-cape-town-data-centre-campus/",
@@ -6859,7 +7003,7 @@
    "evidence_ids": []
   },
   {
-   "id": "6a550c0e35cf72",
+   "id": "22a5249aba3788",
    "pillar": "infra",
    "headline": "97 teams at the Deep Learning Indaba take on Africa's language-mixing problem",
    "signal_url": "https://techcabal.com/2026/08/04/97-teams-at-the-deep-learning-indaba-take-on-africas-language-mixing-problem/",
@@ -6875,7 +7019,7 @@
    "evidence_ids": []
   },
   {
-   "id": "4bfae86e579508",
+   "id": "ca13832b640bae",
    "pillar": "infra",
    "headline": "South Africa's economy depends on what lies beneath the ocean",
    "signal_url": "https://www.itnewsafrica.com/2026/08/south-africas-economy-depends-on-what-lies-beneath-the-ocean/",
@@ -6891,7 +7035,7 @@
    "evidence_ids": []
   },
   {
-   "id": "208bae2310ee74",
+   "id": "e308a430525664",
    "pillar": "infra",
    "headline": "Nigeria's AI boom depends on one thing government hasn't fixed",
    "signal_url": "https://nairametrics.com/2026/08/01/nigerias-ai-boom-depends-on-one-thing-government-hasnt-fixed/",
@@ -6907,7 +7051,7 @@
    "evidence_ids": []
   },
   {
-   "id": "142a941781be1c",
+   "id": "17a39a28ba0cf4",
    "pillar": "infra",
    "headline": "GSMA leads launch of pan-African AI language initiative",
    "signal_url": "https://www.africaainews.com/p/gsma-leads-launch-of-pan-african",
@@ -6923,7 +7067,7 @@
    "evidence_ids": []
   },
   {
-   "id": "e73012aeb5dc18",
+   "id": "d207a2d5359307",
    "pillar": "infra",
    "headline": "AI Infrastructure Becomes Africa's Next Strategic Investment Battleground",
    "signal_url": "https://www.mondaq.com/southafrica/technology/1825004/ai-infrastructure-becomes-africas-next-strategic-investment-battleground",
@@ -6939,7 +7083,7 @@
    "evidence_ids": []
   },
   {
-   "id": "054887c348d1ef",
+   "id": "df4a8adc7f7874",
    "pillar": "infra",
    "headline": "Why Africa's Next Growth Story Will Be Built On Intelligence Infrastructure",
    "signal_url": "https://allafrica.com/stories/202607310233.html",
@@ -6955,7 +7099,7 @@
    "evidence_ids": []
   },
   {
-   "id": "87a7293fe717b7",
+   "id": "4f77fc6c6dd6d6",
    "pillar": "infra",
    "headline": "Investors pour into Africa's digital backbone as data centre projects near 900 MW",
    "signal_url": "https://businessday.ng/technology/article/investors-pour-into-africas-digital-backbone-as-data-centre-projects-near-900-mw/",
@@ -6971,7 +7115,7 @@
    "evidence_ids": []
   },
   {
-   "id": "55ce84364678e4",
+   "id": "04c1af4f8955ba",
    "pillar": "infra",
    "headline": "The Digital Pivot: How South Africa is Positioning Itself as Africa's AI Hub",
    "signal_url": "https://www.vifindia.org/article/2026/july/29/The-Digital-Pivot-How-South-Africa-is-Positioning-Itself-as-Africa-s-AI-Hub",
@@ -6987,7 +7131,7 @@
    "evidence_ids": []
   },
   {
-   "id": "62be76db2deadb",
+   "id": "4dddc80d4050b1",
    "pillar": "infra",
    "headline": "Africa's First NVIDIA RTX PRO GPU Servers Have Landed",
    "signal_url": "https://www.whtop.com/news/35472-africas-first-nvidia-rtx-pro-gpu-servers-have-landed",
@@ -7003,7 +7147,7 @@
    "evidence_ids": []
   },
   {
-   "id": "68fbd106e2876e",
+   "id": "eda09bc110edec",
    "pillar": "infra",
    "headline": "Every Time I Hire a Linguist, Inference Costs Go Down: Linguistic Rules as Effective Prompt Compressors",
    "signal_url": "https://arxiv.org/abs/2607.25335",
@@ -7019,7 +7163,7 @@
    "evidence_ids": []
   },
   {
-   "id": "491902ef845978",
+   "id": "c8d7936cb37a15",
    "pillar": "infra",
    "headline": "Nigeria Welcomes IMF Recognition as One of Africa's Leading AI Economies",
    "signal_url": "https://techafricanews.com/2026/07/27/nigeria-welcomes-imf-recognition-as-one-of-africas-leading-ai-economies/",
@@ -7035,7 +7179,7 @@
    "evidence_ids": []
   },
   {
-   "id": "c5e804d8431814",
+   "id": "915ffcdf814282",
    "pillar": "infra",
    "headline": "Kenya emerges as regional data hub as report warns Africa risks missing on AI boom",
    "signal_url": "https://www.the-star.co.ke/business/2026-07-27-kenya-emerges-as-regional-data-hub-as-report-warns-africa-risks-missing-on-ai-boom/",
@@ -7051,7 +7195,7 @@
    "evidence_ids": []
   },
   {
-   "id": "7449012b4d6e3f",
+   "id": "2a39e578bdbf7c",
    "pillar": "infra",
    "headline": "Africa risks falling behind in the AI race (BCG Report)",
    "signal_url": "https://www.sundaytimes.timeslive.co.za/business/news/2026-07-25-africa-risks-falling-behind-in-the-ai-race/",
@@ -7067,7 +7211,7 @@
    "evidence_ids": []
   },
   {
-   "id": "03ba6adc8c5c17",
+   "id": "f71abea4ddac3f",
    "pillar": "infra",
    "headline": "Kenya shares draft AI policy; Côte d'Ivoire approves $170M data centre",
    "signal_url": "https://www.africaainews.com/p/kenya-shares-draft-ai-policy-cote",
@@ -7078,12 +7222,12 @@
    "priority": "high",
    "topic": "Capacity and investment",
    "related_registers": [],
-   "duplicate_of": "8b07b3c1d956d9",
+   "duplicate_of": "674ba0be17d6b6",
    "note": "This source URL is already in the feed. Repetition is not corroboration.",
    "evidence_ids": []
   },
   {
-   "id": "68003b320c7de8",
+   "id": "f36605fd4cb256",
    "pillar": "infra",
    "headline": "Why Africa's Data Center Boom Comes With Big Environmental Questions",
    "signal_url": "https://nigerianobservernews.com/2026/07/why-africas-data-center-boom-comes-with-big-environmental-questions/",
@@ -7099,7 +7243,7 @@
    "evidence_ids": []
   },
   {
-   "id": "ef17c859d4e6ab",
+   "id": "a666a88bfa4812",
    "pillar": "infra",
    "headline": "Cape Town Approves Two Hyperscale Data Centres Totalling ~174MW — Among Africa's Largest New Grid Loads",
    "signal_url": "https://iafrica.com/cape-town-approves-two-hyperscale-data-centres-totalling-174mw-among-africas-largest-new-grid-loads/",
@@ -7115,7 +7259,7 @@
    "evidence_ids": []
   },
   {
-   "id": "9b3e5bd99ecb12",
+   "id": "c6c003bc735d33",
    "pillar": "infra",
    "headline": "IMF Says Africa Has to Keep Lights On Before It Can Bet on AI",
    "signal_url": "https://techcabal.com/2026/07/23/imf-says-africa-has-lights-before-ai/",
@@ -7131,7 +7275,7 @@
    "evidence_ids": []
   },
   {
-   "id": "4968a1f1e8b10a",
+   "id": "c57bb1bb726a06",
    "pillar": "infra",
    "headline": "Are Africas power grids ready for the AI data centre boom?",
    "signal_url": "https://www.weforum.org/stories/2026/07/africa-power-grids-ai-data-centre-boom/",
@@ -7147,7 +7291,7 @@
    "evidence_ids": []
   },
   {
-   "id": "c10b69dd541d3b",
+   "id": "e7feb694eac302",
    "pillar": "infra",
    "headline": "Africa's data center growth needs power sector overhaul",
    "signal_url": "https://www.semafor.com/article/07/22/2026/africas-data-center-growth-rests-on-power-sector-overhaul",
@@ -7163,7 +7307,7 @@
    "evidence_ids": []
   },
   {
-   "id": "213472f5c6c344",
+   "id": "2fd244e64973d4",
    "pillar": "infra",
    "headline": "How AI is rewiring South Africa",
    "signal_url": "https://african.business/2026/07/how-ai-is-rewiring-south-africa/",
@@ -7179,7 +7323,7 @@
    "evidence_ids": []
   },
   {
-   "id": "1f23312ca372cc",
+   "id": "18c94e49d256a3",
    "pillar": "infra",
    "headline": "South Africas data centre gold rush risks resource crunch",
    "signal_url": "https://www.cnbcafrica.com/2026/south-africas-data-centre-gold-rush-risks-resource-crunch/",
@@ -7195,7 +7339,7 @@
    "evidence_ids": []
   },
   {
-   "id": "c03366a1ddd522",
+   "id": "028c5cdbdf26f0",
    "pillar": "infra",
    "headline": "AFR-IX lights up Raxio data centres in Angola, Mozambique",
    "signal_url": "https://tech.africa/afr-ix-raxio-angola-mozambique/",
@@ -7211,7 +7355,7 @@
    "evidence_ids": []
   },
   {
-   "id": "aec25e0e83162d",
+   "id": "f5165f77dbdef4",
    "pillar": "infra",
    "headline": "Somalia opens its first National AI Centre at Somali National University",
    "signal_url": "https://www.intelligentcio.com/africa/2026/07/21/somali-national-university-launches-countrys-first-national-ai-centre/",
@@ -7227,7 +7371,7 @@
    "evidence_ids": []
   },
   {
-   "id": "baba4aaceb0dac",
+   "id": "ea4cbd94bc33a3",
    "pillar": "infra",
    "headline": "Global Tech Giants Bet Big on South Africa Digital Future — Google, AWS, Microsoft announce landmark cloud investments",
    "signal_url": "https://www.ubuntutimes.co.za/global-tech-giants-bet-big-on-south-africa-digital-future/",
@@ -7243,7 +7387,7 @@
    "evidence_ids": []
   },
   {
-   "id": "f7a24728699ff2",
+   "id": "21d4051ad4154f",
    "pillar": "infra",
    "headline": "Côte d'Ivoire approves $170M sovereign data centre and digital infrastructure project",
    "signal_url": "https://developingtelecoms.com/telecom-business/telecom-investment-mergers/20549-cote-divoire-approves-starlink-service-data-centre-project-and-more-after-us-state-visit.html",
@@ -7259,7 +7403,7 @@
    "evidence_ids": []
   },
   {
-   "id": "edb9a36a67a498",
+   "id": "368a533bf26ae7",
    "pillar": "infra",
    "headline": "Cassava Technologies wins Africa's first Microsoft Azure ExpressRoute Metro peering site",
    "signal_url": "https://techtrendske.co.ke/2026/07/20/cassava-gets-africas-first-microsoft-azure-expressroute-metro-designation/",
@@ -7275,7 +7419,7 @@
    "evidence_ids": []
   },
   {
-   "id": "d841192eb43b80",
+   "id": "adf866fbe50298",
    "pillar": "infra",
    "headline": "Google’s $1B Milestone Signals Africa’s New Digital Infrastructure Race",
    "signal_url": "https://prospect-intel.com/googles-1b-milestone-signals-africas-new-digital-infrastructure-race/",
@@ -7291,7 +7435,7 @@
    "evidence_ids": []
   },
   {
-   "id": "8aaf3177d5fa63",
+   "id": "13f543ccc562cb",
    "pillar": "infra",
    "headline": "The stories shaping Africa's AI future",
    "signal_url": "https://africasacountry.com/2026/07/the-stories-shaping-africas-ai-future",
@@ -7307,7 +7451,7 @@
    "evidence_ids": []
   },
   {
-   "id": "5057ac5299805a",
+   "id": "170696f4c80952",
    "pillar": "infra",
    "headline": "Kenya and France Push Africa Forward AI Clusters Across Six Countries, With €1.9M Dedicated to African LLMs",
    "signal_url": "https://iafrica.com/kenya-and-france-push-africa-forward-ai-clusters-across-six-countries-with-e1-9m-dedicated-to-african-llms/",
@@ -7323,7 +7467,7 @@
    "evidence_ids": []
   },
   {
-   "id": "88f079c5eb4956",
+   "id": "e762f849378339",
    "pillar": "infra",
    "headline": "World Bank recommends single-window policy to attract hyperscale cloud to Africa",
    "signal_url": "https://www.agenceecofin.com/actualites-numerique/1707-140291-cloud-en-afrique-la-banque-mondiale-recommande-un-guichet-unique-pour-attirer-les-hyperscalers",
@@ -7339,7 +7483,7 @@
    "evidence_ids": []
   },
   {
-   "id": "a7af8ece0817a3",
+   "id": "25728331b45565",
    "pillar": "infra",
    "headline": "Via Africa submarine cable system, Europe to Africa",
    "signal_url": "https://www.engineeringnews.co.za/article/via-africa-submarine-cable-system-europe-to-africa-2026-07-17",
@@ -7355,7 +7499,7 @@
    "evidence_ids": []
   },
   {
-   "id": "674f4ead4a48cc",
+   "id": "1bd2bca152ed3d",
    "pillar": "infra",
    "headline": "Djibouti Presses National AI Strategy Talks With ITU and Smart Africa at WSIS 2026",
    "signal_url": "https://iafrica.com/djibouti-presses-national-ai-strategy-talks-with-itu-and-smart-africa-at-wsis-2026/",
@@ -7371,7 +7515,7 @@
    "evidence_ids": []
   },
   {
-   "id": "4691463b52844b",
+   "id": "cc76dcf9479879",
    "pillar": "infra",
    "headline": "Africa's AI Talent Race Is Heating Up, But Compute And Capital Still Lag",
    "signal_url": "https://www.techbooky.com/africa-ai-talent-race-compute-capital-gap/",
@@ -7387,7 +7531,7 @@
    "evidence_ids": []
   },
   {
-   "id": "848dfdee64ba77",
+   "id": "9f578db4713d34",
    "pillar": "infra",
    "headline": "Africa Data Center Construction Market 2026-2031: Nigeria Leverages Solar and Wind Energy",
    "signal_url": "https://www.globenewswire.com/news-release/2026/07/15/3327874/0/en/africa-data-center-construction-market-2026-2031-nigeria-leverages-solar-and-wind-energy-in-data-centers-to-cut-carbon-footprint.html",
@@ -7403,7 +7547,7 @@
    "evidence_ids": []
   },
   {
-   "id": "b9142ed4b97e37",
+   "id": "481f329a569a21",
    "pillar": "infra",
    "headline": "Let's Talk About Africa and AI Compute",
    "signal_url": "https://reamby.substack.com/p/lets-talk-about-africa-and-ai-compute",
@@ -7419,7 +7563,7 @@
    "evidence_ids": []
   },
   {
-   "id": "ff7eb43a93c5fb",
+   "id": "69ac56a3e4227c",
    "pillar": "infra",
    "headline": "Why South Africa's Data Centre Boom Is Good News for AI",
    "signal_url": "https://dfafrica.co.za/newsroom/feature/2026-07-15/why-south-africas-data-centre-boom-is-good-news-for-ai/",
@@ -7435,7 +7579,7 @@
    "evidence_ids": []
   },
   {
-   "id": "c248dccd568702",
+   "id": "6980577b5f063e",
    "pillar": "infra",
    "headline": "WATRA Calls for Stronger Regional Cooperation on Submarine Cable Resilience",
    "signal_url": "https://techafricanews.com/2026/07/15/watra-calls-for-stronger-regional-cooperation-on-submarine-cable-resilience/",
@@ -7451,7 +7595,7 @@
    "evidence_ids": []
   },
   {
-   "id": "433caa1e88b06a",
+   "id": "019c0f6afa60e1",
    "pillar": "infra",
    "headline": "Africa's AI advantage will be built in production",
    "signal_url": "https://www.miningweekly.com/article/africas-ai-advantage-will-be-built-in-production-2026-07-15",
@@ -7467,7 +7611,7 @@
    "evidence_ids": []
   },
   {
-   "id": "72e4cb7664bcd6",
+   "id": "79e8e3552592ed",
    "pillar": "infra",
    "headline": "Raxio Secures Over US$380 Million to Accelerate Africa Data Centre Expansion",
    "signal_url": "https://www.techafricanews.com/2026/07/14/raxio-secures-over-us380-million-to-accelerate-africa-data-centre-expansion/",
@@ -7483,7 +7627,7 @@
    "evidence_ids": []
   },
   {
-   "id": "a0cd3396c8f84f",
+   "id": "ba533a5dcb4bd1",
    "pillar": "infra",
    "headline": "Raxio secures over US$380M to accelerate African data centre expansion",
    "signal_url": "https://techafricanews.com/2026/07/14/raxio-secures-over-us380-million-to-accelerate-africa-data-centre-expansion/",
@@ -7494,12 +7638,12 @@
    "priority": "high",
    "topic": "Capacity and investment",
    "related_registers": [],
-   "duplicate_of": "72e4cb7664bcd6",
+   "duplicate_of": "79e8e3552592ed",
    "note": "This source URL is already in the feed. Repetition is not corroboration.",
    "evidence_ids": []
   },
   {
-   "id": "eeacb53eec522f",
+   "id": "343ab82deced8a",
    "pillar": "infra",
    "headline": "Inference Economics of Enterprise Coding Agents: Cloud vs. On-Premise LLMs",
    "signal_url": "https://arxiv.org/abs/2607.13080",
@@ -7515,7 +7659,7 @@
    "evidence_ids": []
   },
   {
-   "id": "bb7e92c1f19ed8",
+   "id": "3764dbd22dbf2a",
    "pillar": "infra",
    "headline": "African Governments Draw New Line In The 'Cloud' In Data Sovereignty Push",
    "signal_url": "https://weetracker.com/2026/07/13/africa-data-sovereignty-local-infrastructure/",
@@ -7531,7 +7675,7 @@
    "evidence_ids": []
   },
   {
-   "id": "3237105e2dacd6",
+   "id": "4a0e723e0b46a6",
    "pillar": "infra",
    "headline": "Africa's US$3.6+ Billion Data Center Market 2026-2031: Analysis of Substantial Growth Prospects and Strategic Initiatives",
    "signal_url": "https://uk.finance.yahoo.com/news/africas-us-3-6-billion-080900699.html",
@@ -7547,7 +7691,7 @@
    "evidence_ids": []
   },
   {
-   "id": "61dbf50828e8b2",
+   "id": "8b3ea5640d3934",
    "pillar": "infra",
    "headline": "Africa's Fiber Optic Paradox: 77 Submarine Cables Yet Underconnected",
    "signal_url": "https://www.ico-optics.org/africas-fiber-optic-paradox-77-submarine-cables-yet-underconnected/",
@@ -7563,7 +7707,7 @@
    "evidence_ids": []
   },
   {
-   "id": "b66c758c873425",
+   "id": "fd4a87f3d743fb",
    "pillar": "infra",
    "headline": "HUMAIN and Cohere Launch Strategic Sovereign AI Compute Collaboration",
    "signal_url": "https://techafricanews.com/2026/07/09/humain-and-cohere-launch-strategic-sovereign-ai-compute-collaboration/",
@@ -7579,7 +7723,7 @@
    "evidence_ids": []
   },
   {
-   "id": "6834c845e32281",
+   "id": "dc2a83a84fadf5",
    "pillar": "infra",
    "headline": "Africa’s data centre evolution: AI, edge computing and new energy demands",
    "signal_url": "https://techcentral.co.za/africas-data-centres-ai-edge-computing-and-new-energy-demands/283580/",
@@ -7595,7 +7739,7 @@
    "evidence_ids": []
   },
   {
-   "id": "97a2f7604c988a",
+   "id": "d0ad9604edcce1",
    "pillar": "infra",
    "headline": "Gabon launches sovereign data centre",
    "signal_url": "https://itweb.africa/article/gabon-launches-sovereign-data-centre/xnklOvz14JDq4Ymz",
@@ -7614,7 +7758,7 @@
    "evidence_ids": []
   },
   {
-   "id": "bd1016788b4a60",
+   "id": "9800afd07f81ee",
    "pillar": "infra",
    "headline": "Google announces first African cloud region in Nairobi — target 2028",
    "signal_url": "https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/",
@@ -7630,7 +7774,7 @@
    "evidence_ids": []
   },
   {
-   "id": "7ffe32530888a0",
+   "id": "2207c4094d8e7d",
    "pillar": "infra",
    "headline": "Africa's digital infrastructure ambition has a power problem",
    "signal_url": "https://capacityglobal.com/news/africas-digital-infrastructure-ambition-power/",
@@ -7646,7 +7790,7 @@
    "evidence_ids": []
   },
   {
-   "id": "7c417f9ce5bebf",
+   "id": "3a3ebcd71f52cb",
    "pillar": "infra",
    "headline": "Financing Artificial Intelligence Infrastructure: Mapping AI Infrastructure Investment and Compute Governance Across Africa",
    "signal_url": "https://arxiv.org/abs/2606.28404",
@@ -7662,7 +7806,7 @@
    "evidence_ids": []
   },
   {
-   "id": "9c526a5499a7f9",
+   "id": "216641adc6f7c6",
    "pillar": "infra",
    "headline": "Africa Declares AI a Strategic Priority",
    "signal_url": "https://au.int/en/pressreleases/20250517/africa-declares-ai-strategic-priority-investment-inclusion-and-innovation",
@@ -7678,7 +7822,7 @@
    "evidence_ids": []
   },
   {
-   "id": "6e4f3e3c83598b",
+   "id": "d7c93e114dd46c",
    "pillar": "infra",
    "headline": "Africa's $60B AI sovereignty plan runs through 12,000 Nvidia GPUs and Big Tech",
    "signal_url": "https://siliconcanals.com/sc-d-africas-60b-ai-sovereignty-plan-runs-directly-through-12-000-nvidia-gpus-and-microsoft-data-centres-and-the-contradiction-is-exactly-the-point-everyone-keeps-missing/",
@@ -7694,7 +7838,7 @@
    "evidence_ids": []
   },
   {
-   "id": "42fff8c0160e36",
+   "id": "0499d784c045e2",
    "pillar": "infra",
    "headline": "Africa pushes for data sovereignty and digital independence",
    "signal_url": "https://africarenewal.un.org/en/magazine/africa-pushes-data-sovereignty-and-digital-independence",
@@ -7710,7 +7854,7 @@
    "evidence_ids": []
   },
   {
-   "id": "0555cf07299370",
+   "id": "90577233e0f60e",
    "pillar": "infra",
    "headline": "The hidden fight for AI sovereign infrastructure in Africa",
    "signal_url": "https://www.africanelements.org/news/the-hidden-fight-for-ai-sovereign-infrastructure-in-africa/",
@@ -7726,7 +7870,7 @@
    "evidence_ids": []
   },
   {
-   "id": "03287ee6388dbd",
+   "id": "3acc29a02a238d",
    "pillar": "infra",
    "headline": "Data Centres in Africa 2026: The Economic Report — 0.6% of global capacity, 360 MW active",
    "signal_url": "https://africadca.org/en/data-centres-in-africa-2026-the-economic-report",
@@ -7746,7 +7890,7 @@
    "evidence_ids": []
   },
   {
-   "id": "ca6cca10624a72",
+   "id": "eebdbeca49eb6d",
    "pillar": "infra",
    "headline": "Zimbabwe launches National Artificial Intelligence Strategy 2026-2030",
    "signal_url": "https://www.unesco.org/en/articles/zimbabwe-launches-national-artificial-intelligence-strategy",
@@ -7762,7 +7906,7 @@
    "evidence_ids": []
   },
   {
-   "id": "8f966c5471338f",
+   "id": "76693940ce5d78",
    "pillar": "infra",
    "headline": "Africa's Compute Capacity for AI",
    "signal_url": "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/bridging-the-new-digital-divide-how-africa-can-boost-its-compute-capacity-for-ai/",
@@ -7778,7 +7922,7 @@
    "evidence_ids": []
   },
   {
-   "id": "4c527a77476e02",
+   "id": "4d3603177ac96f",
    "pillar": "infra",
    "headline": "World Bank Digital Progress & Trends Report 2025: AI Foundations",
    "signal_url": "https://www.worldbank.org/en/publication/dptr2025-ai-foundations",
@@ -7794,7 +7938,7 @@
    "evidence_ids": []
   },
   {
-   "id": "cfaa473ddb24cd",
+   "id": "2d43bec3f261fc",
    "pillar": "infra",
    "headline": "5 Issues That Must Be Tackled for Digital Equality",
    "signal_url": "https://theconversation.com/ai-in-africa-5-issues-that-must-be-tackled-for-digital-equality-265611",
