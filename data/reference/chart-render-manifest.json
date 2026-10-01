@@ -1,10 +1,10 @@
 {
  "access-affordability": {
-  "svg": "f26f9d885568e1e825a514a0854970ccd1c574144375ee52397de406d30be62b",
+  "svg": "2b0009228328038036f52e8e534072bf6c3c919e640c46ad0f8ab37f39f4296c",
   "png": "b7982452fe075a4efdacd2456936b27a87e6ed3bf269e9d26a0289c51c0d79b8"
  },
  "access-capability-vs-cost": {
-  "svg": "43aa74f7de3408337e2773ce2b85ee11654a523d82a3f70c38b2bb28271e52a3",
+  "svg": "26483b84991138e62ef05d05e065a6cbe9b4c37d8b821a7ab6ec0d6441d97c0c",
   "png": "4940bae8978b69fc7f2494530d6478a73e6050f2436883ae19c591724314e6fd"
  },
  "access-device-prices": {
@@ -24,19 +24,19 @@
   "png": "51a06dab82940e33f8dbdb24f35cfa25d15d6f55d73ea73b74ccdafc9507e06c"
  },
  "infra-capacity-by-status": {
-  "svg": "ef90ef4f69005aae688e664c4413bd7d5b02d0bda285b5aca6d5e5d7014f762a",
+  "svg": "570877506eac6235297acb36c9bee75d8ae6d857dbc9c618f12539076c20b3fc",
   "png": "e08da4bcfec482441081ae72cd923ac10ff791d8ccfabebcc5308cb32f4e3399"
  },
  "infra-capital-by-country": {
-  "svg": "8b731ce2b692e12c5fb477bfa6270b0c75662e8ea220fec01a37c5d237140e71",
+  "svg": "091c7a340521f1cb5171627d76f0dfcf5fbe16d0093e875b52db3e290455123e",
   "png": "974b5807bdd3115222b8101f704358dbbaa7a83f997b5202bee8fcfef1fccfc7"
  },
  "jobs-atlas-exposure": {
-  "svg": "fdc509259204e9af5035b9cd70bbcd897a7a751686ec82ca5e1b115feb8a7d4e",
+  "svg": "e04da61d4d1a5a18ca4fac83c2959658a942d574733e29b6e21f738807e6eaeb",
   "png": "e5a7131b143eeed9a60c904e83ebce33beab8243b3c2364b40e1fa0c376b4d83"
  },
  "jobs-exposure": {
-  "svg": "8700399aae9ca4ff3d3a7dbf42d27aadc0016c885fc96f0191dfe676e7f29cf5",
+  "svg": "f6d7640de1e8e9b7698e93d74e4db3d058a9bc3ce23612fbaa2d29cc310a765b",
   "png": "2dd9727f3305f851801eafbe149138521bb6b56ae17999251909a6c6d0fdd357"
  },
  "record-activity": {

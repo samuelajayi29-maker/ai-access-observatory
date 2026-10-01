@@ -1061,3 +1061,25 @@ tr[data-status="modelled"] > td:first-child::before { content: '∿ '; color: va
 
 .graph__bar--announced { background: var(--paper-sunk); border: 0; }
 .graph__bar--announced i { background: transparent; border: var(--line-thin) solid var(--announced); opacity: 1; }
+
+/* Published figure presets */
+.preset-start{display:block;max-width:42rem;margin:1.5rem 0;font-weight:600}
+.preset-start select,.chart-controls input[data-preset-title]{display:block;width:100%;padding:.65rem;margin:.5rem 0;background:var(--paper);color:var(--ink);border:1px solid var(--rule);font:inherit}
+.preset-picker{border:0;border-top:1px solid var(--rule);padding:1rem 0;margin:1rem 0;min-width:0}
+.preset-picker legend{font-weight:600}.preset-picker input[type=search]{width:100%;padding:.5rem}
+[data-preset-table]{overflow:auto}[data-preset-table] pre{white-space:pre-wrap;max-width:32rem;font-size:.75rem}
+[data-preset-panel] [data-share-url]{width:100%;padding:.6rem}
+[data-preset-preview] svg{display:block;width:100%;height:auto;min-width:640px}
+[hidden]{display:none!important}
+
+
+[data-preset-panel] .chart-controls{display:flex;flex-direction:column;gap:1rem;margin:0}
+[data-preset-panel] .chart-controls>label{display:block}
+[data-preset-panel] .chart-record{display:flex;align-items:flex-start;gap:.65rem}
+[data-preset-panel] .chart-record input{width:1rem;height:1rem;min-height:1rem;padding:0;margin-top:.2rem}
+[data-preset-panel] .chart-picker{max-height:24rem;overflow-y:auto}
+[data-preset-panel] .preset-picker{margin:0}
+[data-preset-panel] .chart-workspace>div{min-width:0}
+[data-preset-panel] button{padding:.65rem;font:inherit;color:var(--ink);background:var(--paper);border:1px solid var(--rule-strong);cursor:pointer}
+[data-preset-panel] button:hover{border-color:var(--ink)}
+

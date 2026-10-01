@@ -3,289 +3,595 @@
 <text x="28" y="38" font-family="'Source Serif 4',Georgia,serif" font-size="21" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">A month of moderate use, as a share of monthly GNI per capita</text>
 <text x="28" y="60.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Ten-country heatmap: 20 x the standard workload (1M input + 250k output tokens), against Atlas-method GNI per capita</text>
 <text x="28" y="76.5" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">divided by 12. The wider country comparison is in profiles and the CSV.</text>
+<g data-preset-col="3e95140d544f2d2f">
 <text x="280.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Côte d'Ivoire</text>
+</g>
+<g data-preset-col="9f2425ea30a72a31">
 <text x="368.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Egypt</text>
+</g>
+<g data-preset-col="f4a3760644d064b3">
 <text x="456.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Ethiopia</text>
+</g>
+<g data-preset-col="1a3cca8a42af7fe8">
 <text x="544.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Ghana</text>
+</g>
+<g data-preset-col="60287af6fcb06523">
 <text x="632.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Kenya</text>
+</g>
+<g data-preset-col="8904c61a98dbed62">
 <text x="720.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Morocco</text>
+</g>
+<g data-preset-col="052b57c6ca8a6cd1">
 <text x="808.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Nigeria</text>
+</g>
+<g data-preset-col="f9c4c803804455a2">
 <text x="896.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Rwanda</text>
+</g>
+<g data-preset-col="6b009cc13d92705e">
 <text x="984.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Senegal</text>
+</g>
+<g data-preset-col="23dc5203fa4cc591">
 <text x="1072.0" y="106" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">South Africa</text>
+</g>
+<g data-preset-row="b615c1e4921f7fea">
 <text x="224" y="138" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">DeepSeek V4 Flash 0731</text>
+<g data-preset-col="3e95140d544f2d2f">
 <rect x="237.0" y="120" width="86" height="26" fill="#f2f0ec" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="239.0" y="130.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="280.0" y="138" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">3.3%</text>
+</g>
+<g data-preset-col="9f2425ea30a72a31">
 <rect x="325.0" y="120" width="86" height="26" fill="#f2f0ec" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="327.0" y="130.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="368.0" y="138" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">2.8%</text>
+</g>
+<g data-preset-col="f4a3760644d064b3">
 <rect x="413.0" y="120" width="86" height="26" fill="#f2f0ec" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="415.0" y="130.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="456.0" y="138" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">8.3%</text>
+</g>
+<g data-preset-col="1a3cca8a42af7fe8">
 <rect x="501.0" y="120" width="86" height="26" fill="#f2f0ec" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="503.0" y="130.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="544.0" y="138" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">3.5%</text>
+</g>
+<g data-preset-col="60287af6fcb06523">
 <rect x="589.0" y="120" width="86" height="26" fill="#f2f0ec" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="591.0" y="130.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="632.0" y="138" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">4.2%</text>
+</g>
+<g data-preset-col="8904c61a98dbed62">
 <rect x="677.0" y="120" width="86" height="26" fill="#f2f0ec" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="679.0" y="130.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="720.0" y="138" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">2.1%</text>
+</g>
+<g data-preset-col="052b57c6ca8a6cd1">
 <rect x="765.0" y="120" width="86" height="26" fill="#f2f0ec" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="767.0" y="130.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="808.0" y="138" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">6.8%</text>
+</g>
+<g data-preset-col="f9c4c803804455a2">
 <rect x="853.0" y="120" width="86" height="26" fill="#f2f0ec" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="855.0" y="130.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="896.0" y="138" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">8.0%</text>
+</g>
+<g data-preset-col="6b009cc13d92705e">
 <rect x="941.0" y="120" width="86" height="26" fill="#f2f0ec" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="943.0" y="130.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="984.0" y="138" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">5.2%</text>
+</g>
+<g data-preset-col="23dc5203fa4cc591">
 <rect x="1029.0" y="120" width="86" height="26" fill="#f2f0ec" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="1031.0" y="130.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="1072.0" y="138" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">1.5%</text>
+</g>
+</g>
+<g data-preset-row="39ee5ea823fb8346">
 <text x="224" y="168" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">DeepSeek V4 Pro 0813 (max)</text>
+<g data-preset-col="3e95140d544f2d2f">
 <rect x="237.0" y="150" width="86" height="26" fill="#f2f0ec" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="239.0" y="160.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="280.0" y="168" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">10.0%</text>
+</g>
+<g data-preset-col="9f2425ea30a72a31">
 <rect x="325.0" y="150" width="86" height="26" fill="#f2f0ec" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="327.0" y="160.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="368.0" y="168" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">8.5%</text>
+</g>
+<g data-preset-col="f4a3760644d064b3">
 <rect x="413.0" y="150" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="415.0" y="160.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="456.0" y="168" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">25.0%</text>
+</g>
+<g data-preset-col="1a3cca8a42af7fe8">
 <rect x="501.0" y="150" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="503.0" y="160.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="544.0" y="168" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">10.5%</text>
+</g>
+<g data-preset-col="60287af6fcb06523">
 <rect x="589.0" y="150" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="591.0" y="160.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="632.0" y="168" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">12.6%</text>
+</g>
+<g data-preset-col="8904c61a98dbed62">
 <rect x="677.0" y="150" width="86" height="26" fill="#f2f0ec" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="679.0" y="160.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="720.0" y="168" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">6.4%</text>
+</g>
+<g data-preset-col="052b57c6ca8a6cd1">
 <rect x="765.0" y="150" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="767.0" y="160.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="808.0" y="168" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">20.4%</text>
+</g>
+<g data-preset-col="f9c4c803804455a2">
 <rect x="853.0" y="150" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="855.0" y="160.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="896.0" y="168" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">24.1%</text>
+</g>
+<g data-preset-col="6b009cc13d92705e">
 <rect x="941.0" y="150" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="943.0" y="160.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="984.0" y="168" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">15.6%</text>
+</g>
+<g data-preset-col="23dc5203fa4cc591">
 <rect x="1029.0" y="150" width="86" height="26" fill="#f2f0ec" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="1031.0" y="160.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="1072.0" y="168" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">4.4%</text>
+</g>
+</g>
+<g data-preset-row="1b6b70b55ddf774f">
 <text x="224" y="198" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Gemini 3.8 Flash</text>
+<g data-preset-col="3e95140d544f2d2f">
 <rect x="237.0" y="180" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="239.0" y="190.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="280.0" y="198" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">14.6%</text>
+</g>
+<g data-preset-col="9f2425ea30a72a31">
 <rect x="325.0" y="180" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="327.0" y="190.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="368.0" y="198" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">12.4%</text>
+</g>
+<g data-preset-col="f4a3760644d064b3">
 <rect x="413.0" y="180" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="415.0" y="190.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="456.0" y="198" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">36.5%</text>
+</g>
+<g data-preset-col="1a3cca8a42af7fe8">
 <rect x="501.0" y="180" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="503.0" y="190.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="544.0" y="198" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">15.4%</text>
+</g>
+<g data-preset-col="60287af6fcb06523">
 <rect x="589.0" y="180" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="591.0" y="190.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="632.0" y="198" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">18.4%</text>
+</g>
+<g data-preset-col="8904c61a98dbed62">
 <rect x="677.0" y="180" width="86" height="26" fill="#f2f0ec" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="679.0" y="190.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="720.0" y="198" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">9.3%</text>
+</g>
+<g data-preset-col="052b57c6ca8a6cd1">
 <rect x="765.0" y="180" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="767.0" y="190.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="808.0" y="198" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">29.8%</text>
+</g>
+<g data-preset-col="f9c4c803804455a2">
 <rect x="853.0" y="180" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="855.0" y="190.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="896.0" y="198" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">35.2%</text>
+</g>
+<g data-preset-col="6b009cc13d92705e">
 <rect x="941.0" y="180" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="943.0" y="190.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="984.0" y="198" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">22.8%</text>
+</g>
+<g data-preset-col="23dc5203fa4cc591">
 <rect x="1029.0" y="180" width="86" height="26" fill="#f2f0ec" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="1031.0" y="190.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="1072.0" y="198" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">6.5%</text>
+</g>
+</g>
+<g data-preset-row="d1fe05702b9f9f9c">
 <text x="224" y="228" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Muse Spark 1.1</text>
+<g data-preset-col="3e95140d544f2d2f">
 <rect x="237.0" y="210" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="239.0" y="220.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="280.0" y="228" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">20.0%</text>
+</g>
+<g data-preset-col="9f2425ea30a72a31">
 <rect x="325.0" y="210" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="327.0" y="220.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="368.0" y="228" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">17.0%</text>
+</g>
+<g data-preset-col="f4a3760644d064b3">
 <rect x="413.0" y="210" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="415.0" y="220.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="456.0" y="228" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">50.0%</text>
+</g>
+<g data-preset-col="1a3cca8a42af7fe8">
 <rect x="501.0" y="210" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="503.0" y="220.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="544.0" y="228" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">21.1%</text>
+</g>
+<g data-preset-col="60287af6fcb06523">
 <rect x="589.0" y="210" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="591.0" y="220.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="632.0" y="228" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">25.2%</text>
+</g>
+<g data-preset-col="8904c61a98dbed62">
 <rect x="677.0" y="210" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="679.0" y="220.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="720.0" y="228" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">12.7%</text>
+</g>
+<g data-preset-col="052b57c6ca8a6cd1">
 <rect x="765.0" y="210" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="767.0" y="220.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="808.0" y="228" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">40.8%</text>
+</g>
+<g data-preset-col="f9c4c803804455a2">
 <rect x="853.0" y="210" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="855.0" y="220.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="896.0" y="228" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">48.3%</text>
+</g>
+<g data-preset-col="6b009cc13d92705e">
 <rect x="941.0" y="210" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="943.0" y="220.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="984.0" y="228" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">31.2%</text>
+</g>
+<g data-preset-col="23dc5203fa4cc591">
 <rect x="1029.0" y="210" width="86" height="26" fill="#f2f0ec" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="1031.0" y="220.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="1072.0" y="228" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">8.9%</text>
+</g>
+</g>
+<g data-preset-row="95d3f179cfe80e1b">
 <text x="224" y="258" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">GPT-5.6 Luna</text>
+<g data-preset-col="3e95140d544f2d2f">
 <rect x="237.0" y="240" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="239.0" y="250.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="280.0" y="258" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">21.6%</text>
+</g>
+<g data-preset-col="9f2425ea30a72a31">
 <rect x="325.0" y="240" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="327.0" y="250.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="368.0" y="258" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">18.4%</text>
+</g>
+<g data-preset-col="f4a3760644d064b3">
 <rect x="413.0" y="240" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="415.0" y="250.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="456.0" y="258" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">54.1%</text>
+</g>
+<g data-preset-col="1a3cca8a42af7fe8">
 <rect x="501.0" y="240" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="503.0" y="250.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="544.0" y="258" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">22.8%</text>
+</g>
+<g data-preset-col="60287af6fcb06523">
 <rect x="589.0" y="240" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="591.0" y="250.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="632.0" y="258" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">27.3%</text>
+</g>
+<g data-preset-col="8904c61a98dbed62">
 <rect x="677.0" y="240" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="679.0" y="250.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="720.0" y="258" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">13.8%</text>
+</g>
+<g data-preset-col="052b57c6ca8a6cd1">
 <rect x="765.0" y="240" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="767.0" y="250.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="808.0" y="258" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">44.1%</text>
+</g>
+<g data-preset-col="f9c4c803804455a2">
 <rect x="853.0" y="240" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="855.0" y="250.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="896.0" y="258" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">52.2%</text>
+</g>
+<g data-preset-col="6b009cc13d92705e">
 <rect x="941.0" y="240" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="943.0" y="250.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="984.0" y="258" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">33.7%</text>
+</g>
+<g data-preset-col="23dc5203fa4cc591">
 <rect x="1029.0" y="240" width="86" height="26" fill="#f2f0ec" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="1031.0" y="250.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="1072.0" y="258" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">9.6%</text>
+</g>
+</g>
+<g data-preset-row="4e2ddcfc52b369f9">
 <text x="224" y="288" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Grok 4.6</text>
+<g data-preset-col="3e95140d544f2d2f">
 <rect x="237.0" y="270" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="239.0" y="280.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="280.0" y="288" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">30.2%</text>
+</g>
+<g data-preset-col="9f2425ea30a72a31">
 <rect x="325.0" y="270" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="327.0" y="280.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="368.0" y="288" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">25.8%</text>
+</g>
+<g data-preset-col="f4a3760644d064b3">
 <rect x="413.0" y="270" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="415.0" y="280.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="456.0" y="288" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">75.7%</text>
+</g>
+<g data-preset-col="1a3cca8a42af7fe8">
 <rect x="501.0" y="270" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="503.0" y="280.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="544.0" y="288" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">31.9%</text>
+</g>
+<g data-preset-col="60287af6fcb06523">
 <rect x="589.0" y="270" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="591.0" y="280.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="632.0" y="288" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">38.2%</text>
+</g>
+<g data-preset-col="8904c61a98dbed62">
 <rect x="677.0" y="270" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="679.0" y="280.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="720.0" y="288" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">19.3%</text>
+</g>
+<g data-preset-col="052b57c6ca8a6cd1">
 <rect x="765.0" y="270" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="767.0" y="280.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="808.0" y="288" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">61.8%</text>
+</g>
+<g data-preset-col="f9c4c803804455a2">
 <rect x="853.0" y="270" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="855.0" y="280.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="896.0" y="288" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">73.0%</text>
+</g>
+<g data-preset-col="6b009cc13d92705e">
 <rect x="941.0" y="270" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="943.0" y="280.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="984.0" y="288" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">47.2%</text>
+</g>
+<g data-preset-col="23dc5203fa4cc591">
 <rect x="1029.0" y="270" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="1031.0" y="280.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="1072.0" y="288" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">13.4%</text>
+</g>
+</g>
+<g data-preset-row="9e0dc31d2bbeb630">
 <text x="224" y="318" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Claude Opus 5 (routed)</text>
+<g data-preset-col="3e95140d544f2d2f">
 <rect x="237.0" y="300" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="239.0" y="310.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="280.0" y="318" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">38.8%</text>
+</g>
+<g data-preset-col="9f2425ea30a72a31">
 <rect x="325.0" y="300" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="327.0" y="310.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="368.0" y="318" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">33.1%</text>
+</g>
+<g data-preset-col="f4a3760644d064b3">
 <rect x="413.0" y="300" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="415.0" y="310.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="456.0" y="318" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">97.3%</text>
+</g>
+<g data-preset-col="1a3cca8a42af7fe8">
 <rect x="501.0" y="300" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="503.0" y="310.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="544.0" y="318" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">41.1%</text>
+</g>
+<g data-preset-col="60287af6fcb06523">
 <rect x="589.0" y="300" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="591.0" y="310.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="632.0" y="318" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">49.1%</text>
+</g>
+<g data-preset-col="8904c61a98dbed62">
 <rect x="677.0" y="300" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="679.0" y="310.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="720.0" y="318" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">24.8%</text>
+</g>
+<g data-preset-col="052b57c6ca8a6cd1">
 <rect x="765.0" y="300" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="767.0" y="310.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="808.0" y="318" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">79.4%</text>
+</g>
+<g data-preset-col="f9c4c803804455a2">
 <rect x="853.0" y="300" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="855.0" y="310.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="896.0" y="318" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">93.9%</text>
+</g>
+<g data-preset-col="6b009cc13d92705e">
 <rect x="941.0" y="300" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="943.0" y="310.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="984.0" y="318" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">60.7%</text>
+</g>
+<g data-preset-col="23dc5203fa4cc591">
 <rect x="1029.0" y="300" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="1031.0" y="310.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="1072.0" y="318" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">17.2%</text>
+</g>
+</g>
+<g data-preset-row="2719c688ad2de027">
 <text x="224" y="348" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">GPT-5.6 Terra</text>
+<g data-preset-col="3e95140d544f2d2f">
 <rect x="237.0" y="330" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="239.0" y="340.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="280.0" y="348" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">54.0%</text>
+</g>
+<g data-preset-col="9f2425ea30a72a31">
 <rect x="325.0" y="330" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="327.0" y="340.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="368.0" y="348" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">46.0%</text>
+</g>
+<g data-preset-col="f4a3760644d064b3">
 <rect x="413.0" y="330" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="415.0" y="340.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="456.0" y="348" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">135%</text>
+</g>
+<g data-preset-col="1a3cca8a42af7fe8">
 <rect x="501.0" y="330" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="503.0" y="340.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="544.0" y="348" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">57.0%</text>
+</g>
+<g data-preset-col="60287af6fcb06523">
 <rect x="589.0" y="330" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="591.0" y="340.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="632.0" y="348" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">68.2%</text>
+</g>
+<g data-preset-col="8904c61a98dbed62">
 <rect x="677.0" y="330" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="679.0" y="340.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="720.0" y="348" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">34.4%</text>
+</g>
+<g data-preset-col="052b57c6ca8a6cd1">
 <rect x="765.0" y="330" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="767.0" y="340.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="808.0" y="348" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">110%</text>
+</g>
+<g data-preset-col="f9c4c803804455a2">
 <rect x="853.0" y="330" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="855.0" y="340.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="896.0" y="348" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">130%</text>
+</g>
+<g data-preset-col="6b009cc13d92705e">
 <rect x="941.0" y="330" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="943.0" y="340.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="984.0" y="348" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">84.3%</text>
+</g>
+<g data-preset-col="23dc5203fa4cc591">
 <rect x="1029.0" y="330" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="1031.0" y="340.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="1072.0" y="348" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">23.9%</text>
+</g>
+</g>
+<g data-preset-row="8ca53a3da78eb5e8">
 <text x="224" y="378" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Kimi K3 (max)</text>
+<g data-preset-col="3e95140d544f2d2f">
 <rect x="237.0" y="360" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="239.0" y="370.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="280.0" y="378" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">58.3%</text>
+</g>
+<g data-preset-col="9f2425ea30a72a31">
 <rect x="325.0" y="360" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="327.0" y="370.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="368.0" y="378" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">49.7%</text>
+</g>
+<g data-preset-col="f4a3760644d064b3">
 <rect x="413.0" y="360" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="415.0" y="370.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="456.0" y="378" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">146%</text>
+</g>
+<g data-preset-col="1a3cca8a42af7fe8">
 <rect x="501.0" y="360" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="503.0" y="370.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="544.0" y="378" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">61.6%</text>
+</g>
+<g data-preset-col="60287af6fcb06523">
 <rect x="589.0" y="360" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="591.0" y="370.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="632.0" y="378" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">73.6%</text>
+</g>
+<g data-preset-col="8904c61a98dbed62">
 <rect x="677.0" y="360" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="679.0" y="370.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="720.0" y="378" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">37.2%</text>
+</g>
+<g data-preset-col="052b57c6ca8a6cd1">
 <rect x="765.0" y="360" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="767.0" y="370.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="808.0" y="378" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">119%</text>
+</g>
+<g data-preset-col="f9c4c803804455a2">
 <rect x="853.0" y="360" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="855.0" y="370.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="896.0" y="378" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">141%</text>
+</g>
+<g data-preset-col="6b009cc13d92705e">
 <rect x="941.0" y="360" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="943.0" y="370.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="984.0" y="378" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">91.0%</text>
+</g>
+<g data-preset-col="23dc5203fa4cc591">
 <rect x="1029.0" y="360" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="1031.0" y="370.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="1072.0" y="378" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">25.8%</text>
+</g>
+</g>
+<g data-preset-row="cd8eedc764b60783">
 <text x="224" y="408" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Claude Opus 5</text>
+<g data-preset-col="3e95140d544f2d2f">
 <rect x="237.0" y="390" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="239.0" y="400.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="280.0" y="408" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">97.1%</text>
+</g>
+<g data-preset-col="9f2425ea30a72a31">
 <rect x="325.0" y="390" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="327.0" y="400.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="368.0" y="408" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">82.8%</text>
+</g>
+<g data-preset-col="f4a3760644d064b3">
 <rect x="413.0" y="390" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="415.0" y="400.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="456.0" y="408" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">243%</text>
+</g>
+<g data-preset-col="1a3cca8a42af7fe8">
 <rect x="501.0" y="390" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="503.0" y="400.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="544.0" y="408" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">103%</text>
+</g>
+<g data-preset-col="60287af6fcb06523">
 <rect x="589.0" y="390" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="591.0" y="400.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="632.0" y="408" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">123%</text>
+</g>
+<g data-preset-col="8904c61a98dbed62">
 <rect x="677.0" y="390" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="679.0" y="400.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="720.0" y="408" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">61.9%</text>
+</g>
+<g data-preset-col="052b57c6ca8a6cd1">
 <rect x="765.0" y="390" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="767.0" y="400.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="808.0" y="408" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">199%</text>
+</g>
+<g data-preset-col="f9c4c803804455a2">
 <rect x="853.0" y="390" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="855.0" y="400.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="896.0" y="408" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">235%</text>
+</g>
+<g data-preset-col="6b009cc13d92705e">
 <rect x="941.0" y="390" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="943.0" y="400.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="984.0" y="408" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">152%</text>
+</g>
+<g data-preset-col="23dc5203fa4cc591">
 <rect x="1029.0" y="390" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="1031.0" y="400.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="1072.0" y="408" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">43.1%</text>
+</g>
+</g>
+<g data-preset-row="4c15583ff6e2f485">
 <text x="224" y="438" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">GPT-5.6 Sol</text>
+<g data-preset-col="3e95140d544f2d2f">
 <rect x="237.0" y="420" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="239.0" y="430.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="280.0" y="438" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">108%</text>
+</g>
+<g data-preset-col="9f2425ea30a72a31">
 <rect x="325.0" y="420" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="327.0" y="430.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="368.0" y="438" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">92.0%</text>
+</g>
+<g data-preset-col="f4a3760644d064b3">
 <rect x="413.0" y="420" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="415.0" y="430.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="456.0" y="438" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">270%</text>
+</g>
+<g data-preset-col="1a3cca8a42af7fe8">
 <rect x="501.0" y="420" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="503.0" y="430.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="544.0" y="438" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">114%</text>
+</g>
+<g data-preset-col="60287af6fcb06523">
 <rect x="589.0" y="420" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="591.0" y="430.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="632.0" y="438" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">136%</text>
+</g>
+<g data-preset-col="8904c61a98dbed62">
 <rect x="677.0" y="420" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="679.0" y="430.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="720.0" y="438" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">68.8%</text>
+</g>
+<g data-preset-col="052b57c6ca8a6cd1">
 <rect x="765.0" y="420" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="767.0" y="430.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="808.0" y="438" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">221%</text>
+</g>
+<g data-preset-col="f9c4c803804455a2">
 <rect x="853.0" y="420" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="855.0" y="430.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="896.0" y="438" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">261%</text>
+</g>
+<g data-preset-col="6b009cc13d92705e">
 <rect x="941.0" y="420" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="943.0" y="430.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="984.0" y="438" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">169%</text>
+</g>
+<g data-preset-col="23dc5203fa4cc591">
 <rect x="1029.0" y="420" width="86" height="26" fill="#e0ddd7" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="1031.0" y="430.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="1072.0" y="438" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">47.8%</text>
+</g>
+</g>
+<g data-preset-row="a5ee67b5769bd618">
 <text x="224" y="468" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Claude Fable 5.1</text>
+<g data-preset-col="3e95140d544f2d2f">
 <rect x="237.0" y="450" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="239.0" y="460.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="280.0" y="468" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">194%</text>
+</g>
+<g data-preset-col="9f2425ea30a72a31">
 <rect x="325.0" y="450" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="327.0" y="460.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="368.0" y="468" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">166%</text>
+</g>
+<g data-preset-col="f4a3760644d064b3">
 <rect x="413.0" y="450" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="415.0" y="460.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="456.0" y="468" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">486%</text>
+</g>
+<g data-preset-col="1a3cca8a42af7fe8">
 <rect x="501.0" y="450" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="503.0" y="460.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="544.0" y="468" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">205%</text>
+</g>
+<g data-preset-col="60287af6fcb06523">
 <rect x="589.0" y="450" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="591.0" y="460.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="632.0" y="468" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">245%</text>
+</g>
+<g data-preset-col="8904c61a98dbed62">
 <rect x="677.0" y="450" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="679.0" y="460.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="720.0" y="468" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">124%</text>
+</g>
+<g data-preset-col="052b57c6ca8a6cd1">
 <rect x="765.0" y="450" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="767.0" y="460.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="808.0" y="468" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">397%</text>
+</g>
+<g data-preset-col="f9c4c803804455a2">
 <rect x="853.0" y="450" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="855.0" y="460.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="896.0" y="468" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">470%</text>
+</g>
+<g data-preset-col="6b009cc13d92705e">
 <rect x="941.0" y="450" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="943.0" y="460.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="984.0" y="468" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">303%</text>
+</g>
+<g data-preset-col="23dc5203fa4cc591">
 <rect x="1029.0" y="450" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="1031.0" y="460.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="1072.0" y="468" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">86.1%</text>
+</g>
+</g>
+<g data-preset-row="1b3c7f8e637e1454">
 <text x="224" y="498" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">GPT-6 Astra</text>
+<g data-preset-col="3e95140d544f2d2f">
 <rect x="237.0" y="480" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="239.0" y="490.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="280.0" y="498" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">194%</text>
+</g>
+<g data-preset-col="9f2425ea30a72a31">
 <rect x="325.0" y="480" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="327.0" y="490.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="368.0" y="498" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">166%</text>
+</g>
+<g data-preset-col="f4a3760644d064b3">
 <rect x="413.0" y="480" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="415.0" y="490.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="456.0" y="498" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">486%</text>
+</g>
+<g data-preset-col="1a3cca8a42af7fe8">
 <rect x="501.0" y="480" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="503.0" y="490.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="544.0" y="498" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">205%</text>
+</g>
+<g data-preset-col="60287af6fcb06523">
 <rect x="589.0" y="480" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="591.0" y="490.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="632.0" y="498" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">245%</text>
+</g>
+<g data-preset-col="8904c61a98dbed62">
 <rect x="677.0" y="480" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="679.0" y="490.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="720.0" y="498" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">124%</text>
+</g>
+<g data-preset-col="052b57c6ca8a6cd1">
 <rect x="765.0" y="480" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="767.0" y="490.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="808.0" y="498" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">397%</text>
+</g>
+<g data-preset-col="f9c4c803804455a2">
 <rect x="853.0" y="480" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="855.0" y="490.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="896.0" y="498" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">470%</text>
+</g>
+<g data-preset-col="6b009cc13d92705e">
 <rect x="941.0" y="480" width="86" height="26" fill="#b5ada1" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="943.0" y="490.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="984.0" y="498" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#3A1A10" style="font-variant-numeric:tabular-nums lining-nums">303%</text>
+</g>
+<g data-preset-col="23dc5203fa4cc591">
 <rect x="1029.0" y="480" width="86" height="26" fill="#cbc6bd" data-status="derived" stroke="#4a5568" stroke-width="1"><title>derived</title></rect>
 <text x="1031.0" y="490.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#4a5568" aria-hidden="true">ƒ</text><text x="1072.0" y="498" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">86.1%</text>
+</g>
+</g>
 <line x1="228" y1="116" x2="1116" y2="116" stroke="#ddd8d0" />
 <rect x="228" y="528" width="11" height="11" fill="#f2f0ec" stroke="#4a5568" data-status="derived" stroke-width="1"><title>derived</title></rect>
 <text x="245" y="538" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">&lt;10%</text>

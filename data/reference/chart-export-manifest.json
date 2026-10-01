@@ -1,14 +1,14 @@
 {
  "infra-capacity-by-status": {
-  "svg": "ef90ef4f69005aae688e664c4413bd7d5b02d0bda285b5aca6d5e5d7014f762a",
+  "svg": "570877506eac6235297acb36c9bee75d8ae6d857dbc9c618f12539076c20b3fc",
   "csv": "3a5498e157a6f5f447ba659af748506a39865768f2850e265602596f68d9b52e"
  },
  "infra-capital-by-country": {
-  "svg": "8b731ce2b692e12c5fb477bfa6270b0c75662e8ea220fec01a37c5d237140e71",
+  "svg": "091c7a340521f1cb5171627d76f0dfcf5fbe16d0093e875b52db3e290455123e",
   "csv": "4fa2978700ac11ee99d0a3495288f49065fc38eb13a2e92fe8ad29e526464b4f"
  },
  "access-capability-vs-cost": {
-  "svg": "43aa74f7de3408337e2773ce2b85ee11654a523d82a3f70c38b2bb28271e52a3",
+  "svg": "26483b84991138e62ef05d05e065a6cbe9b4c37d8b821a7ab6ec0d6441d97c0c",
   "csv": "06a2bc2a49501af500e017c5401ec3e08e7baac356b0455fdbc24deb15a759b7"
  },
  "access-device-prices": {
@@ -24,7 +24,7 @@
   "csv": "7157e08e640f6b838baee676d8050ebb08fbd5e980bff8dba535d6135210f6e2"
  },
  "access-affordability": {
-  "svg": "f26f9d885568e1e825a514a0854970ccd1c574144375ee52397de406d30be62b",
+  "svg": "2b0009228328038036f52e8e534072bf6c3c919e640c46ad0f8ab37f39f4296c",
   "csv": "3e0d9220ea8d927a013550ea2f6ee702e3d02168a76b7ed2946cba90d98db079"
  },
  "access-fx-decomposition": {
@@ -36,11 +36,11 @@
   "csv": "741172ec41c3ab7292b00673b37b5defd850c8409bad3ff0053f4844d3f2cb28"
  },
  "jobs-exposure": {
-  "svg": "8700399aae9ca4ff3d3a7dbf42d27aadc0016c885fc96f0191dfe676e7f29cf5",
+  "svg": "f6d7640de1e8e9b7698e93d74e4db3d058a9bc3ce23612fbaa2d29cc310a765b",
   "csv": "a2920e02c83cbb41fe8cfdc47bb520976e3f578503bedf31a60c68800edcc216"
  },
  "jobs-atlas-exposure": {
-  "svg": "fdc509259204e9af5035b9cd70bbcd897a7a751686ec82ca5e1b115feb8a7d4e",
+  "svg": "e04da61d4d1a5a18ca4fac83c2959658a942d574733e29b6e21f738807e6eaeb",
   "csv": "1fb1e3664e69a502f19d406334b0a2de5c4512eb5527e2f24d06705d1fcf9aaf"
  }
 }

@@ -8,150 +8,222 @@
 <line x1="479.3" y1="90" x2="479.3" y2="864" stroke="#1a1815" stroke-width="1" stroke-dasharray="5 3" opacity="0.55" />
 <line x1="530" y1="81" x2="548" y2="81" stroke="#1a1815" stroke-width="1" stroke-dasharray="5 3" opacity="0.55" />
 <text x="554" y="85" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">All 124 measured countries 41.4%</text>
+<g data-preset-row="23dc5203fa4cc591">
 <text x="238" y="120" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">South Africa</text>
 <rect x="250" y="109" width="282.5" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="119.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="536.5" y="107" width="38" height="15" fill="#fbfaf8" />
 <text x="540.5" y="120" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">51.0%</text>
+</g>
+<g data-preset-row="3f60f52a8219d436">
 <text x="238" y="141" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Tunisia</text>
 <rect x="250" y="130" width="273.1" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="140.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="527.1" y="128" width="38" height="15" fill="#fbfaf8" />
 <text x="531.1" y="141" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">49.3%</text>
+</g>
+<g data-preset-row="9f2425ea30a72a31">
 <text x="238" y="162" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Egypt</text>
 <rect x="250" y="151" width="256.5" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="161.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="510.5" y="149" width="38" height="15" fill="#fbfaf8" />
 <text x="514.5" y="162" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">46.3%</text>
+</g>
+<g data-preset-row="8904c61a98dbed62">
 <text x="238" y="183" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Morocco</text>
 <rect x="250" y="172" width="244.9" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="182.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="498.9" y="170" width="38" height="15" fill="#fbfaf8" />
 <text x="502.9" y="183" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">44.2%</text>
+</g>
+<g data-preset-row="31fdcc118ce4019d">
 <text x="238" y="204" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Algeria</text>
 <rect x="250" y="193" width="239.9" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="203.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="493.9" y="191" width="38" height="15" fill="#fbfaf8" />
 <text x="497.9" y="204" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">43.3%</text>
+</g>
+<g data-preset-row="60287af6fcb06523">
 <text x="238" y="225" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Kenya</text>
 <rect x="250" y="214" width="205.0" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="224.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="459.0" y="212" width="38" height="15" fill="#fbfaf8" />
 <text x="463.0" y="225" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">37.0%</text>
+</g>
+<g data-preset-row="052b57c6ca8a6cd1">
 <text x="238" y="246" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Nigeria</text>
 <rect x="250" y="235" width="184.5" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="245.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="438.5" y="233" width="38" height="15" fill="#fbfaf8" />
 <text x="442.5" y="246" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">33.3%</text>
+</g>
+<g data-preset-row="c5f7a32745b64aba">
 <text x="238" y="267" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Libya</text>
 <rect x="250" y="256" width="182.8" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="266.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="436.8" y="254" width="38" height="15" fill="#fbfaf8" />
 <text x="440.8" y="267" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">33.0%</text>
+</g>
+<g data-preset-row="6b009cc13d92705e">
 <text x="238" y="288" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Senegal</text>
 <rect x="250" y="277" width="180.1" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="287.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="434.1" y="275" width="38" height="15" fill="#fbfaf8" />
 <text x="438.1" y="288" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">32.5%</text>
+</g>
+<g data-preset-row="1cd753361fcbbf9d">
 <text x="238" y="309" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Zimbabwe</text>
 <rect x="250" y="298" width="173.4" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="308.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="427.4" y="296" width="38" height="15" fill="#fbfaf8" />
 <text x="431.4" y="309" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">31.3%</text>
+</g>
+<g data-preset-row="f9c4c803804455a2">
 <text x="238" y="330" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Rwanda</text>
 <rect x="250" y="319" width="166.8" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="329.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="420.8" y="317" width="38" height="15" fill="#fbfaf8" />
 <text x="424.8" y="330" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">30.1%</text>
+</g>
+<g data-preset-row="3e95140d544f2d2f">
 <text x="238" y="351" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Côte d'Ivoire</text>
 <rect x="250" y="340" width="163.4" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="350.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="417.4" y="338" width="38" height="15" fill="#fbfaf8" />
 <text x="421.4" y="351" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">29.5%</text>
+</g>
+<g data-preset-row="2849443090775328">
 <text x="238" y="372" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Angola</text>
 <rect x="250" y="361" width="161.8" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="371.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="415.8" y="359" width="38" height="15" fill="#fbfaf8" />
 <text x="419.8" y="372" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">29.2%</text>
+</g>
+<g data-preset-row="1a3cca8a42af7fe8">
 <text x="238" y="393" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Ghana</text>
 <rect x="250" y="382" width="159.0" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="392.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="413.0" y="380" width="38" height="15" fill="#fbfaf8" />
 <text x="417.0" y="393" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">28.7%</text>
+</g>
+<g data-preset-row="edbd3bd03003896d">
 <text x="238" y="414" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Zambia</text>
 <rect x="250" y="403" width="148.5" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="413.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="402.5" y="401" width="38" height="15" fill="#fbfaf8" />
 <text x="406.5" y="414" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">26.8%</text>
+</g>
+<g data-preset-row="dc1813c6b54ade95">
 <text x="238" y="435" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Benin</text>
 <rect x="250" y="424" width="136.3" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="434.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="390.3" y="422" width="38" height="15" fill="#fbfaf8" />
 <text x="394.3" y="435" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">24.6%</text>
+</g>
+<g data-preset-row="51d431785c8b33e5">
 <text x="238" y="456" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Cameroon</text>
 <rect x="250" y="445" width="135.7" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="455.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="389.7" y="443" width="38" height="15" fill="#fbfaf8" />
 <text x="393.7" y="456" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">24.5%</text>
+</g>
+<g data-preset-row="81fd08ef103acc7f">
 <text x="238" y="477" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Tanzania</text>
 <rect x="250" y="466" width="131.9" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="476.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="385.9" y="464" width="38" height="15" fill="#fbfaf8" />
 <text x="389.9" y="477" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">23.8%</text>
+</g>
+<g data-preset-row="f4a3760644d064b3">
 <text x="238" y="498" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Ethiopia</text>
 <rect x="250" y="487" width="122.4" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="497.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="376.4" y="485" width="38" height="15" fill="#fbfaf8" />
 <text x="380.4" y="498" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">22.1%</text>
+</g>
+<g data-preset-row="42d218861a4adec4">
 <text x="238" y="519" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Togo</text>
 <rect x="250" y="508" width="120.2" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="518.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="374.2" y="506" width="38" height="15" fill="#fbfaf8" />
 <text x="378.2" y="519" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">21.7%</text>
+</g>
+<g data-preset-row="aa181147029727d9">
 <text x="238" y="540" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Uganda</text>
 <rect x="250" y="529" width="118.6" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="539.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="372.6" y="527" width="38" height="15" fill="#fbfaf8" />
 <text x="376.6" y="540" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">21.4%</text>
+</g>
+<g data-preset-row="db58062bde974f41">
 <text x="238" y="561" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Mozambique</text>
 <rect x="250" y="550" width="111.4" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="560.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="365.4" y="548" width="38" height="15" fill="#fbfaf8" />
 <text x="369.4" y="561" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">20.1%</text>
+</g>
+<g data-preset-row="7354ab2fd797d991">
 <text x="238" y="582" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Congo, Rep.</text>
 <rect x="250" y="571" width="109.1" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="581.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="363.1" y="569" width="38" height="15" fill="#fbfaf8" />
 <text x="367.1" y="582" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">19.7%</text>
+</g>
+<g data-preset-row="9877777b2fbda34a">
 <text x="238" y="603" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Sudan</text>
 <rect x="250" y="592" width="98.6" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="602.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="352.6" y="590" width="38" height="15" fill="#fbfaf8" />
 <text x="356.6" y="603" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">17.8%</text>
+</g>
+<g data-preset-row="de65c83170aba0bb">
 <text x="238" y="624" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Madagascar</text>
 <rect x="250" y="613" width="96.9" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="623.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="350.9" y="611" width="38" height="15" fill="#fbfaf8" />
 <text x="354.9" y="624" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">17.5%</text>
+</g>
+<g data-preset-row="d3023bf42d46fe01">
 <text x="238" y="645" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Malawi</text>
 <rect x="250" y="634" width="92.5" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="644.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="346.5" y="632" width="38" height="15" fill="#fbfaf8" />
 <text x="350.5" y="645" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">16.7%</text>
+</g>
+<g data-preset-row="8344ea95a2470f8a">
 <text x="238" y="666" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Burkina Faso</text>
 <rect x="250" y="655" width="79.2" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="665.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="333.2" y="653" width="38" height="15" fill="#fbfaf8" />
 <text x="337.2" y="666" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">14.3%</text>
+</g>
+<g data-preset-row="783a184a4940da99">
 <text x="238" y="687" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Mali</text>
 <rect x="250" y="676" width="77.6" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="686.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="331.6" y="674" width="38" height="15" fill="#fbfaf8" />
 <text x="335.6" y="687" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">14.0%</text>
+</g>
+<g data-preset-row="c046eafa1d269dd1">
 <text x="238" y="708" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Somalia, Fed. Rep.</text>
 <rect x="250" y="697" width="75.9" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="707.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="329.9" y="695" width="38" height="15" fill="#fbfaf8" />
 <text x="333.9" y="708" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">13.7%</text>
+</g>
+<g data-preset-row="ac04b6599da2e8f7">
 <text x="238" y="729" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Guinea</text>
 <rect x="250" y="718" width="75.3" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="728.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="329.3" y="716" width="38" height="15" fill="#fbfaf8" />
 <text x="333.3" y="729" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">13.6%</text>
+</g>
+<g data-preset-row="8707902e6d2c3e21">
 <text x="238" y="750" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Sierra Leone</text>
 <rect x="250" y="739" width="65.9" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="749.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="319.9" y="737" width="38" height="15" fill="#fbfaf8" />
 <text x="323.9" y="750" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">11.9%</text>
+</g>
+<g data-preset-row="ca8c6373fbefb853">
 <text x="238" y="771" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">DR Congo</text>
 <rect x="250" y="760" width="59.8" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="770.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="313.8" y="758" width="38" height="15" fill="#fbfaf8" />
 <text x="317.8" y="771" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">10.8%</text>
+</g>
+<g data-preset-row="87ef117b77654ddd">
 <text x="238" y="792" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Niger</text>
 <rect x="250" y="781" width="54.8" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="791.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="308.8" y="779" width="38" height="15" fill="#fbfaf8" />
 <text x="312.8" y="792" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">9.9%</text>
+</g>
+<g data-preset-row="3d75ccfc9d3cc858">
 <text x="238" y="813" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Chad</text>
 <rect x="250" y="802" width="54.8" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="812.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="308.8" y="800" width="38" height="15" fill="#fbfaf8" />
 <text x="312.8" y="813" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">9.9%</text>
+</g>
+<g data-preset-row="d5ddc0c8c2beb1fa">
 <text x="238" y="834" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Burundi</text>
 <rect x="250" y="823" width="52.1" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="833.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="306.1" y="821" width="38" height="15" fill="#fbfaf8" />
 <text x="310.1" y="834" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">9.4%</text>
+</g>
+<g data-preset-row="38881cf745983ebb">
 <text x="238" y="855" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">South Sudan</text>
 <rect x="250" y="844" width="18.3" height="13" fill="#fbfaf8" data-status="modelled" stroke="#6b5b8a" stroke-width="1"><title>modelled</title></rect>
 <text x="252.0" y="854.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true">∿</text><rect x="272.3" y="842" width="38" height="15" fill="#fbfaf8" />
 <text x="276.3" y="855" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">3.3%</text>
+</g>
 <line x1="250" y1="864" x2="804.0" y2="864" stroke="#ddd8d0" />
 <line x1="250.0" y1="864" x2="250.0" y2="869" stroke="#ddd8d0" />
 <text x="250.0" y="882" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="10.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">0%</text>

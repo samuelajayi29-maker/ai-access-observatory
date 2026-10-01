@@ -49,30 +49,50 @@
 <text x="916" y="303.1" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">$7 per standard workload</text>
 <text x="104" y="136" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">cost of the standard workload, USD, log scale</text>
 <text x="104" y="594" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">capability, Artificial Analysis Intelligence Index, on the index as restated in September 2026</text>
+<g data-preset-row="24e5ffcee70bedcf">
 <text x="590.0" y="196.7" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Claude Fable 5.1 · GPT-6 Astra</text>
 <circle cx="579.0" cy="191.7" r="4.6" fill="#fbfaf8" stroke="#6b5b8a" stroke-width="1" data-status="modelled"><title>modelled</title></circle>
-<text x="579.0" y="194.7" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true" text-anchor="middle">∿</text><line x1="449.1" y1="240.2" x2="464.1" y2="209.2" stroke="#ddd8d0" stroke-width="1" />
+<text x="579.0" y="194.7" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true" text-anchor="middle">∿</text></g>
+<g data-preset-row="4c15583ff6e2f485">
+<line x1="449.1" y1="240.2" x2="464.1" y2="209.2" stroke="#ddd8d0" stroke-width="1" />
 <text x="460.1" y="213.2" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">GPT-5.6 Sol</text>
 <circle cx="449.1" cy="240.2" r="4.6" fill="#fbfaf8" stroke="#6b5b8a" stroke-width="1" data-status="modelled"><title>modelled</title></circle>
-<text x="449.1" y="243.2" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true" text-anchor="middle">∿</text><line x1="526.2" y1="248.9" x2="541.2" y2="297.9" stroke="#ddd8d0" stroke-width="1" />
+<text x="449.1" y="243.2" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true" text-anchor="middle">∿</text></g>
+<g data-preset-row="cd8eedc764b60783">
+<line x1="526.2" y1="248.9" x2="541.2" y2="297.9" stroke="#ddd8d0" stroke-width="1" />
 <text x="537.2" y="301.9" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Claude Opus 5</text>
 <circle cx="526.2" cy="248.9" r="4.6" fill="#fbfaf8" stroke="#6b5b8a" stroke-width="1" data-status="modelled"><title>modelled</title></circle>
-<text x="526.2" y="251.9" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true" text-anchor="middle">∿</text><text x="391.1" y="296.1" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Kimi K3 (max)</text>
+<text x="526.2" y="251.9" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true" text-anchor="middle">∿</text></g>
+<g data-preset-row="8ca53a3da78eb5e8">
+<text x="391.1" y="296.1" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Kimi K3 (max)</text>
 <circle cx="380.1" cy="291.1" r="4.6" fill="#fbfaf8" stroke="#6b5b8a" stroke-width="1" data-status="modelled"><title>modelled</title></circle>
-<text x="380.1" y="294.1" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true" text-anchor="middle">∿</text><line x1="349.6" y1="297.4" x2="364.6" y2="314.4" stroke="#ddd8d0" stroke-width="1" />
+<text x="380.1" y="294.1" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true" text-anchor="middle">∿</text></g>
+<g data-preset-row="2719c688ad2de027">
+<line x1="349.6" y1="297.4" x2="364.6" y2="314.4" stroke="#ddd8d0" stroke-width="1" />
 <text x="360.6" y="318.4" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">GPT-5.6 Terra</text>
 <circle cx="349.6" cy="297.4" r="4.6" fill="#fbfaf8" stroke="#6b5b8a" stroke-width="1" data-status="modelled"><title>modelled</title></circle>
-<text x="349.6" y="300.4" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true" text-anchor="middle">∿</text><text x="537.2" y="329.5" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Claude Opus 5 (routed)</text>
+<text x="349.6" y="300.4" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true" text-anchor="middle">∿</text></g>
+<g data-preset-row="9e0dc31d2bbeb630">
+<text x="537.2" y="329.5" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Claude Opus 5 (routed)</text>
 <circle cx="526.2" cy="324.5" r="4.6" fill="#fbfaf8" stroke="#6b5b8a" stroke-width="1" data-status="modelled"><title>modelled</title></circle>
-<text x="526.2" y="327.5" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true" text-anchor="middle">∿</text><text x="405.3" y="350.3" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Grok 4.6</text>
+<text x="526.2" y="327.5" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true" text-anchor="middle">∿</text></g>
+<g data-preset-row="4e2ddcfc52b369f9">
+<text x="405.3" y="350.3" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Grok 4.6</text>
 <circle cx="394.3" cy="345.3" r="4.6" fill="#fbfaf8" stroke="#6b5b8a" stroke-width="1" data-status="modelled"><title>modelled</title></circle>
-<text x="394.3" y="348.3" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true" text-anchor="middle">∿</text><text x="263.2" y="378.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">GPT-5.6 Luna</text>
+<text x="394.3" y="348.3" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true" text-anchor="middle">∿</text></g>
+<g data-preset-row="95d3f179cfe80e1b">
+<text x="263.2" y="378.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">GPT-5.6 Luna</text>
 <circle cx="252.2" cy="373.0" r="4.6" fill="#fbfaf8" stroke="#6b5b8a" stroke-width="1" data-status="modelled"><title>modelled</title></circle>
-<text x="252.2" y="376.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true" text-anchor="middle">∿</text><text x="336.3" y="410.5" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Gemini 3.8 Flash</text>
+<text x="252.2" y="376.0" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true" text-anchor="middle">∿</text></g>
+<g data-preset-row="1b6b70b55ddf774f">
+<text x="336.3" y="410.5" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Gemini 3.8 Flash</text>
 <circle cx="325.3" cy="405.5" r="4.6" fill="#fbfaf8" stroke="#6b5b8a" stroke-width="1" data-status="modelled"><title>modelled</title></circle>
-<text x="325.3" y="408.5" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true" text-anchor="middle">∿</text><text x="236.8" y="441.8" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">DeepSeek V4 Pro 0813 (max)</text>
+<text x="325.3" y="408.5" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true" text-anchor="middle">∿</text></g>
+<g data-preset-row="39ee5ea823fb8346">
+<text x="236.8" y="441.8" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">DeepSeek V4 Pro 0813 (max)</text>
 <circle cx="225.8" cy="436.8" r="4.6" fill="#fbfaf8" stroke="#6b5b8a" stroke-width="1" data-status="modelled"><title>modelled</title></circle>
-<text x="225.8" y="439.8" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true" text-anchor="middle">∿</text><text x="28" y="618" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Raw spread across every model priced, cheapest to dearest: 19x. That measures product segmentation, not what any market pays for the same</text>
+<text x="225.8" y="439.8" font-family="'IBM Plex Mono',Consolas,monospace" font-size="8" fill="#6b5b8a" aria-hidden="true" text-anchor="middle">∿</text></g>
+<text x="28" y="618" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Raw spread across every model priced, cheapest to dearest: 19x. That measures product segmentation, not what any market pays for the same</text>
 <text x="28" y="635" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">capability.</text>
 <text x="28" y="652" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Not plotted, no score on the restated index: DeepSeek V4 Flash 0731, Muse Spark 1.1. They are in the register and in the data table, flagged.</text>
 <line x1="28" y1="654" x2="932" y2="654" stroke="#ddd8d0" />
