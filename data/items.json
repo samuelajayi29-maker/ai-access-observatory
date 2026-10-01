@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30",
+ "updated": "2026-10-01",
  "schema": 1,
  "buckets": {
   "jobs": {
@@ -9,6 +9,20 @@
      "t": "Ema raises $77Mn to take AI agents into IT services work",
      "u": "https://news.outsourceaccelerator.com/ema-series-b-funding/",
      "s": "Outsource Accelerator",
+     "d": "Sep 30",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Concentrix takes $1.05bn impairment as AI-era deals reach 50% of revenue",
+     "u": "https://news.outsourceaccelerator.com/concentrix-q3-2026-results/",
+     "s": "Outsource Accelerator",
+     "d": "Sep 30",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Nutun eyes global deployment of AI debt collector",
+     "u": "https://www.itweb.co.za/article/nutun-eyes-global-deployment-of-ai-debt-collector/WnxpEv4Yy6Z7V8XL",
+     "s": "ITWeb",
      "d": "Sep 30",
      "dot": "dot-jobs"
     },
@@ -822,6 +836,34 @@
   "access": {
    "label": "Access & Pricing",
    "items": [
+    {
+     "t": "How did the next billion users become collateral damage in the AI race?",
+     "u": "https://techafricanews.com/2026/10/01/mobile-internet-growth-slowdown-ai-smartphone-affordability/",
+     "s": "TechAfrica News",
+     "d": "Oct 1",
+     "dot": "dot-access"
+    },
+    {
+     "t": "GSMA warns of widening AI divide as 3.4 billion people remain offline",
+     "u": "https://independent.ng/gsma-warns-of-widening-ai-divide-as-3-4bn-people-remain-offine/",
+     "s": "Independent Nigeria",
+     "d": "Oct 1",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Huawei's Mate 90 bets on 3D chip design to get around US curbs",
+     "u": "https://techcentral.co.za/huawei-mate-90-logicfolding-chip/286729/",
+     "s": "TechCentral",
+     "d": "Oct 1",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead",
+     "u": "https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/",
+     "s": "The Decoder",
+     "d": "Sep 30",
+     "dot": "dot-price"
+    },
     {
      "t": "OpenAI cancels October launch of GPT-6.1 Astra",
      "u": "https://techcentral.co.za/openai-cancels-gpt-6-1-astra-launch/286566/",
@@ -1899,6 +1941,13 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "NCC calls for increased investment in Nigeria's telecoms infrastructure",
+     "u": "https://techafricanews.com/2026/10/01/ncc-calls-for-increased-investment-in-nigerias-telecoms-infrastructure/",
+     "s": "TechAfrica News",
+     "d": "Oct 1",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Vodacom to deploy Nokia's passive-active massive MIMO solution",
      "u": "https://www.developingtelecoms.com/telecom-technology/wireless-networks/20898-vodacom-to-deploy-nokias-passive-active-massive-mimo-solution.html",
      "s": "Developing Telecoms",
@@ -1909,6 +1958,20 @@
      "t": "Wetech Conference: Africa must build its own AI, integrate more women in decision-making",
      "u": "https://techpoint.africa/coverage/wetech-conference-event-coverage/",
      "s": "Techpoint Africa",
+     "d": "Sep 30",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Nigeria AI Collective to host Africa's first shared compute and AI infrastructure conference",
+     "u": "https://techcabal.com/2026/09/30/nigeria-ai-collective-set-to-host-africas-first-shared-compute-and-ai-infrastructure-conference-build-2026/",
+     "s": "TechCabal",
+     "d": "Sep 30",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Kenya joins digital bloc as AI and data rules take shape",
+     "u": "https://techtrendske.co.ke/2026/09/30/kenya-digital-cooperation-organization/",
+     "s": "TechTrendsKE",
      "d": "Sep 30",
      "dot": "dot-infra"
     },

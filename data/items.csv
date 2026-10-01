@@ -1,5 +1,7 @@
 bucket,date,source,title,url
 jobs,Sep 30,Outsource Accelerator,Ema raises $77Mn to take AI agents into IT services work,https://news.outsourceaccelerator.com/ema-series-b-funding/
+jobs,Sep 30,Outsource Accelerator,Concentrix takes $1.05bn impairment as AI-era deals reach 50% of revenue,https://news.outsourceaccelerator.com/concentrix-q3-2026-results/
+jobs,Sep 30,ITWeb,Nutun eyes global deployment of AI debt collector,https://www.itweb.co.za/article/nutun-eyes-global-deployment-of-ai-debt-collector/WnxpEv4Yy6Z7V8XL
 jobs,Sep 29,TechCabal,The competency illusion: Why Africa’s tech ecosystem is firing top engineers,https://techcabal.com/2026/09/29/why-africas-tech-ecosystem-is-firing-top-engineers/
 jobs,Sep 29,BusinessDay,Top Nigerian higher institutions leading the AI revolution,https://businessday.ng/education/article/top-nigerian-higher-institutions-leading-the-ai-revolution/
 jobs,Sep 29,arXiv cs.CY,Is AI Widening the Wage Gap? A Hybrid Agentic Simulation for Labor Equity,https://arxiv.org/abs/2609.33367
@@ -115,6 +117,10 @@ jobs,May 16,UN Economic Commission for Africa,AI and jobs in Africa: turning dis
 jobs,Apr 25,Mastercard Foundation,40% of Tasks in Africa's Tech Outsourcing May Be Affected by AI by 2030,https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/
 jobs,Mar 31,WeeTracker,South Africa's gig economy becomes a bargain with AI skills shortage looming,https://weetracker.com/2026/03/31/south-africa-freelance-economy-ai-talent-gap-2026/
 jobs,Dec 25,"Deric Cheng, AI Frontiers",AI Could Undermine Emerging Economies,https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies
+access,Oct 1,TechAfrica News,How did the next billion users become collateral damage in the AI race?,https://techafricanews.com/2026/10/01/mobile-internet-growth-slowdown-ai-smartphone-affordability/
+access,Oct 1,Independent Nigeria,GSMA warns of widening AI divide as 3.4 billion people remain offline,https://independent.ng/gsma-warns-of-widening-ai-divide-as-3-4bn-people-remain-offine/
+access,Oct 1,TechCentral,Huawei's Mate 90 bets on 3D chip design to get around US curbs,https://techcentral.co.za/huawei-mate-90-logicfolding-chip/286729/
+access,Sep 30,The Decoder,Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead,https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/
 access,Sep 29,TechCentral,OpenAI cancels October launch of GPT-6.1 Astra,https://techcentral.co.za/openai-cancels-gpt-6-1-astra-launch/286566/
 access,Sep 29,TechCentral,Anthropic IPO: AI will outstrip electricity and the internet,https://techcentral.co.za/anthropic-ipo-ai-outstrip-electricity-internet/286562/
 access,Sep 29,Memeburn,Vivo X Fold 6 launch date leak: a RAM cut and harder price math,https://memeburn.com/vivo-x-fold-6-launch-date/
@@ -268,8 +274,11 @@ access,May 27,Trustonic,"Deconstructing Africa's smartphone market: shipments, p
 access,May 26,"David Oks, Substack",AI Is Killing the Cheap Smartphone,https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone
 access,Apr 15,Japan Times / AFP,AI-driven chip shortage slowing efforts to get world online: GSMA,https://www.thejapantimes.jp/Technology/658420-ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma.html
 access,Feb 26,Techpoint Africa,AI Chip Demand — Smartphone Prices in Nigeria,https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/
+infra,Oct 1,TechAfrica News,NCC calls for increased investment in Nigeria's telecoms infrastructure,https://techafricanews.com/2026/10/01/ncc-calls-for-increased-investment-in-nigerias-telecoms-infrastructure/
 infra,Sep 30,Developing Telecoms,Vodacom to deploy Nokia's passive-active massive MIMO solution,https://www.developingtelecoms.com/telecom-technology/wireless-networks/20898-vodacom-to-deploy-nokias-passive-active-massive-mimo-solution.html
 infra,Sep 30,Techpoint Africa,"Wetech Conference: Africa must build its own AI, integrate more women in decision-making",https://techpoint.africa/coverage/wetech-conference-event-coverage/
+infra,Sep 30,TechCabal,Nigeria AI Collective to host Africa's first shared compute and AI infrastructure conference,https://techcabal.com/2026/09/30/nigeria-ai-collective-set-to-host-africas-first-shared-compute-and-ai-infrastructure-conference-build-2026/
+infra,Sep 30,TechTrendsKE,Kenya joins digital bloc as AI and data rules take shape,https://techtrendske.co.ke/2026/09/30/kenya-digital-cooperation-organization/
 infra,Sep 29,TechAfrica News,The AU’s Question: What 55 Countries Need to Agree on Before Africa Can Govern AI,https://techafricanews.com/2026/09/29/the-aus-question-what-55-countries-need-to-agree-on-before-africa-can-govern-ai/
 infra,Sep 29,FurtherAfrica,Africa AI solutions must grow from local soil,https://furtherafrica.com/2026/09/29/africa-ai-solutions-must-grow-from-local-soil/
 infra,Sep 29,arXiv cs.CY,Beyond Energy: When Sustainability Dimensions Reshape LLM Serving Decisions,https://arxiv.org/abs/2609.35569
