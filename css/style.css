@@ -1083,3 +1083,6 @@ tr[data-status="modelled"] > td:first-child::before { content: '∿ '; color: va
 [data-preset-panel] button{padding:.65rem;font:inherit;color:var(--ink);background:var(--paper);border:1px solid var(--rule-strong);cursor:pointer}
 [data-preset-panel] button:hover{border-color:var(--ink)}
 
+
+/* Source-specific evidence collections */
+.priority-scroll{max-width:100%;overflow-x:auto;max-height:32rem}.priority-evidence h3{margin-top:var(--s-6)}.priority-evidence dt{font-weight:600;margin-top:var(--s-3)}.priority-evidence dd{margin-left:0}.priority-evidence td{vertical-align:top}.priority-evidence summary{line-height:1.5}

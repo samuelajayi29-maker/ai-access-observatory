@@ -3031,7 +3031,8 @@
    "topic": "Model prices",
    "related_registers": [
     "model-prices.csv",
-    "prices.json"
+    "prices.json",
+    "published-chart-presets.json"
    ],
    "duplicate_of": "",
    "note": "The source is linked in a register. Its other facts still need review.",
@@ -3082,7 +3083,8 @@
    "topic": "Model prices",
    "related_registers": [
     "model-prices.csv",
-    "prices.json"
+    "prices.json",
+    "published-chart-presets.json"
    ],
    "duplicate_of": "",
    "note": "The source is linked in a register. Its other facts still need review.",
@@ -3553,6 +3555,7 @@
     "free-tier-register.csv",
     "model-prices.csv",
     "prices.json",
+    "published-chart-presets.json",
     "subscription-register.csv"
    ],
    "duplicate_of": "",
@@ -3864,7 +3867,8 @@
    "topic": "Model prices",
    "related_registers": [
     "model-prices.csv",
-    "prices.json"
+    "prices.json",
+    "published-chart-presets.json"
    ],
    "duplicate_of": "",
    "note": "The source is linked in a register. Its other facts still need review.",
@@ -3979,7 +3983,8 @@
    "topic": "Model prices",
    "related_registers": [
     "model-prices.csv",
-    "prices.json"
+    "prices.json",
+    "published-chart-presets.json"
    ],
    "duplicate_of": "",
    "note": "The source is linked in a register. Its other facts still need review.",
@@ -4174,7 +4179,8 @@
    "topic": "Model prices",
    "related_registers": [
     "model-prices.csv",
-    "prices.json"
+    "prices.json",
+    "published-chart-presets.json"
    ],
    "duplicate_of": "",
    "note": "The source is linked in a register. Its other facts still need review.",
@@ -5250,7 +5256,8 @@
    "related_registers": [
     "indicators.json",
     "infra-projects.csv",
-    "infrastructure.json"
+    "infrastructure.json",
+    "published-chart-presets.json"
    ],
    "duplicate_of": "",
    "note": "Primary source reviewed. Findings are in the signal evidence register with their scope, period and status.",
@@ -6044,7 +6051,8 @@
    "topic": "Capacity and investment",
    "related_registers": [
     "infra-projects.csv",
-    "infrastructure.json"
+    "infrastructure.json",
+    "published-chart-presets.json"
    ],
    "duplicate_of": "",
    "note": "The source is linked in a register. Its other facts still need review.",
@@ -6111,7 +6119,8 @@
    "topic": "Capacity and investment",
    "related_registers": [
     "infra-projects.csv",
-    "infrastructure.json"
+    "infrastructure.json",
+    "published-chart-presets.json"
    ],
    "duplicate_of": "",
    "note": "The source is linked in a register. Its other facts still need review.",
@@ -6213,7 +6222,8 @@
    "topic": "Context and research",
    "related_registers": [
     "infra-projects.csv",
-    "infrastructure.json"
+    "infrastructure.json",
+    "published-chart-presets.json"
    ],
    "duplicate_of": "",
    "note": "The source is linked in a register. Its other facts still need review.",
@@ -6284,7 +6294,8 @@
    "related_registers": [
     "indicators.json",
     "infra-projects.csv",
-    "infrastructure.json"
+    "infrastructure.json",
+    "published-chart-presets.json"
    ],
    "duplicate_of": "",
    "note": "The source is linked in a register. Its other facts still need review.",
@@ -6399,7 +6410,8 @@
    "topic": "Context and research",
    "related_registers": [
     "infra-projects.csv",
-    "infrastructure.json"
+    "infrastructure.json",
+    "published-chart-presets.json"
    ],
    "duplicate_of": "",
    "note": "The source is linked in a register. Its other facts still need review.",
@@ -6434,7 +6446,8 @@
    "topic": "Capacity and investment",
    "related_registers": [
     "infra-projects.csv",
-    "infrastructure.json"
+    "infrastructure.json",
+    "published-chart-presets.json"
    ],
    "duplicate_of": "",
    "note": "The source is linked in a register. Its other facts still need review.",
@@ -6837,7 +6850,8 @@
    "topic": "Context and research",
    "related_registers": [
     "infra-projects.csv",
-    "infrastructure.json"
+    "infrastructure.json",
+    "published-chart-presets.json"
    ],
    "duplicate_of": "",
    "note": "The source is linked in a register. Its other facts still need review.",
@@ -6905,7 +6919,8 @@
    "related_registers": [
     "indicators.json",
     "infra-projects.csv",
-    "infrastructure.json"
+    "infrastructure.json",
+    "published-chart-presets.json"
    ],
    "duplicate_of": "",
    "note": "The source is linked in a register. Its other facts still need review.",
@@ -6976,7 +6991,8 @@
    "topic": "Capacity and investment",
    "related_registers": [
     "infra-projects.csv",
-    "infrastructure.json"
+    "infrastructure.json",
+    "published-chart-presets.json"
    ],
    "duplicate_of": "",
    "note": "The source is linked in a register. Its other facts still need review.",
@@ -6996,7 +7012,8 @@
    "related_registers": [
     "indicators.json",
     "infra-projects.csv",
-    "infrastructure.json"
+    "infrastructure.json",
+    "published-chart-presets.json"
    ],
    "duplicate_of": "",
    "note": "The source is linked in a register. Its other facts still need review.",
@@ -7751,7 +7768,8 @@
    "topic": "Capacity and investment",
    "related_registers": [
     "infra-projects.csv",
-    "infrastructure.json"
+    "infrastructure.json",
+    "published-chart-presets.json"
    ],
    "duplicate_of": "",
    "note": "The source is linked in a register. Its other facts still need review.",
