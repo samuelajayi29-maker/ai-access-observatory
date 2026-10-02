@@ -37,11 +37,14 @@
   var theme = {paper: style.getPropertyValue('--paper').trim(), ink: style.getPropertyValue('--ink').trim(),
     rule: style.getPropertyValue('--rule').trim(), note: style.getPropertyValue('--ink-note').trim(), accent: style.getPropertyValue('--action').trim()};
   host.innerHTML = '<div class="chart-controls">' +
+    '<label>Pillar<select data-cb-pillar><option value="">All pillars</option><option value="jobs">Jobs</option><option value="access">Access</option><option value="infrastructure">Infrastructure</option><option value="signals">Signals</option></select></label>' +
+    '<label>Country focus<select data-cb-country><option value="">Compare across countries / all records</option></select></label>' +
     '<label>Measure<select data-cb-series></select></label>' +
+    '<label>Observation period<select data-cb-period><option value="">All available periods</option></select></label>' +
     '<label>Chart title<input data-cb-title maxlength="100"></label>' +
     '<label>Display<select data-cb-type><option value="bars">Horizontal bars</option><option value="dots">Dot plot</option></select></label>' +
     '<label>Order<select data-cb-order><option value="value">Highest value first</option><option value="name">Name A–Z</option></select></label></div>' +
-    '<p data-cb-definition></p><p class="coverage-note" data-cb-coverage></p>' +
+    '<p data-cb-definition></p><p class="coverage-note" data-cb-coverage></p><p class="explorer-selection-summary" data-cb-summary role="status"></p>' +
     '<div class="chart-workspace"><fieldset class="chart-picker"><legend>Select records (up to 20)</legend>' +
     '<label>Find a country, model or project<input type="search" data-cb-search></label>' +
     '<div class="chart-actions"><button type="button" data-cb-visible>Select visible</button><button type="button" data-cb-clear>Clear selection</button></div>' +
@@ -56,6 +59,10 @@
   var select = get('[data-cb-series]'), title = get('[data-cb-title]'), type = get('[data-cb-type]'), order = get('[data-cb-order]');
   var search = get('[data-cb-search]'), list = get('[data-cb-rows]'), preview = get('[data-cb-preview]');
   var message = get('[data-cb-message]');
+  var pillarFilter=get('[data-cb-pillar]'), countryFilter=get('[data-cb-country]'), periodFilter=get('[data-cb-period]');
+  (payload.countries || []).slice().sort(function(a,b){return a.name.localeCompare(b.name);}).forEach(function(c){var option=document.createElement('option');option.value=c.iso3;option.textContent=c.name;countryFilter.appendChild(option);});
+  pillarFilter.value=params.get('pillar') || (params.has('chart') ? initial.pillar : '');
+  countryFilter.value=params.get('country') || '';
   var groups = {};
   series.forEach(function (s) {
     if (!groups[s.pillar]) {
@@ -79,7 +86,7 @@
   }
   function visibleRows() {
     var q = search.value.toLocaleLowerCase().trim();
-    return sortedRows().filter(function (r) { return !q || (r.label+' '+r.country).toLocaleLowerCase().includes(q); });
+    return sortedRows().filter(function (r) { return (!countryFilter.value || r.country===countryFilter.value) && (!periodFilter.value || r.period===periodFilter.value) && (!q || (r.label+' '+r.country).toLocaleLowerCase().includes(q)); });
   }
   function chosenRows() { return sortedRows().filter(function (r) { return selected.has(r.id); }); }
   function drawPicker() {
@@ -227,12 +234,21 @@
   }
   function render() {
     var rows=chosenRows(); drawChart(rows); drawTable(rows);
+    var values=rows.filter(hasValue).map(function(r){return r.value;}).sort(function(a,b){return a-b;});
+    var periods=new Set(rows.filter(hasValue).map(function(r){return r.period;}));
+    var summary=values.length+' selected values; '+(rows.length-values.length)+' missing.';
+    if(values.length){var middle=Math.floor(values.length/2),median=values.length%2 ? values[middle] : (values[middle-1]+values[middle])/2;summary+=' Range: '+format.format(values[0])+'–'+format.format(values[values.length-1])+' '+current.unit+'. Median: '+format.format(median)+' '+current.unit+'.';}
+    if(periods.size>1)summary+=' Multiple observation periods selected. This is not a like-for-like time comparison.';
+    get('[data-cb-summary]').textContent=summary;
     get('[data-cb-count]').textContent=selected.size+' selected · '+visibleRows().length+' visible of '+current.rows.length+'. '+selectionNotice;
     host.querySelectorAll('[data-cb-export], [data-cb-share]').forEach(function(b){b.disabled=!rows.length;});
     get('.chart-share-fallback').hidden=true;
   }
   function activate(s,restore) {
     current=s; selected.clear(); select.value=s.id; search.value=''; selectionNotice='';
+    periodFilter.replaceChildren();var allPeriod=document.createElement('option');allPeriod.value='';allPeriod.textContent='All available periods';periodFilter.appendChild(allPeriod);
+    Array.from(new Set(s.rows.filter(function(r){return !countryFilter.value || r.country===countryFilter.value;}).map(function(r){return r.period;}))).sort().forEach(function(period){var option=document.createElement('option');option.value=period;option.textContent=period;periodFilter.appendChild(option);});
+    if(restore && params.get('period'))periodFilter.value=params.get('period');
     title.value=restore && params.get('chartTitle') ? params.get('chartTitle').slice(0,100) : s.title.slice(0,100);
     if(restore && ['bars','dots'].includes(params.get('chartStyle'))) type.value=params.get('chartStyle');
     if(restore && ['value','name'].includes(params.get('chartOrder'))) order.value=params.get('chartOrder');
@@ -243,7 +259,7 @@
       if(params.get('chartVersion') && params.get('chartVersion')!==s.revision) selectionNotice+=' Data has changed since this link was created.';
     } else {
       var coverage=coverageOf(s);
-      sortedRows().filter(hasValue).slice(0,8).forEach(function(r){selected.add(r.id);});
+      visibleRows().filter(hasValue).slice(0,8).forEach(function(r){selected.add(r.id);});
       if (!coverage.known) selectionNotice='This measure has no published values. Records remain selectable below.';
       else if (coverage.missingRate>SPARSE_THRESHOLD) selectionNotice='Starting with published values. Records with no information remain selectable below.';
     }
@@ -290,6 +306,18 @@
     } catch(error) {message.textContent=error.message || 'Export failed. Please try SVG or CSV.';}
   }
   select.addEventListener('change',function(){activate(series.find(function(s){return s.id===select.value;}),false);});
+  function eligibleSeries(){return series.filter(function(s){return (!pillarFilter.value || s.pillar===pillarFilter.value) && (!countryFilter.value || s.rows.some(function(r){return r.country===countryFilter.value;}));});}
+  function filterMeasures(restore){
+    var available=eligibleSeries(),notice='';
+    // Some pillars contain only continent-wide records. Make the empty combination explicit.
+    if(!available.length){countryFilter.value='';available=eligibleSeries();notice='This pillar has no country-level measures; country focus was cleared to show all records.';}
+    Array.from(select.options).forEach(function(option){option.hidden=!available.some(function(s){return s.id===option.value;});option.disabled=option.hidden;});
+    var wanted=available.find(function(s){return s.id===current.id;}) || available[0];
+    if(wanted)activate(wanted,restore);
+    if(notice)message.textContent=notice;
+  }
+  pillarFilter.addEventListener('change',function(){filterMeasures(false);});countryFilter.addEventListener('change',function(){filterMeasures(false);});
+  periodFilter.addEventListener('change',function(){selected.clear();visibleRows().filter(hasValue).slice(0,8).forEach(function(r){selected.add(r.id);});drawPicker();render();});
   search.addEventListener('input',drawPicker);
   title.addEventListener('input',render);type.addEventListener('change',render);
   order.addEventListener('change',function(){drawPicker();render();});
@@ -300,9 +328,10 @@
     var url=new URL(payload.page,BASE_URL());url.hash='make-a-chart';
     url.searchParams.set('chart',current.id);url.searchParams.set('records',Array.from(selected).join(','));
     url.searchParams.set('chartTitle',title.value);url.searchParams.set('chartStyle',type.value);url.searchParams.set('chartOrder',order.value);url.searchParams.set('chartVersion',current.revision);
+    if(pillarFilter.value)url.searchParams.set('pillar',pillarFilter.value);if(countryFilter.value)url.searchParams.set('country',countryFilter.value);if(periodFilter.value)url.searchParams.set('period',periodFilter.value);
     try {if(!navigator.clipboard) throw new Error();await navigator.clipboard.writeText(url.href);message.textContent='Chart link copied. It reopens this selection using the current published register.';}
     catch(_){get('.chart-share-fallback').hidden=false;get('[data-cb-link]').value=url.href;get('[data-cb-link]').select();message.textContent='Copy the link below.';}
   });
   document.addEventListener("observatory-theme-change", render);
-  activate(initial,params.has('chart'));
+  filterMeasures(params.has('chart'));
 })();
