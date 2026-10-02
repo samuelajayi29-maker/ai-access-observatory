@@ -1,10 +1,24 @@
 {
- "updated": "2026-10-01",
+ "updated": "2026-10-02",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "California bans AI-only firings, requires AI layoff notices",
+     "u": "https://news.outsourceaccelerator.com/california-ai-worker-laws/",
+     "s": "Outsource Accelerator",
+     "d": "Oct 2",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Sri Lanka's ICT/BPM exports drop 10.5% even as services rise",
+     "u": "https://news.outsourceaccelerator.com/sri-lanka-ict-bpm-exports-august/",
+     "s": "Outsource Accelerator",
+     "d": "Oct 1",
+     "dot": "dot-jobs"
+    },
     {
      "t": "Ema raises $77Mn to take AI agents into IT services work",
      "u": "https://news.outsourceaccelerator.com/ema-series-b-funding/",
@@ -23,6 +37,13 @@
      "t": "Nutun eyes global deployment of AI debt collector",
      "u": "https://www.itweb.co.za/article/nutun-eyes-global-deployment-of-ai-debt-collector/WnxpEv4Yy6Z7V8XL",
      "s": "ITWeb",
+     "d": "Sep 30",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "AI skills now among South Africa's hardest to recruit as employers cool on hiring abroad",
+     "u": "https://iafrica.com/ai-skills-now-among-south-africas-hardest-to-recruit-as-employers-cool-on-hiring-abroad/",
+     "s": "iAfrica",
      "d": "Sep 30",
      "dot": "dot-jobs"
     },
@@ -858,9 +879,51 @@
      "dot": "dot-access"
     },
     {
+     "t": "Zero-rated: NCC and telcos roll out free 3GB/month mobile data for 5 million students",
+     "u": "https://technext24.com/news/ncc-telcos-free-3gb-month-data-5m-students/",
+     "s": "Technext24",
+     "d": "Oct 1",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Whispers to the machine: the secrets 1,200 Kenyans only tell their screen",
+     "u": "https://techcabal.com/2026/10/01/secrets-kenyans-only-tell-their-screen/",
+     "s": "TechCabal",
+     "d": "Oct 1",
+     "dot": "dot-access"
+    },
+    {
+     "t": "OpenAI DevDay 2026 recap: 20+ launches and a quiet price reset",
+     "u": "https://memeburn.com/openai-devday-2026-recap/",
+     "s": "Memeburn",
+     "d": "Oct 1",
+     "dot": "dot-price"
+    },
+    {
+     "t": "RAM supply set to worsen, says Micron, as memory prices stay high",
+     "u": "https://www.theregister.com/systems/2026/10/01/ram-supply-set-to-worsen-says-micron-as-ceo-celebrates-much-higher-prices/5300346",
+     "s": "The Register",
+     "d": "Oct 1",
+     "dot": "dot-price"
+    },
+    {
+     "t": "How people use ChatGPT: conversation-level evidence from India, Nigeria, Brazil and Pakistan",
+     "u": "https://arxiv.org/abs/2609.38279",
+     "s": "arXiv",
+     "d": "Oct 1",
+     "dot": "dot-arxiv"
+    },
+    {
      "t": "Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead",
      "u": "https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/",
      "s": "The Decoder",
+     "d": "Sep 30",
+     "dot": "dot-price"
+    },
+    {
+     "t": "AI server demand sustains memory contract price increases in 4Q26",
+     "u": "https://www.trendforce.com/presscenter/news/20260930-13258.html",
+     "s": "TrendForce",
      "d": "Sep 30",
      "dot": "dot-price"
     },
@@ -1941,9 +2004,44 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "Starlink backhaul in Nigeria tests rural tower economics",
+     "u": "https://furtherafrica.com/2026/10/02/starlink-backhaul-nigeria-tests-rural-tower-economics/",
+     "s": "FurtherAfrica",
+     "d": "Oct 2",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "African AI training opens free for public officials",
+     "u": "https://furtherafrica.com/2026/10/02/african-ai-training-opens-free-for-public-officials/",
+     "s": "FurtherAfrica",
+     "d": "Oct 2",
+     "dot": "dot-infra"
+    },
+    {
      "t": "NCC calls for increased investment in Nigeria's telecoms infrastructure",
      "u": "https://techafricanews.com/2026/10/01/ncc-calls-for-increased-investment-in-nigerias-telecoms-infrastructure/",
      "s": "TechAfrica News",
+     "d": "Oct 1",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Nigeria needs more data centres as AI, cloud demand surges",
+     "u": "https://itpulse.com.ng/nigeria-needs-more-data-centres-as-ai-cloud-demand-surges/",
+     "s": "ITPulse",
+     "d": "Oct 1",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Can global energy demand for AI help electrify rural Africa?",
+     "u": "https://www.theafricareport.com/431971/can-global-energy-demand-for-ai-help-electrify-rural-africa/",
+     "s": "The Africa Report",
+     "d": "Oct 1",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Space-tech Satlyt raises $8m to build AI data centres in space",
+     "u": "https://techcabal.com/2026/10/01/the-plan-to-build-virtual-data-centres-in-space-just-got-8-million-backing/",
+     "s": "TechCabal",
      "d": "Oct 1",
      "dot": "dot-infra"
     },
@@ -1972,6 +2070,20 @@
      "t": "Kenya joins digital bloc as AI and data rules take shape",
      "u": "https://techtrendske.co.ke/2026/09/30/kenya-digital-cooperation-organization/",
      "s": "TechTrendsKE",
+     "d": "Sep 30",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Africa-US subsea cable route gets a capacity upgrade",
+     "u": "https://techcentral.co.za/africa-us-subsea-cable-upgrade/286683/",
+     "s": "TechCentral",
+     "d": "Sep 30",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Continent 8 launches Johannesburg data centre, its first in Africa",
+     "u": "https://www.continent8.com/continent-8-technologies-launches-in-south-africa-extending-its-private-global-network-into-africa/",
+     "s": "Continent 8",
      "d": "Sep 30",
      "dot": "dot-infra"
     },
