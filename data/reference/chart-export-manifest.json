@@ -1,46 +1,46 @@
 {
  "infra-capacity-by-status": {
-  "svg": "d855ab018fae312dfd92fbbb54d84b1e92b7dfdc566f6a36e7f150a3d18dd9a3",
+  "svg": "2082490be15318c1583c8d1981adba4d117c35f17092f520dc4c5d0a34703775",
   "csv": "3a5498e157a6f5f447ba659af748506a39865768f2850e265602596f68d9b52e"
  },
  "infra-capital-by-country": {
-  "svg": "c44026b8a02f48cdc7914c2caf4f20375e1546cb655ff5f98c56260df71f0fb6",
+  "svg": "86c45965135c0c6537534ea6378385a15e11e9eaf52b3df4f24423e045c6815c",
   "csv": "4fa2978700ac11ee99d0a3495288f49065fc38eb13a2e92fe8ad29e526464b4f"
  },
  "access-capability-vs-cost": {
-  "svg": "30d9868377d953ae5e5bbf3fd2ea0faf360f979402770700ccb4c26191f2d116",
+  "svg": "92fe3938b9393fb8afb630f00aed29f3679786444a05d2a6933ae59508cc9233",
   "csv": "06a2bc2a49501af500e017c5401ec3e08e7baac356b0455fdbc24deb15a759b7"
  },
  "access-device-prices": {
-  "svg": "4dbcdbba1ad305ac1b8aef6ceb3f8dc151499e0347f50000214bed76e5011ba8",
+  "svg": "38b9f5fc7510add4536c309e669dc23bb0fa9f490e8250db4077d561f75cde66",
   "csv": "6ea8a3d9e63945f00fd0e554284851baad5e8b95fe101b1c0e388ba0f025dcc6"
  },
  "access-shipments": {
-  "svg": "56b97f0588d56f113b1c038c489521ef59a5ed6271584fccbe800285fb99f015",
+  "svg": "5aa2c05731e4be29bda677cd2e2cbd8fa68a1385400814a4e185ddf6f4d077eb",
   "csv": "5f771ce5b1476cfd4c6345a8566b2340cddf96b1094e6b8a39012e5917541b9a"
  },
  "record-activity": {
-  "svg": "ac87a5b9674a5d6af319c2644019906ab23c8479756f78a913d6bcd59995aba8",
-  "csv": "e2105fe14349e8a412a887ce7f7d112349d7e1e3f1d1cbeacc8c9286bada98cc"
+  "svg": "a4ad3cc0ed2caab725e1f8a94ef3d59931f92426c7817174d87d01aed52de5a6",
+  "csv": "7916c486f84fefc014e023e62a74f5fc4bfda7468ed623e4c1acfd91647fe581"
  },
  "access-affordability": {
-  "svg": "8ef399a5243a404c5a9e978ca16d3d14fb9cdcbd04b2c06850a4e5febb8cf417",
+  "svg": "ab9dcbde5be1e3c439b747f5eea57418922f8d3d4a4439bab230dd7efcb27a86",
   "csv": "3e0d9220ea8d927a013550ea2f6ee702e3d02168a76b7ed2946cba90d98db079"
  },
  "access-fx-decomposition": {
-  "svg": "ea8571c330bda3de7ed3033b9b72046e77987a5f4045bf2a2234b6dbece7824b",
+  "svg": "f8877a635c2987379ec70c2faa2fd38b60fffc7c4b1b9c201a976dbefec1d874",
   "csv": "fbfa70526a17db71e0efa671cef06f027061a41468c139b917e3c3687a23ca8b"
  },
  "access-subscription-share": {
-  "svg": "17eeb8c4ad20b550aa07d338d6c307e1811ecc3a1eb31d62a2f9a23774e69b47",
+  "svg": "220fef4a68d861ba997e403be39ceb0f8a588ded8980e6d5d84bd98d4e6ee631",
   "csv": "741172ec41c3ab7292b00673b37b5defd850c8409bad3ff0053f4844d3f2cb28"
  },
  "jobs-exposure": {
-  "svg": "06e864dece86710caea2d9c098064d31ea4cf56ce45800149cba4fb2a5b26409",
+  "svg": "811000edbfba50e9c0c2b692a5aa2b2a09232180e6edb4a40852bae984a73de1",
   "csv": "a2920e02c83cbb41fe8cfdc47bb520976e3f578503bedf31a60c68800edcc216"
  },
  "jobs-atlas-exposure": {
-  "svg": "0e0d7135530b51496ab26972f585aa7389c18f345b0c8567ba6e2dd5c659d57b",
+  "svg": "fc641c3af3af919a835699e136229f2c1a48e8cb83b7bc08c17d0d82b48c5b10",
   "csv": "1fb1e3664e69a502f19d406334b0a2de5c4512eb5527e2f24d06705d1fcf9aaf"
  }
 }
