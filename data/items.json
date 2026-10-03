@@ -1,14 +1,42 @@
 {
- "updated": "2026-10-02",
+ "updated": "2026-10-03",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
     {
+     "t": "‘Cannot Wait Another Five Years’: TUT Dialogue Presses for AI Implementation Against 62.8% Youth Unemployment",
+     "u": "https://iafrica.com/cannot-wait-another-five-years-tut-dialogue-presses-for-ai-implementation-against-62-8-youth-unemployment/",
+     "s": "iAfrica",
+     "d": "Oct 3",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Economists expect AI to weigh on college grads' wages: Indeed",
+     "u": "https://news.outsourceaccelerator.com/indeed-economists-ai-college-wages/",
+     "s": "Outsource Accelerator",
+     "d": "Oct 3",
+     "dot": "dot-jobs"
+    },
+    {
      "t": "California bans AI-only firings, requires AI layoff notices",
      "u": "https://news.outsourceaccelerator.com/california-ai-worker-laws/",
      "s": "Outsource Accelerator",
+     "d": "Oct 2",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Nigeria Pitches AI-Enabled Services at UNGA, While Egypt Signs the Contracts",
+     "u": "https://iafrica.com/nigeria-pitches-ai-enabled-services-at-unga-while-egypt-signs-the-contracts/",
+     "s": "iAfrica",
+     "d": "Oct 2",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Africa textile AI lifts factories beyond cheap labour",
+     "u": "https://furtherafrica.com/2026/10/02/africa-textile-ai-lifts-factories-beyond-cheap-labour/",
+     "s": "FurtherAfrica",
      "d": "Oct 2",
      "dot": "dot-jobs"
     },
@@ -857,6 +885,55 @@
   "access": {
    "label": "Access & Pricing",
    "items": [
+    {
+     "t": "NITDA deploys AI to turn Nigerian youths’ ideas into policy proposals",
+     "u": "https://nairametrics.com/2026/10/03/nitda-deploys-ai-to-turn-nigerian-youths-ideas-into-policy-proposals/",
+     "s": "Nairametrics",
+     "d": "Oct 3",
+     "dot": "dot-access"
+    },
+    {
+     "t": "FCCPC moves to regulate AI marketing, businesses face N100 million penalty",
+     "u": "https://nairametrics.com/2026/10/03/fccpc-moves-to-regulate-ai-marketing-businesses-face-n100-million-penalty/",
+     "s": "Nairametrics",
+     "d": "Oct 3",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Morocco Releases First Open-Source Darija AI Tools From Mistral Partnership",
+     "u": "https://iafrica.com/morocco-releases-first-open-source-darija-ai-tools-from-mistral-partnership/",
+     "s": "iAfrica",
+     "d": "Oct 3",
+     "dot": "dot-access"
+    },
+    {
+     "t": "HMD’s $166 Vibe 2 Pro Sells You an Indian AI Assistant",
+     "u": "https://memeburn.com/hmd-vibe-2-pro-5g/",
+     "s": "Memeburn",
+     "d": "Oct 3",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Who gets to decide if AI is safe? Africa wants a say",
+     "u": "https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/",
+     "s": "Rest of World",
+     "d": "Oct 2",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Meta’s smart glasses are officially coming to South Africa",
+     "u": "https://techcentral.co.za/meta-smart-glasses-south-africa-launch/286809/",
+     "s": "TechCentral",
+     "d": "Oct 2",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline amid the RAMpocalypse",
+     "u": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less",
+     "s": "Tom’s Hardware",
+     "d": "Oct 2",
+     "dot": "dot-price"
+    },
     {
      "t": "How did the next billion users become collateral damage in the AI race?",
      "u": "https://techafricanews.com/2026/10/01/mobile-internet-growth-slowdown-ai-smartphone-affordability/",
@@ -2004,6 +2081,13 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "‘Capability Leaves With the Vendor’: What’s Actually Running in SADC, and What Isn’t",
+     "u": "https://iafrica.com/capability-leaves-with-the-vendor-whats-actually-running-in-sadc-and-what-isnt/",
+     "s": "iAfrica",
+     "d": "Oct 3",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Starlink backhaul in Nigeria tests rural tower economics",
      "u": "https://furtherafrica.com/2026/10/02/starlink-backhaul-nigeria-tests-rural-tower-economics/",
      "s": "FurtherAfrica",
@@ -2014,6 +2098,41 @@
      "t": "African AI training opens free for public officials",
      "u": "https://furtherafrica.com/2026/10/02/african-ai-training-opens-free-for-public-officials/",
      "s": "FurtherAfrica",
+     "d": "Oct 2",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Namibia Opens National AI Institute Built Around Four Gaps Its Own Assessment Found",
+     "u": "https://iafrica.com/namibia-opens-national-ai-institute-built-around-four-gaps-its-own-assessment-found/",
+     "s": "iAfrica",
+     "d": "Oct 2",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "MTN’s IHS Towers takeover advances as regulator demands fair access",
+     "u": "https://techcabal.com/2026/10/02/mtn-ihs-towers-2-2-billion-deal-south-africa-competition-commission-approval/",
+     "s": "TechCabal",
+     "d": "Oct 2",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Ghana awards 5G licence to state-owned Telecel, set for rollout by December",
+     "u": "https://technext24.com/news/ghana-awards-5g-licence-to-state-owned-telecel/",
+     "s": "Technext24",
+     "d": "Oct 2",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "How Cyber Resilience Can Strengthen South Africa’s Sovereign AI Ambitions",
+     "u": "https://iafrica.com/how-cyber-resilience-can-strengthen-south-africas-sovereign-ai-ambitions/",
+     "s": "iAfrica",
+     "d": "Oct 2",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "NEC Africa lands 4G contract with Savannah Uganda, eyes financial sector",
+     "u": "https://www.developingtelecoms.com/telecom-technology/wireless-networks/20910-nec-africa-lands-4g-contract-with-savannah-uganda-eyes-financial-sector.html",
+     "s": "Developing Telecoms",
      "d": "Oct 2",
      "dot": "dot-infra"
     },
