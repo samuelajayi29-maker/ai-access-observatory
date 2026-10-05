@@ -172,7 +172,7 @@
     svg.appendChild(svgElement('desc',{id:'custom-chart-desc'},current.description+' '+rows.map(function (r) {return r.label+': '+valueLabel(r)+' '+current.unit+'; '+r.period+'; '+r.status;}).join('. ')));
     var background=svgElement('rect',{width:1100,height:1,fill:theme.paper}); svg.appendChild(background);
     svg.appendChild(svgElement('metadata',{},JSON.stringify({dataset:current.id,title:chartTitle,unit:current.unit,definition:current.description,compiled:payload.generated_at,revision:current.revision,rows:rows})));
-    var y=lines('ASTROLABE AFRICA · AI ACCESS OBSERVATORY',34,34,120,12,theme.note);
+    var y=lines('INFERENCEAFRICA',34,34,120,12,theme.note);
     y=lines(chartTitle,34,y+22,66,25)+8;
     y=lines(current.title+' | Unit: '+current.unit,34,y,112,13)+6;
     y=lines(current.description,34,y,128,12,theme.note)+10;
@@ -215,7 +215,7 @@
     svg.setAttribute('height',Math.ceil(y)); svg.setAttribute('viewBox','0 0 1100 '+Math.ceil(y)); background.setAttribute('height',Math.ceil(y));
     preview.appendChild(svg);
   }
-  function BASE_URL() { return 'https://samuelajayi29-maker.github.io/ai-access-observatory/'; }
+  function BASE_URL() { return 'https://inferenceafrica.com/'; }
   function drawTable(rows) {
     var table=get('[data-cb-table]'); table.replaceChildren();
     var thead=document.createElement('thead'), tr=document.createElement('tr');
@@ -267,7 +267,7 @@
     get('[data-cb-coverage]').textContent=s.coverage.known+' of '+s.coverage.total+' records have a value. '+(s.coverage.total-s.coverage.known)+' have no information in this series.';
     message.textContent='';drawPicker();render();
   }
-  function filename(extension) {return 'astrolabe-'+current.id+'.'+extension;}
+  function filename(extension) {return 'inferenceafrica-'+current.id+'.'+extension;}
   function download(blob,name) {
     var url=URL.createObjectURL(blob), a=document.createElement('a');a.href=url;a.download=name;document.body.appendChild(a);a.click();a.remove();
     setTimeout(function(){URL.revokeObjectURL(url);},30000);

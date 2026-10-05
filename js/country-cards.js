@@ -14,7 +14,7 @@
       const canvas=document.createElement('canvas');canvas.width=2160;canvas.height=2700;
       const ctx=canvas.getContext('2d');if(!ctx)throw new Error('PNG is unavailable in this browser.');ctx.drawImage(img,0,0,2160,2700);
       const blob=await new Promise(resolve=>canvas.toBlob(resolve,'image/png'));if(!blob)throw new Error('PNG could not be created.');
-      const download=URL.createObjectURL(blob),a=document.createElement('a');a.href=download;a.download=card.stem+'-ai-observatory-snapshot.png';document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(download),10000);
+      const download=URL.createObjectURL(blob),a=document.createElement('a');a.href=download;a.download=card.stem+'-inferenceafrica-snapshot.png';document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(download),10000);
       status.textContent=card.name+' image prepared. Sources and dates are included.';
     }catch(error){status.textContent=error.message+' You can still download the SVG.';}
     finally{if(url)URL.revokeObjectURL(url);button.disabled=false;select.disabled=false;}

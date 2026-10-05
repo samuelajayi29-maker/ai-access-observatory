@@ -1,10 +1,10 @@
-# The Observatory record
+# InferenceAfrica
 
 A public record of AI's economic effect in Africa, across three series: infrastructure,
 access and jobs. Published from this repository as a static site; every chart is a file
 with its source and licence inside the image, and every register row carries its source.
 
-Live: https://samuelajayi29-maker.github.io/ai-access-observatory/
+Live: https://inferenceafrica.com/
 
 ## How it is built
 
@@ -24,11 +24,11 @@ mixed, gaps stated as numbers, derived figures naming their weakest input, and e
 derived metric reproducible from the published CSVs. Corrections are logged with the date,
 the source and the prior value.
 
-Method and coverage: https://samuelajayi29-maker.github.io/ai-access-observatory/method.html
+Method and coverage: https://inferenceafrica.com/method.html
 
 ## Licence
 
 Charts and data are published under Creative Commons Attribution 4.0. Credit reads:
-Astrolabe Africa.
+InferenceAfrica.
 
 Release 2026-09-21. Previous design archived at tag `pre-v2-2026-09`.

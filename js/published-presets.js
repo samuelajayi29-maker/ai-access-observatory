@@ -92,7 +92,7 @@
       const ns = 'http://www.w3.org/2000/svg', rect = document.createElementNS(ns, 'rect');
       rect.setAttribute('y',h); rect.setAttribute('width',w); rect.setAttribute('height',96); rect.setAttribute('fill','#fbfaf8'); svg.append(rect);
       const shortCount = `${rows.size}/${spec.rows.length} selected groups${spec.columns.length ? `; ${cols.size}/${spec.columns.length} countries` : ''}; ${known}/${records.length} values available`;
-      const lines = [records.length ? 'EDITED SELECTION · '+shortCount : 'NO RECORDS SELECTED · Choose records to show data.', 'Axes, percentages, benchmarks and source notes retain the original published sample.', 'AI Access Observatory · '+spec.revision];
+      const lines = [records.length ? 'EDITED SELECTION · '+shortCount : 'NO RECORDS SELECTED · Choose records to show data.', 'Axes, percentages, benchmarks and source notes retain the original published sample.', 'InferenceAfrica · '+spec.revision];
       lines.forEach((line,i) => { const t = document.createElementNS(ns,'text'); t.setAttribute('x',28); t.setAttribute('y',h+24+i*22); t.setAttribute('font-size',12); t.setAttribute('font-family','Arial,sans-serif'); t.setAttribute('fill','#1a1815'); t.textContent=line; svg.append(t); });
       svg.setAttribute('viewBox',`0 0 ${w} ${h+96}`); svg.setAttribute('height',h+96);
     }
