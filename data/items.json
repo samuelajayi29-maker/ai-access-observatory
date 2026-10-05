@@ -1,10 +1,17 @@
 {
- "updated": "2026-10-03",
+ "updated": "2026-10-05",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "Vesti enters its next phase, expanding from global talent mobility into AI-native legal services",
+     "u": "https://techcabal.com/2026/10/05/vesti-enters-its-next-phase-expanding-from-global-talent-mobility-into-ai-native-legal-services/",
+     "s": "TechCabal",
+     "d": "Oct 5",
+     "dot": "dot-jobs"
+    },
     {
      "t": "‘Cannot Wait Another Five Years’: TUT Dialogue Presses for AI Implementation Against 62.8% Youth Unemployment",
      "u": "https://iafrica.com/cannot-wait-another-five-years-tut-dialogue-presses-for-ai-implementation-against-62-8-youth-unemployment/",
@@ -37,6 +44,13 @@
      "t": "Africa textile AI lifts factories beyond cheap labour",
      "u": "https://furtherafrica.com/2026/10/02/africa-textile-ai-lifts-factories-beyond-cheap-labour/",
      "s": "FurtherAfrica",
+     "d": "Oct 2",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Statecraft acquires Daybreak to automate federal services work",
+     "u": "https://news.outsourceaccelerator.com/statecraft-acquires-daybreak/",
+     "s": "Outsource Accelerator",
      "d": "Oct 2",
      "dot": "dot-jobs"
     },
@@ -886,6 +900,34 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "Banks top AI spending as telcos struggle to show returns",
+     "u": "https://techcentral.co.za/banks-top-ai-spending-telcos-struggle-returns/286868/",
+     "s": "TechCentral",
+     "d": "Oct 5",
+     "dot": "dot-access"
+    },
+    {
+     "t": "NITDA warns organisations, staff against sharing sensitive data with public AI tools",
+     "u": "https://nairametrics.com/2026/10/04/nitda-warns-organisations-staff-against-sharing-sensitive-data-with-public-ai-tools/",
+     "s": "Nairametrics",
+     "d": "Oct 4",
+     "dot": "dot-access"
+    },
+    {
+     "t": "REDMI Note 17 Series: Xiaomi launches smartphone that can last for 3 days in Lagos",
+     "u": "https://technext24.com/reviews/redmi-note-17-series-xiaomi-launches-lagos/",
+     "s": "Technext24",
+     "d": "Oct 4",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Gemini API Pricing 2026: Every Model + the Jan 1 Increase",
+     "u": "https://justinmckelvey.com/blog/gemini-api-pricing",
+     "s": "Justin McKelvey",
+     "d": "Oct 4",
+     "dot": "dot-price"
+    },
+    {
      "t": "NITDA deploys AI to turn Nigerian youths’ ideas into policy proposals",
      "u": "https://nairametrics.com/2026/10/03/nitda-deploys-ai-to-turn-nigerian-youths-ideas-into-policy-proposals/",
      "s": "Nairametrics",
@@ -910,6 +952,13 @@
      "t": "HMD’s $166 Vibe 2 Pro Sells You an Indian AI Assistant",
      "u": "https://memeburn.com/hmd-vibe-2-pro-5g/",
      "s": "Memeburn",
+     "d": "Oct 3",
+     "dot": "dot-price"
+    },
+    {
+     "t": "AI Model API Price Changes, Q3 2026: Five Labs, One Table",
+     "u": "https://www.digitalapplied.com/blog/ai-model-api-pricing-tracker-q3-2026",
+     "s": "DigitalApplied",
      "d": "Oct 3",
      "dot": "dot-price"
     },
@@ -2081,9 +2130,51 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "FG targets 6 months to fund community-owned telecom towers in rural Nigeria",
+     "u": "https://technext24.com/news/fg-solar-powered-community-telecom-towers/",
+     "s": "Technext24",
+     "d": "Oct 5",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "NCC, stakeholders seek Right of Way cost cuts to advance Nigeria's digital connectivity",
+     "u": "https://technext24.com/news/ncc-stakeholders-seek-right-of-way-cost-cuts/",
+     "s": "Technext24",
+     "d": "Oct 5",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "MTN Ghana to deploy new spectrum to accelerate 5G expansion",
+     "u": "https://www.citinewsroom.com/2026/10/mtn-ghana-to-deploy-new-spectrum-to-accelerate-5g-expansion/",
+     "s": "Citi Newsroom",
+     "d": "Oct 5",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Africa's AI race accelerates",
+     "u": "https://cajnewsafrica.com/2026/10/05/africas-ai-race-accelerates/",
+     "s": "CAJ News Africa",
+     "d": "Oct 5",
+     "dot": "dot-infra"
+    },
+    {
      "t": "‘Capability Leaves With the Vendor’: What’s Actually Running in SADC, and What Isn’t",
      "u": "https://iafrica.com/capability-leaves-with-the-vendor-whats-actually-running-in-sadc-and-what-isnt/",
      "s": "iAfrica",
+     "d": "Oct 3",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Angola Cables upgrades atlantic network as AI reshapes global data demand",
+     "u": "https://businessday.ng/technology/article/angola-cables-upgrades-atlantic-network-as-ai-reshapes-global-data-demand/",
+     "s": "BusinessDay",
+     "d": "Oct 3",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Hassanein Hiridjee's Axian expands Senegal data center",
+     "u": "https://www.billionaires.africa/2026/10/03/madagascar-billionaire-hassanein-hiridjee-expands-senegal-data-center-to-meet-ai-demand/",
+     "s": "Billionaires.Africa",
      "d": "Oct 3",
      "dot": "dot-infra"
     },
@@ -2161,6 +2252,13 @@
      "t": "Space-tech Satlyt raises $8m to build AI data centres in space",
      "u": "https://techcabal.com/2026/10/01/the-plan-to-build-virtual-data-centres-in-space-just-got-8-million-backing/",
      "s": "TechCabal",
+     "d": "Oct 1",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Bacongo data center: solar power and AfDB backing",
+     "u": "https://congoinvestor.com/congo-data-center-bets-on-solar-to-win-investors/",
+     "s": "Congo Investor",
      "d": "Oct 1",
      "dot": "dot-infra"
     },
