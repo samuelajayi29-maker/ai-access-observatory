@@ -50,5 +50,5 @@
 <text x="309" y="468" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">rate-card effect</text>
 <text x="150" y="494" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Positive means local price rose. With one observation, a rate-card change cannot be estimated.</text>
 <line x1="28" y1="510" x2="872" y2="510" stroke="#ddd8d0" />
-<text x="28" y="529" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Data: the Observatory record · CC BY 4.0 · compiled 2026-10-03 · official rates only; parallel rates are held separately and never blended</text>
+<text x="28" y="529" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Data: the Observatory record · CC BY 4.0 · compiled 2026-10-05 · official rates only; parallel rates are held separately and never blended</text>
 </svg>
