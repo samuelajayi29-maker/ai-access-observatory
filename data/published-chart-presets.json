@@ -14,7 +14,9 @@
   "data/reference/country-context.csv": "1e21370d7af1f113a2181cd122d43edf4e68ad3be4112f2f3375148a85c0cfc6",
   "data/reference/signal-evidence.json": "cfa55e5cfe72d64f26651af593d6878d654bfbe8a83794c7588b6ad89747c74f",
   "data/reference/signal-review-decisions.json": "8eec5ec4657b7c09663911499782e43208f4c3c740ca98d39ca57df736fc1637",
-  "data/reference/priority-evidence.json": "c76a3bb3ccbb8c40f50037bd6540a26c43cde17e31ab8ea2950c768cd64d0f32"
+  "data/reference/priority-evidence.json": "c76a3bb3ccbb8c40f50037bd6540a26c43cde17e31ab8ea2950c768cd64d0f32",
+  "data/reference/data-centres-corpus-2026-10-05.csv": "a6fb560948aa9de1bfcbcac0ab4e54df45b48f0213100ef83a20084e91a35e0f",
+  "data/reference/economic-context.json": "c2e36031ab86041fabb66e15ec6f0c6e109b4f68a6c36479fcf534a1ebcce92a"
  },
  "presets": [
   {

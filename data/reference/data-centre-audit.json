@@ -1,0 +1,45 @@
+{
+ "edition": "2026-10-05-2",
+ "sha256": "a6fb560948aa9de1bfcbcac0ab4e54df45b48f0213100ef83a20084e91a35e0f",
+ "rows": 578,
+ "countries": 54,
+ "statuses": {
+  "Operational": 422,
+  "Unknown": 59,
+  "Decommissioned": 5,
+  "Planned": 54,
+  "Under construction": 36,
+  "On hold": 2
+ },
+ "coordinate_rows": 326,
+ "withheld_coordinate_ids": [
+  "AGO-001",
+  "AGO-002",
+  "AGO-003",
+  "AGO-005",
+  "AGO-006",
+  "AGO-007",
+  "AGO-008",
+  "AGO-009",
+  "AGO-010",
+  "AGO-011",
+  "AGO-012",
+  "GNQ-001"
+ ],
+ "repeated_coordinates": {
+  "(12.3714, -1.5197)": 2,
+  "(5.230347, -3.757779)": 3,
+  "(36.698, 2.872)": 2,
+  "(9.0249, 38.7469)": 2,
+  "(-1.34014, 36.89653)": 2,
+  "(-1.3157, 36.8854)": 2,
+  "(6.4349, 3.5039)": 2,
+  "(6.4289, 3.4297)": 5,
+  "(6.6037, 3.3583)": 2,
+  "(6.4497, 3.3947)": 3,
+  "(6.4531, 3.625)": 2,
+  "(-6.18, 35.74)": 2
+ },
+ "independently_verified_rows": 0,
+ "method": "Source-reported directory listings, not a national census. Includes commercial, government, enterprise and research facilities. Source claims have not been independently verified by InferenceAfrica. Campuses may contain multiple facilities. Do not add these counts or capacities to the project register."
+}

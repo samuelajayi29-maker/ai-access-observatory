@@ -7,6 +7,8 @@
    ========================================================================= */
 
 :root {
+  --facility-map-width: 42rem;
+  --facility-grid-min: 18rem;
   color-scheme: light;
   --surface-card: #ffffff;
   --chart-preview-min: 40rem;
@@ -80,6 +82,19 @@
   --explorer-control-min: 11rem;
   --radius-small: 2px;
 }
+
+.facility-list, .economy-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, var(--facility-grid-min)), 1fr)); gap: var(--s-6); margin-block: var(--s-6); }
+.facility-item, .economy-item { border-top: var(--line-thin) solid var(--rule); padding-block: var(--s-4); min-width: 0; overflow-wrap: anywhere; }
+.facility-item h3, .economy-item h3 { font-size: var(--step-1); }
+.facility-item dl { margin-block: var(--s-4); }
+.facility-item dt { font-weight: 600; margin-top: var(--s-3); }
+.facility-item dd { margin-left: 0; }
+.facility-directory [data-dc-map] { max-width: var(--facility-map-width); margin-inline: auto; }
+.facility-directory svg { width: 100%; height: auto; }
+.facility-land { fill: var(--paper-sunk); stroke: var(--rule-strong); stroke-width: var(--line-thin); }
+.facility-point { fill: var(--paper); stroke: var(--action); stroke-width: var(--line-strong); }
+.facility-point:hover { fill: var(--action); }
+.economy-value { font-size: var(--step-4); font-family: var(--font-data); margin-block: var(--s-2); }
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
