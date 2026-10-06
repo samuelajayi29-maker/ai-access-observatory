@@ -18,6 +18,14 @@ All 441 feed entries were triaged; 12 entries received dated source decisions. A
 
 Important limits: the Nigeria AI-tool percentages are a city smartphone survey, not national population adoption; tool percentages overlap. Its headline national ownership claim was withheld for sampling clarification. The 76% handset-cost figure concerns the poorest fifth of people in sub-Saharan Africa. The Morocco project is planned, not operating. Senegal's USD300m figure is a financing target. An unconfirmed Google Nairobi proposal was removed from the active register and retained in review history; Google's primary release identifies Johannesburg as its first African cloud region.
 
+## Review completed on 6 October 2026
+
+Ten queued signals were read at the source and given dated decisions: eight produced supplementary observations and two were kept pending. The additions cover Kenyan mobile-device connections from regulator statistics; Egypt's reported local mobile-device production, its digital-services export workforce and its export targets; Egypt's Intel AI-training memorandum; Kenya's cumulative Digital Literacy Programme teacher count; Nigeria's announced digital training places; and the price MTN Ghana paid for 5G spectrum.
+
+The limits travel with the observations: device connections are not people or subscribers; a ministerial workforce count with no reference year is not a national employment measure; export figures and training places are targets and announcements, not outcomes; and production volumes, offered places and a spectrum price are not shipments, sales, completions or network capital expenditure.
+
+Two signals stay unresolved because their sources do not support a comparable observation: Nigerian offline-population figures the article does not reconcile, and a Johannesburg facility announcement with no capacity, investment or employment figure. No observation added in this round is headline-eligible, and no core register was changed.
+
 ## Chart reuse
 
 Use “Make and share a chart” on a page. Choose one measure, up to 20 records, bar or dot display, ordering and a title. PNG and SVG export the displayed chart, including definition, units, dates, sources and qualifications. CSV retains unrounded values. Never combine different denominators or delivery statuses on one chart.

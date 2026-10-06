@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-05",
+ "generated_at": "2026-10-06",
  "countries": [
   {
    "iso3": "AGO",
@@ -23669,6 +23669,290 @@
    }
   },
   {
+   "id": "evidence-kenya-mobile-connections",
+   "pillar": "access",
+   "title": "Connected mobile devices in Kenya",
+   "unit": "connections",
+   "description": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications.",
+   "rows": [
+    {
+     "id": "fddd42e5351b95",
+     "label": "Kenya - smartphones",
+     "value": 52260000.0,
+     "period": "June 2026 (end of Q4 FY2025/26)",
+     "status": "measured",
+     "source": "TechTrendsKE / Communications Authority of Kenya",
+     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
+     "country": "KEN",
+     "note": "Connections recorded by the Communications Authority of Kenya sector statistics, as reported by TechTrendsKE. Device connections are not people and not unique users: one person or business may hold several connections. Publication date is not the observation date. Stated 4.2% increase from 50.18 million in March 2026.",
+     "relation": "="
+    },
+    {
+     "id": "55ca320f6695ae",
+     "label": "Kenya - feature phones",
+     "value": 27420000.0,
+     "period": "June 2026 (end of Q4 FY2025/26)",
+     "status": "measured",
+     "source": "TechTrendsKE / Communications Authority of Kenya",
+     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
+     "country": "KEN",
+     "note": "Connections recorded by the Communications Authority of Kenya sector statistics, as reported by TechTrendsKE. Device connections are not people and not unique users: one person or business may hold several connections. Publication date is not the observation date. Stated 3.9% decrease over the quarter.",
+     "relation": "="
+    },
+    {
+     "id": "d026ec8e1e87d9",
+     "label": "Kenya - all connected mobile devices",
+     "value": 79680000.0,
+     "period": "June 2026 (end of Q4 FY2025/26)",
+     "status": "measured",
+     "source": "TechTrendsKE / Communications Authority of Kenya",
+     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
+     "country": "KEN",
+     "note": "Connections recorded by the Communications Authority of Kenya sector statistics, as reported by TechTrendsKE. Device connections are not people and not unique users: one person or business may hold several connections. Publication date is not the observation date. Smartphones and feature phones combined as reported, a 65.6% smartphone share of the device base. Not a population, subscriber or household count.",
+     "relation": "="
+    },
+    {
+     "id": "d8d1498257cc36",
+     "label": "Kenya - smartphones",
+     "value": 50180000.0,
+     "period": "March 2026 (end of Q3 FY2025/26)",
+     "status": "measured",
+     "source": "TechTrendsKE / Communications Authority of Kenya",
+     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
+     "country": "KEN",
+     "note": "Connections recorded by the Communications Authority of Kenya sector statistics, as reported by TechTrendsKE. Device connections are not people and not unique users: one person or business may hold several connections. Publication date is not the observation date. Prior-quarter comparison point reported in the same article.",
+     "relation": "="
+    }
+   ],
+   "register": "data/signal-evidence.csv",
+   "domain": null,
+   "revision": "5a54d27a75a01c",
+   "coverage": {
+    "known": 4,
+    "total": 4
+   }
+  },
+  {
+   "id": "evidence-egypt-mobile-device-production",
+   "pillar": "access",
+   "title": "Mobile devices manufactured in Egypt",
+   "unit": "devices produced per year",
+   "description": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications.",
+   "rows": [
+    {
+     "id": "c7c6b5fb7242ec",
+     "label": "Egypt - 2024",
+     "value": 3000000.0,
+     "period": "2024",
+     "status": "measured",
+     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
+     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
+     "country": "EGY",
+     "note": "Figure given by the Minister of Communications and Information Technology at a meeting with the Egyptian Businessmen's Association, reported by TechAfrica News. Local mobile-phone production, not shipments, sales, exports or installed base. No definition or scope of 'production' is published.",
+     "relation": "="
+    },
+    {
+     "id": "1c7b933f90114d",
+     "label": "Egypt - 2025",
+     "value": 10000000.0,
+     "period": "2025",
+     "status": "measured",
+     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
+     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
+     "country": "EGY",
+     "note": "Ministerial figure described as 'around 10 million' devices in 2025. Same definition and limits as the 2024 row. The statement's 2026 expectation of 14 to 15 million devices and its domestic demand estimate of 18 to 20 million are not recorded as observations: a forward figure does not enter a measured series.",
+     "relation": "approximately"
+    }
+   ],
+   "register": "data/signal-evidence.csv",
+   "domain": null,
+   "revision": "7b2f7e3398becc",
+   "coverage": {
+    "known": 2,
+    "total": 2
+   }
+  },
+  {
+   "id": "evidence-egypt-digital-services-exporters",
+   "pillar": "jobs",
+   "title": "Specialists exporting digital services",
+   "unit": "specialists",
+   "description": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications.",
+   "rows": [
+    {
+     "id": "c601e85e55386f",
+     "label": "Egypt",
+     "value": 200000.0,
+     "period": "no reference year stated; as reported 2026-09-28",
+     "status": "measured",
+     "source": "Outsource Accelerator / Daily News Egypt",
+     "source_url": "https://news.outsourceaccelerator.com/egypt-digital-export-workforce/",
+     "country": "EGY",
+     "note": "Ministerial figure given at DevOpsDays Cairo 2026 and reported by Outsource Accelerator from Daily News Egypt. A workforce count for digital services exports, not employment in AI, not a hiring or wage measure and not an observed labour-market outcome. No definition of 'specialist', no reference year and no independent verification: not a national all-economy employment estimate.",
+     "relation": "approximately"
+    }
+   ],
+   "register": "data/signal-evidence.csv",
+   "domain": null,
+   "revision": "1a333be9df5dee",
+   "coverage": {
+    "known": 1,
+    "total": 1
+   }
+  },
+  {
+   "id": "evidence-egypt-digital-export-target",
+   "pillar": "jobs",
+   "title": "Egyptian digital services export targets",
+   "unit": "USD targeted export value",
+   "description": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications.",
+   "rows": [
+    {
+     "id": "dae529c35a7426",
+     "label": "Egypt - 2029 target",
+     "value": 12000000000.0,
+     "period": "target year 2029",
+     "status": "announced",
+     "source": "Outsource Accelerator / Daily News Egypt",
+     "source_url": "https://news.outsourceaccelerator.com/egypt-outsourcing-exports-2029/",
+     "country": "EGY",
+     "note": "Government target reported after a 19 September 2026 presidential meeting on data centres, 5G and AI infrastructure. A target, not a realised export value, financing or audited expenditure, and no baseline or methodology is given. Recorded separately from measured export values.",
+     "relation": "="
+    },
+    {
+     "id": "97ff9b9936a60a",
+     "label": "Egypt - interim 2028 milestone",
+     "value": 8000000000.0,
+     "period": "milestone year 2028",
+     "status": "announced",
+     "source": "Outsource Accelerator / Daily News Egypt",
+     "source_url": "https://news.outsourceaccelerator.com/egypt-outsourcing-exports-2029/",
+     "country": "EGY",
+     "note": "Interim digital-export milestone reported alongside the 2029 target. Same limits: a stated target, not an outcome, and the source does not state whether the 8 billion is a subset of the 12 billion.",
+     "relation": "="
+    }
+   ],
+   "register": "data/signal-evidence.csv",
+   "domain": null,
+   "revision": "86b7560fd3dba8",
+   "coverage": {
+    "known": 2,
+    "total": 2
+   }
+  },
+  {
+   "id": "evidence-kenya-digital-literacy-teachers",
+   "pillar": "jobs",
+   "title": "Teachers trained under Kenya's Digital Literacy Programme",
+   "unit": "teachers trained (cumulative)",
+   "description": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications.",
+   "rows": [
+    {
+     "id": "b969c96dbed366",
+     "label": "Kenya",
+     "value": 62000.0,
+     "period": "cumulative as at 2026-09-24",
+     "status": "measured",
+     "source": "TechAfrica News / ICT Authority",
+     "source_url": "https://techafricanews.com/2026/09/24/kenya-digital-literacy-programme-10382-junior-schools/",
+     "country": "KEN",
+     "note": "Cumulative national figure attributed to the ICT Authority for Phase II of the Digital Literacy Programme (KDEAP, with World Bank support). Trained teachers are not equipment delivered, classroom use or learning outcomes. Phase II targets 10,382 public junior schools across 47 counties: that is a planned scope, not a delivered count, and is not recorded as an observation.",
+     "relation": ">"
+    }
+   ],
+   "register": "data/signal-evidence.csv",
+   "domain": null,
+   "revision": "f76f1a63f086e8",
+   "coverage": {
+    "known": 1,
+    "total": 1
+   }
+  },
+  {
+   "id": "evidence-nigeria-digital-training-places",
+   "pillar": "jobs",
+   "title": "Digital skills training places",
+   "unit": "training places",
+   "description": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications.",
+   "rows": [
+    {
+     "id": "d599e28194496c",
+     "label": "Nigeria",
+     "value": 32000.0,
+     "period": "six-month academy announced 15 September 2026",
+     "status": "announced",
+     "source": "Ecofin Agency / Presidency of Nigeria",
+     "source_url": "https://www.ecofinagency.com/news-services/1709-58988-nigeria-to-train-32-000-citizens-in-ai-and-cybersecurity-via-new-academy",
+     "country": "NGA",
+     "note": "Announced by the federal government under the Nigeria Education Sector Renewal Initiative, delivered through the Nigeria Education Digital Infrastructure programme. The same report states 72,850 applications, 19,699 meeting the eligibility criteria and a first cohort of 16,000 selected. Places offered, applications received and selections made are not completions, certifications or jobs.",
+     "relation": "="
+    }
+   ],
+   "register": "data/signal-evidence.csv",
+   "domain": null,
+   "revision": "bb3b2c32cb96cb",
+   "coverage": {
+    "known": 1,
+    "total": 1
+   }
+  },
+  {
+   "id": "evidence-egypt-ai-training-places",
+   "pillar": "jobs",
+   "title": "Citizens to receive AI training",
+   "unit": "citizens trained per year",
+   "description": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications.",
+   "rows": [
+    {
+     "id": "8eab1e99453b33",
+     "label": "Egypt",
+     "value": 1000000.0,
+     "period": "annual, over three years from 2026",
+     "status": "announced",
+     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
+     "source_url": "https://techafricanews.com/2026/09/16/egypt-intel-train-one-million-citizens-ai-annually/",
+     "country": "EGY",
+     "note": "A memorandum of understanding between the Ministry of Communications and Information Technology and Intel under Egypt's National AI Strategy 2025-2030, described as one million citizens a year for three years, with 1,500 trainers over three years (500 a year). Announced training capacity, not completed training, certified participants or employment outcomes.",
+     "relation": "="
+    }
+   ],
+   "register": "data/signal-evidence.csv",
+   "domain": null,
+   "revision": "9672d780d19177",
+   "coverage": {
+    "known": 1,
+    "total": 1
+   }
+  },
+  {
+   "id": "evidence-ghana-5g-spectrum-cost",
+   "pillar": "infrastructure",
+   "title": "5G spectrum licence price",
+   "unit": "USD",
+   "description": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications.",
+   "rows": [
+    {
+     "id": "ef9119e84583df",
+     "label": "Ghana - MTN Ghana",
+     "value": 202000000.0,
+     "period": "awarded October 2026",
+     "status": "measured",
+     "source": "Citi Newsroom / MTN Ghana statement",
+     "source_url": "https://www.citinewsroom.com/2026/10/mtn-ghana-to-deploy-new-spectrum-to-accelerate-5g-expansion/",
+     "country": "GHA",
+     "note": "Total payable for spectrum awarded by the National Communications Authority: US$100.9 million for two 20 MHz lots in the 700 MHz band and US$101.1 million for 150 MHz in the 3 GHz band, on 15-year licences. Spectrum cost only. It is not network capital expenditure, coverage, subscriber numbers or installed capacity, and no coverage or speed outcome is claimed.",
+     "relation": "="
+    }
+   ],
+   "register": "data/signal-evidence.csv",
+   "domain": null,
+   "revision": "f4f8ef1711e44d",
+   "coverage": {
+    "known": 1,
+    "total": 1
+   }
+  },
+  {
    "id": "signal-counts",
    "pillar": "signals",
    "title": "Recorded signal entries by pillar",
@@ -23730,7 +24014,7 @@
     {
      "id": "4d54c794f70aec",
      "label": "needs source review",
-     "value": 496.0,
+     "value": 486.0,
      "period": "2026-10-05",
      "status": "review workflow",
      "source": "Observatory review ledger",
@@ -23742,7 +24026,7 @@
     {
      "id": "8df7bf9f78cbba",
      "label": "evidence added",
-     "value": 6.0,
+     "value": 14.0,
      "period": "2026-10-05",
      "status": "review workflow",
      "source": "Observatory review ledger",
@@ -23766,7 +24050,7 @@
     {
      "id": "a6f14ff7379c90",
      "label": "needs clarification",
-     "value": 1.0,
+     "value": 3.0,
      "period": "2026-10-05",
      "status": "review workflow",
      "source": "Observatory review ledger",
@@ -23826,7 +24110,7 @@
    ],
    "register": "data/signal-review.json",
    "domain": null,
-   "revision": "870e2f229b1440",
+   "revision": "af5e86f9132a9b",
    "coverage": {
     "known": 8,
     "total": 8
@@ -29915,16 +30199,16 @@
   "data/items.json": "e9693dd3790b24926068b833a5b69b81647690639531efcde770a71324fdbbe3",
   "data/infrastructure.json": "d97dedc2edfa80be4ea8938e5770b812411c6a5aa6c8b5c36fe8fa7ab2b7a76f",
   "data/prices.json": "ed7d3cda62ee928dcbeda05b65c412e8d848a4b3d37dadaaeaaf9332c6b20467",
-  "data/indicators.json": "1cad5b0cf5eac774335eb239292b96b976d0355a868a4c6dc1122870e81c4784",
+  "data/indicators.json": "d5efb768e4f8b01644125a20a6cf0c061dc79994bf6a5474eca87248b118be1b",
   "data/jobs-atlas-exposure.csv": "ea830da762c9bad4c3e394f0ac39e67cb5c082c22d70fbfc9eb6454eed13e273",
   "data/jobs-exposure.csv": "3186fdea841750a81d33e350cc15af28f4d85ff18f88351a3bf14439dfe73c37",
   "data/affordability.csv": "3973b1d0949ecf08be2749db0031a01d6250c5cdd92b4ee85d2813b6023f4d46",
   "data/subscription-register.csv": "3d69a4e3eeaf1479336eebde13ba3077f37136dd17565e9cd56f1165ecde599a",
   "data/reference/gni-per-capita.csv": "cf064eb77bbff26f65cd43fe3964d9dc962a5398e48207991c7d3482b7a7e177",
-  "data/reference/home-figures.json": "dd9ed83fcf5df792f1f738f774957c4b43eb1549b01f5f048e33ab1cb02f0e59",
+  "data/reference/home-figures.json": "6f2b6c5e12845ef1b65fdfc317f7174dd52af20f6d4688555ec8c4ce242301bb",
   "data/reference/country-context.csv": "1e21370d7af1f113a2181cd122d43edf4e68ad3be4112f2f3375148a85c0cfc6",
-  "data/reference/signal-evidence.json": "6a17500cfc6987047c58ad7286967631b0dbb3226a48f9c7676e0dc10558f668",
-  "data/reference/signal-review-decisions.json": "4128f98a359377da593f02f87cb4b6dc0880f2adbddbbde16df48c27dcbde14f",
+  "data/reference/signal-evidence.json": "cfa55e5cfe72d64f26651af593d6878d654bfbe8a83794c7588b6ad89747c74f",
+  "data/reference/signal-review-decisions.json": "8eec5ec4657b7c09663911499782e43208f4c3c740ca98d39ca57df736fc1637",
   "data/reference/priority-evidence.json": "c76a3bb3ccbb8c40f50037bd6540a26c43cde17e31ab8ea2950c768cd64d0f32"
  }
 }

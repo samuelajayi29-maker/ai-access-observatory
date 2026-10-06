@@ -3,10 +3,10 @@
  "feed_updated": "2026-10-05",
  "feed_sha256": "31e7f2e9426ec2f154714921b9a7dda66c9d460dd82af8d42cd4836189c7af10",
  "counts": {
-  "needs_source_review": 496,
-  "evidence_added": 6,
+  "needs_source_review": 486,
+  "evidence_added": 14,
   "corrected_scope": 3,
-  "needs_clarification": 1,
+  "needs_clarification": 3,
   "source_linked": 26,
   "project_added": 1,
   "duplicate_link": 2,
@@ -340,15 +340,17 @@
    "headline": "Egypt counts 200,000 specialists exporting digital services",
    "signal_url": "https://news.outsourceaccelerator.com/egypt-digital-export-workforce/",
    "feed_date_label": "Sep 28",
-   "review_state": "needs_source_review",
-   "review_basis": "automated_triage",
-   "reviewed_at": "",
-   "priority": "high",
+   "review_state": "evidence_added",
+   "review_basis": "source_checked",
+   "reviewed_at": "2026-10-06",
+   "priority": "normal",
    "topic": "Context and research",
    "related_registers": [],
    "duplicate_of": "",
-   "note": "Headline triage only. Read the source and verify its definition, geography and date before adding values.",
-   "evidence_ids": []
+   "note": "Open page read in full. A ministerial workforce figure with no reference year or definition is kept as supplementary evidence with those limits stated; no national employment inference is drawn.",
+   "evidence_ids": [
+    "egy-digital-services-exporters-2026"
+   ]
   },
   {
    "id": "4aaf816ac5a257",
@@ -548,15 +550,17 @@
    "headline": "Kenya expands digital literacy programme to 10,382 junior schools",
    "signal_url": "https://techafricanews.com/2026/09/24/kenya-digital-literacy-programme-10382-junior-schools/",
    "feed_date_label": "Sep 24",
-   "review_state": "needs_source_review",
-   "review_basis": "automated_triage",
-   "reviewed_at": "",
-   "priority": "high",
+   "review_state": "evidence_added",
+   "review_basis": "source_checked",
+   "reviewed_at": "2026-10-06",
+   "priority": "normal",
    "topic": "Context and research",
    "related_registers": [],
    "duplicate_of": "",
-   "note": "Headline triage only. Read the source and verify its definition, geography and date before adding values.",
-   "evidence_ids": []
+   "note": "Open page read in full. The cumulative teacher count is recorded; the 10,382-school Phase II target is a planned scope and is kept in the observation note, not as a delivered count.",
+   "evidence_ids": [
+    "ken-digital-literacy-teachers"
+   ]
   },
   {
    "id": "e1c980fdbebed2",
@@ -612,15 +616,18 @@
    "headline": "Egypt targets $12B in outsourcing exports by 2029",
    "signal_url": "https://news.outsourceaccelerator.com/egypt-outsourcing-exports-2029/",
    "feed_date_label": "Sep 21",
-   "review_state": "needs_source_review",
-   "review_basis": "automated_triage",
-   "reviewed_at": "",
-   "priority": "high",
+   "review_state": "evidence_added",
+   "review_basis": "source_checked",
+   "reviewed_at": "2026-10-06",
+   "priority": "normal",
    "topic": "Workforce and skills",
    "related_registers": [],
    "duplicate_of": "",
-   "note": "Headline triage only. Read the source and verify its definition, geography and date before adding values.",
-   "evidence_ids": []
+   "note": "Open page read in full. Government export targets recorded as targets, separate from any measured export value.",
+   "evidence_ids": [
+    "egy-outsourcing-export-target-2029",
+    "egy-digital-export-interim-2028"
+   ]
   },
   {
    "id": "cbd7b724ca1162",
@@ -772,15 +779,17 @@
    "headline": "Nigeria to Train 32,000 Citizens in AI and Cybersecurity via New Academy",
    "signal_url": "https://www.ecofinagency.com/news-services/1709-58988-nigeria-to-train-32-000-citizens-in-ai-and-cybersecurity-via-new-academy",
    "feed_date_label": "Sep 17",
-   "review_state": "needs_source_review",
-   "review_basis": "automated_triage",
-   "reviewed_at": "",
-   "priority": "high",
+   "review_state": "evidence_added",
+   "review_basis": "source_checked",
+   "reviewed_at": "2026-10-06",
+   "priority": "normal",
    "topic": "Workforce and skills",
    "related_registers": [],
    "duplicate_of": "",
-   "note": "Headline triage only. Read the source and verify its definition, geography and date before adding values.",
-   "evidence_ids": []
+   "note": "Open page read in full. Training places recorded as announced capacity, with applications, eligibility and first-cohort counts kept in the note. No completion or employment claim.",
+   "evidence_ids": [
+    "nga-digital-academy-places"
+   ]
   },
   {
    "id": "e91681fa34bfcf",
@@ -836,15 +845,17 @@
    "headline": "Egypt Partners With Intel to Train 1 Million Citizens in AI Annually",
    "signal_url": "https://techafricanews.com/2026/09/16/egypt-intel-train-one-million-citizens-ai-annually/",
    "feed_date_label": "Sep 16",
-   "review_state": "needs_source_review",
-   "review_basis": "automated_triage",
-   "reviewed_at": "",
-   "priority": "high",
+   "review_state": "evidence_added",
+   "review_basis": "source_checked",
+   "reviewed_at": "2026-10-06",
+   "priority": "normal",
    "topic": "Workforce and skills",
    "related_registers": [],
    "duplicate_of": "",
-   "note": "Headline triage only. Read the source and verify its definition, geography and date before adding values.",
-   "evidence_ids": []
+   "note": "Open page read in full. A signed memorandum of understanding is an announcement: recorded as announced training capacity, not delivered training.",
+   "evidence_ids": [
+    "egy-ai-training-places"
+   ]
   },
   {
    "id": "3ad134f6baac36",
@@ -1028,15 +1039,18 @@
    "headline": "Egypt Targets $8bn Outsourcing Exports as Digital Services Push Accelerates",
    "signal_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
    "feed_date_label": "Sep 9",
-   "review_state": "needs_source_review",
-   "review_basis": "automated_triage",
-   "reviewed_at": "",
-   "priority": "high",
+   "review_state": "evidence_added",
+   "review_basis": "source_checked",
+   "reviewed_at": "2026-10-06",
+   "priority": "normal",
    "topic": "Workforce and skills",
    "related_registers": [],
    "duplicate_of": "",
-   "note": "Headline triage only. Read the source and verify its definition, geography and date before adding values.",
-   "evidence_ids": []
+   "note": "Open page read in full. Two measured years of local mobile-device production recorded; the 2026 expectation and the demand range stay in the note rather than in the series.",
+   "evidence_ids": [
+    "egypt-mobile-production-2024",
+    "egypt-mobile-production-2025"
+   ]
   },
   {
    "id": "696d08d60369e7",
@@ -2708,14 +2722,14 @@
    "headline": "Over 23 million Nigerians still offline as RuralConnect Summit 2.0 seeks solutions",
    "signal_url": "https://itpulse.com.ng/over-23-million-nigerians-still-offline-as-ruralconnect-summit-2-0-seeks-solutions/",
    "feed_date_label": "Sep 25",
-   "review_state": "needs_source_review",
-   "review_basis": "automated_triage",
-   "reviewed_at": "",
-   "priority": "high",
+   "review_state": "needs_clarification",
+   "review_basis": "source_checked",
+   "reviewed_at": "2026-10-06",
+   "priority": "normal",
    "topic": "Access and affordability",
    "related_registers": [],
    "duplicate_of": "",
-   "note": "Headline triage only. Read the source and verify its definition, geography and date before adding values.",
+   "note": "Open page read in full. The article attributes 'more than 23 million' Nigerians without meaningful internet access to unnamed industry figures and separately reports that the Federal Government's Project BRIDGE flags 'more than 33 million' as offline, without reconciling the two or defining 'meaningful access'; the summit's own theme refers to 'the next 25 million users'. No observation was recorded. Needed: the underlying NCC or Project BRIDGE dataset with its definition of access, reference date and geographic coverage.",
    "evidence_ids": []
   },
   {
@@ -3031,15 +3045,20 @@
    "headline": "Kenya reaches 52 million smartphones as mobile data use grows",
    "signal_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
    "feed_date_label": "Sep 19",
-   "review_state": "needs_source_review",
-   "review_basis": "automated_triage",
-   "reviewed_at": "",
-   "priority": "high",
+   "review_state": "evidence_added",
+   "review_basis": "source_checked",
+   "reviewed_at": "2026-10-06",
+   "priority": "normal",
    "topic": "Access and affordability",
    "related_registers": [],
    "duplicate_of": "",
-   "note": "Headline triage only. Read the source and verify its definition, geography and date before adding values.",
-   "evidence_ids": []
+   "note": "Open page read in full. Regulator-published device connections for two quarters, kept as device connections with the smartphone/feature-phone split preserved. Not a population or subscriber measure and not headline-eligible supplementary evidence.",
+   "evidence_ids": [
+    "kenya-smartphones-jun2026",
+    "kenya-featurephones-jun2026",
+    "kenya-devices-jun2026",
+    "kenya-smartphones-mar2026"
+   ]
   },
   {
    "id": "d9adba6c6e66d0",
@@ -4944,15 +4963,17 @@
    "headline": "MTN Ghana to deploy new spectrum to accelerate 5G expansion",
    "signal_url": "https://www.citinewsroom.com/2026/10/mtn-ghana-to-deploy-new-spectrum-to-accelerate-5g-expansion/",
    "feed_date_label": "Oct 5",
-   "review_state": "needs_source_review",
-   "review_basis": "automated_triage",
-   "reviewed_at": "",
-   "priority": "high",
+   "review_state": "evidence_added",
+   "review_basis": "source_checked",
+   "reviewed_at": "2026-10-06",
+   "priority": "normal",
    "topic": "Context and research",
    "related_registers": [],
    "duplicate_of": "",
-   "note": "Headline triage only. Read the source and verify its definition, geography and date before adding values.",
-   "evidence_ids": []
+   "note": "Open page read in full. The awarded spectrum price and band allocations are recorded; no capacity, coverage or capex figure is claimed from them.",
+   "evidence_ids": [
+    "gha-5g-spectrum-cost-2026"
+   ]
   },
   {
    "id": "bd937e60f8af34",
@@ -5296,14 +5317,14 @@
    "headline": "Continent 8 launches Johannesburg data centre, its first in Africa",
    "signal_url": "https://www.continent8.com/continent-8-technologies-launches-in-south-africa-extending-its-private-global-network-into-africa/",
    "feed_date_label": "Sep 30",
-   "review_state": "needs_source_review",
-   "review_basis": "automated_triage",
-   "reviewed_at": "",
-   "priority": "high",
+   "review_state": "needs_clarification",
+   "review_basis": "source_checked",
+   "reviewed_at": "2026-10-06",
+   "priority": "normal",
    "topic": "Capacity and investment",
    "related_registers": [],
    "duplicate_of": "",
-   "note": "Headline triage only. Read the source and verify its definition, geography and date before adding values.",
+   "note": "Company press release read in full. Announces a Johannesburg colocation facility for the iGaming sector, said to be live in Q4 2026, with no capacity, investment, employment or site figure and no AI-specific workload described. Nothing comparable to a project register row could be recorded and no capacity may be inferred. Needed: a capacity or investment disclosure, or a dated operating confirmation, before it can be considered for the infrastructure register.",
    "evidence_ids": []
   },
   {

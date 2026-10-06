@@ -142,6 +142,97 @@
         "sen-cybastion-financing-target"
       ],
       "note": "Company statement says USD300m financing target subject to agreements and approvals. Recorded separately from committed capital and project capex."
+    },
+    {
+      "signal_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
+      "decision": "evidence_added",
+      "reviewed_at": "2026-10-06",
+      "observation_ids": [
+        "kenya-smartphones-jun2026",
+        "kenya-featurephones-jun2026",
+        "kenya-devices-jun2026",
+        "kenya-smartphones-mar2026"
+      ],
+      "note": "Open page read in full. Regulator-published device connections for two quarters, kept as device connections with the smartphone/feature-phone split preserved. Not a population or subscriber measure and not headline-eligible supplementary evidence."
+    },
+    {
+      "signal_url": "https://techafricanews.com/2026/09/24/kenya-digital-literacy-programme-10382-junior-schools/",
+      "decision": "evidence_added",
+      "reviewed_at": "2026-10-06",
+      "observation_ids": [
+        "ken-digital-literacy-teachers"
+      ],
+      "note": "Open page read in full. The cumulative teacher count is recorded; the 10,382-school Phase II target is a planned scope and is kept in the observation note, not as a delivered count."
+    },
+    {
+      "signal_url": "https://news.outsourceaccelerator.com/egypt-digital-export-workforce/",
+      "decision": "evidence_added",
+      "reviewed_at": "2026-10-06",
+      "observation_ids": [
+        "egy-digital-services-exporters-2026"
+      ],
+      "note": "Open page read in full. A ministerial workforce figure with no reference year or definition is kept as supplementary evidence with those limits stated; no national employment inference is drawn."
+    },
+    {
+      "signal_url": "https://news.outsourceaccelerator.com/egypt-outsourcing-exports-2029/",
+      "decision": "evidence_added",
+      "reviewed_at": "2026-10-06",
+      "observation_ids": [
+        "egy-outsourcing-export-target-2029",
+        "egy-digital-export-interim-2028"
+      ],
+      "note": "Open page read in full. Government export targets recorded as targets, separate from any measured export value."
+    },
+    {
+      "signal_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
+      "decision": "evidence_added",
+      "reviewed_at": "2026-10-06",
+      "observation_ids": [
+        "egypt-mobile-production-2024",
+        "egypt-mobile-production-2025"
+      ],
+      "note": "Open page read in full. Two measured years of local mobile-device production recorded; the 2026 expectation and the demand range stay in the note rather than in the series."
+    },
+    {
+      "signal_url": "https://www.ecofinagency.com/news-services/1709-58988-nigeria-to-train-32-000-citizens-in-ai-and-cybersecurity-via-new-academy",
+      "decision": "evidence_added",
+      "reviewed_at": "2026-10-06",
+      "observation_ids": [
+        "nga-digital-academy-places"
+      ],
+      "note": "Open page read in full. Training places recorded as announced capacity, with applications, eligibility and first-cohort counts kept in the note. No completion or employment claim."
+    },
+    {
+      "signal_url": "https://techafricanews.com/2026/09/16/egypt-intel-train-one-million-citizens-ai-annually/",
+      "decision": "evidence_added",
+      "reviewed_at": "2026-10-06",
+      "observation_ids": [
+        "egy-ai-training-places"
+      ],
+      "note": "Open page read in full. A signed memorandum of understanding is an announcement: recorded as announced training capacity, not delivered training."
+    },
+    {
+      "signal_url": "https://www.citinewsroom.com/2026/10/mtn-ghana-to-deploy-new-spectrum-to-accelerate-5g-expansion/",
+      "decision": "evidence_added",
+      "reviewed_at": "2026-10-06",
+      "observation_ids": [
+        "gha-5g-spectrum-cost-2026"
+      ],
+      "note": "Open page read in full. The awarded spectrum price and band allocations are recorded; no capacity, coverage or capex figure is claimed from them."
+    },
+    {
+      "signal_url": "https://itpulse.com.ng/over-23-million-nigerians-still-offline-as-ruralconnect-summit-2-0-seeks-solutions/",
+      "decision": "needs_clarification",
+      "reviewed_at": "2026-10-06",
+      "observation_ids": [],
+      "note": "Open page read in full. The article attributes 'more than 23 million' Nigerians without meaningful internet access to unnamed industry figures and separately reports that the Federal Government's Project BRIDGE flags 'more than 33 million' as offline, without reconciling the two or defining 'meaningful access'; the summit's own theme refers to 'the next 25 million users'. No observation was recorded. Needed: the underlying NCC or Project BRIDGE dataset with its definition of access, reference date and geographic coverage."
+    },
+    {
+      "signal_url": "https://www.continent8.com/continent-8-technologies-launches-in-south-africa-extending-its-private-global-network-into-africa/",
+      "decision": "needs_clarification",
+      "reviewed_at": "2026-10-06",
+      "observation_ids": [],
+      "note": "Company press release read in full. Announces a Johannesburg colocation facility for the iGaming sector, said to be live in Q4 2026, with no capacity, investment, employment or site figure and no AI-specific workload described. Nothing comparable to a project register row could be recorded and no capacity may be inferred. Needed: a capacity or investment disclosure, or a dated operating confirmation, before it can be considered for the infrastructure register."
     }
   ]
 }
