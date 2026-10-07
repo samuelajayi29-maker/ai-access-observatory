@@ -1,0 +1,100 @@
+{
+ "series": [
+  {
+   "id": "context-eskom-20a",
+   "title": "Eskom Homelight 20A electricity rate",
+   "unit": "ZAR per kWh, VAT included",
+   "pillar": "infrastructure",
+   "source": "Eskom tariff books, Homelight non-local authority table",
+   "source_url": "https://www.eskom.co.za/distribution/wp-content/uploads/2026/07/Eskom-Tariff-booklet_Final.pdf",
+   "source_tier": 1,
+   "status": "reported",
+   "retrieved_at": "2026-10-07",
+   "definition": "Published flat active-energy charge for Eskom direct Homelight 20A customers in South Africa, VAT included. Cents per kWh divided by 100 to obtain ZAR/kWh. Not a national average, municipal resale, industrial tariff or modelled household bill. Applicable tariff years start on 1 April.",
+   "revision_note": "Flat-rate structure introduced in April 2025. Earlier inclining-block prices are incompatible and not joined. No foreign-exchange conversion. Rate validity ends 31 March of the next year; subsequent tariff changes need a new source review.",
+   "licence": "Underlying Eskom source terms apply; numerical facts transcribed with attribution",
+   "points": {
+    "ZAF": [
+     [
+      2025,
+      2.4853,
+      {
+       "source_url": "https://www.eskom.co.za/distribution/wp-content/uploads/2026/03/Tariff-booklet2.pdf",
+       "snapshot": "data/reference/context-history-snapshots/eskom-2025.pdf",
+       "snapshot_sha256": "f4e1e8a11f734931a0ab10d442c683c2f2c4395c84feeb7d0501c89cf5d73123",
+       "effective_from": "2025-04-01",
+       "effective_until": "2026-03-31",
+       "tax": "VAT included",
+       "customer_class": "Eskom direct Homelight residential; not municipal resale",
+       "currency": "ZAR",
+       "source_page": 31
+      }
+     ],
+     [
+      2026,
+      2.703,
+      {
+       "source_url": "https://www.eskom.co.za/distribution/wp-content/uploads/2026/07/Eskom-Tariff-booklet_Final.pdf",
+       "snapshot": "data/reference/context-history-snapshots/eskom-2026.pdf",
+       "snapshot_sha256": "eef82b077d7df4dd7b157ce757e2e56368170cec3bb69614fd81042451a1be84",
+       "effective_from": "2026-04-01",
+       "effective_until": "2027-03-31",
+       "tax": "VAT included",
+       "customer_class": "Eskom direct Homelight residential; not municipal resale",
+       "currency": "ZAR",
+       "source_page": 30
+      }
+     ]
+    ]
+   }
+  },
+  {
+   "id": "context-eskom-60a",
+   "title": "Eskom Homelight 60A electricity rate",
+   "unit": "ZAR per kWh, VAT included",
+   "pillar": "infrastructure",
+   "source": "Eskom tariff books, Homelight non-local authority table",
+   "source_url": "https://www.eskom.co.za/distribution/wp-content/uploads/2026/07/Eskom-Tariff-booklet_Final.pdf",
+   "source_tier": 1,
+   "status": "reported",
+   "retrieved_at": "2026-10-07",
+   "definition": "Published flat active-energy charge for Eskom direct Homelight 60A customers in South Africa, VAT included. Cents per kWh divided by 100 to obtain ZAR/kWh. Not a national average, municipal resale, industrial tariff or modelled household bill. Applicable tariff years start on 1 April.",
+   "revision_note": "Flat-rate structure introduced in April 2025. Earlier inclining-block prices are incompatible and not joined. No foreign-exchange conversion. Rate validity ends 31 March of the next year; subsequent tariff changes need a new source review.",
+   "licence": "Underlying Eskom source terms apply; numerical facts transcribed with attribution",
+   "points": {
+    "ZAF": [
+     [
+      2025,
+      3.1593,
+      {
+       "source_url": "https://www.eskom.co.za/distribution/wp-content/uploads/2026/03/Tariff-booklet2.pdf",
+       "snapshot": "data/reference/context-history-snapshots/eskom-2025.pdf",
+       "snapshot_sha256": "f4e1e8a11f734931a0ab10d442c683c2f2c4395c84feeb7d0501c89cf5d73123",
+       "effective_from": "2025-04-01",
+       "effective_until": "2026-03-31",
+       "tax": "VAT included",
+       "customer_class": "Eskom direct Homelight residential; not municipal resale",
+       "currency": "ZAR",
+       "source_page": 31
+      }
+     ],
+     [
+      2026,
+      3.4361,
+      {
+       "source_url": "https://www.eskom.co.za/distribution/wp-content/uploads/2026/07/Eskom-Tariff-booklet_Final.pdf",
+       "snapshot": "data/reference/context-history-snapshots/eskom-2026.pdf",
+       "snapshot_sha256": "eef82b077d7df4dd7b157ce757e2e56368170cec3bb69614fd81042451a1be84",
+       "effective_from": "2026-04-01",
+       "effective_until": "2027-03-31",
+       "tax": "VAT included",
+       "customer_class": "Eskom direct Homelight residential; not municipal resale",
+       "currency": "ZAR",
+       "source_page": 30
+      }
+     ]
+    ]
+   }
+  }
+ ]
+}

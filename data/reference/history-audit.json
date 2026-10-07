@@ -1,0 +1,1954 @@
+{
+ "audited_at": "2026-10-07",
+ "initial_audit": {
+  "audited_at": "2026-10-07",
+  "datasets": [
+   {
+    "id": "jobs-tasks",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "jobs-weighted",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "access-workload",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "access-gni-a5ee67b5769bd6",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "access-gni-1b3c7f8e637e14",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "access-gni-1b6b70b55ddf77",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "access-gni-8ca53a3da78eb5",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "access-gni-4e2ddcfc52b369",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "access-gni-39ee5ea823fb83",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "access-gni-b615c1e4921f7f",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "access-gni-cd8eedc764b607",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "access-gni-9e0dc31d2bbeb6",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "access-gni-4c15583ff6e2f4",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "access-gni-2719c688ad2de0",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "access-gni-95d3f179cfe80e",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "access-gni-d1fe05702b9f9f",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-b5b98aca3bd72d",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-1395d770ec39f4",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-52ffc9965c0c41",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-9aadb990f4a30d",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-d7944296fc092b",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-613c56ac93966a",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-ef6115398236f7",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-2557bb3c05d3ef",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-0b9490b7f7265a",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-e0c3ed6ebdcf3e",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-8adb91b719d575",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-7de8789b8e5af7",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-3b5d226831ce40",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-3c4c51f28f3826",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-7a778b3899e756",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-380f0e43bd7c1a",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-5bf92a149e9ca4",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-caa059b992e451",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-c886c9b5f7c601",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-3255496a351996",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-73a2223a99159f",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-b28a6b2e8aa6cd",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-d90e66a5308208",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-ddcbf741a460b2",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-0461c0c14f0f8b",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-cb6fa28b37125d",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-01ccb3972320a5",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-c2f81ef6eca40a",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-2dc0e9c01fde0c",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-b76bb07b9cdf41",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-0b346670e54663",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-b2b4eea44109b5",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-29550e4706a414",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-0b7be5d8092387",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-fa6ba4e7944086",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-9324c37757254c",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-c49cf33f91a559",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-08c3357ec6f741",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-1c4b51630e5e78",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-0fa4246d9d8835",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-1a9f9ebe9e0159",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-864c7c1bc55ad6",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-0863f875bb2375",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-6e4327aaae546e",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-e3fa7900d3ec69",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-b3b0de656cacfc",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-dc6f5bc19f1e52",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-1b53e410c70d3f",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-37aa057fe95e8a",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-d3af1f575e253b",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-5fd3d0f96acda9",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-c78279ab0007f1",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-ff9fdd8a54d08d",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-076b9e5f98a77a",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-5fe1fd2e51acfd",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-52403ce82d34ac",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-fe66fe6af408d7",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "subscription-dcd6c9274a425d",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "context-IT.NET.USER.ZS",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "context-IT.CEL.SETS.P2",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "context-IT.NET.BBND.P2",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "context-EG.ELC.ACCS.ZS",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "context-IC.ELC.OUTG.ZS",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "context-IC.FRM.OUTG.ZS",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "infra-capacity-by-status",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "infra-capacity_mw-announced",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "infra-capex_usd-announced",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "infra-capacity_mw-appeal_pending",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "infra-capex_usd-appeal_pending",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "infra-capacity_mw-approved",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "infra-capex_usd-approved",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "infra-capacity_mw-exploring",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "infra-capex_usd-exploring",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "infra-capacity_mw-funding",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "infra-capex_usd-funding",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "infra-committed_capital_lower_bound_usd-funding",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "infra-capacity_mw-operational",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "infra-capex_usd-operational",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "infra-capacity_mw-policy_target",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "infra-capex_usd-policy_target",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "infra-investment_target_usd-policy_target",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "infra-capacity_mw-under_construction",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "infra-capex_usd-under_construction",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "evidence-handset-poorest-fifth",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "evidence-africa-mobile-gap",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "evidence-rwanda-additional-users",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "evidence-rwanda-reform-growth",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "evidence-rwanda-fiscal-benefit",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "evidence-bpo-automatable",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "evidence-bpo-resilient",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "evidence-bpo-entry-level",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "evidence-bpo-customer-experience",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "evidence-nvidia-africa-training",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "evidence-nga-survey-ai-tools",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "evidence-sen-cybastion-financing-target",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "evidence-kenya-mobile-connections",
+    "history_verified": false,
+    "countries_with_multiple_periods": 1,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "evidence-egypt-mobile-device-production",
+    "history_verified": false,
+    "countries_with_multiple_periods": 1,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "evidence-egypt-digital-services-exporters",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "evidence-egypt-digital-export-target",
+    "history_verified": false,
+    "countries_with_multiple_periods": 1,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "evidence-kenya-digital-literacy-teachers",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "evidence-nigeria-digital-training-places",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "evidence-egypt-ai-training-places",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "evidence-ghana-5g-spectrum-cost",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "signal-counts",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "review-counts",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "adoption-survey-ai-2025",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "adoption-survey-genai-2025",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "adoption-estimate-h1-2025",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "adoption-estimate-h2-2025",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "cost-mobile-usd-2025",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "cost-mobile-gni-2025",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "cost-fixed-usd-2025",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "cost-fixed-gni-2025",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "jobs-pnet-ai-vacancy-growth",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "adoption-workforce-any-ai",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "adoption-workforce-daily-genai",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "compute-site-it-capacity",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "data-centres-listed",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "data-centres-operational",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "economy-SL.UEM.TOTL.ZS",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "economy-SL.UEM.TOTL.ZS-history",
+    "history_verified": true,
+    "countries_with_multiple_periods": 53,
+    "reason": "Canonical annual observations, 2019–2025 in the existing build."
+   },
+   {
+    "id": "economy-SL.UEM.1524.ZS",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "economy-SL.UEM.1524.ZS-history",
+    "history_verified": true,
+    "countries_with_multiple_periods": 53,
+    "reason": "Canonical annual observations, 2019–2025 in the existing build."
+   },
+   {
+    "id": "economy-SL.TLF.CACT.ZS",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "economy-SL.TLF.CACT.ZS-history",
+    "history_verified": true,
+    "countries_with_multiple_periods": 53,
+    "reason": "Canonical annual observations, 2019–2025 in the existing build."
+   },
+   {
+    "id": "economy-NY.GDP.MKTP.KD.ZG",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "economy-NY.GDP.MKTP.KD.ZG-history",
+    "history_verified": true,
+    "countries_with_multiple_periods": 52,
+    "reason": "Canonical annual observations, 2019–2025 in the existing build."
+   },
+   {
+    "id": "economy-NY.GDP.PCAP.CD",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "economy-NY.GDP.PCAP.CD-history",
+    "history_verified": true,
+    "countries_with_multiple_periods": 52,
+    "reason": "Canonical annual observations, 2019–2025 in the existing build."
+   },
+   {
+    "id": "economy-FP.CPI.TOTL.ZG",
+    "history_verified": false,
+    "countries_with_multiple_periods": 0,
+    "reason": "Snapshot or mixed records; different country dates and correction events do not establish repeat measurement."
+   },
+   {
+    "id": "economy-FP.CPI.TOTL.ZG-history",
+    "history_verified": true,
+    "countries_with_multiple_periods": 50,
+    "reason": "Canonical annual observations, 2019–2025 in the existing build."
+   }
+  ],
+  "release_archive": "releases.json retains one v2026.10 manifest. _ref_build is a reconstruction reference, not a dated monthly observation series. Git build history and correction logs are not promoted as observations.",
+  "future_history": "API/model/device/subscription prices can accumulate dated observations when the same defined product is re-observed. Job exposure needs new comparable research. Capacity needs repeat facility observations with status and scope retained.",
+  "review": "Bespoke AI measures were audited internally; no pre-existence historical series was assumed or fabricated."
+ },
+ "final_audit": [
+  {
+   "id": "jobs-tasks",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "jobs-weighted",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "access-workload",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "access-gni-a5ee67b5769bd6",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "access-gni-1b3c7f8e637e14",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "access-gni-1b6b70b55ddf77",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "access-gni-8ca53a3da78eb5",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "access-gni-4e2ddcfc52b369",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "access-gni-39ee5ea823fb83",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "access-gni-b615c1e4921f7f",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "access-gni-cd8eedc764b607",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "access-gni-9e0dc31d2bbeb6",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "access-gni-4c15583ff6e2f4",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "access-gni-2719c688ad2de0",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "access-gni-95d3f179cfe80e",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "access-gni-d1fe05702b9f9f",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-b5b98aca3bd72d",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-1395d770ec39f4",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-52ffc9965c0c41",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-9aadb990f4a30d",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-d7944296fc092b",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-613c56ac93966a",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-ef6115398236f7",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-2557bb3c05d3ef",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-0b9490b7f7265a",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-e0c3ed6ebdcf3e",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-8adb91b719d575",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-7de8789b8e5af7",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-3b5d226831ce40",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-3c4c51f28f3826",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-7a778b3899e756",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-380f0e43bd7c1a",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-5bf92a149e9ca4",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-caa059b992e451",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-c886c9b5f7c601",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-3255496a351996",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-73a2223a99159f",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-b28a6b2e8aa6cd",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-d90e66a5308208",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-ddcbf741a460b2",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-0461c0c14f0f8b",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-cb6fa28b37125d",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-01ccb3972320a5",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-c2f81ef6eca40a",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-2dc0e9c01fde0c",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-b76bb07b9cdf41",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-0b346670e54663",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-b2b4eea44109b5",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-29550e4706a414",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-0b7be5d8092387",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-fa6ba4e7944086",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-9324c37757254c",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-c49cf33f91a559",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-08c3357ec6f741",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-1c4b51630e5e78",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-0fa4246d9d8835",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-1a9f9ebe9e0159",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-864c7c1bc55ad6",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-0863f875bb2375",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-6e4327aaae546e",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-e3fa7900d3ec69",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-b3b0de656cacfc",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-dc6f5bc19f1e52",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-1b53e410c70d3f",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-37aa057fe95e8a",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-d3af1f575e253b",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-5fd3d0f96acda9",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-c78279ab0007f1",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-ff9fdd8a54d08d",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-076b9e5f98a77a",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-5fe1fd2e51acfd",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-52403ce82d34ac",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-fe66fe6af408d7",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "subscription-dcd6c9274a425d",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "context-IT.CEL.SETS.P2",
+   "category": "Context indicators",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "context-IT.NET.BBND.P2",
+   "category": "Context indicators",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "context-IC.ELC.OUTG.ZS",
+   "category": "Context indicators",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "context-IC.FRM.OUTG.ZS",
+   "category": "Context indicators",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "infra-capacity-by-status",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "infra-capacity_mw-announced",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "infra-capex_usd-announced",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "infra-capacity_mw-appeal_pending",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "infra-capex_usd-appeal_pending",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "infra-capacity_mw-approved",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "infra-capex_usd-approved",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "infra-capacity_mw-exploring",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "infra-capex_usd-exploring",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "infra-capacity_mw-funding",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "infra-capex_usd-funding",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "infra-committed_capital_lower_bound_usd-funding",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "infra-capacity_mw-operational",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "infra-capex_usd-operational",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "infra-capacity_mw-policy_target",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "infra-capex_usd-policy_target",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "infra-investment_target_usd-policy_target",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "infra-capacity_mw-under_construction",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "infra-capex_usd-under_construction",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "evidence-handset-poorest-fifth",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "evidence-africa-mobile-gap",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "evidence-rwanda-additional-users",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "evidence-rwanda-reform-growth",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "evidence-rwanda-fiscal-benefit",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "evidence-bpo-automatable",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "evidence-bpo-resilient",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "evidence-bpo-entry-level",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "evidence-bpo-customer-experience",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "evidence-nvidia-africa-training",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "evidence-nga-survey-ai-tools",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "evidence-sen-cybastion-financing-target",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "evidence-kenya-mobile-connections",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "evidence-egypt-mobile-device-production",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "evidence-egypt-digital-services-exporters",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "evidence-egypt-digital-export-target",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "evidence-kenya-digital-literacy-teachers",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "evidence-nigeria-digital-training-places",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "evidence-egypt-ai-training-places",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "evidence-ghana-5g-spectrum-cost",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "signal-counts",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "review-counts",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "adoption-survey-ai-2025",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "adoption-survey-genai-2025",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "adoption-estimate-h1-2025",
+   "category": "AI-specific",
+   "history_verified": true,
+   "reason": "Verified dated observations, source metadata and missing periods preserved."
+  },
+  {
+   "id": "adoption-estimate-h2-2025",
+   "category": "AI-specific",
+   "history_verified": true,
+   "reason": "Verified dated observations, source metadata and missing periods preserved."
+  },
+  {
+   "id": "cost-mobile-usd-2025",
+   "category": "Context indicators",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "cost-mobile-gni-2025",
+   "category": "Context indicators",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "cost-fixed-usd-2025",
+   "category": "Context indicators",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "cost-fixed-gni-2025",
+   "category": "Context indicators",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "jobs-pnet-ai-vacancy-growth",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "adoption-workforce-any-ai",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "adoption-workforce-daily-genai",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "compute-site-it-capacity",
+   "category": "AI-specific",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "data-centres-listed",
+   "category": "Context indicators",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "data-centres-operational",
+   "category": "Context indicators",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "economy-SL.UEM.TOTL.ZS",
+   "category": "Context indicators",
+   "history_verified": true,
+   "reason": "Verified dated observations, source metadata and missing periods preserved."
+  },
+  {
+   "id": "economy-SL.UEM.1524.ZS",
+   "category": "Context indicators",
+   "history_verified": true,
+   "reason": "Verified dated observations, source metadata and missing periods preserved."
+  },
+  {
+   "id": "economy-SL.TLF.CACT.ZS",
+   "category": "Context indicators",
+   "history_verified": true,
+   "reason": "Verified dated observations, source metadata and missing periods preserved."
+  },
+  {
+   "id": "economy-NY.GDP.MKTP.KD.ZG",
+   "category": "Context indicators",
+   "history_verified": true,
+   "reason": "Verified dated observations, source metadata and missing periods preserved."
+  },
+  {
+   "id": "economy-NY.GDP.PCAP.CD",
+   "category": "Context indicators",
+   "history_verified": true,
+   "reason": "Verified dated observations, source metadata and missing periods preserved."
+  },
+  {
+   "id": "economy-FP.CPI.TOTL.ZG",
+   "category": "Context indicators",
+   "history_verified": true,
+   "reason": "Verified dated observations, source metadata and missing periods preserved."
+  },
+  {
+   "id": "context-EG.ELC.ACCS.ZS",
+   "category": "Context indicators",
+   "history_verified": true,
+   "reason": "Verified dated observations, source metadata and missing periods preserved."
+  },
+  {
+   "id": "context-IT.NET.USER.ZS",
+   "category": "Context indicators",
+   "history_verified": true,
+   "reason": "Verified dated observations, source metadata and missing periods preserved."
+  },
+  {
+   "id": "economy-NV.IND.MANF.ZS",
+   "category": "Context indicators",
+   "history_verified": true,
+   "reason": "Verified dated observations, source metadata and missing periods preserved."
+  },
+  {
+   "id": "economy-SL.GDP.PCAP.EM.KD",
+   "category": "Context indicators",
+   "history_verified": true,
+   "reason": "Verified dated observations, source metadata and missing periods preserved."
+  },
+  {
+   "id": "context-generation-capacity",
+   "category": "Context indicators",
+   "history_verified": true,
+   "reason": "Verified dated observations, source metadata and missing periods preserved."
+  },
+  {
+   "id": "context-eskom-20a",
+   "category": "Context indicators",
+   "history_verified": true,
+   "reason": "Verified dated observations, source metadata and missing periods preserved."
+  },
+  {
+   "id": "context-eskom-60a",
+   "category": "Context indicators",
+   "history_verified": true,
+   "reason": "Verified dated observations, source metadata and missing periods preserved."
+  },
+  {
+   "id": "country-project-capacity_mw-announced",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "country-project-capex_usd-announced",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "country-project-capex_usd-approved",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "country-project-capex_usd-funding",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "country-project-capacity_mw-operational",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "country-project-capex_usd-operational",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "country-project-capacity_mw-under_construction",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "country-project-capex_usd-under_construction",
+   "category": "Supporting evidence",
+   "history_verified": false,
+   "reason": "Snapshot or mixed records; not exposed as a time series."
+  },
+  {
+   "id": "evidence-egypt-production-history",
+   "category": "Supporting evidence",
+   "history_verified": true,
+   "reason": "Verified dated observations, source metadata and missing periods preserved."
+  },
+  {
+   "id": "evidence-kenya-smartphone-history",
+   "category": "Supporting evidence",
+   "history_verified": true,
+   "reason": "Verified dated observations, source metadata and missing periods preserved."
+  }
+ ],
+ "history_details": [
+  {
+   "id": "economy-SL.UEM.TOTL.ZS",
+   "frequency": 1,
+   "countries_with_multiple_values": 53,
+   "source": "https://api.worldbank.org/v2/country/AGO;BDI;BEN;BFA;BWA;CAF;CIV;CMR;COD;COG;COM;CPV;DJI;DZA;EGY;ERI;ETH;GAB;GHA;GIN;GMB;GNB;GNQ;KEN;LBR;LBY;LSO;MAR;MDG;MLI;MOZ;MRT;MUS;MWI;NAM;NER;NGA;RWA;SDN;SEN;SLE;SOM;SSD;STP;SWZ;SYC;TCD;TGO;TUN;TZA;UGA;ZAF;ZMB;ZWE/indicator/SL.UEM.TOTL.ZS?format=json&date=1960:2025&per_page=20000",
+   "revision": "c51ef6adca6988"
+  },
+  {
+   "id": "economy-SL.UEM.1524.ZS",
+   "frequency": 1,
+   "countries_with_multiple_values": 53,
+   "source": "https://api.worldbank.org/v2/country/AGO;BDI;BEN;BFA;BWA;CAF;CIV;CMR;COD;COG;COM;CPV;DJI;DZA;EGY;ERI;ETH;GAB;GHA;GIN;GMB;GNB;GNQ;KEN;LBR;LBY;LSO;MAR;MDG;MLI;MOZ;MRT;MUS;MWI;NAM;NER;NGA;RWA;SDN;SEN;SLE;SOM;SSD;STP;SWZ;SYC;TCD;TGO;TUN;TZA;UGA;ZAF;ZMB;ZWE/indicator/SL.UEM.1524.ZS?format=json&date=1960:2025&per_page=20000",
+   "revision": "d4aae5d2c9c744"
+  },
+  {
+   "id": "economy-SL.TLF.CACT.ZS",
+   "frequency": 1,
+   "countries_with_multiple_values": 53,
+   "source": "https://api.worldbank.org/v2/country/AGO;BDI;BEN;BFA;BWA;CAF;CIV;CMR;COD;COG;COM;CPV;DJI;DZA;EGY;ERI;ETH;GAB;GHA;GIN;GMB;GNB;GNQ;KEN;LBR;LBY;LSO;MAR;MDG;MLI;MOZ;MRT;MUS;MWI;NAM;NER;NGA;RWA;SDN;SEN;SLE;SOM;SSD;STP;SWZ;SYC;TCD;TGO;TUN;TZA;UGA;ZAF;ZMB;ZWE/indicator/SL.TLF.CACT.ZS?format=json&date=1960:2025&per_page=20000",
+   "revision": "ae9530290d6e60"
+  },
+  {
+   "id": "economy-NY.GDP.MKTP.KD.ZG",
+   "frequency": 1,
+   "countries_with_multiple_values": 54,
+   "source": "https://api.worldbank.org/v2/country/AGO;BDI;BEN;BFA;BWA;CAF;CIV;CMR;COD;COG;COM;CPV;DJI;DZA;EGY;ERI;ETH;GAB;GHA;GIN;GMB;GNB;GNQ;KEN;LBR;LBY;LSO;MAR;MDG;MLI;MOZ;MRT;MUS;MWI;NAM;NER;NGA;RWA;SDN;SEN;SLE;SOM;SSD;STP;SWZ;SYC;TCD;TGO;TUN;TZA;UGA;ZAF;ZMB;ZWE/indicator/NY.GDP.MKTP.KD.ZG?format=json&date=1960:2025&per_page=20000",
+   "revision": "cc25ec258dd92a"
+  },
+  {
+   "id": "economy-NY.GDP.PCAP.CD",
+   "frequency": 1,
+   "countries_with_multiple_values": 54,
+   "source": "https://api.worldbank.org/v2/country/AGO;BDI;BEN;BFA;BWA;CAF;CIV;CMR;COD;COG;COM;CPV;DJI;DZA;EGY;ERI;ETH;GAB;GHA;GIN;GMB;GNB;GNQ;KEN;LBR;LBY;LSO;MAR;MDG;MLI;MOZ;MRT;MUS;MWI;NAM;NER;NGA;RWA;SDN;SEN;SLE;SOM;SSD;STP;SWZ;SYC;TCD;TGO;TUN;TZA;UGA;ZAF;ZMB;ZWE/indicator/NY.GDP.PCAP.CD?format=json&date=1960:2025&per_page=20000",
+   "revision": "6695a68b48683d"
+  },
+  {
+   "id": "economy-FP.CPI.TOTL.ZG",
+   "frequency": 1,
+   "countries_with_multiple_values": 52,
+   "source": "https://api.worldbank.org/v2/country/AGO;BDI;BEN;BFA;BWA;CAF;CIV;CMR;COD;COG;COM;CPV;DJI;DZA;EGY;ERI;ETH;GAB;GHA;GIN;GMB;GNB;GNQ;KEN;LBR;LBY;LSO;MAR;MDG;MLI;MOZ;MRT;MUS;MWI;NAM;NER;NGA;RWA;SDN;SEN;SLE;SOM;SSD;STP;SWZ;SYC;TCD;TGO;TUN;TZA;UGA;ZAF;ZMB;ZWE/indicator/FP.CPI.TOTL.ZG?format=json&date=1960:2025&per_page=20000",
+   "revision": "9ae2a70598cdb4"
+  },
+  {
+   "id": "context-EG.ELC.ACCS.ZS",
+   "frequency": 1,
+   "countries_with_multiple_values": 54,
+   "source": "https://api.worldbank.org/v2/country/AGO;BDI;BEN;BFA;BWA;CAF;CIV;CMR;COD;COG;COM;CPV;DJI;DZA;EGY;ERI;ETH;GAB;GHA;GIN;GMB;GNB;GNQ;KEN;LBR;LBY;LSO;MAR;MDG;MLI;MOZ;MRT;MUS;MWI;NAM;NER;NGA;RWA;SDN;SEN;SLE;SOM;SSD;STP;SWZ;SYC;TCD;TGO;TUN;TZA;UGA;ZAF;ZMB;ZWE/indicator/EG.ELC.ACCS.ZS?format=json&date=1960:2025&per_page=20000",
+   "revision": "a49af2c69eb456"
+  },
+  {
+   "id": "context-IT.NET.USER.ZS",
+   "frequency": 1,
+   "countries_with_multiple_values": 54,
+   "source": "https://api.worldbank.org/v2/country/AGO;BDI;BEN;BFA;BWA;CAF;CIV;CMR;COD;COG;COM;CPV;DJI;DZA;EGY;ERI;ETH;GAB;GHA;GIN;GMB;GNB;GNQ;KEN;LBR;LBY;LSO;MAR;MDG;MLI;MOZ;MRT;MUS;MWI;NAM;NER;NGA;RWA;SDN;SEN;SLE;SOM;SSD;STP;SWZ;SYC;TCD;TGO;TUN;TZA;UGA;ZAF;ZMB;ZWE/indicator/IT.NET.USER.ZS?format=json&date=1960:2025&per_page=20000",
+   "revision": "a23ff1dfa06a98"
+  },
+  {
+   "id": "economy-NV.IND.MANF.ZS",
+   "frequency": 1,
+   "countries_with_multiple_values": 54,
+   "source": "https://api.worldbank.org/v2/country/AGO;BDI;BEN;BFA;BWA;CAF;CIV;CMR;COD;COG;COM;CPV;DJI;DZA;EGY;ERI;ETH;GAB;GHA;GIN;GMB;GNB;GNQ;KEN;LBR;LBY;LSO;MAR;MDG;MLI;MOZ;MRT;MUS;MWI;NAM;NER;NGA;RWA;SDN;SEN;SLE;SOM;SSD;STP;SWZ;SYC;TCD;TGO;TUN;TZA;UGA;ZAF;ZMB;ZWE/indicator/NV.IND.MANF.ZS?format=json&date=1960:2025&per_page=20000",
+   "revision": "6a7f4428d843c5"
+  },
+  {
+   "id": "economy-SL.GDP.PCAP.EM.KD",
+   "frequency": 1,
+   "countries_with_multiple_values": 51,
+   "source": "https://api.worldbank.org/v2/country/AGO;BDI;BEN;BFA;BWA;CAF;CIV;CMR;COD;COG;COM;CPV;DJI;DZA;EGY;ERI;ETH;GAB;GHA;GIN;GMB;GNB;GNQ;KEN;LBR;LBY;LSO;MAR;MDG;MLI;MOZ;MRT;MUS;MWI;NAM;NER;NGA;RWA;SDN;SEN;SLE;SOM;SSD;STP;SWZ;SYC;TCD;TGO;TUN;TZA;UGA;ZAF;ZMB;ZWE/indicator/SL.GDP.PCAP.EM.KD?format=json&date=1960:2025&per_page=20000",
+   "revision": "08610a00dd46ef"
+  },
+  {
+   "id": "context-generation-capacity",
+   "frequency": 1,
+   "countries_with_multiple_values": 54,
+   "source": "https://www.eia.gov/international/data/world/electricity/electricity-capacity",
+   "revision": "039b9b369dc6e5"
+  },
+  {
+   "id": "context-eskom-20a",
+   "frequency": 1,
+   "countries_with_multiple_values": 1,
+   "source": "https://www.eskom.co.za/distribution/wp-content/uploads/2026/07/Eskom-Tariff-booklet_Final.pdf",
+   "revision": "2d72912fb232b3"
+  },
+  {
+   "id": "context-eskom-60a",
+   "frequency": 1,
+   "countries_with_multiple_values": 1,
+   "source": "https://www.eskom.co.za/distribution/wp-content/uploads/2026/07/Eskom-Tariff-booklet_Final.pdf",
+   "revision": "ec70f9d3b4fe12"
+  },
+  {
+   "id": "adoption-estimate-h1-2025",
+   "frequency": 0.5,
+   "countries_with_multiple_values": 46,
+   "source": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/Microsoft-AI-Diffusion-Report-January-2026.pdf",
+   "revision": "00a91b1c8c7c3a"
+  },
+  {
+   "id": "adoption-estimate-h2-2025",
+   "frequency": 0.5,
+   "countries_with_multiple_values": 46,
+   "source": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/Microsoft-AI-Diffusion-Report-January-2026.pdf",
+   "revision": "c7c516c7cd0578"
+  },
+  {
+   "id": "evidence-egypt-production-history",
+   "frequency": 1,
+   "countries_with_multiple_values": 1,
+   "source": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
+   "revision": "008fa8c9d02fef"
+  },
+  {
+   "id": "evidence-kenya-smartphone-history",
+   "frequency": 0.25,
+   "countries_with_multiple_values": 1,
+   "source": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
+   "revision": "9431cb45aa6bc8"
+  }
+ ],
+ "retained_release_audit": "retained-release-audit.json",
+ "report": "history-audit.md"
+}

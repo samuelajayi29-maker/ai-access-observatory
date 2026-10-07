@@ -11,12 +11,15 @@
   "data/subscription-register.csv": "3d69a4e3eeaf1479336eebde13ba3077f37136dd17565e9cd56f1165ecde599a",
   "data/reference/gni-per-capita.csv": "cf064eb77bbff26f65cd43fe3964d9dc962a5398e48207991c7d3482b7a7e177",
   "data/reference/home-figures.json": "22c7849f1962853b5d6e9ee479f4a33f41dd97fa413d2377d50c307934de5c96",
-  "data/reference/country-context.csv": "1e21370d7af1f113a2181cd122d43edf4e68ad3be4112f2f3375148a85c0cfc6",
+  "data/reference/country-context.csv": "a7f1d4fdaff79bdb0d49e38fe4c1a41747dd1b34841aa078ff1c123d5cf1a34e",
   "data/reference/signal-evidence.json": "cfa55e5cfe72d64f26651af593d6878d654bfbe8a83794c7588b6ad89747c74f",
   "data/reference/signal-review-decisions.json": "8eec5ec4657b7c09663911499782e43208f4c3c740ca98d39ca57df736fc1637",
   "data/reference/priority-evidence.json": "c76a3bb3ccbb8c40f50037bd6540a26c43cde17e31ab8ea2950c768cd64d0f32",
   "data/reference/data-centres-corpus-2026-10-05.csv": "a6fb560948aa9de1bfcbcac0ab4e54df45b48f0213100ef83a20084e91a35e0f",
-  "data/reference/economic-context.json": "c2e36031ab86041fabb66e15ec6f0c6e109b4f68a6c36479fcf534a1ebcce92a"
+  "data/reference/economic-context.json": "5e2182c40215a71c04c727d89afc25e73ed378220680e7c2a9fbe40469175f1a",
+  "data/reference/context-history-wdi.json": "122cb44299bc3d5c749b7aca8666900e7dce991d8a320b5ae0062f3ac18df31b",
+  "data/reference/capacity-history.json": "fc4564901f53be4db634eace174bacf103e114c0f214467bf62f52fa918092d9",
+  "data/reference/electricity-tariffs.json": "d3afedd6dfc02a8d69e140b38c8fee34e0d489c928ccf5d2e585878e3b6c8570"
  },
  "presets": [
   {

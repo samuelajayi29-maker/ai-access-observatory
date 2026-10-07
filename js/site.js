@@ -743,7 +743,7 @@
   });
 })();
 
-// A chart is revealed once, when first viewed. Interaction redraws stay immediate.
+// A static chart is revealed once; interactive comparison controls own their transitions.
 (function () {
   function enhance() {
     document.querySelectorAll('table td').forEach(function(cell) {
@@ -783,4 +783,24 @@
   });
  }
  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',statusRows);else statusRows();
+})();
+
+// Standalone figures count once; assistive technology reads the final value.
+(function () {
+ function start() {
+  if(matchMedia('(prefers-reduced-motion: reduce)').matches || !window.IntersectionObserver)return;
+  var observer=new IntersectionObserver(function(entries){entries.forEach(function(entry){
+   if(!entry.isIntersecting)return;observer.unobserve(entry.target);
+   var node=entry.target,final=node.textContent,match=final.trim().match(/^([\d,]+(?:\.\d+)?)(%)?$/);
+   if(!match)return;
+   var value=Number(match[1].replace(/,/g,'')),decimals=(match[1].split('.')[1]||'').length,start;
+   node.setAttribute('aria-label',final);var span=document.createElement('span');span.setAttribute('aria-hidden','true');node.replaceChildren(span);
+   function frame(now){if(!start)start=now;var t=Math.min(1,(now-start)/700);if(matchMedia('(prefers-reduced-motion: reduce)').matches)t=1;
+    span.textContent=(value*(1-Math.pow(1-t,3))).toLocaleString('en',{minimumFractionDigits:decimals,maximumFractionDigits:decimals})+(match[2]||'');
+    if(t<1)requestAnimationFrame(frame);else span.textContent=final;}
+   requestAnimationFrame(frame);
+  });},{threshold:.5});
+  document.querySelectorAll('.glance__value,.economy-value').forEach(function(node){observer.observe(node);});
+ }
+ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start);else start();
 })();

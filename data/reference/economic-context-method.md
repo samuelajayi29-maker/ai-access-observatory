@@ -1,28 +1,15 @@
-# Country economic context
+# Economic context collection
 
-Retrieved 6 October 2026 from World Bank World Development Indicators and its
-originating agencies. Six separate indicators cover unemployment, youth
-unemployment, labour force participation, real GDP growth, GDP per capita and
-consumer price inflation. The observation window is 2019–2025, not a live feed.
+The existing six measures now use their full available WDI back-series, alongside
+manufacturing value added (% GDP) and GDP per person employed (constant 2021 PPP $).
+The window is 1960–2025; individual country/indicator coverage begins later.
+The current source vintage is retained with original nulls, source metadata and
+checksums. ILO labour series and productivity remain modelled. None is a measure
+of AI causation. See [the history audit](history-audit.md) for definitions, limits,
+known breaks and the results of the retained-release review.
 
-Labour series use ILO modelled estimates. National reported unemployment and ILO
-modelled estimates must not be silently mixed. Youth is ages 15–24; participation
-uses population ages 15+. GDP per capita is current USD, not personal earnings.
-
-The dated API snapshot is economic-context.json. The collector preserves missing
-values, source update dates and query URLs. The builder writes one shared CSV,
-six latest-available measures and six annual series. Country profiles use those
-catalogue values and show both endpoint years for each change. Percentage-rate
-differences are percentage points. Missing years are never interpolated. Country
-comparisons should select a common year; latest values may have different years.
-
-No macroeconomic change is attributed to AI. Existing AI exposure, adoption and
-vacancy evidence remains distinct. Only South Africa currently has numerical
-AI vacancy evidence in the curated register (Pnet). No activity count is invented
-for other countries. News signals are not vacancies, and adverts are not hires.
-
-Refresh with collect_economy.py only when intentionally reviewing a new snapshot.
-It caches the raw API responses under data/reference/economy-api; archive or replace
-those dated inputs explicitly before a new refresh. It is not called by daily builds.
-World Bank API: https://datahelpdesk.worldbank.org/knowledgebase/articles/889392
-Licensing: https://datacatalog.worldbank.org/public-licenses
+`collect_context_history.py` is the manual collector. It saves source responses;
+page builds never fetch new history. Updating a source requires a deliberate new
+snapshot/review. `collect_economy.py` is retired: it must not overwrite the full
+history. `context_history.py` builds shared latest values, compact history and
+expanded CSV exports from pinned sources.

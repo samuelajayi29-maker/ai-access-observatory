@@ -907,6 +907,27 @@ footer { background: var(--paper-sunk); margin-top: var(--s-8); }
   --tick-height: 0.375rem;
   --mark-size: 0.5rem;
 }
+
+/* Country comparison: fixed readable chart canvas, scroll only the chart. */
+[data-country-comparison][hidden], [data-chart-builder][hidden] {display:none!important}
+.explorer-mode {display:flex;gap:1rem;flex-wrap:wrap;margin:1.5rem 0}
+.explorer-mode a {border:1px solid var(--rule);padding:.65rem 1rem}
+.comparison-controls {display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);gap:1.5rem;margin:1.5rem 0}
+.comparison-controls fieldset {min-width:0;border:1px solid var(--rule);padding:1rem}
+.comparison-controls legend {font-weight:600;padding:0 .4rem}
+.comparison-controls label {display:block;margin:.4rem 0}
+.comparison-controls input[type=search],.comparison-controls select {width:100%;max-width:100%;padding:.6rem;background:var(--paper);color:var(--ink);border:1px solid var(--rule)}
+.comparison-measures,.comparison-countries {max-height:20rem;overflow-y:auto;overscroll-behavior:contain;margin-top:.75rem}
+.comparison-measures label,.comparison-countries label {display:flex;align-items:flex-start;gap:.65rem;padding:.55rem 0;border-bottom:1px solid var(--rule);cursor:pointer}
+.comparison-measures input,.comparison-countries input {flex:none;margin-top:.3rem}
+.comparison-measures small {display:block;font-size:.75rem;color:var(--ink-note);margin-top:.25rem}
+[data-cc-selected] {display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.6rem}
+[data-cc-selected] button {font-size:.75rem;text-align:left;padding:.4rem}
+.comparison-preview {position:relative;isolation:isolate;overflow-x:auto;border:1px solid var(--rule);margin:1.5rem 0;max-width:100%;min-height:4rem}
+.comparison-preview>svg {display:block;max-width:none;height:auto}
+.comparison-preview:focus-visible {outline:2px solid var(--action);outline-offset:3px}
+.glance__value,.economy-value {font-variant-numeric:tabular-nums lining-nums}
+@media(max-width:700px) {.comparison-controls{grid-template-columns:minmax(0,1fr)}.comparison-controls fieldset{padding:.7rem}.comparison-countries{max-height:12rem}}
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --paper: #1c1a17; --paper-sunk: #262420;

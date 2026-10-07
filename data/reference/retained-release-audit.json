@@ -1,0 +1,151 @@
+[
+ {
+  "path": "data/model-prices.csv",
+  "versions": [
+   {
+    "commit": "b28b369aba050de24118753d0b83057ebac07ad8",
+    "sha256": "b0925f91cff2618290e0585c8b6016d836df27a4222ae76e35174ec690188aa2",
+    "rows": 13,
+    "period_fields": {
+     "date": [
+      "2026-07-09",
+      "2026-07-16",
+      "2026-07-24",
+      "2026-08-01",
+      "2026-08-13",
+      "2026-09-01",
+      "2026-09-02",
+      "2026-09-03"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "path": "data/device-prices.csv",
+  "versions": [
+   {
+    "commit": "26dc52d5209a9f169eddf0417a1827fce95cf85d",
+    "sha256": "85abee5a7843678cc6c44676bcd9a66ce2f33e63abe4dcb0cea9357602a79557",
+    "rows": 6,
+    "period_fields": {
+     "date": [
+      "2026-04-24",
+      "2026-06-03",
+      "2026-08-26",
+      "2026-08-29",
+      "2026-09-01",
+      "2026-09-03"
+     ]
+    }
+   },
+   {
+    "commit": "b28b369aba050de24118753d0b83057ebac07ad8",
+    "sha256": "6a981c643e118f5340fc4170a47b32c24672bae099ae30ee70d3d60737830571",
+    "rows": 6,
+    "period_fields": {
+     "date": [
+      "2026-06-03",
+      "2026-06-23",
+      "2026-09-01",
+      "2026-09-05",
+      "2026-09-08"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "path": "data/subscription-register.csv",
+  "versions": [
+   {
+    "commit": "b28b369aba050de24118753d0b83057ebac07ad8",
+    "sha256": "06c81325367176f60a084d39eb89cc7eac102cf729d5b966e14de36c72977c09",
+    "rows": 290,
+    "period_fields": {}
+   }
+  ]
+ },
+ {
+  "path": "releases.json",
+  "versions": [
+   {
+    "commit": "27fae0b8ed174e7785e134bfabe7f4bcbe18b191",
+    "sha256": "bf26b63d8a878dbcef04a04a0991a4901b0af1ea1ba5e745130ca0e828088208",
+    "release_ids": [
+     "concept_url",
+     "about",
+     "releases",
+     "latest",
+     "updated"
+    ]
+   },
+   {
+    "commit": "16aa84a68e5aec44b5f2949be72e4af0493d7448",
+    "sha256": "54a90a46e75fb52536fb46d7cc538dd2d2d53c1b732dd0576db533e333085dab",
+    "release_ids": [
+     "concept_url",
+     "about",
+     "releases",
+     "latest",
+     "updated"
+    ]
+   },
+   {
+    "commit": "58f78219b8da0d4831f5ea4be0400c1a54c0408f",
+    "sha256": "fcf2dc80632e009ff799a55fabb7277315db82e1323fc45c330c32efad6126a5",
+    "release_ids": [
+     "concept_url",
+     "about",
+     "releases",
+     "latest",
+     "updated"
+    ]
+   },
+   {
+    "commit": "26dc52d5209a9f169eddf0417a1827fce95cf85d",
+    "sha256": "881edc41c3c7c4c3adac489b1fe941056b1f24c2dd2ecb0639f218014ede164d",
+    "release_ids": [
+     "concept_url",
+     "about",
+     "releases",
+     "latest",
+     "updated"
+    ]
+   },
+   {
+    "commit": "6c4f0a6a7a96fcf155f7b9d2b17ea74231c9b475",
+    "sha256": "fcc93dc0a81b6d34f777b3c3d93d4b6d8a818b96172be026df698e4deeb41337",
+    "release_ids": [
+     "concept_url",
+     "about",
+     "releases",
+     "latest",
+     "updated"
+    ]
+   },
+   {
+    "commit": "fb3f0237f7e3ffa1183fcdbbc9544c5fcec174be",
+    "sha256": "9813e702d382e62113450e793f5c8e4f1518e7d0a9c15261d1e7d744572ac3d5",
+    "release_ids": [
+     "concept_url",
+     "about",
+     "releases",
+     "latest",
+     "updated"
+    ]
+   },
+   {
+    "commit": "b28b369aba050de24118753d0b83057ebac07ad8",
+    "sha256": "7d200969e0e06f7390aebb116e636222d6fd23c99565a18d1da40fd396cdc510",
+    "release_ids": [
+     "concept_url",
+     "about",
+     "releases",
+     "latest",
+     "updated"
+    ]
+   }
+  ]
+ }
+]

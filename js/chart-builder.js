@@ -42,7 +42,7 @@
     '<label>Measure<select data-cb-series></select></label>' +
     '<label>Observation period<select data-cb-period><option value="">All available periods</option></select></label>' +
     '<label>Chart title<input data-cb-title maxlength="100"></label>' +
-    '<label>Display<select data-cb-type><option value="bars">Horizontal bars</option><option value="dots">Dot plot</option></select></label>' +
+    '<label>Display<select data-cb-type><option value="bars">Horizontal bars</option><option value="vertical">Vertical bars</option><option value="dots">Dot plot</option></select></label>' +
     '<label>Order<select data-cb-order><option value="value">Highest value first</option><option value="name">Name A–Z</option></select></label></div>' +
     '<p data-cb-definition></p><p class="coverage-note" data-cb-coverage></p><p class="explorer-selection-summary" data-cb-summary role="status"></p>' +
     '<div class="chart-workspace"><fieldset class="chart-picker"><legend>Select records (up to 20)</legend>' +
@@ -161,6 +161,7 @@
       var tokens = {paper: "--paper", ink: "--ink", rule: "--rule", note: "--ink-note", accent: "--action"};
       theme[name] = currentStyle.getPropertyValue(tokens[name]).trim();
     });
+    var previous=preview.lastElementChild;
     preview.replaceChildren();
     if (!rows.length) { svg=null; preview.textContent='Select at least one record to make a chart.'; return; }
     svg=svgElement('svg',{xmlns:ns,width:1100,role:'img','aria-labelledby':'custom-chart-title custom-chart-desc','font-family':'IBM Plex Sans, Arial, sans-serif','style':'font-variant-numeric:tabular-nums lining-nums'});
@@ -182,6 +183,23 @@
     var max=current.domain ? current.domain[1] : Math.max.apply(null,[1].concat(numeric));
     var min=current.domain ? current.domain[0] : Math.min.apply(null,[0].concat(numeric));
     if (max===min) max=min+1;
+    var sources=[];
+    rows.forEach(function(r){ if(!sources.some(function(s){return s.url===r.source_url;})) sources.push({url:r.source_url,name:r.source}); });
+    if(type.value==='vertical') {
+      var left=85,right=1050,top=y+25,bottom=top+300,band=(right-left)/rows.length;
+      var yValue=function(v){return bottom-(v-min)/(max-min)*300;};
+      for(var i=0;i<=4;i++){var tick=min+(max-min)*i/4,yy=yValue(tick);
+        svg.appendChild(svgElement('line',{x1:left,x2:right,y1:yy,y2:yy,stroke:theme.rule}));
+        svg.appendChild(svgElement('text',{x:left-8,y:yy+4,'text-anchor':'end','font-size':11,fill:theme.note},format.format(tick)));}
+      rows.forEach(function(r,i){var x=left+band*(i+.5),zero=yValue(0),bar=Math.min(35,band*.7);
+        if(r.value!==null)statusMark('rect',{x:x-bar/2,y:Math.min(zero,yValue(r.value)),width:bar,height:Math.max(.5,Math.abs(zero-yValue(r.value)))},r);
+        svg.appendChild(svgElement('text',{x:x,y:r.value===null?zero-12:yValue(r.value)+(r.value<0?16:-8),'text-anchor':'middle','font-size':11,fill:theme.ink},r.value===null?'N/I':valueLabel(r)));
+        var label=r.label.length>28?r.label.slice(0,26)+'…':r.label;
+        var text=svgElement('text',{x:x,y:bottom+18,transform:'rotate(55 '+x+' '+(bottom+18)+')','font-size':11,fill:theme.ink},label);text.appendChild(svgElement('title',{},r.label));svg.appendChild(text);
+      });
+      y=bottom+195;
+      rows.forEach(function(r){y=lines(r.label+': '+r.period+' · '+r.status,34,y,132,11,theme.note);});
+    } else {
     var left=430, right=930, plot=right-left;
     var position=function(v){return left+(v-min)/(max-min)*plot;};
     for(var i=0;i<=4;i++) {
@@ -189,8 +207,6 @@
       svg.appendChild(svgElement('text',{x:position(tick),y:y,'text-anchor':'middle','font-size':11,fill:theme.note},format.format(tick)));
     }
     y+=22;
-    var sources=[];
-    rows.forEach(function(r){ if(!sources.some(function(s){return s.url===r.source_url;})) sources.push({url:r.source_url,name:r.source}); });
     rows.forEach(function(r) {
       var idx=sources.findIndex(function(s){return s.url===r.source_url;})+1;
       var labelY=lines(r.label+' ['+idx+']',34,y,44,14);
@@ -204,6 +220,7 @@
       y=Math.max(labelY,y+18);
       y=lines(r.period+' · '+r.status,34,y,127,11,theme.note)+20;
     });
+    }
     y+=10;
     y=lines('Sources and qualifications',34,y,120,14)+8;
     sources.forEach(function(s,i){y=lines('['+(i+1)+'] '+s.name+' — '+s.url,34,y,132,11,theme.note)+5;});
@@ -214,6 +231,12 @@
     y=lines('Observatory compilation: CC BY 4.0. Underlying sources retain their terms. Chart values are rounded for display; CSV preserves precision.',34,y+4,132,11,theme.note)+24;
     svg.setAttribute('height',Math.ceil(y)); svg.setAttribute('viewBox','0 0 1100 '+Math.ceil(y)); background.setAttribute('height',Math.ceil(y));
     preview.appendChild(svg);
+    if(previous && !matchMedia('(prefers-reduced-motion: reduce)').matches && svg.animate){
+      preview.style.position='relative';previous.style.position='absolute';previous.style.top='0';previous.style.left='0';previous.setAttribute('aria-hidden','true');preview.insertBefore(previous,svg);
+      var duration=parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--duration-value'))||400;
+      previous.animate([{opacity:1},{opacity:0}],{duration:duration}).finished.finally(function(){previous.remove();});
+      svg.animate([{opacity:0},{opacity:1}],{duration:duration,easing:'cubic-bezier(.2,0,0,1)'});
+    }
   }
   function BASE_URL() { return 'https://inferenceafrica.com/'; }
   function drawTable(rows) {
@@ -250,7 +273,7 @@
     Array.from(new Set(s.rows.filter(function(r){return !countryFilter.value || r.country===countryFilter.value;}).map(function(r){return r.period;}))).sort().forEach(function(period){var option=document.createElement('option');option.value=period;option.textContent=period;periodFilter.appendChild(option);});
     if(restore && params.get('period'))periodFilter.value=params.get('period');
     title.value=restore && params.get('chartTitle') ? params.get('chartTitle').slice(0,100) : s.title.slice(0,100);
-    if(restore && ['bars','dots'].includes(params.get('chartStyle'))) type.value=params.get('chartStyle');
+    if(restore && ['bars','vertical','dots'].includes(params.get('chartStyle'))) type.value=params.get('chartStyle');
     if(restore && ['value','name'].includes(params.get('chartOrder'))) order.value=params.get('chartOrder');
     if(restore && params.has('records')) {
       var ids=params.get('records').split(',').slice(0,LIMIT), valid=new Set(s.rows.map(function(r){return r.id;}));
