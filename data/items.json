@@ -1,14 +1,28 @@
 {
- "updated": "2026-10-05",
+ "updated": "2026-10-07",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
     {
+     "t": "South Africa is the land of AI contradiction when it comes to jobs",
+     "u": "https://www.dailymaverick.co.za/article/2026-10-06-ai/",
+     "s": "Daily Maverick",
+     "d": "Oct 6",
+     "dot": "dot-jobs"
+    },
+    {
      "t": "Vesti enters its next phase, expanding from global talent mobility into AI-native legal services",
      "u": "https://techcabal.com/2026/10/05/vesti-enters-its-next-phase-expanding-from-global-talent-mobility-into-ai-native-legal-services/",
      "s": "TechCabal",
+     "d": "Oct 5",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "South Africa's BPO sector to miss 500,000-job target: BPESA",
+     "u": "https://news.outsourceaccelerator.com/south-africa-bpo-jobs-target/",
+     "s": "Outsource Accelerator",
      "d": "Oct 5",
      "dot": "dot-jobs"
     },
@@ -900,9 +914,30 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "Why smartphone prices rose in Nigeria in H1 2026",
+     "u": "https://thecondia.com/nigeria-smartphone-prices-rise-h1-2026/",
+     "s": "TheCondia",
+     "d": "Oct 6",
+     "dot": "dot-access"
+    },
+    {
+     "t": "DeepSeek latest funding round could reach $15 billion",
+     "u": "https://www.cnbc.com/2026/10/06/deepseek-funding-round.html",
+     "s": "CNBC",
+     "d": "Oct 6",
+     "dot": "dot-price"
+    },
+    {
      "t": "Banks top AI spending as telcos struggle to show returns",
      "u": "https://techcentral.co.za/banks-top-ai-spending-telcos-struggle-returns/286868/",
      "s": "TechCentral",
+     "d": "Oct 5",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Phone, data costs limit Kenyans from full digital participation",
+     "u": "https://www.businessdailyafrica.com/bd/corporate/technology/phone-data-costs-limit-kenyans-from-full-digital-participation-5619798",
+     "s": "Business Daily",
      "d": "Oct 5",
      "dot": "dot-access"
     },
@@ -926,6 +961,13 @@
      "s": "Justin McKelvey",
      "d": "Oct 4",
      "dot": "dot-price"
+    },
+    {
+     "t": "From Access to Realized Affordances: University Students' Generative AI Engagement across Linguistic and Sociotechnical Contexts",
+     "u": "https://arxiv.org/abs/2610.05301",
+     "s": "arXiv cs.CY",
+     "d": "Oct 4",
+     "dot": "dot-arxiv"
     },
     {
      "t": "NITDA deploys AI to turn Nigerian youths’ ideas into policy proposals",
@@ -980,6 +1022,13 @@
      "t": "Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline amid the RAMpocalypse",
      "u": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less",
      "s": "Tom’s Hardware",
+     "d": "Oct 2",
+     "dot": "dot-price"
+    },
+    {
+     "t": "The real price of data in Africa: 53 countries ranked ($0.38 to $43.75 per GB)",
+     "u": "https://lesafriques.com/en/2026/10/the-real-price-of-data-in-africa-ranking-of-53-countries-0-38-to-43-75-per-gb/",
+     "s": "Les Afriques",
      "d": "Oct 2",
      "dot": "dot-price"
     },
@@ -2130,6 +2179,20 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "Eskom to facilitate construction of more data centres in South Africa, Ramokgopa tells Windaba delegates",
+     "u": "https://www.engineeringnews.co.za/article/eskom-to-facilitate-construction-of-more-data-centres-in-south-africa-ramokgopa-tells-windaba-delegates-2026-10-06",
+     "s": "Engineering News",
+     "d": "Oct 6",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "World Bank: Economic Growth in Sub-Saharan Africa Gains Momentum Despite Global Uncertainty (Africa Economic Update: Building AI-Readiness)",
+     "u": "https://www.worldbank.org/en/news/press-release/2026/10/06/economic-growth-in-sub-saharan-africa-gains-momentum-despite-global-uncertainty",
+     "s": "World Bank",
+     "d": "Oct 6",
+     "dot": "dot-infra"
+    },
+    {
      "t": "FG targets 6 months to fund community-owned telecom towers in rural Nigeria",
      "u": "https://technext24.com/news/fg-solar-powered-community-telecom-towers/",
      "s": "Technext24",
@@ -2177,6 +2240,13 @@
      "s": "Billionaires.Africa",
      "d": "Oct 3",
      "dot": "dot-infra"
+    },
+    {
+     "t": "Data Colonisation and AI Governance in South Africa: Data Protection, Algorithmic Power, and the Struggle for Digital Sovereignty",
+     "u": "https://arxiv.org/abs/2610.04485",
+     "s": "arXiv cs.CY",
+     "d": "Oct 3",
+     "dot": "dot-arxiv"
     },
     {
      "t": "Starlink backhaul in Nigeria tests rural tower economics",

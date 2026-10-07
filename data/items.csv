@@ -1,5 +1,7 @@
 bucket,date,source,title,url
+jobs,Oct 6,Daily Maverick,South Africa is the land of AI contradiction when it comes to jobs,https://www.dailymaverick.co.za/article/2026-10-06-ai/
 jobs,Oct 5,TechCabal,"Vesti enters its next phase, expanding from global talent mobility into AI-native legal services",https://techcabal.com/2026/10/05/vesti-enters-its-next-phase-expanding-from-global-talent-mobility-into-ai-native-legal-services/
+jobs,Oct 5,Outsource Accelerator,"South Africa's BPO sector to miss 500,000-job target: BPESA",https://news.outsourceaccelerator.com/south-africa-bpo-jobs-target/
 jobs,Oct 3,iAfrica,‘Cannot Wait Another Five Years’: TUT Dialogue Presses for AI Implementation Against 62.8% Youth Unemployment,https://iafrica.com/cannot-wait-another-five-years-tut-dialogue-presses-for-ai-implementation-against-62-8-youth-unemployment/
 jobs,Oct 3,Outsource Accelerator,Economists expect AI to weigh on college grads' wages: Indeed,https://news.outsourceaccelerator.com/indeed-economists-ai-college-wages/
 jobs,Oct 2,Outsource Accelerator,"California bans AI-only firings, requires AI layoff notices",https://news.outsourceaccelerator.com/california-ai-worker-laws/
@@ -126,10 +128,14 @@ jobs,May 16,UN Economic Commission for Africa,AI and jobs in Africa: turning dis
 jobs,Apr 25,Mastercard Foundation,40% of Tasks in Africa's Tech Outsourcing May Be Affected by AI by 2030,https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/
 jobs,Mar 31,WeeTracker,South Africa's gig economy becomes a bargain with AI skills shortage looming,https://weetracker.com/2026/03/31/south-africa-freelance-economy-ai-talent-gap-2026/
 jobs,Dec 25,"Deric Cheng, AI Frontiers",AI Could Undermine Emerging Economies,https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies
+access,Oct 6,TheCondia,Why smartphone prices rose in Nigeria in H1 2026,https://thecondia.com/nigeria-smartphone-prices-rise-h1-2026/
+access,Oct 6,CNBC,DeepSeek latest funding round could reach $15 billion,https://www.cnbc.com/2026/10/06/deepseek-funding-round.html
 access,Oct 5,TechCentral,Banks top AI spending as telcos struggle to show returns,https://techcentral.co.za/banks-top-ai-spending-telcos-struggle-returns/286868/
+access,Oct 5,Business Daily,"Phone, data costs limit Kenyans from full digital participation",https://www.businessdailyafrica.com/bd/corporate/technology/phone-data-costs-limit-kenyans-from-full-digital-participation-5619798
 access,Oct 4,Nairametrics,"NITDA warns organisations, staff against sharing sensitive data with public AI tools",https://nairametrics.com/2026/10/04/nitda-warns-organisations-staff-against-sharing-sensitive-data-with-public-ai-tools/
 access,Oct 4,Technext24,REDMI Note 17 Series: Xiaomi launches smartphone that can last for 3 days in Lagos,https://technext24.com/reviews/redmi-note-17-series-xiaomi-launches-lagos/
 access,Oct 4,Justin McKelvey,Gemini API Pricing 2026: Every Model + the Jan 1 Increase,https://justinmckelvey.com/blog/gemini-api-pricing
+access,Oct 4,arXiv cs.CY,From Access to Realized Affordances: University Students' Generative AI Engagement across Linguistic and Sociotechnical Contexts,https://arxiv.org/abs/2610.05301
 access,Oct 3,Nairametrics,NITDA deploys AI to turn Nigerian youths’ ideas into policy proposals,https://nairametrics.com/2026/10/03/nitda-deploys-ai-to-turn-nigerian-youths-ideas-into-policy-proposals/
 access,Oct 3,Nairametrics,"FCCPC moves to regulate AI marketing, businesses face N100 million penalty",https://nairametrics.com/2026/10/03/fccpc-moves-to-regulate-ai-marketing-businesses-face-n100-million-penalty/
 access,Oct 3,iAfrica,Morocco Releases First Open-Source Darija AI Tools From Mistral Partnership,https://iafrica.com/morocco-releases-first-open-source-darija-ai-tools-from-mistral-partnership/
@@ -138,6 +144,7 @@ access,Oct 3,DigitalApplied,"AI Model API Price Changes, Q3 2026: Five Labs, One
 access,Oct 2,Rest of World,Who gets to decide if AI is safe? Africa wants a say,https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/
 access,Oct 2,TechCentral,Meta’s smart glasses are officially coming to South Africa,https://techcentral.co.za/meta-smart-glasses-south-africa-launch/286809/
 access,Oct 2,Tom’s Hardware,Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline amid the RAMpocalypse,https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less
+access,Oct 2,Les Afriques,The real price of data in Africa: 53 countries ranked ($0.38 to $43.75 per GB),https://lesafriques.com/en/2026/10/the-real-price-of-data-in-africa-ranking-of-53-countries-0-38-to-43-75-per-gb/
 access,Oct 1,TechAfrica News,How did the next billion users become collateral damage in the AI race?,https://techafricanews.com/2026/10/01/mobile-internet-growth-slowdown-ai-smartphone-affordability/
 access,Oct 1,Independent Nigeria,GSMA warns of widening AI divide as 3.4 billion people remain offline,https://independent.ng/gsma-warns-of-widening-ai-divide-as-3-4bn-people-remain-offine/
 access,Oct 1,TechCentral,Huawei's Mate 90 bets on 3D chip design to get around US curbs,https://techcentral.co.za/huawei-mate-90-logicfolding-chip/286729/
@@ -301,6 +308,8 @@ access,May 27,Trustonic,"Deconstructing Africa's smartphone market: shipments, p
 access,May 26,"David Oks, Substack",AI Is Killing the Cheap Smartphone,https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone
 access,Apr 15,Japan Times / AFP,AI-driven chip shortage slowing efforts to get world online: GSMA,https://www.thejapantimes.jp/Technology/658420-ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma.html
 access,Feb 26,Techpoint Africa,AI Chip Demand — Smartphone Prices in Nigeria,https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/
+infra,Oct 6,Engineering News,"Eskom to facilitate construction of more data centres in South Africa, Ramokgopa tells Windaba delegates",https://www.engineeringnews.co.za/article/eskom-to-facilitate-construction-of-more-data-centres-in-south-africa-ramokgopa-tells-windaba-delegates-2026-10-06
+infra,Oct 6,World Bank,World Bank: Economic Growth in Sub-Saharan Africa Gains Momentum Despite Global Uncertainty (Africa Economic Update: Building AI-Readiness),https://www.worldbank.org/en/news/press-release/2026/10/06/economic-growth-in-sub-saharan-africa-gains-momentum-despite-global-uncertainty
 infra,Oct 5,Technext24,FG targets 6 months to fund community-owned telecom towers in rural Nigeria,https://technext24.com/news/fg-solar-powered-community-telecom-towers/
 infra,Oct 5,Technext24,"NCC, stakeholders seek Right of Way cost cuts to advance Nigeria's digital connectivity",https://technext24.com/news/ncc-stakeholders-seek-right-of-way-cost-cuts/
 infra,Oct 5,Citi Newsroom,MTN Ghana to deploy new spectrum to accelerate 5G expansion,https://www.citinewsroom.com/2026/10/mtn-ghana-to-deploy-new-spectrum-to-accelerate-5g-expansion/
@@ -308,6 +317,7 @@ infra,Oct 5,CAJ News Africa,Africa's AI race accelerates,https://cajnewsafrica.c
 infra,Oct 3,iAfrica,"‘Capability Leaves With the Vendor’: What’s Actually Running in SADC, and What Isn’t",https://iafrica.com/capability-leaves-with-the-vendor-whats-actually-running-in-sadc-and-what-isnt/
 infra,Oct 3,BusinessDay,Angola Cables upgrades atlantic network as AI reshapes global data demand,https://businessday.ng/technology/article/angola-cables-upgrades-atlantic-network-as-ai-reshapes-global-data-demand/
 infra,Oct 3,Billionaires.Africa,Hassanein Hiridjee's Axian expands Senegal data center,https://www.billionaires.africa/2026/10/03/madagascar-billionaire-hassanein-hiridjee-expands-senegal-data-center-to-meet-ai-demand/
+infra,Oct 3,arXiv cs.CY,"Data Colonisation and AI Governance in South Africa: Data Protection, Algorithmic Power, and the Struggle for Digital Sovereignty",https://arxiv.org/abs/2610.04485
 infra,Oct 2,FurtherAfrica,Starlink backhaul in Nigeria tests rural tower economics,https://furtherafrica.com/2026/10/02/starlink-backhaul-nigeria-tests-rural-tower-economics/
 infra,Oct 2,FurtherAfrica,African AI training opens free for public officials,https://furtherafrica.com/2026/10/02/african-ai-training-opens-free-for-public-officials/
 infra,Oct 2,iAfrica,Namibia Opens National AI Institute Built Around Four Gaps Its Own Assessment Found,https://iafrica.com/namibia-opens-national-ai-institute-built-around-four-gaps-its-own-assessment-found/
