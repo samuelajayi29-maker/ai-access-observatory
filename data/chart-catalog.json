@@ -941,7 +941,9 @@
     "total": 54
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "jobs-weighted",
@@ -1610,7 +1612,9 @@
     "total": 54
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "access-workload",
@@ -1784,7 +1788,9 @@
     "total": 13
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "access-gni-a5ee67b5769bd6",
@@ -2450,7 +2456,9 @@
     "total": 54
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "access-gni-1b3c7f8e637e14",
@@ -3116,7 +3124,9 @@
     "total": 54
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "access-gni-1b6b70b55ddf77",
@@ -3782,7 +3792,9 @@
     "total": 54
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "access-gni-8ca53a3da78eb5",
@@ -4448,7 +4460,9 @@
     "total": 54
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "access-gni-4e2ddcfc52b369",
@@ -5114,7 +5128,9 @@
     "total": 54
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "access-gni-39ee5ea823fb83",
@@ -5780,7 +5796,9 @@
     "total": 54
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "access-gni-b615c1e4921f7f",
@@ -6446,7 +6464,9 @@
     "total": 54
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "access-gni-cd8eedc764b607",
@@ -7112,7 +7132,9 @@
     "total": 54
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "access-gni-9e0dc31d2bbeb6",
@@ -7778,7 +7800,9 @@
     "total": 54
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "access-gni-4c15583ff6e2f4",
@@ -8444,7 +8468,9 @@
     "total": 54
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "access-gni-2719c688ad2de0",
@@ -9110,7 +9136,9 @@
     "total": 54
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "access-gni-95d3f179cfe80e",
@@ -9776,7 +9804,9 @@
     "total": 54
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "access-gni-d1fe05702b9f9f",
@@ -10442,7 +10472,9 @@
     "total": 54
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-b5b98aca3bd72d",
@@ -10580,7 +10612,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-1395d770ec39f4",
@@ -10718,7 +10752,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-52ffc9965c0c41",
@@ -10856,7 +10892,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-9aadb990f4a30d",
@@ -10994,7 +11032,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-d7944296fc092b",
@@ -11132,7 +11172,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-613c56ac93966a",
@@ -11270,7 +11312,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-ef6115398236f7",
@@ -11408,7 +11452,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-2557bb3c05d3ef",
@@ -11546,7 +11592,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-0b9490b7f7265a",
@@ -11684,7 +11732,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-e0c3ed6ebdcf3e",
@@ -11822,7 +11872,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-8adb91b719d575",
@@ -11960,7 +12012,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-7de8789b8e5af7",
@@ -12098,7 +12152,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-3b5d226831ce40",
@@ -12236,7 +12292,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-3c4c51f28f3826",
@@ -12374,7 +12432,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-7a778b3899e756",
@@ -12512,7 +12572,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-380f0e43bd7c1a",
@@ -12650,7 +12712,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-5bf92a149e9ca4",
@@ -12788,7 +12852,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-caa059b992e451",
@@ -12926,7 +12992,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-c886c9b5f7c601",
@@ -13064,7 +13132,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-3255496a351996",
@@ -13202,7 +13272,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-73a2223a99159f",
@@ -13340,7 +13412,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-b28a6b2e8aa6cd",
@@ -13478,7 +13552,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-d90e66a5308208",
@@ -13616,7 +13692,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-ddcbf741a460b2",
@@ -13754,7 +13832,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-0461c0c14f0f8b",
@@ -13892,7 +13972,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-cb6fa28b37125d",
@@ -14030,7 +14112,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-01ccb3972320a5",
@@ -14168,7 +14252,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-c2f81ef6eca40a",
@@ -14306,7 +14392,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-2dc0e9c01fde0c",
@@ -14444,7 +14532,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-b76bb07b9cdf41",
@@ -14582,7 +14672,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-0b346670e54663",
@@ -14720,7 +14812,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-b2b4eea44109b5",
@@ -14858,7 +14952,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-29550e4706a414",
@@ -14996,7 +15092,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-0b7be5d8092387",
@@ -15134,7 +15232,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-fa6ba4e7944086",
@@ -15272,7 +15372,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-9324c37757254c",
@@ -15410,7 +15512,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-c49cf33f91a559",
@@ -15548,7 +15652,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-08c3357ec6f741",
@@ -15686,7 +15792,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-1c4b51630e5e78",
@@ -15824,7 +15932,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-0fa4246d9d8835",
@@ -15962,7 +16072,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-1a9f9ebe9e0159",
@@ -16100,7 +16212,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-864c7c1bc55ad6",
@@ -16238,7 +16352,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-0863f875bb2375",
@@ -16376,7 +16492,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-6e4327aaae546e",
@@ -16514,7 +16632,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-e3fa7900d3ec69",
@@ -16652,7 +16772,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-b3b0de656cacfc",
@@ -16790,7 +16912,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-dc6f5bc19f1e52",
@@ -16928,7 +17052,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-1b53e410c70d3f",
@@ -17066,7 +17192,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-37aa057fe95e8a",
@@ -17204,7 +17332,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-d3af1f575e253b",
@@ -17342,7 +17472,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-5fd3d0f96acda9",
@@ -17480,7 +17612,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-c78279ab0007f1",
@@ -17618,7 +17752,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-ff9fdd8a54d08d",
@@ -17756,7 +17892,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-076b9e5f98a77a",
@@ -17894,7 +18032,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-5fe1fd2e51acfd",
@@ -18032,7 +18172,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-52403ce82d34ac",
@@ -18170,7 +18312,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-fe66fe6af408d7",
@@ -18308,7 +18452,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "subscription-dcd6c9274a425d",
@@ -18446,7 +18592,9 @@
     "total": 10
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "context-IT.CEL.SETS.P2",
@@ -19112,7 +19260,9 @@
     "total": 54
    },
    "category": "Context indicators",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "context-IT.NET.BBND.P2",
@@ -19778,7 +19928,9 @@
     "total": 54
    },
    "category": "Context indicators",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "context-IC.ELC.OUTG.ZS",
@@ -20444,7 +20596,9 @@
     "total": 54
    },
    "category": "Context indicators",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "context-IC.FRM.OUTG.ZS",
@@ -21110,7 +21264,9 @@
     "total": 54
    },
    "category": "Context indicators",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "infra-capacity-by-status",
@@ -21176,7 +21332,9 @@
     "total": 4
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "infra-capacity_mw-announced",
@@ -21278,7 +21436,9 @@
     "total": 7
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "infra-capex_usd-announced",
@@ -21380,7 +21540,9 @@
     "total": 7
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "infra-capacity_mw-appeal_pending",
@@ -21410,7 +21572,9 @@
     "total": 1
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "infra-capex_usd-appeal_pending",
@@ -21440,7 +21604,9 @@
     "total": 1
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "infra-capacity_mw-approved",
@@ -21494,7 +21660,9 @@
     "total": 3
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "infra-capex_usd-approved",
@@ -21548,7 +21716,9 @@
     "total": 3
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "infra-capacity_mw-exploring",
@@ -21590,7 +21760,9 @@
     "total": 2
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "infra-capex_usd-exploring",
@@ -21632,7 +21804,9 @@
     "total": 2
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "infra-capacity_mw-funding",
@@ -21674,7 +21848,9 @@
     "total": 2
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "infra-capex_usd-funding",
@@ -21716,7 +21892,9 @@
     "total": 2
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "infra-committed_capital_lower_bound_usd-funding",
@@ -21758,7 +21936,9 @@
     "total": 2
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "infra-capacity_mw-operational",
@@ -21812,7 +21992,9 @@
     "total": 3
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "infra-capex_usd-operational",
@@ -21866,7 +22048,9 @@
     "total": 3
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "infra-capacity_mw-policy_target",
@@ -21896,7 +22080,9 @@
     "total": 1
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "infra-capex_usd-policy_target",
@@ -21926,7 +22112,9 @@
     "total": 1
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "infra-investment_target_usd-policy_target",
@@ -21956,7 +22144,9 @@
     "total": 1
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "infra-capacity_mw-under_construction",
@@ -22010,7 +22200,9 @@
     "total": 3
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "infra-capex_usd-under_construction",
@@ -22064,7 +22256,9 @@
     "total": 3
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "evidence-handset-poorest-fifth",
@@ -22106,7 +22300,9 @@
     "total": 2
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "evidence-africa-mobile-gap",
@@ -22148,7 +22344,9 @@
     "total": 2
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "evidence-rwanda-additional-users",
@@ -22178,7 +22376,9 @@
     "total": 1
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "evidence-rwanda-reform-growth",
@@ -22208,7 +22408,9 @@
     "total": 1
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "evidence-rwanda-fiscal-benefit",
@@ -22238,7 +22440,9 @@
     "total": 1
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "evidence-bpo-automatable",
@@ -22268,7 +22472,9 @@
     "total": 1
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "evidence-bpo-resilient",
@@ -22298,7 +22504,9 @@
     "total": 1
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "evidence-bpo-entry-level",
@@ -22328,7 +22536,9 @@
     "total": 1
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "evidence-bpo-customer-experience",
@@ -22358,7 +22568,9 @@
     "total": 1
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "evidence-nvidia-africa-training",
@@ -22388,7 +22600,9 @@
     "total": 1
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "evidence-nga-survey-ai-tools",
@@ -22526,7 +22740,9 @@
     "total": 10
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "evidence-sen-cybastion-financing-target",
@@ -22556,7 +22772,9 @@
     "total": 1
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "evidence-kenya-mobile-connections",
@@ -22622,7 +22840,9 @@
     "total": 4
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "evidence-egypt-mobile-device-production",
@@ -22664,7 +22884,9 @@
     "total": 2
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "evidence-egypt-digital-services-exporters",
@@ -22694,7 +22916,9 @@
     "total": 1
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "evidence-egypt-digital-export-target",
@@ -22736,7 +22960,9 @@
     "total": 2
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "evidence-kenya-digital-literacy-teachers",
@@ -22766,7 +22992,9 @@
     "total": 1
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "evidence-nigeria-digital-training-places",
@@ -22796,7 +23024,9 @@
     "total": 1
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "evidence-egypt-ai-training-places",
@@ -22826,7 +23056,9 @@
     "total": 1
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "evidence-ghana-5g-spectrum-cost",
@@ -22856,7 +23088,9 @@
     "total": 1
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "signal-counts",
@@ -22910,7 +23144,9 @@
     "total": 3
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "review-counts",
@@ -23024,7 +23260,9 @@
     "total": 8
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "adoption-survey-ai-2025",
@@ -23693,7 +23931,9 @@
     "total": 54
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "adoption-survey-genai-2025",
@@ -24362,7 +24602,9 @@
     "total": 54
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "adoption-estimate-h1-2025",
@@ -25025,14 +25267,16 @@
     0,
     100
    ],
-   "revision": "00a91b1c8c7c3a",
+   "revision": "6e957c3b87fafa",
    "coverage": {
     "known": 46,
     "total": 54
    },
    "category": "AI-specific",
    "history_verified": true,
-   "history_id": "adoption-estimate-h1-2025"
+   "history_id": "adoption-estimate-h2-2025",
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "adoption-estimate-h2-2025",
@@ -25695,14 +25939,16 @@
     0,
     100
    ],
-   "revision": "c7c516c7cd0578",
+   "revision": "6e957c3b87fafa",
    "coverage": {
     "known": 46,
     "total": 54
    },
    "category": "AI-specific",
    "history_verified": true,
-   "history_id": "adoption-estimate-h2-2025"
+   "history_id": "adoption-estimate-h2-2025",
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "cost-mobile-usd-2025",
@@ -26368,7 +26614,9 @@
     "total": 54
    },
    "category": "Context indicators",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "cost-mobile-gni-2025",
@@ -27034,7 +27282,9 @@
     "total": 54
    },
    "category": "Context indicators",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "cost-fixed-usd-2025",
@@ -27700,7 +27950,9 @@
     "total": 54
    },
    "category": "Context indicators",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "cost-fixed-gni-2025",
@@ -28366,7 +28618,9 @@
     "total": 54
    },
    "category": "Context indicators",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "jobs-pnet-ai-vacancy-growth",
@@ -29032,7 +29286,9 @@
     "total": 54
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "adoption-workforce-any-ai",
@@ -29065,7 +29321,9 @@
     "total": 1
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "adoption-workforce-daily-genai",
@@ -29098,7 +29356,9 @@
     "total": 1
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "compute-site-it-capacity",
@@ -29128,7 +29388,9 @@
     "total": 1
    },
    "category": "AI-specific",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "data-centres-listed",
@@ -30589,7 +30851,9 @@
    },
    "category": "Context indicators",
    "history_verified": false,
-   "group_key": "directory-listings-same-edition"
+   "group_key": "directory-listings-same-edition",
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "data-centres-operational",
@@ -32050,7 +32314,9 @@
    },
    "category": "Context indicators",
    "history_verified": false,
-   "group_key": "directory-listings-same-edition"
+   "group_key": "directory-listings-same-edition",
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "economy-SL.UEM.TOTL.ZS",
@@ -32934,7 +33200,9 @@
    "category": "Context indicators",
    "history_verified": true,
    "history_id": "economy-SL.UEM.TOTL.ZS",
-   "headline_eligible": false
+   "headline_eligible": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "economy-SL.UEM.1524.ZS",
@@ -33818,7 +34086,9 @@
    "category": "Context indicators",
    "history_verified": true,
    "history_id": "economy-SL.UEM.1524.ZS",
-   "headline_eligible": false
+   "headline_eligible": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "economy-SL.TLF.CACT.ZS",
@@ -34702,7 +34972,9 @@
    "category": "Context indicators",
    "history_verified": true,
    "history_id": "economy-SL.TLF.CACT.ZS",
-   "headline_eligible": false
+   "headline_eligible": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "economy-NY.GDP.MKTP.KD.ZG",
@@ -35586,7 +35858,9 @@
    "category": "Context indicators",
    "history_verified": true,
    "history_id": "economy-NY.GDP.MKTP.KD.ZG",
-   "headline_eligible": false
+   "headline_eligible": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "economy-NY.GDP.PCAP.CD",
@@ -36470,7 +36744,9 @@
    "category": "Context indicators",
    "history_verified": true,
    "history_id": "economy-NY.GDP.PCAP.CD",
-   "headline_eligible": false
+   "headline_eligible": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "economy-FP.CPI.TOTL.ZG",
@@ -37354,7 +37630,9 @@
    "category": "Context indicators",
    "history_verified": true,
    "history_id": "economy-FP.CPI.TOTL.ZG",
-   "headline_eligible": false
+   "headline_eligible": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "context-EG.ELC.ACCS.ZS",
@@ -38238,7 +38516,9 @@
    "category": "Context indicators",
    "history_verified": true,
    "history_id": "context-EG.ELC.ACCS.ZS",
-   "headline_eligible": false
+   "headline_eligible": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "context-IT.NET.USER.ZS",
@@ -39122,7 +39402,9 @@
    "category": "Context indicators",
    "history_verified": true,
    "history_id": "context-IT.NET.USER.ZS",
-   "headline_eligible": false
+   "headline_eligible": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "economy-NV.IND.MANF.ZS",
@@ -40006,7 +40288,9 @@
    "category": "Context indicators",
    "history_verified": true,
    "history_id": "economy-NV.IND.MANF.ZS",
-   "headline_eligible": false
+   "headline_eligible": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "economy-SL.GDP.PCAP.EM.KD",
@@ -40890,7 +41174,9 @@
    "category": "Context indicators",
    "history_verified": true,
    "history_id": "economy-SL.GDP.PCAP.EM.KD",
-   "headline_eligible": false
+   "headline_eligible": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "context-generation-capacity",
@@ -41936,7 +42222,9 @@
    "category": "Context indicators",
    "history_verified": true,
    "history_id": "context-generation-capacity",
-   "headline_eligible": false
+   "headline_eligible": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "context-eskom-20a",
@@ -42827,7 +43115,9 @@
    "history_verified": true,
    "history_id": "context-eskom-20a",
    "headline_eligible": false,
-   "group_key": "eskom-homelight-vat-energy-rate"
+   "group_key": "eskom-homelight-vat-energy-rate",
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "context-eskom-60a",
@@ -43718,7 +44008,9 @@
    "history_verified": true,
    "history_id": "context-eskom-60a",
    "headline_eligible": false,
-   "group_key": "eskom-homelight-vat-energy-rate"
+   "group_key": "eskom-homelight-vat-energy-rate",
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "country-project-capacity_mw-announced",
@@ -44384,7 +44676,9 @@
     "total": 54
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "country-project-capex_usd-announced",
@@ -45050,7 +45344,9 @@
     "total": 54
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "country-project-capex_usd-approved",
@@ -45716,7 +46012,9 @@
     "total": 54
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": true,
+   "scope": "multi-country"
   },
   {
    "id": "country-project-capex_usd-funding",
@@ -46382,7 +46680,9 @@
     "total": 54
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "pooled"
   },
   {
    "id": "country-project-capacity_mw-operational",
@@ -47048,7 +47348,9 @@
     "total": 54
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "country-project-capex_usd-operational",
@@ -47714,7 +48016,9 @@
     "total": 54
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "country-project-capacity_mw-under_construction",
@@ -48380,7 +48684,9 @@
     "total": 54
    },
    "category": "Supporting evidence",
-   "history_verified": false
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   },
   {
    "id": "country-project-capex_usd-under_construction",
@@ -49046,1789 +49352,25 @@
     "total": 54
    },
    "category": "Supporting evidence",
-   "history_verified": false
-  },
-  {
-   "id": "evidence-egypt-production-history",
-   "pillar": "access",
-   "title": "Egypt mobile-phone production — reported annual figures",
-   "unit": "devices produced per year",
-   "description": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications.",
-   "rows": [
-    {
-     "id": "AGO",
-     "label": "Angola",
-     "country": "AGO",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "BDI",
-     "label": "Burundi",
-     "country": "BDI",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "BEN",
-     "label": "Benin",
-     "country": "BEN",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "BFA",
-     "label": "Burkina Faso",
-     "country": "BFA",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "BWA",
-     "label": "Botswana",
-     "country": "BWA",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "CAF",
-     "label": "Central African Republic",
-     "country": "CAF",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "CIV",
-     "label": "Côte d'Ivoire",
-     "country": "CIV",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "CMR",
-     "label": "Cameroon",
-     "country": "CMR",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "COD",
-     "label": "Democratic Republic of the Congo",
-     "country": "COD",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "COG",
-     "label": "Republic of the Congo",
-     "country": "COG",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "COM",
-     "label": "Comoros",
-     "country": "COM",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "CPV",
-     "label": "Cabo Verde",
-     "country": "CPV",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "DJI",
-     "label": "Djibouti",
-     "country": "DJI",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "DZA",
-     "label": "Algeria",
-     "country": "DZA",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "EGY",
-     "label": "Egypt",
-     "country": "EGY",
-     "value": 10000000.0,
-     "period": "2025",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "approximately",
-     "note": "Ministerial figure described as 'around 10 million' devices in 2025. Same definition and limits as the 2024 row. The statement's 2026 expectation of 14 to 15 million devices and its domestic demand estimate of 18 to 20 million are not recorded as observations: a forward figure does not enter a measured series.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "ERI",
-     "label": "Eritrea",
-     "country": "ERI",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "ETH",
-     "label": "Ethiopia",
-     "country": "ETH",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "GAB",
-     "label": "Gabon",
-     "country": "GAB",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "GHA",
-     "label": "Ghana",
-     "country": "GHA",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "GIN",
-     "label": "Guinea",
-     "country": "GIN",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "GMB",
-     "label": "Gambia",
-     "country": "GMB",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "GNB",
-     "label": "Guinea-Bissau",
-     "country": "GNB",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "GNQ",
-     "label": "Equatorial Guinea",
-     "country": "GNQ",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "KEN",
-     "label": "Kenya",
-     "country": "KEN",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "LBR",
-     "label": "Liberia",
-     "country": "LBR",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "LBY",
-     "label": "Libya",
-     "country": "LBY",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "LSO",
-     "label": "Lesotho",
-     "country": "LSO",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "MAR",
-     "label": "Morocco",
-     "country": "MAR",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "MDG",
-     "label": "Madagascar",
-     "country": "MDG",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "MLI",
-     "label": "Mali",
-     "country": "MLI",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "MOZ",
-     "label": "Mozambique",
-     "country": "MOZ",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "MRT",
-     "label": "Mauritania",
-     "country": "MRT",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "MUS",
-     "label": "Mauritius",
-     "country": "MUS",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "MWI",
-     "label": "Malawi",
-     "country": "MWI",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "NAM",
-     "label": "Namibia",
-     "country": "NAM",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "NER",
-     "label": "Niger",
-     "country": "NER",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "NGA",
-     "label": "Nigeria",
-     "country": "NGA",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "RWA",
-     "label": "Rwanda",
-     "country": "RWA",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "SDN",
-     "label": "Sudan",
-     "country": "SDN",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "SEN",
-     "label": "Senegal",
-     "country": "SEN",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "SLE",
-     "label": "Sierra Leone",
-     "country": "SLE",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "SOM",
-     "label": "Somalia",
-     "country": "SOM",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "SSD",
-     "label": "South Sudan",
-     "country": "SSD",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "STP",
-     "label": "São Tomé and Príncipe",
-     "country": "STP",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "SWZ",
-     "label": "Eswatini",
-     "country": "SWZ",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "SYC",
-     "label": "Seychelles",
-     "country": "SYC",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "TCD",
-     "label": "Chad",
-     "country": "TCD",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "TGO",
-     "label": "Togo",
-     "country": "TGO",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "TUN",
-     "label": "Tunisia",
-     "country": "TUN",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "TZA",
-     "label": "Tanzania",
-     "country": "TZA",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "UGA",
-     "label": "Uganda",
-     "country": "UGA",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "ZAF",
-     "label": "South Africa",
-     "country": "ZAF",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "ZMB",
-     "label": "Zambia",
-     "country": "ZMB",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "ZWE",
-     "label": "Zimbabwe",
-     "country": "ZWE",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechAfrica News / Egyptian Ministry of Communications and Information Technology",
-     "source_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    }
-   ],
-   "register": "data/signal-evidence.csv",
-   "domain": null,
-   "revision": "008fa8c9d02fef",
-   "coverage": {
-    "known": 1,
-    "total": 54
-   },
-   "history_verified": true,
-   "history_id": "evidence-egypt-production-history",
-   "category": "Supporting evidence"
-  },
-  {
-   "id": "evidence-kenya-smartphone-history",
-   "pillar": "access",
-   "title": "Kenya smartphone connections — reported quarterly figures",
-   "unit": "connections",
-   "description": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications.",
-   "rows": [
-    {
-     "id": "AGO",
-     "label": "Angola",
-     "country": "AGO",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "BDI",
-     "label": "Burundi",
-     "country": "BDI",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "BEN",
-     "label": "Benin",
-     "country": "BEN",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "BFA",
-     "label": "Burkina Faso",
-     "country": "BFA",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "BWA",
-     "label": "Botswana",
-     "country": "BWA",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "CAF",
-     "label": "Central African Republic",
-     "country": "CAF",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "CIV",
-     "label": "Côte d'Ivoire",
-     "country": "CIV",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "CMR",
-     "label": "Cameroon",
-     "country": "CMR",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "COD",
-     "label": "Democratic Republic of the Congo",
-     "country": "COD",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "COG",
-     "label": "Republic of the Congo",
-     "country": "COG",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "COM",
-     "label": "Comoros",
-     "country": "COM",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "CPV",
-     "label": "Cabo Verde",
-     "country": "CPV",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "DJI",
-     "label": "Djibouti",
-     "country": "DJI",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "DZA",
-     "label": "Algeria",
-     "country": "DZA",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "EGY",
-     "label": "Egypt",
-     "country": "EGY",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "ERI",
-     "label": "Eritrea",
-     "country": "ERI",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "ETH",
-     "label": "Ethiopia",
-     "country": "ETH",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "GAB",
-     "label": "Gabon",
-     "country": "GAB",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "GHA",
-     "label": "Ghana",
-     "country": "GHA",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "GIN",
-     "label": "Guinea",
-     "country": "GIN",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "GMB",
-     "label": "Gambia",
-     "country": "GMB",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "GNB",
-     "label": "Guinea-Bissau",
-     "country": "GNB",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "GNQ",
-     "label": "Equatorial Guinea",
-     "country": "GNQ",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "KEN",
-     "label": "Kenya",
-     "country": "KEN",
-     "value": 52260000.0,
-     "period": "June 2026 (end of Q4 FY2025/26)",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Connections recorded by the Communications Authority of Kenya sector statistics, as reported by TechTrendsKE. Device connections are not people and not unique users: one person or business may hold several connections. Publication date is not the observation date. Stated 4.2% increase from 50.18 million in March 2026.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "LBR",
-     "label": "Liberia",
-     "country": "LBR",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "LBY",
-     "label": "Libya",
-     "country": "LBY",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "LSO",
-     "label": "Lesotho",
-     "country": "LSO",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "MAR",
-     "label": "Morocco",
-     "country": "MAR",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "MDG",
-     "label": "Madagascar",
-     "country": "MDG",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "MLI",
-     "label": "Mali",
-     "country": "MLI",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "MOZ",
-     "label": "Mozambique",
-     "country": "MOZ",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "MRT",
-     "label": "Mauritania",
-     "country": "MRT",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "MUS",
-     "label": "Mauritius",
-     "country": "MUS",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "MWI",
-     "label": "Malawi",
-     "country": "MWI",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "NAM",
-     "label": "Namibia",
-     "country": "NAM",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "NER",
-     "label": "Niger",
-     "country": "NER",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "NGA",
-     "label": "Nigeria",
-     "country": "NGA",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "RWA",
-     "label": "Rwanda",
-     "country": "RWA",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "SDN",
-     "label": "Sudan",
-     "country": "SDN",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "SEN",
-     "label": "Senegal",
-     "country": "SEN",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "SLE",
-     "label": "Sierra Leone",
-     "country": "SLE",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "SOM",
-     "label": "Somalia",
-     "country": "SOM",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "SSD",
-     "label": "South Sudan",
-     "country": "SSD",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "STP",
-     "label": "São Tomé and Príncipe",
-     "country": "STP",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "SWZ",
-     "label": "Eswatini",
-     "country": "SWZ",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "SYC",
-     "label": "Seychelles",
-     "country": "SYC",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "TCD",
-     "label": "Chad",
-     "country": "TCD",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "TGO",
-     "label": "Togo",
-     "country": "TGO",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "TUN",
-     "label": "Tunisia",
-     "country": "TUN",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "TZA",
-     "label": "Tanzania",
-     "country": "TZA",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "UGA",
-     "label": "Uganda",
-     "country": "UGA",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "ZAF",
-     "label": "South Africa",
-     "country": "ZAF",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "ZMB",
-     "label": "Zambia",
-     "country": "ZMB",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    },
-    {
-     "id": "ZWE",
-     "label": "Zimbabwe",
-     "country": "ZWE",
-     "value": null,
-     "period": "",
-     "status": "measured",
-     "source": "TechTrendsKE / Communications Authority of Kenya",
-     "source_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-     "relation": "=",
-     "note": "Source-reviewed signal evidence. Scope, period and status apply to each value; estimates and forecasts retain their qualifications. Dated observations already reviewed in this record. No extrapolation beyond these periods; source scope and evidence limitations remain in every point.",
-     "source_tier": 3,
-     "retrieved_at": "2026-10-07",
-     "snapshot": "data/reference/signal-evidence.json",
-     "snapshot_sha256": "112087b15782335dbef8287c5bf93db23ef22f37867aaaf24617531813d80945"
-    }
-   ],
-   "register": "data/signal-evidence.csv",
-   "domain": null,
-   "revision": "9431cb45aa6bc8",
-   "coverage": {
-    "known": 1,
-    "total": 54
-   },
-   "history_verified": true,
-   "history_id": "evidence-kenya-smartphone-history",
-   "category": "Supporting evidence"
+   "history_verified": false,
+   "comparison_eligible": false,
+   "scope": "single-country"
   }
  ],
  "source_hashes": {
   "data/items.json": "20e7807954b2b05909257466204d28f40929c39cf782c8fc155a5ceae0798036",
   "data/infrastructure.json": "d97dedc2edfa80be4ea8938e5770b812411c6a5aa6c8b5c36fe8fa7ab2b7a76f",
   "data/prices.json": "ed7d3cda62ee928dcbeda05b65c412e8d848a4b3d37dadaaeaaf9332c6b20467",
-  "data/indicators.json": "b1276eee6981cf9b199224f5dd07827571c8c6ba3331797cd56022da276487bb",
+  "data/indicators.json": "e5427f066d3c189652031eb194c9d45563c17949e9f23330f0c95fbccf1edc7a",
   "data/jobs-atlas-exposure.csv": "ea830da762c9bad4c3e394f0ac39e67cb5c082c22d70fbfc9eb6454eed13e273",
   "data/jobs-exposure.csv": "3186fdea841750a81d33e350cc15af28f4d85ff18f88351a3bf14439dfe73c37",
   "data/affordability.csv": "3973b1d0949ecf08be2749db0031a01d6250c5cdd92b4ee85d2813b6023f4d46",
   "data/subscription-register.csv": "3d69a4e3eeaf1479336eebde13ba3077f37136dd17565e9cd56f1165ecde599a",
   "data/reference/gni-per-capita.csv": "cf064eb77bbff26f65cd43fe3964d9dc962a5398e48207991c7d3482b7a7e177",
-  "data/reference/home-figures.json": "da047d33bc536bec4039062d23c7c998461a06696e9ec98af96fc1bf5c837959",
+  "data/reference/home-figures.json": "3be79e68abd134657e149a240556b42a3725b9387c5c0ccaa492a898c4c4fdf7",
   "data/reference/country-context.csv": "a7f1d4fdaff79bdb0d49e38fe4c1a41747dd1b34841aa078ff1c123d5cf1a34e",
   "data/reference/signal-evidence.json": "cfa55e5cfe72d64f26651af593d6878d654bfbe8a83794c7588b6ad89747c74f",
-  "data/reference/signal-review-decisions.json": "8eec5ec4657b7c09663911499782e43208f4c3c740ca98d39ca57df736fc1637",
+  "data/reference/signal-review-decisions.json": "e4b719889ff5760aa08622fdf259716bead84b3faf44e4e87000da80e22e557a",
   "data/reference/priority-evidence.json": "c76a3bb3ccbb8c40f50037bd6540a26c43cde17e31ab8ea2950c768cd64d0f32",
   "data/reference/data-centres-corpus-2026-10-05.csv": "a6fb560948aa9de1bfcbcac0ab4e54df45b48f0213100ef83a20084e91a35e0f",
   "data/reference/economic-context.json": "5e2182c40215a71c04c727d89afc25e73ed378220680e7c2a9fbe40469175f1a",

@@ -62,3 +62,5 @@ Priorities for independent research: resolve repeated campus coordinates, confir
 operating status using operator/regulator evidence, and verify facility-level
 coordinates. Keep pending facts labelled. No record from a restricted commercial
 directory has been directly scraped by this integration.
+
+Facility stage is published as `facility_stage`; `status` is a backward-compatible alias of that field, not evidence status. `evidence_status=third_party_unverified` and `temporal_status=source_reported` do not claim a facility has been independently checked. The singular source_url points to the directory edition; original source_urls remain available for review.

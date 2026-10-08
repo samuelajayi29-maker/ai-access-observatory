@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 460" width="820" height="460" role="img" aria-label="0.8% of the capacity named in the register is serving load: 6.4 MW energised against 806.4 MW named across four delivery statuses.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 460" width="820" height="460" role="img" aria-label="0.8% of the capacity named in the register is at opened facilities: 6.4 MW stated at opened facilities against 806.4 MW named across four delivery statuses.">
 <defs><pattern id="status-proposal" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 6L6 0" stroke="#756342" stroke-width="1" /></pattern></defs><rect width="820" height="460" fill="#fbfaf8" />
 <text x="28" y="38" font-family="'Source Serif 4',Georgia,serif" font-size="21" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Data centre capacity in Africa by delivery status</text>
 <text x="28" y="60.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Megawatts named in the register. Status is never mixed and announced is not built.</text>
@@ -7,8 +7,8 @@
 <pattern id="h-approved" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(0)"><rect width="9" height="9" fill="#706a61" opacity="0.25" /><line x1="0" y1="0" x2="9" y2="0" stroke="#706a61" stroke-width="3.2" /></pattern>
 <pattern id="h-announced" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(0)"><rect width="9" height="9" fill="#706a61" opacity="0.25" /><circle cx="4.5" cy="4.5" r="1.7" fill="#706a61" /></pattern>
 </defs>
-<g data-preset-row="7f56f41ef9dbf849">
-<text x="236" y="108" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Energised, serving load</text>
+<g data-preset-row="27531de86b354711">
+<text x="236" y="108" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Opened facilities</text>
 <rect x="250" y="92" width="3.4" height="34" fill="#1a5f4a" data-status="measured" stroke="#1a5f4a" stroke-width="1"><title>measured</title></rect>
 <text x="263.4" y="105" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">6.4 MW</text>
 <text x="263.4" y="120" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">1% of all capacity named</text>
@@ -30,7 +30,7 @@
 <text x="669.5" y="294" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">94% of all capacity named</text>
 </g>
 <text x="28" y="340" font-family="'IBM Plex Mono',Consolas,monospace" font-size="12" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">16 of 22 register rows carry no published megawatt figure and are excluded.</text>
-<text x="28" y="360" font-family="'IBM Plex Mono',Consolas,monospace" font-size="12" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">0.8% of the capacity named here is serving load. Announced capacity is a promise, not a supply.</text>
+<text x="28" y="360" font-family="'IBM Plex Mono',Consolas,monospace" font-size="12" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">0.8% of the capacity named here is at opened facilities. Announced capacity is a promise, not a supply.</text>
 <line x1="28" y1="414" x2="792" y2="414" stroke="#ddd8d0" />
 <text x="28" y="433" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Data: InferenceAfrica · CC BY 4.0 · compiled 2026-10-08</text>
 </svg>

@@ -39,6 +39,7 @@
   host.innerHTML = '<div class="chart-controls">' +
     '<label>Pillar<select data-cb-pillar><option value="">All pillars</option><option value="jobs">Jobs</option><option value="access">Access</option><option value="infrastructure">Infrastructure</option><option value="signals">Signals</option></select></label>' +
     '<label>Country focus<select data-cb-country><option value="">Compare across countries / all records</option></select></label>' +
+    '<label>Measure family<select data-cb-family><option value="">All families</option></select></label><label>Provider or model<select data-cb-provider><option value="">All providers and models</option></select></label><label>Find a measure<input type="search" data-cb-measure-search placeholder="Unemployment, mobile cost…"></label>' +
     '<label>Measure<select data-cb-series></select></label>' +
     '<label>Observation period<select data-cb-period><option value="">All available periods</option></select></label>' +
     '<label>Chart title<input data-cb-title maxlength="100"></label>' +
@@ -329,11 +330,17 @@
     } catch(error) {message.textContent=error.message || 'Export failed. Please try SVG or CSV.';}
   }
   select.addEventListener('change',function(){activate(series.find(function(s){return s.id===select.value;}),false);});
-  function eligibleSeries(){return series.filter(function(s){return (!pillarFilter.value || s.pillar===pillarFilter.value) && (!countryFilter.value || s.rows.some(function(r){return r.country===countryFilter.value;}));});}
+  function family(s){if(s.id.startsWith('jobs-'))return 'AI task exposure';if(s.id.startsWith('cost-'))return 'Connectivity cost';if(/device|handset/.test(s.id))return 'Device cost';if(/gni|subscription/.test(s.id))return 'Cost vs income';if(s.id.startsWith('economy-'))return 'Context: economy';if(/EG\.ELC|generation|eskom|OUTG/.test(s.id))return 'Context: electricity';return 'Supporting evidence';}
+  function provider(s){return /subscription|access-gni/.test(s.id)?s.title.split(' / ')[0].split(' — ')[0]:'';}
+  const familyFilter=get('[data-cb-family]'),providerFilter=get('[data-cb-provider]'),measureSearch=get('[data-cb-measure-search]');
+  [...new Set(series.map(family))].sort().forEach(f=>familyFilter.add(new Option(f,f)));
+  function providers(){providerFilter.replaceChildren(new Option('All providers and models',''));[...new Set(series.filter(s=>!familyFilter.value||family(s)===familyFilter.value).map(provider).filter(Boolean))].sort().forEach(p=>providerFilter.add(new Option(p,p)));}
+  providers();familyFilter.addEventListener('change',()=>{providers();filterMeasures(false);});providerFilter.addEventListener('change',()=>filterMeasures(false));measureSearch.addEventListener('input',()=>filterMeasures(false));
+  function eligibleSeries(){return series.filter(function(s){return (!familyFilter.value || family(s)===familyFilter.value) && (!providerFilter.value || provider(s)===providerFilter.value) && s.title.toLowerCase().includes(measureSearch.value.toLowerCase()) && (!pillarFilter.value || s.pillar===pillarFilter.value) && (!countryFilter.value || s.rows.some(function(r){return r.country===countryFilter.value;}));});}
   function filterMeasures(restore){
     var available=eligibleSeries(),notice='';
     // Some pillars contain only continent-wide records. Make the empty combination explicit.
-    if(!available.length){countryFilter.value='';available=eligibleSeries();notice='This pillar has no country-level measures; country focus was cleared to show all records.';}
+    if(!available.length){preview.hidden=true;message.textContent='No measures match these filters. Clear a filter to continue.';host.querySelectorAll('[data-cb-export],[data-cb-share]').forEach(b=>b.disabled=true);return;}preview.hidden=false;
     Array.from(select.options).forEach(function(option){option.hidden=!available.some(function(s){return s.id===option.value;});option.disabled=option.hidden;});
     var wanted=available.find(function(s){return s.id===current.id;}) || available[0];
     if(wanted)activate(wanted,restore);

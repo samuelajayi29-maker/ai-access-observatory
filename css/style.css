@@ -1152,3 +1152,7 @@ body[data-page="data-explorer.html"] [data-chart-builder] > .chart-controls > la
 body[data-page="data-explorer.html"] [data-project-lab] > .chart-controls{grid-template-columns:repeat(2,minmax(0,1fr))}
 @media(max-width:700px){body[data-page="data-explorer.html"] [data-chart-builder] > .chart-controls,body[data-page="data-explorer.html"] [data-project-lab] > .chart-controls{grid-template-columns:1fr}}
 
+
+/* Workspace navigation and compact mobile masthead. */
+.nav-toggle{display:none}.workspace-tabs{display:flex;flex-wrap:wrap;gap:.5rem;border-bottom:1px solid var(--rule);padding-bottom:1rem;margin-bottom:1.5rem}.workspace-tabs a{padding:.6rem 1rem;border:1px solid var(--rule);text-decoration:none}.workspace-tabs a[aria-current=page]{background:var(--ink);color:var(--paper)}.download-list li{padding:.6rem 0}.download-list span{font-size:.85rem;margin-left:.5rem}.comparison-preview svg{max-width:none}.workspace-tabs~[data-workspace] .resource-tools{margin-top:0}.nav-toggle:focus-visible,.workspace-tabs a:focus-visible{outline:3px solid var(--ink);outline-offset:4px}
+@media(max-width:760px){.has-menu .nav-toggle{display:block;margin-left:auto}.has-menu .masthead__inner{flex-wrap:wrap}.has-menu #primary-nav{display:none;width:100%;flex-wrap:wrap}.has-menu #primary-nav.is-open{display:flex}.workspace-tabs a{flex:1 0 27%;text-align:center}.masthead__meta{font-size:.7rem}.comparison-controls{grid-template-columns:1fr}}

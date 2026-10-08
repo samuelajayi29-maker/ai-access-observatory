@@ -1,238 +1,238 @@
 {
-  "schema_version": 1,
-  "decisions": [
-    {
-      "signal_url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
-      "decision": "evidence_added",
-      "reviewed_at": "2026-09-28",
-      "observation_ids": [
-        "nvidia-africa-training"
-      ],
-      "note": "Primary source reviewed. Findings are in the signal evidence register with their scope, period and status."
-    },
-    {
-      "signal_url": "https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/",
-      "decision": "evidence_added",
-      "reviewed_at": "2026-09-28",
-      "observation_ids": [
-        "bpo-automatable",
-        "bpo-resilient",
-        "bpo-entry-level",
-        "bpo-customer-experience"
-      ],
-      "note": "Primary source reviewed. Findings are in the signal evidence register with their scope, period and status."
-    },
-    {
-      "signal_url": "https://techafricanews.com/2026/09/17/gsma-rwanda-reforms-connect-1-07-million-more-mobile-internet-users-2031/",
-      "decision": "evidence_added",
-      "reviewed_at": "2026-09-28",
-      "observation_ids": [
-        "rwanda-additional-users",
-        "rwanda-reform-growth",
-        "rwanda-fiscal-benefit"
-      ],
-      "note": "Primary source reviewed. Findings are in the signal evidence register with their scope, period and status."
-    },
-    {
-      "signal_url": "https://www.gsma.com/newsroom/press-release/gsma-and-pdaa-unveil-roadmap-to-close-africas-mobile-internet-usage-gap-and-connect-one-billion-people-by-2030/",
-      "decision": "evidence_added",
-      "reviewed_at": "2026-09-28",
-      "observation_ids": [
-        "africa-usage-gap",
-        "africa-coverage-gap"
-      ],
-      "note": "Primary source reviewed. Findings are in the signal evidence register with their scope, period and status."
-    },
-    {
-      "signal_url": "https://www.gsma.com/newsroom/press-release/gsma-warns-of-emerging-global-ai-divide-as-three-billion-people-remain-offline-and-smartphone-component-costs-soar/",
-      "decision": "evidence_added",
-      "reviewed_at": "2026-09-28",
-      "observation_ids": [
-        "handset-ssa",
-        "handset-lmic"
-      ],
-      "note": "Primary source reviewed. Findings are in the signal evidence register with their scope, period and status."
-    },
-    {
-      "signal_url": "https://businessday.ng/technology/article/entry-level-smartphone-costs-hit-76-of-monthly-income-in-sub-saharan-africa/",
-      "decision": "corrected_scope",
-      "reviewed_at": "2026-09-28",
-      "observation_ids": [
-        "handset-ssa"
-      ],
-      "source_url": "https://www.gsma.com/newsroom/press-release/gsma-warns-of-emerging-global-ai-divide-as-three-billion-people-remain-offline-and-smartphone-component-costs-soar/",
-      "note": "76% refers to the poorest 20% of people, not average income across all residents. Observation: end of 2025."
-    },
-    {
-      "signal_url": "https://iafrica.com/nvidia-confirms-morocco-in-two-african-ai-compute-projects-including-500mw-casablanca-factory/",
-      "decision": "project_added",
-      "reviewed_at": "2026-09-28",
-      "source_url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
-      "project": "Nexus AI factory (Casablanca)",
-      "note": "Added 500 MW planned capacity and USD 1.2 billion initial investment; status announced."
-    },
-    {
-      "signal_url": "https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/",
-      "decision": "excluded_unverified",
-      "reviewed_at": "2026-09-28",
-      "source_url": "https://cloud.google.com/blog/products/infrastructure/heita-south-africa-new-cloud-region",
-      "prior_record": {
-        "name": "Google African cloud region (Nairobi)",
-        "country": "Kenya",
-        "sponsors": "Google Cloud",
-        "capacity_mw": null,
-        "capex_usd": null,
-        "status": "announced",
-        "announced": "2026-07-06",
-        "online": "2028",
-        "source": "Tech In Africa",
-        "url": "https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/",
-        "note": "First Google cloud region on the continent, targeted for 2028.",
-        "evidence_status": "unclear",
-        "temporal_status": "announced",
-        "geography_scope": "country",
-        "headline_eligible": false,
-        "originating_source": "Tech In Africa",
-        "evidence_host": "techinafrica.com",
-        "source_quality": "ok",
-        "archive_url": "https://web.archive.org/web/20260708182858/https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/",
-        "archived_at": "2026-07-08"
-      },
-      "note": "Removed unconfirmed Nairobi proposal from the active project register. Google states its first African region opened in Johannesburg on 2024-01-31. This does not establish a Nairobi project or its proposed 2028 opening."
-    },
-    {
-      "signal_url": "https://technext24.com/news/kpmg-orange-launch-nigeria-smartphone-study/",
-      "decision": "evidence_added",
-      "reviewed_at": "2026-09-28",
-      "source_url": "https://kpmg.com/content/dam/kpmgsites/ng/pdf/2026/09/Nigeria%20Smartphone%20Study%20-%20Orange%20Group%20and%20KPMG.pdf.coredownload.inline.pdf",
-      "observation_ids": [
-        "nga-survey-ai-1",
-        "nga-survey-ai-2",
-        "nga-survey-ai-3",
-        "nga-survey-ai-4",
-        "nga-survey-ai-5",
-        "nga-survey-ai-6",
-        "nga-survey-ai-7",
-        "nga-survey-ai-8",
-        "nga-survey-ai-9",
-        "nga-survey-ai-10"
-      ],
-      "note": "Added the AI-tools comparison from p.41 with the city-survey scope. Methods on pp.9–10 limit interpretation; not national adoption."
-    },
-    {
-      "signal_url": "https://nairametrics.com/2026/09/26/nigerias-smartphone-ownership-rises-to-75-as-digital-use-expands-report/",
-      "decision": "needs_clarification",
-      "reviewed_at": "2026-09-28",
-      "source_url": "https://kpmg.com/content/dam/kpmgsites/ng/pdf/2026/09/Nigeria%20Smartphone%20Study%20-%20Orange%20Group%20and%20KPMG.pdf.coredownload.inline.pdf",
-      "note": "The report labels ownership 75% on p.12, but its methodology describes selected urban/semi-urban smartphone users (pp.9–10). Withheld as a national ownership estimate until the sampling denominator and weights are clarified."
-    },
-    {
-      "signal_url": "https://technext24.com/news/9-in-10-nigerians-use-android-smartphones/",
-      "decision": "corrected_scope",
-      "reviewed_at": "2026-09-28",
-      "source_url": "https://kpmg.com/content/dam/kpmgsites/ng/pdf/2026/09/Nigeria%20Smartphone%20Study%20-%20Orange%20Group%20and%20KPMG.pdf.coredownload.inline.pdf",
-      "note": "Primary report p.15 gives 88%, with a smartphone-user base of 9,944 for 2025. The rounded headline is not a share of all Nigerians. Kept as contextual evidence; no national ownership value inferred."
-    },
-    {
-      "signal_url": "https://techafricanews.com/2026/09/16/senegal-300m-cybastion-digitalisation-projects/",
-      "decision": "corrected_scope",
-      "reviewed_at": "2026-09-28",
-      "source_url": "https://prod.cybastiontech.com/fr/blog/salle-de-presse-4/senegal-and-cybastion-announce-proposed-digital-transformation-partnership-417",
-      "observation_ids": [
-        "sen-cybastion-financing-target"
-      ],
-      "note": "Company statement says USD300m financing target subject to agreements and approvals. Recorded separately from committed capital and project capex."
-    },
-    {
-      "signal_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
-      "decision": "evidence_added",
-      "reviewed_at": "2026-10-06",
-      "observation_ids": [
-        "kenya-smartphones-jun2026",
-        "kenya-featurephones-jun2026",
-        "kenya-devices-jun2026",
-        "kenya-smartphones-mar2026"
-      ],
-      "note": "Open page read in full. Regulator-published device connections for two quarters, kept as device connections with the smartphone/feature-phone split preserved. Not a population or subscriber measure and not headline-eligible supplementary evidence."
-    },
-    {
-      "signal_url": "https://techafricanews.com/2026/09/24/kenya-digital-literacy-programme-10382-junior-schools/",
-      "decision": "evidence_added",
-      "reviewed_at": "2026-10-06",
-      "observation_ids": [
-        "ken-digital-literacy-teachers"
-      ],
-      "note": "Open page read in full. The cumulative teacher count is recorded; the 10,382-school Phase II target is a planned scope and is kept in the observation note, not as a delivered count."
-    },
-    {
-      "signal_url": "https://news.outsourceaccelerator.com/egypt-digital-export-workforce/",
-      "decision": "evidence_added",
-      "reviewed_at": "2026-10-06",
-      "observation_ids": [
-        "egy-digital-services-exporters-2026"
-      ],
-      "note": "Open page read in full. A ministerial workforce figure with no reference year or definition is kept as supplementary evidence with those limits stated; no national employment inference is drawn."
-    },
-    {
-      "signal_url": "https://news.outsourceaccelerator.com/egypt-outsourcing-exports-2029/",
-      "decision": "evidence_added",
-      "reviewed_at": "2026-10-06",
-      "observation_ids": [
-        "egy-outsourcing-export-target-2029",
-        "egy-digital-export-interim-2028"
-      ],
-      "note": "Open page read in full. Government export targets recorded as targets, separate from any measured export value."
-    },
-    {
-      "signal_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
-      "decision": "evidence_added",
-      "reviewed_at": "2026-10-06",
-      "observation_ids": [
-        "egypt-mobile-production-2024",
-        "egypt-mobile-production-2025"
-      ],
-      "note": "Open page read in full. Two measured years of local mobile-device production recorded; the 2026 expectation and the demand range stay in the note rather than in the series."
-    },
-    {
-      "signal_url": "https://www.ecofinagency.com/news-services/1709-58988-nigeria-to-train-32-000-citizens-in-ai-and-cybersecurity-via-new-academy",
-      "decision": "evidence_added",
-      "reviewed_at": "2026-10-06",
-      "observation_ids": [
-        "nga-digital-academy-places"
-      ],
-      "note": "Open page read in full. Training places recorded as announced capacity, with applications, eligibility and first-cohort counts kept in the note. No completion or employment claim."
-    },
-    {
-      "signal_url": "https://techafricanews.com/2026/09/16/egypt-intel-train-one-million-citizens-ai-annually/",
-      "decision": "evidence_added",
-      "reviewed_at": "2026-10-06",
-      "observation_ids": [
-        "egy-ai-training-places"
-      ],
-      "note": "Open page read in full. A signed memorandum of understanding is an announcement: recorded as announced training capacity, not delivered training."
-    },
-    {
-      "signal_url": "https://www.citinewsroom.com/2026/10/mtn-ghana-to-deploy-new-spectrum-to-accelerate-5g-expansion/",
-      "decision": "evidence_added",
-      "reviewed_at": "2026-10-06",
-      "observation_ids": [
-        "gha-5g-spectrum-cost-2026"
-      ],
-      "note": "Open page read in full. The awarded spectrum price and band allocations are recorded; no capacity, coverage or capex figure is claimed from them."
-    },
-    {
-      "signal_url": "https://itpulse.com.ng/over-23-million-nigerians-still-offline-as-ruralconnect-summit-2-0-seeks-solutions/",
-      "decision": "needs_clarification",
-      "reviewed_at": "2026-10-06",
-      "observation_ids": [],
-      "note": "Open page read in full. The article attributes 'more than 23 million' Nigerians without meaningful internet access to unnamed industry figures and separately reports that the Federal Government's Project BRIDGE flags 'more than 33 million' as offline, without reconciling the two or defining 'meaningful access'; the summit's own theme refers to 'the next 25 million users'. No observation was recorded. Needed: the underlying NCC or Project BRIDGE dataset with its definition of access, reference date and geographic coverage."
-    },
-    {
-      "signal_url": "https://www.continent8.com/continent-8-technologies-launches-in-south-africa-extending-its-private-global-network-into-africa/",
-      "decision": "needs_clarification",
-      "reviewed_at": "2026-10-06",
-      "observation_ids": [],
-      "note": "Company press release read in full. Announces a Johannesburg colocation facility for the iGaming sector, said to be live in Q4 2026, with no capacity, investment, employment or site figure and no AI-specific workload described. Nothing comparable to a project register row could be recorded and no capacity may be inferred. Needed: a capacity or investment disclosure, or a dated operating confirmation, before it can be considered for the infrastructure register."
-    }
-  ]
+ "schema_version": 1,
+ "decisions": [
+  {
+   "signal_url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+   "decision": "evidence_added",
+   "reviewed_at": "2026-09-28",
+   "observation_ids": [
+    "nvidia-africa-training"
+   ],
+   "note": "Extracted: Developers trained by NVIDIA in Africa (as reported 2026-09-21, measured). Provider-reported training count, not unique jobs created or the total AI workforce."
+  },
+  {
+   "signal_url": "https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/",
+   "decision": "evidence_added",
+   "reviewed_at": "2026-09-28",
+   "observation_ids": [
+    "bpo-automatable",
+    "bpo-resilient",
+    "bpo-entry-level",
+    "bpo-customer-experience"
+   ],
+   "note": "Extracted: BPO/ITES tasks potentially automatable by 2030 (2030, projection). Sector-specific research. Not a national all-economy estimate or a prediction of job losses.; BPO tasks fully resilient to automation (2025 report, modelled). Sector-specific research. Not a national all-economy estimate or a prediction of job losses.; Entry-level share of BPO workforce (2025 report, measured). Sector-specific research. Not a national all-economy estimate or a prediction of job losses.; Customer Experience share of BPO employment (2025 report, measured). Sector-specific research. Not a national all-economy estimate or a prediction of job losses."
+  },
+  {
+   "signal_url": "https://techafricanews.com/2026/09/17/gsma-rwanda-reforms-connect-1-07-million-more-mobile-internet-users-2031/",
+   "decision": "evidence_added",
+   "reviewed_at": "2026-09-28",
+   "observation_ids": [
+    "rwanda-additional-users",
+    "rwanda-reform-growth",
+    "rwanda-fiscal-benefit"
+   ],
+   "note": "Extracted: Additional mobile internet subscribers under reform scenario (2031, projection). Conditional reform scenario; not realised adoption or revenue.; Mobile internet subscribers above the no-reform scenario (2031, projection). Conditional reform scenario; not realised adoption or revenue.; Net annual fiscal benefit under reform scenario (2031, projection). Conditional reform scenario; not realised adoption or revenue."
+  },
+  {
+   "signal_url": "https://www.gsma.com/newsroom/press-release/gsma-and-pdaa-unveil-roadmap-to-close-africas-mobile-internet-usage-gap-and-connect-one-billion-people-by-2030/",
+   "decision": "evidence_added",
+   "reviewed_at": "2026-09-28",
+   "observation_ids": [
+    "africa-usage-gap",
+    "africa-coverage-gap"
+   ],
+   "note": "Extracted: Africa mobile internet gap population (2026 roadmap; underlying observation year unspecified, measured). Approximate regional estimate. No country allocation. Publication date is not an observation date.; Africa mobile internet gap population (2026 roadmap; underlying observation year unspecified, measured). Approximate regional estimate. No country allocation. Publication date is not an observation date."
+  },
+  {
+   "signal_url": "https://www.gsma.com/newsroom/press-release/gsma-warns-of-emerging-global-ai-divide-as-three-billion-people-remain-offline-and-smartphone-component-costs-soar/",
+   "decision": "evidence_added",
+   "reviewed_at": "2026-09-28",
+   "observation_ids": [
+    "handset-ssa",
+    "handset-lmic"
+   ],
+   "note": "Extracted: Entry-level handset cost for the poorest 20% (end of 2025, measured). Income denominator: poorest fifth of people. Geographies overlap; do not add them. Not the average for the whole population.; Entry-level handset cost for the poorest 20% (end of 2025, measured). Income denominator: poorest fifth of people. Geographies overlap; do not add them. Not the average for the whole population."
+  },
+  {
+   "signal_url": "https://businessday.ng/technology/article/entry-level-smartphone-costs-hit-76-of-monthly-income-in-sub-saharan-africa/",
+   "decision": "corrected_scope",
+   "reviewed_at": "2026-09-28",
+   "observation_ids": [
+    "handset-ssa"
+   ],
+   "source_url": "https://www.gsma.com/newsroom/press-release/gsma-warns-of-emerging-global-ai-divide-as-three-billion-people-remain-offline-and-smartphone-component-costs-soar/",
+   "note": "76% refers to the poorest 20% of people, not average income across all residents. Observation: end of 2025."
+  },
+  {
+   "signal_url": "https://iafrica.com/nvidia-confirms-morocco-in-two-african-ai-compute-projects-including-500mw-casablanca-factory/",
+   "decision": "project_added",
+   "reviewed_at": "2026-09-28",
+   "source_url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+   "project": "Nexus AI factory (Casablanca)",
+   "note": "Added 500 MW planned capacity and USD 1.2 billion initial investment; status announced."
+  },
+  {
+   "signal_url": "https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/",
+   "decision": "excluded_unverified",
+   "reviewed_at": "2026-09-28",
+   "source_url": "https://cloud.google.com/blog/products/infrastructure/heita-south-africa-new-cloud-region",
+   "prior_record": {
+    "name": "Google African cloud region (Nairobi)",
+    "country": "Kenya",
+    "sponsors": "Google Cloud",
+    "capacity_mw": null,
+    "capex_usd": null,
+    "status": "announced",
+    "announced": "2026-07-06",
+    "online": "2028",
+    "source": "Tech In Africa",
+    "url": "https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/",
+    "note": "First Google cloud region on the continent, targeted for 2028.",
+    "evidence_status": "unclear",
+    "temporal_status": "announced",
+    "geography_scope": "country",
+    "headline_eligible": false,
+    "originating_source": "Tech In Africa",
+    "evidence_host": "techinafrica.com",
+    "source_quality": "ok",
+    "archive_url": "https://web.archive.org/web/20260708182858/https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/",
+    "archived_at": "2026-07-08"
+   },
+   "note": "Removed unconfirmed Nairobi proposal from the active project register. Google states its first African region opened in Johannesburg on 2024-01-31. This does not establish a Nairobi project or its proposed 2028 opening."
+  },
+  {
+   "signal_url": "https://technext24.com/news/kpmg-orange-launch-nigeria-smartphone-study/",
+   "decision": "evidence_added",
+   "reviewed_at": "2026-09-28",
+   "source_url": "https://kpmg.com/content/dam/kpmgsites/ng/pdf/2026/09/Nigeria%20Smartphone%20Study%20-%20Orange%20Group%20and%20KPMG.pdf.coredownload.inline.pdf",
+   "observation_ids": [
+    "nga-survey-ai-1",
+    "nga-survey-ai-2",
+    "nga-survey-ai-3",
+    "nga-survey-ai-4",
+    "nga-survey-ai-5",
+    "nga-survey-ai-6",
+    "nga-survey-ai-7",
+    "nga-survey-ai-8",
+    "nga-survey-ai-9",
+    "nga-survey-ai-10"
+   ],
+   "note": "Added the AI-tools comparison from p.41 with the city-survey scope. Methods on pp.9–10 limit interpretation; not national adoption."
+  },
+  {
+   "signal_url": "https://nairametrics.com/2026/09/26/nigerias-smartphone-ownership-rises-to-75-as-digital-use-expands-report/",
+   "decision": "needs_clarification",
+   "reviewed_at": "2026-09-28",
+   "source_url": "https://kpmg.com/content/dam/kpmgsites/ng/pdf/2026/09/Nigeria%20Smartphone%20Study%20-%20Orange%20Group%20and%20KPMG.pdf.coredownload.inline.pdf",
+   "note": "The report labels ownership 75% on p.12, but its methodology describes selected urban/semi-urban smartphone users (pp.9–10). Withheld as a national ownership estimate until the sampling denominator and weights are clarified."
+  },
+  {
+   "signal_url": "https://technext24.com/news/9-in-10-nigerians-use-android-smartphones/",
+   "decision": "corrected_scope",
+   "reviewed_at": "2026-09-28",
+   "source_url": "https://kpmg.com/content/dam/kpmgsites/ng/pdf/2026/09/Nigeria%20Smartphone%20Study%20-%20Orange%20Group%20and%20KPMG.pdf.coredownload.inline.pdf",
+   "note": "Primary report p.15 gives 88%, with a smartphone-user base of 9,944 for 2025. The rounded headline is not a share of all Nigerians. Kept as contextual evidence; no national ownership value inferred."
+  },
+  {
+   "signal_url": "https://techafricanews.com/2026/09/16/senegal-300m-cybastion-digitalisation-projects/",
+   "decision": "corrected_scope",
+   "reviewed_at": "2026-09-28",
+   "source_url": "https://prod.cybastiontech.com/fr/blog/salle-de-presse-4/senegal-and-cybastion-announce-proposed-digital-transformation-partnership-417",
+   "observation_ids": [
+    "sen-cybastion-financing-target"
+   ],
+   "note": "Company statement says USD300m financing target subject to agreements and approvals. Recorded separately from committed capital and project capex."
+  },
+  {
+   "signal_url": "https://techtrendske.co.ke/2026/09/19/52-million-smartphones-kenya-mobile-data/",
+   "decision": "evidence_added",
+   "reviewed_at": "2026-10-06",
+   "observation_ids": [
+    "kenya-smartphones-jun2026",
+    "kenya-featurephones-jun2026",
+    "kenya-devices-jun2026",
+    "kenya-smartphones-mar2026"
+   ],
+   "note": "Open page read in full. Regulator-published device connections for two quarters, kept as device connections with the smartphone/feature-phone split preserved. Not a population or subscriber measure and not headline-eligible supplementary evidence."
+  },
+  {
+   "signal_url": "https://techafricanews.com/2026/09/24/kenya-digital-literacy-programme-10382-junior-schools/",
+   "decision": "evidence_added",
+   "reviewed_at": "2026-10-06",
+   "observation_ids": [
+    "ken-digital-literacy-teachers"
+   ],
+   "note": "Open page read in full. The cumulative teacher count is recorded; the 10,382-school Phase II target is a planned scope and is kept in the observation note, not as a delivered count."
+  },
+  {
+   "signal_url": "https://news.outsourceaccelerator.com/egypt-digital-export-workforce/",
+   "decision": "evidence_added",
+   "reviewed_at": "2026-10-06",
+   "observation_ids": [
+    "egy-digital-services-exporters-2026"
+   ],
+   "note": "Open page read in full. A ministerial workforce figure with no reference year or definition is kept as supplementary evidence with those limits stated; no national employment inference is drawn."
+  },
+  {
+   "signal_url": "https://news.outsourceaccelerator.com/egypt-outsourcing-exports-2029/",
+   "decision": "evidence_added",
+   "reviewed_at": "2026-10-06",
+   "observation_ids": [
+    "egy-outsourcing-export-target-2029",
+    "egy-digital-export-interim-2028"
+   ],
+   "note": "Open page read in full. Government export targets recorded as targets, separate from any measured export value."
+  },
+  {
+   "signal_url": "https://techafricanews.com/2026/09/09/egypt-8bn-outsourcing-exports-digital-services/",
+   "decision": "evidence_added",
+   "reviewed_at": "2026-10-06",
+   "observation_ids": [
+    "egypt-mobile-production-2024",
+    "egypt-mobile-production-2025"
+   ],
+   "note": "Open page read in full. Two measured years of local mobile-device production recorded; the 2026 expectation and the demand range stay in the note rather than in the series."
+  },
+  {
+   "signal_url": "https://www.ecofinagency.com/news-services/1709-58988-nigeria-to-train-32-000-citizens-in-ai-and-cybersecurity-via-new-academy",
+   "decision": "evidence_added",
+   "reviewed_at": "2026-10-06",
+   "observation_ids": [
+    "nga-digital-academy-places"
+   ],
+   "note": "Open page read in full. Training places recorded as announced capacity, with applications, eligibility and first-cohort counts kept in the note. No completion or employment claim."
+  },
+  {
+   "signal_url": "https://techafricanews.com/2026/09/16/egypt-intel-train-one-million-citizens-ai-annually/",
+   "decision": "evidence_added",
+   "reviewed_at": "2026-10-06",
+   "observation_ids": [
+    "egy-ai-training-places"
+   ],
+   "note": "Open page read in full. A signed memorandum of understanding is an announcement: recorded as announced training capacity, not delivered training."
+  },
+  {
+   "signal_url": "https://www.citinewsroom.com/2026/10/mtn-ghana-to-deploy-new-spectrum-to-accelerate-5g-expansion/",
+   "decision": "evidence_added",
+   "reviewed_at": "2026-10-06",
+   "observation_ids": [
+    "gha-5g-spectrum-cost-2026"
+   ],
+   "note": "Open page read in full. The awarded spectrum price and band allocations are recorded; no capacity, coverage or capex figure is claimed from them."
+  },
+  {
+   "signal_url": "https://itpulse.com.ng/over-23-million-nigerians-still-offline-as-ruralconnect-summit-2-0-seeks-solutions/",
+   "decision": "needs_clarification",
+   "reviewed_at": "2026-10-06",
+   "observation_ids": [],
+   "note": "Open page read in full. The article attributes 'more than 23 million' Nigerians without meaningful internet access to unnamed industry figures and separately reports that the Federal Government's Project BRIDGE flags 'more than 33 million' as offline, without reconciling the two or defining 'meaningful access'; the summit's own theme refers to 'the next 25 million users'. No observation was recorded. Needed: the underlying NCC or Project BRIDGE dataset with its definition of access, reference date and geographic coverage."
+  },
+  {
+   "signal_url": "https://www.continent8.com/continent-8-technologies-launches-in-south-africa-extending-its-private-global-network-into-africa/",
+   "decision": "needs_clarification",
+   "reviewed_at": "2026-10-06",
+   "observation_ids": [],
+   "note": "Company press release read in full. Announces a Johannesburg colocation facility for the iGaming sector, said to be live in Q4 2026, with no capacity, investment, employment or site figure and no AI-specific workload described. Nothing comparable to a project register row could be recorded and no capacity may be inferred. Needed: a capacity or investment disclosure, or a dated operating confirmation, before it can be considered for the infrastructure register."
+  }
+ ]
 }

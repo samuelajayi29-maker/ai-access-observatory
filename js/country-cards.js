@@ -1,10 +1,10 @@
 (() => {
   const node=document.getElementById('country-snapshot-data');if(!node)return;
-  const cards=JSON.parse(node.textContent).cards;
+  const payload=JSON.parse(node.textContent);let cards=payload.cards;
   const select=document.querySelector('[data-snapshot-country]'),preview=document.querySelector('[data-snapshot-preview]'),status=document.querySelector('[data-snapshot-status]');
   let current=cards.find(c=>c.iso3===select.value)||cards[0];
   const shortcut=document.querySelector('.resource-shortcut');if(shortcut){const link=document.createElement('a');link.href='#country-snapshot';link.textContent='Download a country snapshot ↓';link.style.marginInlineStart='1.5rem';shortcut.appendChild(link);}
-  function update(){current=cards.find(c=>c.iso3===select.value);preview.innerHTML=current.svg;for(const ext of ['svg','csv'])document.querySelector('[data-snapshot-'+ext+']').href='charts/countries/'+current.stem+'.'+ext;document.querySelector('[data-snapshot-profile]').href=current.filename;status.textContent='';}
+  async function update(){if(payload.url && !cards.some(c=>c.iso3===select.value)){status.textContent='Loading country snapshot…';try{const response=await fetch(payload.url);if(!response.ok)throw Error();cards=(await response.json()).cards;}catch(_){status.textContent='Could not load this country. Reload to try again.';return;}}current=cards.find(c=>c.iso3===select.value);preview.innerHTML=current.svg;for(const ext of ['svg','csv'])document.querySelector('[data-snapshot-'+ext+']').href='charts/countries/'+current.stem+'.'+ext;document.querySelector('[data-snapshot-profile]').href=current.filename;status.textContent='';}
   select.addEventListener('change',update);
   document.querySelector('[data-snapshot-png]').addEventListener('click',async event=>{
     const button=event.currentTarget,card=current;button.disabled=true;select.disabled=true;status.textContent='Preparing image…';let url;

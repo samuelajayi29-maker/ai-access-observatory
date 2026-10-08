@@ -82,7 +82,7 @@
   function addTableFilters() {
     var tables = Array.prototype.slice.call(document.querySelectorAll('table.register'));
     tables.forEach(function (table, index) {
-      if (table.hasAttribute('data-cb-table')) return;
+      if (table.hasAttribute('data-cb-table') || table.hasAttribute('data-cc-table') || table.closest('[data-project-lab]')) return;
       Array.prototype.slice.call(table.querySelectorAll('thead th')).forEach(function (heading) {
         if (!heading.hasAttribute('scope')) heading.setAttribute('scope', 'col');
       });
@@ -804,3 +804,5 @@
  }
  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start);else start();
 })();
+
+(() => {const b=document.querySelector('.nav-toggle'),nav=document.getElementById('primary-nav');if(!b||!nav)return;document.documentElement.classList.add('has-menu');b.addEventListener('click',()=>{const open=b.getAttribute('aria-expanded')!=='true';b.setAttribute('aria-expanded',String(open));nav.classList.toggle('is-open',open);});document.addEventListener('keydown',e=>{if(e.key==='Escape'&&b.getAttribute('aria-expanded')==='true'){b.setAttribute('aria-expanded','false');nav.classList.remove('is-open');b.focus();}});})();

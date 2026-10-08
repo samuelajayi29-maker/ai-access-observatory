@@ -129,6 +129,7 @@
     try { await navigator.clipboard.writeText(url.href); panel.querySelector('[data-preset-notice]').textContent='Share link copied.'; }
     catch (_) { input.focus(); input.select(); panel.querySelector('[data-preset-notice]').textContent='Copy the share link below.'; }
   }
+  const library=document.createElement('details');library.className='resource-details';const summary=document.createElement('summary');summary.textContent='Browse six published charts';library.appendChild(summary);const grid=document.createElement('div');grid.className='explorer-start-grid';payload.presets.forEach(p=>{const b=document.createElement('button');b.type='button';b.textContent=p.title;b.addEventListener('click',()=>{mode.value=p.id;activate();library.open=false;});grid.appendChild(b);});library.appendChild(grid);host.prepend(library);
   mode.addEventListener('change', () => activate());
   const wanted = new URLSearchParams(location.search).get('preset');
   if (payload.presets.some(p => p.id === wanted)) { mode.value=wanted; activate(true); }
