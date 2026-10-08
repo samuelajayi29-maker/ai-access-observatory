@@ -1,14 +1,98 @@
 {
- "updated": "2026-10-07",
+ "updated": "2026-10-08",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
     {
+     "t": "World Bank tells Sub-Saharan Africa to build small AI, not frontier systems",
+     "u": "https://iafrica.com/world-bank-tells-sub-saharan-africa-to-build-small-ai-not-frontier-systems/",
+     "s": "iAfrica",
+     "d": "Oct 7",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Africa Economic Update, October 2026: Building AI-Readiness",
+     "u": "https://openknowledge.worldbank.org/entities/publication/b852f762-7a0c-46a8-a162-8bb9aad6f7ac",
+     "s": "World Bank",
+     "d": "Oct 7",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Kenya emerges as AI hub but firms remain stuck on basic tools",
+     "u": "https://www.businessdailyafrica.com/bd/corporate/technology/kenya-emerges-as-ai-hub-but-firms-remain-stuck-on-basic-tools-5623038",
+     "s": "Business Daily",
+     "d": "Oct 7",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Cape Town graduates 500 young people from its BPO skills programme",
+     "u": "https://news.outsourceaccelerator.com/cape-town-bpo-skills-graduates/",
+     "s": "Outsource Accelerator",
+     "d": "Oct 7",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "HCLTech expands South Africa operations with an AI Centre of Excellence in Johannesburg",
+     "u": "https://thebusinessbytes.com/post/hcltech-expands-south-africa-operations-with-ai-centre-of-excellence",
+     "s": "The Business Bytes",
+     "d": "Oct 7",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Knewit raises pre-Series A to scale AI and BPO for trade operations",
+     "u": "https://news.outsourceaccelerator.com/knewit-pre-series-a/",
+     "s": "Outsource Accelerator",
+     "d": "Oct 7",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Which virtual assistant roles actually ask for AI skills",
+     "u": "https://www.outsourceaccelerator.com/articles/virtual-assistant-ai-requirements/",
+     "s": "Outsource Accelerator",
+     "d": "Oct 7",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Jamaica's BPO sector must shift to higher-value work, minister says",
+     "u": "https://news.outsourceaccelerator.com/jamaica-bpo-higher-value/",
+     "s": "Outsource Accelerator",
+     "d": "Oct 7",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Tech Mahindra puts 12,500 employees through Gemini Enterprise training",
+     "u": "https://techtrendske.co.ke/2026/10/07/tech-mahindra-gemini-enterprise-training/",
+     "s": "TechTrendsKE",
+     "d": "Oct 7",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Nigeria emerging as one of Africa's leading AI hubs, World Bank says",
+     "u": "https://leadership.ng/nigeria-emerging-one-of-africas-leading-ai-hubs-world-bank/",
+     "s": "Leadership",
+     "d": "Oct 7",
+     "dot": "dot-jobs"
+    },
+    {
      "t": "South Africa is the land of AI contradiction when it comes to jobs",
      "u": "https://www.dailymaverick.co.za/article/2026-10-06-ai/",
      "s": "Daily Maverick",
+     "d": "Oct 6",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "AIT president calls for lifelong learning as AI reshapes jobs",
+     "u": "https://itpulse.com.ng/ait-president-calls-for-lifelong-learning-as-ai-reshapes-jobs/",
+     "s": "ITPulse",
+     "d": "Oct 6",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Philippine BPO must adopt agentic AI by 2027, Mindsprint says",
+     "u": "https://news.outsourceaccelerator.com/philippine-bpo-agentic-ai-2027/",
+     "s": "Outsource Accelerator",
      "d": "Oct 6",
      "dot": "dot-jobs"
     },
@@ -23,6 +107,13 @@
      "t": "South Africa's BPO sector to miss 500,000-job target: BPESA",
      "u": "https://news.outsourceaccelerator.com/south-africa-bpo-jobs-target/",
      "s": "Outsource Accelerator",
+     "d": "Oct 5",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Workday: AI is rewriting jobs more than it is cutting them",
+     "u": "https://www.prnewswire.com/news-releases/workday-global-workforce-report-ai-is-rewriting-jobs-more-than-its-cutting-them-302898076.html",
+     "s": "PR Newswire",
      "d": "Oct 5",
      "dot": "dot-jobs"
     },
@@ -914,6 +1005,83 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "Best unlocked phones 2026: 7 picks after the price hikes",
+     "u": "https://memeburn.com/best-unlocked-phones/",
+     "s": "Memeburn",
+     "d": "Oct 8",
+     "dot": "dot-price"
+    },
+    {
+     "t": "The memory crunch is making Samsung fabulously rich",
+     "u": "https://techcentral.co.za/memory-crunch-samsung-record-profit/287052/",
+     "s": "TechCentral",
+     "d": "Oct 8",
+     "dot": "dot-price"
+    },
+    {
+     "t": "The top 1% of AI spenders outspend half of all paying users",
+     "u": "https://memeburn.com/the-top-1-of-ai-spenders-outspend-half-of-all-paying-users/",
+     "s": "Memeburn",
+     "d": "Oct 7",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Oppo F35: release date, price and specs",
+     "u": "https://techcabal.com/2026/10/07/oppo-f35-release-date-price-specs/",
+     "s": "TechCabal",
+     "d": "Oct 7",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Vivo Y600k Turbo ships a 9,020mAh battery and a $30 price bump",
+     "u": "https://memeburn.com/vivo-y600k-turbo/",
+     "s": "Memeburn",
+     "d": "Oct 7",
+     "dot": "dot-price"
+    },
+    {
+     "t": "SpaceX to borrow $40-billion to buy Nvidia chips",
+     "u": "https://techcentral.co.za/spacex-40-billion-apollo-nvidia-chips/286971/",
+     "s": "TechCentral",
+     "d": "Oct 7",
+     "dot": "dot-price"
+    },
+    {
+     "t": "M-KOPA acquires Finnish device-locking company for $8 million",
+     "u": "https://techcabal.com/2026/10/07/m-kopa-acquires-finnish-device-locking/",
+     "s": "TechCabal",
+     "d": "Oct 7",
+     "dot": "dot-price"
+    },
+    {
+     "t": "SA's Vambo AI releases language model trained for 12 African languages",
+     "u": "https://disruptafrica.com/2026/10/07/sas-vambo-ai-releases-language-model-trained-for-12-african-languages/",
+     "s": "Disrupt Africa",
+     "d": "Oct 7",
+     "dot": "dot-access"
+    },
+    {
+     "t": "African-language AI: the data pipeline is the product",
+     "u": "https://everydaydatascience.com/article/african-language-ai-data-pipeline",
+     "s": "Everyday Data Science",
+     "d": "Oct 7",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Africa is adopting AI, but its poorest people risk missing out",
+     "u": "https://businesscabal.com/africa-ai-poverty-poor-households-nigeria/",
+     "s": "Business Cabal",
+     "d": "Oct 7",
+     "dot": "dot-access"
+    },
+    {
+     "t": "The AI democratisation myth: what everyday people need to build with AI",
+     "u": "https://technext24.com/interview/ai-democratisation-lagos-life-engineers/",
+     "s": "Technext24",
+     "d": "Oct 7",
+     "dot": "dot-access"
+    },
+    {
      "t": "Why smartphone prices rose in Nigeria in H1 2026",
      "u": "https://thecondia.com/nigeria-smartphone-prices-rise-h1-2026/",
      "s": "TheCondia",
@@ -940,6 +1108,13 @@
      "s": "Business Daily",
      "d": "Oct 5",
      "dot": "dot-access"
+    },
+    {
+     "t": "How AI data centres are killing off the $100 smartphone",
+     "u": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/",
+     "s": "Rest of World",
+     "d": "Oct 5",
+     "dot": "dot-price"
     },
     {
      "t": "NITDA warns organisations, staff against sharing sensitive data with public AI tools",
@@ -2179,6 +2354,76 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "Kenya wants a bigger share of global digital trade, but the infrastructure must keep pace",
+     "u": "https://techtrendske.co.ke/2026/10/08/kenya-digital-trade-infrastructure/",
+     "s": "TechTrendsKE",
+     "d": "Oct 8",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Cassava rehires Dan Kwach to lead AI data centre push",
+     "u": "https://techtrendske.co.ke/2026/10/07/cassava-technologies-rehires-dan-kwach-to-lead-ai-data-centre-push/",
+     "s": "TechTrendsKE",
+     "d": "Oct 7",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "UAE launches $1 billion AI investment initiative for Africa",
+     "u": "https://wearethefrontier.org/world/2026/10/07/uae-launches-1-billion-ai-africa-initiative",
+     "s": "We are the Frontier",
+     "d": "Oct 7",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Ghana adds a technical review to public-sector AI purchases",
+     "u": "https://streamlinefeed.co.ke/news/ghana-adds-technical-review-to-public-ai-purchases",
+     "s": "Streamline",
+     "d": "Oct 7",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Africa moves toward coordinated AI governance as regulators seek balance",
+     "u": "https://trendsnafrica.com/africa-moves-toward-coordinated-ai-governance-as-regulators-seek-balance-between-innovation-and-protection/",
+     "s": "Trends n Africa",
+     "d": "Oct 7",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "AI and cybersecurity regulation in Africa",
+     "u": "https://techtrendske.co.ke/2026/10/07/ai-cybersecurity-regulation-africa/",
+     "s": "TechTrendsKE",
+     "d": "Oct 7",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Google and Meta said to be paying a premium for land routes amid the Red Sea clash",
+     "u": "https://restofworld.org/2026/google-meta-red-sea-subsea-cables-houthi-yemen/",
+     "s": "Rest of World",
+     "d": "Oct 7",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "IXPN targets 80% local internet traffic by 2030",
+     "u": "https://itpulse.com.ng/ixpn-targets-80-local-internet-traffic-by-2030-exposes-students-to-digital-infrastructure-careers",
+     "s": "ITPulse",
+     "d": "Oct 7",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Paratus Namibia launches Eutelsat's OneWeb LEO connectivity",
+     "u": "https://techcentral.co.za/paratus-namibia-eutelsat-oneweb-leo/286998/",
+     "s": "TechCentral",
+     "d": "Oct 7",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Angola Cables upgrades transatlantic capacity for AI traffic on a route that bypasses Europe",
+     "u": "https://iafrica.com/angola-cables-upgrades-transatlantic-capacity-for-ai-traffic-on-a-route-that-bypasses-europe/",
+     "s": "iAfrica",
+     "d": "Oct 7",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Eskom to facilitate construction of more data centres in South Africa, Ramokgopa tells Windaba delegates",
      "u": "https://www.engineeringnews.co.za/article/eskom-to-facilitate-construction-of-more-data-centres-in-south-africa-ramokgopa-tells-windaba-delegates-2026-10-06",
      "s": "Engineering News",
@@ -2189,6 +2434,41 @@
      "t": "World Bank: Economic Growth in Sub-Saharan Africa Gains Momentum Despite Global Uncertainty (Africa Economic Update: Building AI-Readiness)",
      "u": "https://www.worldbank.org/en/news/press-release/2026/10/06/economic-growth-in-sub-saharan-africa-gains-momentum-despite-global-uncertainty",
      "s": "World Bank",
+     "d": "Oct 6",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Kenya launches $40 million AI-focused data centre in Nairobi",
+     "u": "https://af.net/realtime/kenya-launches-40-million-ai-focused-data-center-in-nairobi/",
+     "s": "AIFOD",
+     "d": "Oct 6",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Continent 8 Technologies expands into Africa with Johannesburg data centre",
+     "u": "https://techafricanews.com/2026/10/06/continent-8-technologies-expands-into-africa-with-johannesburg-data-centre/",
+     "s": "TechAfrica News",
+     "d": "Oct 6",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Africa's data centre investment projected to hit $255 billion by 2050",
+     "u": "https://www.mvfdesign.com/africas-data-centre-investment-255-billion.html",
+     "s": "MVF Design",
+     "d": "Oct 6",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Nigeria's data appetite surges 47% as networks strain under rising demand",
+     "u": "https://itpulse.com.ng/nigerias-data-appetite-surges-47-as-networks-strain-under-rising-demand/",
+     "s": "ITPulse",
+     "d": "Oct 6",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Starlink's subscriber growth accelerates in Kenya as capacity limits new customers",
+     "u": "https://techtrendske.co.ke/2026/10/06/starlink-kenya-capacity-users-growth/",
+     "s": "TechTrendsKE",
      "d": "Oct 6",
      "dot": "dot-infra"
     },
@@ -2217,6 +2497,20 @@
      "t": "Africa's AI race accelerates",
      "u": "https://cajnewsafrica.com/2026/10/05/africas-ai-race-accelerates/",
      "s": "CAJ News Africa",
+     "d": "Oct 5",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Nigeria launches West Africa's first sovereign-backed AI data centre in Lagos",
+     "u": "https://af.net/realtime/nigeria-launches-west-africas-first-sovereign-backed-ai-data-center-in-lagos/",
+     "s": "AIFOD",
+     "d": "Oct 5",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "UNDP and GSMA partner on African AI, with compute access as the stated priority",
+     "u": "https://iafrica.com/undp-and-gsma-partner-on-african-ai-with-compute-access-as-the-stated-priority/",
+     "s": "iAfrica",
      "d": "Oct 5",
      "dot": "dot-infra"
     },
@@ -2329,6 +2623,13 @@
      "t": "Bacongo data center: solar power and AfDB backing",
      "u": "https://congoinvestor.com/congo-data-center-bets-on-solar-to-win-investors/",
      "s": "Congo Investor",
+     "d": "Oct 1",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "U.S. backs AI-ready data centres in Nigeria with a $1.87m feasibility grant",
+     "u": "https://businessxperiment.com/us-backs-ai-data-centres-nigeria-1-87m/",
+     "s": "Business Xperiment",
      "d": "Oct 1",
      "dot": "dot-infra"
     },
