@@ -1,10 +1,24 @@
 {
- "updated": "2026-10-08",
+ "updated": "2026-10-09",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "How SA is making new call centre jobs stick with AI",
+     "u": "https://it-online.co.za/2026/10/09/how-sa-is-making-new-call-centre-jobs-stick-with-ai/",
+     "s": "IT-Online",
+     "d": "Oct 9",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Manamela tells universities the AI question is who builds it, not who cheats with it",
+     "u": "https://iafrica.com/manamela-tells-universities-the-ai-question-is-who-builds-it-not-who-cheats-with-it/",
+     "s": "iAfrica",
+     "d": "Oct 8",
+     "dot": "dot-jobs"
+    },
     {
      "t": "World Bank tells Sub-Saharan Africa to build small AI, not frontier systems",
      "u": "https://iafrica.com/world-bank-tells-sub-saharan-africa-to-build-small-ai-not-frontier-systems/",
@@ -1017,6 +1031,55 @@
      "s": "TechCentral",
      "d": "Oct 8",
      "dot": "dot-price"
+    },
+    {
+     "t": "MasterCard adds AI payment protection for Africa's account-to-account systems",
+     "u": "https://iafrica.com/mastercard-adds-ai-payment-protection/",
+     "s": "iAfrica",
+     "d": "Oct 8",
+     "dot": "dot-access"
+    },
+    {
+     "t": "African experts demand a proper role in writing AI rules",
+     "u": "https://www.theeastafrican.co.ke/tea/business-tech/african-experts-demand-a-proper-role-in-writing-ai-rules-5624976",
+     "s": "The EastAfrican",
+     "d": "Oct 8",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Why AI must be built for Africa, not imported into it",
+     "u": "https://it-online.co.za/2026/10/08/why-ai-must-be-built-for-africa-not-imported-into-it/",
+     "s": "IT-Online",
+     "d": "Oct 8",
+     "dot": "dot-access"
+    },
+    {
+     "t": "OpenAI cuts GPT-6 API prices 50% as Intelligent UI expands",
+     "u": "https://tech-insider.org/openai-gpt-6-api-price-cut-intelligent-ui-2026/",
+     "s": "Tech Insider",
+     "d": "Oct 8",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Google opens AI-content detector SynthID to Nigerians ahead of 2027 elections",
+     "u": "https://technext24.com/news/google-opens-ai-detector-synthid-to-nigerians/",
+     "s": "Technext24",
+     "d": "Oct 8",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Oppo F35 Pro release date, price and specs confirmed",
+     "u": "https://techcabal.com/2026/10/08/oppo-f35-pro-release-date-price-specs/",
+     "s": "TechCabal",
+     "d": "Oct 8",
+     "dot": "dot-price"
+    },
+    {
+     "t": "M-KOPA reaches 10 million customers across Africa",
+     "u": "https://techtrendske.co.ke/2026/10/08/m-kopa-10-million-customers-africa-2/",
+     "s": "TechTrendsKE",
+     "d": "Oct 8",
+     "dot": "dot-access"
     },
     {
      "t": "The top 1% of AI spenders outspend half of all paying users",
@@ -2361,6 +2424,20 @@
      "dot": "dot-infra"
     },
     {
+     "t": "'Not Even a Producer of Data': Researcher presses African policymakers on AI sovereignty",
+     "u": "https://iafrica.com/not-even-a-producer-of-data-researcher-presses-african-policymakers-on-ai-sovereignty/",
+     "s": "iAfrica",
+     "d": "Oct 8",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Airtel Africa adds 3,250 sites and 3,200km of fibre in a year",
+     "u": "https://techtrendske.co.ke/2026/10/08/airtel-africa-adds-3250-sites-and-3200km-of-fibre-in-a-year/",
+     "s": "TechTrendsKE",
+     "d": "Oct 8",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Cassava rehires Dan Kwach to lead AI data centre push",
      "u": "https://techtrendske.co.ke/2026/10/07/cassava-technologies-rehires-dan-kwach-to-lead-ai-data-centre-push/",
      "s": "TechTrendsKE",
@@ -2420,6 +2497,20 @@
      "t": "Angola Cables upgrades transatlantic capacity for AI traffic on a route that bypasses Europe",
      "u": "https://iafrica.com/angola-cables-upgrades-transatlantic-capacity-for-ai-traffic-on-a-route-that-bypasses-europe/",
      "s": "iAfrica",
+     "d": "Oct 7",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "FiveNines, Nexus Core to establish Morocco data centre",
+     "u": "https://cajnewsafrica.com/2026/10/07/fivenines-nexus-core-to-establish-morocco-data-centre/",
+     "s": "CAJ News Africa",
+     "d": "Oct 7",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Vertiv, Cybastion sign deal to boost data centre infrastructure across Africa",
+     "u": "https://allafricareports.com/vertiv-cybastion-sign-deal-to-boost-data-centre-infrastructure-across-africa/",
+     "s": "All Africa Reports",
      "d": "Oct 7",
      "dot": "dot-infra"
     },
