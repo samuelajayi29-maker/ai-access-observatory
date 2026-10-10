@@ -10591,6 +10591,7 @@
    "priority": "normal",
    "topic": "Capacity and investment",
    "related_registers": [
+    "home-facts.json",
     "indicators.json",
     "infra-capacity.csv",
     "infrastructure.json"
