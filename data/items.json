@@ -1,10 +1,17 @@
 {
- "updated": "2026-10-09",
+ "updated": "2026-10-10",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "EAC and Germany launch second AI4EAC challenge for 20,000 East Africans",
+     "u": "https://dailysynapse.com/news/eac-germany-launch-second-ai4eac-challenge/",
+     "s": "DailySynapse",
+     "d": "Oct 10",
+     "dot": "dot-jobs"
+    },
     {
      "t": "How SA is making new call centre jobs stick with AI",
      "u": "https://it-online.co.za/2026/10/09/how-sa-is-making-new-call-centre-jobs-stick-with-ai/",
@@ -13,9 +20,37 @@
      "dot": "dot-jobs"
     },
     {
+     "t": "Why AI skills are becoming a new battleground for Kenya's tech industry",
+     "u": "https://www.standardmedia.co.ke/sci-tech/article/2001559701/why-ai-skills-are-becoming-a-new-battleground-for-kenyas-tech-industry",
+     "s": "The Standard",
+     "d": "Oct 9",
+     "dot": "dot-jobs"
+    },
+    {
      "t": "Manamela tells universities the AI question is who builds it, not who cheats with it",
      "u": "https://iafrica.com/manamela-tells-universities-the-ai-question-is-who-builds-it-not-who-cheats-with-it/",
      "s": "iAfrica",
+     "d": "Oct 8",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "AI developer boom could create 40 million digital jobs across Africa, World Bank says",
+     "u": "https://businessday.ng/technology/article/ai-developer-boom-could-create-40-million-digital-jobs-across-africa-world-bank/",
+     "s": "BusinessDay NG",
+     "d": "Oct 8",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Kenya Refugee Tech Workers Face Shrinking AI Jobs",
+     "u": "https://www.techbooky.com/kenyas-refugee-tech-workers-face-a-shrinking-ai-job-ladder/",
+     "s": "TechBooky",
+     "d": "Oct 8",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Suss Ads expands into AI-powered customer service",
+     "u": "https://www.the-star.co.ke/sasa/technology/2026-10-08-suss-ads-expands-into-ai-powered-customer-service",
+     "s": "The Star Kenya",
      "d": "Oct 8",
      "dot": "dot-jobs"
     },
@@ -1019,6 +1054,20 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "For Uganda, AI Brings Opportunities & Fears",
+     "u": "https://eprcug.org/blog/for-uganda-ai-brings-opportunities-fears/",
+     "s": "EPRC Uganda",
+     "d": "Oct 10",
+     "dot": "dot-access"
+    },
+    {
+     "t": "AI and the Rise of Synthetic Media: Is Nigeria ready for 2027?",
+     "u": "https://www.premiumtimesng.com/features-and-interviews/915734-ai-and-the-rise-of-synthetic-media-is-nigeria-ready-for-2027.html",
+     "s": "Premium Times",
+     "d": "Oct 10",
+     "dot": "dot-access"
+    },
+    {
      "t": "Best unlocked phones 2026: 7 picks after the price hikes",
      "u": "https://memeburn.com/best-unlocked-phones/",
      "s": "Memeburn",
@@ -1080,6 +1129,13 @@
      "s": "TechTrendsKE",
      "d": "Oct 8",
      "dot": "dot-access"
+    },
+    {
+     "t": "Automated Disinformation and Malicious AI Swarms: Risks for Democracy and Development in Africa",
+     "u": "https://arxiv.org/abs/2610.11930",
+     "s": "arXiv",
+     "d": "Oct 8",
+     "dot": "dot-arxiv"
     },
     {
      "t": "The top 1% of AI spenders outspend half of all paying users",
@@ -1204,6 +1260,13 @@
      "t": "From Access to Realized Affordances: University Students' Generative AI Engagement across Linguistic and Sociotechnical Contexts",
      "u": "https://arxiv.org/abs/2610.05301",
      "s": "arXiv cs.CY",
+     "d": "Oct 4",
+     "dot": "dot-arxiv"
+    },
+    {
+     "t": "Offline AI Modules: Voice-First Offline Architecture, Hardware Reference Stack, Quantization and Benchmarking",
+     "u": "https://arxiv.org/abs/2610.07026",
+     "s": "arXiv",
      "d": "Oct 4",
      "dot": "dot-arxiv"
     },
@@ -2417,6 +2480,34 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "Zanetor Agyeman-Rawlings Demands AI Oversight at GAEC",
+     "u": "https://chale.news/zanetor-agyeman-rawlings-i-wont-let-ai-run-our-nuclear-programme/",
+     "s": "Chale News",
+     "d": "Oct 10",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "AI's uncertain opportunity for Africa",
+     "u": "https://www.semafor.com/article/10/09/2026/ais-uncertain-opportunity-for-africa",
+     "s": "Semafor",
+     "d": "Oct 9",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "AFRICLOUD Opens Lagos Region and Local-Currency Payments in African Markets",
+     "u": "https://paymentsafrika.com/africloud-opens-lagos-region-and-local-currency/",
+     "s": "Payments Afrika",
+     "d": "Oct 9",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Africa Faces Growing Battle for Digital Sovereignty",
+     "u": "https://ippmedia.co.tz/the-guardian/features/read/africa-faces-growing-battle-for-digital-sovereignty-2026-10-09-205248",
+     "s": "The Guardian Tanzania",
+     "d": "Oct 9",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Kenya wants a bigger share of global digital trade, but the infrastructure must keep pace",
      "u": "https://techtrendske.co.ke/2026/10/08/kenya-digital-trade-infrastructure/",
      "s": "TechTrendsKE",
@@ -2434,6 +2525,13 @@
      "t": "Airtel Africa adds 3,250 sites and 3,200km of fibre in a year",
      "u": "https://techtrendske.co.ke/2026/10/08/airtel-africa-adds-3250-sites-and-3200km-of-fibre-in-a-year/",
      "s": "TechTrendsKE",
+     "d": "Oct 8",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Africa Is Building Its Own AI Engines, and Cassava and NVIDIA Are Leading the Charge",
+     "u": "https://aireportsafrica.com/2026/10/08/africa-is-building-its-own-ai-engines-and-cassava-and-nvidia-are-leading-the-charge/",
+     "s": "AI Reports Africa",
      "d": "Oct 8",
      "dot": "dot-infra"
     },
