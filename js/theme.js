@@ -16,7 +16,7 @@
   // Loaded in the head so a saved choice applies before the page is painted.
   apply();
   document.addEventListener('DOMContentLoaded', function () {
-    var header = document.querySelector('#primary-nav') || document.querySelector('.masthead__inner');
+    var header = document.querySelector('.evidence-nav-bottom') || document.querySelector('#primary-nav') || document.querySelector('.masthead__inner');
     if (!header) return;
     var label = document.createElement('label'); label.className = 'theme-picker';
     label.htmlFor = 'site-appearance'; label.appendChild(document.createTextNode('Appearance'));

@@ -15,87 +15,86 @@
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
-<script src="js/theme.js"></script>
+<script src="js/theme.js?v=20261010"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/evidence-design.css?v=20261010">
 </head>
-<body class="wide" data-page="index.html">
+<body class="evidence-site evidence-home wide" data-page="index.html">
 <a class="skip-link" href="#main-content">Skip to content</a>
 <header class="masthead"><div class="wrap">
   <div class="masthead__inner">
-    <a class="wordmark" href="index.html">Inference<span>Africa</span></a>
-    <button type="button" class="nav-toggle" aria-controls="primary-nav" aria-expanded="false">Menu</button><nav id="primary-nav" class="nav" aria-label="Primary"><a aria-current="page" href="index.html">Home</a><a href="data-explorer.html">Data Explorer</a><a href="infrastructure.html">Infrastructure</a><a href="access.html">Access</a><a href="jobs.html">Jobs</a><a href="signals.html">Signals</a><a href="research.html">Research</a><a href="analysis.html">Essays</a><a href="countries.html">Countries</a><a href="method.html">Method</a></nav>
+    <a class="wordmark evidence-wordmark" href="index.html"><svg class="evidence-mark" viewBox="0 0 100 100" aria-hidden="true" focusable="false"><path class="lens-ring" d="M84.43 31.69 A39 39 0 1 1 74.01 19.27" fill="none" stroke="currentColor" stroke-width="5.5" pathLength="100"/><g class="lens-lines" fill="currentColor" stroke="currentColor" stroke-width="2.7" stroke-linecap="round"><path d="M31 35H64 M31 50H75 M31 65H64"/><circle cx="31" cy="35" r="3.7"/><circle cx="31" cy="50" r="3.7"/><circle cx="31" cy="65" r="3.7"/></g><circle class="lens-dot" cx="54" cy="50" r="4.7" stroke="var(--paper)" stroke-width="1.8"/></svg><span class="evidence-name">Inference<span>Africa</span></span></a>
+    <button type="button" class="nav-toggle" aria-controls="primary-nav" aria-expanded="false">Menu</button><nav id="primary-nav" class="nav evidence-nav" aria-label="Primary"><div class="evidence-nav-top"><a aria-current="page" href="index.html">Home</a><a href="data-explorer.html">Data Explorer</a><a href="countries.html">Countries</a><a href="method.html">Method</a></div><div class="evidence-nav-bottom"><a href="infrastructure.html">Infrastructure</a><a href="access.html">Access</a><a href="jobs.html">Jobs</a><a href="signals.html">Signals</a><a href="research.html">Research</a><a href="analysis.html">Essays</a></div></nav>
   </div>
   
 </div></header>
 <div class="accent-rule"></div>
 <main id="main-content">
-<div class="wrap pagehead pagehead--open">
-  <p class="eyebrow">InferenceAfrica</p>
-  <h1>Tracking AI’s impact across Africa.</h1>
+<div class="wrap pagehead pagehead--open evidence-hero">
+  <div class="hero-intro"><p class="eyebrow">Africa · AI · Economy</p>
+  <h1><span>Tracking AI’s impact</span> <span>across Africa.</span></h1>
   <p class="open__lede">Understand AI’s impact on jobs, infrastructure and access across Africa.
-  Explore how work is changing, where the infrastructure is developing, and who can access and afford AI.
-  Every figure carries its source, date and evidence status.</p>
-  <p class="hero__stats">54 country profiles &middot; 53 with AI-specific indicator data &middot;
-  10 AI-specific measures</p>
-  <p class="open__note">Signals are monitored daily; evidence registers are released monthly. Latest published
-  data compiled: 2026-10-10 &middot; Release v2026.10.</p>
-  <p class="open__link"><a href="#themes">Explore the three pillars</a> &middot;
-  <a href="#map">Browse country data</a> &middot; <a href="countries.html">Find a country</a> &middot;
-  <a href="signals.html">Daily signals</a> &middot;
-  <a href="method.html">How we measure</a></p>
+  Explore how work is changing, where infrastructure is developing, and who can access and afford AI.</p>
+  <p class="hero__stats">54 country profiles · Sources, dates and evidence</p>
+  <div class="evidence-actions"><a class="evidence-primary" href="data-explorer.html">Explore the data <span aria-hidden="true">→</span></a><a href="countries.html">Browse countries <span aria-hidden="true">→</span></a></div></div>
+  <aside class="home-fact" aria-labelledby="fact-label"><p class="fact-eyebrow" id="fact-label"><span aria-hidden="true"></span>From the data</p><div class="fact-copy" aria-live="polite" aria-atomic="true"><p class="fact-pillar" data-fact="pillar">Jobs</p><h2 data-fact="title">24.6% of tasks, on average</h2><p class="fact-body" data-fact="body">were classified as exposed to AI in a study covering 36 African countries.</p><p class="fact-context" data-fact="context">This is an unweighted average of country task shares. It is not a share of jobs or a prediction of job losses.</p></div><div class="fact-bottom"><p class="fact-source">Source: <a data-fact-source href="https://arxiv.org/abs/2605.17086">Garg, Crosta and Baier, Global Automation Atlas (2026) · 2026 · Modelled</a></p><a class="fact-evidence" data-fact-link href="jobs.html">Explore the jobs evidence →</a><button type="button" class="fact-next" data-fact-next hidden><span aria-hidden="true">⇄</span> Show another fact</button><p class="fact-position" data-fact-position></p></div></aside><script id="home-facts-data" type="application/json">[{"id": "jobs-task-average", "pillar": "Jobs", "title": "24.6% of tasks, on average", "body": "were classified as exposed to AI in a study covering 36 African countries.", "context": "This is an unweighted average of country task shares. It is not a share of jobs or a prediction of job losses.", "source": "Garg, Crosta and Baier, Global Automation Atlas (2026) · 2026 · Modelled", "source_url": "https://arxiv.org/abs/2605.17086", "href": "jobs.html", "link": "Explore the jobs evidence", "input_ids": ["jobs.task_share.zaf", "jobs.task_share.tun", "jobs.task_share.egy", "jobs.task_share.mar", "jobs.task_share.dza", "jobs.task_share.ken", "jobs.task_share.nga", "jobs.task_share.lby", "jobs.task_share.sen", "jobs.task_share.zwe", "jobs.task_share.rwa", "jobs.task_share.civ", "jobs.task_share.ago", "jobs.task_share.gha", "jobs.task_share.zmb", "jobs.task_share.ben", "jobs.task_share.cmr", "jobs.task_share.tza", "jobs.task_share.eth", "jobs.task_share.tgo", "jobs.task_share.uga", "jobs.task_share.moz", "jobs.task_share.cog", "jobs.task_share.sdn", "jobs.task_share.mdg", "jobs.task_share.mwi", "jobs.task_share.bfa", "jobs.task_share.mli", "jobs.task_share.som", "jobs.task_share.gin", "jobs.task_share.sle", "jobs.task_share.cod", "jobs.task_share.ner", "jobs.task_share.tcd", "jobs.task_share.bdi", "jobs.task_share.ssd"], "value": 24.616666666666667, "period": "2026"}, {"id": "africa-capacity-share", "pillar": "Infrastructure", "title": "0.6% of global capacity", "body": "is the estimated share of data-centre capacity located in Africa.", "context": "This industry estimate describes capacity, not the number of facilities or AI-only infrastructure.", "source": "Data Centres in Africa 2026: The Economic Report · Industry estimate", "source_url": "https://africadca.org/en/data-centres-in-africa-2026-the-economic-report", "href": "infrastructure.html", "link": "Explore infrastructure evidence", "input_ids": ["home-figures.infrastructure.adca.global_share_pct"], "value": 0.6}, {"id": "wage-coverage", "pillar": "Access", "title": "9 / 54 country wage benchmarks", "body": "are documented in the current record for comparing AI costs with wages.", "context": "This describes our data coverage, not how many countries can afford AI. Missing wage benchmarks are not zero.", "source": "InferenceAfrica affordability record · Compiled 2026-10-10", "source_url": "access.html", "href": "access.html", "link": "Explore affordability evidence", "input_ids": ["access.wage_share.gha", "access.wage_share.nga", "access.wage_share.africa_mean", "access.wage_share.sen", "access.wage_share.civ", "access.wage_share.egy", "access.wage_share.ken", "access.wage_share.mar", "access.wage_share.zaf"], "value": 9, "scope": 54}, {"id": "south-africa-task-share", "pillar": "Jobs", "title": "51% of tasks in South Africa", "body": "were classified as exposed to AI under the study’s country-specific conditions.", "context": "Tasks are not jobs. This is modelled task exposure, not measured job losses or an employment-weighted estimate.", "source": "Garg, Crosta and Baier, Global Automation Atlas (2026) · 2026 · Modelled", "source_url": "https://arxiv.org/abs/2605.17086", "href": "country-south-africa.html", "link": "Explore South Africa’s record", "input_ids": ["jobs.task_share.zaf"], "value": 51.0, "period": "2026"}]</script>
 </div>
-<div class="wrap resource-shortcut"><a href="data-explorer.html#make-a-chart">Explore this data &rarr;</a></div>
+
 <div class="wrap wide-layout">
   <section class="band band--sunk" id="themes">
     <div class="wrap wide-layout">
       <h2>The three pillars</h2>
-      <p class="band__deck">Selected figures from each pillar, with their limitations. Every figure carries
-      its unit, its geography, its date, its evidence status and its source, or it does not appear.</p>
       <div class="glance">
         
         <div class="glance__card glance__card--jobs">
-          <h3 class="glance__pillar">Jobs</h3>
+          <span class="pillar-icon" aria-hidden="true"><svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="8" width="22" height="19" rx="2"/><path d="M11 8V5h10v3"/></svg></span><div class="pillar-copy"><h3 class="glance__pillar">Jobs</h3>
           <span class="glance__value">24.6%</span>
           <p class="glance__label">average modelled task share exposed to AI</p>
           <p class="glance__meta">Unweighted average across 36 covered countries &middot; 2026</p>
+          <a class="glance__link" href="jobs.html">The evidence &rarr;</a>
+          <details class="pillar-source"><summary>Sources and limits</summary>
           <p class="glance__status"><span class="chip chip--modelled"><span class="chip__mark" aria-hidden="true"></span>modelled</span> <span class="glance__tier">Academic research · Tier 2</span></p>
           <p class="glance__source">Garg, Crosta and Baier, Global Automation Atlas (2026)</p>
           <p class="glance__spread">South Africa 51.0% to South Sudan 3.3%</p>
           
-          <a class="glance__link" href="jobs.html">The evidence &rarr;</a>
+          </details></div>
         </div>
         
         <div class="glance__card glance__card--access">
-          <h3 class="glance__pillar">Access</h3>
+          <span class="pillar-icon" aria-hidden="true"><svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="16" cy="10" r="3"/><circle cx="6" cy="13" r="2"/><circle cx="26" cy="13" r="2"/><path d="M10 26v-4a6 6 0 0 1 12 0v4 M2 26v-5a4 4 0 0 1 5-4 M30 26v-5a4 4 0 0 0-5-4"/></svg></span><div class="pillar-copy"><h3 class="glance__pillar">Access</h3>
           <span class="glance__value">9 / 54</span>
           <p class="glance__label">countries with a documented wage benchmark for AI affordability</p>
           <p class="glance__meta">Recorded sample; not representative of Africa &middot; 2026-10-10</p>
+          <a class="glance__link" href="access.html">Explore affordability &rarr;</a>
+          <details class="pillar-source"><summary>Sources and limits</summary>
           <p class="glance__status"><span class="chip chip--derived"><span class="chip__mark" aria-hidden="true"></span>derived</span> <span class="glance__tier">Coverage of the current record</span></p>
           <p class="glance__source">The illustrative frontier-price median includes reported inputs that are not headline eligible. Inspect the calculation and its source qualifications on Access.</p>
           <p class="glance__spread">Missing wage benchmarks are not zero.</p>
           
-          <a class="glance__link" href="access.html">Explore affordability &rarr;</a>
+          </details></div>
         </div>
         
         <div class="glance__card glance__card--infrastructure">
-          <h3 class="glance__pillar">Infrastructure</h3>
+          <span class="pillar-icon" aria-hidden="true"><svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="16" cy="7" rx="10" ry="4"/><path d="M6 7v18c0 5 20 5 20 0V7 M6 13c0 5 20 5 20 0 M6 19c0 5 20 5 20 0"/></svg></span><div class="pillar-copy"><h3 class="glance__pillar">Infrastructure</h3>
           <span class="glance__value">0.6%</span>
           <p class="glance__label">Africa’s share of global data-centre capacity</p>
           <p class="glance__meta">Africa relative to the world &middot; 2026</p>
+          <a class="glance__link" href="infrastructure.html">The evidence &rarr;</a>
+          <details class="pillar-source"><summary>Sources and limits</summary>
           <p class="glance__status"><span class="chip chip--derived"><span class="chip__mark" aria-hidden="true"></span>derived</span> <span class="glance__tier">External industry estimate</span></p>
           <p class="glance__source">Africa Data Centres Association, continental estimate. Share of capacity, not a count of facilities or AI-only infrastructure.</p>
           
           
-          <a class="glance__link" href="infrastructure.html">The evidence &rarr;</a>
+          </details></div>
         </div>
       </div>
-      <p class="glance__foot">Terms: <strong>modelled</strong> means computed by a third party from
+      <details class="evidence-definitions"><summary>How to read these figures</summary><p class="glance__foot">Terms: <strong>modelled</strong> means computed by a third party from
       published inputs; <strong>derived</strong> means calculated from published inputs, with the calculation or reporting source identified;
       <strong>measured</strong> means observed and in service. Announced capacity is never counted as
-      operational. <a href="method.html">How the record decides</a>.</p>
+      operational. <a href="method.html">How the record decides</a>.</p></details>
     </div>
   </section>
 
@@ -143,7 +142,7 @@
           <h3>Added to the registers</h3>
           <ul class="chg"><li class="none">No register rows added in the latest build.</li></ul>
           <p class="chg__foot">0 rows added in the latest build &middot;
-          revision log has 127 builds</p>
+          revision log has 129 builds</p>
         </div>
         <div>
           <h3>Signals recorded</h3>
@@ -226,5 +225,6 @@ document.querySelectorAll('[data-copy]').forEach(function (b) {
 <script src="js/explorer-links.js"></script>
 <script src="js/published-presets.js"></script>
 <script src="js/map.js"></script>
+<script src="js/home-facts.js?v=20261010"></script>
 </body>
 </html>

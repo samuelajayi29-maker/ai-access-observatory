@@ -1,0 +1,111 @@
+{
+  "compiled": "2026-10-10",
+  "facts": [
+    {
+      "id": "jobs-task-average",
+      "pillar": "Jobs",
+      "title": "24.6% of tasks, on average",
+      "body": "were classified as exposed to AI in a study covering 36 African countries.",
+      "context": "This is an unweighted average of country task shares. It is not a share of jobs or a prediction of job losses.",
+      "source": "Garg, Crosta and Baier, Global Automation Atlas (2026) · 2026 · Modelled",
+      "source_url": "https://arxiv.org/abs/2605.17086",
+      "href": "jobs.html",
+      "link": "Explore the jobs evidence",
+      "input_ids": [
+        "jobs.task_share.zaf",
+        "jobs.task_share.tun",
+        "jobs.task_share.egy",
+        "jobs.task_share.mar",
+        "jobs.task_share.dza",
+        "jobs.task_share.ken",
+        "jobs.task_share.nga",
+        "jobs.task_share.lby",
+        "jobs.task_share.sen",
+        "jobs.task_share.zwe",
+        "jobs.task_share.rwa",
+        "jobs.task_share.civ",
+        "jobs.task_share.ago",
+        "jobs.task_share.gha",
+        "jobs.task_share.zmb",
+        "jobs.task_share.ben",
+        "jobs.task_share.cmr",
+        "jobs.task_share.tza",
+        "jobs.task_share.eth",
+        "jobs.task_share.tgo",
+        "jobs.task_share.uga",
+        "jobs.task_share.moz",
+        "jobs.task_share.cog",
+        "jobs.task_share.sdn",
+        "jobs.task_share.mdg",
+        "jobs.task_share.mwi",
+        "jobs.task_share.bfa",
+        "jobs.task_share.mli",
+        "jobs.task_share.som",
+        "jobs.task_share.gin",
+        "jobs.task_share.sle",
+        "jobs.task_share.cod",
+        "jobs.task_share.ner",
+        "jobs.task_share.tcd",
+        "jobs.task_share.bdi",
+        "jobs.task_share.ssd"
+      ],
+      "value": 24.616666666666667,
+      "period": "2026"
+    },
+    {
+      "id": "africa-capacity-share",
+      "pillar": "Infrastructure",
+      "title": "0.6% of global capacity",
+      "body": "is the estimated share of data-centre capacity located in Africa.",
+      "context": "This industry estimate describes capacity, not the number of facilities or AI-only infrastructure.",
+      "source": "Data Centres in Africa 2026: The Economic Report · Industry estimate",
+      "source_url": "https://africadca.org/en/data-centres-in-africa-2026-the-economic-report",
+      "href": "infrastructure.html",
+      "link": "Explore infrastructure evidence",
+      "input_ids": [
+        "home-figures.infrastructure.adca.global_share_pct"
+      ],
+      "value": 0.6
+    },
+    {
+      "id": "wage-coverage",
+      "pillar": "Access",
+      "title": "9 / 54 country wage benchmarks",
+      "body": "are documented in the current record for comparing AI costs with wages.",
+      "context": "This describes our data coverage, not how many countries can afford AI. Missing wage benchmarks are not zero.",
+      "source": "InferenceAfrica affordability record · Compiled 2026-10-10",
+      "source_url": "access.html",
+      "href": "access.html",
+      "link": "Explore affordability evidence",
+      "input_ids": [
+        "access.wage_share.gha",
+        "access.wage_share.nga",
+        "access.wage_share.africa_mean",
+        "access.wage_share.sen",
+        "access.wage_share.civ",
+        "access.wage_share.egy",
+        "access.wage_share.ken",
+        "access.wage_share.mar",
+        "access.wage_share.zaf"
+      ],
+      "value": 9,
+      "scope": 54
+    },
+    {
+      "id": "south-africa-task-share",
+      "pillar": "Jobs",
+      "title": "51% of tasks in South Africa",
+      "body": "were classified as exposed to AI under the study’s country-specific conditions.",
+      "context": "Tasks are not jobs. This is modelled task exposure, not measured job losses or an employment-weighted estimate.",
+      "source": "Garg, Crosta and Baier, Global Automation Atlas (2026) · 2026 · Modelled",
+      "source_url": "https://arxiv.org/abs/2605.17086",
+      "href": "country-south-africa.html",
+      "link": "Explore South Africa’s record",
+      "input_ids": [
+        "jobs.task_share.zaf"
+      ],
+      "value": 51.0,
+      "period": "2026"
+    }
+  ]
+}

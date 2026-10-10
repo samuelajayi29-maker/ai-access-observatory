@@ -15,28 +15,25 @@
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
-<script src="js/theme.js"></script>
+<script src="js/theme.js?v=20261010"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/evidence-design.css?v=20261010">
 </head>
-<body class="wide" data-page="data-explorer.html">
+<body class="evidence-site wide" data-page="data-explorer.html">
 <a class="skip-link" href="#main-content">Skip to content</a>
 <header class="masthead"><div class="wrap">
   <div class="masthead__inner">
-    <a class="wordmark" href="index.html">Inference<span>Africa</span></a>
-    <button type="button" class="nav-toggle" aria-controls="primary-nav" aria-expanded="false">Menu</button><nav id="primary-nav" class="nav" aria-label="Primary"><a href="index.html">Home</a><a aria-current="page" href="data-explorer.html">Data Explorer</a><a href="infrastructure.html">Infrastructure</a><a href="access.html">Access</a><a href="jobs.html">Jobs</a><a href="signals.html">Signals</a><a href="research.html">Research</a><a href="analysis.html">Essays</a><a href="countries.html">Countries</a><a href="method.html">Method</a></nav>
+    <a class="wordmark evidence-wordmark" href="index.html"><svg class="evidence-mark" viewBox="0 0 100 100" aria-hidden="true" focusable="false"><path class="lens-ring" d="M84.43 31.69 A39 39 0 1 1 74.01 19.27" fill="none" stroke="currentColor" stroke-width="5.5" pathLength="100"/><g class="lens-lines" fill="currentColor" stroke="currentColor" stroke-width="2.7" stroke-linecap="round"><path d="M31 35H64 M31 50H75 M31 65H64"/><circle cx="31" cy="35" r="3.7"/><circle cx="31" cy="50" r="3.7"/><circle cx="31" cy="65" r="3.7"/></g><circle class="lens-dot" cx="54" cy="50" r="4.7" stroke="var(--paper)" stroke-width="1.8"/></svg><span class="evidence-name">Inference<span>Africa</span></span></a>
+    <button type="button" class="nav-toggle" aria-controls="primary-nav" aria-expanded="false">Menu</button><nav id="primary-nav" class="nav evidence-nav" aria-label="Primary"><div class="evidence-nav-top"><a href="index.html">Home</a><a aria-current="page" href="data-explorer.html">Data Explorer</a><a href="countries.html">Countries</a><a href="method.html">Method</a></div><div class="evidence-nav-bottom"><a href="infrastructure.html">Infrastructure</a><a href="access.html">Access</a><a href="jobs.html">Jobs</a><a href="signals.html">Signals</a><a href="research.html">Research</a><a href="analysis.html">Essays</a></div></nav>
   </div>
   
 </div></header>
 <div class="accent-rule"></div>
 <main id="main-content">
-<div class="wrap pagehead">
-  <h1>Data Explorer</h1>
-  <p class="standfirst">Ask a question of the record. Compare countries, investigate projects and create charts you can share.</p>
-  <span class="protochip">Sources, definitions and missing values travel with your analysis.</span>
-</div>
+<div class="wrap pagehead evidence-pagehead"><div class="evidence-pageintro"><p class="evidence-kicker">Data Explorer · InferenceAfrica</p><h1>Data Explorer</h1><p class="standfirst">Ask a question of the record. Compare countries, investigate projects and create charts you can share.</p><span class="protochip">Sources, definitions and missing values travel with your analysis.</span></div><aside class="evidence-guide"><p class="evidence-kicker">Start here</p><h2>Begin with a question</h2><p>Compare countries, make your own chart or browse the record. Sources, dates and missing values stay with your selection.</p><div><a href="data-explorer.html?view=compare#make-a-chart">Compare countries <span aria-hidden="true">→</span></a><a href="data-explorer.html?view=charts#make-a-chart">Make a chart <span aria-hidden="true">→</span></a><a href="countries.html">Browse the record <span aria-hidden="true">→</span></a></div></aside></div>
 
 <div class="wrap wide-layout"></div>
 <div class="wrap resource-wrap" id="make-a-chart"><nav class="workspace-tabs" aria-label="Data Explorer views"><a href="?view=charts#make-a-chart" data-workspace-tab="charts">Charts</a><a href="?view=compare#make-a-chart" data-workspace-tab="compare">Compare</a><a href="?view=countries#make-a-chart" data-workspace-tab="countries">Countries</a><a href="?view=facilities#make-a-chart" data-workspace-tab="facilities">Facilities</a><a href="?view=projects#make-a-chart" data-workspace-tab="projects">Projects</a><a href="?view=downloads#make-a-chart" data-workspace-tab="downloads">Downloads</a></nav><p role="status" data-workspace-status></p><div data-workspace></div><noscript><p>Interactive tools need JavaScript. <a href="data/chart-catalog.json">Download the chart catalogue</a>.</p></noscript></div><script src="js/explorer-workspace.js" defer></script>
@@ -87,5 +84,6 @@ document.querySelectorAll('[data-copy]').forEach(function (b) {
 <script src="js/explorer-links.js"></script>
 <script src="js/published-presets.js"></script>
 <script src="js/map.js"></script>
+
 </body>
 </html>
