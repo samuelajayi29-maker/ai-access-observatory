@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10",
+ "updated": "2026-10-11",
  "schema": 1,
  "buckets": {
   "jobs": {
@@ -9,6 +9,20 @@
      "t": "EAC and Germany launch second AI4EAC challenge for 20,000 East Africans",
      "u": "https://dailysynapse.com/news/eac-germany-launch-second-ai4eac-challenge/",
      "s": "DailySynapse",
+     "d": "Oct 10",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Cisco and UNDP launch push to prepare 50,000 Nigerian youths for tech jobs",
+     "u": "https://thebottomline.ng/2026/10/10/50-million-digital-skills-bonanza-cisco-and-undp-launch-major-push-to-prepare-50000-nigerian-youths-for-tech-jobs/",
+     "s": "The BottomLine",
+     "d": "Oct 10",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "TTEC opens Volkswagen UK customer experience operation in Cairo",
+     "u": "https://news.outsourceaccelerator.com/ttec-volkswagen-cairo/",
+     "s": "Outsource Accelerator",
      "d": "Oct 10",
      "dot": "dot-jobs"
     },
@@ -23,6 +37,20 @@
      "t": "Why AI skills are becoming a new battleground for Kenya's tech industry",
      "u": "https://www.standardmedia.co.ke/sci-tech/article/2001559701/why-ai-skills-are-becoming-a-new-battleground-for-kenyas-tech-industry",
      "s": "The Standard",
+     "d": "Oct 9",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "AI infrastructure lifts outsourcing deals to record $52.5bn, ISG says",
+     "u": "https://news.outsourceaccelerator.com/isg-index-q3-2026/",
+     "s": "Outsource Accelerator",
+     "d": "Oct 9",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Employers pay above plan for AI skills, Robert Half finds",
+     "u": "https://news.outsourceaccelerator.com/robert-half-ai-skills-pay/",
+     "s": "Outsource Accelerator",
      "d": "Oct 9",
      "dot": "dot-jobs"
     },
@@ -1068,6 +1096,13 @@
      "dot": "dot-access"
     },
     {
+     "t": "Zimbabwe opens first rural AI hub in Gokwe North, with 20 laptops and 52 students",
+     "u": "https://iafrica.com/zimbabwe-opens-first-rural-ai-hub-in-gokwe-north-with-20-laptops-and-52-students/",
+     "s": "iAfrica",
+     "d": "Oct 10",
+     "dot": "dot-access"
+    },
+    {
      "t": "Best unlocked phones 2026: 7 picks after the price hikes",
      "u": "https://memeburn.com/best-unlocked-phones/",
      "s": "Memeburn",
@@ -1201,6 +1236,20 @@
      "dot": "dot-access"
     },
     {
+     "t": "High phone prices push some Nigerians towards cheaper smartphones",
+     "u": "https://www.vanguardngr.com/2026/10/high-phone-prices-push-some-nigerians-towards-cheaper-smartphones/",
+     "s": "Vanguard",
+     "d": "Oct 7",
+     "dot": "dot-price"
+    },
+    {
+     "t": "AI Devices Price Index Kenya 2026: phones, kids tablets and student tablets",
+     "u": "https://infinitetech.co.ke/ai-devices-price-index-kenya-2026/",
+     "s": "Infinite Tech",
+     "d": "Oct 7",
+     "dot": "dot-price"
+    },
+    {
      "t": "Why smartphone prices rose in Nigeria in H1 2026",
      "u": "https://thecondia.com/nigeria-smartphone-prices-rise-h1-2026/",
      "s": "TheCondia",
@@ -1236,6 +1285,13 @@
      "dot": "dot-price"
     },
     {
+     "t": "Scaling Down the Scaling Laws: Parameter Efficiency and Compute-Optimal Training in Resource-Constrained Large Language Models",
+     "u": "https://arxiv.org/abs/2610.06387",
+     "s": "arXiv",
+     "d": "Oct 5",
+     "dot": "dot-arxiv"
+    },
+    {
      "t": "NITDA warns organisations, staff against sharing sensitive data with public AI tools",
      "u": "https://nairametrics.com/2026/10/04/nitda-warns-organisations-staff-against-sharing-sensitive-data-with-public-ai-tools/",
      "s": "Nairametrics",
@@ -1266,6 +1322,13 @@
     {
      "t": "Offline AI Modules: Voice-First Offline Architecture, Hardware Reference Stack, Quantization and Benchmarking",
      "u": "https://arxiv.org/abs/2610.07026",
+     "s": "arXiv",
+     "d": "Oct 4",
+     "dot": "dot-arxiv"
+    },
+    {
+     "t": "The Law of DeepSeek",
+     "u": "https://arxiv.org/abs/2610.05238",
      "s": "arXiv",
      "d": "Oct 4",
      "dot": "dot-arxiv"
@@ -2480,9 +2543,30 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "Emerging AI regulatory approaches highlight key policy choices across Africa",
+     "u": "https://trustur.ai/news/gh/2026/10/11/emerging-ai-regulatory-approaches-highlight-key-policy-choices-across-africa/94ea282e-b34f-41ff-aebc-5d9a86cc26d6/",
+     "s": "Trustur News",
+     "d": "Oct 11",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Zanetor Agyeman-Rawlings Demands AI Oversight at GAEC",
      "u": "https://chale.news/zanetor-agyeman-rawlings-i-wont-let-ai-run-our-nuclear-programme/",
      "s": "Chale News",
+     "d": "Oct 10",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Nigeria targets 200MW of data centre capacity, and the governing party chairman is asking where the power comes from",
+     "u": "https://iafrica.com/nigeria-targets-200mw-of-data-centre-capacity-and-the-governing-party-chairman-is-asking-where-the-power-comes-from/",
+     "s": "iAfrica",
+     "d": "Oct 10",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Why AI success in Africa hinges on power infrastructure - Gary Chomse",
+     "u": "https://nairametrics.com/2026/10/10/why-ai-success-in-africa-hinges-on-power-infrastructure-gary-chomse/",
+     "s": "Nairametrics",
      "d": "Oct 10",
      "dot": "dot-infra"
     },

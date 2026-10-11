@@ -1,7 +1,11 @@
 bucket,date,source,title,url
 jobs,Oct 10,DailySynapse,"EAC and Germany launch second AI4EAC challenge for 20,000 East Africans",https://dailysynapse.com/news/eac-germany-launch-second-ai4eac-challenge/
+jobs,Oct 10,The BottomLine,"Cisco and UNDP launch push to prepare 50,000 Nigerian youths for tech jobs",https://thebottomline.ng/2026/10/10/50-million-digital-skills-bonanza-cisco-and-undp-launch-major-push-to-prepare-50000-nigerian-youths-for-tech-jobs/
+jobs,Oct 10,Outsource Accelerator,TTEC opens Volkswagen UK customer experience operation in Cairo,https://news.outsourceaccelerator.com/ttec-volkswagen-cairo/
 jobs,Oct 9,IT-Online,How SA is making new call centre jobs stick with AI,https://it-online.co.za/2026/10/09/how-sa-is-making-new-call-centre-jobs-stick-with-ai/
 jobs,Oct 9,The Standard,Why AI skills are becoming a new battleground for Kenya's tech industry,https://www.standardmedia.co.ke/sci-tech/article/2001559701/why-ai-skills-are-becoming-a-new-battleground-for-kenyas-tech-industry
+jobs,Oct 9,Outsource Accelerator,"AI infrastructure lifts outsourcing deals to record $52.5bn, ISG says",https://news.outsourceaccelerator.com/isg-index-q3-2026/
+jobs,Oct 9,Outsource Accelerator,"Employers pay above plan for AI skills, Robert Half finds",https://news.outsourceaccelerator.com/robert-half-ai-skills-pay/
 jobs,Oct 8,iAfrica,"Manamela tells universities the AI question is who builds it, not who cheats with it",https://iafrica.com/manamela-tells-universities-the-ai-question-is-who-builds-it-not-who-cheats-with-it/
 jobs,Oct 8,BusinessDay NG,"AI developer boom could create 40 million digital jobs across Africa, World Bank says",https://businessday.ng/technology/article/ai-developer-boom-could-create-40-million-digital-jobs-across-africa-world-bank/
 jobs,Oct 8,TechBooky,Kenya Refugee Tech Workers Face Shrinking AI Jobs,https://www.techbooky.com/kenyas-refugee-tech-workers-face-a-shrinking-ai-job-ladder/
@@ -150,6 +154,7 @@ jobs,Mar 31,WeeTracker,South Africa's gig economy becomes a bargain with AI skil
 jobs,Dec 25,"Deric Cheng, AI Frontiers",AI Could Undermine Emerging Economies,https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies
 access,Oct 10,EPRC Uganda,"For Uganda, AI Brings Opportunities & Fears",https://eprcug.org/blog/for-uganda-ai-brings-opportunities-fears/
 access,Oct 10,Premium Times,AI and the Rise of Synthetic Media: Is Nigeria ready for 2027?,https://www.premiumtimesng.com/features-and-interviews/915734-ai-and-the-rise-of-synthetic-media-is-nigeria-ready-for-2027.html
+access,Oct 10,iAfrica,"Zimbabwe opens first rural AI hub in Gokwe North, with 20 laptops and 52 students",https://iafrica.com/zimbabwe-opens-first-rural-ai-hub-in-gokwe-north-with-20-laptops-and-52-students/
 access,Oct 8,Memeburn,Best unlocked phones 2026: 7 picks after the price hikes,https://memeburn.com/best-unlocked-phones/
 access,Oct 8,TechCentral,The memory crunch is making Samsung fabulously rich,https://techcentral.co.za/memory-crunch-samsung-record-profit/287052/
 access,Oct 8,iAfrica,MasterCard adds AI payment protection for Africa's account-to-account systems,https://iafrica.com/mastercard-adds-ai-payment-protection/
@@ -169,16 +174,20 @@ access,Oct 7,Disrupt Africa,SA's Vambo AI releases language model trained for 12
 access,Oct 7,Everyday Data Science,African-language AI: the data pipeline is the product,https://everydaydatascience.com/article/african-language-ai-data-pipeline
 access,Oct 7,Business Cabal,"Africa is adopting AI, but its poorest people risk missing out",https://businesscabal.com/africa-ai-poverty-poor-households-nigeria/
 access,Oct 7,Technext24,The AI democratisation myth: what everyday people need to build with AI,https://technext24.com/interview/ai-democratisation-lagos-life-engineers/
+access,Oct 7,Vanguard,High phone prices push some Nigerians towards cheaper smartphones,https://www.vanguardngr.com/2026/10/high-phone-prices-push-some-nigerians-towards-cheaper-smartphones/
+access,Oct 7,Infinite Tech,"AI Devices Price Index Kenya 2026: phones, kids tablets and student tablets",https://infinitetech.co.ke/ai-devices-price-index-kenya-2026/
 access,Oct 6,TheCondia,Why smartphone prices rose in Nigeria in H1 2026,https://thecondia.com/nigeria-smartphone-prices-rise-h1-2026/
 access,Oct 6,CNBC,DeepSeek latest funding round could reach $15 billion,https://www.cnbc.com/2026/10/06/deepseek-funding-round.html
 access,Oct 5,TechCentral,Banks top AI spending as telcos struggle to show returns,https://techcentral.co.za/banks-top-ai-spending-telcos-struggle-returns/286868/
 access,Oct 5,Business Daily,"Phone, data costs limit Kenyans from full digital participation",https://www.businessdailyafrica.com/bd/corporate/technology/phone-data-costs-limit-kenyans-from-full-digital-participation-5619798
 access,Oct 5,Rest of World,How AI data centres are killing off the $100 smartphone,https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/
+access,Oct 5,arXiv,Scaling Down the Scaling Laws: Parameter Efficiency and Compute-Optimal Training in Resource-Constrained Large Language Models,https://arxiv.org/abs/2610.06387
 access,Oct 4,Nairametrics,"NITDA warns organisations, staff against sharing sensitive data with public AI tools",https://nairametrics.com/2026/10/04/nitda-warns-organisations-staff-against-sharing-sensitive-data-with-public-ai-tools/
 access,Oct 4,Technext24,REDMI Note 17 Series: Xiaomi launches smartphone that can last for 3 days in Lagos,https://technext24.com/reviews/redmi-note-17-series-xiaomi-launches-lagos/
 access,Oct 4,Justin McKelvey,Gemini API Pricing 2026: Every Model + the Jan 1 Increase,https://justinmckelvey.com/blog/gemini-api-pricing
 access,Oct 4,arXiv cs.CY,From Access to Realized Affordances: University Students' Generative AI Engagement across Linguistic and Sociotechnical Contexts,https://arxiv.org/abs/2610.05301
 access,Oct 4,arXiv,"Offline AI Modules: Voice-First Offline Architecture, Hardware Reference Stack, Quantization and Benchmarking",https://arxiv.org/abs/2610.07026
+access,Oct 4,arXiv,The Law of DeepSeek,https://arxiv.org/abs/2610.05238
 access,Oct 3,Nairametrics,NITDA deploys AI to turn Nigerian youths’ ideas into policy proposals,https://nairametrics.com/2026/10/03/nitda-deploys-ai-to-turn-nigerian-youths-ideas-into-policy-proposals/
 access,Oct 3,Nairametrics,"FCCPC moves to regulate AI marketing, businesses face N100 million penalty",https://nairametrics.com/2026/10/03/fccpc-moves-to-regulate-ai-marketing-businesses-face-n100-million-penalty/
 access,Oct 3,iAfrica,Morocco Releases First Open-Source Darija AI Tools From Mistral Partnership,https://iafrica.com/morocco-releases-first-open-source-darija-ai-tools-from-mistral-partnership/
@@ -351,7 +360,10 @@ access,May 27,Trustonic,"Deconstructing Africa's smartphone market: shipments, p
 access,May 26,"David Oks, Substack",AI Is Killing the Cheap Smartphone,https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone
 access,Apr 15,Japan Times / AFP,AI-driven chip shortage slowing efforts to get world online: GSMA,https://www.thejapantimes.jp/Technology/658420-ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma.html
 access,Feb 26,Techpoint Africa,AI Chip Demand — Smartphone Prices in Nigeria,https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/
+infra,Oct 11,Trustur News,Emerging AI regulatory approaches highlight key policy choices across Africa,https://trustur.ai/news/gh/2026/10/11/emerging-ai-regulatory-approaches-highlight-key-policy-choices-across-africa/94ea282e-b34f-41ff-aebc-5d9a86cc26d6/
 infra,Oct 10,Chale News,Zanetor Agyeman-Rawlings Demands AI Oversight at GAEC,https://chale.news/zanetor-agyeman-rawlings-i-wont-let-ai-run-our-nuclear-programme/
+infra,Oct 10,iAfrica,"Nigeria targets 200MW of data centre capacity, and the governing party chairman is asking where the power comes from",https://iafrica.com/nigeria-targets-200mw-of-data-centre-capacity-and-the-governing-party-chairman-is-asking-where-the-power-comes-from/
+infra,Oct 10,Nairametrics,Why AI success in Africa hinges on power infrastructure - Gary Chomse,https://nairametrics.com/2026/10/10/why-ai-success-in-africa-hinges-on-power-infrastructure-gary-chomse/
 infra,Oct 9,Semafor,AI's uncertain opportunity for Africa,https://www.semafor.com/article/10/09/2026/ais-uncertain-opportunity-for-africa
 infra,Oct 9,Payments Afrika,AFRICLOUD Opens Lagos Region and Local-Currency Payments in African Markets,https://paymentsafrika.com/africloud-opens-lagos-region-and-local-currency/
 infra,Oct 9,The Guardian Tanzania,Africa Faces Growing Battle for Digital Sovereignty,https://ippmedia.co.tz/the-guardian/features/read/africa-faces-growing-battle-for-digital-sovereignty-2026-10-09-205248
