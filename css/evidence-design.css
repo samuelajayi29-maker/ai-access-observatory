@@ -138,6 +138,10 @@
 .evidence-guide>p:not(.evidence-kicker){font-size:1rem;color:var(--ink-secondary);line-height:1.5}
 .evidence-guide>div{display:grid;gap:0}.evidence-guide a{display:flex;justify-content:space-between;gap:1rem;padding:.75rem 0;border-top:1px solid var(--rule);border-bottom:0;font:500 .86rem/1.5 var(--font-text);color:var(--brand-lens)}
 .evidence-site main h2{color:var(--brand-lens)}
+.footer-contact{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:var(--s-4);padding-bottom:var(--s-6);margin-bottom:var(--s-6);border-bottom:var(--line-thin) solid var(--rule)}
+.footer-contact h2{font-family:var(--font-display);color:var(--brand-lens);margin:0 0 var(--s-2)}
+.footer-contact p{margin:0}
+.footer-contact>a{color:var(--brand-lens);text-decoration:underline;text-underline-offset:.2em;overflow-wrap:anywhere;max-width:100%;padding-block:var(--s-3)}
 .evidence-site .guided-explorer,.evidence-site .resource-tools{padding:1.5rem;border:1px solid var(--rule);border-radius:6px;margin-bottom:2rem}
 .evidence-site .workspace-tabs{padding:1rem 0;border-top:0;border-bottom:1px solid var(--rule)}
 .evidence-site .workspace-tabs a{border-radius:4px;font-size:.9rem;padding:.7rem 1.1rem}
