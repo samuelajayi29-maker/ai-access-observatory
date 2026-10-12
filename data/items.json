@@ -1,10 +1,38 @@
 {
- "updated": "2026-10-11",
+ "updated": "2026-10-12",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "AI: World Bank, IMF warn of jobs crisis in Nigeria, others",
+     "u": "https://www.vanguardngr.com/2026/10/ai-world-bank-imf-warn-of-jobs-crisis-in-nigeria-others/",
+     "s": "Vanguard",
+     "d": "Oct 12",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "IMF warns of AI 'tsunami' for job seekers: young workers most exposed",
+     "u": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+     "s": "CNBC",
+     "d": "Oct 12",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "AI is now propping up the world economy, says IMF",
+     "u": "https://techcentral.co.za/ai-holding-up-world-economy-imf/287166/",
+     "s": "TechCentral",
+     "d": "Oct 12",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Bill Gates warns AI will erase jobs, urges US-led rules",
+     "u": "https://tech-insider.org/bill-gates-ai-jobs-warning-regulation-2026/",
+     "s": "Tech Insider",
+     "d": "Oct 12",
+     "dot": "dot-jobs"
+    },
     {
      "t": "EAC and Germany launch second AI4EAC challenge for 20,000 East Africans",
      "u": "https://dailysynapse.com/news/eac-germany-launch-second-ai4eac-challenge/",
@@ -23,6 +51,13 @@
      "t": "TTEC opens Volkswagen UK customer experience operation in Cairo",
      "u": "https://news.outsourceaccelerator.com/ttec-volkswagen-cairo/",
      "s": "Outsource Accelerator",
+     "d": "Oct 10",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Zimbabwean founders raise $2m for Ocular AI, selling voice data to the frontier labs",
+     "u": "https://iafrica.com/zimbabwean-founders-raise-2m-for-ocular-ai-selling-voice-data-to-the-frontier-labs/",
+     "s": "iAfrica",
      "d": "Oct 10",
      "dot": "dot-jobs"
     },
@@ -1082,6 +1117,34 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "Pursuing the promise of AI for African nonprofits",
+     "u": "https://it-online.co.za/2026/10/12/pursuing-the-promise-of-ai-for-african-nonprofits/",
+     "s": "IT-Online",
+     "d": "Oct 12",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Google opens SynthID detector globally, but it only sees watermarks it knows",
+     "u": "https://iafrica.com/google-opens-synthid-detector-globally-but-it-only-sees-watermarks-it-knows/",
+     "s": "iAfrica",
+     "d": "Oct 11",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Google opens AI gateway for South African startups: 15 companies chosen from 1,057 applicants",
+     "u": "https://thebottomline.ng/2026/10/11/google-opens-ai-gateway-for-south-african-startups-just-15-companies-survive-a-fierce-battle-among-1057-applicants/",
+     "s": "The BottomLine",
+     "d": "Oct 11",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Vivo Y600s Pro ships a 10,200mAh battery and a $60 memory-driven price increase",
+     "u": "https://memeburn.com/vivo-y600s-pro/",
+     "s": "Memeburn",
+     "d": "Oct 11",
+     "dot": "dot-price"
+    },
+    {
      "t": "For Uganda, AI Brings Opportunities & Fears",
      "u": "https://eprcug.org/blog/for-uganda-ai-brings-opportunities-fears/",
      "s": "EPRC Uganda",
@@ -1098,6 +1161,13 @@
     {
      "t": "Zimbabwe opens first rural AI hub in Gokwe North, with 20 laptops and 52 students",
      "u": "https://iafrica.com/zimbabwe-opens-first-rural-ai-hub-in-gokwe-north-with-20-laptops-and-52-students/",
+     "s": "iAfrica",
+     "d": "Oct 10",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Morocco's customs AI audits $65m in imports and recovers $5m in undervaluation",
+     "u": "https://iafrica.com/moroccos-customs-ai-audits-65m-in-imports-recovers-5m-in-undervaluation/",
      "s": "iAfrica",
      "d": "Oct 10",
      "dot": "dot-access"
@@ -2543,9 +2613,51 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "Nigeria's internet infrastructure at a critical turning point as industry leaders converge for ngPIF 2026",
+     "u": "https://itpulse.com.ng/nigerias-internet-infrastructure-at-critical-turning-point-as-industry-leaders-converge-for-ngpif-2026/",
+     "s": "ITPulse",
+     "d": "Oct 12",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "The grid cannot wait: set a timetable for independent transmission projects",
+     "u": "https://techcentral.co.za/grid-cannot-wait-independent-transmission-projects/287163/",
+     "s": "TechCentral",
+     "d": "Oct 12",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Emerging AI regulatory approaches highlight key policy choices across Africa",
      "u": "https://trustur.ai/news/gh/2026/10/11/emerging-ai-regulatory-approaches-highlight-key-policy-choices-across-africa/94ea282e-b34f-41ff-aebc-5d9a86cc26d6/",
      "s": "Trustur News",
+     "d": "Oct 11",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "AI doesn't run on hype, it runs on megawatts",
+     "u": "https://datacentresafrica.com/ai-doesnt-run-on-hype-it-runs-on-megawatts/",
+     "s": "Data Centres Africa",
+     "d": "Oct 11",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "DE-CIX and Cabo Verde Telecom plan a new South Atlantic interconnection corridor",
+     "u": "https://datacentresafrica.com/de-cix-and-cabo-verde-telecom-plan-new-south-atlantic-interconnection-corridor/",
+     "s": "Data Centres Africa",
+     "d": "Oct 11",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Ramokgopa prioritises battery storage and gas-to-power as data centre demand strains supply",
+     "u": "https://datacentresafrica.com/minister-kgosientsho-ramokgopa-prioritises-battery-storage-and-gas-to-power-to-address-curtailment-and-strengthen-reliable-electricity-supply-to-support-economic-growth/",
+     "s": "Data Centres Africa",
+     "d": "Oct 11",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "AIFOD Nairobi Summit 2027 to focus on AI safety and governance challenges in developing nations",
+     "u": "https://af.net/realtime/aifod-nairobi-summit-2027-to-focus-on-ai-safety-and-governance-challenges-in-developing-nations/",
+     "s": "AIFOD",
      "d": "Oct 11",
      "dot": "dot-infra"
     },
@@ -2588,6 +2700,13 @@
      "t": "Africa Faces Growing Battle for Digital Sovereignty",
      "u": "https://ippmedia.co.tz/the-guardian/features/read/africa-faces-growing-battle-for-digital-sovereignty-2026-10-09-205248",
      "s": "The Guardian Tanzania",
+     "d": "Oct 9",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Africa's AI data centre infrastructure: key countries for development and investment",
+     "u": "https://www.powertechafrica.com/2026/10/09/africas-ai-data-centre-infrastructure-key-countries-for-development-and-investment/",
+     "s": "PowerTech Africa",
      "d": "Oct 9",
      "dot": "dot-infra"
     },
