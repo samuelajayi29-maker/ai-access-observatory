@@ -233,6 +233,202 @@
    "reviewed_at": "2026-10-06",
    "observation_ids": [],
    "note": "Company press release read in full. Announces a Johannesburg colocation facility for the iGaming sector, said to be live in Q4 2026, with no capacity, investment, employment or site figure and no AI-specific workload described. Nothing comparable to a project register row could be recorded and no capacity may be inferred. Needed: a capacity or investment disclosure, or a dated operating confirmation, before it can be considered for the infrastructure register."
+  },
+  {
+   "signal_url": "https://www.undp.org/fr/benin/actualites/lancement-de-la-6-edition-de-lecole-dete-sur-lintelligence-artificielle-au-benin",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-11",
+   "observation_ids": [],
+   "note": "Reported programme launch. Benin hosted the programme; the other countries are explicitly named as participants' origins. The 190 places are a multinational cohort, not a count for each country or jobs created."
+  },
+  {
+   "signal_url": "https://www.togofirst.com/fr/formation/2407-19660-togo-ai-summer-school-2026-pour-former-100-jeunes-aux-metiers-de-lia",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-11",
+   "observation_ids": [],
+   "note": "Announcement. Scheduled training in Lome. The stated 100 is a target; this article does not verify attendance, completion or employment."
+  },
+  {
+   "signal_url": "https://www.undp.org/liberia/press-releases/building-liberias-ai-future-undp-ul-consult-stakeholders",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-11",
+   "observation_ids": [],
+   "note": "Programme proposal. UNDP describes stakeholder consultations and accreditation work. The degree is proposed, not confirmed as accredited or delivering graduates."
+  },
+  {
+   "signal_url": "https://frontpageafricaonline.com/liberia-launches-first-legal-learning-artificial-intelligence-cj-lewis-to-expand-public-access-to-the-law/",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-11",
+   "observation_ids": [],
+   "note": "Reported launch. Local reporting describes a launch and provider claims about access to legal information. Accuracy, usage and effects on legal services have not been independently measured."
+  },
+  {
+   "signal_url": "https://mesrs.gov.gn/mesrs-dounia-une-nouvelle-etape-vers-lelaboration-de-la-strategie-nationale/",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-11",
+   "observation_ids": [],
+   "note": "Strategy preparation. The ministry reports discussions following a Blueprint workshop. This is strategy preparation, not evidence of adoption or completed deployment."
+  },
+  {
+   "signal_url": "https://www.unesco.org/en/articles/botswana-and-namibia-strengthen-quality-assurance-prepare-higher-education-digital-age",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-11",
+   "observation_ids": [],
+   "note": "Reported workshop. Workshop in Windhoek involved institutions from both countries. Global UNESCO survey percentages are not national adoption estimates. Page updated 24 August 2026."
+  },
+  {
+   "signal_url": "https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-11",
+   "observation_ids": [],
+   "note": "Research publication. Publisher summary covers Malawi, Rwanda, Togo, Zambia, Kenya and South Africa. Deployment, activation and operation are distinct stages; no GPU inventory or MW value is inferred from this page."
+  },
+  {
+   "signal_url": "https://cipit.strathmore.edu/east-african-artificial-intelligence-policy-outlook-report/",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-11",
+   "observation_ids": [],
+   "note": "Research publication. Publisher description establishes report scope. It does not rank countries or demonstrate adoption or economic impact; individual policy claims require reading the underlying documents."
+  },
+  {
+   "signal_url": "https://www.aicto.org/ai-forward-summit-2026-yasmine-hammamet-republic-of-tunisia-7-10-september-2026/",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-11",
+   "observation_ids": [],
+   "note": "Reported summit. Organizer report from Yasmine Hammamet. A declaration and discussions do not establish implementation, investment delivered or national adoption."
+  },
+  {
+   "signal_url": "https://www.mesrs.dz/2026/09/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D9%88%D8%A7%D9%84%D8%A8%D8%AD%D8%AB-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A-%D9%8A%D8%AA%D8%B1/",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-11",
+   "observation_ids": [],
+   "note": "Government progress report. Arabic ministry report distinguishes planned infrastructure/data actions, existing servers and GPUs, model progress and proposed training. No capacity, budget or employment outcome is inferred. This is the third coordination meeting on 21 September, a follow-up to the August roadmap and September committee-creation signals already retained."
+  },
+  {
+   "signal_url": "https://www.ena.et/web/eng/w/eng_9274852",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-11",
+   "observation_ids": [],
+   "note": "Reported graduation. ENA reports a graduation ceremony after six months of training. Cohort size and jobs created are not given; broad official impact claims are not treated as measured outcomes."
+  },
+  {
+   "signal_url": "https://intic.gov.mz/mocambique-partilha-experiencia-sobre-regulacao-responsavel-da-inteligencia-artificial-no-forum-lusofono/",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-11",
+   "observation_ids": [],
+   "note": "Reported policy discussion. Mozambique is the participating regulator and Angola the host. Discussion of sandbox design is not proof that an operational AI sandbox has been launched."
+  },
+  {
+   "signal_url": "https://fundec.org.mz/2026/09/21/fundec-apresenta-2-a-edicao-fundec-economic-outlook-com-foco-na-competitividade-emprego-produtividade-e-inteligencia-artificial/",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-11",
+   "observation_ids": [],
+   "note": "Research and proposals. Organizer account of an economic forum and AI study. Suggested applications and a future roadmap are proposals; reported economic indicators are not attributed to AI."
+  },
+  {
+   "signal_url": "https://www.comesa.int/press-statement-comesa-advances-responsible-ai-dialogue/",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-11",
+   "observation_ids": [],
+   "note": "Regional policy preparation. Eswatini is the meeting host. The statement is dated 16 September and posted 25 September. Regional strategy and regulatory instruments are future work, not enacted national law."
+  },
+  {
+   "signal_url": "https://tourism.gov.sl/mtca-soft-launches-ai-tourism-chatbot-wakabot/",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-11",
+   "observation_ids": [],
+   "note": "Reported soft launch. The ministry describes a trip planner and chatbot soft launch; analytics remain a later phase. Publication date is shown in the ministry news listing. No independent user or economic-impact measurement."
+  },
+  {
+   "signal_url": "https://www.statehouse.gov.sc/news/7158/president-herminies-vision-for-artificial-intelligence-takes-root-in-seychelles-classrooms",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-11",
+   "observation_ids": [],
+   "note": "Government policy and pilot report. Presidency reports framework approval and teacher-coach and student-tutor pilots. These are limited pilots, not nationwide use or independently demonstrated learning gains."
+  },
+  {
+   "signal_url": "https://www.finances.gouv.sn/actualites/intelligence-artificielle-construire-une-transformation-bancaire-maitrisee-et-inclusive-dans-luemoa",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-11",
+   "observation_ids": [],
+   "note": "Reported forum. Dakar is the host. The source discusses responsible AI in banking; it does not quantify deployment or financial-inclusion gains for Senegal or every UEMOA member."
+  },
+  {
+   "signal_url": "https://gis.govmu.org/gis/?id=2425&page_id=4008",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-11",
+   "observation_ids": [],
+   "note": "Reported demonstration. Mauritius is the host; the other countries supplied visiting delegates. Participation does not establish that visiting parliaments deployed AI."
+  },
+  {
+   "signal_url": "https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-a-seoul-le-burundi-presente-ses-ambitions",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-11",
+   "observation_ids": [],
+   "note": "Reported investment priorities. Secondary reporting on policy priorities and proposed partnerships. Planned training and pilots are not completions; no new funded facility or operating capacity is established."
+  },
+  {
+   "signal_url": "https://shabait.com/2026/07/21/polytech-ai-and-the-future-isaias-okbai-on-eritrean-innovation/",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-12",
+   "observation_ids": [],
+   "note": "Interview with Polytech's founder reports about 50 AI-course graduates during 2026 to date. This is a provider claim, not independently audited, and not a count of jobs created. Exact course and graduation dates are unstated."
+  },
+  {
+   "signal_url": "https://ncst.mw/ncst-takes-part-in-validation-workshop-for-the-malawi-artificial-intelligence-readiness-assessment-methodology-ram-report/",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-12",
+   "observation_ids": [],
+   "note": "The commission reports a stakeholder workshop on preliminary readiness findings. This does not establish an adopted AI strategy, deployed systems or measured economic gains."
+  },
+  {
+   "signal_url": "https://mitci.govmu.org/mitci/government-launches-ai-enabled-water-leakage-reporting-service-on-korek-app/",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-12",
+   "observation_ids": [],
+   "note": "The ministry says AI helps triage the severity of photo-and-location reports for the water authority. No usage, model accuracy, water savings or independently evaluated impact is published in this announcement."
+  },
+  {
+   "signal_url": "https://www.republicoftogo.com/toutes-les-rubriques/high-tech/le-togo-apprend-ses-langues-grace-a-l-ia",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-12",
+   "observation_ids": [],
+   "note": "Voix du Togo seeks voice and text contributions for Kabye, Ewe and Moba, with UNDP support. Paid contribution tasks are not a count of permanent jobs. Wider language coverage and public-service access are ambitions, not established outcomes."
+  },
+  {
+   "signal_url": "https://www.minfopra.gov.cm/index.php/fr/a-la-une/2368-cooperation-sud-sud-le-cameroun-et-le-maroc-s-unissent-pour-une-administration-publique-digitale-et-securisee",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-12",
+   "observation_ids": [],
+   "note": "The ministerial account discusses possible AI use for administrative tasks and proposed bilateral cooperation. It does not demonstrate an AI deployment or signed implementation contract. The existing AIGLES payroll system is not reclassified as AI."
+  },
+  {
+   "signal_url": "https://intic.gov.mz/intic-e-ins-assinam-memorando-de-entendimento-para-impulsionar-a-transformacao-digital-no-sector-da-saude/",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-12",
+   "observation_ids": [],
+   "note": "INTIC and INS report a five-year agreement for laboratory, digital-health and AI-sandbox cooperation. Facilities and sandbox implementation are prospective; the agreement is not proof of an operating AI system. This is distinct from the September regional sandbox discussion."
+  },
+  {
+   "signal_url": "https://cenfri.org/articles/award-winner-ngirinshuti-on-an-ai-model-that-serves-rwandas-statistical-analysis/",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-12",
+   "observation_ids": [],
+   "note": "The programme partner describes a model supporting survey analysts in Kinyarwanda, English and French. Its 96% auto-coding result concerns one reported test, not national AI accuracy. Reported workflow savings do not establish layoffs; an enumerator app remains a future step."
+  },
+  {
+   "signal_url": "https://arxiv.org/abs/2607.23481",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-12",
+   "observation_ids": [],
+   "note": "The Mwando preprint describes support for four shiKomori varieties and an evaluation on 500 queries. This is author-reported research, not independently verified deployment, user adoption or economic impact. The country tag identifies the language context, not proof of operation throughout Comoros."
+  },
+  {
+   "signal_url": "https://news.mak.ac.ug/2026/08/call-for-applications-mak-ai-phd-fellowship/",
+   "decision": "context_only",
+   "reviewed_at": "2026-10-12",
+   "observation_ids": [],
+   "note": "The call covers health, language processing, agriculture and environment, with an application deadline of 24 August 2026. It does not report successful applicants, completed training or jobs created. The historical call is no longer presented as an open opportunity."
   }
  ]
 }

@@ -1,12 +1,21 @@
 # Data centre directory
 
-Added 6 October 2026. Source: Data Landscapers, Corpus data-centres edition
-2026-10-05-2, https://corpus.data-landscapers.io/datasets/data-centres/.
+Added 6 October 2026; refreshed locally 12 October 2026. Source: Data Landscapers,
+Corpus data-centres edition 2026-10-07,
+https://corpus.data-landscapers.io/datasets/data-centres/.
 Licence: CC BY 4.0, https://creativecommons.org/licenses/by/4.0/.
 Copyright/attribution: Data Landscapers Ltd. InferenceAfrica selected fields,
 adapted presentation and calculated country counts. No endorsement implied.
 
 The original dated CSV is preserved as data-centres-corpus-2026-10-05.csv.
+The current snapshot is data-centres-corpus-2026-10-07.csv. The full field-level
+comparison is data-centre-refresh-2026-10-12.json. No IDs were added or removed;
+only BWA-002 changed (Digital Delta IXP announcement, source links and source
+check date). The cited ITWeb Africa report dated 6 October was read; it supports
+the announcement but supplies no traffic/member count. Existing facility claims
+were not independently reverified. All 578 listings and country totals are unchanged.
+The exported source URL now identifies the dated CSV, and its hash and retrieval
+date are included in the public JSON. Retrieval does not mean independent verification.
 `facility_directory.py` generates the public directory and country-count series.
 Every surface uses those same records. Changes must be made to a versioned source
 snapshot or a reviewed correction layer, not generated HTML or CSV.
