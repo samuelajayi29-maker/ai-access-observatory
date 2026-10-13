@@ -1,10 +1,24 @@
 {
- "updated": "2026-10-12",
+ "updated": "2026-10-13",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "Microsoft to shut Nairobi engineering centre, putting hundreds of jobs at risk",
+     "u": "https://techcabal.com/2026/10/13/mircosoft-close-adc-nairobi-kenya/",
+     "s": "TechCabal",
+     "d": "Oct 13",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Consumer resistance to AI customer service is a myth, NTT DATA finds",
+     "u": "https://news.outsourceaccelerator.com/ntt-data-ai-customer-service/",
+     "s": "Outsource Accelerator",
+     "d": "Oct 13",
+     "dot": "dot-jobs"
+    },
     {
      "t": "AI: World Bank, IMF warn of jobs crisis in Nigeria, others",
      "u": "https://www.vanguardngr.com/2026/10/ai-world-bank-imf-warn-of-jobs-crisis-in-nigeria-others/",
@@ -30,6 +44,27 @@
      "t": "Bill Gates warns AI will erase jobs, urges US-led rules",
      "u": "https://tech-insider.org/bill-gates-ai-jobs-warning-regulation-2026/",
      "s": "Tech Insider",
+     "d": "Oct 12",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Automation Anywhere to buy Boost.ai to push AI into customer service",
+     "u": "https://news.outsourceaccelerator.com/automation-anywhere-boost-ai/",
+     "s": "Outsource Accelerator",
+     "d": "Oct 12",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Alloyed puts AI agents on client work, keeps people on exceptions",
+     "u": "https://news.outsourceaccelerator.com/alloyed-beam-ai-agents/",
+     "s": "Outsource Accelerator",
+     "d": "Oct 12",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "US freezes green card filings for TCS, Infosys, Wipro and Cognizant",
+     "u": "https://news.outsourceaccelerator.com/perm-green-card-suspension/",
+     "s": "Outsource Accelerator",
      "d": "Oct 12",
      "dot": "dot-jobs"
     },
@@ -1350,9 +1385,51 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "Nvidia AI servers face price hikes tied to memory costs, up more than 15% from early next year",
+     "u": "https://dailysynapse.com/news/nvidia-ai-server-prices-face-memory-cost-hikes/",
+     "s": "DailySynapse",
+     "d": "Oct 13",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Vivo V80 vs Oppo F35 Pro: the $134 gap buys a zoom lens and two extra years",
+     "u": "https://memeburn.com/vivo-v80-vs-oppo-f35-pro/",
+     "s": "Memeburn",
+     "d": "Oct 13",
+     "dot": "dot-price"
+    },
+    {
      "t": "Pursuing the promise of AI for African nonprofits",
      "u": "https://it-online.co.za/2026/10/12/pursuing-the-promise-of-ai-for-african-nonprofits/",
      "s": "IT-Online",
+     "d": "Oct 12",
+     "dot": "dot-access"
+    },
+    {
+     "t": "DRAM prices surge 17% as AI gobbles wafer supply",
+     "u": "https://www.techtimes.com/articles/328932/20261012/dram-prices-surge-17-ai-gobbles-wafer-supply-nanya-posts-record-857-margin.htm",
+     "s": "Tech Times",
+     "d": "Oct 12",
+     "dot": "dot-price"
+    },
+    {
+     "t": "PC market plunges by 20% as pull-in hangover, supply constraints bite",
+     "u": "https://it-online.co.za/2026/10/12/pc-market-plunges-by-20-as-pull-in-hangover-supply-constraints-bite/",
+     "s": "IT-Online",
+     "d": "Oct 12",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Claude for Startups 2026: what the free package is worth",
+     "u": "https://memeburn.com/claude-for-startups-2026/",
+     "s": "Memeburn",
+     "d": "Oct 12",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Democratising intelligence: how low-code AI is levelling the playing field for Nigerian mid-market firms",
+     "u": "https://itpulse.com.ng/democratising-intelligence-how-low-code-ai-is-levelling-the-playing-field-for-nigerian-mid-market-firms/",
+     "s": "ITPulse",
      "d": "Oct 12",
      "dot": "dot-access"
     },
@@ -3254,6 +3331,13 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "Microsoft aims to scale AI across African energy and mining operations",
+     "u": "https://it-online.co.za/2026/10/13/microsoft-aims-to-scale-ai-across-african-energy-mining-operations/",
+     "s": "IT-Online",
+     "d": "Oct 13",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Nigeria's internet infrastructure at a critical turning point as industry leaders converge for ngPIF 2026",
      "u": "https://itpulse.com.ng/nigerias-internet-infrastructure-at-critical-turning-point-as-industry-leaders-converge-for-ngpif-2026/",
      "s": "ITPulse",
@@ -3264,6 +3348,20 @@
      "t": "The grid cannot wait: set a timetable for independent transmission projects",
      "u": "https://techcentral.co.za/grid-cannot-wait-independent-transmission-projects/287163/",
      "s": "TechCentral",
+     "d": "Oct 12",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Nigeria to host Build 2026 as Africa's AI data centre capacity faces growing demand",
+     "u": "https://aireportsafrica.com/2026/10/12/nigeria-to-host-build-2026-as-africas-ai-data-centre-capacity-faces-growing-demand/",
+     "s": "AI Reports Africa",
+     "d": "Oct 12",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Nigerians consume 1.76 million terabytes of data in August 2026, the highest yet",
+     "u": "https://technext24.com/news/nigerians-used-1-76-m-terabytes-data-in-august/",
+     "s": "Technext24",
      "d": "Oct 12",
      "dot": "dot-infra"
     },
@@ -3299,6 +3397,27 @@
      "t": "AIFOD Nairobi Summit 2027 to focus on AI safety and governance challenges in developing nations",
      "u": "https://af.net/realtime/aifod-nairobi-summit-2027-to-focus-on-ai-safety-and-governance-challenges-in-developing-nations/",
      "s": "AIFOD",
+     "d": "Oct 11",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Angola Cables boosts capacity across MONET and SACS submarine cable systems with Ciena",
+     "u": "https://datacentresafrica.com/angola-cables-boosts-capacity-across-monet-and-sacs-submarine-cable-systems-with-ciena-technology/",
+     "s": "Data Centres Africa",
+     "d": "Oct 11",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Continent 8 Technologies launches in South Africa, extending its private global network into Africa",
+     "u": "https://datacentresafrica.com/continent-8-technologies-launches-in-south-africa-extending-its-private-global-network-into-africa/",
+     "s": "Data Centres Africa",
+     "d": "Oct 11",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Building the foundations of Africa's digital future through data centre-led infrastructure investment",
+     "u": "https://datacentresafrica.com/building-the-foundations-of-africas-digital-future-through-data-centre-led-infrastructure-investment/",
+     "s": "Data Centres Africa",
      "d": "Oct 11",
      "dot": "dot-infra"
     },
@@ -5254,7 +5373,7 @@
    ]
   }
  },
- "tracker_updated": "2026-10-12",
+ "tracker_updated": "2026-10-13",
  "backfill_updated": "2026-10-12",
  "scope": "Combined signal feed: tracker plus reviewed historical additions. Signals are not verified numerical observations."
 }
