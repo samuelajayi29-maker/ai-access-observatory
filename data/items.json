@@ -1,10 +1,24 @@
 {
- "updated": "2026-10-13",
+ "updated": "2026-10-14",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "EU AI Act puts workplace tools in the high-risk tier",
+     "u": "https://dailysynapse.com/news/eu-ai-act-puts-workplace-tools-in-the-high-risk-tier/",
+     "s": "DailySynapse",
+     "d": "Oct 14",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "US workers see job-loss risk at lowest since 2024, NY Fed finds",
+     "u": "https://news.outsourceaccelerator.com/ny-fed-job-loss-expectations/",
+     "s": "Outsource Accelerator",
+     "d": "Oct 14",
+     "dot": "dot-jobs"
+    },
     {
      "t": "Microsoft to shut Nairobi engineering centre, putting hundreds of jobs at risk",
      "u": "https://techcabal.com/2026/10/13/mircosoft-close-adc-nairobi-kenya/",
@@ -15,6 +29,20 @@
     {
      "t": "Consumer resistance to AI customer service is a myth, NTT DATA finds",
      "u": "https://news.outsourceaccelerator.com/ntt-data-ai-customer-service/",
+     "s": "Outsource Accelerator",
+     "d": "Oct 13",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Vodacom, UJ and AWS expand AI skills training with a 150-student hackathon",
+     "u": "https://techtrendske.co.ke/2026/10/13/vodacom-uj-aws-ai-skills-hackathon/",
+     "s": "TechTrendsKE",
+     "d": "Oct 13",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "South Africa launches opt-out registry as spam calls top 17 billion",
+     "u": "https://news.outsourceaccelerator.com/south-africa-opt-out-registry-spam/",
      "s": "Outsource Accelerator",
      "d": "Oct 13",
      "dot": "dot-jobs"
@@ -1152,6 +1180,13 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "Cheap models put AI infrastructure spending under scrutiny",
+     "u": "https://dailysynapse.com/news/cheap-models-put-ai-infrastructure-spending-under-scrutiny/",
+     "s": "DailySynapse",
+     "d": "Oct 14",
+     "dot": "dot-price"
+    },
+    {
      "t": "Nvidia AI servers face price hikes tied to memory costs, up more than 15% from early next year",
      "u": "https://dailysynapse.com/news/nvidia-ai-server-prices-face-memory-cost-hikes/",
      "s": "DailySynapse",
@@ -1164,6 +1199,27 @@
      "s": "Memeburn",
      "d": "Oct 13",
      "dot": "dot-price"
+    },
+    {
+     "t": "Gemini 4 Argon opens to the paid API at $2/$10, doubling to $4/$20 on 1 December",
+     "u": "https://www.thefrontier.dev/articles/gemini-4-argon-paid-rollout",
+     "s": "The Frontier",
+     "d": "Oct 13",
+     "dot": "dot-price"
+    },
+    {
+     "t": "AI pricing in October 2026: Haiku 5.5 lands 90% cheaper while frontier rates hold at $3.75",
+     "u": "https://aitokenprice.com/reports/2026-10",
+     "s": "AI Token Price",
+     "d": "Oct 13",
+     "dot": "dot-price"
+    },
+    {
+     "t": "EqualyzAI joins Google, Microsoft and other AI leaders in a Gates Foundation-convened commitment",
+     "u": "https://techcabal.com/2026/10/13/equalyzai-joins-google-microsoft-and-other-global-ai-leaders-in-gates-foundation-convened-commitment/",
+     "s": "TechCabal",
+     "d": "Oct 13",
+     "dot": "dot-access"
     },
     {
      "t": "Pursuing the promise of AI for African nonprofits",
@@ -1197,6 +1253,13 @@
      "t": "Democratising intelligence: how low-code AI is levelling the playing field for Nigerian mid-market firms",
      "u": "https://itpulse.com.ng/democratising-intelligence-how-low-code-ai-is-levelling-the-playing-field-for-nigerian-mid-market-firms/",
      "s": "ITPulse",
+     "d": "Oct 12",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Why millions of Africans covered by mobile networks stay offline",
+     "u": "https://techcabal.com/2026/10/12/africans-with-internet-coverage-offline/",
+     "s": "TechCabal",
      "d": "Oct 12",
      "dot": "dot-access"
     },
@@ -2690,8 +2753,29 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "Microsoft launches Maia 300 for Azure cloud AI workloads",
+     "u": "https://dailysynapse.com/news/microsoft-launches-maia-300-for-azure-cloud-ai-workloads/",
+     "s": "DailySynapse",
+     "d": "Oct 14",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Microsoft aims to scale AI across African energy and mining operations",
      "u": "https://it-online.co.za/2026/10/13/microsoft-aims-to-scale-ai-across-african-energy-mining-operations/",
+     "s": "IT-Online",
+     "d": "Oct 13",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Nvidia opens Vera Rubin architecture to help scale AI factories",
+     "u": "https://it-online.co.za/2026/10/13/nvidia-opens-vera-rubin-architecture-to-help-scale-ai-factories/",
+     "s": "IT-Online",
+     "d": "Oct 13",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Redvine's LEO satellite adoption in Africa climbs 70% in a year",
+     "u": "https://it-online.co.za/2026/10/13/redvines-leo-satellite-adoption-in-africa-climbs-70-in-a-year/",
      "s": "IT-Online",
      "d": "Oct 13",
      "dot": "dot-infra"
@@ -2721,6 +2805,13 @@
      "t": "Nigerians consume 1.76 million terabytes of data in August 2026, the highest yet",
      "u": "https://technext24.com/news/nigerians-used-1-76-m-terabytes-data-in-august/",
      "s": "Technext24",
+     "d": "Oct 12",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Africa holds just 0.6% of global data centre capacity, World Bank finds",
+     "u": "https://guru8.net/2026/10/africa-holds-just-0-6-of-global-data-centre-capacity-world-bank-finds/",
+     "s": "GURU8",
      "d": "Oct 12",
      "dot": "dot-infra"
     },
@@ -2826,6 +2917,13 @@
      "t": "Africa's AI data centre infrastructure: key countries for development and investment",
      "u": "https://www.powertechafrica.com/2026/10/09/africas-ai-data-centre-infrastructure-key-countries-for-development-and-investment/",
      "s": "PowerTech Africa",
+     "d": "Oct 9",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Digital Parks Africa expands into Nigeria, plans data centre in Lagos",
+     "u": "https://www.datacenterdynamics.com/en/news/digital-parks-africa-expands-into-nigeria-plans-data-center-in-lagos/",
+     "s": "DCD",
      "d": "Oct 9",
      "dot": "dot-infra"
     },

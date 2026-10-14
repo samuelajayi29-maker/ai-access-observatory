@@ -1,6 +1,10 @@
 bucket,date,source,title,url
+jobs,Oct 14,DailySynapse,EU AI Act puts workplace tools in the high-risk tier,https://dailysynapse.com/news/eu-ai-act-puts-workplace-tools-in-the-high-risk-tier/
+jobs,Oct 14,Outsource Accelerator,"US workers see job-loss risk at lowest since 2024, NY Fed finds",https://news.outsourceaccelerator.com/ny-fed-job-loss-expectations/
 jobs,Oct 13,TechCabal,"Microsoft to shut Nairobi engineering centre, putting hundreds of jobs at risk",https://techcabal.com/2026/10/13/mircosoft-close-adc-nairobi-kenya/
 jobs,Oct 13,Outsource Accelerator,"Consumer resistance to AI customer service is a myth, NTT DATA finds",https://news.outsourceaccelerator.com/ntt-data-ai-customer-service/
+jobs,Oct 13,TechTrendsKE,"Vodacom, UJ and AWS expand AI skills training with a 150-student hackathon",https://techtrendske.co.ke/2026/10/13/vodacom-uj-aws-ai-skills-hackathon/
+jobs,Oct 13,Outsource Accelerator,South Africa launches opt-out registry as spam calls top 17 billion,https://news.outsourceaccelerator.com/south-africa-opt-out-registry-spam/
 jobs,Oct 12,Vanguard,"AI: World Bank, IMF warn of jobs crisis in Nigeria, others",https://www.vanguardngr.com/2026/10/ai-world-bank-imf-warn-of-jobs-crisis-in-nigeria-others/
 jobs,Oct 12,CNBC,IMF warns of AI 'tsunami' for job seekers: young workers most exposed,https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html
 jobs,Oct 12,TechCentral,"AI is now propping up the world economy, says IMF",https://techcentral.co.za/ai-holding-up-world-economy-imf/287166/
@@ -162,13 +166,18 @@ jobs,May 16,UN Economic Commission for Africa,AI and jobs in Africa: turning dis
 jobs,Apr 25,Mastercard Foundation,40% of Tasks in Africa's Tech Outsourcing May Be Affected by AI by 2030,https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/
 jobs,Mar 31,WeeTracker,South Africa's gig economy becomes a bargain with AI skills shortage looming,https://weetracker.com/2026/03/31/south-africa-freelance-economy-ai-talent-gap-2026/
 jobs,Dec 25,"Deric Cheng, AI Frontiers",AI Could Undermine Emerging Economies,https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies
+access,Oct 14,DailySynapse,Cheap models put AI infrastructure spending under scrutiny,https://dailysynapse.com/news/cheap-models-put-ai-infrastructure-spending-under-scrutiny/
 access,Oct 13,DailySynapse,"Nvidia AI servers face price hikes tied to memory costs, up more than 15% from early next year",https://dailysynapse.com/news/nvidia-ai-server-prices-face-memory-cost-hikes/
 access,Oct 13,Memeburn,Vivo V80 vs Oppo F35 Pro: the $134 gap buys a zoom lens and two extra years,https://memeburn.com/vivo-v80-vs-oppo-f35-pro/
+access,Oct 13,The Frontier,"Gemini 4 Argon opens to the paid API at $2/$10, doubling to $4/$20 on 1 December",https://www.thefrontier.dev/articles/gemini-4-argon-paid-rollout
+access,Oct 13,AI Token Price,AI pricing in October 2026: Haiku 5.5 lands 90% cheaper while frontier rates hold at $3.75,https://aitokenprice.com/reports/2026-10
+access,Oct 13,TechCabal,"EqualyzAI joins Google, Microsoft and other AI leaders in a Gates Foundation-convened commitment",https://techcabal.com/2026/10/13/equalyzai-joins-google-microsoft-and-other-global-ai-leaders-in-gates-foundation-convened-commitment/
 access,Oct 12,IT-Online,Pursuing the promise of AI for African nonprofits,https://it-online.co.za/2026/10/12/pursuing-the-promise-of-ai-for-african-nonprofits/
 access,Oct 12,Tech Times,DRAM prices surge 17% as AI gobbles wafer supply,https://www.techtimes.com/articles/328932/20261012/dram-prices-surge-17-ai-gobbles-wafer-supply-nanya-posts-record-857-margin.htm
 access,Oct 12,IT-Online,"PC market plunges by 20% as pull-in hangover, supply constraints bite",https://it-online.co.za/2026/10/12/pc-market-plunges-by-20-as-pull-in-hangover-supply-constraints-bite/
 access,Oct 12,Memeburn,Claude for Startups 2026: what the free package is worth,https://memeburn.com/claude-for-startups-2026/
 access,Oct 12,ITPulse,Democratising intelligence: how low-code AI is levelling the playing field for Nigerian mid-market firms,https://itpulse.com.ng/democratising-intelligence-how-low-code-ai-is-levelling-the-playing-field-for-nigerian-mid-market-firms/
+access,Oct 12,TechCabal,Why millions of Africans covered by mobile networks stay offline,https://techcabal.com/2026/10/12/africans-with-internet-coverage-offline/
 access,Oct 11,iAfrica,"Google opens SynthID detector globally, but it only sees watermarks it knows",https://iafrica.com/google-opens-synthid-detector-globally-but-it-only-sees-watermarks-it-knows/
 access,Oct 11,The BottomLine,"Google opens AI gateway for South African startups: 15 companies chosen from 1,057 applicants",https://thebottomline.ng/2026/10/11/google-opens-ai-gateway-for-south-african-startups-just-15-companies-survive-a-fierce-battle-among-1057-applicants/
 access,Oct 11,Memeburn,"Vivo Y600s Pro ships a 10,200mAh battery and a $60 memory-driven price increase",https://memeburn.com/vivo-y600s-pro/
@@ -381,11 +390,15 @@ access,May 27,Trustonic,"Deconstructing Africa's smartphone market: shipments, p
 access,May 26,"David Oks, Substack",AI Is Killing the Cheap Smartphone,https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone
 access,Apr 15,Japan Times / AFP,AI-driven chip shortage slowing efforts to get world online: GSMA,https://www.thejapantimes.jp/Technology/658420-ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma.html
 access,Feb 26,Techpoint Africa,AI Chip Demand — Smartphone Prices in Nigeria,https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/
+infra,Oct 14,DailySynapse,Microsoft launches Maia 300 for Azure cloud AI workloads,https://dailysynapse.com/news/microsoft-launches-maia-300-for-azure-cloud-ai-workloads/
 infra,Oct 13,IT-Online,Microsoft aims to scale AI across African energy and mining operations,https://it-online.co.za/2026/10/13/microsoft-aims-to-scale-ai-across-african-energy-mining-operations/
+infra,Oct 13,IT-Online,Nvidia opens Vera Rubin architecture to help scale AI factories,https://it-online.co.za/2026/10/13/nvidia-opens-vera-rubin-architecture-to-help-scale-ai-factories/
+infra,Oct 13,IT-Online,Redvine's LEO satellite adoption in Africa climbs 70% in a year,https://it-online.co.za/2026/10/13/redvines-leo-satellite-adoption-in-africa-climbs-70-in-a-year/
 infra,Oct 12,ITPulse,Nigeria's internet infrastructure at a critical turning point as industry leaders converge for ngPIF 2026,https://itpulse.com.ng/nigerias-internet-infrastructure-at-critical-turning-point-as-industry-leaders-converge-for-ngpif-2026/
 infra,Oct 12,TechCentral,The grid cannot wait: set a timetable for independent transmission projects,https://techcentral.co.za/grid-cannot-wait-independent-transmission-projects/287163/
 infra,Oct 12,AI Reports Africa,Nigeria to host Build 2026 as Africa's AI data centre capacity faces growing demand,https://aireportsafrica.com/2026/10/12/nigeria-to-host-build-2026-as-africas-ai-data-centre-capacity-faces-growing-demand/
 infra,Oct 12,Technext24,"Nigerians consume 1.76 million terabytes of data in August 2026, the highest yet",https://technext24.com/news/nigerians-used-1-76-m-terabytes-data-in-august/
+infra,Oct 12,GURU8,"Africa holds just 0.6% of global data centre capacity, World Bank finds",https://guru8.net/2026/10/africa-holds-just-0-6-of-global-data-centre-capacity-world-bank-finds/
 infra,Oct 11,Trustur News,Emerging AI regulatory approaches highlight key policy choices across Africa,https://trustur.ai/news/gh/2026/10/11/emerging-ai-regulatory-approaches-highlight-key-policy-choices-across-africa/94ea282e-b34f-41ff-aebc-5d9a86cc26d6/
 infra,Oct 11,Data Centres Africa,"AI doesn't run on hype, it runs on megawatts",https://datacentresafrica.com/ai-doesnt-run-on-hype-it-runs-on-megawatts/
 infra,Oct 11,Data Centres Africa,DE-CIX and Cabo Verde Telecom plan a new South Atlantic interconnection corridor,https://datacentresafrica.com/de-cix-and-cabo-verde-telecom-plan-new-south-atlantic-interconnection-corridor/
@@ -401,6 +414,7 @@ infra,Oct 9,Semafor,AI's uncertain opportunity for Africa,https://www.semafor.co
 infra,Oct 9,Payments Afrika,AFRICLOUD Opens Lagos Region and Local-Currency Payments in African Markets,https://paymentsafrika.com/africloud-opens-lagos-region-and-local-currency/
 infra,Oct 9,The Guardian Tanzania,Africa Faces Growing Battle for Digital Sovereignty,https://ippmedia.co.tz/the-guardian/features/read/africa-faces-growing-battle-for-digital-sovereignty-2026-10-09-205248
 infra,Oct 9,PowerTech Africa,Africa's AI data centre infrastructure: key countries for development and investment,https://www.powertechafrica.com/2026/10/09/africas-ai-data-centre-infrastructure-key-countries-for-development-and-investment/
+infra,Oct 9,DCD,"Digital Parks Africa expands into Nigeria, plans data centre in Lagos",https://www.datacenterdynamics.com/en/news/digital-parks-africa-expands-into-nigeria-plans-data-center-in-lagos/
 infra,Oct 8,TechTrendsKE,"Kenya wants a bigger share of global digital trade, but the infrastructure must keep pace",https://techtrendske.co.ke/2026/10/08/kenya-digital-trade-infrastructure/
 infra,Oct 8,iAfrica,'Not Even a Producer of Data': Researcher presses African policymakers on AI sovereignty,https://iafrica.com/not-even-a-producer-of-data-researcher-presses-african-policymakers-on-ai-sovereignty/
 infra,Oct 8,TechTrendsKE,"Airtel Africa adds 3,250 sites and 3,200km of fibre in a year",https://techtrendske.co.ke/2026/10/08/airtel-africa-adds-3250-sites-and-3200km-of-fibre-in-a-year/
