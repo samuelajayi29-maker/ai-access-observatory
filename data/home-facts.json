@@ -1,5 +1,5 @@
 {
-  "compiled": "2026-10-14",
+  "compiled": "2026-10-15",
   "facts": [
     {
       "id": "jobs-task-average",
@@ -73,7 +73,7 @@
       "title": "9 / 54 country wage benchmarks",
       "body": "are documented in the current record for comparing AI costs with wages.",
       "context": "This describes our data coverage, not how many countries can afford AI. Missing wage benchmarks are not zero.",
-      "source": "InferenceAfrica affordability record · Compiled 2026-10-14",
+      "source": "InferenceAfrica affordability record · Compiled 2026-10-15",
       "source_url": "access.html",
       "href": "access.html",
       "link": "Explore affordability evidence",
