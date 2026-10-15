@@ -1,10 +1,17 @@
 {
- "updated": "2026-10-14",
+ "updated": "2026-10-15",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "Africa's $10 Billion AI Push Moves Towards Delivery With Jobs and Growth at its Heart",
+     "u": "https://www.devdiscourse.com/article/business/3992699-africas-10-billion-ai-push-moves-towards-delivery-with-jobs-and-growth-at-its-heart",
+     "s": "Devdiscourse",
+     "d": "Oct 15",
+     "dot": "dot-jobs"
+    },
     {
      "t": "EU AI Act puts workplace tools in the high-risk tier",
      "u": "https://dailysynapse.com/news/eu-ai-act-puts-workplace-tools-in-the-high-risk-tier/",
@@ -16,6 +23,13 @@
      "t": "US workers see job-loss risk at lowest since 2024, NY Fed finds",
      "u": "https://news.outsourceaccelerator.com/ny-fed-job-loss-expectations/",
      "s": "Outsource Accelerator",
+     "d": "Oct 14",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "SA's KhayaHR builds AI-first workforce platform for frontline economy",
+     "u": "https://disruptafrica.com/2026/10/14/sas-khayahr-builds-ai-first-workforce-platform-for-frontline-economy/",
+     "s": "Disrupt Africa",
      "d": "Oct 14",
      "dot": "dot-jobs"
     },
@@ -44,6 +58,13 @@
      "t": "South Africa launches opt-out registry as spam calls top 17 billion",
      "u": "https://news.outsourceaccelerator.com/south-africa-opt-out-registry-spam/",
      "s": "Outsource Accelerator",
+     "d": "Oct 13",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Concentrix plans to recruit 6,000 more workers in Ghana - Sam George",
+     "u": "https://techfocus24.com/concentrix-plans-to-recruit-6000-more-workers-in-ghana-sam-george/",
+     "s": "TechFocus24",
      "d": "Oct 13",
      "dot": "dot-jobs"
     },
@@ -97,6 +118,13 @@
      "dot": "dot-jobs"
     },
     {
+     "t": "Creative destruction: Human-AI competition in an experimental market",
+     "u": "https://arxiv.org/abs/2610.18921",
+     "s": "arXiv econ.GN",
+     "d": "Oct 12",
+     "dot": "dot-arxiv"
+    },
+    {
      "t": "EAC and Germany launch second AI4EAC challenge for 20,000 East Africans",
      "u": "https://dailysynapse.com/news/eac-germany-launch-second-ai4eac-challenge/",
      "s": "DailySynapse",
@@ -123,6 +151,13 @@
      "s": "iAfrica",
      "d": "Oct 10",
      "dot": "dot-jobs"
+    },
+    {
+     "t": "Displacement Is Endogenous: AI Workers in a Search-and-Matching Labor Market",
+     "u": "https://arxiv.org/abs/2610.14850",
+     "s": "arXiv econ.GN",
+     "d": "Oct 10",
+     "dot": "dot-arxiv"
     },
     {
      "t": "How SA is making new call centre jobs stick with AI",
@@ -1187,6 +1222,20 @@
      "dot": "dot-price"
     },
     {
+     "t": "Google prices Gemini 4 Argon at $2 per million tokens, a fifth of OpenAI and Anthropic's $10 flagships",
+     "u": "https://theinference.org/article/google-prices-gemini-4-argon-at-2-per-million-tokens-a-fifth-of-openai-and-anthropic-s-10-flagships",
+     "s": "The Inference",
+     "d": "Oct 14",
+     "dot": "dot-price"
+    },
+    {
+     "t": "AI API price tracker: OpenAI, Anthropic, Google per 1M tokens",
+     "u": "https://thesuperintelligencenews.com/articles/frontier-ai-api-price-tracker-openai-anthropic-google-per-million-tokens",
+     "s": "The Superintelligence News",
+     "d": "Oct 14",
+     "dot": "dot-price"
+    },
+    {
      "t": "Nvidia AI servers face price hikes tied to memory costs, up more than 15% from early next year",
      "u": "https://dailysynapse.com/news/nvidia-ai-server-prices-face-memory-cost-hikes/",
      "s": "DailySynapse",
@@ -1311,6 +1360,13 @@
      "s": "iAfrica",
      "d": "Oct 10",
      "dot": "dot-access"
+    },
+    {
+     "t": "Is the business of frontier AI companies selling tokens? Value capture and equity prices",
+     "u": "https://arxiv.org/abs/2610.14145",
+     "s": "arXiv econ.GN",
+     "d": "Oct 9",
+     "dot": "dot-arxiv"
     },
     {
      "t": "Best unlocked phones 2026: 7 picks after the price hikes",
@@ -2753,9 +2809,23 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "Senate committee shoots down Nyamu's Bill on AI, warns of Sh5 million fines",
+     "u": "https://www.the-star.co.ke/news/2026-10-15-senate-committee-shoots-down-nyamus-bill-on-ai",
+     "s": "The Star Kenya",
+     "d": "Oct 15",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Microsoft launches Maia 300 for Azure cloud AI workloads",
      "u": "https://dailysynapse.com/news/microsoft-launches-maia-300-for-azure-cloud-ai-workloads/",
      "s": "DailySynapse",
+     "d": "Oct 14",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Building Africa's digital future: Vertiv's Wojtek Piorko on AI, data centres and infrastructure readiness",
+     "u": "https://techcabal.com/2026/10/14/building-africas-digital-future-vertivs-wojtek-piorko-on-ai-data-centres-and-infrastructure-readiness/",
+     "s": "TechCabal",
      "d": "Oct 14",
      "dot": "dot-infra"
     },
