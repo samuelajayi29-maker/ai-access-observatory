@@ -152,3 +152,41 @@
 @media(min-width:761px){.evidence-site .masthead__inner{display:grid;grid-template-columns:auto minmax(0,1fr);grid-template-rows:5.5rem 3.5rem;gap:0;align-items:center}.evidence-site .evidence-wordmark{grid-column:1;grid-row:1}.evidence-site .evidence-nav{display:contents!important}.evidence-site .evidence-nav-top{grid-column:2;grid-row:1;display:flex;justify-content:flex-end;align-items:center}.evidence-site .evidence-nav-bottom{position:static;grid-column:1/-1;grid-row:2;height:100%;min-height:0;display:flex;align-items:center;border-top:1px solid var(--rule)}.evidence-site .nav-toggle{display:none}}
 @media(max-width:1050px) and (min-width:761px){.evidence-site .evidence-wordmark{font-size:1.7rem}.evidence-site .evidence-mark{width:2.7rem;height:2.7rem}.evidence-site .nav a{font-size:.8rem}.evidence-site .evidence-nav-bottom{gap:1rem}}
 @media(max-width:760px){.evidence-site .masthead__inner{display:flex;flex-wrap:wrap;padding-block:1rem;align-items:center}.evidence-site .evidence-wordmark{font-size:1.45rem}.evidence-site .evidence-mark{width:2.3rem;height:2.3rem}.evidence-site .evidence-nav.is-open{display:block!important}.evidence-site .evidence-nav-top,.evidence-site .evidence-nav-bottom{position:static;display:flex;flex-wrap:wrap;gap:1rem;padding:.75rem 0;height:auto}.evidence-site .theme-picker{width:100%;margin-top:1rem;justify-content:space-between}.evidence-pagehead{grid-template-columns:1fr;gap:1rem}.evidence-site .guided-explorer,.evidence-site .resource-tools{padding:1rem}}
+
+/* Motion and map detail use existing editorial fonts and theme tokens. */
+.map__toolbar { display:flex; align-items:end; flex-wrap:wrap; gap:var(--s-3); margin-block:var(--s-4); }
+.map__toolbar label { display:grid; gap:var(--s-1); font-family:var(--font-text); font-size:var(--step--1); flex:1; min-width:min(100%,var(--size-12rem)); }
+.map__toolbar select { width:100%; min-height:var(--control-height); background:var(--paper); color:var(--ink); border:var(--line-thin) solid var(--rule-strong); border-radius:var(--radius-control); padding:var(--s-2) var(--s-3); font:inherit; }
+.map__toolbar button { min-height:var(--control-height); padding:var(--s-2) var(--s-3); border:var(--line-thin) solid var(--rule-strong); background:var(--paper); color:var(--ink); border-radius:var(--radius-control); font-family:var(--font-text); }
+.map__toolbar button:disabled { opacity:.5; cursor:default; }
+.map__canvas { position:relative; min-width:0; align-self:start; background:var(--paper-sunk); border:var(--line-thin) solid var(--rule); border-radius:var(--radius-control); overflow:hidden; }
+.map__svg { border:0; background:transparent; }
+.map__hover { position:absolute; inset:var(--s-3) auto auto var(--s-3); pointer-events:none; padding:var(--s-2) var(--s-3); background:var(--paper); color:var(--ink); font:500 var(--step--1) var(--font-text); border:var(--line-thin) solid var(--rule); border-radius:var(--radius-small); z-index:1; }
+.map__c { fill-rule:evenodd; pointer-events:visibleFill; vector-effect:non-scaling-stroke; transition:fill var(--duration-value) var(--ease-standard),stroke var(--duration-value) var(--ease-standard); }
+.map__mark { pointer-events:visiblePainted; vector-effect:non-scaling-stroke; }
+/* A browser focus outline is the bounding rectangle. This stroke follows the border. */
+.map__c,.map__mark,.map__c:focus,.map__mark:focus { outline:none; stroke-width:var(--map-border-width); }
+.map__c:hover,.map__mark:hover { stroke:color-mix(in srgb,var(--action) 55%,var(--paper)); }
+.map [data-iso][aria-pressed=true] { stroke:var(--action); stroke-width:var(--map-selection-width); }
+.map [data-iso]:focus-visible { outline:none; stroke:var(--action); stroke-width:var(--line-strong); stroke-dasharray:var(--s-1) var(--line-strong); }
+.map__hatch-ground { fill:var(--paper-sunk); }.map__hatch-line { stroke:var(--rule-strong); stroke-width:var(--line-thin); }
+.map__c--none,.map__mark--none { fill:url(#map-no-information); }
+.map__sw--none { background:repeating-linear-gradient(135deg,var(--paper-sunk) 0 var(--s-1),var(--rule-strong) var(--s-1) calc(var(--s-1) + var(--line-thin))); }
+.map__measure { margin:0 0 var(--s-1); font-family:var(--font-text); font-size:var(--step--1); color:var(--ink-secondary); }
+.map__row.is-current { border-top-color:var(--action); }
+.map__row.is-current h4 { color:var(--action); }
+.map__evidence { margin-top:var(--s-2); font-size:var(--step--1); overflow-wrap:anywhere; }
+.map__evidence p { margin-block:var(--s-2); }
+.map__journey { display:flex; flex-wrap:wrap; gap:var(--s-3); margin-top:var(--s-4); font-family:var(--font-text); }
+.map__country-option[aria-pressed=true] { color:var(--ink); text-decoration:underline; text-underline-offset:var(--s-1); }
+.country-journey { display:flex; flex-wrap:wrap; align-items:center; gap:var(--s-3) var(--s-6); padding-block:var(--s-3); margin-block:var(--s-4); font:var(--step--1) var(--font-text); border-block:var(--line-thin) solid var(--rule); }
+.country-journey[hidden] { display:none; }.country-journey__context { display:flex; flex-wrap:wrap; gap:var(--s-2); }.country-journey__context span { color:var(--ink-note); }
+.country-journey__links { display:flex; flex-wrap:wrap; align-items:center; gap:var(--s-3); margin-left:auto; }
+.country-journey__links button { color:var(--ink-note); background:transparent; border:0; padding:var(--s-1); font:inherit; text-decoration:underline; text-underline-offset:var(--s-1); }
+.interaction-feedback { position:fixed; z-index:10; inset:auto var(--s-4) var(--s-4) auto; max-width:calc(100% - var(--s-8)); margin:0; padding:var(--s-3) var(--s-4); border:var(--line-thin) solid var(--rule-strong); background:var(--paper); color:var(--ink); border-radius:var(--radius-control); font:var(--step--1) var(--font-text); pointer-events:none; }
+.interaction-feedback:empty { display:none; }
+button,a,summary { transition:background-color var(--duration-value) var(--ease-standard),border-color var(--duration-value) var(--ease-standard),color var(--duration-value) var(--ease-standard); }
+.measure-compare__track i { transition:width var(--duration-value) var(--ease-standard); }
+@media(max-width:600px) { .country-journey__links { margin-left:0; }.map__toolbar button { flex:1; }.map__panel { min-height:0; } }
+@media(pointer:coarse) { .country-journey a,.country-journey button,.map__country-option { min-height:var(--control-height); display:inline-flex; align-items:center; } }
+@media(prefers-reduced-motion:reduce) { .map__c,.map__mark,.measure-compare__track i,button,a,summary { transition:none; } }

@@ -54,7 +54,9 @@
   const host=document.querySelector('[data-country-comparison]'),node=document.getElementById('chart-builder-data');
   if(!host || !node)return;
   const data=JSON.parse(node.textContent), history=JSON.parse(document.getElementById('context-history-data').textContent);
-  const params=new URLSearchParams(location.search), explicit=(params.get('measures')||params.get('chart')||'').split(',');
+  const params=new URLSearchParams(location.search);
+  if(!params.has('country')&&!params.has('countries') && global.IAExperience){await global.IAExperience.ready;const focus=global.IAExperience.current();if(focus)params.set('country',focus.iso);}
+  const explicit=(params.get('measures')||params.get('chart')||'').split(',');
   const singleHistory=params.get('display')==='line'?data.datasets.find(s=>explicit.includes(s.id)&&s.history_verified&&s.scope==='single-country'):null;
   const all=data.datasets.filter(s=>eligible(s)||s===singleHistory), hist=Object.fromEntries(history.series.map(s=>[s.id,s]));
   async function loadHistory(){if(history.series.length)return;const response=await fetch('data/context-history.json');if(!response.ok)throw Error('History could not load. Try again.');const loaded=await response.json();history.series=loaded.series;loaded.series.forEach(s=>{hist[s.id]=s;(s.aliases||[]).forEach(id=>hist[id]=s);});}
@@ -102,7 +104,7 @@
   }
   function countryPicker(){
     const list=get('[data-cc-countries]'),query=get('[data-cc-country-search]').value.toLowerCase();list.replaceChildren();
-    countries.filter(c=>(c.name+' '+c.iso3).toLowerCase().includes(query)).forEach(c=>{const label=html('label'),input=html('input');input.type='checkbox';input.checked=selected.has(c.iso3);input.addEventListener('change',()=>{if(input.checked)selected.add(c.iso3);else selected.delete(c.iso3);render();});label.append(input,html('span',c.name));list.appendChild(label);});
+    countries.filter(c=>(c.name+' '+c.iso3).toLowerCase().includes(query)).forEach(c=>{const label=html('label'),input=html('input');input.type='checkbox';input.checked=selected.has(c.iso3);input.addEventListener('change',()=>{if(input.checked){selected.add(c.iso3);global.IAExperience?.select(c.iso3,c.name);}else selected.delete(c.iso3);render();});label.append(input,html('span',c.name));list.appendChild(label);});
   }
   function bounds(){const years=measures.flatMap(id=>hist[id]?Object.values(hist[id].points).flat().filter(p=>p[1]!==null).map(p=>p[0]):all.find(s=>s.id===id).rows.map(r=>Number(String(r.period).match(/\d{4}/)?.[0])).filter(Number.isFinite));return years.length?[Math.floor(Math.min(...years)),Math.floor(Math.max(...years))]:[Number(data.generated_at.slice(0,4)),Number(data.generated_at.slice(0,4))];}
   function configure(){
@@ -127,7 +129,7 @@
     get('[data-cc-summary]').textContent=picked.length+' countries · '+sets.length+' measures. '+sets.map(d=>d.s.title+': '+d.rows.filter(r=>finite(r.value)).length+'/'+d.rows.length+' selected observations have values.').join(' ')+(picked.length>15?' Large selection: scroll across the chart; use fewer countries to inspect individual lines.':'');
     host.querySelectorAll('[data-cc-export],[data-cc-share]').forEach(b=>b.disabled=!picked.length || !sets.length);
     if(!picked.length || !sets.length){svg=null;preview.textContent='Select at least one measure and one country.';get('[data-cc-table]').replaceChildren();get('[data-cc-page]').textContent='No selected values';message.textContent='';return;}
-    svg=draw(picked,sets);transition(svg);tablePage=0;table();
+    svg=draw(picked,sets);svg.setAttribute('data-motion-context',display.value+':'+sets.map(d=>d.s.id+':'+d.s.unit).join('|'));transition(svg);tablePage=0;table();
   }
   function draw(picked,datasets){
     if(display.value==='vertical')return drawLanes(picked,datasets);
@@ -185,7 +187,7 @@
             if(finite(r.value)){
               const status=r.status.toLowerCase(),solid=['measured','derived','operational'].includes(status),attrs={x:x-barWidth*.44,y:Math.min(pos(r.value),zero),width:barWidth*.88,height:Math.max(0.7,Math.abs(pos(r.value)-zero)),fill:solid?colour:status.includes('proposal')?'url(#cc-missing)':paper,stroke:colour,'stroke-width':1.4};
               if(/forecast|projection/.test(status))attrs['stroke-dasharray']='5 3';
-              const bar=el('rect',Object.assign(attrs,{'data-bar-reveal':panelIndex,'data-zero':zero}));bar.appendChild(el('title',{},c.name+': '+format.format(r.value)+' '+d.s.unit+' · '+r.period+' · '+r.status));panel.appendChild(bar);
+              const bar=el('rect',Object.assign(attrs,{'data-bar-reveal':panelIndex,'data-zero':zero,'data-motion-key':d.s.id+':'+c.iso3}));bar.appendChild(el('title',{},c.name+': '+format.format(r.value)+' '+d.s.unit+' · '+r.period+' · '+r.status));panel.appendChild(bar);
               text((/modelled/.test(status)?'∿ ': /derived/.test(status)?'ƒ ':'')+valueLabel(r),x,r.value<0?pos(r.value)+17:pos(r.value)-8,10,panel,{'text-anchor':'middle',transform:picked.length>20?'rotate(-65 '+x+' '+(r.value<0?pos(r.value)+17:pos(r.value)-8)+')':''});
             } else {panel.appendChild(el('rect',{x:x-barWidth*.44,y:zero-4,width:barWidth*.88,height:8,fill:'url(#cc-missing)',stroke:rule}));text('N/I',x,zero-10,9,panel,{'text-anchor':'middle'});}
           });
@@ -231,7 +233,7 @@
       picked.forEach((c,i)=>{const r=d.rows.find(r=>r.country===c.iso3),yy=top+i*rowHeight;
         if(j===0){text(c.name,30,yy+16,13);root.appendChild(el('line',{x1:30,x2:width-30,y1:yy+43,y2:yy+43,stroke:rule,'stroke-opacity':.4}));}
         if(!finite(r.value)){text('– No information',x,yy+17,12);return;}
-        const status=String(r.status).toLowerCase(),solid=/measured|observed|derived|operational/.test(status),bar=el('rect',{x:Math.min(pos(0),pos(r.value)),y:yy+3,width:Math.max(1,Math.abs(pos(r.value)-pos(0))),height:13,fill:solid?palette[j]:paper,stroke:palette[j],'stroke-dasharray':/forecast|projection/.test(status)?'4 3':''});
+        const status=String(r.status).toLowerCase(),solid=/measured|observed|derived|operational/.test(status),bar=el('rect',{x:Math.min(pos(0),pos(r.value)),y:yy+3,width:Math.max(1,Math.abs(pos(r.value)-pos(0))),height:13,'data-motion-key':d.s.id+':'+c.iso3,fill:solid?palette[j]:paper,stroke:palette[j],'stroke-dasharray':/forecast|projection/.test(status)?'4 3':''});
         bar.appendChild(el('title',{},c.name+': '+valueLabel(r)+' '+d.s.unit+' · '+r.period+' · '+r.status));root.appendChild(bar);text(valueLabel(r)+' · '+r.period,x,yy+34,11);bar.appendChild(el('desc',{},r.status));
       });
     });
@@ -242,12 +244,22 @@
     root.setAttribute('height',Math.ceil(y));root.setAttribute('viewBox','0 0 '+width+' '+Math.ceil(y));bg.setAttribute('height',Math.ceil(y));return root;
   }
   function transition(next){
-    const old=preview.lastElementChild,version=++drawVersion;
-    Array.from(preview.children).forEach(child=>{if(child!==old)child.remove();});
-    if(first){preview.replaceChildren(next);first=false;if(!reduced() && global.IntersectionObserver){observer=new IntersectionObserver(entries=>{if(entries.some(e=>e.isIntersecting)){observer.disconnect();if(version!==drawVersion)return;next.querySelectorAll('[data-comparison-panel]').forEach((p,i)=>p.animate([{opacity:0},{opacity:1}],{duration:parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--duration-draw'))||900,delay:i*90,easing:getComputedStyle(document.documentElement).getPropertyValue('--ease-standard').trim()||'cubic-bezier(.2,0,0,1)'}));next.querySelectorAll('[data-bar-reveal]').forEach(b=>b.animate([{height:'0px',y:b.getAttribute('data-zero')+'px'},{height:b.getAttribute('height')+'px',y:b.getAttribute('y')+'px'}],{duration:parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--duration-draw'))||900,delay:Number(b.getAttribute('data-bar-reveal'))*90,easing:'cubic-bezier(.2,0,0,1)'}));next.querySelectorAll('[data-line-reveal]').forEach(r=>r.animate([{width:'0px'},{width:r.getAttribute('width')+'px'}],{duration:parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--duration-draw'))||900,easing:'cubic-bezier(.2,0,0,1)'}));}},{threshold:.1});observer.observe(preview);}return;}
+    const old=preview.lastElementChild;
     if(observer)observer.disconnect();
-    if(old && old.tagName.toLowerCase()==='svg' && !reduced() && old.animate){old.setAttribute('aria-hidden','true');preview.appendChild(next);old.style.position='absolute';old.style.left='0';old.style.top='0';old.style.pointerEvents='none';const duration=parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--duration-value'))||400;old.animate([{opacity:1},{opacity:0}],{duration}).finished.then(()=>old.remove(),()=>old.remove());next.animate([{opacity:0},{opacity:1}],{duration,easing:'cubic-bezier(.2,0,0,1)'});}else preview.replaceChildren(next);
+    const compatible=old && old.getAttribute('data-motion-context')===next.getAttribute('data-motion-context');
+    const prior=new Map(compatible ? [...old.querySelectorAll('[data-motion-key]')].map(mark=>[mark.dataset.motionKey,mark]) : []);
+    preview.replaceChildren(next);
+    if(!first && !reduced()){
+      next.querySelectorAll('[data-motion-key]').forEach(mark=>{
+        const before=prior.get(mark.dataset.motionKey);if(!before || !mark.animate)return;
+        const a={},b={};['x','y','width','height'].forEach(key=>{a[key]=before.getAttribute(key)+'px';b[key]=mark.getAttribute(key)+'px';});
+        mark.animate([a,b],{duration:360,easing:'cubic-bezier(.2,0,0,1)'});
+      });
+      if(!compatible)global.IAExperience?.reveal(next);
+    }
+    first=false;
   }
+
   function table(){
     const table=get('[data-cc-table]');table.replaceChildren();const head=html('thead'),header=html('tr');['Measure','Country','Value','Unit','Year','Status','Source','Notes'].forEach(t=>header.appendChild(html('th',t)));head.appendChild(header);table.appendChild(head);const body=html('tbody');
     const values=records(sets);get('[data-cc-page]').textContent='Values '+(tablePage*200+1)+'–'+Math.min(values.length,(tablePage+1)*200)+' of '+values.length;get('[data-cc-prev]').disabled=tablePage===0;get('[data-cc-next]').disabled=(tablePage+1)*200>=values.length;

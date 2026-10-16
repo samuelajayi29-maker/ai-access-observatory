@@ -298,7 +298,9 @@
           detail.textContent = monthly + share;
           item.appendChild(detail);
           var local = row.localPrice === 'yes' ? 'Local price listed' : row.localPrice === 'no' ? 'No local price listed' : 'Local price information unclear';
-          addText(item, 'span', 'explorer-list__detail', local + (row.localAmount ? ': ' + row.localCurrency + ' ' + row.localAmount : ''));
+          addText(item, 'span', 'explorer-list__detail', row.localAmount
+            ? 'Listed currency amount: ' + (row.currency || 'Currency not stated') + ' ' + row.localAmount + ' · Source-reported; local checkout not independently verified.'
+            : local);
           var source = document.createElement('span');
           source.className = 'explorer-source';
           addText(source, 'span', '', row.date ? 'Recorded ' + row.date + ' · ' : '');
@@ -466,7 +468,7 @@
         track.appendChild(bar);
         button.appendChild(track);
         addText(button, 'span', 'country-ranking__value', metric.unit === '%' ? Number(row.value).toFixed(1) + '%' : Number(row.value).toFixed(3));
-        button.addEventListener('click', function () { selectedIso = row.iso; render(); });
+        button.addEventListener('click', function () { selectedIso = row.iso; if(window.IAExperience) window.IAExperience.select(row.iso,row.name); render(); });
         item.appendChild(button);
         ranking.appendChild(item);
       });
@@ -484,7 +486,7 @@
         addText(button, 'span', 'country-ranking__rank', '—');
         addText(button, 'span', 'country-ranking__name', country.name);
         addText(button, 'span', 'country-ranking__value', 'No information');
-        button.addEventListener('click', function () { selectedIso = country.iso3; render(); });
+        button.addEventListener('click', function () { selectedIso = country.iso3; if(window.IAExperience) window.IAExperience.select(country.iso3,country.name); render(); });
         item.appendChild(button);
         missingList.appendChild(item);
       });
@@ -506,6 +508,7 @@
       currentMetric = button.getAttribute('data-jobs-metric');
       render();
     });
+    document.addEventListener('ia:ready', function(event) { if(data.countries.some(function(c){return c.iso3===event.detail.iso;})){selectedIso=event.detail.iso;render();} });
     search.addEventListener('input', render);
     render();
   }
@@ -726,6 +729,9 @@
     wireTabs(root, '[data-infra-view]', function (button) {
       activeView = button.getAttribute('data-infra-view');
       render();
+    });
+    document.addEventListener('ia:ready', function(event) {
+      if(countrySelect.value===event.detail.iso){activeView='country';render();}
     });
     countrySelect.addEventListener('change', render);
     statusSelect.addEventListener('change', render);

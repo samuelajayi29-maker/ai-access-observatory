@@ -7,6 +7,8 @@
    ========================================================================= */
 
 :root {
+  --map-border-width: 0.7px;
+  --map-selection-width: 1.2px;
   --facility-map-width: 42rem;
   --facility-grid-min: 18rem;
   color-scheme: light;
