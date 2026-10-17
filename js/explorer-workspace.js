@@ -22,8 +22,8 @@
     host.querySelectorAll('.explorer-mode').forEach(e=>e.remove());
     const sources=[];host.querySelectorAll('script[src]').forEach(s=>{sources.push(s.getAttribute('src'));s.remove();});
     if(view==='charts')sources.push('js/chart-builder.js','js/published-presets.js');
-    for(const src of [...new Set(sources)])await new Promise((resolve,reject)=>{const s=document.createElement('script');s.src=src;s.onload=resolve;s.onerror=reject;document.body.appendChild(s);});
+    for(const src of [...new Set(sources)])await new Promise((resolve,reject)=>{const s=document.createElement('script');s.src=src+(src.includes('?')?'&':'?')+'v=20261017-complete';s.onload=resolve;s.onerror=reject;document.body.appendChild(s);});
     status.textContent=retired?'This saved measure has been consolidated. Its dated observations are shown under the original measure.':scopeNotice;
     if(location.hash && location.hash!=='#make-a-chart')document.getElementById(location.hash.slice(1))?.scrollIntoView();
-  } catch(e) {status.textContent='This view could not load. Please reload, or use the downloads below.';const a=document.createElement('a');a.href='data/chart-catalog.json';a.textContent='Download chart data';host.replaceChildren(a);}
+  } catch(e) {status.textContent='This view could not load. Your saved selections remain in the address. Retry loading or download the source data.';const retry=document.createElement('button');retry.type='button';retry.textContent='Retry this view';retry.addEventListener('click',()=>location.reload());const a=document.createElement('a');a.href='data/chart-catalog.json';a.textContent='Download chart data';host.replaceChildren(retry,a);}
 })();

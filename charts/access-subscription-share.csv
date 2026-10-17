@@ -1,184 +1,184 @@
 Provider,Tier,Country,Price USD/month,Share of monthly income,Local price published,Local currency,Evidence
-OpenAI,Go,Côte d'Ivoire,8,3.4532,yes,NGN,derived
-OpenAI,Go,Egypt,8,2.9448,yes,NGN,derived
-OpenAI,Go,Ethiopia,8,8.6486,yes,NGN,derived
-OpenAI,Go,Ghana,8,3.6502,yes,NGN,derived
-OpenAI,Go,Kenya,8,4.3636,yes,NGN,derived
-OpenAI,Go,Morocco,8,2.2018,yes,NGN,derived
+OpenAI,Go,Côte d'Ivoire,8,3.4532,unclear,,derived
+OpenAI,Go,Egypt,8,2.9448,unclear,,derived
+OpenAI,Go,Ethiopia,8,8.6486,unclear,,derived
+OpenAI,Go,Ghana,8,3.6502,unclear,,derived
+OpenAI,Go,Kenya,8,4.3636,unclear,,derived
+OpenAI,Go,Morocco,8,2.2018,unclear,,derived
 OpenAI,Go,Nigeria,8,7.0588,yes,NGN,derived
-OpenAI,Go,Rwanda,8,8.3478,yes,NGN,derived
-OpenAI,Go,Senegal,8,5.3933,yes,NGN,derived
-OpenAI,Go,South Africa,8,1.5311,yes,NGN,derived
-Google,Google AI Plus,Côte d'Ivoire,4.99,2.154,yes,NGN,derived
-Google,Google AI Plus,Egypt,4.99,1.8368,yes,NGN,derived
-Google,Google AI Plus,Ethiopia,4.99,5.3946,yes,NGN,derived
-Google,Google AI Plus,Ghana,4.99,2.2768,yes,NGN,derived
-Google,Google AI Plus,Kenya,4.99,2.7218,yes,NGN,derived
-Google,Google AI Plus,Morocco,4.99,1.3734,yes,NGN,derived
+OpenAI,Go,Rwanda,8,8.3478,unclear,,derived
+OpenAI,Go,Senegal,8,5.3933,unclear,,derived
+OpenAI,Go,South Africa,8,1.5311,unclear,,derived
+Google,Google AI Plus,Côte d'Ivoire,4.99,2.154,unclear,,derived
+Google,Google AI Plus,Egypt,4.99,1.8368,unclear,,derived
+Google,Google AI Plus,Ethiopia,4.99,5.3946,unclear,,derived
+Google,Google AI Plus,Ghana,4.99,2.2768,unclear,,derived
+Google,Google AI Plus,Kenya,4.99,2.7218,unclear,,derived
+Google,Google AI Plus,Morocco,4.99,1.3734,unclear,,derived
 Google,Google AI Plus,Nigeria,4.99,4.4029,yes,NGN,derived
-Google,Google AI Plus,Rwanda,4.99,5.207,yes,NGN,derived
-Google,Google AI Plus,Senegal,4.99,3.364,yes,NGN,derived
-Google,Google AI Plus,South Africa,4.99,0.955,yes,NGN,derived
-Google,Google AI Pro,Côte d'Ivoire,19.99,8.6288,yes,NGN,derived
-Google,Google AI Pro,Egypt,19.99,7.3583,yes,NGN,derived
-Google,Google AI Pro,Ethiopia,19.99,21.6108,yes,NGN,derived
-Google,Google AI Pro,Ghana,19.99,9.1209,yes,NGN,derived
-Google,Google AI Pro,Kenya,19.99,10.9036,yes,NGN,derived
-Google,Google AI Pro,Morocco,19.99,5.5018,yes,NGN,derived
+Google,Google AI Plus,Rwanda,4.99,5.207,unclear,,derived
+Google,Google AI Plus,Senegal,4.99,3.364,unclear,,derived
+Google,Google AI Plus,South Africa,4.99,0.955,unclear,,derived
+Google,Google AI Pro,Côte d'Ivoire,19.99,8.6288,unclear,,derived
+Google,Google AI Pro,Egypt,19.99,7.3583,unclear,,derived
+Google,Google AI Pro,Ethiopia,19.99,21.6108,unclear,,derived
+Google,Google AI Pro,Ghana,19.99,9.1209,unclear,,derived
+Google,Google AI Pro,Kenya,19.99,10.9036,unclear,,derived
+Google,Google AI Pro,Morocco,19.99,5.5018,unclear,,derived
 Google,Google AI Pro,Nigeria,19.99,17.6382,yes,NGN,derived
-Google,Google AI Pro,Rwanda,19.99,20.8591,yes,NGN,derived
-Google,Google AI Pro,Senegal,19.99,13.4764,yes,NGN,derived
-Google,Google AI Pro,South Africa,19.99,3.8258,yes,NGN,derived
-Google,Google AI Ultra 20x,Côte d'Ivoire,199.99,86.3266,yes,NGN,derived
-Google,Google AI Ultra 20x,Egypt,199.99,73.616,yes,NGN,derived
-Google,Google AI Ultra 20x,Ethiopia,199.99,216.2054,yes,NGN,derived
-Google,Google AI Ultra 20x,Ghana,199.99,91.2502,yes,NGN,derived
-Google,Google AI Ultra 20x,Kenya,199.99,109.0855,yes,NGN,derived
-Google,Google AI Ultra 20x,Morocco,199.99,55.0431,yes,NGN,derived
+Google,Google AI Pro,Rwanda,19.99,20.8591,unclear,,derived
+Google,Google AI Pro,Senegal,19.99,13.4764,unclear,,derived
+Google,Google AI Pro,South Africa,19.99,3.8258,unclear,,derived
+Google,Google AI Ultra 20x,Côte d'Ivoire,199.99,86.3266,unclear,,derived
+Google,Google AI Ultra 20x,Egypt,199.99,73.616,unclear,,derived
+Google,Google AI Ultra 20x,Ethiopia,199.99,216.2054,unclear,,derived
+Google,Google AI Ultra 20x,Ghana,199.99,91.2502,unclear,,derived
+Google,Google AI Ultra 20x,Kenya,199.99,109.0855,unclear,,derived
+Google,Google AI Ultra 20x,Morocco,199.99,55.0431,unclear,,derived
 Google,Google AI Ultra 20x,Nigeria,199.99,176.4618,yes,NGN,derived
-Google,Google AI Ultra 20x,Rwanda,199.99,208.6852,yes,NGN,derived
-Google,Google AI Ultra 20x,Senegal,199.99,134.8247,yes,NGN,derived
-Google,Google AI Ultra 20x,South Africa,199.99,38.2756,yes,NGN,derived
-Google,Google AI Ultra 5x,Côte d'Ivoire,99.99,43.1612,yes,NGN,derived
-Google,Google AI Ultra 5x,Egypt,99.99,36.8061,yes,NGN,derived
-Google,Google AI Ultra 5x,Ethiopia,99.99,108.0973,yes,NGN,derived
-Google,Google AI Ultra 5x,Ghana,99.99,45.6228,yes,NGN,derived
-Google,Google AI Ultra 5x,Kenya,99.99,54.54,yes,NGN,derived
-Google,Google AI Ultra 5x,Morocco,99.99,27.5202,yes,NGN,derived
+Google,Google AI Ultra 20x,Rwanda,199.99,208.6852,unclear,,derived
+Google,Google AI Ultra 20x,Senegal,199.99,134.8247,unclear,,derived
+Google,Google AI Ultra 20x,South Africa,199.99,38.2756,unclear,,derived
+Google,Google AI Ultra 5x,Côte d'Ivoire,99.99,43.1612,unclear,,derived
+Google,Google AI Ultra 5x,Egypt,99.99,36.8061,unclear,,derived
+Google,Google AI Ultra 5x,Ethiopia,99.99,108.0973,unclear,,derived
+Google,Google AI Ultra 5x,Ghana,99.99,45.6228,unclear,,derived
+Google,Google AI Ultra 5x,Kenya,99.99,54.54,unclear,,derived
+Google,Google AI Ultra 5x,Morocco,99.99,27.5202,unclear,,derived
 Google,Google AI Ultra 5x,Nigeria,99.99,88.2265,yes,NGN,derived
-Google,Google AI Ultra 5x,Rwanda,99.99,104.3374,yes,NGN,derived
-Google,Google AI Ultra 5x,Senegal,99.99,67.409,yes,NGN,derived
-Google,Google AI Ultra 5x,South Africa,99.99,19.1368,yes,NGN,derived
-Perplexity,Max,Côte d'Ivoire,200,86.3309,yes,NGN,derived
-Perplexity,Max,Egypt,200,73.6196,yes,NGN,derived
-Perplexity,Max,Ethiopia,200,216.2162,yes,NGN,derived
-Perplexity,Max,Ghana,200,91.2548,yes,NGN,derived
-Perplexity,Max,Kenya,200,109.0909,yes,NGN,derived
-Perplexity,Max,Morocco,200,55.0459,yes,NGN,derived
+Google,Google AI Ultra 5x,Rwanda,99.99,104.3374,unclear,,derived
+Google,Google AI Ultra 5x,Senegal,99.99,67.409,unclear,,derived
+Google,Google AI Ultra 5x,South Africa,99.99,19.1368,unclear,,derived
+Perplexity,Max,Côte d'Ivoire,200,86.3309,unclear,,derived
+Perplexity,Max,Egypt,200,73.6196,unclear,,derived
+Perplexity,Max,Ethiopia,200,216.2162,unclear,,derived
+Perplexity,Max,Ghana,200,91.2548,unclear,,derived
+Perplexity,Max,Kenya,200,109.0909,unclear,,derived
+Perplexity,Max,Morocco,200,55.0459,unclear,,derived
 Perplexity,Max,Nigeria,200,176.4706,yes,NGN,derived
-Perplexity,Max,Rwanda,200,208.6957,yes,NGN,derived
-Perplexity,Max,Senegal,200,134.8315,yes,NGN,derived
-Perplexity,Max,South Africa,200,38.2775,yes,NGN,derived
-Anthropic,Max 20x,Côte d'Ivoire,200,86.3309,yes,NGN,derived
-Anthropic,Max 20x,Egypt,200,73.6196,yes,NGN,derived
-Anthropic,Max 20x,Ethiopia,200,216.2162,yes,NGN,derived
-Anthropic,Max 20x,Ghana,200,91.2548,yes,NGN,derived
-Anthropic,Max 20x,Kenya,200,109.0909,yes,NGN,derived
-Anthropic,Max 20x,Morocco,200,55.0459,yes,NGN,derived
+Perplexity,Max,Rwanda,200,208.6957,unclear,,derived
+Perplexity,Max,Senegal,200,134.8315,unclear,,derived
+Perplexity,Max,South Africa,200,38.2775,unclear,,derived
+Anthropic,Max 20x,Côte d'Ivoire,200,86.3309,unclear,,derived
+Anthropic,Max 20x,Egypt,200,73.6196,unclear,,derived
+Anthropic,Max 20x,Ethiopia,200,216.2162,unclear,,derived
+Anthropic,Max 20x,Ghana,200,91.2548,unclear,,derived
+Anthropic,Max 20x,Kenya,200,109.0909,unclear,,derived
+Anthropic,Max 20x,Morocco,200,55.0459,unclear,,derived
 Anthropic,Max 20x,Nigeria,200,176.4706,yes,NGN,derived
-Anthropic,Max 20x,Rwanda,200,208.6957,yes,NGN,derived
-Anthropic,Max 20x,Senegal,200,134.8315,yes,NGN,derived
-Anthropic,Max 20x,South Africa,200,38.2775,yes,NGN,derived
-Anthropic,Max 5x,Côte d'Ivoire,100,43.1655,yes,NGN,derived
-Anthropic,Max 5x,Egypt,100,36.8098,yes,NGN,derived
-Anthropic,Max 5x,Ethiopia,100,108.1081,yes,NGN,derived
-Anthropic,Max 5x,Ghana,100,45.6274,yes,NGN,derived
-Anthropic,Max 5x,Kenya,100,54.5455,yes,NGN,derived
-Anthropic,Max 5x,Morocco,100,27.5229,yes,NGN,derived
+Anthropic,Max 20x,Rwanda,200,208.6957,unclear,,derived
+Anthropic,Max 20x,Senegal,200,134.8315,unclear,,derived
+Anthropic,Max 20x,South Africa,200,38.2775,unclear,,derived
+Anthropic,Max 5x,Côte d'Ivoire,100,43.1655,unclear,,derived
+Anthropic,Max 5x,Egypt,100,36.8098,unclear,,derived
+Anthropic,Max 5x,Ethiopia,100,108.1081,unclear,,derived
+Anthropic,Max 5x,Ghana,100,45.6274,unclear,,derived
+Anthropic,Max 5x,Kenya,100,54.5455,unclear,,derived
+Anthropic,Max 5x,Morocco,100,27.5229,unclear,,derived
 Anthropic,Max 5x,Nigeria,100,88.2353,yes,NGN,derived
-Anthropic,Max 5x,Rwanda,100,104.3478,yes,NGN,derived
-Anthropic,Max 5x,Senegal,100,67.4157,yes,NGN,derived
-Anthropic,Max 5x,South Africa,100,19.1388,yes,NGN,derived
-Microsoft,Microsoft 365 Family (includes limited Copilot AI),Côte d'Ivoire,12.99,5.6072,no,,derived
-Microsoft,Microsoft 365 Family (includes limited Copilot AI),Egypt,12.99,4.7816,no,,derived
-Microsoft,Microsoft 365 Family (includes limited Copilot AI),Ethiopia,12.99,14.0432,no,,derived
-Microsoft,Microsoft 365 Family (includes limited Copilot AI),Ghana,12.99,5.927,no,,derived
-Microsoft,Microsoft 365 Family (includes limited Copilot AI),Kenya,12.99,7.0855,no,,derived
-Microsoft,Microsoft 365 Family (includes limited Copilot AI),Morocco,12.99,3.5752,no,,derived
-Microsoft,Microsoft 365 Family (includes limited Copilot AI),Nigeria,12.99,11.4618,no,,derived
-Microsoft,Microsoft 365 Family (includes limited Copilot AI),Rwanda,12.99,13.5548,no,,derived
-Microsoft,Microsoft 365 Family (includes limited Copilot AI),Senegal,12.99,8.7573,no,,derived
-Microsoft,Microsoft 365 Family (includes limited Copilot AI),South Africa,12.99,2.4861,no,,derived
-Microsoft,Microsoft 365 Personal (includes limited Copilot AI),Côte d'Ivoire,9.99,4.3122,no,,derived
-Microsoft,Microsoft 365 Personal (includes limited Copilot AI),Egypt,9.99,3.6773,no,,derived
-Microsoft,Microsoft 365 Personal (includes limited Copilot AI),Ethiopia,9.99,10.8,no,,derived
-Microsoft,Microsoft 365 Personal (includes limited Copilot AI),Ghana,9.99,4.5582,no,,derived
-Microsoft,Microsoft 365 Personal (includes limited Copilot AI),Kenya,9.99,5.4491,no,,derived
-Microsoft,Microsoft 365 Personal (includes limited Copilot AI),Morocco,9.99,2.7495,no,,derived
-Microsoft,Microsoft 365 Personal (includes limited Copilot AI),Nigeria,9.99,8.8147,no,,derived
-Microsoft,Microsoft 365 Personal (includes limited Copilot AI),Rwanda,9.99,10.4243,no,,derived
-Microsoft,Microsoft 365 Personal (includes limited Copilot AI),Senegal,9.99,6.7348,no,,derived
-Microsoft,Microsoft 365 Personal (includes limited Copilot AI),South Africa,9.99,1.912,no,,derived
-Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),Côte d'Ivoire,19.99,8.6288,no,,derived
-Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),Egypt,19.99,7.3583,no,,derived
-Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),Ethiopia,19.99,21.6108,no,,derived
-Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),Ghana,19.99,9.1209,no,,derived
-Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),Kenya,19.99,10.9036,no,,derived
-Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),Morocco,19.99,5.5018,no,,derived
-Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),Nigeria,19.99,17.6382,no,,derived
-Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),Rwanda,19.99,20.8591,no,,derived
-Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),Senegal,19.99,13.4764,no,,derived
-Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),South Africa,19.99,3.8258,no,,derived
-Microsoft,Microsoft 365 Pro (highest Copilot usage),Côte d'Ivoire,99.99,43.1612,no,,derived
-Microsoft,Microsoft 365 Pro (highest Copilot usage),Egypt,99.99,36.8061,no,,derived
-Microsoft,Microsoft 365 Pro (highest Copilot usage),Ethiopia,99.99,108.0973,no,,derived
-Microsoft,Microsoft 365 Pro (highest Copilot usage),Ghana,99.99,45.6228,no,,derived
-Microsoft,Microsoft 365 Pro (highest Copilot usage),Kenya,99.99,54.54,no,,derived
-Microsoft,Microsoft 365 Pro (highest Copilot usage),Morocco,99.99,27.5202,no,,derived
-Microsoft,Microsoft 365 Pro (highest Copilot usage),Nigeria,99.99,88.2265,no,,derived
-Microsoft,Microsoft 365 Pro (highest Copilot usage),Rwanda,99.99,104.3374,no,,derived
-Microsoft,Microsoft 365 Pro (highest Copilot usage),Senegal,99.99,67.409,no,,derived
-Microsoft,Microsoft 365 Pro (highest Copilot usage),South Africa,99.99,19.1368,no,,derived
-OpenAI,Plus,Côte d'Ivoire,20,8.6331,yes,NGN,derived
-OpenAI,Plus,Egypt,20,7.362,yes,NGN,derived
-OpenAI,Plus,Ethiopia,20,21.6216,yes,NGN,derived
-OpenAI,Plus,Ghana,20,9.1255,yes,NGN,derived
-OpenAI,Plus,Kenya,20,10.9091,yes,NGN,derived
-OpenAI,Plus,Morocco,20,5.5046,yes,NGN,derived
+Anthropic,Max 5x,Rwanda,100,104.3478,unclear,,derived
+Anthropic,Max 5x,Senegal,100,67.4157,unclear,,derived
+Anthropic,Max 5x,South Africa,100,19.1388,unclear,,derived
+Microsoft,Microsoft 365 Family (includes limited Copilot AI),Côte d'Ivoire,12.99,5.6072,unclear,,derived
+Microsoft,Microsoft 365 Family (includes limited Copilot AI),Egypt,12.99,4.7816,unclear,,derived
+Microsoft,Microsoft 365 Family (includes limited Copilot AI),Ethiopia,12.99,14.0432,unclear,,derived
+Microsoft,Microsoft 365 Family (includes limited Copilot AI),Ghana,12.99,5.927,unclear,,derived
+Microsoft,Microsoft 365 Family (includes limited Copilot AI),Kenya,12.99,7.0855,unclear,,derived
+Microsoft,Microsoft 365 Family (includes limited Copilot AI),Morocco,12.99,3.5752,unclear,,derived
+Microsoft,Microsoft 365 Family (includes limited Copilot AI),Nigeria,12.99,11.4618,unclear,,derived
+Microsoft,Microsoft 365 Family (includes limited Copilot AI),Rwanda,12.99,13.5548,unclear,,derived
+Microsoft,Microsoft 365 Family (includes limited Copilot AI),Senegal,12.99,8.7573,unclear,,derived
+Microsoft,Microsoft 365 Family (includes limited Copilot AI),South Africa,12.99,2.4861,unclear,,derived
+Microsoft,Microsoft 365 Personal (includes limited Copilot AI),Côte d'Ivoire,9.99,4.3122,unclear,,derived
+Microsoft,Microsoft 365 Personal (includes limited Copilot AI),Egypt,9.99,3.6773,unclear,,derived
+Microsoft,Microsoft 365 Personal (includes limited Copilot AI),Ethiopia,9.99,10.8,unclear,,derived
+Microsoft,Microsoft 365 Personal (includes limited Copilot AI),Ghana,9.99,4.5582,unclear,,derived
+Microsoft,Microsoft 365 Personal (includes limited Copilot AI),Kenya,9.99,5.4491,unclear,,derived
+Microsoft,Microsoft 365 Personal (includes limited Copilot AI),Morocco,9.99,2.7495,unclear,,derived
+Microsoft,Microsoft 365 Personal (includes limited Copilot AI),Nigeria,9.99,8.8147,unclear,,derived
+Microsoft,Microsoft 365 Personal (includes limited Copilot AI),Rwanda,9.99,10.4243,unclear,,derived
+Microsoft,Microsoft 365 Personal (includes limited Copilot AI),Senegal,9.99,6.7348,unclear,,derived
+Microsoft,Microsoft 365 Personal (includes limited Copilot AI),South Africa,9.99,1.912,unclear,,derived
+Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),Côte d'Ivoire,19.99,8.6288,unclear,,derived
+Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),Egypt,19.99,7.3583,unclear,,derived
+Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),Ethiopia,19.99,21.6108,unclear,,derived
+Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),Ghana,19.99,9.1209,unclear,,derived
+Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),Kenya,19.99,10.9036,unclear,,derived
+Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),Morocco,19.99,5.5018,unclear,,derived
+Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),Nigeria,19.99,17.6382,unclear,,derived
+Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),Rwanda,19.99,20.8591,unclear,,derived
+Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),Senegal,19.99,13.4764,unclear,,derived
+Microsoft,Microsoft 365 Premium (Copilot successor to Copilot Pro),South Africa,19.99,3.8258,unclear,,derived
+Microsoft,Microsoft 365 Pro (highest Copilot usage),Côte d'Ivoire,99.99,43.1612,unclear,,derived
+Microsoft,Microsoft 365 Pro (highest Copilot usage),Egypt,99.99,36.8061,unclear,,derived
+Microsoft,Microsoft 365 Pro (highest Copilot usage),Ethiopia,99.99,108.0973,unclear,,derived
+Microsoft,Microsoft 365 Pro (highest Copilot usage),Ghana,99.99,45.6228,unclear,,derived
+Microsoft,Microsoft 365 Pro (highest Copilot usage),Kenya,99.99,54.54,unclear,,derived
+Microsoft,Microsoft 365 Pro (highest Copilot usage),Morocco,99.99,27.5202,unclear,,derived
+Microsoft,Microsoft 365 Pro (highest Copilot usage),Nigeria,99.99,88.2265,unclear,,derived
+Microsoft,Microsoft 365 Pro (highest Copilot usage),Rwanda,99.99,104.3374,unclear,,derived
+Microsoft,Microsoft 365 Pro (highest Copilot usage),Senegal,99.99,67.409,unclear,,derived
+Microsoft,Microsoft 365 Pro (highest Copilot usage),South Africa,99.99,19.1368,unclear,,derived
+OpenAI,Plus,Côte d'Ivoire,20,8.6331,unclear,,derived
+OpenAI,Plus,Egypt,20,7.362,unclear,,derived
+OpenAI,Plus,Ethiopia,20,21.6216,unclear,,derived
+OpenAI,Plus,Ghana,20,9.1255,unclear,,derived
+OpenAI,Plus,Kenya,20,10.9091,unclear,,derived
+OpenAI,Plus,Morocco,20,5.5046,unclear,,derived
 OpenAI,Plus,Nigeria,20,17.6471,yes,NGN,derived
-OpenAI,Plus,Rwanda,20,20.8696,yes,NGN,derived
-OpenAI,Plus,Senegal,20,13.4831,yes,NGN,derived
-OpenAI,Plus,South Africa,20,3.8278,yes,NGN,derived
-OpenAI,Pro,Côte d'Ivoire,100,43.1655,yes,NGN,derived
-Anthropic,Pro,Côte d'Ivoire,20,8.6331,yes,NGN,derived
-Perplexity,Pro,Côte d'Ivoire,20,8.6331,yes,NGN,derived
-OpenAI,Pro,Egypt,100,36.8098,yes,NGN,derived
-Anthropic,Pro,Egypt,20,7.362,yes,NGN,derived
-Perplexity,Pro,Egypt,20,7.362,yes,NGN,derived
-OpenAI,Pro,Ethiopia,100,108.1081,yes,NGN,derived
-Anthropic,Pro,Ethiopia,20,21.6216,yes,NGN,derived
-Perplexity,Pro,Ethiopia,20,21.6216,yes,NGN,derived
-OpenAI,Pro,Ghana,100,45.6274,yes,NGN,derived
-Anthropic,Pro,Ghana,20,9.1255,yes,NGN,derived
-Perplexity,Pro,Ghana,20,9.1255,yes,NGN,derived
-OpenAI,Pro,Kenya,100,54.5455,yes,NGN,derived
-Anthropic,Pro,Kenya,20,10.9091,yes,NGN,derived
-Perplexity,Pro,Kenya,20,10.9091,yes,NGN,derived
-OpenAI,Pro,Morocco,100,27.5229,yes,NGN,derived
-Anthropic,Pro,Morocco,20,5.5046,yes,NGN,derived
-Perplexity,Pro,Morocco,20,5.5046,yes,NGN,derived
+OpenAI,Plus,Rwanda,20,20.8696,unclear,,derived
+OpenAI,Plus,Senegal,20,13.4831,unclear,,derived
+OpenAI,Plus,South Africa,20,3.8278,unclear,,derived
+OpenAI,Pro,Côte d'Ivoire,100,43.1655,unclear,,derived
+Anthropic,Pro,Côte d'Ivoire,20,8.6331,unclear,,derived
+Perplexity,Pro,Côte d'Ivoire,20,8.6331,unclear,,derived
+OpenAI,Pro,Egypt,100,36.8098,unclear,,derived
+Anthropic,Pro,Egypt,20,7.362,unclear,,derived
+Perplexity,Pro,Egypt,20,7.362,unclear,,derived
+OpenAI,Pro,Ethiopia,100,108.1081,unclear,,derived
+Anthropic,Pro,Ethiopia,20,21.6216,unclear,,derived
+Perplexity,Pro,Ethiopia,20,21.6216,unclear,,derived
+OpenAI,Pro,Ghana,100,45.6274,unclear,,derived
+Anthropic,Pro,Ghana,20,9.1255,unclear,,derived
+Perplexity,Pro,Ghana,20,9.1255,unclear,,derived
+OpenAI,Pro,Kenya,100,54.5455,unclear,,derived
+Anthropic,Pro,Kenya,20,10.9091,unclear,,derived
+Perplexity,Pro,Kenya,20,10.9091,unclear,,derived
+OpenAI,Pro,Morocco,100,27.5229,unclear,,derived
+Anthropic,Pro,Morocco,20,5.5046,unclear,,derived
+Perplexity,Pro,Morocco,20,5.5046,unclear,,derived
 OpenAI,Pro,Nigeria,100,88.2353,yes,NGN,derived
 Anthropic,Pro,Nigeria,20,17.6471,yes,NGN,derived
 Perplexity,Pro,Nigeria,20,17.6471,yes,NGN,derived
-OpenAI,Pro,Rwanda,100,104.3478,yes,NGN,derived
-Anthropic,Pro,Rwanda,20,20.8696,yes,NGN,derived
-Perplexity,Pro,Rwanda,20,20.8696,yes,NGN,derived
-OpenAI,Pro,Senegal,100,67.4157,yes,NGN,derived
-Anthropic,Pro,Senegal,20,13.4831,yes,NGN,derived
-Perplexity,Pro,Senegal,20,13.4831,yes,NGN,derived
-OpenAI,Pro,South Africa,100,19.1388,yes,NGN,derived
-Anthropic,Pro,South Africa,20,3.8278,yes,NGN,derived
-Perplexity,Pro,South Africa,20,3.8278,yes,NGN,derived
-xAI,SuperGrok,Côte d'Ivoire,30,12.9496,yes,NGN,derived
-xAI,SuperGrok,Egypt,30,11.0429,yes,NGN,derived
-xAI,SuperGrok,Ethiopia,30,32.4324,yes,NGN,derived
-xAI,SuperGrok,Ghana,30,13.6882,yes,NGN,derived
-xAI,SuperGrok,Kenya,30,16.3636,yes,NGN,derived
-xAI,SuperGrok,Morocco,30,8.2569,yes,NGN,derived
+OpenAI,Pro,Rwanda,100,104.3478,unclear,,derived
+Anthropic,Pro,Rwanda,20,20.8696,unclear,,derived
+Perplexity,Pro,Rwanda,20,20.8696,unclear,,derived
+OpenAI,Pro,Senegal,100,67.4157,unclear,,derived
+Anthropic,Pro,Senegal,20,13.4831,unclear,,derived
+Perplexity,Pro,Senegal,20,13.4831,unclear,,derived
+OpenAI,Pro,South Africa,100,19.1388,unclear,,derived
+Anthropic,Pro,South Africa,20,3.8278,unclear,,derived
+Perplexity,Pro,South Africa,20,3.8278,unclear,,derived
+xAI,SuperGrok,Côte d'Ivoire,30,12.9496,unclear,,derived
+xAI,SuperGrok,Egypt,30,11.0429,unclear,,derived
+xAI,SuperGrok,Ethiopia,30,32.4324,unclear,,derived
+xAI,SuperGrok,Ghana,30,13.6882,unclear,,derived
+xAI,SuperGrok,Kenya,30,16.3636,unclear,,derived
+xAI,SuperGrok,Morocco,30,8.2569,unclear,,derived
 xAI,SuperGrok,Nigeria,30,26.4706,yes,NGN,derived
-xAI,SuperGrok,Rwanda,30,31.3043,yes,NGN,derived
-xAI,SuperGrok,Senegal,30,20.2247,yes,NGN,derived
-xAI,SuperGrok,South Africa,30,5.7416,yes,NGN,derived
-xAI,SuperGrok Heavy,Côte d'Ivoire,300,129.4964,yes,NGN,derived
-xAI,SuperGrok Heavy,Egypt,300,110.4294,yes,NGN,derived
-xAI,SuperGrok Heavy,Ethiopia,300,324.3243,yes,NGN,derived
-xAI,SuperGrok Heavy,Ghana,300,136.8821,yes,NGN,derived
-xAI,SuperGrok Heavy,Kenya,300,163.6364,yes,NGN,derived
-xAI,SuperGrok Heavy,Morocco,300,82.5688,yes,NGN,derived
+xAI,SuperGrok,Rwanda,30,31.3043,unclear,,derived
+xAI,SuperGrok,Senegal,30,20.2247,unclear,,derived
+xAI,SuperGrok,South Africa,30,5.7416,unclear,,derived
+xAI,SuperGrok Heavy,Côte d'Ivoire,300,129.4964,unclear,,derived
+xAI,SuperGrok Heavy,Egypt,300,110.4294,unclear,,derived
+xAI,SuperGrok Heavy,Ethiopia,300,324.3243,unclear,,derived
+xAI,SuperGrok Heavy,Ghana,300,136.8821,unclear,,derived
+xAI,SuperGrok Heavy,Kenya,300,163.6364,unclear,,derived
+xAI,SuperGrok Heavy,Morocco,300,82.5688,unclear,,derived
 xAI,SuperGrok Heavy,Nigeria,300,264.7059,yes,NGN,derived
-xAI,SuperGrok Heavy,Rwanda,300,313.0435,yes,NGN,derived
-xAI,SuperGrok Heavy,Senegal,300,202.2472,yes,NGN,derived
-xAI,SuperGrok Heavy,South Africa,300,57.4163,yes,NGN,derived
+xAI,SuperGrok Heavy,Rwanda,300,313.0435,unclear,,derived
+xAI,SuperGrok Heavy,Senegal,300,202.2472,unclear,,derived
+xAI,SuperGrok Heavy,South Africa,300,57.4163,unclear,,derived
 xAI,SuperGrok Lite,Côte d'Ivoire,10,4.3165,unclear,,derived
 xAI,SuperGrok Lite,Egypt,10,3.681,unclear,,derived
 xAI,SuperGrok Lite,Ethiopia,10,10.8108,unclear,,derived
@@ -189,33 +189,33 @@ xAI,SuperGrok Lite,Nigeria,10,8.8235,unclear,,derived
 xAI,SuperGrok Lite,Rwanda,10,10.4348,unclear,,derived
 xAI,SuperGrok Lite,Senegal,10,6.7416,unclear,,derived
 xAI,SuperGrok Lite,South Africa,10,1.9139,unclear,,derived
-xAI,SuperGrok Plus,Côte d'Ivoire,100,43.1655,yes,NGN,derived
-xAI,SuperGrok Plus,Egypt,100,36.8098,yes,NGN,derived
-xAI,SuperGrok Plus,Ethiopia,100,108.1081,yes,NGN,derived
-xAI,SuperGrok Plus,Ghana,100,45.6274,yes,NGN,derived
-xAI,SuperGrok Plus,Kenya,100,54.5455,yes,NGN,derived
-xAI,SuperGrok Plus,Morocco,100,27.5229,yes,NGN,derived
+xAI,SuperGrok Plus,Côte d'Ivoire,100,43.1655,unclear,,derived
+xAI,SuperGrok Plus,Egypt,100,36.8098,unclear,,derived
+xAI,SuperGrok Plus,Ethiopia,100,108.1081,unclear,,derived
+xAI,SuperGrok Plus,Ghana,100,45.6274,unclear,,derived
+xAI,SuperGrok Plus,Kenya,100,54.5455,unclear,,derived
+xAI,SuperGrok Plus,Morocco,100,27.5229,unclear,,derived
 xAI,SuperGrok Plus,Nigeria,100,88.2353,yes,NGN,derived
-xAI,SuperGrok Plus,Rwanda,100,104.3478,yes,NGN,derived
-xAI,SuperGrok Plus,Senegal,100,67.4157,yes,NGN,derived
-xAI,SuperGrok Plus,South Africa,100,19.1388,yes,NGN,derived
-Anthropic,Team premium seat,Côte d'Ivoire,100,43.1655,no,,derived
-Anthropic,Team premium seat,Egypt,100,36.8098,no,,derived
-Anthropic,Team premium seat,Ethiopia,100,108.1081,no,,derived
-Anthropic,Team premium seat,Ghana,100,45.6274,no,,derived
-Anthropic,Team premium seat,Kenya,100,54.5455,no,,derived
-Anthropic,Team premium seat,Morocco,100,27.5229,no,,derived
-Anthropic,Team premium seat,Nigeria,100,88.2353,no,,derived
-Anthropic,Team premium seat,Rwanda,100,104.3478,no,,derived
-Anthropic,Team premium seat,Senegal,100,67.4157,no,,derived
-Anthropic,Team premium seat,South Africa,100,19.1388,no,,derived
-Anthropic,Team standard seat,Côte d'Ivoire,20,8.6331,no,,derived
-Anthropic,Team standard seat,Egypt,20,7.362,no,,derived
-Anthropic,Team standard seat,Ethiopia,20,21.6216,no,,derived
-Anthropic,Team standard seat,Ghana,20,9.1255,no,,derived
-Anthropic,Team standard seat,Kenya,20,10.9091,no,,derived
-Anthropic,Team standard seat,Morocco,20,5.5046,no,,derived
-Anthropic,Team standard seat,Nigeria,20,17.6471,no,,derived
-Anthropic,Team standard seat,Rwanda,20,20.8696,no,,derived
-Anthropic,Team standard seat,Senegal,20,13.4831,no,,derived
-Anthropic,Team standard seat,South Africa,20,3.8278,no,,derived
+xAI,SuperGrok Plus,Rwanda,100,104.3478,unclear,,derived
+xAI,SuperGrok Plus,Senegal,100,67.4157,unclear,,derived
+xAI,SuperGrok Plus,South Africa,100,19.1388,unclear,,derived
+Anthropic,Team premium seat,Côte d'Ivoire,100,43.1655,unclear,,derived
+Anthropic,Team premium seat,Egypt,100,36.8098,unclear,,derived
+Anthropic,Team premium seat,Ethiopia,100,108.1081,unclear,,derived
+Anthropic,Team premium seat,Ghana,100,45.6274,unclear,,derived
+Anthropic,Team premium seat,Kenya,100,54.5455,unclear,,derived
+Anthropic,Team premium seat,Morocco,100,27.5229,unclear,,derived
+Anthropic,Team premium seat,Nigeria,100,88.2353,unclear,,derived
+Anthropic,Team premium seat,Rwanda,100,104.3478,unclear,,derived
+Anthropic,Team premium seat,Senegal,100,67.4157,unclear,,derived
+Anthropic,Team premium seat,South Africa,100,19.1388,unclear,,derived
+Anthropic,Team standard seat,Côte d'Ivoire,20,8.6331,unclear,,derived
+Anthropic,Team standard seat,Egypt,20,7.362,unclear,,derived
+Anthropic,Team standard seat,Ethiopia,20,21.6216,unclear,,derived
+Anthropic,Team standard seat,Ghana,20,9.1255,unclear,,derived
+Anthropic,Team standard seat,Kenya,20,10.9091,unclear,,derived
+Anthropic,Team standard seat,Morocco,20,5.5046,unclear,,derived
+Anthropic,Team standard seat,Nigeria,20,17.6471,unclear,,derived
+Anthropic,Team standard seat,Rwanda,20,20.8696,unclear,,derived
+Anthropic,Team standard seat,Senegal,20,13.4831,unclear,,derived
+Anthropic,Team standard seat,South Africa,20,3.8278,unclear,,derived

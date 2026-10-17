@@ -1,14 +1,14 @@
 {
  "countries": [
   {
+   "iso3": "DZA",
+   "name": "Algeria",
+   "filename": "country-algeria.html"
+  },
+  {
    "iso3": "AGO",
    "name": "Angola",
    "filename": "country-angola.html"
-  },
-  {
-   "iso3": "BDI",
-   "name": "Burundi",
-   "filename": "country-burundi.html"
   },
   {
    "iso3": "BEN",
@@ -16,44 +16,19 @@
    "filename": "country-benin.html"
   },
   {
-   "iso3": "BFA",
-   "name": "Burkina Faso",
-   "filename": "country-burkina-faso.html"
-  },
-  {
    "iso3": "BWA",
    "name": "Botswana",
    "filename": "country-botswana.html"
   },
   {
-   "iso3": "CAF",
-   "name": "Central African Republic",
-   "filename": "country-central-african-republic.html"
+   "iso3": "BFA",
+   "name": "Burkina Faso",
+   "filename": "country-burkina-faso.html"
   },
   {
-   "iso3": "CIV",
-   "name": "Côte d'Ivoire",
-   "filename": "country-cote-d-ivoire.html"
-  },
-  {
-   "iso3": "CMR",
-   "name": "Cameroon",
-   "filename": "country-cameroon.html"
-  },
-  {
-   "iso3": "COD",
-   "name": "Democratic Republic of the Congo",
-   "filename": "country-dr-congo.html"
-  },
-  {
-   "iso3": "COG",
-   "name": "Republic of the Congo",
-   "filename": "country-republic-of-the-congo.html"
-  },
-  {
-   "iso3": "COM",
-   "name": "Comoros",
-   "filename": "country-comoros.html"
+   "iso3": "BDI",
+   "name": "Burundi",
+   "filename": "country-burundi.html"
   },
   {
    "iso3": "CPV",
@@ -61,14 +36,39 @@
    "filename": "country-cabo-verde.html"
   },
   {
+   "iso3": "CMR",
+   "name": "Cameroon",
+   "filename": "country-cameroon.html"
+  },
+  {
+   "iso3": "CAF",
+   "name": "Central African Republic",
+   "filename": "country-central-african-republic.html"
+  },
+  {
+   "iso3": "TCD",
+   "name": "Chad",
+   "filename": "country-chad.html"
+  },
+  {
+   "iso3": "COM",
+   "name": "Comoros",
+   "filename": "country-comoros.html"
+  },
+  {
+   "iso3": "CIV",
+   "name": "Côte d'Ivoire",
+   "filename": "country-cote-d-ivoire.html"
+  },
+  {
+   "iso3": "COD",
+   "name": "Democratic Republic of the Congo",
+   "filename": "country-dr-congo.html"
+  },
+  {
    "iso3": "DJI",
    "name": "Djibouti",
    "filename": "country-djibouti.html"
-  },
-  {
-   "iso3": "DZA",
-   "name": "Algeria",
-   "filename": "country-algeria.html"
   },
   {
    "iso3": "EGY",
@@ -76,9 +76,19 @@
    "filename": "country-egypt.html"
   },
   {
+   "iso3": "GNQ",
+   "name": "Equatorial Guinea",
+   "filename": "country-equatorial-guinea.html"
+  },
+  {
    "iso3": "ERI",
    "name": "Eritrea",
    "filename": "country-eritrea.html"
+  },
+  {
+   "iso3": "SWZ",
+   "name": "Eswatini",
+   "filename": "country-eswatini.html"
   },
   {
    "iso3": "ETH",
@@ -91,6 +101,11 @@
    "filename": "country-gabon.html"
   },
   {
+   "iso3": "GMB",
+   "name": "Gambia",
+   "filename": "country-gambia.html"
+  },
+  {
    "iso3": "GHA",
    "name": "Ghana",
    "filename": "country-ghana.html"
@@ -101,24 +116,19 @@
    "filename": "country-guinea.html"
   },
   {
-   "iso3": "GMB",
-   "name": "Gambia",
-   "filename": "country-gambia.html"
-  },
-  {
    "iso3": "GNB",
    "name": "Guinea-Bissau",
    "filename": "country-guinea-bissau.html"
   },
   {
-   "iso3": "GNQ",
-   "name": "Equatorial Guinea",
-   "filename": "country-equatorial-guinea.html"
-  },
-  {
    "iso3": "KEN",
    "name": "Kenya",
    "filename": "country-kenya.html"
+  },
+  {
+   "iso3": "LSO",
+   "name": "Lesotho",
+   "filename": "country-lesotho.html"
   },
   {
    "iso3": "LBR",
@@ -131,29 +141,19 @@
    "filename": "country-libya.html"
   },
   {
-   "iso3": "LSO",
-   "name": "Lesotho",
-   "filename": "country-lesotho.html"
-  },
-  {
-   "iso3": "MAR",
-   "name": "Morocco",
-   "filename": "country-morocco.html"
-  },
-  {
    "iso3": "MDG",
    "name": "Madagascar",
    "filename": "country-madagascar.html"
   },
   {
+   "iso3": "MWI",
+   "name": "Malawi",
+   "filename": "country-malawi.html"
+  },
+  {
    "iso3": "MLI",
    "name": "Mali",
    "filename": "country-mali.html"
-  },
-  {
-   "iso3": "MOZ",
-   "name": "Mozambique",
-   "filename": "country-mozambique.html"
   },
   {
    "iso3": "MRT",
@@ -166,9 +166,14 @@
    "filename": "country-mauritius.html"
   },
   {
-   "iso3": "MWI",
-   "name": "Malawi",
-   "filename": "country-malawi.html"
+   "iso3": "MAR",
+   "name": "Morocco",
+   "filename": "country-morocco.html"
+  },
+  {
+   "iso3": "MOZ",
+   "name": "Mozambique",
+   "filename": "country-mozambique.html"
   },
   {
    "iso3": "NAM",
@@ -186,19 +191,29 @@
    "filename": "country-nigeria.html"
   },
   {
+   "iso3": "COG",
+   "name": "Republic of the Congo",
+   "filename": "country-republic-of-the-congo.html"
+  },
+  {
    "iso3": "RWA",
    "name": "Rwanda",
    "filename": "country-rwanda.html"
   },
   {
-   "iso3": "SDN",
-   "name": "Sudan",
-   "filename": "country-sudan.html"
+   "iso3": "STP",
+   "name": "São Tomé and Príncipe",
+   "filename": "country-sao-tome-and-principe.html"
   },
   {
    "iso3": "SEN",
    "name": "Senegal",
    "filename": "country-senegal.html"
+  },
+  {
+   "iso3": "SYC",
+   "name": "Seychelles",
+   "filename": "country-seychelles.html"
   },
   {
    "iso3": "SLE",
@@ -211,29 +226,24 @@
    "filename": "country-somalia.html"
   },
   {
+   "iso3": "ZAF",
+   "name": "South Africa",
+   "filename": "country-south-africa.html"
+  },
+  {
    "iso3": "SSD",
    "name": "South Sudan",
    "filename": "country-south-sudan.html"
   },
   {
-   "iso3": "STP",
-   "name": "São Tomé and Príncipe",
-   "filename": "country-sao-tome-and-principe.html"
+   "iso3": "SDN",
+   "name": "Sudan",
+   "filename": "country-sudan.html"
   },
   {
-   "iso3": "SWZ",
-   "name": "Eswatini",
-   "filename": "country-eswatini.html"
-  },
-  {
-   "iso3": "SYC",
-   "name": "Seychelles",
-   "filename": "country-seychelles.html"
-  },
-  {
-   "iso3": "TCD",
-   "name": "Chad",
-   "filename": "country-chad.html"
+   "iso3": "TZA",
+   "name": "Tanzania",
+   "filename": "country-tanzania.html"
   },
   {
    "iso3": "TGO",
@@ -246,19 +256,9 @@
    "filename": "country-tunisia.html"
   },
   {
-   "iso3": "TZA",
-   "name": "Tanzania",
-   "filename": "country-tanzania.html"
-  },
-  {
    "iso3": "UGA",
    "name": "Uganda",
    "filename": "country-uganda.html"
-  },
-  {
-   "iso3": "ZAF",
-   "name": "South Africa",
-   "filename": "country-south-africa.html"
   },
   {
    "iso3": "ZMB",

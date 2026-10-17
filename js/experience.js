@@ -17,6 +17,7 @@
     bar.hidden=!saved;
     if(!saved)return;
     bar.querySelector('[data-journey-name]').textContent=saved.name;
+    bar.querySelector('.country-journey__context span').textContent=/^(access|jobs|infrastructure)\.html$/.test(document.body.dataset.page||'') ? 'Country focus' : 'Continue with';
     bar.querySelectorAll('[data-journey-page]').forEach(a=>{
       const url=new URL(a.dataset.journeyPage,location.href);url.searchParams.set('country',saved.iso);
       if(a.dataset.journeyPage==='data-explorer.html'){url.searchParams.set('view','compare');url.searchParams.set('countries',saved.iso);url.hash='make-a-chart';}

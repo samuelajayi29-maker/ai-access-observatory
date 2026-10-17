@@ -1,16 +1,16 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16",
+ "generated_at": "2026-10-17",
  "countries": [
+  {
+   "iso3": "DZA",
+   "name": "Algeria",
+   "filename": "country-algeria.html"
+  },
   {
    "iso3": "AGO",
    "name": "Angola",
    "filename": "country-angola.html"
-  },
-  {
-   "iso3": "BDI",
-   "name": "Burundi",
-   "filename": "country-burundi.html"
   },
   {
    "iso3": "BEN",
@@ -18,44 +18,19 @@
    "filename": "country-benin.html"
   },
   {
-   "iso3": "BFA",
-   "name": "Burkina Faso",
-   "filename": "country-burkina-faso.html"
-  },
-  {
    "iso3": "BWA",
    "name": "Botswana",
    "filename": "country-botswana.html"
   },
   {
-   "iso3": "CAF",
-   "name": "Central African Republic",
-   "filename": "country-central-african-republic.html"
+   "iso3": "BFA",
+   "name": "Burkina Faso",
+   "filename": "country-burkina-faso.html"
   },
   {
-   "iso3": "CIV",
-   "name": "Côte d'Ivoire",
-   "filename": "country-cote-d-ivoire.html"
-  },
-  {
-   "iso3": "CMR",
-   "name": "Cameroon",
-   "filename": "country-cameroon.html"
-  },
-  {
-   "iso3": "COD",
-   "name": "Democratic Republic of the Congo",
-   "filename": "country-dr-congo.html"
-  },
-  {
-   "iso3": "COG",
-   "name": "Republic of the Congo",
-   "filename": "country-republic-of-the-congo.html"
-  },
-  {
-   "iso3": "COM",
-   "name": "Comoros",
-   "filename": "country-comoros.html"
+   "iso3": "BDI",
+   "name": "Burundi",
+   "filename": "country-burundi.html"
   },
   {
    "iso3": "CPV",
@@ -63,14 +38,39 @@
    "filename": "country-cabo-verde.html"
   },
   {
+   "iso3": "CMR",
+   "name": "Cameroon",
+   "filename": "country-cameroon.html"
+  },
+  {
+   "iso3": "CAF",
+   "name": "Central African Republic",
+   "filename": "country-central-african-republic.html"
+  },
+  {
+   "iso3": "TCD",
+   "name": "Chad",
+   "filename": "country-chad.html"
+  },
+  {
+   "iso3": "COM",
+   "name": "Comoros",
+   "filename": "country-comoros.html"
+  },
+  {
+   "iso3": "CIV",
+   "name": "Côte d'Ivoire",
+   "filename": "country-cote-d-ivoire.html"
+  },
+  {
+   "iso3": "COD",
+   "name": "Democratic Republic of the Congo",
+   "filename": "country-dr-congo.html"
+  },
+  {
    "iso3": "DJI",
    "name": "Djibouti",
    "filename": "country-djibouti.html"
-  },
-  {
-   "iso3": "DZA",
-   "name": "Algeria",
-   "filename": "country-algeria.html"
   },
   {
    "iso3": "EGY",
@@ -78,9 +78,19 @@
    "filename": "country-egypt.html"
   },
   {
+   "iso3": "GNQ",
+   "name": "Equatorial Guinea",
+   "filename": "country-equatorial-guinea.html"
+  },
+  {
    "iso3": "ERI",
    "name": "Eritrea",
    "filename": "country-eritrea.html"
+  },
+  {
+   "iso3": "SWZ",
+   "name": "Eswatini",
+   "filename": "country-eswatini.html"
   },
   {
    "iso3": "ETH",
@@ -93,6 +103,11 @@
    "filename": "country-gabon.html"
   },
   {
+   "iso3": "GMB",
+   "name": "Gambia",
+   "filename": "country-gambia.html"
+  },
+  {
    "iso3": "GHA",
    "name": "Ghana",
    "filename": "country-ghana.html"
@@ -103,24 +118,19 @@
    "filename": "country-guinea.html"
   },
   {
-   "iso3": "GMB",
-   "name": "Gambia",
-   "filename": "country-gambia.html"
-  },
-  {
    "iso3": "GNB",
    "name": "Guinea-Bissau",
    "filename": "country-guinea-bissau.html"
   },
   {
-   "iso3": "GNQ",
-   "name": "Equatorial Guinea",
-   "filename": "country-equatorial-guinea.html"
-  },
-  {
    "iso3": "KEN",
    "name": "Kenya",
    "filename": "country-kenya.html"
+  },
+  {
+   "iso3": "LSO",
+   "name": "Lesotho",
+   "filename": "country-lesotho.html"
   },
   {
    "iso3": "LBR",
@@ -133,29 +143,19 @@
    "filename": "country-libya.html"
   },
   {
-   "iso3": "LSO",
-   "name": "Lesotho",
-   "filename": "country-lesotho.html"
-  },
-  {
-   "iso3": "MAR",
-   "name": "Morocco",
-   "filename": "country-morocco.html"
-  },
-  {
    "iso3": "MDG",
    "name": "Madagascar",
    "filename": "country-madagascar.html"
   },
   {
+   "iso3": "MWI",
+   "name": "Malawi",
+   "filename": "country-malawi.html"
+  },
+  {
    "iso3": "MLI",
    "name": "Mali",
    "filename": "country-mali.html"
-  },
-  {
-   "iso3": "MOZ",
-   "name": "Mozambique",
-   "filename": "country-mozambique.html"
   },
   {
    "iso3": "MRT",
@@ -168,9 +168,14 @@
    "filename": "country-mauritius.html"
   },
   {
-   "iso3": "MWI",
-   "name": "Malawi",
-   "filename": "country-malawi.html"
+   "iso3": "MAR",
+   "name": "Morocco",
+   "filename": "country-morocco.html"
+  },
+  {
+   "iso3": "MOZ",
+   "name": "Mozambique",
+   "filename": "country-mozambique.html"
   },
   {
    "iso3": "NAM",
@@ -188,19 +193,29 @@
    "filename": "country-nigeria.html"
   },
   {
+   "iso3": "COG",
+   "name": "Republic of the Congo",
+   "filename": "country-republic-of-the-congo.html"
+  },
+  {
    "iso3": "RWA",
    "name": "Rwanda",
    "filename": "country-rwanda.html"
   },
   {
-   "iso3": "SDN",
-   "name": "Sudan",
-   "filename": "country-sudan.html"
+   "iso3": "STP",
+   "name": "São Tomé and Príncipe",
+   "filename": "country-sao-tome-and-principe.html"
   },
   {
    "iso3": "SEN",
    "name": "Senegal",
    "filename": "country-senegal.html"
+  },
+  {
+   "iso3": "SYC",
+   "name": "Seychelles",
+   "filename": "country-seychelles.html"
   },
   {
    "iso3": "SLE",
@@ -213,29 +228,24 @@
    "filename": "country-somalia.html"
   },
   {
+   "iso3": "ZAF",
+   "name": "South Africa",
+   "filename": "country-south-africa.html"
+  },
+  {
    "iso3": "SSD",
    "name": "South Sudan",
    "filename": "country-south-sudan.html"
   },
   {
-   "iso3": "STP",
-   "name": "São Tomé and Príncipe",
-   "filename": "country-sao-tome-and-principe.html"
+   "iso3": "SDN",
+   "name": "Sudan",
+   "filename": "country-sudan.html"
   },
   {
-   "iso3": "SWZ",
-   "name": "Eswatini",
-   "filename": "country-eswatini.html"
-  },
-  {
-   "iso3": "SYC",
-   "name": "Seychelles",
-   "filename": "country-seychelles.html"
-  },
-  {
-   "iso3": "TCD",
-   "name": "Chad",
-   "filename": "country-chad.html"
+   "iso3": "TZA",
+   "name": "Tanzania",
+   "filename": "country-tanzania.html"
   },
   {
    "iso3": "TGO",
@@ -248,19 +258,9 @@
    "filename": "country-tunisia.html"
   },
   {
-   "iso3": "TZA",
-   "name": "Tanzania",
-   "filename": "country-tanzania.html"
-  },
-  {
    "iso3": "UGA",
    "name": "Uganda",
    "filename": "country-uganda.html"
-  },
-  {
-   "iso3": "ZAF",
-   "name": "South Africa",
-   "filename": "country-south-africa.html"
   },
   {
    "iso3": "ZMB",
@@ -23156,9 +23156,9 @@
    "description": "Automated triage is separate from source verification. Source-linked means a URL is already referenced, not that all its facts are captured.",
    "rows": [
     {
-     "id": "4d54c794f70aec",
-     "label": "needs source review",
-     "value": 636.0,
+     "id": "0618ba08cbd8c4",
+     "label": "source linked",
+     "value": 662.0,
      "period": "2026-10-15",
      "status": "review workflow",
      "source": "Observatory review ledger",
@@ -23216,18 +23216,6 @@
      "relation": "="
     },
     {
-     "id": "0618ba08cbd8c4",
-     "label": "source linked",
-     "value": 26.0,
-     "period": "2026-10-15",
-     "status": "review workflow",
-     "source": "Observatory review ledger",
-     "source_url": "https://inferenceafrica.com/data/signal-review.json",
-     "country": "",
-     "note": "",
-     "relation": "="
-    },
-    {
      "id": "21455602ed9923",
      "label": "project added",
      "value": 1.0,
@@ -23266,10 +23254,10 @@
    ],
    "register": "data/signal-review.json",
    "domain": null,
-   "revision": "037df0675c3f4e",
+   "revision": "807b2e279d4807",
    "coverage": {
-    "known": 9,
-    "total": 9
+    "known": 8,
+    "total": 8
    },
    "category": "Supporting evidence",
    "history_verified": false,
@@ -44032,6 +44020,18 @@
    "description": "Partial sum of published amounts in named domestic project records with this delivery status. Not national installed capacity, a directory total or an exhaustive investment flow. Multi-country records are excluded, unpublished amounts stay missing, and announcement years may differ. Capex is nominal source-reported USD; portfolio commitments and policy targets are excluded from capex.",
    "rows": [
     {
+     "id": "31fdcc118ce401",
+     "label": "Algeria",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "DZA",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "28494430907753",
      "label": "Angola",
      "value": null,
@@ -44040,18 +44040,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "AGO",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "d5ddc0c8c2beb1",
-     "label": "Burundi",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "BDI",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -44068,18 +44056,6 @@
      "relation": "="
     },
     {
-     "id": "8344ea95a2470f",
-     "label": "Burkina Faso",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "BFA",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "f845c141a3c5b1",
      "label": "Botswana",
      "value": null,
@@ -44092,74 +44068,26 @@
      "relation": "="
     },
     {
-     "id": "3896cd6cfea51d",
-     "label": "Central African Republic",
+     "id": "8344ea95a2470f",
+     "label": "Burkina Faso",
      "value": null,
      "period": "No observation",
      "status": "announced",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CAF",
+     "country": "BFA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
     {
-     "id": "3e95140d544f2d",
-     "label": "Côte d'Ivoire",
+     "id": "d5ddc0c8c2beb1",
+     "label": "Burundi",
      "value": null,
      "period": "No observation",
      "status": "announced",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CIV",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "51d431785c8b33",
-     "label": "Cameroon",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CMR",
-     "note": "0 of 1 matching project records publish this amount. Cybastion AI hub: None MW; https://furtherafrica.com/2026/09/02/cybastion-cameroon-investment-anchors-a-75m-ai-hub/",
-     "relation": "="
-    },
-    {
-     "id": "ca8c6373fbefb8",
-     "label": "Democratic Republic of the Congo",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COD",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "7354ab2fd797d9",
-     "label": "Republic of the Congo",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COG",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "fc331d1cee889b",
-     "label": "Comoros",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COM",
+     "country": "BDI",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -44176,6 +44104,78 @@
      "relation": "="
     },
     {
+     "id": "51d431785c8b33",
+     "label": "Cameroon",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CMR",
+     "note": "0 of 1 matching project records publish this amount. Cybastion AI hub: None MW; https://furtherafrica.com/2026/09/02/cybastion-cameroon-investment-anchors-a-75m-ai-hub/",
+     "relation": "="
+    },
+    {
+     "id": "3896cd6cfea51d",
+     "label": "Central African Republic",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CAF",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "3d75ccfc9d3cc8",
+     "label": "Chad",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "TCD",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "fc331d1cee889b",
+     "label": "Comoros",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COM",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "3e95140d544f2d",
+     "label": "Côte d'Ivoire",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CIV",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "ca8c6373fbefb8",
+     "label": "Democratic Republic of the Congo",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COD",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "cc5702c7a123b2",
      "label": "Djibouti",
      "value": null,
@@ -44184,18 +44184,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "DJI",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "31fdcc118ce401",
-     "label": "Algeria",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "DZA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -44212,6 +44200,18 @@
      "relation": "="
     },
     {
+     "id": "a2c688ca5df72f",
+     "label": "Equatorial Guinea",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "GNQ",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "4de4042269a08a",
      "label": "Eritrea",
      "value": null,
@@ -44220,6 +44220,18 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "ERI",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "478c0d0eb8abc3",
+     "label": "Eswatini",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "SWZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -44248,6 +44260,18 @@
      "relation": "="
     },
     {
+     "id": "bc0585eb4b292a",
+     "label": "Gambia",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "GMB",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "1a3cca8a42af7f",
      "label": "Ghana",
      "value": 10.0,
@@ -44272,18 +44296,6 @@
      "relation": "="
     },
     {
-     "id": "bc0585eb4b292a",
-     "label": "Gambia",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "GMB",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "3e56387fe98d6b",
      "label": "Guinea-Bissau",
      "value": null,
@@ -44292,18 +44304,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "GNB",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "a2c688ca5df72f",
-     "label": "Equatorial Guinea",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "GNQ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -44317,6 +44317,18 @@
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "KEN",
      "note": "0 of 1 matching project records publish this amount. Mombasa AI data centre: None MW; https://www.standardmedia.co.ke/business/business/article/2001557829/greeks-amaco-partners-with-us-firm-for-planned-kenya-data-centre",
+     "relation": "="
+    },
+    {
+     "id": "d4296f70338173",
+     "label": "Lesotho",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "LSO",
+     "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
     {
@@ -44344,30 +44356,6 @@
      "relation": "="
     },
     {
-     "id": "d4296f70338173",
-     "label": "Lesotho",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "LSO",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "8904c61a98dbed",
-     "label": "Morocco",
-     "value": 500.0,
-     "period": "2026-04",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MAR",
-     "note": "1 of 1 matching project records publish this amount. Nexus AI factory (Casablanca): 500 MW; https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
-     "relation": "="
-    },
-    {
      "id": "de65c83170aba0",
      "label": "Madagascar",
      "value": null,
@@ -44380,6 +44368,18 @@
      "relation": "="
     },
     {
+     "id": "d3023bf42d46fe",
+     "label": "Malawi",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "MWI",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "783a184a4940da",
      "label": "Mali",
      "value": null,
@@ -44388,18 +44388,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "MLI",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "db58062bde974f",
-     "label": "Mozambique",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MOZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -44428,14 +44416,26 @@
      "relation": "="
     },
     {
-     "id": "d3023bf42d46fe",
-     "label": "Malawi",
+     "id": "8904c61a98dbed",
+     "label": "Morocco",
+     "value": 500.0,
+     "period": "2026-04",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "MAR",
+     "note": "1 of 1 matching project records publish this amount. Nexus AI factory (Casablanca): 500 MW; https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+     "relation": "="
+    },
+    {
+     "id": "db58062bde974f",
+     "label": "Mozambique",
      "value": null,
      "period": "No observation",
      "status": "announced",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MWI",
+     "country": "MOZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -44476,6 +44476,18 @@
      "relation": "="
     },
     {
+     "id": "7354ab2fd797d9",
+     "label": "Republic of the Congo",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COG",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "f9c4c803804455",
      "label": "Rwanda",
      "value": null,
@@ -44488,14 +44500,14 @@
      "relation": "="
     },
     {
-     "id": "9877777b2fbda3",
-     "label": "Sudan",
+     "id": "4e3749912679fd",
+     "label": "São Tomé and Príncipe",
      "value": null,
      "period": "No observation",
      "status": "announced",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SDN",
+     "country": "STP",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -44508,6 +44520,18 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "SEN",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "926c2b928e2322",
+     "label": "Seychelles",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "SYC",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -44536,6 +44560,18 @@
      "relation": "="
     },
     {
+     "id": "23dc5203fa4cc5",
+     "label": "South Africa",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "ZAF",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "38881cf745983e",
      "label": "South Sudan",
      "value": null,
@@ -44548,50 +44584,26 @@
      "relation": "="
     },
     {
-     "id": "4e3749912679fd",
-     "label": "São Tomé and Príncipe",
+     "id": "9877777b2fbda3",
+     "label": "Sudan",
      "value": null,
      "period": "No observation",
      "status": "announced",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "STP",
+     "country": "SDN",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
     {
-     "id": "478c0d0eb8abc3",
-     "label": "Eswatini",
+     "id": "81fd08ef103acc",
+     "label": "Tanzania",
      "value": null,
      "period": "No observation",
      "status": "announced",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SWZ",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "926c2b928e2322",
-     "label": "Seychelles",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SYC",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "3d75ccfc9d3cc8",
-     "label": "Chad",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "TCD",
+     "country": "TZA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -44620,18 +44632,6 @@
      "relation": "="
     },
     {
-     "id": "81fd08ef103acc",
-     "label": "Tanzania",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "TZA",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "aa181147029727",
      "label": "Uganda",
      "value": null,
@@ -44640,18 +44640,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "UGA",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "23dc5203fa4cc5",
-     "label": "South Africa",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "ZAF",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -44682,7 +44670,7 @@
    ],
    "register": "data/infrastructure.json",
    "domain": null,
-   "revision": "32129739568137",
+   "revision": "e13afd1d487ba6",
    "coverage": {
     "known": 3,
     "total": 54
@@ -44700,6 +44688,18 @@
    "description": "Partial sum of published amounts in named domestic project records with this delivery status. Not national installed capacity, a directory total or an exhaustive investment flow. Multi-country records are excluded, unpublished amounts stay missing, and announcement years may differ. Capex is nominal source-reported USD; portfolio commitments and policy targets are excluded from capex.",
    "rows": [
     {
+     "id": "31fdcc118ce401",
+     "label": "Algeria",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "DZA",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "28494430907753",
      "label": "Angola",
      "value": null,
@@ -44708,18 +44708,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "AGO",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "d5ddc0c8c2beb1",
-     "label": "Burundi",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "BDI",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -44736,18 +44724,6 @@
      "relation": "="
     },
     {
-     "id": "8344ea95a2470f",
-     "label": "Burkina Faso",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "BFA",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "f845c141a3c5b1",
      "label": "Botswana",
      "value": null,
@@ -44760,74 +44736,26 @@
      "relation": "="
     },
     {
-     "id": "3896cd6cfea51d",
-     "label": "Central African Republic",
+     "id": "8344ea95a2470f",
+     "label": "Burkina Faso",
      "value": null,
      "period": "No observation",
      "status": "announced",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CAF",
+     "country": "BFA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
     {
-     "id": "3e95140d544f2d",
-     "label": "Côte d'Ivoire",
+     "id": "d5ddc0c8c2beb1",
+     "label": "Burundi",
      "value": null,
      "period": "No observation",
      "status": "announced",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CIV",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "51d431785c8b33",
-     "label": "Cameroon",
-     "value": 75000000.0,
-     "period": "2026-09-02",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CMR",
-     "note": "1 of 1 matching project records publish this amount. Cybastion AI hub: 75000000 USD; https://furtherafrica.com/2026/09/02/cybastion-cameroon-investment-anchors-a-75m-ai-hub/",
-     "relation": "="
-    },
-    {
-     "id": "ca8c6373fbefb8",
-     "label": "Democratic Republic of the Congo",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COD",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "7354ab2fd797d9",
-     "label": "Republic of the Congo",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COG",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "fc331d1cee889b",
-     "label": "Comoros",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COM",
+     "country": "BDI",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -44844,6 +44772,78 @@
      "relation": "="
     },
     {
+     "id": "51d431785c8b33",
+     "label": "Cameroon",
+     "value": 75000000.0,
+     "period": "2026-09-02",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CMR",
+     "note": "1 of 1 matching project records publish this amount. Cybastion AI hub: 75000000 USD; https://furtherafrica.com/2026/09/02/cybastion-cameroon-investment-anchors-a-75m-ai-hub/",
+     "relation": "="
+    },
+    {
+     "id": "3896cd6cfea51d",
+     "label": "Central African Republic",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CAF",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "3d75ccfc9d3cc8",
+     "label": "Chad",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "TCD",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "fc331d1cee889b",
+     "label": "Comoros",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COM",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "3e95140d544f2d",
+     "label": "Côte d'Ivoire",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CIV",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "ca8c6373fbefb8",
+     "label": "Democratic Republic of the Congo",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COD",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "cc5702c7a123b2",
      "label": "Djibouti",
      "value": null,
@@ -44852,18 +44852,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "DJI",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "31fdcc118ce401",
-     "label": "Algeria",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "DZA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -44880,6 +44868,18 @@
      "relation": "="
     },
     {
+     "id": "a2c688ca5df72f",
+     "label": "Equatorial Guinea",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "GNQ",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "4de4042269a08a",
      "label": "Eritrea",
      "value": null,
@@ -44888,6 +44888,18 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "ERI",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "478c0d0eb8abc3",
+     "label": "Eswatini",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "SWZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -44916,6 +44928,18 @@
      "relation": "="
     },
     {
+     "id": "bc0585eb4b292a",
+     "label": "Gambia",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "GMB",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "1a3cca8a42af7f",
      "label": "Ghana",
      "value": null,
@@ -44940,18 +44964,6 @@
      "relation": "="
     },
     {
-     "id": "bc0585eb4b292a",
-     "label": "Gambia",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "GMB",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "3e56387fe98d6b",
      "label": "Guinea-Bissau",
      "value": null,
@@ -44960,18 +44972,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "GNB",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "a2c688ca5df72f",
-     "label": "Equatorial Guinea",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "GNQ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -44985,6 +44985,18 @@
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "KEN",
      "note": "0 of 1 matching project records publish this amount. Mombasa AI data centre: None USD; https://www.standardmedia.co.ke/business/business/article/2001557829/greeks-amaco-partners-with-us-firm-for-planned-kenya-data-centre",
+     "relation": "="
+    },
+    {
+     "id": "d4296f70338173",
+     "label": "Lesotho",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "LSO",
+     "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
     {
@@ -45012,30 +45024,6 @@
      "relation": "="
     },
     {
-     "id": "d4296f70338173",
-     "label": "Lesotho",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "LSO",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "8904c61a98dbed",
-     "label": "Morocco",
-     "value": 1200000000.0,
-     "period": "2026-04",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MAR",
-     "note": "1 of 1 matching project records publish this amount. Nexus AI factory (Casablanca): 1200000000 USD; https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
-     "relation": "="
-    },
-    {
      "id": "de65c83170aba0",
      "label": "Madagascar",
      "value": null,
@@ -45048,6 +45036,18 @@
      "relation": "="
     },
     {
+     "id": "d3023bf42d46fe",
+     "label": "Malawi",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "MWI",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "783a184a4940da",
      "label": "Mali",
      "value": null,
@@ -45056,18 +45056,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "MLI",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "db58062bde974f",
-     "label": "Mozambique",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MOZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -45096,14 +45084,26 @@
      "relation": "="
     },
     {
-     "id": "d3023bf42d46fe",
-     "label": "Malawi",
+     "id": "8904c61a98dbed",
+     "label": "Morocco",
+     "value": 1200000000.0,
+     "period": "2026-04",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "MAR",
+     "note": "1 of 1 matching project records publish this amount. Nexus AI factory (Casablanca): 1200000000 USD; https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+     "relation": "="
+    },
+    {
+     "id": "db58062bde974f",
+     "label": "Mozambique",
      "value": null,
      "period": "No observation",
      "status": "announced",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MWI",
+     "country": "MOZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -45144,6 +45144,18 @@
      "relation": "="
     },
     {
+     "id": "7354ab2fd797d9",
+     "label": "Republic of the Congo",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COG",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "f9c4c803804455",
      "label": "Rwanda",
      "value": null,
@@ -45156,14 +45168,14 @@
      "relation": "="
     },
     {
-     "id": "9877777b2fbda3",
-     "label": "Sudan",
+     "id": "4e3749912679fd",
+     "label": "São Tomé and Príncipe",
      "value": null,
      "period": "No observation",
      "status": "announced",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SDN",
+     "country": "STP",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -45176,6 +45188,18 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "SEN",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "926c2b928e2322",
+     "label": "Seychelles",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "SYC",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -45204,6 +45228,18 @@
      "relation": "="
     },
     {
+     "id": "23dc5203fa4cc5",
+     "label": "South Africa",
+     "value": null,
+     "period": "No observation",
+     "status": "announced",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "ZAF",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "38881cf745983e",
      "label": "South Sudan",
      "value": null,
@@ -45216,50 +45252,26 @@
      "relation": "="
     },
     {
-     "id": "4e3749912679fd",
-     "label": "São Tomé and Príncipe",
+     "id": "9877777b2fbda3",
+     "label": "Sudan",
      "value": null,
      "period": "No observation",
      "status": "announced",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "STP",
+     "country": "SDN",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
     {
-     "id": "478c0d0eb8abc3",
-     "label": "Eswatini",
+     "id": "81fd08ef103acc",
+     "label": "Tanzania",
      "value": null,
      "period": "No observation",
      "status": "announced",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SWZ",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "926c2b928e2322",
-     "label": "Seychelles",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SYC",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "3d75ccfc9d3cc8",
-     "label": "Chad",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "TCD",
+     "country": "TZA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -45288,18 +45300,6 @@
      "relation": "="
     },
     {
-     "id": "81fd08ef103acc",
-     "label": "Tanzania",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "TZA",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "aa181147029727",
      "label": "Uganda",
      "value": null,
@@ -45308,18 +45308,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "UGA",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "23dc5203fa4cc5",
-     "label": "South Africa",
-     "value": null,
-     "period": "No observation",
-     "status": "announced",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "ZAF",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -45350,7 +45338,7 @@
    ],
    "register": "data/infrastructure.json",
    "domain": null,
-   "revision": "30dff049e58d27",
+   "revision": "0df50ecada6874",
    "coverage": {
     "known": 3,
     "total": 54
@@ -45368,6 +45356,18 @@
    "description": "Partial sum of published amounts in named domestic project records with this delivery status. Not national installed capacity, a directory total or an exhaustive investment flow. Multi-country records are excluded, unpublished amounts stay missing, and announcement years may differ. Capex is nominal source-reported USD; portfolio commitments and policy targets are excluded from capex.",
    "rows": [
     {
+     "id": "31fdcc118ce401",
+     "label": "Algeria",
+     "value": null,
+     "period": "No observation",
+     "status": "approved",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "DZA",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "28494430907753",
      "label": "Angola",
      "value": null,
@@ -45376,18 +45376,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "AGO",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "d5ddc0c8c2beb1",
-     "label": "Burundi",
-     "value": null,
-     "period": "No observation",
-     "status": "approved",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "BDI",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -45404,18 +45392,6 @@
      "relation": "="
     },
     {
-     "id": "8344ea95a2470f",
-     "label": "Burkina Faso",
-     "value": null,
-     "period": "No observation",
-     "status": "approved",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "BFA",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "f845c141a3c5b1",
      "label": "Botswana",
      "value": null,
@@ -45428,74 +45404,26 @@
      "relation": "="
     },
     {
-     "id": "3896cd6cfea51d",
-     "label": "Central African Republic",
+     "id": "8344ea95a2470f",
+     "label": "Burkina Faso",
      "value": null,
      "period": "No observation",
      "status": "approved",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CAF",
+     "country": "BFA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
     {
-     "id": "3e95140d544f2d",
-     "label": "Côte d'Ivoire",
-     "value": 170000000.0,
-     "period": "2026-07-20",
-     "status": "approved",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CIV",
-     "note": "1 of 1 matching project records publish this amount. Côte d'Ivoire sovereign data centre: 170000000 USD; https://developingtelecoms.com/telecom-business/telecom-investment-mergers/20549-cote-divoire-approves-starlin",
-     "relation": "="
-    },
-    {
-     "id": "51d431785c8b33",
-     "label": "Cameroon",
+     "id": "d5ddc0c8c2beb1",
+     "label": "Burundi",
      "value": null,
      "period": "No observation",
      "status": "approved",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CMR",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "ca8c6373fbefb8",
-     "label": "Democratic Republic of the Congo",
-     "value": null,
-     "period": "No observation",
-     "status": "approved",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COD",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "7354ab2fd797d9",
-     "label": "Republic of the Congo",
-     "value": null,
-     "period": "No observation",
-     "status": "approved",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COG",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "fc331d1cee889b",
-     "label": "Comoros",
-     "value": null,
-     "period": "No observation",
-     "status": "approved",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COM",
+     "country": "BDI",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -45512,6 +45440,78 @@
      "relation": "="
     },
     {
+     "id": "51d431785c8b33",
+     "label": "Cameroon",
+     "value": null,
+     "period": "No observation",
+     "status": "approved",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CMR",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "3896cd6cfea51d",
+     "label": "Central African Republic",
+     "value": null,
+     "period": "No observation",
+     "status": "approved",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CAF",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "3d75ccfc9d3cc8",
+     "label": "Chad",
+     "value": null,
+     "period": "No observation",
+     "status": "approved",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "TCD",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "fc331d1cee889b",
+     "label": "Comoros",
+     "value": null,
+     "period": "No observation",
+     "status": "approved",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COM",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "3e95140d544f2d",
+     "label": "Côte d'Ivoire",
+     "value": 170000000.0,
+     "period": "2026-07-20",
+     "status": "approved",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CIV",
+     "note": "1 of 1 matching project records publish this amount. Côte d'Ivoire sovereign data centre: 170000000 USD; https://developingtelecoms.com/telecom-business/telecom-investment-mergers/20549-cote-divoire-approves-starlin",
+     "relation": "="
+    },
+    {
+     "id": "ca8c6373fbefb8",
+     "label": "Democratic Republic of the Congo",
+     "value": null,
+     "period": "No observation",
+     "status": "approved",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COD",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "cc5702c7a123b2",
      "label": "Djibouti",
      "value": null,
@@ -45520,18 +45520,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "DJI",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "31fdcc118ce401",
-     "label": "Algeria",
-     "value": null,
-     "period": "No observation",
-     "status": "approved",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "DZA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -45548,6 +45536,18 @@
      "relation": "="
     },
     {
+     "id": "a2c688ca5df72f",
+     "label": "Equatorial Guinea",
+     "value": null,
+     "period": "No observation",
+     "status": "approved",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "GNQ",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "4de4042269a08a",
      "label": "Eritrea",
      "value": null,
@@ -45556,6 +45556,18 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "ERI",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "478c0d0eb8abc3",
+     "label": "Eswatini",
+     "value": null,
+     "period": "No observation",
+     "status": "approved",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "SWZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -45584,6 +45596,18 @@
      "relation": "="
     },
     {
+     "id": "bc0585eb4b292a",
+     "label": "Gambia",
+     "value": null,
+     "period": "No observation",
+     "status": "approved",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "GMB",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "1a3cca8a42af7f",
      "label": "Ghana",
      "value": null,
@@ -45608,18 +45632,6 @@
      "relation": "="
     },
     {
-     "id": "bc0585eb4b292a",
-     "label": "Gambia",
-     "value": null,
-     "period": "No observation",
-     "status": "approved",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "GMB",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "3e56387fe98d6b",
      "label": "Guinea-Bissau",
      "value": null,
@@ -45632,18 +45644,6 @@
      "relation": "="
     },
     {
-     "id": "a2c688ca5df72f",
-     "label": "Equatorial Guinea",
-     "value": null,
-     "period": "No observation",
-     "status": "approved",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "GNQ",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "60287af6fcb065",
      "label": "Kenya",
      "value": null,
@@ -45652,6 +45652,18 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "KEN",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "d4296f70338173",
+     "label": "Lesotho",
+     "value": null,
+     "period": "No observation",
+     "status": "approved",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "LSO",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -45680,30 +45692,6 @@
      "relation": "="
     },
     {
-     "id": "d4296f70338173",
-     "label": "Lesotho",
-     "value": null,
-     "period": "No observation",
-     "status": "approved",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "LSO",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "8904c61a98dbed",
-     "label": "Morocco",
-     "value": null,
-     "period": "No observation",
-     "status": "approved",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MAR",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "de65c83170aba0",
      "label": "Madagascar",
      "value": null,
@@ -45716,6 +45704,18 @@
      "relation": "="
     },
     {
+     "id": "d3023bf42d46fe",
+     "label": "Malawi",
+     "value": null,
+     "period": "No observation",
+     "status": "approved",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "MWI",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "783a184a4940da",
      "label": "Mali",
      "value": null,
@@ -45724,18 +45724,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "MLI",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "db58062bde974f",
-     "label": "Mozambique",
-     "value": null,
-     "period": "No observation",
-     "status": "approved",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MOZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -45764,14 +45752,26 @@
      "relation": "="
     },
     {
-     "id": "d3023bf42d46fe",
-     "label": "Malawi",
+     "id": "8904c61a98dbed",
+     "label": "Morocco",
      "value": null,
      "period": "No observation",
      "status": "approved",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MWI",
+     "country": "MAR",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "db58062bde974f",
+     "label": "Mozambique",
+     "value": null,
+     "period": "No observation",
+     "status": "approved",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "MOZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -45812,6 +45812,18 @@
      "relation": "="
     },
     {
+     "id": "7354ab2fd797d9",
+     "label": "Republic of the Congo",
+     "value": null,
+     "period": "No observation",
+     "status": "approved",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COG",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "f9c4c803804455",
      "label": "Rwanda",
      "value": null,
@@ -45824,14 +45836,14 @@
      "relation": "="
     },
     {
-     "id": "9877777b2fbda3",
-     "label": "Sudan",
+     "id": "4e3749912679fd",
+     "label": "São Tomé and Príncipe",
      "value": null,
      "period": "No observation",
      "status": "approved",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SDN",
+     "country": "STP",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -45844,6 +45856,18 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "SEN",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "926c2b928e2322",
+     "label": "Seychelles",
+     "value": null,
+     "period": "No observation",
+     "status": "approved",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "SYC",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -45872,6 +45896,18 @@
      "relation": "="
     },
     {
+     "id": "23dc5203fa4cc5",
+     "label": "South Africa",
+     "value": null,
+     "period": "No observation",
+     "status": "approved",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "ZAF",
+     "note": "0 of 1 matching project records publish this amount. Equinix Cape Town campus: None USD; https://furtherafrica.com/2026/08/04/equinix-wins-approval-for-major-cape-town-data-centre-campus/",
+     "relation": "="
+    },
+    {
      "id": "38881cf745983e",
      "label": "South Sudan",
      "value": null,
@@ -45884,50 +45920,26 @@
      "relation": "="
     },
     {
-     "id": "4e3749912679fd",
-     "label": "São Tomé and Príncipe",
+     "id": "9877777b2fbda3",
+     "label": "Sudan",
      "value": null,
      "period": "No observation",
      "status": "approved",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "STP",
+     "country": "SDN",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
     {
-     "id": "478c0d0eb8abc3",
-     "label": "Eswatini",
+     "id": "81fd08ef103acc",
+     "label": "Tanzania",
      "value": null,
      "period": "No observation",
      "status": "approved",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SWZ",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "926c2b928e2322",
-     "label": "Seychelles",
-     "value": null,
-     "period": "No observation",
-     "status": "approved",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SYC",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "3d75ccfc9d3cc8",
-     "label": "Chad",
-     "value": null,
-     "period": "No observation",
-     "status": "approved",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "TCD",
+     "country": "TZA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -45956,18 +45968,6 @@
      "relation": "="
     },
     {
-     "id": "81fd08ef103acc",
-     "label": "Tanzania",
-     "value": null,
-     "period": "No observation",
-     "status": "approved",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "TZA",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "aa181147029727",
      "label": "Uganda",
      "value": null,
@@ -45977,18 +45977,6 @@
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "UGA",
      "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "23dc5203fa4cc5",
-     "label": "South Africa",
-     "value": null,
-     "period": "No observation",
-     "status": "approved",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "ZAF",
-     "note": "0 of 1 matching project records publish this amount. Equinix Cape Town campus: None USD; https://furtherafrica.com/2026/08/04/equinix-wins-approval-for-major-cape-town-data-centre-campus/",
      "relation": "="
     },
     {
@@ -46018,7 +46006,7 @@
    ],
    "register": "data/infrastructure.json",
    "domain": null,
-   "revision": "60abce816b1587",
+   "revision": "c96679e1cbdbde",
    "coverage": {
     "known": 2,
     "total": 54
@@ -46036,6 +46024,18 @@
    "description": "Partial sum of published amounts in named domestic project records with this delivery status. Not national installed capacity, a directory total or an exhaustive investment flow. Multi-country records are excluded, unpublished amounts stay missing, and announcement years may differ. Capex is nominal source-reported USD; portfolio commitments and policy targets are excluded from capex.",
    "rows": [
     {
+     "id": "31fdcc118ce401",
+     "label": "Algeria",
+     "value": null,
+     "period": "No observation",
+     "status": "funding",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "DZA",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "28494430907753",
      "label": "Angola",
      "value": null,
@@ -46044,18 +46044,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "AGO",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "d5ddc0c8c2beb1",
-     "label": "Burundi",
-     "value": null,
-     "period": "No observation",
-     "status": "funding",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "BDI",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -46072,18 +46060,6 @@
      "relation": "="
     },
     {
-     "id": "8344ea95a2470f",
-     "label": "Burkina Faso",
-     "value": null,
-     "period": "No observation",
-     "status": "funding",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "BFA",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "f845c141a3c5b1",
      "label": "Botswana",
      "value": null,
@@ -46096,74 +46072,26 @@
      "relation": "="
     },
     {
-     "id": "3896cd6cfea51d",
-     "label": "Central African Republic",
+     "id": "8344ea95a2470f",
+     "label": "Burkina Faso",
      "value": null,
      "period": "No observation",
      "status": "funding",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CAF",
+     "country": "BFA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
     {
-     "id": "3e95140d544f2d",
-     "label": "Côte d'Ivoire",
+     "id": "d5ddc0c8c2beb1",
+     "label": "Burundi",
      "value": null,
      "period": "No observation",
      "status": "funding",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CIV",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "51d431785c8b33",
-     "label": "Cameroon",
-     "value": null,
-     "period": "No observation",
-     "status": "funding",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CMR",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "ca8c6373fbefb8",
-     "label": "Democratic Republic of the Congo",
-     "value": null,
-     "period": "No observation",
-     "status": "funding",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COD",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "7354ab2fd797d9",
-     "label": "Republic of the Congo",
-     "value": null,
-     "period": "No observation",
-     "status": "funding",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COG",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "fc331d1cee889b",
-     "label": "Comoros",
-     "value": null,
-     "period": "No observation",
-     "status": "funding",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COM",
+     "country": "BDI",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -46180,6 +46108,78 @@
      "relation": "="
     },
     {
+     "id": "51d431785c8b33",
+     "label": "Cameroon",
+     "value": null,
+     "period": "No observation",
+     "status": "funding",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CMR",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "3896cd6cfea51d",
+     "label": "Central African Republic",
+     "value": null,
+     "period": "No observation",
+     "status": "funding",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CAF",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "3d75ccfc9d3cc8",
+     "label": "Chad",
+     "value": null,
+     "period": "No observation",
+     "status": "funding",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "TCD",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "fc331d1cee889b",
+     "label": "Comoros",
+     "value": null,
+     "period": "No observation",
+     "status": "funding",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COM",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "3e95140d544f2d",
+     "label": "Côte d'Ivoire",
+     "value": null,
+     "period": "No observation",
+     "status": "funding",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CIV",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "ca8c6373fbefb8",
+     "label": "Democratic Republic of the Congo",
+     "value": null,
+     "period": "No observation",
+     "status": "funding",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COD",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "cc5702c7a123b2",
      "label": "Djibouti",
      "value": null,
@@ -46188,18 +46188,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "DJI",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "31fdcc118ce401",
-     "label": "Algeria",
-     "value": null,
-     "period": "No observation",
-     "status": "funding",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "DZA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -46216,6 +46204,18 @@
      "relation": "="
     },
     {
+     "id": "a2c688ca5df72f",
+     "label": "Equatorial Guinea",
+     "value": null,
+     "period": "No observation",
+     "status": "funding",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "GNQ",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "4de4042269a08a",
      "label": "Eritrea",
      "value": null,
@@ -46224,6 +46224,18 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "ERI",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "478c0d0eb8abc3",
+     "label": "Eswatini",
+     "value": null,
+     "period": "No observation",
+     "status": "funding",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "SWZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -46252,6 +46264,18 @@
      "relation": "="
     },
     {
+     "id": "bc0585eb4b292a",
+     "label": "Gambia",
+     "value": null,
+     "period": "No observation",
+     "status": "funding",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "GMB",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "1a3cca8a42af7f",
      "label": "Ghana",
      "value": null,
@@ -46276,18 +46300,6 @@
      "relation": "="
     },
     {
-     "id": "bc0585eb4b292a",
-     "label": "Gambia",
-     "value": null,
-     "period": "No observation",
-     "status": "funding",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "GMB",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "3e56387fe98d6b",
      "label": "Guinea-Bissau",
      "value": null,
@@ -46300,18 +46312,6 @@
      "relation": "="
     },
     {
-     "id": "a2c688ca5df72f",
-     "label": "Equatorial Guinea",
-     "value": null,
-     "period": "No observation",
-     "status": "funding",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "GNQ",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "60287af6fcb065",
      "label": "Kenya",
      "value": null,
@@ -46320,6 +46320,18 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "KEN",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "d4296f70338173",
+     "label": "Lesotho",
+     "value": null,
+     "period": "No observation",
+     "status": "funding",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "LSO",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -46348,30 +46360,6 @@
      "relation": "="
     },
     {
-     "id": "d4296f70338173",
-     "label": "Lesotho",
-     "value": null,
-     "period": "No observation",
-     "status": "funding",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "LSO",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "8904c61a98dbed",
-     "label": "Morocco",
-     "value": null,
-     "period": "No observation",
-     "status": "funding",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MAR",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "de65c83170aba0",
      "label": "Madagascar",
      "value": null,
@@ -46384,6 +46372,18 @@
      "relation": "="
     },
     {
+     "id": "d3023bf42d46fe",
+     "label": "Malawi",
+     "value": null,
+     "period": "No observation",
+     "status": "funding",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "MWI",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "783a184a4940da",
      "label": "Mali",
      "value": null,
@@ -46392,18 +46392,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "MLI",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "db58062bde974f",
-     "label": "Mozambique",
-     "value": null,
-     "period": "No observation",
-     "status": "funding",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MOZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -46432,14 +46420,26 @@
      "relation": "="
     },
     {
-     "id": "d3023bf42d46fe",
-     "label": "Malawi",
+     "id": "8904c61a98dbed",
+     "label": "Morocco",
      "value": null,
      "period": "No observation",
      "status": "funding",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MWI",
+     "country": "MAR",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "db58062bde974f",
+     "label": "Mozambique",
+     "value": null,
+     "period": "No observation",
+     "status": "funding",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "MOZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -46480,6 +46480,18 @@
      "relation": "="
     },
     {
+     "id": "7354ab2fd797d9",
+     "label": "Republic of the Congo",
+     "value": null,
+     "period": "No observation",
+     "status": "funding",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COG",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "f9c4c803804455",
      "label": "Rwanda",
      "value": null,
@@ -46492,14 +46504,14 @@
      "relation": "="
     },
     {
-     "id": "9877777b2fbda3",
-     "label": "Sudan",
+     "id": "4e3749912679fd",
+     "label": "São Tomé and Príncipe",
      "value": null,
      "period": "No observation",
      "status": "funding",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SDN",
+     "country": "STP",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -46512,6 +46524,18 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "SEN",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "926c2b928e2322",
+     "label": "Seychelles",
+     "value": null,
+     "period": "No observation",
+     "status": "funding",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "SYC",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -46540,6 +46564,18 @@
      "relation": "="
     },
     {
+     "id": "23dc5203fa4cc5",
+     "label": "South Africa",
+     "value": null,
+     "period": "No observation",
+     "status": "funding",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "ZAF",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "38881cf745983e",
      "label": "South Sudan",
      "value": null,
@@ -46552,50 +46588,26 @@
      "relation": "="
     },
     {
-     "id": "4e3749912679fd",
-     "label": "São Tomé and Príncipe",
+     "id": "9877777b2fbda3",
+     "label": "Sudan",
      "value": null,
      "period": "No observation",
      "status": "funding",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "STP",
+     "country": "SDN",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
     {
-     "id": "478c0d0eb8abc3",
-     "label": "Eswatini",
+     "id": "81fd08ef103acc",
+     "label": "Tanzania",
      "value": null,
      "period": "No observation",
      "status": "funding",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SWZ",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "926c2b928e2322",
-     "label": "Seychelles",
-     "value": null,
-     "period": "No observation",
-     "status": "funding",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SYC",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "3d75ccfc9d3cc8",
-     "label": "Chad",
-     "value": null,
-     "period": "No observation",
-     "status": "funding",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "TCD",
+     "country": "TZA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -46624,18 +46636,6 @@
      "relation": "="
     },
     {
-     "id": "81fd08ef103acc",
-     "label": "Tanzania",
-     "value": null,
-     "period": "No observation",
-     "status": "funding",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "TZA",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "aa181147029727",
      "label": "Uganda",
      "value": null,
@@ -46644,18 +46644,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "UGA",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "23dc5203fa4cc5",
-     "label": "South Africa",
-     "value": null,
-     "period": "No observation",
-     "status": "funding",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "ZAF",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -46686,7 +46674,7 @@
    ],
    "register": "data/infrastructure.json",
    "domain": null,
-   "revision": "a0331628bfa133",
+   "revision": "48d490e65a4057",
    "coverage": {
     "known": 0,
     "total": 54
@@ -46704,6 +46692,18 @@
    "description": "Partial sum of published amounts in named domestic project records with this delivery status. Not national installed capacity, a directory total or an exhaustive investment flow. Multi-country records are excluded, unpublished amounts stay missing, and announcement years may differ. Capex is nominal source-reported USD; portfolio commitments and policy targets are excluded from capex.",
    "rows": [
     {
+     "id": "31fdcc118ce401",
+     "label": "Algeria",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "DZA",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "28494430907753",
      "label": "Angola",
      "value": null,
@@ -46712,18 +46712,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "AGO",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "d5ddc0c8c2beb1",
-     "label": "Burundi",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "BDI",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -46740,18 +46728,6 @@
      "relation": "="
     },
     {
-     "id": "8344ea95a2470f",
-     "label": "Burkina Faso",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "BFA",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "f845c141a3c5b1",
      "label": "Botswana",
      "value": null,
@@ -46764,74 +46740,26 @@
      "relation": "="
     },
     {
-     "id": "3896cd6cfea51d",
-     "label": "Central African Republic",
+     "id": "8344ea95a2470f",
+     "label": "Burkina Faso",
      "value": null,
      "period": "No observation",
      "status": "operational",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CAF",
+     "country": "BFA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
     {
-     "id": "3e95140d544f2d",
-     "label": "Côte d'Ivoire",
+     "id": "d5ddc0c8c2beb1",
+     "label": "Burundi",
      "value": null,
      "period": "No observation",
      "status": "operational",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CIV",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "51d431785c8b33",
-     "label": "Cameroon",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CMR",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "ca8c6373fbefb8",
-     "label": "Democratic Republic of the Congo",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COD",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "7354ab2fd797d9",
-     "label": "Republic of the Congo",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COG",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "fc331d1cee889b",
-     "label": "Comoros",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COM",
+     "country": "BDI",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -46848,6 +46776,78 @@
      "relation": "="
     },
     {
+     "id": "51d431785c8b33",
+     "label": "Cameroon",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CMR",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "3896cd6cfea51d",
+     "label": "Central African Republic",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CAF",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "3d75ccfc9d3cc8",
+     "label": "Chad",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "TCD",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "fc331d1cee889b",
+     "label": "Comoros",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COM",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "3e95140d544f2d",
+     "label": "Côte d'Ivoire",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CIV",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "ca8c6373fbefb8",
+     "label": "Democratic Republic of the Congo",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COD",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "cc5702c7a123b2",
      "label": "Djibouti",
      "value": null,
@@ -46856,18 +46856,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "DJI",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "31fdcc118ce401",
-     "label": "Algeria",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "DZA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -46884,6 +46872,18 @@
      "relation": "="
     },
     {
+     "id": "a2c688ca5df72f",
+     "label": "Equatorial Guinea",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "GNQ",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "4de4042269a08a",
      "label": "Eritrea",
      "value": null,
@@ -46892,6 +46892,18 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "ERI",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "478c0d0eb8abc3",
+     "label": "Eswatini",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "SWZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -46920,6 +46932,18 @@
      "relation": "="
     },
     {
+     "id": "bc0585eb4b292a",
+     "label": "Gambia",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "GMB",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "1a3cca8a42af7f",
      "label": "Ghana",
      "value": null,
@@ -46944,18 +46968,6 @@
      "relation": "="
     },
     {
-     "id": "bc0585eb4b292a",
-     "label": "Gambia",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "GMB",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "3e56387fe98d6b",
      "label": "Guinea-Bissau",
      "value": null,
@@ -46964,18 +46976,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "GNB",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "a2c688ca5df72f",
-     "label": "Equatorial Guinea",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "GNQ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -46989,6 +46989,18 @@
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "KEN",
      "note": "1 of 1 matching project records publish this amount. Nairobi Two (NBO2): 6.4 MW; https://techafricanews.com/2026/09/07/digital-realty-opens-6-4mw-nairobi-two-data-center-east-africa/",
+     "relation": "="
+    },
+    {
+     "id": "d4296f70338173",
+     "label": "Lesotho",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "LSO",
+     "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
     {
@@ -47016,30 +47028,6 @@
      "relation": "="
     },
     {
-     "id": "d4296f70338173",
-     "label": "Lesotho",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "LSO",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "8904c61a98dbed",
-     "label": "Morocco",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MAR",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "de65c83170aba0",
      "label": "Madagascar",
      "value": null,
@@ -47052,6 +47040,18 @@
      "relation": "="
     },
     {
+     "id": "d3023bf42d46fe",
+     "label": "Malawi",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "MWI",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "783a184a4940da",
      "label": "Mali",
      "value": null,
@@ -47060,18 +47060,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "MLI",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "db58062bde974f",
-     "label": "Mozambique",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MOZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -47100,14 +47088,26 @@
      "relation": "="
     },
     {
-     "id": "d3023bf42d46fe",
-     "label": "Malawi",
+     "id": "8904c61a98dbed",
+     "label": "Morocco",
      "value": null,
      "period": "No observation",
      "status": "operational",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MWI",
+     "country": "MAR",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "db58062bde974f",
+     "label": "Mozambique",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "MOZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -47148,6 +47148,18 @@
      "relation": "="
     },
     {
+     "id": "7354ab2fd797d9",
+     "label": "Republic of the Congo",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COG",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "f9c4c803804455",
      "label": "Rwanda",
      "value": null,
@@ -47160,14 +47172,14 @@
      "relation": "="
     },
     {
-     "id": "9877777b2fbda3",
-     "label": "Sudan",
+     "id": "4e3749912679fd",
+     "label": "São Tomé and Príncipe",
      "value": null,
      "period": "No observation",
      "status": "operational",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SDN",
+     "country": "STP",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -47180,6 +47192,18 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "SEN",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "926c2b928e2322",
+     "label": "Seychelles",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "SYC",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -47208,6 +47232,18 @@
      "relation": "="
     },
     {
+     "id": "23dc5203fa4cc5",
+     "label": "South Africa",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "ZAF",
+     "note": "0 of 1 matching project records publish this amount. Cassava AI Factory: None MW; https://techafricanews.com/2026/08/26/cassava-ai-factory-ranks-36th-top500/",
+     "relation": "="
+    },
+    {
      "id": "38881cf745983e",
      "label": "South Sudan",
      "value": null,
@@ -47220,50 +47256,26 @@
      "relation": "="
     },
     {
-     "id": "4e3749912679fd",
-     "label": "São Tomé and Príncipe",
+     "id": "9877777b2fbda3",
+     "label": "Sudan",
      "value": null,
      "period": "No observation",
      "status": "operational",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "STP",
+     "country": "SDN",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
     {
-     "id": "478c0d0eb8abc3",
-     "label": "Eswatini",
+     "id": "81fd08ef103acc",
+     "label": "Tanzania",
      "value": null,
      "period": "No observation",
      "status": "operational",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SWZ",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "926c2b928e2322",
-     "label": "Seychelles",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SYC",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "3d75ccfc9d3cc8",
-     "label": "Chad",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "TCD",
+     "country": "TZA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -47292,18 +47304,6 @@
      "relation": "="
     },
     {
-     "id": "81fd08ef103acc",
-     "label": "Tanzania",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "TZA",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "aa181147029727",
      "label": "Uganda",
      "value": null,
@@ -47313,18 +47313,6 @@
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "UGA",
      "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "23dc5203fa4cc5",
-     "label": "South Africa",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "ZAF",
-     "note": "0 of 1 matching project records publish this amount. Cassava AI Factory: None MW; https://techafricanews.com/2026/08/26/cassava-ai-factory-ranks-36th-top500/",
      "relation": "="
     },
     {
@@ -47354,7 +47342,7 @@
    ],
    "register": "data/infrastructure.json",
    "domain": null,
-   "revision": "552c063adf3374",
+   "revision": "b99a9703eb39dc",
    "coverage": {
     "known": 1,
     "total": 54
@@ -47372,6 +47360,18 @@
    "description": "Partial sum of published amounts in named domestic project records with this delivery status. Not national installed capacity, a directory total or an exhaustive investment flow. Multi-country records are excluded, unpublished amounts stay missing, and announcement years may differ. Capex is nominal source-reported USD; portfolio commitments and policy targets are excluded from capex.",
    "rows": [
     {
+     "id": "31fdcc118ce401",
+     "label": "Algeria",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "DZA",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "28494430907753",
      "label": "Angola",
      "value": null,
@@ -47380,18 +47380,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "AGO",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "d5ddc0c8c2beb1",
-     "label": "Burundi",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "BDI",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -47408,18 +47396,6 @@
      "relation": "="
     },
     {
-     "id": "8344ea95a2470f",
-     "label": "Burkina Faso",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "BFA",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "f845c141a3c5b1",
      "label": "Botswana",
      "value": null,
@@ -47432,74 +47408,26 @@
      "relation": "="
     },
     {
-     "id": "3896cd6cfea51d",
-     "label": "Central African Republic",
+     "id": "8344ea95a2470f",
+     "label": "Burkina Faso",
      "value": null,
      "period": "No observation",
      "status": "operational",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CAF",
+     "country": "BFA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
     {
-     "id": "3e95140d544f2d",
-     "label": "Côte d'Ivoire",
+     "id": "d5ddc0c8c2beb1",
+     "label": "Burundi",
      "value": null,
      "period": "No observation",
      "status": "operational",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CIV",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "51d431785c8b33",
-     "label": "Cameroon",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CMR",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "ca8c6373fbefb8",
-     "label": "Democratic Republic of the Congo",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COD",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "7354ab2fd797d9",
-     "label": "Republic of the Congo",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COG",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "fc331d1cee889b",
-     "label": "Comoros",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COM",
+     "country": "BDI",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -47516,6 +47444,78 @@
      "relation": "="
     },
     {
+     "id": "51d431785c8b33",
+     "label": "Cameroon",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CMR",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "3896cd6cfea51d",
+     "label": "Central African Republic",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CAF",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "3d75ccfc9d3cc8",
+     "label": "Chad",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "TCD",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "fc331d1cee889b",
+     "label": "Comoros",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COM",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "3e95140d544f2d",
+     "label": "Côte d'Ivoire",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CIV",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "ca8c6373fbefb8",
+     "label": "Democratic Republic of the Congo",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COD",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "cc5702c7a123b2",
      "label": "Djibouti",
      "value": null,
@@ -47524,18 +47524,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "DJI",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "31fdcc118ce401",
-     "label": "Algeria",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "DZA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -47552,6 +47540,18 @@
      "relation": "="
     },
     {
+     "id": "a2c688ca5df72f",
+     "label": "Equatorial Guinea",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "GNQ",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "4de4042269a08a",
      "label": "Eritrea",
      "value": null,
@@ -47560,6 +47560,18 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "ERI",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "478c0d0eb8abc3",
+     "label": "Eswatini",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "SWZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -47588,6 +47600,18 @@
      "relation": "="
     },
     {
+     "id": "bc0585eb4b292a",
+     "label": "Gambia",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "GMB",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "1a3cca8a42af7f",
      "label": "Ghana",
      "value": null,
@@ -47612,18 +47636,6 @@
      "relation": "="
     },
     {
-     "id": "bc0585eb4b292a",
-     "label": "Gambia",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "GMB",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "3e56387fe98d6b",
      "label": "Guinea-Bissau",
      "value": null,
@@ -47632,18 +47644,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "GNB",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "a2c688ca5df72f",
-     "label": "Equatorial Guinea",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "GNQ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -47657,6 +47657,18 @@
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "KEN",
      "note": "0 of 1 matching project records publish this amount. Nairobi Two (NBO2): None USD; https://techafricanews.com/2026/09/07/digital-realty-opens-6-4mw-nairobi-two-data-center-east-africa/",
+     "relation": "="
+    },
+    {
+     "id": "d4296f70338173",
+     "label": "Lesotho",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "LSO",
+     "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
     {
@@ -47684,30 +47696,6 @@
      "relation": "="
     },
     {
-     "id": "d4296f70338173",
-     "label": "Lesotho",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "LSO",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "8904c61a98dbed",
-     "label": "Morocco",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MAR",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "de65c83170aba0",
      "label": "Madagascar",
      "value": null,
@@ -47720,6 +47708,18 @@
      "relation": "="
     },
     {
+     "id": "d3023bf42d46fe",
+     "label": "Malawi",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "MWI",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "783a184a4940da",
      "label": "Mali",
      "value": null,
@@ -47728,18 +47728,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "MLI",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "db58062bde974f",
-     "label": "Mozambique",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MOZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -47768,14 +47756,26 @@
      "relation": "="
     },
     {
-     "id": "d3023bf42d46fe",
-     "label": "Malawi",
+     "id": "8904c61a98dbed",
+     "label": "Morocco",
      "value": null,
      "period": "No observation",
      "status": "operational",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MWI",
+     "country": "MAR",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "db58062bde974f",
+     "label": "Mozambique",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "MOZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -47816,6 +47816,18 @@
      "relation": "="
     },
     {
+     "id": "7354ab2fd797d9",
+     "label": "Republic of the Congo",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COG",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "f9c4c803804455",
      "label": "Rwanda",
      "value": null,
@@ -47828,14 +47840,14 @@
      "relation": "="
     },
     {
-     "id": "9877777b2fbda3",
-     "label": "Sudan",
+     "id": "4e3749912679fd",
+     "label": "São Tomé and Príncipe",
      "value": null,
      "period": "No observation",
      "status": "operational",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SDN",
+     "country": "STP",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -47848,6 +47860,18 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "SEN",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "926c2b928e2322",
+     "label": "Seychelles",
+     "value": null,
+     "period": "No observation",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "SYC",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -47876,6 +47900,18 @@
      "relation": "="
     },
     {
+     "id": "23dc5203fa4cc5",
+     "label": "South Africa",
+     "value": 700000000.0,
+     "period": "2026-08-26",
+     "status": "operational",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "ZAF",
+     "note": "1 of 1 matching project records publish this amount. Cassava AI Factory: 700000000 USD; https://techafricanews.com/2026/08/26/cassava-ai-factory-ranks-36th-top500/",
+     "relation": "="
+    },
+    {
      "id": "38881cf745983e",
      "label": "South Sudan",
      "value": null,
@@ -47888,50 +47924,26 @@
      "relation": "="
     },
     {
-     "id": "4e3749912679fd",
-     "label": "São Tomé and Príncipe",
+     "id": "9877777b2fbda3",
+     "label": "Sudan",
      "value": null,
      "period": "No observation",
      "status": "operational",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "STP",
+     "country": "SDN",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
     {
-     "id": "478c0d0eb8abc3",
-     "label": "Eswatini",
+     "id": "81fd08ef103acc",
+     "label": "Tanzania",
      "value": null,
      "period": "No observation",
      "status": "operational",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SWZ",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "926c2b928e2322",
-     "label": "Seychelles",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SYC",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "3d75ccfc9d3cc8",
-     "label": "Chad",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "TCD",
+     "country": "TZA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -47960,18 +47972,6 @@
      "relation": "="
     },
     {
-     "id": "81fd08ef103acc",
-     "label": "Tanzania",
-     "value": null,
-     "period": "No observation",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "TZA",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "aa181147029727",
      "label": "Uganda",
      "value": null,
@@ -47981,18 +47981,6 @@
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "UGA",
      "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "23dc5203fa4cc5",
-     "label": "South Africa",
-     "value": 700000000.0,
-     "period": "2026-08-26",
-     "status": "operational",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "ZAF",
-     "note": "1 of 1 matching project records publish this amount. Cassava AI Factory: 700000000 USD; https://techafricanews.com/2026/08/26/cassava-ai-factory-ranks-36th-top500/",
      "relation": "="
     },
     {
@@ -48022,7 +48010,7 @@
    ],
    "register": "data/infrastructure.json",
    "domain": null,
-   "revision": "45ef60e167d25b",
+   "revision": "4e34c01b1b474d",
    "coverage": {
     "known": 1,
     "total": 54
@@ -48040,6 +48028,18 @@
    "description": "Partial sum of published amounts in named domestic project records with this delivery status. Not national installed capacity, a directory total or an exhaustive investment flow. Multi-country records are excluded, unpublished amounts stay missing, and announcement years may differ. Capex is nominal source-reported USD; portfolio commitments and policy targets are excluded from capex.",
    "rows": [
     {
+     "id": "31fdcc118ce401",
+     "label": "Algeria",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "DZA",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "28494430907753",
      "label": "Angola",
      "value": null,
@@ -48048,18 +48048,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "AGO",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "d5ddc0c8c2beb1",
-     "label": "Burundi",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "BDI",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -48076,18 +48064,6 @@
      "relation": "="
     },
     {
-     "id": "8344ea95a2470f",
-     "label": "Burkina Faso",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "BFA",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "f845c141a3c5b1",
      "label": "Botswana",
      "value": null,
@@ -48100,74 +48076,26 @@
      "relation": "="
     },
     {
-     "id": "3896cd6cfea51d",
-     "label": "Central African Republic",
+     "id": "8344ea95a2470f",
+     "label": "Burkina Faso",
      "value": null,
      "period": "No observation",
      "status": "under_construction",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CAF",
+     "country": "BFA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
     {
-     "id": "3e95140d544f2d",
-     "label": "Côte d'Ivoire",
+     "id": "d5ddc0c8c2beb1",
+     "label": "Burundi",
      "value": null,
      "period": "No observation",
      "status": "under_construction",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CIV",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "51d431785c8b33",
-     "label": "Cameroon",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CMR",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "ca8c6373fbefb8",
-     "label": "Democratic Republic of the Congo",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COD",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "7354ab2fd797d9",
-     "label": "Republic of the Congo",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COG",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "fc331d1cee889b",
-     "label": "Comoros",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COM",
+     "country": "BDI",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -48184,6 +48112,78 @@
      "relation": "="
     },
     {
+     "id": "51d431785c8b33",
+     "label": "Cameroon",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CMR",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "3896cd6cfea51d",
+     "label": "Central African Republic",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CAF",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "3d75ccfc9d3cc8",
+     "label": "Chad",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "TCD",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "fc331d1cee889b",
+     "label": "Comoros",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COM",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "3e95140d544f2d",
+     "label": "Côte d'Ivoire",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CIV",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "ca8c6373fbefb8",
+     "label": "Democratic Republic of the Congo",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COD",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "cc5702c7a123b2",
      "label": "Djibouti",
      "value": null,
@@ -48192,18 +48192,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "DJI",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "31fdcc118ce401",
-     "label": "Algeria",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "DZA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -48220,6 +48208,18 @@
      "relation": "="
     },
     {
+     "id": "a2c688ca5df72f",
+     "label": "Equatorial Guinea",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "GNQ",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "4de4042269a08a",
      "label": "Eritrea",
      "value": null,
@@ -48228,6 +48228,18 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "ERI",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "478c0d0eb8abc3",
+     "label": "Eswatini",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "SWZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -48256,6 +48268,18 @@
      "relation": "="
     },
     {
+     "id": "bc0585eb4b292a",
+     "label": "Gambia",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "GMB",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "1a3cca8a42af7f",
      "label": "Ghana",
      "value": null,
@@ -48280,18 +48304,6 @@
      "relation": "="
     },
     {
-     "id": "bc0585eb4b292a",
-     "label": "Gambia",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "GMB",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "3e56387fe98d6b",
      "label": "Guinea-Bissau",
      "value": null,
@@ -48300,18 +48312,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "GNB",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "a2c688ca5df72f",
-     "label": "Equatorial Guinea",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "GNQ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -48325,6 +48325,18 @@
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "KEN",
      "note": "0 of 1 matching project records publish this amount. Airtel Kenya data centre: None MW; https://techafricanews.com/2026/08/07/airtels-150m-kenya-data-centre-now-targets-july-2027-launch/",
+     "relation": "="
+    },
+    {
+     "id": "d4296f70338173",
+     "label": "Lesotho",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "LSO",
+     "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
     {
@@ -48352,30 +48364,6 @@
      "relation": "="
     },
     {
-     "id": "d4296f70338173",
-     "label": "Lesotho",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "LSO",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "8904c61a98dbed",
-     "label": "Morocco",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MAR",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "de65c83170aba0",
      "label": "Madagascar",
      "value": null,
@@ -48388,6 +48376,18 @@
      "relation": "="
     },
     {
+     "id": "d3023bf42d46fe",
+     "label": "Malawi",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "MWI",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "783a184a4940da",
      "label": "Mali",
      "value": null,
@@ -48396,18 +48396,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "MLI",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "db58062bde974f",
-     "label": "Mozambique",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MOZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -48436,14 +48424,26 @@
      "relation": "="
     },
     {
-     "id": "d3023bf42d46fe",
-     "label": "Malawi",
+     "id": "8904c61a98dbed",
+     "label": "Morocco",
      "value": null,
      "period": "No observation",
      "status": "under_construction",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MWI",
+     "country": "MAR",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "db58062bde974f",
+     "label": "Mozambique",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "MOZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -48484,6 +48484,18 @@
      "relation": "="
     },
     {
+     "id": "7354ab2fd797d9",
+     "label": "Republic of the Congo",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COG",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "f9c4c803804455",
      "label": "Rwanda",
      "value": null,
@@ -48496,14 +48508,14 @@
      "relation": "="
     },
     {
-     "id": "9877777b2fbda3",
-     "label": "Sudan",
+     "id": "4e3749912679fd",
+     "label": "São Tomé and Príncipe",
      "value": null,
      "period": "No observation",
      "status": "under_construction",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SDN",
+     "country": "STP",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -48516,6 +48528,18 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "SEN",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "926c2b928e2322",
+     "label": "Seychelles",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "SYC",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -48544,6 +48568,18 @@
      "relation": "="
     },
     {
+     "id": "23dc5203fa4cc5",
+     "label": "South Africa",
+     "value": 40.0,
+     "period": "2024-11-13",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "ZAF",
+     "note": "1 of 1 matching project records publish this amount. Teraco JB7 data centre expansion: 40 MW; https://mybroadband.co.za/news/cloud-hosting/664345-one-data-centre-in-south-africa-will-use-more-power-than-kimberley-or-nelspruit.html",
+     "relation": "="
+    },
+    {
      "id": "38881cf745983e",
      "label": "South Sudan",
      "value": null,
@@ -48556,50 +48592,26 @@
      "relation": "="
     },
     {
-     "id": "4e3749912679fd",
-     "label": "São Tomé and Príncipe",
+     "id": "9877777b2fbda3",
+     "label": "Sudan",
      "value": null,
      "period": "No observation",
      "status": "under_construction",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "STP",
+     "country": "SDN",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
     {
-     "id": "478c0d0eb8abc3",
-     "label": "Eswatini",
+     "id": "81fd08ef103acc",
+     "label": "Tanzania",
      "value": null,
      "period": "No observation",
      "status": "under_construction",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SWZ",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "926c2b928e2322",
-     "label": "Seychelles",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SYC",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "3d75ccfc9d3cc8",
-     "label": "Chad",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "TCD",
+     "country": "TZA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -48628,18 +48640,6 @@
      "relation": "="
     },
     {
-     "id": "81fd08ef103acc",
-     "label": "Tanzania",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "TZA",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "aa181147029727",
      "label": "Uganda",
      "value": null,
@@ -48649,18 +48649,6 @@
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "UGA",
      "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "23dc5203fa4cc5",
-     "label": "South Africa",
-     "value": 40.0,
-     "period": "2024-11-13",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "ZAF",
-     "note": "1 of 1 matching project records publish this amount. Teraco JB7 data centre expansion: 40 MW; https://mybroadband.co.za/news/cloud-hosting/664345-one-data-centre-in-south-africa-will-use-more-power-than-kimberley-or-nelspruit.html",
      "relation": "="
     },
     {
@@ -48690,7 +48678,7 @@
    ],
    "register": "data/infrastructure.json",
    "domain": null,
-   "revision": "51ddb9e13730ea",
+   "revision": "998b0dd178718d",
    "coverage": {
     "known": 1,
     "total": 54
@@ -48708,6 +48696,18 @@
    "description": "Partial sum of published amounts in named domestic project records with this delivery status. Not national installed capacity, a directory total or an exhaustive investment flow. Multi-country records are excluded, unpublished amounts stay missing, and announcement years may differ. Capex is nominal source-reported USD; portfolio commitments and policy targets are excluded from capex.",
    "rows": [
     {
+     "id": "31fdcc118ce401",
+     "label": "Algeria",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "DZA",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "28494430907753",
      "label": "Angola",
      "value": null,
@@ -48716,18 +48716,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "AGO",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "d5ddc0c8c2beb1",
-     "label": "Burundi",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "BDI",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -48744,18 +48732,6 @@
      "relation": "="
     },
     {
-     "id": "8344ea95a2470f",
-     "label": "Burkina Faso",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "BFA",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "f845c141a3c5b1",
      "label": "Botswana",
      "value": null,
@@ -48768,74 +48744,26 @@
      "relation": "="
     },
     {
-     "id": "3896cd6cfea51d",
-     "label": "Central African Republic",
+     "id": "8344ea95a2470f",
+     "label": "Burkina Faso",
      "value": null,
      "period": "No observation",
      "status": "under_construction",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CAF",
+     "country": "BFA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
     {
-     "id": "3e95140d544f2d",
-     "label": "Côte d'Ivoire",
+     "id": "d5ddc0c8c2beb1",
+     "label": "Burundi",
      "value": null,
      "period": "No observation",
      "status": "under_construction",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CIV",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "51d431785c8b33",
-     "label": "Cameroon",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "CMR",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "ca8c6373fbefb8",
-     "label": "Democratic Republic of the Congo",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COD",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "7354ab2fd797d9",
-     "label": "Republic of the Congo",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COG",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "fc331d1cee889b",
-     "label": "Comoros",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "COM",
+     "country": "BDI",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -48852,6 +48780,78 @@
      "relation": "="
     },
     {
+     "id": "51d431785c8b33",
+     "label": "Cameroon",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CMR",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "3896cd6cfea51d",
+     "label": "Central African Republic",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CAF",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "3d75ccfc9d3cc8",
+     "label": "Chad",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "TCD",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "fc331d1cee889b",
+     "label": "Comoros",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COM",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "3e95140d544f2d",
+     "label": "Côte d'Ivoire",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "CIV",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "ca8c6373fbefb8",
+     "label": "Democratic Republic of the Congo",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COD",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "cc5702c7a123b2",
      "label": "Djibouti",
      "value": null,
@@ -48860,18 +48860,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "DJI",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "31fdcc118ce401",
-     "label": "Algeria",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "DZA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -48888,6 +48876,18 @@
      "relation": "="
     },
     {
+     "id": "a2c688ca5df72f",
+     "label": "Equatorial Guinea",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "GNQ",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "4de4042269a08a",
      "label": "Eritrea",
      "value": null,
@@ -48896,6 +48896,18 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "ERI",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "478c0d0eb8abc3",
+     "label": "Eswatini",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "SWZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -48924,6 +48936,18 @@
      "relation": "="
     },
     {
+     "id": "bc0585eb4b292a",
+     "label": "Gambia",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "GMB",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "1a3cca8a42af7f",
      "label": "Ghana",
      "value": null,
@@ -48948,18 +48972,6 @@
      "relation": "="
     },
     {
-     "id": "bc0585eb4b292a",
-     "label": "Gambia",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "GMB",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "3e56387fe98d6b",
      "label": "Guinea-Bissau",
      "value": null,
@@ -48968,18 +48980,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "GNB",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "a2c688ca5df72f",
-     "label": "Equatorial Guinea",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "GNQ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -48993,6 +48993,18 @@
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "KEN",
      "note": "1 of 1 matching project records publish this amount. Airtel Kenya data centre: 150000000 USD; https://techafricanews.com/2026/08/07/airtels-150m-kenya-data-centre-now-targets-july-2027-launch/",
+     "relation": "="
+    },
+    {
+     "id": "d4296f70338173",
+     "label": "Lesotho",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "LSO",
+     "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
     {
@@ -49020,30 +49032,6 @@
      "relation": "="
     },
     {
-     "id": "d4296f70338173",
-     "label": "Lesotho",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "LSO",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "8904c61a98dbed",
-     "label": "Morocco",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MAR",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "de65c83170aba0",
      "label": "Madagascar",
      "value": null,
@@ -49056,6 +49044,18 @@
      "relation": "="
     },
     {
+     "id": "d3023bf42d46fe",
+     "label": "Malawi",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "MWI",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "783a184a4940da",
      "label": "Mali",
      "value": null,
@@ -49064,18 +49064,6 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "MLI",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "db58062bde974f",
-     "label": "Mozambique",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MOZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -49104,14 +49092,26 @@
      "relation": "="
     },
     {
-     "id": "d3023bf42d46fe",
-     "label": "Malawi",
+     "id": "8904c61a98dbed",
+     "label": "Morocco",
      "value": null,
      "period": "No observation",
      "status": "under_construction",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "MWI",
+     "country": "MAR",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "db58062bde974f",
+     "label": "Mozambique",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "MOZ",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -49152,6 +49152,18 @@
      "relation": "="
     },
     {
+     "id": "7354ab2fd797d9",
+     "label": "Republic of the Congo",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "COG",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
      "id": "f9c4c803804455",
      "label": "Rwanda",
      "value": null,
@@ -49164,14 +49176,14 @@
      "relation": "="
     },
     {
-     "id": "9877777b2fbda3",
-     "label": "Sudan",
+     "id": "4e3749912679fd",
+     "label": "São Tomé and Príncipe",
      "value": null,
      "period": "No observation",
      "status": "under_construction",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SDN",
+     "country": "STP",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -49184,6 +49196,18 @@
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "SEN",
+     "note": "0 of 0 matching project records publish this amount. ",
+     "relation": "="
+    },
+    {
+     "id": "926c2b928e2322",
+     "label": "Seychelles",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "SYC",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -49212,6 +49236,18 @@
      "relation": "="
     },
     {
+     "id": "23dc5203fa4cc5",
+     "label": "South Africa",
+     "value": null,
+     "period": "No observation",
+     "status": "under_construction",
+     "source": "InferenceAfrica project register; original sources in notes",
+     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
+     "country": "ZAF",
+     "note": "0 of 1 matching project records publish this amount. Teraco JB7 data centre expansion: None USD; https://mybroadband.co.za/news/cloud-hosting/664345-one-data-centre-in-south-africa-will-use-more-power-than-kimberley-or-nelspruit.html",
+     "relation": "="
+    },
+    {
      "id": "38881cf745983e",
      "label": "South Sudan",
      "value": null,
@@ -49224,50 +49260,26 @@
      "relation": "="
     },
     {
-     "id": "4e3749912679fd",
-     "label": "São Tomé and Príncipe",
+     "id": "9877777b2fbda3",
+     "label": "Sudan",
      "value": null,
      "period": "No observation",
      "status": "under_construction",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "STP",
+     "country": "SDN",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
     {
-     "id": "478c0d0eb8abc3",
-     "label": "Eswatini",
+     "id": "81fd08ef103acc",
+     "label": "Tanzania",
      "value": null,
      "period": "No observation",
      "status": "under_construction",
      "source": "InferenceAfrica project register; original sources in notes",
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SWZ",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "926c2b928e2322",
-     "label": "Seychelles",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "SYC",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "3d75ccfc9d3cc8",
-     "label": "Chad",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "TCD",
+     "country": "TZA",
      "note": "0 of 0 matching project records publish this amount. ",
      "relation": "="
     },
@@ -49296,18 +49308,6 @@
      "relation": "="
     },
     {
-     "id": "81fd08ef103acc",
-     "label": "Tanzania",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "TZA",
-     "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
      "id": "aa181147029727",
      "label": "Uganda",
      "value": null,
@@ -49317,18 +49317,6 @@
      "source_url": "https://inferenceafrica.com/data/infrastructure.json",
      "country": "UGA",
      "note": "0 of 0 matching project records publish this amount. ",
-     "relation": "="
-    },
-    {
-     "id": "23dc5203fa4cc5",
-     "label": "South Africa",
-     "value": null,
-     "period": "No observation",
-     "status": "under_construction",
-     "source": "InferenceAfrica project register; original sources in notes",
-     "source_url": "https://inferenceafrica.com/data/infrastructure.json",
-     "country": "ZAF",
-     "note": "0 of 1 matching project records publish this amount. Teraco JB7 data centre expansion: None USD; https://mybroadband.co.za/news/cloud-hosting/664345-one-data-centre-in-south-africa-will-use-more-power-than-kimberley-or-nelspruit.html",
      "relation": "="
     },
     {
@@ -49358,7 +49346,7 @@
    ],
    "register": "data/infrastructure.json",
    "domain": null,
-   "revision": "93b72885477a93",
+   "revision": "764e6c82ab8fc4",
    "coverage": {
     "known": 1,
     "total": 54
@@ -49372,16 +49360,16 @@
  "source_hashes": {
   "data/items.json": "9ccbe4218d93fc438816ce7999566422db6ea1fb79d0de03af4dd108d8bd20ce",
   "data/reference/signal-backfill.json": "364e8ff2ebb4e07d0611698889672761af5a0aca0a611f7f3f17914fcc935323",
-  "data/signals.json": "67a58cf16c98fe1d0a17658c77ab96288c617bd1241580b243599c4e8e1d6982",
+  "data/signals.json": "2c5cd7a54e3779d8ae3baf299264d8a437f0be2f32da5877cf6a70a23cce34cc",
   "data/infrastructure.json": "d97dedc2edfa80be4ea8938e5770b812411c6a5aa6c8b5c36fe8fa7ab2b7a76f",
   "data/prices.json": "ed7d3cda62ee928dcbeda05b65c412e8d848a4b3d37dadaaeaaf9332c6b20467",
-  "data/indicators.json": "2a63dc4dd21e9d6eb41bb439c4ebc80ff8ab2b81ce604c70581a1d671ed586c2",
+  "data/indicators.json": "9a3b3d670d20e057abdafebcd5d953f3a742dbf3cbe1f4fe229e760f324a796c",
   "data/jobs-atlas-exposure.csv": "ea830da762c9bad4c3e394f0ac39e67cb5c082c22d70fbfc9eb6454eed13e273",
   "data/jobs-exposure.csv": "3186fdea841750a81d33e350cc15af28f4d85ff18f88351a3bf14439dfe73c37",
   "data/affordability.csv": "3973b1d0949ecf08be2749db0031a01d6250c5cdd92b4ee85d2813b6023f4d46",
-  "data/subscription-register.csv": "3d69a4e3eeaf1479336eebde13ba3077f37136dd17565e9cd56f1165ecde599a",
+  "data/subscription-register.csv": "a9758e7f7513303c47d6cc589e3f5bd49e3560eef1ccf19bc03e7a6cf83b14e9",
   "data/reference/gni-per-capita.csv": "cf064eb77bbff26f65cd43fe3964d9dc962a5398e48207991c7d3482b7a7e177",
-  "data/reference/home-figures.json": "0a9436276ba158442343e6f235ead2e4d342e8ee08beb57819af5ca554581815",
+  "data/reference/home-figures.json": "3b132e635c561e0f43eea616dca9ad734a44bc784f189be2559b3e97a3e1ca46",
   "data/reference/country-context.csv": "a7f1d4fdaff79bdb0d49e38fe4c1a41747dd1b34841aa078ff1c123d5cf1a34e",
   "data/reference/signal-evidence.json": "cfa55e5cfe72d64f26651af593d6878d654bfbe8a83794c7588b6ad89747c74f",
   "data/reference/signal-review-decisions.json": "c1696bd7f5e87323cedcbc72f53b94f977c0c687cf33cb85074a9ff93f4db0f9",

@@ -143,7 +143,12 @@
      "u": "https://news.outsourceaccelerator.com/ttec-volkswagen-cairo/",
      "s": "Outsource Accelerator",
      "d": "Oct 10",
-     "dot": "dot-jobs"
+     "dot": "dot-jobs",
+     "country": "EGY",
+     "countries": [
+      "EGY"
+     ],
+     "country_tag_note": "The headline locates the operation in Cairo, Egypt; Volkswagen UK identifies the customer market, not an outside-Africa operation. Location tag only; no employment outcome inferred."
     },
     {
      "t": "Zimbabwean founders raise $2m for Ocular AI, selling voice data to the frontier labs",

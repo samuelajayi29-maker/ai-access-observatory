@@ -297,7 +297,7 @@
           var share = row.share == null ? '' : ' · ' + Number(row.share).toFixed(2) + '% of monthly GNI per capita';
           detail.textContent = monthly + share;
           item.appendChild(detail);
-          var local = row.localPrice === 'yes' ? 'Local price listed' : row.localPrice === 'no' ? 'No local price listed' : 'Local price information unclear';
+          var local = row.localPrice === 'yes' ? 'Local price listed' : row.localPrice === 'no' ? 'No local price listed' : 'No verified local-currency price for this country';
           addText(item, 'span', 'explorer-list__detail', row.localAmount
             ? 'Listed currency amount: ' + (row.currency || 'Currency not stated') + ' ' + row.localAmount + ' · Source-reported; local checkout not independently verified.'
             : local);
@@ -405,6 +405,13 @@
       heading.textContent = place ? place.name : country;
       metricLabel.textContent = metric.label;
       definition.textContent = metric.definition;
+      var interpretation = root.querySelector('[data-jobs-interpretation]');
+      if (!interpretation) {interpretation=document.createElement('p');interpretation.className='measure-interpretation';interpretation.dataset.jobsInterpretation='';definition.after(interpretation);}
+      if (!row) interpretation.textContent='No comparable value is available in this study. This is a coverage gap, not a finding of low exposure.';
+      else {
+        var difference=Number(row.value)-Number(metric.average), amount=Math.abs(difference).toFixed(metric.unit==='%'?1:3);
+        interpretation.textContent=(place?place.name:country)+' is '+(Math.abs(difference)<0.0001?'at the covered-country average':amount+' '+(metric.unit==='%'?'percentage points':'index points')+' '+(difference>=0?'above':'below')+' the covered-country average')+'. This describes the source’s modelled exposure, not whether employment is growing or shrinking. Compare labour-market context separately; it cannot establish an AI effect.';
+      }
       clearNode(source);
       if (!row) {
         value.textContent = 'No information';
@@ -791,20 +798,13 @@
  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',statusRows);else statusRows();
 })();
 
-// Standalone figures count once; assistive technology reads the final value.
+// Reveal figures without displaying intermediate, incorrect numerical values.
 (function () {
  function start() {
   if(matchMedia('(prefers-reduced-motion: reduce)').matches || !window.IntersectionObserver)return;
   var observer=new IntersectionObserver(function(entries){entries.forEach(function(entry){
    if(!entry.isIntersecting)return;observer.unobserve(entry.target);
-   var node=entry.target,final=node.textContent,match=final.trim().match(/^([\d,]+(?:\.\d+)?)(%)?$/);
-   if(!match)return;
-   var value=Number(match[1].replace(/,/g,'')),decimals=(match[1].split('.')[1]||'').length,start;
-   node.setAttribute('aria-label',final);var span=document.createElement('span');span.setAttribute('aria-hidden','true');node.replaceChildren(span);
-   function frame(now){if(!start)start=now;var t=Math.min(1,(now-start)/700);if(matchMedia('(prefers-reduced-motion: reduce)').matches)t=1;
-    span.textContent=(value*(1-Math.pow(1-t,3))).toLocaleString('en',{minimumFractionDigits:decimals,maximumFractionDigits:decimals})+(match[2]||'');
-    if(t<1)requestAnimationFrame(frame);else span.textContent=final;}
-   requestAnimationFrame(frame);
+   if(entry.target.animate)entry.target.animate([{opacity:.65},{opacity:1}],{duration:250});
   });},{threshold:.5});
   document.querySelectorAll('.glance__value,.economy-value').forEach(function(node){observer.observe(node);});
  }
