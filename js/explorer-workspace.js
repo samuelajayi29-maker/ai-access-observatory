@@ -17,12 +17,14 @@
     let scopeNotice='';
     if(view==='compare' && p.has('chart')){const node=host.querySelector('#chart-builder-data'),selected=node&&JSON.parse(node.textContent).datasets.find(s=>s.id===p.get('chart'));if(selected && selected.comparison_eligible===false && !(p.get('display')==='line' && selected.history_verified)){const alternative=await fetch('data/explorer-views/charts.json');if(!alternative.ok)throw Error('Chart view unavailable');host.innerHTML=(await alternative.json()).html;view='charts';document.body.dataset.workspace=view;p.set('view',view);history.replaceState(null,'','?'+p.toString()+location.hash);scopeNotice='This measure is shown as individual records because its scope does not support a country comparison.';document.querySelectorAll('[data-workspace-tab]').forEach(a=>{a.removeAttribute('aria-current');if(a.dataset.workspaceTab===view)a.setAttribute('aria-current','page');});}}
 
+    if(view==='compare'){const section=host.querySelector('.resource-tools');if(section){section.classList.add('studio-resource');section.querySelector('.eyebrow')?.remove();const h=section.querySelector('h2');if(h)h.textContent='Build a comparison';section.querySelector('h2+p')?.remove();}}
+    const more=document.querySelector('.workspace-more');if(more && ['countries','facilities','projects','downloads'].includes(view))more.open=true;
     // The shell owns the legacy anchor, not a duplicate fragment heading.
     host.querySelectorAll('#make-a-chart').forEach(e=>e.removeAttribute('id'));
     host.querySelectorAll('.explorer-mode').forEach(e=>e.remove());
     const sources=[];host.querySelectorAll('script[src]').forEach(s=>{sources.push(s.getAttribute('src'));s.remove();});
     if(view==='charts')sources.push('js/chart-builder.js','js/published-presets.js');
-    for(const src of [...new Set(sources)])await new Promise((resolve,reject)=>{const s=document.createElement('script');s.src=src+(src.includes('?')?'&':'?')+'v=20261017-complete';s.onload=resolve;s.onerror=reject;document.body.appendChild(s);});
+    for(const src of [...new Set(sources)])await new Promise((resolve,reject)=>{const s=document.createElement('script');s.src=src+(src.includes('?')?'&':'?')+'v=20261018-explorer';s.onload=resolve;s.onerror=reject;document.body.appendChild(s);});
     status.textContent=retired?'This saved measure has been consolidated. Its dated observations are shown under the original measure.':scopeNotice;
     if(location.hash && location.hash!=='#make-a-chart')document.getElementById(location.hash.slice(1))?.scrollIntoView();
   } catch(e) {status.textContent='This view could not load. Your saved selections remain in the address. Retry loading or download the source data.';const retry=document.createElement('button');retry.type='button';retry.textContent='Retry this view';retry.addEventListener('click',()=>location.reload());const a=document.createElement('a');a.href='data/chart-catalog.json';a.textContent='Download chart data';host.replaceChildren(retry,a);}

@@ -56,6 +56,15 @@
     '<p role="status" data-cb-message></p><label class="chart-share-fallback" hidden>Share link<input data-cb-link readonly></label>' +
     '<details class="resource-details"><summary>Inspect selected values and sources</summary><div class="tablewrap"><table class="register" data-cb-table></table></div></details>' +
     '<p class="coverage-note">Images include the unit, dates, source links and caveats. CSV contains the unrounded values. Shared links reopen the selection using the current register; download a file to preserve this version.</p>';
+  // Optional controls keep their existing selection and export handlers.
+  if(document.body.dataset.workspace==='charts'){
+    host.classList.add('record-studio');
+    var controls=host.querySelector('.chart-controls');
+    function disclosure(label,selectors){var d=document.createElement('details'),summary=document.createElement('summary'),body=document.createElement('div');summary.textContent=label;d.className='record-options';body.className='chart-controls';d.append(summary,body);selectors.forEach(function(sel){var field=host.querySelector(sel);if(field)body.appendChild(field.closest('label'));});return d;}
+    var filters=disclosure('Filter measures',['[data-cb-pillar]','[data-cb-family]','[data-cb-provider]']);
+    var settings=disclosure('Chart title, style and sorting',['[data-cb-title]','[data-cb-type]','[data-cb-order]']);
+    controls.after(filters);host.querySelector('[data-cb-preview]').closest('.chart-workspace').after(settings);
+  }
   var get = function (s) { return host.querySelector(s); };
   var select = get('[data-cb-series]'), title = get('[data-cb-title]'), type = get('[data-cb-type]'), order = get('[data-cb-order]');
   var search = get('[data-cb-search]'), list = get('[data-cb-rows]'), preview = get('[data-cb-preview]');

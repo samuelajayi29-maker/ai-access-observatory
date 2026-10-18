@@ -5,7 +5,7 @@
   const page = document.body.dataset.page || '';
   const headings = [...main.querySelectorAll('h2')]
     .filter(h => !h.closest('details,aside,.country-snapshot,.evidence-guide,.country-detail,.explorer-result'));
-  if (headings.length >= 4 && page !== 'index.html' && page !== 'access.html') {
+  if (headings.length >= 4 && page !== 'index.html' && page !== 'access.html' && !page.startsWith('essay-')) {
     const nav = document.createElement('nav');
     nav.className = 'wrap page-sections'; nav.setAttribute('aria-label', 'On this page');
     const label = document.createElement('strong'); label.textContent = 'On this page'; nav.append(label);

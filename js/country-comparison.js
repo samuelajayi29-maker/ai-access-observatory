@@ -68,19 +68,28 @@
   host.hidden=false;document.querySelector('[data-chart-builder]').hidden=true;
   const countries=data.countries.slice().sort((a,b)=>a.name.localeCompare(b.name));
   let measures=Array.from(new Set(requested.filter(id=>all.some(s=>s.id===id)))).slice(0,3);if(!measures.length)measures=['jobs-tasks'];
-  let selected=new Set((params.get('countries') || params.get('country') || 'NGA,ZAF,KEN,EGY,GHA,RWA').split(',').filter(iso=>countries.some(c=>c.iso3===iso)));
+  let selected=new Set((params.get('countries') || params.get('country') || 'NGA,ZAF,KEN').split(',').filter(iso=>countries.some(c=>c.iso3===iso)));
   if(singleHistory){measures=[singleHistory.id];selected=new Set(singleHistory.rows.filter(r=>finite(r.value)).map(r=>r.country));}
   const ns='http://www.w3.org/2000/svg', format=new Intl.NumberFormat('en',{maximumSignificantDigits:5});
   const valueLabel=r=>!finite(r.value)?'No information':(r.relation==='approximately'?'≈ ':r.relation && r.relation!=='='?r.relation+' ':'')+format.format(r.value);
   const reduced=()=>matchMedia('(prefers-reduced-motion: reduce)').matches;
   let svg,sets=[],first=true,observer,drawVersion=0,tablePage=0;
-  host.innerHTML=`<p class="comparison-intro">Compare up to three measures on separate scales. Exposure is not job loss; context does not establish AI causation.</p>
-    <label>Start with a question<select data-cc-recommend><option value="">Choose a suggested comparison</option></select></label><div class="comparison-controls"><fieldset><legend>1. Choose measures (up to 3)</legend><label>Find a measure<input type="search" data-cc-find placeholder="Unemployment, electricity, exposure…"></label><label>Measure family<select data-cc-family><option value="">All families</option></select></label><label data-cc-provider-label hidden>Provider or model<select data-cc-provider><option value="">All providers and models</option></select></label><label>Category<select data-cc-category><option value="">All categories</option><option>AI-specific</option><option>Context indicators</option><option>Supporting evidence</option></select></label><label>Measure list<select data-cc-scope><option value="common">Common measures</option><option value="all">All measures</option></select></label><div class="comparison-measures" data-cc-measures></div><div data-cc-selected></div></fieldset>
-    <fieldset><legend>2. Choose countries</legend><label>Find a country<input type="search" data-cc-country-search></label><div class="chart-actions"><button type="button" data-cc-all>Select all 54</button><button type="button" data-cc-clear>Clear countries</button></div><div class="comparison-countries" data-cc-countries></div></fieldset></div>
-    <div class="chart-controls"><label>Display<select data-cc-display><option value="vertical">Compare · aligned measure lanes</option><option value="grouped">Grouped bars · compatible measures</option><option value="line">Over time · separate panels</option></select></label><label>Observation year<select data-cc-year><option value="">Latest available (years may differ)</option></select></label><label data-cc-range hidden>From year<input data-cc-from type="number" step="1"></label><label data-cc-range hidden>To year<input data-cc-to type="number" step="1"></label><label>Country order<select data-cc-order><option value="name">Country name A–Z</option><option value="value">First measure, highest value</option><option value="measure-1">Second measure, highest value</option><option value="measure-2">Third measure, highest value</option></select></label><label>Chart title<input data-cc-title maxlength="100" value="Countries in context"></label></div>
-    <p data-cc-explanation></p><p role="status" data-cc-summary></p><p class="coverage-note">Scroll sideways on small screens.</p><div class="comparison-preview" data-cc-preview tabindex="0" role="region" aria-label="Country comparison chart; scroll horizontally for large selections"></div>
-    <div class="chart-actions"><button type="button" data-cc-export="png">Download PNG</button><button type="button" data-cc-export="svg">Download SVG</button><button type="button" data-cc-export="csv">Download selected CSV</button><button type="button" data-cc-share>Copy link to comparison</button></div><p role="status" data-cc-message></p><label data-cc-link-label hidden>Share link<input data-cc-link readonly></label>
-    <details class="resource-details"><summary>Inspect selected values, dates and sources</summary><div class="chart-actions"><button type="button" data-cc-prev>Previous values</button><span data-cc-page></span><button type="button" data-cc-next>Next values</button></div><div class="tablewrap"><table class="register" data-cc-table></table></div></details><p class="coverage-note">Downloads include your selection. Links show current data; SVG and CSV preserve this version. <a href="method.html#context-method">Definitions and history audit</a>.</p>`;
+  host.classList.add('explorer-studio');
+  host.innerHTML=`
+    <div class="studio-start"><p class="eyebrow">Start with a question</p><div class="studio-suggestions"><button type="button" data-cc-preset="0">AI exposure & unemployment</button><button type="button" data-cc-preset="5">Internet & electricity</button><button type="button" data-cc-preset="7">Data centres & electricity</button></div><details><summary>More starting points</summary><label>Suggested comparison<select data-cc-recommend><option value="">Choose a question</option></select></label></details></div>
+    <aside class="studio-sidebar" aria-label="Your data selection">
+      <section class="studio-selection"><h3><span>1</span> Measures <small>Up to 3</small></h3><div class="selection-chips" data-cc-selected></div><details class="studio-picker"><summary>Change measures</summary><label>Search measures<input type="search" data-cc-find placeholder="Try unemployment or internet"></label><details class="studio-filters"><summary>Filter the measure list</summary><label>Topic<select data-cc-family><option value="">All topics</option></select></label><label data-cc-provider-label hidden>Provider or model<select data-cc-provider><option value="">All providers and models</option></select></label><label>Evidence type<select data-cc-category><option value="">All categories</option><option>AI-specific</option><option>Context indicators</option><option>Supporting evidence</option></select></label><label>Measure list<select data-cc-scope><option value="common">Common measures</option><option value="all">All measures</option></select></label></details><div class="comparison-measures" data-cc-measures></div></details></section>
+      <section class="studio-selection"><h3><span>2</span> Countries <small data-cc-country-count></small></h3><div class="selection-chips" data-cc-country-chips></div><details class="studio-picker"><summary>Add or change countries</summary><label>Search countries<input type="search" data-cc-country-search placeholder="Type a country name"></label><div class="chart-actions"><button type="button" data-cc-all>Select all 54</button><button type="button" data-cc-clear>Clear</button><button type="button" data-cc-defaults>Starting selection</button></div><div class="comparison-countries" data-cc-countries></div></details></section>
+      <p class="studio-caution">Exposure is not job loss. Economic context does not establish an AI effect.</p>
+    </aside>
+    <section class="studio-result" aria-label="Your comparison">
+      <div class="studio-result-head"><div><p class="eyebrow">Your comparison</p><h3 data-cc-heading>Countries in context</h3></div><button type="button" data-cc-share>Copy link</button></div>
+      <div class="studio-toolbar"><label>View<select data-cc-display><option value="vertical">Compare countries</option><option value="line">Over time</option><option value="grouped">Grouped bars</option></select></label><label>Year<select data-cc-year><option value="">Latest available</option></select></label><label data-cc-range hidden>From<input data-cc-from type="number" step="1"></label><label data-cc-range hidden>To<input data-cc-to type="number" step="1"></label></div><p class="studio-view-note" data-cc-view-note></p>
+      <p role="status" class="studio-summary" data-cc-summary></p><div class="comparison-preview" data-cc-preview tabindex="0" role="region" aria-label="Country comparison chart; scroll horizontally for additional measures"></div>
+      <div class="studio-downloads"><strong>Download</strong><button type="button" data-cc-export="png">Image · PNG</button><button type="button" data-cc-export="svg">Vector · SVG</button><button type="button" data-cc-export="csv">Data · CSV</button></div><p role="status" data-cc-message></p><label data-cc-link-label hidden>Share link<input data-cc-link readonly></label>
+      <details class="studio-settings"><summary>Chart title and sorting</summary><div class="chart-controls"><label>Chart title<input data-cc-title maxlength="100" value="Countries in context"></label><label>Country order<select data-cc-order><option value="name">Country name A–Z</option><option value="value">First measure, highest value</option><option value="measure-1">Second measure, highest value</option><option value="measure-2">Third measure, highest value</option></select></label></div></details>
+      <details class="resource-details"><summary>Coverage, definitions and sources</summary><p data-cc-explanation></p><p class="comparison-notice" data-cc-compatibility></p><p>Missing values are not zero. Each measure has its own unit and scale. Links reopen current data; downloads preserve this selection.</p><div class="chart-actions"><button type="button" data-cc-prev>Previous values</button><span data-cc-page></span><button type="button" data-cc-next>Next values</button></div><div class="tablewrap"><table class="register" data-cc-table></table></div><a href="method.html#context-method">Definitions and history audit</a></details>
+    </section>`;
   const get=q=>host.querySelector(q),display=get('[data-cc-display]'),year=get('[data-cc-year]'),from=get('[data-cc-from]'),to=get('[data-cc-to]'),order=get('[data-cc-order]'),title=get('[data-cc-title]'),preview=get('[data-cc-preview]'),message=get('[data-cc-message]');
   function el(tag,attrs,text){const e=document.createElementNS(ns,tag);Object.entries(attrs || {}).forEach(([k,v])=>e.setAttribute(k,String(v)));if(text!=null)e.textContent=text;return e;}
   function html(tag,text){const e=document.createElement(tag);if(text!=null)e.textContent=text;return e;}
@@ -90,7 +99,9 @@
   function providers(){const select=get('[data-cc-provider]'),old=select.value,f=get('[data-cc-family]').value;select.replaceChildren(new Option('All providers and models',''));[...new Set(all.filter(s=>!f||family(s)===f).map(provider).filter(Boolean))].sort().forEach(p=>select.add(new Option(p,p)));select.value=[...select.options].some(o=>o.value===old)?old:'';}
   const recommendations=[['Exposure vs unemployment','jobs-tasks','economy-SL.UEM.TOTL.ZS'],['Exposure and labour participation','jobs-tasks','economy-SL.TLF.CACT.ZS'],['Youth unemployment and growth','economy-SL.UEM.1524.ZS','economy-NY.GDP.MKTP.KD.ZG'],['Mobile costs and income','cost-mobile-usd-2025','economy-NY.GDP.PCAP.CD'],['Mobile vs fixed connectivity costs','cost-mobile-gni-2025','cost-fixed-gni-2025'],['Internet use and electricity access','context-IT.NET.USER.ZS','context-EG.ELC.ACCS.ZS'],['AI adoption and internet use','adoption-estimate-h2-2025','context-IT.NET.USER.ZS'],['Listed facilities and electricity access','data-centres-listed','context-EG.ELC.ACCS.ZS'],['Productivity and manufacturing','economy-SL.GDP.PCAP.EM.KD','economy-NV.IND.MANF.ZS']];
   recommendations.forEach((r,i)=>get('[data-cc-recommend]').add(new Option(r[0],String(i))));
-  get('[data-cc-recommend]').addEventListener('change',()=>{if(get('[data-cc-recommend]').value==='')return;const r=recommendations[Number(get('[data-cc-recommend]').value)];measures=r.slice(1).filter(id=>all.some(s=>s.id===id));title.value=r[0];display.value='vertical';year.value='';options();configure();render();});
+  function applyPreset(index){const r=recommendations[Number(index)];if(!r)return;measures=r.slice(1).filter(id=>all.some(s=>s.id===id));title.value=r[0];display.value='vertical';year.value='';get('[data-cc-recommend]').value=String(index);options();configure();render();}
+  get('[data-cc-recommend]').addEventListener('change',()=>applyPreset(get('[data-cc-recommend]').value));
+  host.querySelectorAll('[data-cc-preset]').forEach(b=>b.addEventListener('click',()=>applyPreset(b.dataset.ccPreset)));
   get('[data-cc-family]').addEventListener('change',()=>{providers();options();});get('[data-cc-provider]').addEventListener('change',options);providers();
   function options() {
     const list=get('[data-cc-measures]'),query=get('[data-cc-find]').value.toLowerCase(),category=get('[data-cc-category]').value;list.replaceChildren();
@@ -104,7 +115,7 @@
       input.addEventListener('change',()=>{measures=input.checked?[...measures,s.id]:measures.filter(id=>id!==s.id);options();configure();render();});text.appendChild(sub);label.append(input,text);list.appendChild(label);
     });
     if(!list.children.length)list.textContent='No measures match this search.';
-    const chosen=get('[data-cc-selected]');chosen.replaceChildren();measures.forEach(id=>{const b=html('button','× '+all.find(s=>s.id===id).title);b.type='button';b.addEventListener('click',()=>{measures=measures.filter(s=>s!==id);options();configure();render();});chosen.appendChild(b);});
+    const chosen=get('[data-cc-selected]');chosen.replaceChildren();measures.forEach(id=>{const b=html('button','× '+all.find(s=>s.id===id).title);b.type='button';b.setAttribute('aria-label','Remove measure: '+all.find(s=>s.id===id).title);b.addEventListener('click',()=>{measures=measures.filter(s=>s!==id);options();configure();render();});chosen.appendChild(b);});
   }
   get('[data-cc-scope]').addEventListener('change',options);
   function countryPicker(){
@@ -118,6 +129,7 @@
     const hasHistory=measures.length>0 && measures.every(id=>all.find(s=>s.id===id).history_verified);display.querySelector('[value="line"]').disabled=!hasHistory;
     if(display.value==='line' && !hasHistory)display.value='vertical';
     const sample=measures.map(id=>({s:all.find(s=>s.id===id),rows:all.find(s=>s.id===id).rows}));display.querySelector('[value="grouped"]').disabled=!compatible(sample);
+    [...order.options].forEach((o,i)=>o.disabled=i>1 && i>measures.length);if(order.selectedOptions[0]?.disabled)order.value='name';
     if(display.value==='grouped' && !compatible(sample))display.value='vertical';
   }
   function selectedData(){
@@ -131,7 +143,16 @@
     if(display.value==='grouped' && !compatible(sets)){display.value='vertical';sets=selectedData().output;}
     const isLine=display.value==='line';year.disabled=isLine;order.disabled=isLine;host.querySelectorAll('[data-cc-range]').forEach(e=>e.hidden=!isLine);
     get('[data-cc-explanation]').textContent=isLine?'One line per country; gaps break lines. Single observations remain points. History uses the current source vintage.':display.value==='grouped'?'Grouped measures share a definition family, unit and period. Evidence labels remain separate.':'One row per country; separate scales and coverage. Only historical series support Over time.';
-    get('[data-cc-summary]').textContent=picked.length+' countries · '+sets.length+' measures. '+sets.map(d=>d.s.title+': '+d.rows.filter(r=>finite(r.value)).length+'/'+d.rows.length+' selected observations have values.').join(' ')+(picked.length>15?' Large selection: scroll across the chart; use fewer countries to inspect individual lines.':'');
+    get('[data-cc-heading]').textContent=title.value||'Country comparison';
+    get('[data-cc-summary]').textContent=picked.length+' '+(picked.length===1?'country':'countries')+' · '+sets.length+' '+(sets.length===1?'measure':'measures')+' · '+(isLine?'Historical observations':year.value||'Latest available; years may differ');
+    const lacking=sets.reduce((n,d)=>n+d.rows.filter(r=>!finite(r.value)).length,0);
+    if(lacking)get('[data-cc-summary]').textContent+=' · '+lacking+' missing '+(isLine?'observations':'values');
+    get('[data-cc-view-note]').textContent=(display.querySelector('[value="line"]').disabled?'Over time needs history for every selected measure. ':'')+(sets.length>1?'Each measure uses its own scale. ':'')+'On small screens, swipe across the chart.';
+    get('[data-cc-country-count]').textContent=selected.size+' selected';
+    const chips=get('[data-cc-country-chips]');chips.replaceChildren();
+    picked.forEach(c=>{const b=html('button',c.name+' ×');b.type='button';b.setAttribute('aria-label','Remove country: '+c.name);b.addEventListener('click',()=>{selected.delete(c.iso3);countryPicker();render();});chips.appendChild(b);});
+    if(!picked.length)chips.textContent='No countries selected.';
+    host.querySelectorAll('[data-cc-preset]').forEach(b=>b.setAttribute('aria-pressed',String(recommendations[Number(b.dataset.ccPreset)].slice(1).join(',')===measures.join(','))));
     const periodNotes=sets.map(d=>{const dated=d.rows.filter(r=>finite(r.value)).map(r=>String(r.period)),unique=[...new Set(dated)];return d.s.title+': '+(unique.length>1?'mixed observation periods ('+unique.slice(0,4).join('; ')+(unique.length>4?'; …':'')+').':'observation period '+(unique[0]||'not available')+'.');});
     const overlap=picked.filter(c=>sets.length && sets.every(d=>d.rows.some(r=>r.country===c.iso3 && finite(r.value)))).length;
     let notice=get('[data-cc-compatibility]');if(!notice){notice=html('p');notice.dataset.ccCompatibility='';notice.className='comparison-notice';get('[data-cc-summary]').after(notice);}
@@ -225,11 +246,11 @@
   }
   function drawLanes(picked,datasets){
     const style=getComputedStyle(document.documentElement),ink=style.getPropertyValue('--ink').trim()||'#222',paper=style.getPropertyValue('--paper').trim()||'#fff',rule=style.getPropertyValue('--rule').trim()||'#aaa';
-    const width=1200,labelWidth=220,laneWidth=(width-labelWidth-40)/datasets.length,palette=['#16818a','#b66021','#8253a0'];
+    const width=Math.max(620,Math.min(1200,preview.clientWidth||900),190+datasets.length*265),labelWidth=190,laneWidth=(width-labelWidth-40)/datasets.length,palette=['#16818a','#b66021','#8253a0'];
     const root=el('svg',{xmlns:ns,width,role:'img','aria-label':title.value||'Country comparison','font-family':'Arial, sans-serif',fill:ink});
     const bg=el('rect',{width,height:1,fill:paper});root.append(bg,el('title',{},title.value||'Countries in context'),el('desc',{},'One row per country. Each measure uses its own scale and unit. A dash means no information, never zero.'),el('metadata',{},JSON.stringify({compiled:data.generated_at,rows:records(datasets)})));
     function text(t,x,y,size=13,attrs={}){root.appendChild(el('text',Object.assign({x,y,'font-size':size},attrs),t));}
-    function wrap(t,x,y,max,size=13){let line='';for(const word of String(t).split(/\s+/).flatMap(w=>w.match(new RegExp('.{1,'+max+'}','g'))||[])){if((line+' '+word).length>max && line){text(line,x,y,size);y+=size*1.4;line=word;}else line+=(line?' ':'')+word;}text(line,x,y,size);return y+size*1.4;}
+    function wrap(t,x,y,max,size=13){max=Math.min(max,Math.floor((width-x-30)/(size*.57)));let line='';for(const word of String(t).split(/\s+/).flatMap(w=>w.match(new RegExp('.{1,'+max+'}','g'))||[])){if((line+' '+word).length>max && line){text(line,x,y,size);y+=size*1.4;line=word;}else line+=(line?' ':'')+word;}text(line,x,y,size);return y+size*1.4;}
     text('INFERENCEAFRICA · COUNTRY COMPARISON',30,30,12);let y=wrap(title.value||'Countries in context',30,68,76,25)+10;
     y=wrap('Independent scales · filled = measured / derived; outline = reported / modelled; dashed = forecast; – = no information.',30,y,140,12)+8;
     const head=y,top=head+135,rowHeight=52;
@@ -248,13 +269,14 @@
         bar.appendChild(el('title',{},c.name+': '+valueLabel(r)+' '+d.s.unit+' · '+r.period+' · '+r.status));root.appendChild(bar);text(valueLabel(r)+' · '+r.period,x,yy+34,11);bar.appendChild(el('desc',{},r.status));
       });
     });
-    y=top+picked.length*rowHeight+20;
+    y=top+picked.length*rowHeight+20;root.setAttribute('data-preview-bottom',y);
     y=wrap('Exposure is not job loss. Economic context does not establish AI causation. Dates differ where shown. Selected values and full row-level provenance are in the CSV, inspection table and SVG metadata.',30,y,140,12)+12;
     datasets.forEach((d,j)=>{y=wrap((j+1)+'. '+d.s.title+' — '+d.s.description,30,y,140,12);const sources=new Map();d.rows.filter(r=>finite(r.value)&&r.source_url).forEach(r=>sources.set(r.source_url,r.source));for(const [url,name] of sources)y=wrap(name+' — '+url,30,y,145,11);y+=12;});
     y=wrap('InferenceAfrica · inferenceafrica.com · Compiled '+data.generated_at+' · Compilation CC BY 4.0; underlying source terms apply.',30,y,145,11)+20;
     root.setAttribute('height',Math.ceil(y));root.setAttribute('viewBox','0 0 '+width+' '+Math.ceil(y));bg.setAttribute('height',Math.ceil(y));return root;
   }
   function transition(next){
+    const full=next;next=full.cloneNode(true);const bottom=Number(full.getAttribute('data-preview-bottom'));if(bottom){next.setAttribute('height',bottom);next.setAttribute('viewBox','0 0 '+full.getAttribute('width')+' '+bottom);[...next.children].forEach(e=>{if(e.hasAttribute('y') && Number(e.getAttribute('y'))>=bottom)e.remove();});}
     const old=preview.lastElementChild;
     if(observer)observer.disconnect();
     const compatible=old && old.getAttribute('data-motion-context')===next.getAttribute('data-motion-context');
@@ -286,6 +308,7 @@
   }
   get('[data-cc-prev]').addEventListener('click',()=>{tablePage=Math.max(0,tablePage-1);table();});get('[data-cc-next]').addEventListener('click',()=>{tablePage++;table();});
   get('[data-cc-find]').addEventListener('input',options);get('[data-cc-category]').addEventListener('change',options);get('[data-cc-country-search]').addEventListener('input',countryPicker);
+  get('[data-cc-defaults]').addEventListener('click',()=>{selected=new Set(['NGA','ZAF','KEN']);countryPicker();render();});
   get('[data-cc-all]').addEventListener('click',()=>{selected=new Set(countries.map(c=>c.iso3));countryPicker();render();});get('[data-cc-clear]').addEventListener('click',()=>{selected.clear();countryPicker();render();});
   [year,from,to,order,title].forEach(e=>e.addEventListener('change',render));display.addEventListener('change',async()=>{if(display.value==='line'){message.textContent='Loading history…';try{await loadHistory();configure();display.value='line';message.textContent='';}catch(e){display.value='vertical';message.textContent=e.message;}}render();});host.querySelectorAll('[data-cc-export]').forEach(b=>b.addEventListener('click',()=>exportChart(b.dataset.ccExport)));
   get('[data-cc-share]').addEventListener('click',async()=>{const url=new URL('https://inferenceafrica.com/data-explorer.html');Object.entries({view:'compare',measures:measures.join(','),countries:Array.from(selected).join(','),display:display.value,year:year.value,from:from.value,to:to.value,order:order.value,title:title.value,versions:sets.map(d=>d.s.revision).join(',')}).forEach(([k,v])=>url.searchParams.set(k,v));url.hash='make-a-chart';try{await navigator.clipboard.writeText(url.href);message.textContent='Comparison link copied.';}catch(_){get('[data-cc-link-label]').hidden=false;get('[data-cc-link]').value=url.href;get('[data-cc-link]').select();message.textContent='Copy the selected link.';}});
