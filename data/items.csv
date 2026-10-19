@@ -1,4 +1,6 @@
 bucket,date,source,title,url
+jobs,Oct 19,TechAfrica News,Ghana's AI micro-credential enrolments jump 95% as critical-thinking demand grows,https://techafricanews.com/2026/10/19/ghana-ai-micro-credential-enrolments-surge-95-percent-critical-thinking/
+jobs,Oct 18,TechCabal,The Next Wave: are layoffs good for AI's business?,https://techcabal.com/2026/10/19/are-layoffs-good-for-ais-business/
 jobs,Oct 15,Devdiscourse,Africa's $10 Billion AI Push Moves Towards Delivery With Jobs and Growth at its Heart,https://www.devdiscourse.com/article/business/3992699-africas-10-billion-ai-push-moves-towards-delivery-with-jobs-and-growth-at-its-heart
 jobs,Oct 14,DailySynapse,EU AI Act puts workplace tools in the high-risk tier,https://dailysynapse.com/news/eu-ai-act-puts-workplace-tools-in-the-high-risk-tier/
 jobs,Oct 14,Outsource Accelerator,"US workers see job-loss risk at lowest since 2024, NY Fed finds",https://news.outsourceaccelerator.com/ny-fed-job-loss-expectations/
@@ -171,9 +173,12 @@ jobs,May 16,UN Economic Commission for Africa,AI and jobs in Africa: turning dis
 jobs,Apr 25,Mastercard Foundation,40% of Tasks in Africa's Tech Outsourcing May Be Affected by AI by 2030,https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/
 jobs,Mar 31,WeeTracker,South Africa's gig economy becomes a bargain with AI skills shortage looming,https://weetracker.com/2026/03/31/south-africa-freelance-economy-ai-talent-gap-2026/
 jobs,Dec 25,"Deric Cheng, AI Frontiers",AI Could Undermine Emerging Economies,https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies
+access,Oct 16,TechTrendsKE,"TECNO and Safaricom cut POVA Curve 2 5G price by Sh11,000",https://techtrendske.co.ke/2026/10/16/tecno-safaricom-5g-smartphone-price-cut/
+access,Oct 15,arXiv,Pearl-Chat: a native Luganda model built from scratch to cut tokenizer overhead,https://arxiv.org/abs/2610.22529
 access,Oct 14,DailySynapse,Cheap models put AI infrastructure spending under scrutiny,https://dailysynapse.com/news/cheap-models-put-ai-infrastructure-spending-under-scrutiny/
 access,Oct 14,The Inference,"Google prices Gemini 4 Argon at $2 per million tokens, a fifth of OpenAI and Anthropic's $10 flagships",https://theinference.org/article/google-prices-gemini-4-argon-at-2-per-million-tokens-a-fifth-of-openai-and-anthropic-s-10-flagships
 access,Oct 14,The Superintelligence News,"AI API price tracker: OpenAI, Anthropic, Google per 1M tokens",https://thesuperintelligencenews.com/articles/frontier-ai-api-price-tracker-openai-anthropic-google-per-million-tokens
+access,Oct 14,IDC,IDC: global smartphone shipments fall a record 22% in Q3 2026 as memory crisis bites,https://www.idc.com/resource-center/press-releases/smartphone-shipments-decline-3q26/
 access,Oct 13,DailySynapse,"Nvidia AI servers face price hikes tied to memory costs, up more than 15% from early next year",https://dailysynapse.com/news/nvidia-ai-server-prices-face-memory-cost-hikes/
 access,Oct 13,Memeburn,Vivo V80 vs Oppo F35 Pro: the $134 gap buys a zoom lens and two extra years,https://memeburn.com/vivo-v80-vs-oppo-f35-pro/
 access,Oct 13,The Frontier,"Gemini 4 Argon opens to the paid API at $2/$10, doubling to $4/$20 on 1 December",https://www.thefrontier.dev/articles/gemini-4-argon-paid-rollout
@@ -398,6 +403,8 @@ access,May 27,Trustonic,"Deconstructing Africa's smartphone market: shipments, p
 access,May 26,"David Oks, Substack",AI Is Killing the Cheap Smartphone,https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone
 access,Apr 15,Japan Times / AFP,AI-driven chip shortage slowing efforts to get world online: GSMA,https://www.thejapantimes.jp/Technology/658420-ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma.html
 access,Feb 26,Techpoint Africa,AI Chip Demand — Smartphone Prices in Nigeria,https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/
+infra,Oct 19,TechAfrica News,Libya's O3 Group unveils national fibre and Tier III data centre plans after Medusa cable landing,https://techafricanews.com/2026/10/19/libya-o3-group-digital-infrastructure-medusa-cable-landing/
+infra,Oct 19,TechTrendsKE,Dell and NTT Data pitch on-premise 'AI in a box' to Kenyan small businesses,https://techtrendske.co.ke/2026/10/19/locally-hosted-ai-kenya/
 infra,Oct 15,The Star Kenya,"Senate committee shoots down Nyamu's Bill on AI, warns of Sh5 million fines",https://www.the-star.co.ke/news/2026-10-15-senate-committee-shoots-down-nyamus-bill-on-ai
 infra,Oct 14,DailySynapse,Microsoft launches Maia 300 for Azure cloud AI workloads,https://dailysynapse.com/news/microsoft-launches-maia-300-for-azure-cloud-ai-workloads/
 infra,Oct 14,TechCabal,"Building Africa's digital future: Vertiv's Wojtek Piorko on AI, data centres and infrastructure readiness",https://techcabal.com/2026/10/14/building-africas-digital-future-vertivs-wojtek-piorko-on-ai-data-centres-and-infrastructure-readiness/
