@@ -1,10 +1,24 @@
 {
- "updated": "2026-10-15",
+ "updated": "2026-10-19",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "Ghana's AI micro-credential enrolments jump 95% as critical-thinking demand grows",
+     "u": "https://techafricanews.com/2026/10/19/ghana-ai-micro-credential-enrolments-surge-95-percent-critical-thinking/",
+     "s": "TechAfrica News",
+     "d": "Oct 19",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "The Next Wave: are layoffs good for AI's business?",
+     "u": "https://techcabal.com/2026/10/19/are-layoffs-good-for-ais-business/",
+     "s": "TechCabal",
+     "d": "Oct 18",
+     "dot": "dot-jobs"
+    },
     {
      "t": "Africa's $10 Billion AI Push Moves Towards Delivery With Jobs and Growth at its Heart",
      "u": "https://www.devdiscourse.com/article/business/3992699-africas-10-billion-ai-push-moves-towards-delivery-with-jobs-and-growth-at-its-heart",
@@ -1453,6 +1467,20 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "TECNO and Safaricom cut POVA Curve 2 5G price by Sh11,000",
+     "u": "https://techtrendske.co.ke/2026/10/16/tecno-safaricom-5g-smartphone-price-cut/",
+     "s": "TechTrendsKE",
+     "d": "Oct 16",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Pearl-Chat: a native Luganda model built from scratch to cut tokenizer overhead",
+     "u": "https://arxiv.org/abs/2610.22529",
+     "s": "arXiv",
+     "d": "Oct 15",
+     "dot": "dot-arxiv"
+    },
+    {
      "t": "Cheap models put AI infrastructure spending under scrutiny",
      "u": "https://dailysynapse.com/news/cheap-models-put-ai-infrastructure-spending-under-scrutiny/",
      "s": "DailySynapse",
@@ -1470,6 +1498,13 @@
      "t": "AI API price tracker: OpenAI, Anthropic, Google per 1M tokens",
      "u": "https://thesuperintelligencenews.com/articles/frontier-ai-api-price-tracker-openai-anthropic-google-per-million-tokens",
      "s": "The Superintelligence News",
+     "d": "Oct 14",
+     "dot": "dot-price"
+    },
+    {
+     "t": "IDC: global smartphone shipments fall a record 22% in Q3 2026 as memory crisis bites",
+     "u": "https://www.idc.com/resource-center/press-releases/smartphone-shipments-decline-3q26/",
+     "s": "IDC",
      "d": "Oct 14",
      "dot": "dot-price"
     },
@@ -3454,6 +3489,20 @@
   "infra": {
    "label": "Infrastructure",
    "items": [
+    {
+     "t": "Libya's O3 Group unveils national fibre and Tier III data centre plans after Medusa cable landing",
+     "u": "https://techafricanews.com/2026/10/19/libya-o3-group-digital-infrastructure-medusa-cable-landing/",
+     "s": "TechAfrica News",
+     "d": "Oct 19",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Dell and NTT Data pitch on-premise 'AI in a box' to Kenyan small businesses",
+     "u": "https://techtrendske.co.ke/2026/10/19/locally-hosted-ai-kenya/",
+     "s": "TechTrendsKE",
+     "d": "Oct 19",
+     "dot": "dot-infra"
+    },
     {
      "t": "Senate committee shoots down Nyamu's Bill on AI, warns of Sh5 million fines",
      "u": "https://www.the-star.co.ke/news/2026-10-15-senate-committee-shoots-down-nyamus-bill-on-ai",
@@ -5546,7 +5595,7 @@
    ]
   }
  },
- "tracker_updated": "2026-10-15",
+ "tracker_updated": "2026-10-19",
  "backfill_updated": "2026-10-12",
  "scope": "Combined signal feed: tracker plus reviewed historical additions. Signals are not verified numerical observations."
 }
