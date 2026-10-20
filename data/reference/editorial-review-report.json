@@ -1,14 +1,34 @@
 {
- "generated_at": "2026-10-19",
- "count": 721,
+ "generated_at": "2026-10-20",
+ "count": 736,
  "source_checked": 50,
  "flag_counts": {
-  "source_review_outstanding": 671,
-  "african_relevance_not_recorded": 290,
+  "source_review_outstanding": 686,
+  "african_relevance_not_recorded": 300,
   "topic_needs_review": 28
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
  "rows": [
+  {
+   "headline": "Kenya's Konza Technopolis targets BPO investment and digital jobs beyond Nairobi",
+   "url": "https://techafricanews.com/2026/10/20/kenyas-konza-technopolis-targets-bpo-investment-and-digital-jobs-beyond-nairobi/",
+   "pillar": "jobs",
+   "current_topic": "Investment and funding",
+   "suggested_topic": "Investment and funding",
+   "country": "KEN",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "When Better Opportunities Backfire: Service Worker Responses to Parallel AI Deployment in Customer Acquisition",
+   "url": "https://arxiv.org/abs/2610.25603",
+   "pillar": "jobs",
+   "current_topic": "Investment and funding",
+   "suggested_topic": "Investment and funding",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
   {
    "headline": "Ghana's AI micro-credential enrolments jump 95% as critical-thinking demand grows",
    "url": "https://techafricanews.com/2026/10/19/ghana-ai-micro-credential-enrolments-surge-95-percent-critical-thinking/",
@@ -20,8 +40,38 @@
    "source_checked": false
   },
   {
+   "headline": "Spike in AI course enrolments in SA",
+   "url": "https://www.itweb.co.za/article/spike-in-ai-course-enrolments-in-sa/wbrpO7g2eWyvDLZn",
+   "pillar": "jobs",
+   "current_topic": "Employment and outsourcing",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Fed: firms in 5 of 12 districts curb hiring after AI investment",
+   "url": "https://news.outsourceaccelerator.com/fed-beige-book-ai-hiring/",
+   "pillar": "jobs",
+   "current_topic": "Investment and funding",
+   "suggested_topic": "Investment and funding",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "The Next Wave: are layoffs good for AI's business?",
    "url": "https://techcabal.com/2026/10/19/are-layoffs-good-for-ais-business/",
+   "pillar": "jobs",
+   "current_topic": "Employment and outsourcing",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+   "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
    "pillar": "jobs",
    "current_topic": "Employment and outsourcing",
    "suggested_topic": "Employment and outsourcing",
@@ -1835,6 +1885,66 @@
    "pillar": "jobs",
    "current_topic": "Employment and outsourcing",
    "suggested_topic": "Employment and outsourcing",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Vivo V80 global launch: price, markets and the catch",
+   "url": "https://memeburn.com/vivo-v80-global-launch/",
+   "pillar": "access",
+   "current_topic": "Pricing and affordability",
+   "suggested_topic": "Pricing and affordability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Spectrum costs squeeze African telecom investment and growth",
+   "url": "https://techcabal.com/2026/10/20/spectrum-costs-african-telecom-investment/",
+   "pillar": "access",
+   "current_topic": "Investment and funding",
+   "suggested_topic": "Investment and funding",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Efficiency Measured in English: Tokeniser Coverage Bounds Small Language Models on Indic Scripts",
+   "url": "https://arxiv.org/abs/2610.24818",
+   "pillar": "access",
+   "current_topic": "Models and capability",
+   "suggested_topic": "Models and capability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight",
+   "url": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/",
+   "pillar": "access",
+   "current_topic": "Pricing and affordability",
+   "suggested_topic": "Pricing and affordability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Advancing coding in low-resource programming languages",
+   "url": "https://openai.com/index/low-resource-programming-languages",
+   "pillar": "access",
+   "current_topic": "Models and capability",
+   "suggested_topic": "Models and capability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Meta's Muse and OpenAI's Dots risk widening the global AI divide",
+   "url": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/",
+   "pillar": "access",
+   "current_topic": "Safety and governance of AI",
+   "suggested_topic": "Safety and governance of AI",
    "country": "",
    "flags": "african_relevance_not_recorded; source_review_outstanding",
    "source_checked": false
@@ -4300,6 +4410,26 @@
    "source_checked": false
   },
   {
+   "headline": "World Bank taps Cassava, Nvidia for Africa AI compute push",
+   "url": "https://techtrendske.co.ke/2026/10/20/world-bank-cassava-nvidia-ai-infrastructure-initiative-africa/",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Vodacom South Africa invests R600 million to expand connectivity in Mpumalanga",
+   "url": "https://techafricanews.com/2026/10/20/vodacom-south-africa-invests-r600-million-to-expand-connectivity-in-mpumalanga/",
+   "pillar": "infra",
+   "current_topic": "Investment and funding",
+   "suggested_topic": "Investment and funding",
+   "country": "ZAF",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "Libya's O3 Group unveils national fibre and Tier III data centre plans after Medusa cable landing",
    "url": "https://techafricanews.com/2026/10/19/libya-o3-group-digital-infrastructure-medusa-cable-landing/",
    "pillar": "infra",
@@ -4317,6 +4447,26 @@
    "suggested_topic": "Infrastructure and compute",
    "country": "KEN",
    "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "After the data centre: Africa's missing cloud platform layer",
+   "url": "https://techtrendske.co.ke/2026/10/19/africa-missing-cloud-platform-layer/",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Datacenters 2027: the year of acceleration, +50GW in a single year",
+   "url": "https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
    "source_checked": false
   },
   {
