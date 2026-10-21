@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-20",
- "count": 736,
+ "generated_at": "2026-10-21",
+ "count": 743,
  "source_checked": 50,
  "flag_counts": {
-  "source_review_outstanding": 686,
-  "african_relevance_not_recorded": 300,
+  "source_review_outstanding": 693,
+  "african_relevance_not_recorded": 303,
   "topic_needs_review": 28
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
@@ -75,6 +75,26 @@
    "pillar": "jobs",
    "current_topic": "Employment and outsourcing",
    "suggested_topic": "Employment and outsourcing",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Beyond adoption: turning AI productivity into better jobs in African economies",
+   "url": "https://odi.org/en/insights/beyond-adoption-turning-ai-productivity-into-better-jobs-in-african-economies/",
+   "pillar": "jobs",
+   "current_topic": "Employment and outsourcing",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Govt weighs policy changes to attract global service firms",
+   "url": "https://peopledaily.digital/business/govt-weighs-policy-changes-to-attract-global-service-firms",
+   "pillar": "jobs",
+   "current_topic": "Policy and regulation",
+   "suggested_topic": "Policy and regulation",
    "country": "",
    "flags": "african_relevance_not_recorded; source_review_outstanding",
    "source_checked": false
@@ -1920,6 +1940,16 @@
    "source_checked": false
   },
   {
+   "headline": "AI boom, rising chip costs shrink Nigeria's smartphone market by 11%",
+   "url": "https://thesun.ng/ai-boom-rising-chip-costs-shrink-nigerias-smartphone-market-by-11/",
+   "pillar": "access",
+   "current_topic": "Pricing and affordability",
+   "suggested_topic": "Pricing and affordability",
+   "country": "NGA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight",
    "url": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/",
    "pillar": "access",
@@ -1950,6 +1980,16 @@
    "source_checked": false
   },
   {
+   "headline": "Global AI price war intensifies as Chinese models gain ground",
+   "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279066",
+   "pillar": "access",
+   "current_topic": "Pricing and affordability",
+   "suggested_topic": "Pricing and affordability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "TECNO and Safaricom cut POVA Curve 2 5G price by Sh11,000",
    "url": "https://techtrendske.co.ke/2026/10/16/tecno-safaricom-5g-smartphone-price-cut/",
    "pillar": "access",
@@ -1966,6 +2006,16 @@
    "current_topic": "Models and capability",
    "suggested_topic": "Models and capability",
    "country": "UGA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Global smartphone shipments register their worst quarter yet, but Sub-Saharan Africa will be hardest hit",
+   "url": "https://technext24.com/reviews/global-smartphone-shipments-worst-in-africa/",
+   "pillar": "access",
+   "current_topic": "Devices and hardware",
+   "suggested_topic": "Devices and hardware",
+   "country": "",
    "flags": "source_review_outstanding",
    "source_checked": false
   },
@@ -4430,6 +4480,16 @@
    "source_checked": false
   },
   {
+   "headline": "Africa risks missing AI investment boom without reliable power, infrastructure, KPMG says",
+   "url": "https://businessday.ng/africa/article/africa-risks-missing-ai-investment-boom-without-reliable-power-infrastructure-kpmg/",
+   "pillar": "infra",
+   "current_topic": "Investment and funding",
+   "suggested_topic": "Investment and funding",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "Libya's O3 Group unveils national fibre and Tier III data centre plans after Medusa cable landing",
    "url": "https://techafricanews.com/2026/10/19/libya-o3-group-digital-infrastructure-medusa-cable-landing/",
    "pillar": "infra",
@@ -4465,6 +4525,16 @@
    "pillar": "infra",
    "current_topic": "Data centres and compute",
    "suggested_topic": "Data centres and compute",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Vodacom's technology chief outlines regional data centre strategy",
+   "url": "https://www.businessday.co.za/companies/2026-10-18-vodacoms-technology-chief-outlines-regional-data-centre-strategy/",
+   "pillar": "infra",
+   "current_topic": "Policy and regulation",
+   "suggested_topic": "Policy and regulation",
    "country": "",
    "flags": "african_relevance_not_recorded; source_review_outstanding",
    "source_checked": false

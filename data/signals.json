@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "schema": 1,
  "buckets": {
   "jobs": {
@@ -52,6 +52,20 @@
      "u": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
      "s": "The Decoder",
      "d": "Oct 18",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Beyond adoption: turning AI productivity into better jobs in African economies",
+     "u": "https://odi.org/en/insights/beyond-adoption-turning-ai-productivity-into-better-jobs-in-african-economies/",
+     "s": "ODI",
+     "d": "Oct 16",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Govt weighs policy changes to attract global service firms",
+     "u": "https://peopledaily.digital/business/govt-weighs-policy-changes-to-attract-global-service-firms",
+     "s": "People Daily",
+     "d": "Oct 16",
      "dot": "dot-jobs"
     },
     {
@@ -1523,6 +1537,13 @@
      "dot": "dot-arxiv"
     },
     {
+     "t": "AI boom, rising chip costs shrink Nigeria's smartphone market by 11%",
+     "u": "https://thesun.ng/ai-boom-rising-chip-costs-shrink-nigerias-smartphone-market-by-11/",
+     "s": "The Sun Nigeria",
+     "d": "Oct 20",
+     "dot": "dot-access"
+    },
+    {
      "t": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight",
      "u": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/",
      "s": "The Decoder",
@@ -1544,6 +1565,13 @@
      "dot": "dot-access"
     },
     {
+     "t": "Global AI price war intensifies as Chinese models gain ground",
+     "u": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279066",
+     "s": "BusinessKorea",
+     "d": "Oct 19",
+     "dot": "dot-price"
+    },
+    {
      "t": "TECNO and Safaricom cut POVA Curve 2 5G price by Sh11,000",
      "u": "https://techtrendske.co.ke/2026/10/16/tecno-safaricom-5g-smartphone-price-cut/",
      "s": "TechTrendsKE",
@@ -1556,6 +1584,13 @@
      "s": "arXiv",
      "d": "Oct 15",
      "dot": "dot-arxiv"
+    },
+    {
+     "t": "Global smartphone shipments register their worst quarter yet, but Sub-Saharan Africa will be hardest hit",
+     "u": "https://technext24.com/reviews/global-smartphone-shipments-worst-in-africa/",
+     "s": "Technext24",
+     "d": "Oct 15",
+     "dot": "dot-access"
     },
     {
      "t": "Cheap models put AI infrastructure spending under scrutiny",
@@ -3581,6 +3616,13 @@
      "dot": "dot-infra"
     },
     {
+     "t": "Africa risks missing AI investment boom without reliable power, infrastructure, KPMG says",
+     "u": "https://businessday.ng/africa/article/africa-risks-missing-ai-investment-boom-without-reliable-power-infrastructure-kpmg/",
+     "s": "BusinessDay NG",
+     "d": "Oct 20",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Libya's O3 Group unveils national fibre and Tier III data centre plans after Medusa cable landing",
      "u": "https://techafricanews.com/2026/10/19/libya-o3-group-digital-infrastructure-medusa-cable-landing/",
      "s": "TechAfrica News",
@@ -3606,6 +3648,13 @@
      "u": "https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration",
      "s": "SemiAnalysis",
      "d": "Oct 19",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Vodacom's technology chief outlines regional data centre strategy",
+     "u": "https://www.businessday.co.za/companies/2026-10-18-vodacoms-technology-chief-outlines-regional-data-centre-strategy/",
+     "s": "Business Day",
+     "d": "Oct 18",
      "dot": "dot-infra"
     },
     {
@@ -5700,7 +5749,7 @@
    ]
   }
  },
- "tracker_updated": "2026-10-20",
+ "tracker_updated": "2026-10-21",
  "backfill_updated": "2026-10-12",
  "scope": "Combined signal feed: tracker plus reviewed historical additions. Signals are not verified numerical observations."
 }
