@@ -1,10 +1,31 @@
 {
- "updated": "2026-10-21",
+ "updated": "2026-10-22",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "FG pivots education to digital skills to close employability gap",
+     "u": "https://businessday.ng/education/article/fg-pivots-education-to-digital-skills-to-close-employability-gap/",
+     "s": "BusinessDay NG",
+     "d": "Oct 22",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Cisco, NITDA and Meta account for 85% of digital literacy training as Nigeria achieves only 5.54% of 2027 target",
+     "u": "https://technext24.com/news/cisco-nitda-meta-records-85-digital-literacy/",
+     "s": "Technext24",
+     "d": "Oct 21",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Will Africa's AI talent find the infrastructure it needs at home?",
+     "u": "https://techafricanews.com/2026/10/21/will-africas-ai-talent-find-the-infrastructure-it-needs-at-home/",
+     "s": "TechAfrica News",
+     "d": "Oct 21",
+     "dot": "dot-jobs"
+    },
     {
      "t": "Kenya's Konza Technopolis targets BPO investment and digital jobs beyond Nairobi",
      "u": "https://techafricanews.com/2026/10/20/kenyas-konza-technopolis-targets-bpo-investment-and-digital-jobs-beyond-nairobi/",
@@ -16,6 +37,13 @@
      "t": "When Better Opportunities Backfire: Service Worker Responses to Parallel AI Deployment in Customer Acquisition",
      "u": "https://arxiv.org/abs/2610.25603",
      "s": "arXiv econ.GN",
+     "d": "Oct 20",
+     "dot": "dot-arxiv"
+    },
+    {
+     "t": "Artificial Intelligence and Job Design: A Dynamic Framework",
+     "u": "https://arxiv.org/abs/2610.28830",
+     "s": "arXiv cs.CY",
      "d": "Oct 20",
      "dot": "dot-arxiv"
     },
@@ -1278,6 +1306,34 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "No Light, No Internet",
+     "u": "https://technext24.com/news/no-light-no-internet/",
+     "s": "Technext24",
+     "d": "Oct 22",
+     "dot": "dot-access"
+    },
+    {
+     "t": "AI enters Nigerian classrooms as Airtel, UNICEF expand digital learning",
+     "u": "https://businessday.ng/technology/article/ai-enters-nigerian-classrooms-as-airtel-unicef-expand-digital-learning/",
+     "s": "BusinessDay NG",
+     "d": "Oct 22",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Building 3,700 rural telecom towers is half the battle; keeping them alive is the real challenge",
+     "u": "https://technext24.com/reviews/3700-rural-telecom-towers-real-challenge/",
+     "s": "Technext24",
+     "d": "Oct 21",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Nigeria is phasing out 3G while 2G stays alive and 5G lags below 5%",
+     "u": "https://technext24.com/reviews/nigeria-is-phasing-out-3g-while-5g-lags/",
+     "s": "Technext24",
+     "d": "Oct 21",
+     "dot": "dot-access"
+    },
+    {
      "t": "Vivo V80 global launch: price, markets and the catch",
      "u": "https://memeburn.com/vivo-v80-global-launch/",
      "s": "Memeburn",
@@ -1302,6 +1358,13 @@
      "t": "AI boom, rising chip costs shrink Nigeria's smartphone market by 11%",
      "u": "https://thesun.ng/ai-boom-rising-chip-costs-shrink-nigerias-smartphone-market-by-11/",
      "s": "The Sun Nigeria",
+     "d": "Oct 20",
+     "dot": "dot-access"
+    },
+    {
+     "t": "World Bank Group launches first digital strategy to expand access and create jobs",
+     "u": "https://www.worldbank.org/en/news/press-release/2026/10/20/world-bank-group-launches-first-digital-strategy-to-expand-access-and-create-jobs",
+     "s": "World Bank",
      "d": "Oct 20",
      "dot": "dot-access"
     },
@@ -2955,6 +3018,34 @@
   "infra": {
    "label": "Infrastructure",
    "items": [
+    {
+     "t": "Africa must own its digital future or risk exploitation, says Luminate CEO",
+     "u": "https://techcabal.com/2026/10/22/african-cloud-infrastructure-exploitation/",
+     "s": "TechCabal",
+     "d": "Oct 22",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Nigeria plans shared AI computing infrastructure as government targets faster technology development",
+     "u": "https://www.simpsonglobalmedia.com.ng/2026/10/nigeria-plans-shared-ai-computing.html",
+     "s": "Simpson Global Media",
+     "d": "Oct 22",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Cassava Technologies adds NVIDIA Nemotron models to its AI Factory",
+     "u": "https://innovation-village.com/cassava-technologies-adds-nvidia-nemotron-to-ai-factory/",
+     "s": "Innovation Village",
+     "d": "Oct 21",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Morocco appoints first AI minister as it pushes to build a $10 billion AI economy",
+     "u": "https://innovation-village.com/morocco-appoints-first-ai-minister-as-it-pushes-to-build-a-10-billion-ai-economy/",
+     "s": "Innovation Village",
+     "d": "Oct 21",
+     "dot": "dot-infra"
+    },
     {
      "t": "World Bank taps Cassava, Nvidia for Africa AI compute push",
      "u": "https://techtrendske.co.ke/2026/10/20/world-bank-cassava-nvidia-ai-infrastructure-initiative-africa/",
