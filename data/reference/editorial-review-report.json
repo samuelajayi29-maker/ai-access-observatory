@@ -1,14 +1,44 @@
 {
- "generated_at": "2026-10-21",
- "count": 743,
+ "generated_at": "2026-10-22",
+ "count": 756,
  "source_checked": 50,
  "flag_counts": {
-  "source_review_outstanding": 693,
-  "african_relevance_not_recorded": 303,
+  "african_relevance_not_recorded": 308,
+  "source_review_outstanding": 706,
   "topic_needs_review": 28
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
  "rows": [
+  {
+   "headline": "FG pivots education to digital skills to close employability gap",
+   "url": "https://businessday.ng/education/article/fg-pivots-education-to-digital-skills-to-close-employability-gap/",
+   "pillar": "jobs",
+   "current_topic": "Skills and talent",
+   "suggested_topic": "Skills and talent",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Cisco, NITDA and Meta account for 85% of digital literacy training as Nigeria achieves only 5.54% of 2027 target",
+   "url": "https://technext24.com/news/cisco-nitda-meta-records-85-digital-literacy/",
+   "pillar": "jobs",
+   "current_topic": "Skills and talent",
+   "suggested_topic": "Skills and talent",
+   "country": "NGA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Will Africa's AI talent find the infrastructure it needs at home?",
+   "url": "https://techafricanews.com/2026/10/21/will-africas-ai-talent-find-the-infrastructure-it-needs-at-home/",
+   "pillar": "jobs",
+   "current_topic": "Skills and talent",
+   "suggested_topic": "Skills and talent",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
   {
    "headline": "Kenya's Konza Technopolis targets BPO investment and digital jobs beyond Nairobi",
    "url": "https://techafricanews.com/2026/10/20/kenyas-konza-technopolis-targets-bpo-investment-and-digital-jobs-beyond-nairobi/",
@@ -25,6 +55,16 @@
    "pillar": "jobs",
    "current_topic": "Investment and funding",
    "suggested_topic": "Investment and funding",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Artificial Intelligence and Job Design: A Dynamic Framework",
+   "url": "https://arxiv.org/abs/2610.28830",
+   "pillar": "jobs",
+   "current_topic": "Policy and regulation",
+   "suggested_topic": "Policy and regulation",
    "country": "",
    "flags": "african_relevance_not_recorded; source_review_outstanding",
    "source_checked": false
@@ -1910,6 +1950,46 @@
    "source_checked": false
   },
   {
+   "headline": "No Light, No Internet",
+   "url": "https://technext24.com/news/no-light-no-internet/",
+   "pillar": "access",
+   "current_topic": "Access and affordability",
+   "suggested_topic": "Access and affordability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "AI enters Nigerian classrooms as Airtel, UNICEF expand digital learning",
+   "url": "https://businessday.ng/technology/article/ai-enters-nigerian-classrooms-as-airtel-unicef-expand-digital-learning/",
+   "pillar": "access",
+   "current_topic": "Access and affordability",
+   "suggested_topic": "Access and affordability",
+   "country": "NGA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Building 3,700 rural telecom towers is half the battle; keeping them alive is the real challenge",
+   "url": "https://technext24.com/reviews/3700-rural-telecom-towers-real-challenge/",
+   "pillar": "access",
+   "current_topic": "Access and affordability",
+   "suggested_topic": "Access and affordability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Nigeria is phasing out 3G while 2G stays alive and 5G lags below 5%",
+   "url": "https://technext24.com/reviews/nigeria-is-phasing-out-3g-while-5g-lags/",
+   "pillar": "access",
+   "current_topic": "Connectivity and bandwidth",
+   "suggested_topic": "Connectivity and bandwidth",
+   "country": "NGA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "Vivo V80 global launch: price, markets and the catch",
    "url": "https://memeburn.com/vivo-v80-global-launch/",
    "pillar": "access",
@@ -1947,6 +2027,16 @@
    "suggested_topic": "Pricing and affordability",
    "country": "NGA",
    "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "World Bank Group launches first digital strategy to expand access and create jobs",
+   "url": "https://www.worldbank.org/en/news/press-release/2026/10/20/world-bank-group-launches-first-digital-strategy-to-expand-access-and-create-jobs",
+   "pillar": "access",
+   "current_topic": "Policy and regulation",
+   "suggested_topic": "Policy and regulation",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
    "source_checked": false
   },
   {
@@ -4456,6 +4546,46 @@
    "current_topic": "Pricing and affordability",
    "suggested_topic": "Pricing and affordability",
    "country": "NGA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Africa must own its digital future or risk exploitation, says Luminate CEO",
+   "url": "https://techcabal.com/2026/10/22/african-cloud-infrastructure-exploitation/",
+   "pillar": "infra",
+   "current_topic": "Safety and governance of AI",
+   "suggested_topic": "Safety and governance of AI",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Nigeria plans shared AI computing infrastructure as government targets faster technology development",
+   "url": "https://www.simpsonglobalmedia.com.ng/2026/10/nigeria-plans-shared-ai-computing.html",
+   "pillar": "infra",
+   "current_topic": "Infrastructure and compute",
+   "suggested_topic": "Infrastructure and compute",
+   "country": "NGA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Cassava Technologies adds NVIDIA Nemotron models to its AI Factory",
+   "url": "https://innovation-village.com/cassava-technologies-adds-nvidia-nemotron-to-ai-factory/",
+   "pillar": "infra",
+   "current_topic": "Models and capability",
+   "suggested_topic": "Models and capability",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Morocco appoints first AI minister as it pushes to build a $10 billion AI economy",
+   "url": "https://innovation-village.com/morocco-appoints-first-ai-minister-as-it-pushes-to-build-a-10-billion-ai-economy/",
+   "pillar": "infra",
+   "current_topic": "Infrastructure and compute",
+   "suggested_topic": "Infrastructure and compute",
+   "country": "MAR",
    "flags": "source_review_outstanding",
    "source_checked": false
   },
