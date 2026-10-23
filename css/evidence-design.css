@@ -196,6 +196,9 @@ button,a,summary { transition:background-color var(--duration-value) var(--ease-
 .signal-filters label {display:grid; gap:var(--s-2); font-family:var(--font-text); flex:1 1 14rem;}
 .signal-filters input,.signal-filters select {width:100%; min-height:2.75rem; padding:var(--s-2); background:var(--paper); color:var(--ink); border:1px solid var(--rule);}
 .signal-browser [hidden] {display:none !important;}
+.historical-signal-note {font-size:var(--step--1); color:var(--ink-secondary); max-width:75ch;}
+.historical-signal-note summary {cursor:pointer; padding-block:var(--s-2); min-height:2.75rem;}
+.historical-signal-note p {margin-block:var(--s-2);}
 
 /* Quicker entry to the evidence, preserving the site's typography and theme. */
 .evidence-pagehead {grid-template-columns:1fr; gap:var(--s-4); padding-block:var(--s-6)!important; margin-bottom:var(--s-4);}

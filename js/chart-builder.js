@@ -339,7 +339,7 @@
     } catch(error) {message.textContent=error.message || 'Export failed. Please try SVG or CSV.';}
   }
   select.addEventListener('change',function(){activate(series.find(function(s){return s.id===select.value;}),false);});
-  function family(s){if(s.id.startsWith('jobs-'))return 'AI task exposure';if(s.id.startsWith('cost-'))return 'Connectivity cost';if(/device|handset/.test(s.id))return 'Device cost';if(/gni|subscription/.test(s.id))return 'Cost vs income';if(s.id.startsWith('economy-'))return 'Context: economy';if(/EG\.ELC|generation|eskom|OUTG/.test(s.id))return 'Context: electricity';return 'Supporting evidence';}
+  function family(s){if(s.id.startsWith('jobs-'))return 'AI task exposure';if(s.id.startsWith('cost-'))return 'Connectivity cost';if(/device|handset/.test(s.id))return 'Device cost';if(/gni|subscription/.test(s.id))return 'Cost vs income';if(s.id.startsWith('fiscal-'))return 'Context: public finances';if(s.id.startsWith('economy-'))return 'Context: economy';if(/EG\.ELC|generation|eskom|OUTG/.test(s.id))return 'Context: electricity';return 'Supporting evidence';}
   function provider(s){return /subscription|access-gni/.test(s.id)?s.title.split(' / ')[0].split(' — ')[0]:'';}
   const familyFilter=get('[data-cb-family]'),providerFilter=get('[data-cb-provider]'),measureSearch=get('[data-cb-measure-search]');
   [...new Set(series.map(family))].sort().forEach(f=>familyFilter.add(new Option(f,f)));

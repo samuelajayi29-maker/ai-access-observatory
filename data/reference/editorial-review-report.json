@@ -1,11 +1,11 @@
 {
  "generated_at": "2026-10-23",
- "count": 770,
- "source_checked": 50,
+ "count": 798,
+ "source_checked": 78,
  "flag_counts": {
   "source_review_outstanding": 720,
   "african_relevance_not_recorded": 311,
-  "topic_needs_review": 28
+  "topic_needs_review": 56
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
  "rows": [
@@ -2000,6 +2000,76 @@
    "source_checked": false
   },
   {
+   "headline": "UNESCO reports AI education framework work in four African pilot countries",
+   "url": "https://www.unesco.org/en/articles/unesco-and-partners-pioneer-national-ai-competency-frameworks-and-local-language-learning-africa",
+   "pillar": "jobs",
+   "current_topic": "training",
+   "suggested_topic": "Policy and regulation",
+   "country": "CIV",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "UNESCO and Smart Africa train judicial participants from 13 countries",
+   "url": "https://www.unesco.org/en/articles/unesco-and-smart-africa-train-francophone-leaders-harness-ai-justice-systems",
+   "pillar": "jobs",
+   "current_topic": "training",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "BFA",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "UNDP and University of Eswatini sign AI research agreement",
+   "url": "https://www.undp.org/eswatini/press-releases/undp-and-uneswa-sign-mou-using-ai-research-development",
+   "pillar": "jobs",
+   "current_topic": "research",
+   "suggested_topic": "Policy and regulation",
+   "country": "SWZ",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "Study examines educators’ views on AI in Lesotho, Rwanda and Nigeria",
+   "url": "https://link.springer.com/article/10.1007/s10639-024-12820-x",
+   "pillar": "jobs",
+   "current_topic": "training",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "LSO",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "Mozambique hosts coding camp with AI and robotics training",
+   "url": "https://www.uneca.org/node/8228",
+   "pillar": "jobs",
+   "current_topic": "training",
+   "suggested_topic": "Skills and talent",
+   "country": "MOZ",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "AI Institute of South Africa launched",
+   "url": "https://www.gov.za/news/speeches/minister-khumbudzo-ntshavheni-debate-state-nation-address-15-feb-2023",
+   "pillar": "jobs",
+   "current_topic": "research",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "ZAF",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "Makerere announces DeepMind-backed AI scholarships",
+   "url": "https://news.mak.ac.ug/2021/02/deepmind-supports-the-establishment-of-masters-scholarships-to-study-ai-at-makerere-university/",
+   "pillar": "jobs",
+   "current_topic": "training",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "UGA",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
    "headline": "No Light, No Internet",
    "url": "https://technext24.com/news/no-light-no-internet/",
    "pillar": "access",
@@ -2178,6 +2248,16 @@
    "country": "",
    "flags": "african_relevance_not_recorded; source_review_outstanding",
    "source_checked": false
+  },
+  {
+   "headline": "Djibouti ports authority presents predictive logistics and road-monitoring AI",
+   "url": "https://dpfza.gov.dj/index.php/dpfza-presents-ai-solutions-smarter-port-and-logistics-operation",
+   "pillar": "access",
+   "current_topic": "public services",
+   "suggested_topic": "Access and affordability",
+   "country": "DJI",
+   "flags": "topic_needs_review",
+   "source_checked": true
   },
   {
    "headline": "TECNO and Safaricom cut POVA Curve 2 5G price by Sh11,000",
@@ -4648,6 +4728,176 @@
    "country": "NGA",
    "flags": "source_review_outstanding",
    "source_checked": false
+  },
+  {
+   "headline": "UNESCO readiness assessment process launched",
+   "url": "https://moc.gov.gh/2025/11/28/ghana-launches-unesco-ai-readiness-assessment-methodology-to-promote-ethical-ai-deployment/",
+   "pillar": "access",
+   "current_topic": "research",
+   "suggested_topic": "Access and affordability",
+   "country": "GHA",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "AI readiness assessment launched",
+   "url": "https://www.unesco.org/en/articles/namibia-launches-artificial-intelligence-readiness-assessment-report",
+   "pillar": "access",
+   "current_topic": "research",
+   "suggested_topic": "Access and affordability",
+   "country": "NAM",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "Botswana and Malawi consult on draft AI readiness assessments",
+   "url": "https://www.unesco.org/en/articles/unesco-pilots-ai-readiness-assessments-across-southern-africa",
+   "pillar": "access",
+   "current_topic": "research",
+   "suggested_topic": "Access and affordability",
+   "country": "BWA",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "AI readiness assessment handed over",
+   "url": "https://www.unesco.org/en/articles/ai-ready-and-responsible-tanzania-unveils-national-assessment-africa-internet-governance-forum",
+   "pillar": "access",
+   "current_topic": "research",
+   "suggested_topic": "Access and affordability",
+   "country": "TZA",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "Eswatini AI Indaba discusses national strategy plans",
+   "url": "https://eswatini.un.org/en/284410-un-eswatini-joins-ministry-ict-explore-artificial-intelligence-sustainable-development",
+   "pillar": "access",
+   "current_topic": "policy",
+   "suggested_topic": "Policy and regulation",
+   "country": "SWZ",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "National AI strategy presented",
+   "url": "https://ami.mr/fr/archives/254588",
+   "pillar": "access",
+   "current_topic": "policy",
+   "suggested_topic": "Policy and regulation",
+   "country": "MRT",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "Guinean developers demonstrate local-language AI prototype",
+   "url": "https://afrique.le360.ma/societe/guinee-les-langues-locales-se-mettent-a-lia_KM4QTYOVL5FMLFD4L4KR4EWNEE/",
+   "pillar": "access",
+   "current_topic": "local languages",
+   "suggested_topic": "Models and capability",
+   "country": "GIN",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "Mauritius Cabinet agrees to volunteer for Commonwealth AI initiative",
+   "url": "https://pmo.govmu.org/CabinetDecision/2023/FINAL%20Highlights%20-%2015%20September%202023.pdf",
+   "pillar": "access",
+   "current_topic": "policy",
+   "suggested_topic": "Access and affordability",
+   "country": "MUS",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "BioNTech completes acquisition of InstaDeep",
+   "url": "https://www.biontech.com/content/dam/biontech-corporate/global/pdf/home/media/en/news/attachments/2023/07/15371.pdf",
+   "pillar": "access",
+   "current_topic": "business",
+   "suggested_topic": "Investment and funding",
+   "country": "TUN",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "Senegal university documents AI development research initiative",
+   "url": "https://www.unchk.sn/lancement-de-linitiative-pour-le-developpement-de-lintelligence-artificielle-idia/",
+   "pillar": "access",
+   "current_topic": "policy",
+   "suggested_topic": "Skills and talent",
+   "country": "SEN",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "AI and big-data strategy approved",
+   "url": "https://innovation.gouv.bj/publications/actualites/le-benin-se-dote-d-une-strategie-nationale-d-intelligence-artificielle-et-des-megadonnees",
+   "pillar": "access",
+   "current_topic": "policy",
+   "suggested_topic": "Policy and regulation",
+   "country": "BEN",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "BioNTech announces agreement to acquire InstaDeep",
+   "url": "https://www.biontech.com/int/en/home/mediaroom/news/press-releases/2023/01/biontech-acquire-instadeep-strengthen-pioneering-position-field.html",
+   "pillar": "access",
+   "current_topic": "business",
+   "suggested_topic": "Policy and regulation",
+   "country": "TUN",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "Windhoek forum discusses inclusive AI governance",
+   "url": "https://www.unesco.org/en/articles/how-adopt-multistakeholder-approach-ai-governance-southern-africa",
+   "pillar": "access",
+   "current_topic": "policy",
+   "suggested_topic": "Policy and regulation",
+   "country": "NAM",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "InstaDeep closes Series B funding round",
+   "url": "https://startup.gov.tn/index.php/en/news/instadeep-raises-100-million-worlds-largest-investors",
+   "pillar": "access",
+   "current_topic": "business",
+   "suggested_topic": "Investment and funding",
+   "country": "TUN",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "World Bank reports on ML targeting in Togo’s Novissi programme",
+   "url": "https://www.worldbank.org/en/results/2021/04/13/prioritizing-the-poorest-and-most-vulnerable-in-west-africa-togo-s-novissi-platform-for-social-protection-uses-machine-l",
+   "pillar": "access",
+   "current_topic": "public services",
+   "suggested_topic": "Access and affordability",
+   "country": "TGO",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "Togo’s rural cash-transfer expansion uses machine learning",
+   "url": "https://cega.berkeley.edu/article/givedirectly-uses-machine-learning-to-find-the-extreme-poor-fast-company/",
+   "pillar": "access",
+   "current_topic": "public services",
+   "suggested_topic": "Access and affordability",
+   "country": "TGO",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "InstaDeep and BioNTech announce joint AI drug-discovery lab",
+   "url": "https://www.biontech.com/us/en/home/mediaroom/news/press-releases/2020/11/biontech-and-instadeep-announce-strategic-collaboration-and-form.html",
+   "pillar": "access",
+   "current_topic": "research",
+   "suggested_topic": "Access and affordability",
+   "country": "TUN",
+   "flags": "topic_needs_review",
+   "source_checked": true
   },
   {
    "headline": "World Bank plans shared AI computing for Africa: rent GPUs, don't build data centres",
@@ -7678,6 +7928,36 @@
    "country": "ZWE",
    "flags": "source_review_outstanding",
    "source_checked": false
+  },
+  {
+   "headline": "Congo’s AI research centre inaugurated at Kintélé",
+   "url": "https://itweb.africa/article/ai-research-centre-boosts-congos-digital-ambitions/wbrpOqgYdk27DLZn",
+   "pillar": "infra",
+   "current_topic": "compute",
+   "suggested_topic": "Infrastructure and compute",
+   "country": "COG",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "Congo and ECA schedule AI research centre inauguration",
+   "url": "https://www.uneca.org/stories/eca-set-to-launch-africa%E2%80%99s-first-ai-research-centre-in-brazzaville-congo,-with-focus-on",
+   "pillar": "infra",
+   "current_topic": "compute",
+   "suggested_topic": "Infrastructure and compute",
+   "country": "COG",
+   "flags": "topic_needs_review",
+   "source_checked": true
+  },
+  {
+   "headline": "Nigeria inaugurates AI and robotics centre in Abuja",
+   "url": "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/",
+   "pillar": "infra",
+   "current_topic": "research",
+   "suggested_topic": "Infrastructure and compute",
+   "country": "NGA",
+   "flags": "topic_needs_review",
+   "source_checked": true
   },
   {
    "headline": "Africa's Compute Capacity for AI",

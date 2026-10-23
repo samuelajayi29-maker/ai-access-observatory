@@ -2,8 +2,8 @@
  "version": 1,
  "source_hashes": {
   "data/items.json": "5b60617265aa77614c19626b4fe68f6802799a22c87ef747e67276a6c8099ee4",
-  "data/reference/signal-backfill.json": "364e8ff2ebb4e07d0611698889672761af5a0aca0a611f7f3f17914fcc935323",
-  "data/signals.json": "cdf83ec72bc65e1dbb0a4d0895a1ce045b256aa20dfcecce11dd36b178b8aa4e",
+  "data/reference/signal-backfill.json": "ff9093680b4574bbc6ee386b6e9c8759b8a766b460106e54900f438361345f5f",
+  "data/signals.json": "2f004b256f014093d0d7129be343fd960d3b760f13866a15e49c3ffd1794156d",
   "data/infrastructure.json": "d97dedc2edfa80be4ea8938e5770b812411c6a5aa6c8b5c36fe8fa7ab2b7a76f",
   "data/prices.json": "ed7d3cda62ee928dcbeda05b65c412e8d848a4b3d37dadaaeaaf9332c6b20467",
   "data/indicators.json": "51a6edc775ddd7a2d41bb293ff9a6648bdc4f9883336590e36e871ff644688dd",
