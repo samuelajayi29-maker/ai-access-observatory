@@ -1,16 +1,51 @@
 {
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
     {
+     "t": "AltSchool Africa gets a new CEO as it shifts from coding skills to university degrees",
+     "u": "https://innovation-village.com/altschool-africa-gets-a-new-ceo-as-it-shifts-from-coding-skills-to-university-degrees/",
+     "s": "Innovation Village",
+     "d": "Oct 23",
+     "dot": "dot-jobs"
+    },
+    {
      "t": "FG pivots education to digital skills to close employability gap",
      "u": "https://businessday.ng/education/article/fg-pivots-education-to-digital-skills-to-close-employability-gap/",
      "s": "BusinessDay NG",
      "d": "Oct 22",
      "dot": "dot-jobs"
+    },
+    {
+     "t": "Spend first, measure later: inside African banking's AI boom",
+     "u": "https://techcabal.com/2026/10/22/are-african-banks-seeing-ai-returns/",
+     "s": "TechCabal",
+     "d": "Oct 22",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Egypt graduates 601 trainees from advanced AI ambassadors programme",
+     "u": "https://techafricanews.com/2026/10/22/egypt-graduates-601-trainees-from-advanced-ai-ambassadors-programme/",
+     "s": "TechAfrica News",
+     "d": "Oct 22",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Vietnam's FPT opens its first Africa office in Cairo with 60 engineers",
+     "u": "https://news.outsourceaccelerator.com/fpt-cairo-africa-office/",
+     "s": "Outsource Accelerator",
+     "d": "Oct 22",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Making generative AI workable at work: accountability, localization and representation in Kenyan and Nigerian small businesses",
+     "u": "https://arxiv.org/abs/2610.31344",
+     "s": "arXiv cs.HC",
+     "d": "Oct 22",
+     "dot": "dot-arxiv"
     },
     {
      "t": "Cisco, NITDA and Meta account for 85% of digital literacy training as Nigeria achieves only 5.54% of 2027 target",
@@ -1318,6 +1353,41 @@
      "s": "BusinessDay NG",
      "d": "Oct 22",
      "dot": "dot-access"
+    },
+    {
+     "t": "Global PC shipments expected to decline by 27% year on year in Q4 2026",
+     "u": "https://technext24.com/news/global-pc-shipments-to-decline-by-27-q4/",
+     "s": "Technext24",
+     "d": "Oct 22",
+     "dot": "dot-access"
+    },
+    {
+     "t": "ChatGPT Ads launches in Nigeria and South Africa: what businesses pay",
+     "u": "https://technext24.com/news/chatgpt-ads-launch-in-nigeria-and-south-africa/",
+     "s": "Technext24",
+     "d": "Oct 22",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Nigerian telecom operators record 44,678 fibre cuts in nine months",
+     "u": "https://technext24.com/news/telecom-operators-suffer-44678-fibre-cuts/",
+     "s": "Technext24",
+     "d": "Oct 22",
+     "dot": "dot-access"
+    },
+    {
+     "t": "MTN Uganda launches Starlink for Business to expand connectivity in remote areas",
+     "u": "https://techafricanews.com/2026/10/22/mtn-uganda-launches-starlink-for-business-to-expand-connectivity-in-remote-areas/",
+     "s": "TechAfrica News",
+     "d": "Oct 22",
+     "dot": "dot-access"
+    },
+    {
+     "t": "OpenAI puts GPT-6 on Google Cloud: three models on one invoice, cached input at $0.10 per million tokens",
+     "u": "https://www.techi.com/openai-gpt-6-google-cloud-model-garden-codex/",
+     "s": "TECHi",
+     "d": "Oct 22",
+     "dot": "dot-price"
     },
     {
      "t": "Building 3,700 rural telecom towers is half the battle; keeping them alive is the real challenge",
@@ -3019,6 +3089,13 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "World Bank plans shared AI computing for Africa: rent GPUs, don't build data centres",
+     "u": "https://tech-ish.com/2026/10/23/world-bank-plans-shared-ai-computing-for-africa/",
+     "s": "tech-ish",
+     "d": "Oct 23",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Africa must own its digital future or risk exploitation, says Luminate CEO",
      "u": "https://techcabal.com/2026/10/22/african-cloud-infrastructure-exploitation/",
      "s": "TechCabal",
@@ -3029,6 +3106,27 @@
      "t": "Nigeria plans shared AI computing infrastructure as government targets faster technology development",
      "u": "https://www.simpsonglobalmedia.com.ng/2026/10/nigeria-plans-shared-ai-computing.html",
      "s": "Simpson Global Media",
+     "d": "Oct 22",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "FG proposes shared AI computing infrastructure with Rwanda, Senegal, Kenya",
+     "u": "https://www.thecable.ng/fg-proposes-shared-ai-computing-infrastructure-with-rwanda-senegal-kenya/",
+     "s": "TheCable",
+     "d": "Oct 22",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "UK and Nigeria collaborate on AI governance, standards and digital transformation",
+     "u": "https://technext24.com/news/uk-and-nigeria-collaborate-on-ai-governance/",
+     "s": "Technext24",
+     "d": "Oct 22",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Big Tech's thirst for water is sparking a global resistance",
+     "u": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/",
+     "s": "Rest of World",
      "d": "Oct 22",
      "dot": "dot-infra"
     },
