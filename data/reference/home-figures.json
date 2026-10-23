@@ -1,5 +1,5 @@
 {
- "compiled": "2026-10-22",
+ "compiled": "2026-10-23",
  "band_points": 5.0,
  "infrastructure": {
   "adca": {
@@ -21,7 +21,7 @@
    "funding": 0.0,
    "policy_target": 0.0
   },
-  "register_refreshed_at": "2026-10-22"
+  "register_refreshed_at": "2026-10-23"
  },
  "access": {
   "baseline_model": "Synthetic frontier median benchmark",
