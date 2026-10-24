@@ -1,14 +1,34 @@
 {
- "generated_at": "2026-10-23",
- "count": 798,
+ "generated_at": "2026-10-24",
+ "count": 809,
  "source_checked": 78,
  "flag_counts": {
-  "source_review_outstanding": 720,
-  "african_relevance_not_recorded": 311,
+  "source_review_outstanding": 731,
+  "african_relevance_not_recorded": 314,
   "topic_needs_review": 56
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
  "rows": [
+  {
+   "headline": "Experts urge Africa to link AI training with jobs at BUILD 2026 panel",
+   "url": "https://von.gov.ng/experts-urge-africa-to-link-ai-training-with-jobs/",
+   "pillar": "jobs",
+   "current_topic": "Skills and talent",
+   "suggested_topic": "Skills and talent",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "GIZ seeks business partners for Ghana AI training scheme for 120 graduates",
+   "url": "https://ghanaguardian.com/giz-seeks-business-partners-for-ghana-ai-training-scheme-for-120-graduates/",
+   "pillar": "jobs",
+   "current_topic": "Skills and talent",
+   "suggested_topic": "Skills and talent",
+   "country": "GHA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
   {
    "headline": "AltSchool Africa gets a new CEO as it shifts from coding skills to university degrees",
    "url": "https://innovation-village.com/altschool-africa-gets-a-new-ceo-as-it-shifts-from-coding-skills-to-university-degrees/",
@@ -2070,6 +2090,36 @@
    "source_checked": true
   },
   {
+   "headline": "Nvidia prepays suppliers to ease chip testing and optics bottlenecks",
+   "url": "https://dailysynapse.com/news/nvidia-prepays-suppliers-chip-testing-optics-bottlenecks/",
+   "pillar": "access",
+   "current_topic": "Devices and hardware",
+   "suggested_topic": "Devices and hardware",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Can African AI platforms compete for users' attention against ChatGPT and Claude?",
+   "url": "https://aireportsafrica.com/2026/10/24/can-african-ai-platforms-compete-for-users-attention-against-chatgpt-and-claude/",
+   "pillar": "access",
+   "current_topic": "Models and capability",
+   "suggested_topic": "Models and capability",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "House of Reps gives telecom operators seven days to explain poor network services",
+   "url": "https://itpulse.com.ng/house-of-reps-gives-telecom-operators-seven-days-to-explain-poor-network-services/",
+   "pillar": "access",
+   "current_topic": "Access and affordability",
+   "suggested_topic": "Access and affordability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "No Light, No Internet",
    "url": "https://technext24.com/news/no-light-no-internet/",
    "pillar": "access",
@@ -2135,6 +2185,16 @@
    "pillar": "access",
    "current_topic": "Models and capability",
    "suggested_topic": "Models and capability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "From Tokens to Credits to Outcomes: Pricing AI Across Models, Applications, and Cloud Platforms",
+   "url": "https://arxiv.org/abs/2610.30701",
+   "pillar": "access",
+   "current_topic": "Pricing and affordability",
+   "suggested_topic": "Pricing and affordability",
    "country": "",
    "flags": "african_relevance_not_recorded; source_review_outstanding",
    "source_checked": false
@@ -4905,6 +4965,56 @@
    "pillar": "infra",
    "current_topic": "Devices and hardware",
    "suggested_topic": "Devices and hardware",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "SoleCrypt plans 40MW solar-powered AI campus in Bizerte, Tunisia",
+   "url": "https://iafrica.com/solecrypt-plans-40mw-solar-powered-ai-campus-in-bizerte-tunisia/",
+   "pillar": "infra",
+   "current_topic": "Energy and power",
+   "suggested_topic": "Energy and power",
+   "country": "TUN",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Egypt plans up to seven 'mega data centres', targets exports by 2030",
+   "url": "https://iafrica.com/egypt-plans-up-to-seven-mega-data-centres-targets-exports-by-2030/",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "EGY",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Uganda launches five-year data strategy as groundwork for national AI plan",
+   "url": "https://iafrica.com/uganda-launches-five-year-data-strategy-as-groundwork-for-national-ai-plan/",
+   "pillar": "infra",
+   "current_topic": "Policy and regulation",
+   "suggested_topic": "Policy and regulation",
+   "country": "UGA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Kenya's Konza Technopolis secures funding agreement for data centre and smart city project",
+   "url": "https://techafricanews.com/2026/10/23/kenyas-konza-technopolis-secures-funding-agreement-for-data-centre-and-smart-city-project/",
+   "pillar": "infra",
+   "current_topic": "Policy and regulation",
+   "suggested_topic": "Policy and regulation",
+   "country": "KEN",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Redington Gulf signs AWS deal to expand AI adoption across Middle East and Africa",
+   "url": "https://techtrendske.co.ke/2026/10/23/redington-gulf-and-aws-target-faster-ai-adoption-across-middle-east-and-africa/",
+   "pillar": "infra",
+   "current_topic": "Infrastructure and compute",
+   "suggested_topic": "Infrastructure and compute",
    "country": "",
    "flags": "source_review_outstanding",
    "source_checked": false

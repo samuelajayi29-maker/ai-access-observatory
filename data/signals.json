@@ -1,10 +1,24 @@
 {
- "updated": "2026-10-23",
+ "updated": "2026-10-24",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "Experts urge Africa to link AI training with jobs at BUILD 2026 panel",
+     "u": "https://von.gov.ng/experts-urge-africa-to-link-ai-training-with-jobs/",
+     "s": "Voice of Nigeria",
+     "d": "Oct 24",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "GIZ seeks business partners for Ghana AI training scheme for 120 graduates",
+     "u": "https://ghanaguardian.com/giz-seeks-business-partners-for-ghana-ai-training-scheme-for-120-graduates/",
+     "s": "Ghana Guardian",
+     "d": "Oct 24",
+     "dot": "dot-jobs"
+    },
     {
      "t": "AltSchool Africa gets a new CEO as it shifts from coding skills to university degrees",
      "u": "https://innovation-village.com/altschool-africa-gets-a-new-ceo-as-it-shifts-from-coding-skills-to-university-degrees/",
@@ -1810,6 +1824,27 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "Nvidia prepays suppliers to ease chip testing and optics bottlenecks",
+     "u": "https://dailysynapse.com/news/nvidia-prepays-suppliers-chip-testing-optics-bottlenecks/",
+     "s": "DailySynapse",
+     "d": "Oct 24",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Can African AI platforms compete for users' attention against ChatGPT and Claude?",
+     "u": "https://aireportsafrica.com/2026/10/24/can-african-ai-platforms-compete-for-users-attention-against-chatgpt-and-claude/",
+     "s": "AI Reports Africa",
+     "d": "Oct 24",
+     "dot": "dot-access"
+    },
+    {
+     "t": "House of Reps gives telecom operators seven days to explain poor network services",
+     "u": "https://itpulse.com.ng/house-of-reps-gives-telecom-operators-seven-days-to-explain-poor-network-services/",
+     "s": "ITPulse",
+     "d": "Oct 23",
+     "dot": "dot-access"
+    },
+    {
      "t": "No Light, No Internet",
      "u": "https://technext24.com/news/no-light-no-internet/",
      "s": "Technext24",
@@ -1857,6 +1892,13 @@
      "s": "TECHi",
      "d": "Oct 22",
      "dot": "dot-price"
+    },
+    {
+     "t": "From Tokens to Credits to Outcomes: Pricing AI Across Models, Applications, and Cloud Platforms",
+     "u": "https://arxiv.org/abs/2610.30701",
+     "s": "arXiv cs.SE",
+     "d": "Oct 22",
+     "dot": "dot-arxiv"
     },
     {
      "t": "Building 3,700 rural telecom towers is half the battle; keeping them alive is the real challenge",
@@ -4466,6 +4508,41 @@
      "dot": "dot-infra"
     },
     {
+     "t": "SoleCrypt plans 40MW solar-powered AI campus in Bizerte, Tunisia",
+     "u": "https://iafrica.com/solecrypt-plans-40mw-solar-powered-ai-campus-in-bizerte-tunisia/",
+     "s": "iAfrica",
+     "d": "Oct 23",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Egypt plans up to seven 'mega data centres', targets exports by 2030",
+     "u": "https://iafrica.com/egypt-plans-up-to-seven-mega-data-centres-targets-exports-by-2030/",
+     "s": "iAfrica",
+     "d": "Oct 23",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Uganda launches five-year data strategy as groundwork for national AI plan",
+     "u": "https://iafrica.com/uganda-launches-five-year-data-strategy-as-groundwork-for-national-ai-plan/",
+     "s": "iAfrica",
+     "d": "Oct 23",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Kenya's Konza Technopolis secures funding agreement for data centre and smart city project",
+     "u": "https://techafricanews.com/2026/10/23/kenyas-konza-technopolis-secures-funding-agreement-for-data-centre-and-smart-city-project/",
+     "s": "TechAfrica News",
+     "d": "Oct 23",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Redington Gulf signs AWS deal to expand AI adoption across Middle East and Africa",
+     "u": "https://techtrendske.co.ke/2026/10/23/redington-gulf-and-aws-target-faster-ai-adoption-across-middle-east-and-africa/",
+     "s": "TechTrendsKE",
+     "d": "Oct 23",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Africa must own its digital future or risk exploitation, says Luminate CEO",
      "u": "https://techcabal.com/2026/10/22/african-cloud-infrastructure-exploitation/",
      "s": "TechCabal",
@@ -6750,7 +6827,7 @@
    ]
   }
  },
- "tracker_updated": "2026-10-23",
+ "tracker_updated": "2026-10-24",
  "backfill_updated": "2026-10-22",
  "scope": "Combined signal feed: tracker plus reviewed historical additions. Signals are not verified numerical observations."
 }
