@@ -32,6 +32,10 @@
         if (match) found++;
       });
       group.hidden = !found;
+      const summary = group.querySelector('.signal-group__count');
+      const matching = items.filter(item => !item.node.hidden);
+      const latest = matching.map(item => item.meta.date).filter(Boolean).sort().pop();
+      summary.textContent = found+' '+(found===1?'headline':'headlines')+(latest?' · latest '+latest:'');
       if (words.length || pillar.value || country.value || state.value || after.value || before.value) group.open = true;
       visible += found;
     });

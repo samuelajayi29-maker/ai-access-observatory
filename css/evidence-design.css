@@ -288,3 +288,15 @@ body[data-workspace] .evidence-pagehead{padding-block:1.5rem!important;margin-bo
 .record-studio>.chart-controls{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}.record-options{border-bottom:1px solid var(--rule);padding:.6rem 0;margin:.5rem 0 1rem}.record-options>summary{cursor:pointer;font-family:var(--font-text);font-size:.9rem;min-height:44px;padding:.5rem 0}.record-options .chart-controls{display:grid;grid-template-columns:repeat(3,minmax(0,1fr))}.record-studio .chart-workspace{align-items:start}.record-studio>.chart-controls label{min-width:0}@media(max-width:600px){.record-studio>.chart-controls,.record-options .chart-controls{grid-template-columns:1fr}}
 
 .essay-index-card{padding:2rem;border:1px solid var(--rule);border-radius:6px;max-width:54rem}.essay-index-card h2{font-size:2rem;margin:.7rem 0}.essay-index-card a{color:var(--brand-lens)}
+
+/* Loom review: separate news, headline measures and country exploration. */
+.home-brief{border:1px solid var(--rule);padding:1.6rem;background:var(--paper);min-width:0}
+.home-brief h2{font-size:1.8rem;line-height:1.15;margin:.4rem 0 1.2rem;color:var(--brand-lens)}
+.home-brief ul{list-style:none;padding:0;margin:0}.home-brief li{padding:.85rem 0;border-top:1px solid var(--rule)}
+.home-brief li a{font-size:1.05rem;line-height:1.4}.home-brief .meta{display:block;font-size:.78rem;margin-top:.35rem}
+.home-brief .brief-all{display:inline-block;margin:1rem 0 .6rem;font-weight:600;border-bottom:1px solid currentColor}
+.home-brief small{display:block;color:var(--muted);font-size:.78rem}.homepage-revisions{max-width:1400px;margin:1rem auto 3rem;padding:0 2rem}
+.homepage-revisions>summary{cursor:pointer;font-size:1rem;color:var(--muted)}
+.map__alternatives p{font-size:.8rem;color:var(--muted);margin:.8rem 0 .4rem}
+.map__alternatives button{background:transparent;color:var(--ink);border:1px solid var(--rule);padding:.45rem .7rem;margin:0 .4rem .4rem 0;cursor:pointer}
+.map__alternatives button:hover{border-color:var(--brand-lens)}.map__alternatives button:focus-visible{outline:2px solid var(--brand-lens);outline-offset:3px}

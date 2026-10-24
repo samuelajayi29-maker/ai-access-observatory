@@ -34,7 +34,7 @@
     });
     legend.innerHTML = data.legends[current];
     const meta = data.meta[current];
-    host.querySelector('[data-map-definition]').textContent = meta.indicator + ' · ' + Object.keys(data.layers[current]).length + ' countries with values. Different layers have different coverage.';
+    host.querySelector('[data-map-definition]').textContent = meta.indicator + ' · ' + Object.keys(data.layers[current]).length + ' countries with data';
     tabs.forEach(tab => { const on = tab.dataset.layer === current; tab.classList.toggle('is-on', on); tab.setAttribute('aria-selected', String(on)); tab.tabIndex = on ? 0 : -1; });
   }
   function zoom(box) {
@@ -71,19 +71,23 @@
     shapes.forEach(el => { const on = el.dataset.iso === iso; el.setAttribute('aria-pressed', String(on)); el.tabIndex = on ? 0 : -1; });
     host.querySelectorAll('[data-map-select]').forEach(el => el.setAttribute('aria-pressed', String(el.dataset.mapSelect === iso)));
     picker.value = iso; hover.textContent = names[iso]; focusButton.disabled = false;
-    const rows = ['jobs','access','infra'].map(key => {
+    const rows = [current].map(key => {
       const meta = data.meta[key], row = (data.records[key] || {})[iso], value = data.layers[key][iso];
       const detail = row || meta;
       return '<section class="map__row'+(current===key?' is-current':'')+'"><h4>'+esc(meta.label)+'</h4><p class="map__measure">'+esc(meta.indicator)+'</p><p class="map__value">'+esc(format(key,value))+'</p>'+
-        (value == null ? '<p class="map__none">No value in this map layer’s source sample.</p>' : '<p class="map__prov">'+esc(detail.evidence_status==='derived' ? 'Calculated' : label(detail.evidence_status))+' · '+esc(detail.evidence_status==='derived' && detail.temporal_status==='measured' ? 'Historical inputs' : label(detail.temporal_status))+'</p><details class="map__evidence"><summary>Source and definition</summary><p>'+esc(detail.date ? 'Recorded '+detail.date : 'Observation date not stated')+'</p><p>'+(detail.source_url ? '<a href="'+esc(detail.source_url)+'" target="_blank" rel="noopener">'+esc(detail.source||'Source')+'</a>' : esc(detail.source||'Source not stated'))+'</p><p>'+esc(detail.methodology||meta.methodology||'See the method page for scope and definition.')+'</p></details>')+'</section>';
+        (key === 'access' && value != null ? '<p class="map__none">100% equals one month of national-average income (GNI per person). This is an illustrative usage basket, not a subscription price.</p>' : '') + (key === 'jobs' && value != null ? '<p class="map__none">Modelled task exposure, not predicted job losses.</p>' : '') + (value == null ? '<p class="map__none">This dataset has no value for this country. It does not mean zero.</p>' : '<p class="map__prov">'+esc(detail.evidence_status==='derived' ? 'Calculated' : label(detail.evidence_status))+' · '+esc(detail.evidence_status==='derived' && detail.temporal_status==='measured' ? 'Historical inputs' : label(detail.temporal_status))+'</p><details class="map__evidence"><summary>Source and definition</summary><p>'+esc(detail.date ? 'Recorded '+detail.date : 'Observation date not stated')+'</p><p>'+(detail.source_url ? '<a href="'+esc(detail.source_url)+'" target="_blank" rel="noopener">'+esc(detail.source||'Source')+'</a>' : esc(detail.source||'Source not stated'))+'</p><p>'+esc(detail.methodology||meta.methodology||'See the method page for scope and definition.')+'</p></details>')+'</section>';
     }).join('');
+    const available = ['jobs','access','infra'].filter(key => key !== current && data.layers[key][iso] != null);
+    const alternatives = available.length ? '<div class="map__alternatives"><p>Available measures</p>'+available.map(key => '<button type="button" data-map-alternative="'+key+'">'+esc(data.meta[key].label)+'</button>').join('')+'</div>' : '';
     const profile = data.pages[iso] || 'countries.html#country-'+encodeURIComponent(iso);
-    panel.innerHTML = '<p class="eyebrow">Country snapshot</p><h3 class="map__panel-title">'+esc(names[iso])+'</h3>'+rows+'<div class="map__journey"><a href="'+esc(profile)+'">Country profile →</a><a href="data-explorer.html?view=compare&amp;countries='+iso+'#make-a-chart">Compare this country →</a></div><p class="map__prov">Record compiled '+esc(data.compiled)+'</p>';
+    panel.innerHTML = '<p class="eyebrow">Country snapshot</p><h3 class="map__panel-title">'+esc(names[iso])+'</h3>'+rows+alternatives+'<div class="map__journey"><a href="'+esc(profile)+'">Country profile</a><a href="data-explorer.html?view=compare&amp;countries='+iso+'#make-a-chart">Compare countries</a></div><p class="map__prov">Record compiled '+esc(data.compiled)+'</p>';
     if (user && window.IAExperience) { window.IAExperience.select(iso,names[iso]); window.IAExperience.reveal(panel); }
     if (focused) focusCountry();
     if (user) updateURL();
   }
   host.addEventListener('click', event => {
+    const alternate = event.target.closest('[data-map-alternative]');
+    if (alternate) { current = alternate.dataset.mapAlternative; paint(); show(selected,true); return; }
     const tab = event.target.closest('.map__tab');
     if (tab) { current = tab.dataset.layer; paint(); if (selected) show(selected,true); return; }
     const target = event.target.closest('[data-iso],[data-map-select]');
