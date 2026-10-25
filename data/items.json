@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24",
+ "updated": "2026-10-25",
  "schema": 1,
  "buckets": {
   "jobs": {
@@ -58,6 +58,13 @@
      "t": "Making generative AI workable at work: accountability, localization and representation in Kenyan and Nigerian small businesses",
      "u": "https://arxiv.org/abs/2610.31344",
      "s": "arXiv cs.HC",
+     "d": "Oct 22",
+     "dot": "dot-arxiv"
+    },
+    {
+     "t": "The Delegation Divide: An Open Index of AI-Agent Delegability across Occupations and Countries",
+     "u": "https://arxiv.org/abs/2610.30752",
+     "s": "arXiv econ.GN",
      "d": "Oct 22",
      "dot": "dot-arxiv"
     },
@@ -1432,6 +1439,13 @@
      "dot": "dot-arxiv"
     },
     {
+     "t": "Joules-to-GDP: How Much Economic Value Do AI Systems Produce per Unit of Energy?",
+     "u": "https://arxiv.org/abs/2610.30858",
+     "s": "arXiv econ.GN",
+     "d": "Oct 22",
+     "dot": "dot-arxiv"
+    },
+    {
      "t": "Building 3,700 rural telecom towers is half the battle; keeping them alive is the real challenge",
      "u": "https://technext24.com/reviews/3700-rural-telecom-towers-real-challenge/",
      "s": "Technext24",
@@ -1507,6 +1521,13 @@
      "s": "BusinessKorea",
      "d": "Oct 19",
      "dot": "dot-price"
+    },
+    {
+     "t": "Africa's connectivity conundrum: more networks, less users",
+     "u": "https://africa.hyperscalers.news/analysis/africas-connectivity-conundrum-more-networks-less-users/",
+     "s": "Africa Hyperscalers",
+     "d": "Oct 19",
+     "dot": "dot-access"
     },
     {
      "t": "TECNO and Safaricom cut POVA Curve 2 5G price by Sh11,000",
@@ -3173,6 +3194,13 @@
      "dot": "dot-infra"
     },
     {
+     "t": "How heavy AI rules risk killing Africa's homegrown startups",
+     "u": "https://techafricanews.com/2026/10/23/how-heavy-ai-rules-risk-killing-africas-homegrown-startups/",
+     "s": "TechAfrica News",
+     "d": "Oct 23",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Africa must own its digital future or risk exploitation, says Luminate CEO",
      "u": "https://techcabal.com/2026/10/22/african-cloud-infrastructure-exploitation/",
      "s": "TechCabal",
@@ -3204,6 +3232,13 @@
      "t": "Big Tech's thirst for water is sparking a global resistance",
      "u": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/",
      "s": "Rest of World",
+     "d": "Oct 22",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Vodacom and Bowmans call for African-shaped, phased approach to AI regulation",
+     "u": "https://iafrica.com/vodacom-and-bowmans-call-for-african-shaped-phased-approach-to-ai-regulation/",
+     "s": "iAfrica",
      "d": "Oct 22",
      "dot": "dot-infra"
     },
@@ -3243,6 +3278,13 @@
      "dot": "dot-infra"
     },
     {
+     "t": "Ramaphosa plans Silicon Valley AI delegation after local elections",
+     "u": "https://iafrica.com/ramaphosa-plans-silicon-valley-ai-delegation-after-local-elections/",
+     "s": "iAfrica",
+     "d": "Oct 20",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Libya's O3 Group unveils national fibre and Tier III data centre plans after Medusa cable landing",
      "u": "https://techafricanews.com/2026/10/19/libya-o3-group-digital-infrastructure-medusa-cable-landing/",
      "s": "TechAfrica News",
@@ -3267,6 +3309,13 @@
      "t": "Datacenters 2027: the year of acceleration, +50GW in a single year",
      "u": "https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration",
      "s": "SemiAnalysis",
+     "d": "Oct 19",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "NITDA and CBN to convene financial sector dialogue on data localisation",
+     "u": "https://africa.hyperscalers.news/news/nitda-cbn-to-convene-financial-sector-dialogue-on-data-localisation/",
+     "s": "Africa Hyperscalers",
      "d": "Oct 19",
      "dot": "dot-infra"
     },
