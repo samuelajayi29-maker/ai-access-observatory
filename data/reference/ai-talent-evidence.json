@@ -1,0 +1,57 @@
+{
+  "checked": "2026-10-26",
+  "observations": [
+    {
+      "id": "indaba-reach",
+      "display": "47",
+      "unit": "countries",
+      "measure": "Countries with active IndabaX communities",
+      "period": "2025",
+      "value": 47,
+      "denominator": null,
+      "source": "indaba2025",
+      "locator": "PDF page 29 (zero-based 28), Foundations / delivery comparison",
+      "scope": "Programme-reported community footprint; not AI workforce coverage or talent stock.",
+      "kind": "programme activity"
+    },
+    {
+      "id": "cmu-location",
+      "display": "85%",
+      "unit": "graduates",
+      "measure": "CMU-Africa graduates reported working on the continent",
+      "period": null,
+      "value": 85,
+      "denominator": "CMU-Africa graduates; cohort and survey date not stated on overview",
+      "source": "cmu",
+      "locator": "CMU-Africa by the numbers",
+      "scope": "Institution-reported; multiple engineering and IT degrees, not an AI-only cohort or a continental retention rate.",
+      "kind": "institutional alumni outcome"
+    },
+    {
+      "id": "nigeria-mobility",
+      "display": "3–4×",
+      "unit": "outflows / inflows",
+      "measure": "Nigeria: LinkedIn high-skilled digital-talent mobility ratio",
+      "period": "2022",
+      "lower": 3,
+      "upper": 4,
+      "source": "worldbank-mobility",
+      "locator": "Figure 1 and accompanying text",
+      "scope": "A reported band, not an exact point. LinkedIn digital professionals, not all workers or an AI-only cohort.",
+      "kind": "platform-observed mobility"
+    },
+    {
+      "id": "caribou-interviews",
+      "display": "332",
+      "unit": "youth interviews",
+      "measure": "Qualitative AI-skills study interviews across seven countries",
+      "period": "July 2026 report",
+      "value": 332,
+      "denominator": "Purposive sample in Ethiopia, Ghana, Kenya, Nigeria, Rwanda, Senegal and Uganda",
+      "source": "caribou",
+      "locator": "Methods / Youth interviews",
+      "scope": "A qualitative study of 15–35-year-olds across five sectors; not a representative talent census.",
+      "kind": "qualitative research sample"
+    }
+  ]
+}

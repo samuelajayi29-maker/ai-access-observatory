@@ -1,0 +1,879 @@
+{
+  "title": "Where is African AI talent?",
+  "checked": "2026-10-26",
+  "status": "Analytical essay draft · purposive person and institution sample",
+  "method": "Purposive public-source sample. Inclusion: documented African origin, African training, African work affiliation or an African-founded organisation. Connection types differ and do not define nationality. Work countries require individual-level evidence, not headquarters. Records reviewed 26 October 2026; undated biographies may lag reality. No reasons for relocation inferred. Expanded on 26 October with university profiles, updated governance notices and 2026 award profiles. Population/cohort figures in the essay are kept in a separate evidence ledger and never calculated from the biography sample.",
+  "sources": {
+    "shakir": {
+      "title": "Shakir Mohamed — personal biography",
+      "url": "https://shakirm.com/",
+      "checked": "2026-10-26"
+    },
+    "vukosi": {
+      "title": "University of Pretoria — Vukosi Marivate",
+      "url": "https://www.up.ac.za/computer-science/node/54365",
+      "checked": "2026-10-26"
+    },
+    "ciira": {
+      "title": "DeKUT — Ciira Maina",
+      "url": "https://eee.dkut.ac.ke/prof-ciira-maina/",
+      "checked": "2026-10-26"
+    },
+    "ernest": {
+      "title": "Ernest Mwebaze — personal biography",
+      "url": "https://emwebaze.github.io/",
+      "checked": "2026-10-26"
+    },
+    "sunbird": {
+      "title": "Sunbird AI — team",
+      "url": "https://sunbird.ai/about/",
+      "checked": "2026-10-26"
+    },
+    "david": {
+      "title": "David Adelani — personal biography and CV",
+      "url": "https://dadelani.github.io/",
+      "checked": "2026-10-26"
+    },
+    "davidcv": {
+      "title": "David Adelani — CV",
+      "url": "https://dadelani.github.io/files/DavidAdelaniCV.pdf",
+      "checked": "2026-10-26"
+    },
+    "marwala": {
+      "title": "United Nations University — Tshilidzi Marwala",
+      "url": "https://unu.edu/about/staff/tshilidzi-marwala",
+      "checked": "2026-10-26"
+    },
+    "rosman": {
+      "title": "Benjamin Rosman — personal biography",
+      "url": "https://www.benjaminrosman.com/about.html",
+      "checked": "2026-10-26"
+    },
+    "insta": {
+      "title": "InstaDeep — company history and leadership",
+      "url": "https://instadeep.com/about-us/",
+      "checked": "2026-10-26"
+    },
+    "instabio": {
+      "title": "InstaDeep — founder biographies",
+      "url": "https://www.instadeep.com/about-/",
+      "checked": "2026-10-26"
+    },
+    "lelapa": {
+      "title": "Lelapa AI — team",
+      "url": "https://lelapa.ai/team",
+      "checked": "2026-10-26"
+    },
+    "wits": {
+      "title": "Wits Review — October 2023, alumni feature",
+      "url": "https://www.wits.ac.za/media/wits-university/alumni/documents/wits-review/Wits_Review_October_2023_WEB_NEW.pdf",
+      "checked": "2026-10-26"
+    },
+    "gebru": {
+      "title": "Carnegie — Timnit Gebru, 2023 profile",
+      "url": "https://carnegie.org/great-immigrants/timnit-gebru/",
+      "checked": "2026-10-26"
+    },
+    "dair": {
+      "title": "Right Livelihood — Timnit Gebru, 2026 award profile",
+      "url": "https://rightlivelihood.org/the-change-makers/find-a-laureate/timnit-gebru/",
+      "checked": "2026-10-26"
+    },
+    "aims": {
+      "title": "Google DeepMind — education programmes",
+      "url": "https://deepmind.google/education/",
+      "checked": "2026-10-26"
+    },
+    "scholarships": {
+      "title": "IIE — participating scholarship universities",
+      "url": "https://www.iie.org/programs/google-deepmind-ai-masters-scholarships/eligibility-and-application-process/",
+      "checked": "2026-10-26"
+    },
+    "stellenbosch": {
+      "title": "Stellenbosch — ML and AI scholarships",
+      "url": "https://mlai.sun.ac.za/dms/",
+      "checked": "2026-10-26"
+    },
+    "kera": {
+      "title": "IFC — Kera investment disclosure",
+      "url": "https://disclosures.ifc.org/project-detail/SII/51405/kera-health-platform-seed",
+      "checked": "2026-10-26"
+    },
+    "marwala-tokyo": {
+      "title": "United Nations — Tshilidzi Marwala, Tokyo appointment profile",
+      "url": "https://www.un.org/ohrlls/sites/www.un.org.ohrlls/files/tshilidzi_marwala.pdf",
+      "checked": "2026-10-26"
+    },
+    "indaba2025": {
+      "title": "Deep Learning Indaba — 2025 impact report",
+      "url": "https://deeplearningindaba.com/wp-content/uploads/2026/05/DLI-Impact-Report-2025_compressed.pdf",
+      "checked": "2026-10-26"
+    },
+    "indaba-awards": {
+      "title": "Deep Learning Indaba — 2026 award profiles appended to impact article",
+      "url": "https://deeplearningindaba.com/blog/2026/05/deep-learning-indaba-impact-report-2025/",
+      "checked": "2026-10-26"
+    },
+    "cmu": {
+      "title": "CMU-Africa — institutional overview",
+      "url": "https://africa.engineering.cmu.edu/about/index.html",
+      "checked": "2026-10-26"
+    },
+    "caribou": {
+      "title": "Caribou — Strengthening Young Africa’s AI Skills, July 2026",
+      "url": "https://caribou.global/publications/strengthening-young-africas-ai-skills/",
+      "checked": "2026-10-26"
+    },
+    "worldbank-mobility": {
+      "title": "World Bank / Development Data Partnership — 2022 digital-talent mobility analysis, published 2026",
+      "url": "https://datapartnership.org/updates/cross-border-mobility-of-high-skilled-digital-talent-in-the-age-of-ai/",
+      "checked": "2026-10-26"
+    },
+    "unilag": {
+      "title": "University of Lagos — Chika Yinka-Banjo qualifications",
+      "url": "https://science.unilag.edu.ng/?page_id=4132",
+      "checked": "2026-10-26"
+    },
+    "unilag-lab": {
+      "title": "University of Lagos AIRLAB — director profile",
+      "url": "https://airol.unilag.edu.ng/team/director",
+      "checked": "2026-10-26"
+    },
+    "um6p-governance": {
+      "title": "UM6P — AI Movement governance update",
+      "url": "https://sd.um6p.ma/news/AI-Mouvement-%3A-Une-nouvelle-gouvernance-pour-une/?id=6847f5d7e44be124d7d6a1d8",
+      "checked": "2026-10-26"
+    },
+    "um6p-context": {
+      "title": "UM6P — Moroccan AI centre institutional biography",
+      "url": "https://aim.um6p.ma/en/biography/",
+      "checked": "2026-10-26"
+    },
+    "ddata": {
+      "title": "Dev Data Analytics — team and operations",
+      "url": "https://www.ddata.co/",
+      "checked": "2026-10-26"
+    },
+    "idrc": {
+      "title": "IDRC — mapping AI policy and capacity research programme",
+      "url": "https://idrc-crdi.ca/en/what-we-do/projects-we-support/project/mapping-policy-and-capacity-artificial-intelligence",
+      "checked": "2026-10-26"
+    }
+  },
+  "people": [
+    {
+      "id": "shakir",
+      "name": "Shakir Mohamed",
+      "roles": [
+        "Researcher",
+        "Engineer"
+      ],
+      "field": "Foundations & society",
+      "connection": "ZAF",
+      "work": "Google DeepMind",
+      "work_country": "GBR",
+      "training": [
+        {
+          "name": "University of the Witwatersrand",
+          "country": "ZAF",
+          "qualification": "BSc",
+          "year": 2005
+        },
+        {
+          "name": "University of the Witwatersrand",
+          "country": "ZAF",
+          "qualification": "MSc",
+          "year": 2007
+        },
+        {
+          "name": "University of Cambridge",
+          "country": "GBR",
+          "qualification": "PhD",
+          "year": 2011
+        }
+      ],
+      "sources": [
+        "shakir"
+      ],
+      "note": "Biography states South African origin and a London research role. Stages describe education and affiliations, not every physical move.",
+      "history": [
+        {
+          "name": "University of British Columbia",
+          "country": "CAN",
+          "year": "2011–2013",
+          "kind": "Research fellowship"
+        }
+      ],
+      "checked": "2026-10-26",
+      "connection_kind": "Explicitly stated origin"
+    },
+    {
+      "id": "vukosi",
+      "name": "Vukosi Marivate",
+      "roles": [
+        "Researcher",
+        "Founder"
+      ],
+      "field": "Language AI",
+      "connection": null,
+      "work": "University of Pretoria",
+      "work_country": "ZAF",
+      "training": [
+        {
+          "name": "University of the Witwatersrand",
+          "country": "ZAF",
+          "qualification": "BSc",
+          "year": 2007
+        },
+        {
+          "name": "University of the Witwatersrand",
+          "country": "ZAF",
+          "qualification": "MSc",
+          "year": 2009
+        },
+        {
+          "name": "Rutgers University",
+          "country": "USA",
+          "qualification": "PhD",
+          "year": 2015
+        }
+      ],
+      "sources": [
+        "vukosi"
+      ],
+      "note": "University profile lists a Pretoria chair and a Lelapa AI co-founder role. One main affiliation is used for counting; nationality is not inferred.",
+      "history": [],
+      "checked": "2026-10-26",
+      "connection_kind": null
+    },
+    {
+      "id": "ciira",
+      "name": "Ciira wa Maina",
+      "roles": [
+        "Researcher"
+      ],
+      "field": "Environment & applied AI",
+      "connection": "KEN",
+      "work": "Dedan Kimathi University of Technology",
+      "work_country": "KEN",
+      "training": [
+        {
+          "name": "University of Nairobi",
+          "country": "KEN",
+          "qualification": "BSc",
+          "year": 2007
+        },
+        {
+          "name": "Drexel University",
+          "country": "USA",
+          "qualification": "PhD",
+          "year": 2011
+        }
+      ],
+      "sources": [
+        "ciira"
+      ],
+      "note": "Kenya connection here is documented education, not an inferred birthplace. The institutional biography lists an academic appointment and environmental machine-learning work.",
+      "history": [
+        {
+          "name": "University of Sheffield",
+          "country": "GBR",
+          "year": "2011–2013",
+          "kind": "Postdoctoral research"
+        }
+      ],
+      "checked": "2026-10-26",
+      "connection_kind": "Education"
+    },
+    {
+      "id": "ernest",
+      "name": "Ernest Mwebaze",
+      "roles": [
+        "Researcher"
+      ],
+      "field": "Environment & applied AI",
+      "connection": "UGA",
+      "work": "Sunbird AI",
+      "work_country": "UGA",
+      "training": [
+        {
+          "name": "Makerere University",
+          "country": "UGA",
+          "qualification": "BSc · MSc",
+          "year": null
+        },
+        {
+          "name": "University of Groningen",
+          "country": "NLD",
+          "qualification": "PhD",
+          "year": null
+        }
+      ],
+      "sources": [
+        "ernest",
+        "sunbird"
+      ],
+      "note": "Uganda connection is documented education and work, not a nationality claim. His biography identifies Kampala; the team page confirms the executive role.",
+      "history": [
+        {
+          "name": "Google AI, Accra",
+          "country": "GHA",
+          "year": null,
+          "kind": "Former research affiliation"
+        }
+      ],
+      "checked": "2026-10-26",
+      "connection_kind": "Education and work"
+    },
+    {
+      "id": "david",
+      "name": "David Adelani",
+      "roles": [
+        "Researcher"
+      ],
+      "field": "Language AI",
+      "connection": "NGA",
+      "work": "McGill University / Mila",
+      "work_country": "CAN",
+      "training": [
+        {
+          "name": "Federal University of Agriculture, Abeokuta",
+          "country": "NGA",
+          "qualification": "BSc",
+          "year": 2010
+        },
+        {
+          "name": "African University of Science and Technology",
+          "country": "NGA",
+          "qualification": "MSc",
+          "year": 2014
+        },
+        {
+          "name": "Saarland University",
+          "country": "DEU",
+          "qualification": "PhD",
+          "year": 2023
+        }
+      ],
+      "sources": [
+        "david",
+        "davidcv"
+      ],
+      "note": "CV documents Nigerian birthplace and education; current personal site identifies Montréal. His African-language research demonstrates why affiliation abroad is not the same as absence of African contribution.",
+      "history": [
+        {
+          "name": "University College London",
+          "country": "GBR",
+          "year": "From 2022",
+          "kind": "Research fellowship; may overlap other roles"
+        }
+      ],
+      "checked": "2026-10-26",
+      "connection_kind": "Documented birthplace and education"
+    },
+    {
+      "id": "marwala",
+      "name": "Tshilidzi Marwala",
+      "roles": [
+        "Researcher"
+      ],
+      "field": "Foundations & society",
+      "connection": "ZAF",
+      "work": "United Nations University",
+      "work_country": "JPN",
+      "training": [
+        {
+          "name": "Case Western Reserve University",
+          "country": "USA",
+          "qualification": "BSc",
+          "year": null
+        },
+        {
+          "name": "University of Pretoria",
+          "country": "ZAF",
+          "qualification": "MSc",
+          "year": null
+        },
+        {
+          "name": "University of Cambridge",
+          "country": "GBR",
+          "qualification": "PhD",
+          "year": null
+        }
+      ],
+      "sources": [
+        "marwala",
+        "marwala-tokyo"
+      ],
+      "note": "UNU lists South African nationality, qualifications and a rector appointment beginning March 2023. The mapped country is the institution’s country, not a claim about residence.",
+      "history": [],
+      "checked": "2026-10-26",
+      "connection_kind": "Explicitly stated nationality"
+    },
+    {
+      "id": "rosman",
+      "name": "Benjamin Rosman",
+      "roles": [
+        "Researcher",
+        "Founder"
+      ],
+      "field": "Robotics & learning",
+      "connection": null,
+      "work": "University of the Witwatersrand",
+      "work_country": "ZAF",
+      "training": [
+        {
+          "name": "University of the Witwatersrand",
+          "country": "ZAF",
+          "qualification": "Undergraduate study",
+          "year": null
+        },
+        {
+          "name": "University of Edinburgh",
+          "country": "GBR",
+          "qualification": "MSc · PhD",
+          "year": null
+        }
+      ],
+      "sources": [
+        "rosman"
+      ],
+      "note": "Personal biography documents Wits and Edinburgh training, a Wits professorship and MIND leadership. Origin is unrecorded in this pilot.",
+      "history": [],
+      "checked": "2026-10-26",
+      "connection_kind": null
+    },
+    {
+      "id": "karim",
+      "name": "Karim Beguir",
+      "roles": [
+        "Founder"
+      ],
+      "field": "Decision-making AI",
+      "connection": "TUN",
+      "work": "InstaDeep",
+      "work_country": null,
+      "training": [
+        {
+          "name": "École Polytechnique",
+          "country": "FRA",
+          "qualification": "Graduate",
+          "year": null
+        }
+      ],
+      "sources": [
+        "instabio",
+        "insta"
+      ],
+      "note": "InstaDeep documents its Tunis founding, a multi-country office network and the co-founder’s education. Tunis is an organisational connection, not a birthplace claim. No individual work country is assigned.",
+      "history": [],
+      "checked": "2026-10-26",
+      "connection_kind": "Organisation founded in Tunis"
+    },
+    {
+      "id": "zohra",
+      "name": "Zohra Slim",
+      "roles": [
+        "Founder",
+        "Engineer"
+      ],
+      "field": "Decision-making AI",
+      "connection": "TUN",
+      "work": "InstaDeep",
+      "work_country": null,
+      "training": [],
+      "sources": [
+        "instabio",
+        "insta"
+      ],
+      "note": "Company biography describes self-directed software learning. No formal institution or individual work country is assigned. Tunis is an organisational founding connection, not nationality.",
+      "history": [],
+      "checked": "2026-10-26",
+      "connection_kind": "Organisation founded in Tunis"
+    },
+    {
+      "id": "pelonomi",
+      "name": "Pelonomi Moiloa",
+      "roles": [
+        "Founder"
+      ],
+      "field": "Language AI",
+      "connection": "ZAF",
+      "work": "Lelapa AI",
+      "work_country": null,
+      "training": [
+        {
+          "name": "University of the Witwatersrand",
+          "country": "ZAF",
+          "qualification": "Biomedical / electrical engineering",
+          "year": 2015
+        },
+        {
+          "name": "Tohoku University",
+          "country": "JPN",
+          "qualification": "Master’s",
+          "year": 2016
+        }
+      ],
+      "sources": [
+        "lelapa",
+        "wits"
+      ],
+      "note": "Wits documents education in South Africa and Japan; Lelapa lists the CEO role. The undated team page alone does not locate this individual’s work, so work country stays unknown.",
+      "history": [],
+      "checked": "2026-10-26",
+      "connection_kind": "Education"
+    },
+    {
+      "id": "jade",
+      "name": "Jade Abbott",
+      "roles": [
+        "Engineer"
+      ],
+      "field": "Language AI",
+      "connection": null,
+      "work": "Lelapa AI",
+      "work_country": null,
+      "training": [],
+      "sources": [
+        "lelapa"
+      ],
+      "note": "Lelapa lists the CTO role. This pilot has not established individual work country, origin or training from the reviewed source. Those fields remain blank rather than inheriting the company location.",
+      "history": [],
+      "checked": "2026-10-26",
+      "connection_kind": null
+    },
+    {
+      "id": "timnit",
+      "name": "Timnit Gebru",
+      "roles": [
+        "Researcher",
+        "Founder"
+      ],
+      "field": "Foundations & society",
+      "connection": "ETH",
+      "work": "Distributed AI Research Institute",
+      "work_country": null,
+      "training": [
+        {
+          "name": "Stanford University",
+          "country": "USA",
+          "qualification": "PhD",
+          "year": null
+        }
+      ],
+      "sources": [
+        "gebru",
+        "dair"
+      ],
+      "note": "The 2023 Carnegie profile documents Ethiopian birthplace and Stanford training. A 2026 award profile identifies the DAIR founder role. US headquarters are not used as a proxy for the founder’s current physical workplace.",
+      "history": [],
+      "checked": "2026-10-26",
+      "connection_kind": "Documented birthplace"
+    },
+    {
+      "id": "chika",
+      "name": "Chika Yinka-Banjo",
+      "roles": [
+        "Researcher"
+      ],
+      "field": "Robotics & learning",
+      "connection": "NGA",
+      "connection_kind": "Education and institutional work",
+      "work": "University of Lagos · AIRLAB",
+      "work_country": "NGA",
+      "training": [
+        {
+          "name": "Federal University of Technology Owerri",
+          "country": "NGA",
+          "qualification": "BTech",
+          "year": 2000
+        },
+        {
+          "name": "University of Port Harcourt",
+          "country": "NGA",
+          "qualification": "MSc",
+          "year": 2006
+        },
+        {
+          "name": "AIMS / Stellenbosch",
+          "country": "ZAF",
+          "qualification": "Postgraduate diploma",
+          "year": 2010
+        },
+        {
+          "name": "University of Cape Town",
+          "country": "ZAF",
+          "qualification": "PhD",
+          "year": 2015
+        }
+      ],
+      "sources": [
+        "unilag",
+        "unilag-lab"
+      ],
+      "note": "Lagos sources document education in Nigeria and South Africa, then AIRLAB leadership. Page titles differ on rank; the role label avoids asserting a promotion date.",
+      "history": [],
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "btissam",
+      "name": "Btissam El Khamlichi",
+      "roles": [
+        "Researcher"
+      ],
+      "field": "Environment & applied AI",
+      "connection": "MAR",
+      "connection_kind": "Institutional work",
+      "work": "AI Movement · UM6P",
+      "work_country": "MAR",
+      "training": [],
+      "sources": [
+        "um6p-governance",
+        "um6p-context"
+      ],
+      "note": "UM6P’s governance notice names the AI professor as General Director. The new notice supersedes older executive-leadership biographies; no education trail is assigned.",
+      "history": [],
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "dina",
+      "name": "Dina Machuve",
+      "roles": [
+        "Founder",
+        "Engineer"
+      ],
+      "field": "Environment & applied AI",
+      "connection": "TZA",
+      "connection_kind": "Organisation operating in Tanzania",
+      "work": "Dev Data Analytics",
+      "work_country": null,
+      "training": [],
+      "sources": [
+        "ddata"
+      ],
+      "note": "Company team lists co-founder and CTO. Its Tanzania address establishes an organisational link, not this individual’s workplace country.",
+      "history": [],
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "moustapha",
+      "name": "Moustapha Cissé",
+      "roles": [
+        "Founder",
+        "Researcher"
+      ],
+      "field": "Environment & applied AI",
+      "connection": "SEN",
+      "connection_kind": "Documented company leadership",
+      "work": "Kera Health Platforms",
+      "work_country": "SEN",
+      "training": [],
+      "sources": [
+        "kera"
+      ],
+      "note": "IFC’s 2025 Senegal investment disclosure identifies a founder/CEO and Dakar professional contact. No nationality or education history is inferred.",
+      "history": [],
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "omneya",
+      "name": "Omneya Attallah",
+      "roles": [
+        "Researcher"
+      ],
+      "field": "Health AI",
+      "connection": "EGY",
+      "connection_kind": "Award-reported country",
+      "work": "AASTMT",
+      "work_country": "EGY",
+      "training": [],
+      "sources": [
+        "indaba-awards"
+      ],
+      "note": "Indaba’s 2026 award profile identifies an Egyptian biomedical-AI research affiliation; training history remains unrecorded.",
+      "history": [],
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "hellina",
+      "name": "Hellina Hailu Nigatu",
+      "roles": [
+        "Researcher"
+      ],
+      "field": "Language AI",
+      "connection": "ETH",
+      "connection_kind": "Award-reported country",
+      "work": "Trinity College Dublin · AIAL",
+      "work_country": "IRL",
+      "training": [],
+      "sources": [
+        "indaba-awards"
+      ],
+      "note": "Award profile links an Ethiopia-labelled researcher to a Dublin lab and Ethiopian-language evaluation work.",
+      "history": [],
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "abdel",
+      "name": "Abdel-aziz Harane Abounounou",
+      "roles": [
+        "Engineer",
+        "Founder"
+      ],
+      "field": "Language AI",
+      "connection": "TCD",
+      "connection_kind": "Award-reported country",
+      "work": "Chad AI Network",
+      "work_country": "TCD",
+      "training": [],
+      "sources": [
+        "indaba-awards"
+      ],
+      "note": "Award profile identifies Chad AI Network and indigenous-language tools. No institutional training or founding date is assigned.",
+      "history": [],
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "imen",
+      "name": "Imen Habibi",
+      "roles": [
+        "Researcher"
+      ],
+      "field": "Robotics & learning",
+      "connection": "TUN",
+      "connection_kind": "Award-reported country",
+      "work": "LARIA · ENSI · University of Manouba",
+      "work_country": "TUN",
+      "training": [],
+      "sources": [
+        "indaba-awards"
+      ],
+      "note": "Award lists Tunisian affiliation and a drone/imaging thesis; degree institution and completion date are unrecorded.",
+      "history": [],
+      "checked": "2026-10-26"
+    }
+  ],
+  "institutions": [
+    {
+      "id": "pretoria",
+      "name": "University of Pretoria",
+      "country": "ZAF",
+      "kind": "Research",
+      "description": "Data science and low-resource language research.",
+      "source": "vukosi"
+    },
+    {
+      "id": "dekut",
+      "name": "DeKUT · DSAIL",
+      "country": "KEN",
+      "kind": "Research",
+      "description": "Machine learning and environmental applications.",
+      "source": "ciira"
+    },
+    {
+      "id": "sunbird",
+      "name": "Sunbird AI",
+      "country": "UGA",
+      "kind": "Applied AI",
+      "description": "Open AI systems for locally defined needs.",
+      "source": "sunbird"
+    },
+    {
+      "id": "wits",
+      "name": "Wits · MIND / RAIL",
+      "country": "ZAF",
+      "kind": "Research",
+      "description": "Intelligence, reinforcement learning and robotics.",
+      "source": "rosman"
+    },
+    {
+      "id": "makerere",
+      "name": "Makerere University",
+      "country": "UGA",
+      "kind": "Training",
+      "description": "Listed partner in the DeepMind master’s scholarship programme; not a student count.",
+      "source": "scholarships"
+    },
+    {
+      "id": "stellenbosch",
+      "name": "Stellenbosch University",
+      "country": "ZAF",
+      "kind": "Training",
+      "description": "Structured master’s in machine learning and AI with advertised scholarships.",
+      "source": "stellenbosch"
+    },
+    {
+      "id": "instadeep",
+      "name": "InstaDeep · Tunis",
+      "country": "TUN",
+      "kind": "Applied AI",
+      "description": "One office in a multi-country organisation; not its total headcount.",
+      "source": "insta"
+    },
+    {
+      "id": "instadeep-kigali",
+      "name": "InstaDeep · Kigali",
+      "country": "RWA",
+      "kind": "Applied AI",
+      "description": "Office opening recorded in October 2023; no staffing figure assigned.",
+      "source": "insta"
+    },
+    {
+      "id": "kera",
+      "name": "Kera Health Platforms",
+      "country": "SEN",
+      "kind": "Applied AI",
+      "description": "Senegalese AI-health company documented by IFC in 2025.",
+      "source": "kera"
+    },
+    {
+      "id": "cmu-africa",
+      "name": "Carnegie Mellon University Africa",
+      "country": "RWA",
+      "kind": "Training",
+      "description": "Engineering, IT and AI master’s programmes; reported alumni outcomes cover multiple degrees.",
+      "source": "cmu"
+    },
+    {
+      "id": "airlab-lagos",
+      "name": "University of Lagos · AIRLAB",
+      "country": "NGA",
+      "kind": "Research",
+      "description": "AI and robotics laboratory with documented academic leadership.",
+      "source": "unilag-lab"
+    },
+    {
+      "id": "ai-movement",
+      "name": "AI Movement · UM6P",
+      "country": "MAR",
+      "kind": "Research",
+      "description": "Research and training centre with updated governance.",
+      "source": "um6p-governance"
+    },
+    {
+      "id": "ddata",
+      "name": "Dev Data Analytics",
+      "country": "TZA",
+      "kind": "Applied AI",
+      "description": "Tanzania-based company team; individuals are not placed at the company address.",
+      "source": "ddata"
+    },
+    {
+      "id": "chad-network",
+      "name": "Chad AI Network",
+      "country": "TCD",
+      "kind": "Applied AI",
+      "description": "Language technology and a local AI community documented in an award profile.",
+      "source": "indaba-awards"
+    },
+    {
+      "id": "aastmt",
+      "name": "AASTMT · biomedical AI",
+      "country": "EGY",
+      "kind": "Research",
+      "description": "Biomedical AI research documented in the 2026 Indaba award profile.",
+      "source": "indaba-awards"
+    }
+  ]
+}

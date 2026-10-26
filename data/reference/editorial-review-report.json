@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-25",
- "count": 816,
+ "generated_at": "2026-10-26",
+ "count": 826,
  "source_checked": 78,
  "flag_counts": {
-  "source_review_outstanding": 738,
-  "african_relevance_not_recorded": 318,
+  "source_review_outstanding": 748,
+  "african_relevance_not_recorded": 322,
   "topic_needs_review": 56
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
@@ -30,6 +30,26 @@
    "source_checked": false
   },
   {
+   "headline": "Nigerian businesses face skills shake-up as AI, digital technology reshape workplaces",
+   "url": "https://businessday.ng/technology/article/nigerian-businesses-face-skills-shake-up-as-ai-digital-technology-reshape-workplaces/",
+   "pillar": "jobs",
+   "current_topic": "Skills and talent",
+   "suggested_topic": "Skills and talent",
+   "country": "NGA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Expert-Speak: Why some jobs are 'bot-bumped' and others 'bot-proof'",
+   "url": "https://www.forbesafrica.com/opinion/op-ed/2026/10/24/expert-speak-why-some-jobs-are-bot-bumped-and-others-bot-proof",
+   "pillar": "jobs",
+   "current_topic": "Employment and outsourcing",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "AltSchool Africa gets a new CEO as it shifts from coding skills to university degrees",
    "url": "https://innovation-village.com/altschool-africa-gets-a-new-ceo-as-it-shifts-from-coding-skills-to-university-degrees/",
    "pillar": "jobs",
@@ -37,6 +57,16 @@
    "suggested_topic": "Skills and talent",
    "country": "",
    "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Barclays calls AI 'icing on the cake' as it culls jobs",
+   "url": "https://www.itweb.co.za/article/barclays-calls-ai-icing-on-the-cake-as-it-culls-jobs/Kjlyr7wBQm6vk6am",
+   "pillar": "jobs",
+   "current_topic": "Employment and outsourcing",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
    "source_checked": false
   },
   {
@@ -2100,6 +2130,26 @@
    "source_checked": true
   },
   {
+   "headline": "Kimi K3.1 Pro: Moonshot's new AI model at a competitive price",
+   "url": "https://basic-tutorials.com/news/kimi-k3-1-pro-moonshots-new-ai-model-at-a-competitive-price/",
+   "pillar": "access",
+   "current_topic": "Pricing and affordability",
+   "suggested_topic": "Pricing and affordability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "AI's 'opportunity divide' could deepen global inequality, UN official warns",
+   "url": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns",
+   "pillar": "access",
+   "current_topic": "Access and affordability",
+   "suggested_topic": "Access and affordability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "Nvidia prepays suppliers to ease chip testing and optics bottlenecks",
    "url": "https://dailysynapse.com/news/nvidia-prepays-suppliers-chip-testing-optics-bottlenecks/",
    "pillar": "access",
@@ -2217,6 +2267,16 @@
    "suggested_topic": "Energy and power",
    "country": "",
    "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Why 'Made in Africa' smartphones keep losing to assembly",
+   "url": "https://techafricanews.com/2026/10/22/why-made-in-africa-smartphones-keep-losing-to-assembly/",
+   "pillar": "access",
+   "current_topic": "Devices and hardware",
+   "suggested_topic": "Devices and hardware",
+   "country": "",
+   "flags": "source_review_outstanding",
    "source_checked": false
   },
   {
@@ -4990,6 +5050,26 @@
    "source_checked": true
   },
   {
+   "headline": "Ghana's National AI Data Centre faces power supply and skills challenges",
+   "url": "https://techreviewafrica.com/news/7928/ghanas-national-ai-data-centre-faces-power-supply-and-skills-challenges",
+   "pillar": "infra",
+   "current_topic": "Skills and talent",
+   "suggested_topic": "Skills and talent",
+   "country": "GHA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "South Africa must capture more value from the data centre boom",
+   "url": "https://sundayworld.co.za/business/south-africa-must-capture-more-value-from-the-data-centre-boom/",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "ZAF",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "World Bank plans shared AI computing for Africa: rent GPUs, don't build data centres",
    "url": "https://tech-ish.com/2026/10/23/world-bank-plans-shared-ai-computing-for-africa/",
    "pillar": "infra",
@@ -5056,6 +5136,26 @@
    "current_topic": "Safety and governance of AI",
    "suggested_topic": "Safety and governance of AI",
    "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Nxtra Africa details multi-country hyperscale expansion to support regional AI and cloud workloads",
+   "url": "https://af.net/realtime/nxtra-africa-details-multi-country-hyperscale-expansion-to-support-regional-ai-and-cloud-workloads/",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Sierra Leone says private investment critical to digital infrastructure expansion",
+   "url": "https://techreviewafrica.com/news/7900/sierra-leone-says-private-investment-critical-to-digital-infrastructure-expansion",
+   "pillar": "infra",
+   "current_topic": "Investment and funding",
+   "suggested_topic": "Investment and funding",
+   "country": "SLE",
    "flags": "source_review_outstanding",
    "source_checked": false
   },
