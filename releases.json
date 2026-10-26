@@ -40,8 +40,8 @@
      "bytes": 12192
     },
     "charts/access-affordability.png": {
-     "sha256": "4b8bdef80c37882fafcb5f0ca2913e540062414e78cf134c1d139ba404774bfd",
-     "bytes": 379815
+     "sha256": "cb1dbb9ea1961c5235c36bf6f2d795e40a0cfcd22a4e7ce4fda9eef5b501e725",
+     "bytes": 534815
     },
     "charts/access-affordability.svg": {
      "sha256": "e2340d767a7560993e61dcf87cfbf6801045d00c5cbb47293765f39ec688ef2b",
@@ -52,8 +52,8 @@
      "bytes": 454
     },
     "charts/access-capability-vs-cost.png": {
-     "sha256": "647e5fa1c53b9b793fc7942024b7b2549890eb68b8723b2122a1734698b4a4b1",
-     "bytes": 325342
+     "sha256": "a270328111c5d66b374722e94f3d6973b6db372062c08e4bdf8be0aa686f16aa",
+     "bytes": 474982
     },
     "charts/access-capability-vs-cost.svg": {
      "sha256": "4a62f0d2ebbf6ad5ec1a63b8c9a10540c6784b213a7cfea6da8ad790fc20570e",
@@ -64,8 +64,8 @@
      "bytes": 467
     },
     "charts/access-device-prices.png": {
-     "sha256": "c9f48beee197b481e4c7aaa0bf2b9eb003bc9f0de18224723832e2cfb6848985",
-     "bytes": 219530
+     "sha256": "2e1ce798972c7e7ee32edc880e30139df476ee87da343bad961bef68bb9bf0f7",
+     "bytes": 310752
     },
     "charts/access-device-prices.svg": {
      "sha256": "63e0ce19c84b1bc3f830602a4de5195aeb6bbc296821c69a0cb1bcb4d7c55fee",
@@ -76,8 +76,8 @@
      "bytes": 1243
     },
     "charts/access-fx-decomposition.png": {
-     "sha256": "a9b7952f62749833511eb187ee97f53e49a7c9cfe0c5ec2f3fa2be17e6fc62cf",
-     "bytes": 151182
+     "sha256": "3734d7c732458e679243dddc5e15acbe39a40f950b20c24fb751d778c94d5b68",
+     "bytes": 243032
     },
     "charts/access-fx-decomposition.svg": {
      "sha256": "2d2bee33303c158c3929378b0d00fec74dd9b4b6575191c03a9d2269eac56c2d",
@@ -88,8 +88,8 @@
      "bytes": 325
     },
     "charts/access-shipments.png": {
-     "sha256": "e3352247d8a3f87e72d4bfdf26e6298c607ae3df0421e0381a0f4f814ddc1ee1",
-     "bytes": 190409
+     "sha256": "644100d931df1eda0c58a55fbd1809457af946e779338a6b79120340e6b81ce6",
+     "bytes": 268748
     },
     "charts/access-shipments.svg": {
      "sha256": "f086b1f11dd2785fd818cf3d61f07290547e9d166ea87172bf7b62ab46f0e6f5",
@@ -100,8 +100,8 @@
      "bytes": 14395
     },
     "charts/access-subscription-share.png": {
-     "sha256": "961390127c9c7e18586bfbe976120b4db3051df3881210bc4448483c4e684eaf",
-     "bytes": 249597
+     "sha256": "213fe7b4b55c157eba91bd70ef6e432a7baabcebba196d48f7df58bf5d207d65",
+     "bytes": 359196
     },
     "charts/access-subscription-share.svg": {
      "sha256": "7aa8322cb84ea0d44983e72a69742012e40579c53a85f07bb02460e0a0232fd0",
@@ -544,8 +544,8 @@
      "bytes": 174
     },
     "charts/infra-capacity-by-status.png": {
-     "sha256": "45f703e912146edcdecc9f1d1edcc697d545cccdb6ea51224f5e0ffaa8d32228",
-     "bytes": 152670
+     "sha256": "0646558465c50f7e011578b72a331be53f2fa964bb412be5c0a34f8630d7035e",
+     "bytes": 218540
     },
     "charts/infra-capacity-by-status.svg": {
      "sha256": "b7d2b0e5a6be8185563f37fe3201f50139cd8603d9b9c22b1c9e9353d92a5858",
@@ -556,8 +556,8 @@
      "bytes": 238
     },
     "charts/infra-capital-by-country.png": {
-     "sha256": "bba4e44601703529282fa69836240145b3b8efce55f23624adaee90cce835caa",
-     "bytes": 122035
+     "sha256": "9baa6152389012f9181345732a80be6d8ff2f5bf687064c229a9fdd4dc038ff1",
+     "bytes": 183230
     },
     "charts/infra-capital-by-country.svg": {
      "sha256": "d591548973713a848526348408dc6a04f748b59056daed82405e15869ab99ede",
@@ -568,8 +568,8 @@
      "bytes": 841
     },
     "charts/jobs-atlas-exposure.png": {
-     "sha256": "46e585b3bf9d9388cefd218f3f67ea887e8b9769a559550abe737839887afa2a",
-     "bytes": 353163
+     "sha256": "af4f63dcbc061f257bf6e014cf315463246871ec8a588be84d14de49390738e5",
+     "bytes": 537506
     },
     "charts/jobs-atlas-exposure.svg": {
      "sha256": "09529546dbea88282e54b24cc69146a5b529e69860c5f093fa4a48a01335f99a",
@@ -580,8 +580,8 @@
      "bytes": 604
     },
     "charts/jobs-exposure.png": {
-     "sha256": "b9152c939066daa313e40b8563274c11c9e663b31c6b0eab58ca745f5c7c5925",
-     "bytes": 328296
+     "sha256": "57b3e8aefa9836fdb7d4f94b7b1a86fe576881c4353d988bf4c60b72f8aa43e6",
+     "bytes": 497905
     },
     "charts/jobs-exposure.svg": {
      "sha256": "275abd24425155346c1c7a2738b4bf5f00c393a3f4eb97fcb17a9711258a2553",
@@ -592,8 +592,8 @@
      "bytes": 133
     },
     "charts/record-activity.png": {
-     "sha256": "4237816f478b043cb9805c9660c5f92142ec4e7556cd51e673f76c4bfa7ad4cc",
-     "bytes": 120358
+     "sha256": "c89389ba80856df6d56fcb8505e762a9c62dfcbbbc9994dc212c0cbe470abb5a",
+     "bytes": 182798
     },
     "charts/record-activity.svg": {
      "sha256": "d391476287f24d742c75587fbc92a3be7bba1f431def8e9c485a3ff287317d41",
@@ -1080,8 +1080,8 @@
      "bytes": 2075
     },
     "data/reference/chart-render-manifest.json": {
-     "sha256": "faa79d4cca52d856287946a8196a91ca4fbe8c621b24d546fa0679ffe66facdb",
-     "bytes": 2075
+     "sha256": "645d2fc851f6d298247d333ac427579ee8ec22fcf28f45af2f5b997bdf1a55eb",
+     "bytes": 2030
     },
     "data/reference/collection-candidates.md": {
      "sha256": "60bb940dd866e51733fd59d352f782374c1cf59bc636a845de7f3d4a3f28a19f",
@@ -1292,8 +1292,8 @@
      "bytes": 3434
     },
     "data/reference/revision-log.json": {
-     "sha256": "da723a1ce5d128324a45b53f13b74aef3574d85a7f67579c2a6aaf0d57d91380",
-     "bytes": 28751
+     "sha256": "1030944328a29deb7afc8366bf4023a6b881c6852e6d1454d1e0c8b1c0224aea",
+     "bytes": 28846
     },
     "data/reference/row-state.json": {
      "sha256": "4cf079ed792f0aaf1a8c3b6293f3f944d1e3413a5c7c880c0a68af780d3627bc",
@@ -1388,7 +1388,7 @@
      "bytes": 600
     },
     "index.html": {
-     "sha256": "8e5efe9f0793623ce844d75b99bed36a562f1dd0b80886b4ac16ae4ff3aaa15e",
+     "sha256": "8ac8ffe410576709056f810598de83a2467a37a58fca05b4d55ef8812f360243",
      "bytes": 123324
     },
     "infrastructure.html": {
