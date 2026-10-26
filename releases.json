@@ -8,7 +8,7 @@
    "base_url": "https://inferenceafrica.com",
    "schema_version": "2026.10.3",
    "licence": "CC BY 4.0. Credit reads: InferenceAfrica",
-   "file_count": 374,
+   "file_count": 373,
    "validation_scope": "Core register eligibility plus supplementary export, provenance and consistency checks. Facility listings remain third-party unverified; directory checks do not verify external claims.",
    "files": {
     "404.html": {
@@ -28,8 +28,8 @@
      "bytes": 620124
     },
     "analysis.html": {
-     "sha256": "de1527c778408716ffcd9e069e805ea01c82a5e0622fb2c67904c8283e8b0e01",
-     "bytes": 7524
+     "sha256": "aef7d9eda5431fc9d3e28212c64e241dc7d1065805bb9613008d928123f99d22",
+     "bytes": 7114
     },
     "apple-touch-icon.png": {
      "sha256": "461c3e98ada091b1f9f4bca71e280463fab3c6ba1e036660d7f6e5c0a338e534",
@@ -1375,10 +1375,6 @@
      "sha256": "a9758e7f7513303c47d6cc589e3f5bd49e3560eef1ccf19bc03e7a6cf83b14e9",
      "bytes": 51441
     },
-    "essay-ai-talent.html": {
-     "sha256": "84a33c34e5ec728a6f0ae08588a0e50487d0d8ff8b6cf5f1047c8cdef0c883ac",
-     "bytes": 18760
-    },
     "essay-nigeria-gaming.html": {
      "sha256": "27e4f3d625a2ff3ab991407caa40f8edb9899783c5305f2b3397665d35c632f2",
      "bytes": 51249
@@ -1504,8 +1500,8 @@
      "bytes": 813369
     },
     "sitemap.xml": {
-     "sha256": "59929b2cb3dfc0882587246a3b5ee36c39da3e550d7f65a081574307dc9ac8f4",
-     "bytes": 8619
+     "sha256": "f5f763581a03de1ad8584e72fc5913d3759ee9bfd327c1415fae79c4b5b3127e",
+     "bytes": 8496
     }
    }
   }
