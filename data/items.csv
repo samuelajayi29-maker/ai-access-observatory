@@ -1,7 +1,10 @@
 bucket,date,source,title,url
 jobs,Oct 24,Voice of Nigeria,Experts urge Africa to link AI training with jobs at BUILD 2026 panel,https://von.gov.ng/experts-urge-africa-to-link-ai-training-with-jobs/
 jobs,Oct 24,Ghana Guardian,GIZ seeks business partners for Ghana AI training scheme for 120 graduates,https://ghanaguardian.com/giz-seeks-business-partners-for-ghana-ai-training-scheme-for-120-graduates/
+jobs,Oct 24,BusinessDay NG,"Nigerian businesses face skills shake-up as AI, digital technology reshape workplaces",https://businessday.ng/technology/article/nigerian-businesses-face-skills-shake-up-as-ai-digital-technology-reshape-workplaces/
+jobs,Oct 24,Forbes Africa,Expert-Speak: Why some jobs are 'bot-bumped' and others 'bot-proof',https://www.forbesafrica.com/opinion/op-ed/2026/10/24/expert-speak-why-some-jobs-are-bot-bumped-and-others-bot-proof
 jobs,Oct 23,Innovation Village,AltSchool Africa gets a new CEO as it shifts from coding skills to university degrees,https://innovation-village.com/altschool-africa-gets-a-new-ceo-as-it-shifts-from-coding-skills-to-university-degrees/
+jobs,Oct 23,ITWeb,Barclays calls AI 'icing on the cake' as it culls jobs,https://www.itweb.co.za/article/barclays-calls-ai-icing-on-the-cake-as-it-culls-jobs/Kjlyr7wBQm6vk6am
 jobs,Oct 22,BusinessDay NG,FG pivots education to digital skills to close employability gap,https://businessday.ng/education/article/fg-pivots-education-to-digital-skills-to-close-employability-gap/
 jobs,Oct 22,TechCabal,"Spend first, measure later: inside African banking's AI boom",https://techcabal.com/2026/10/22/are-african-banks-seeing-ai-returns/
 jobs,Oct 22,TechAfrica News,Egypt graduates 601 trainees from advanced AI ambassadors programme,https://techafricanews.com/2026/10/22/egypt-graduates-601-trainees-from-advanced-ai-ambassadors-programme/
@@ -192,6 +195,8 @@ jobs,May 16,UN Economic Commission for Africa,AI and jobs in Africa: turning dis
 jobs,Apr 25,Mastercard Foundation,40% of Tasks in Africa's Tech Outsourcing May Be Affected by AI by 2030,https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/
 jobs,Mar 31,WeeTracker,South Africa's gig economy becomes a bargain with AI skills shortage looming,https://weetracker.com/2026/03/31/south-africa-freelance-economy-ai-talent-gap-2026/
 jobs,Dec 25,"Deric Cheng, AI Frontiers",AI Could Undermine Emerging Economies,https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies
+access,Oct 26,Basic Tutorials,Kimi K3.1 Pro: Moonshot's new AI model at a competitive price,https://basic-tutorials.com/news/kimi-k3-1-pro-moonshots-new-ai-model-at-a-competitive-price/
+access,Oct 25,Al Jazeera,"AI's 'opportunity divide' could deepen global inequality, UN official warns",https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns
 access,Oct 24,DailySynapse,Nvidia prepays suppliers to ease chip testing and optics bottlenecks,https://dailysynapse.com/news/nvidia-prepays-suppliers-chip-testing-optics-bottlenecks/
 access,Oct 24,AI Reports Africa,Can African AI platforms compete for users' attention against ChatGPT and Claude?,https://aireportsafrica.com/2026/10/24/can-african-ai-platforms-compete-for-users-attention-against-chatgpt-and-claude/
 access,Oct 23,ITPulse,House of Reps gives telecom operators seven days to explain poor network services,https://itpulse.com.ng/house-of-reps-gives-telecom-operators-seven-days-to-explain-poor-network-services/
@@ -204,6 +209,7 @@ access,Oct 22,TechAfrica News,MTN Uganda launches Starlink for Business to expan
 access,Oct 22,TECHi,"OpenAI puts GPT-6 on Google Cloud: three models on one invoice, cached input at $0.10 per million tokens",https://www.techi.com/openai-gpt-6-google-cloud-model-garden-codex/
 access,Oct 22,arXiv cs.SE,"From Tokens to Credits to Outcomes: Pricing AI Across Models, Applications, and Cloud Platforms",https://arxiv.org/abs/2610.30701
 access,Oct 22,arXiv econ.GN,Joules-to-GDP: How Much Economic Value Do AI Systems Produce per Unit of Energy?,https://arxiv.org/abs/2610.30858
+access,Oct 22,TechAfrica News,Why 'Made in Africa' smartphones keep losing to assembly,https://techafricanews.com/2026/10/22/why-made-in-africa-smartphones-keep-losing-to-assembly/
 access,Oct 21,Technext24,"Building 3,700 rural telecom towers is half the battle; keeping them alive is the real challenge",https://technext24.com/reviews/3700-rural-telecom-towers-real-challenge/
 access,Oct 21,Technext24,Nigeria is phasing out 3G while 2G stays alive and 5G lags below 5%,https://technext24.com/reviews/nigeria-is-phasing-out-3g-while-5g-lags/
 access,Oct 20,Memeburn,"Vivo V80 global launch: price, markets and the catch",https://memeburn.com/vivo-v80-global-launch/
@@ -447,6 +453,8 @@ access,May 27,Trustonic,"Deconstructing Africa's smartphone market: shipments, p
 access,May 26,"David Oks, Substack",AI Is Killing the Cheap Smartphone,https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone
 access,Apr 15,Japan Times / AFP,AI-driven chip shortage slowing efforts to get world online: GSMA,https://www.thejapantimes.jp/Technology/658420-ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma.html
 access,Feb 26,Techpoint Africa,AI Chip Demand — Smartphone Prices in Nigeria,https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/
+infra,Oct 25,Tech Review Africa,Ghana's National AI Data Centre faces power supply and skills challenges,https://techreviewafrica.com/news/7928/ghanas-national-ai-data-centre-faces-power-supply-and-skills-challenges
+infra,Oct 25,Sunday World,South Africa must capture more value from the data centre boom,https://sundayworld.co.za/business/south-africa-must-capture-more-value-from-the-data-centre-boom/
 infra,Oct 23,tech-ish,"World Bank plans shared AI computing for Africa: rent GPUs, don't build data centres",https://tech-ish.com/2026/10/23/world-bank-plans-shared-ai-computing-for-africa/
 infra,Oct 23,iAfrica,"SoleCrypt plans 40MW solar-powered AI campus in Bizerte, Tunisia",https://iafrica.com/solecrypt-plans-40mw-solar-powered-ai-campus-in-bizerte-tunisia/
 infra,Oct 23,iAfrica,"Egypt plans up to seven 'mega data centres', targets exports by 2030",https://iafrica.com/egypt-plans-up-to-seven-mega-data-centres-targets-exports-by-2030/
@@ -454,6 +462,8 @@ infra,Oct 23,iAfrica,Uganda launches five-year data strategy as groundwork for n
 infra,Oct 23,TechAfrica News,Kenya's Konza Technopolis secures funding agreement for data centre and smart city project,https://techafricanews.com/2026/10/23/kenyas-konza-technopolis-secures-funding-agreement-for-data-centre-and-smart-city-project/
 infra,Oct 23,TechTrendsKE,Redington Gulf signs AWS deal to expand AI adoption across Middle East and Africa,https://techtrendske.co.ke/2026/10/23/redington-gulf-and-aws-target-faster-ai-adoption-across-middle-east-and-africa/
 infra,Oct 23,TechAfrica News,How heavy AI rules risk killing Africa's homegrown startups,https://techafricanews.com/2026/10/23/how-heavy-ai-rules-risk-killing-africas-homegrown-startups/
+infra,Oct 23,Data Centre Magazine,Nxtra Africa details multi-country hyperscale expansion to support regional AI and cloud workloads,https://af.net/realtime/nxtra-africa-details-multi-country-hyperscale-expansion-to-support-regional-ai-and-cloud-workloads/
+infra,Oct 23,Tech Review Africa,Sierra Leone says private investment critical to digital infrastructure expansion,https://techreviewafrica.com/news/7900/sierra-leone-says-private-investment-critical-to-digital-infrastructure-expansion
 infra,Oct 22,TechCabal,"Africa must own its digital future or risk exploitation, says Luminate CEO",https://techcabal.com/2026/10/22/african-cloud-infrastructure-exploitation/
 infra,Oct 22,Simpson Global Media,Nigeria plans shared AI computing infrastructure as government targets faster technology development,https://www.simpsonglobalmedia.com.ng/2026/10/nigeria-plans-shared-ai-computing.html
 infra,Oct 22,TheCable,"FG proposes shared AI computing infrastructure with Rwanda, Senegal, Kenya",https://www.thecable.ng/fg-proposes-shared-ai-computing-infrastructure-with-rwanda-senegal-kenya/
