@@ -1,10 +1,17 @@
 {
- "updated": "2026-10-26",
+ "updated": "2026-10-27",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "AI could displace 1 in 11 workers, mostly in recessions: Goldman Sachs",
+     "u": "https://news.outsourceaccelerator.com/goldman-sachs-ai-worker-displacement/",
+     "s": "Outsource Accelerator",
+     "d": "Oct 27",
+     "dot": "dot-jobs"
+    },
     {
      "t": "Experts urge Africa to link AI training with jobs at BUILD 2026 panel",
      "u": "https://von.gov.ng/experts-urge-africa-to-link-ai-training-with-jobs/",
@@ -1383,11 +1390,60 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "Cassava Technologies becomes authorised reseller of Anthropic's Claude AI in Africa",
+     "u": "https://techafricanews.com/2026/10/27/cassava-technologies-claude-ai-reseller-africa/",
+     "s": "TechAfrica News",
+     "d": "Oct 27",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Why Ghana is mandating 4G for rural telephony before 5G takes over",
+     "u": "https://techafricanews.com/2026/10/27/why-ghana-is-mandating-4g-for-rural-telephony-before-5g-takes-over/",
+     "s": "TechAfrica News",
+     "d": "Oct 27",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Why NCC's ban on unapproved phones risks falling into an enforcement trap",
+     "u": "https://technext24.com/reviews/ncc-ban-unapproved-phones-enforcement-trap/",
+     "s": "Technext24",
+     "d": "Oct 27",
+     "dot": "dot-access"
+    },
+    {
      "t": "Kimi K3.1 Pro: Moonshot's new AI model at a competitive price",
      "u": "https://basic-tutorials.com/news/kimi-k3-1-pro-moonshots-new-ai-model-at-a-competitive-price/",
      "s": "Basic Tutorials",
      "d": "Oct 26",
      "dot": "dot-price"
+    },
+    {
+     "t": "The tokenizer tax: why non-English AI users pay more for tokens",
+     "u": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
+     "s": "Rest of World",
+     "d": "Oct 26",
+     "dot": "dot-price"
+    },
+    {
+     "t": "The brutal financial reality behind government AI adoption in Africa",
+     "u": "https://techcabal.com/2026/10/26/government-ai-adoption-in-africa/",
+     "s": "TechCabal",
+     "d": "Oct 26",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Who pays for thinking? Billing hidden reasoning tokens in model cloud contracts",
+     "u": "http://arxiv.org/abs/2610.35338v1",
+     "s": "arXiv (cs.GT)",
+     "d": "Oct 26",
+     "dot": "dot-arxiv"
+    },
+    {
+     "t": "Do language models understand Igbo culture? Beyond multiple choice",
+     "u": "http://arxiv.org/abs/2610.35168v1",
+     "s": "arXiv (cs.CL)",
+     "d": "Oct 26",
+     "dot": "dot-arxiv"
     },
     {
      "t": "AI's 'opportunity divide' could deepen global inequality, UN official warns",
@@ -3194,6 +3250,34 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "Study shows African countries competitive for data centre construction",
+     "u": "https://www.engineeringnews.co.za/article/study-shows-african-countries-competitive-for-data-centre-construction-2026-10-27",
+     "s": "Engineering News",
+     "d": "Oct 27",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Fear of foreign shutdowns drives local cloud demand",
+     "u": "https://www.itweb.co.za/article/fear-of-foreign-shutdowns-drives-local-cloud-demand/G98YdMLGAL87X2PD",
+     "s": "ITWeb",
+     "d": "Oct 26",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "The data centre inquiry is really a test of King V",
+     "u": "https://www.itweb.co.za/article/the-data-centre-inquiry-is-really-a-test-of-king-v/LPp6V7rBraj7DKQz",
+     "s": "ITWeb",
+     "d": "Oct 26",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "AWS capacity 'largely' sold out in 2027, Amazon CEO claims",
+     "u": "https://www.datacenterdynamics.com/en/news/aws-capacity-largely-sold-out-in-2027-amazon-ceo-claims/",
+     "s": "Data Centre Dynamics",
+     "d": "Oct 26",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Ghana's National AI Data Centre faces power supply and skills challenges",
      "u": "https://techreviewafrica.com/news/7928/ghanas-national-ai-data-centre-faces-power-supply-and-skills-challenges",
      "s": "Tech Review Africa",
@@ -3353,6 +3437,13 @@
      "s": "iAfrica",
      "d": "Oct 20",
      "dot": "dot-infra"
+    },
+    {
+     "t": "Africa-Papers: a 10-billion-token multi-domain academic corpus for African foundation language models",
+     "u": "http://arxiv.org/abs/2610.28173v1",
+     "s": "arXiv (cs.CL)",
+     "d": "Oct 20",
+     "dot": "dot-arxiv"
     },
     {
      "t": "Libya's O3 Group unveils national fibre and Tier III data centre plans after Medusa cable landing",

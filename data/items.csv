@@ -1,4 +1,5 @@
 bucket,date,source,title,url
+jobs,Oct 27,Outsource Accelerator,"AI could displace 1 in 11 workers, mostly in recessions: Goldman Sachs",https://news.outsourceaccelerator.com/goldman-sachs-ai-worker-displacement/
 jobs,Oct 24,Voice of Nigeria,Experts urge Africa to link AI training with jobs at BUILD 2026 panel,https://von.gov.ng/experts-urge-africa-to-link-ai-training-with-jobs/
 jobs,Oct 24,Ghana Guardian,GIZ seeks business partners for Ghana AI training scheme for 120 graduates,https://ghanaguardian.com/giz-seeks-business-partners-for-ghana-ai-training-scheme-for-120-graduates/
 jobs,Oct 24,BusinessDay NG,"Nigerian businesses face skills shake-up as AI, digital technology reshape workplaces",https://businessday.ng/technology/article/nigerian-businesses-face-skills-shake-up-as-ai-digital-technology-reshape-workplaces/
@@ -195,7 +196,14 @@ jobs,May 16,UN Economic Commission for Africa,AI and jobs in Africa: turning dis
 jobs,Apr 25,Mastercard Foundation,40% of Tasks in Africa's Tech Outsourcing May Be Affected by AI by 2030,https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/
 jobs,Mar 31,WeeTracker,South Africa's gig economy becomes a bargain with AI skills shortage looming,https://weetracker.com/2026/03/31/south-africa-freelance-economy-ai-talent-gap-2026/
 jobs,Dec 25,"Deric Cheng, AI Frontiers",AI Could Undermine Emerging Economies,https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies
+access,Oct 27,TechAfrica News,Cassava Technologies becomes authorised reseller of Anthropic's Claude AI in Africa,https://techafricanews.com/2026/10/27/cassava-technologies-claude-ai-reseller-africa/
+access,Oct 27,TechAfrica News,Why Ghana is mandating 4G for rural telephony before 5G takes over,https://techafricanews.com/2026/10/27/why-ghana-is-mandating-4g-for-rural-telephony-before-5g-takes-over/
+access,Oct 27,Technext24,Why NCC's ban on unapproved phones risks falling into an enforcement trap,https://technext24.com/reviews/ncc-ban-unapproved-phones-enforcement-trap/
 access,Oct 26,Basic Tutorials,Kimi K3.1 Pro: Moonshot's new AI model at a competitive price,https://basic-tutorials.com/news/kimi-k3-1-pro-moonshots-new-ai-model-at-a-competitive-price/
+access,Oct 26,Rest of World,The tokenizer tax: why non-English AI users pay more for tokens,https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/
+access,Oct 26,TechCabal,The brutal financial reality behind government AI adoption in Africa,https://techcabal.com/2026/10/26/government-ai-adoption-in-africa/
+access,Oct 26,arXiv (cs.GT),Who pays for thinking? Billing hidden reasoning tokens in model cloud contracts,http://arxiv.org/abs/2610.35338v1
+access,Oct 26,arXiv (cs.CL),Do language models understand Igbo culture? Beyond multiple choice,http://arxiv.org/abs/2610.35168v1
 access,Oct 25,Al Jazeera,"AI's 'opportunity divide' could deepen global inequality, UN official warns",https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns
 access,Oct 24,DailySynapse,Nvidia prepays suppliers to ease chip testing and optics bottlenecks,https://dailysynapse.com/news/nvidia-prepays-suppliers-chip-testing-optics-bottlenecks/
 access,Oct 24,AI Reports Africa,Can African AI platforms compete for users' attention against ChatGPT and Claude?,https://aireportsafrica.com/2026/10/24/can-african-ai-platforms-compete-for-users-attention-against-chatgpt-and-claude/
@@ -453,6 +461,10 @@ access,May 27,Trustonic,"Deconstructing Africa's smartphone market: shipments, p
 access,May 26,"David Oks, Substack",AI Is Killing the Cheap Smartphone,https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone
 access,Apr 15,Japan Times / AFP,AI-driven chip shortage slowing efforts to get world online: GSMA,https://www.thejapantimes.jp/Technology/658420-ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma.html
 access,Feb 26,Techpoint Africa,AI Chip Demand — Smartphone Prices in Nigeria,https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/
+infra,Oct 27,Engineering News,Study shows African countries competitive for data centre construction,https://www.engineeringnews.co.za/article/study-shows-african-countries-competitive-for-data-centre-construction-2026-10-27
+infra,Oct 26,ITWeb,Fear of foreign shutdowns drives local cloud demand,https://www.itweb.co.za/article/fear-of-foreign-shutdowns-drives-local-cloud-demand/G98YdMLGAL87X2PD
+infra,Oct 26,ITWeb,The data centre inquiry is really a test of King V,https://www.itweb.co.za/article/the-data-centre-inquiry-is-really-a-test-of-king-v/LPp6V7rBraj7DKQz
+infra,Oct 26,Data Centre Dynamics,"AWS capacity 'largely' sold out in 2027, Amazon CEO claims",https://www.datacenterdynamics.com/en/news/aws-capacity-largely-sold-out-in-2027-amazon-ceo-claims/
 infra,Oct 25,Tech Review Africa,Ghana's National AI Data Centre faces power supply and skills challenges,https://techreviewafrica.com/news/7928/ghanas-national-ai-data-centre-faces-power-supply-and-skills-challenges
 infra,Oct 25,Sunday World,South Africa must capture more value from the data centre boom,https://sundayworld.co.za/business/south-africa-must-capture-more-value-from-the-data-centre-boom/
 infra,Oct 23,tech-ish,"World Bank plans shared AI computing for Africa: rent GPUs, don't build data centres",https://tech-ish.com/2026/10/23/world-bank-plans-shared-ai-computing-for-africa/
@@ -476,6 +488,7 @@ infra,Oct 20,TechTrendsKE,"World Bank taps Cassava, Nvidia for Africa AI compute
 infra,Oct 20,TechAfrica News,Vodacom South Africa invests R600 million to expand connectivity in Mpumalanga,https://techafricanews.com/2026/10/20/vodacom-south-africa-invests-r600-million-to-expand-connectivity-in-mpumalanga/
 infra,Oct 20,BusinessDay NG,"Africa risks missing AI investment boom without reliable power, infrastructure, KPMG says",https://businessday.ng/africa/article/africa-risks-missing-ai-investment-boom-without-reliable-power-infrastructure-kpmg/
 infra,Oct 20,iAfrica,Ramaphosa plans Silicon Valley AI delegation after local elections,https://iafrica.com/ramaphosa-plans-silicon-valley-ai-delegation-after-local-elections/
+infra,Oct 20,arXiv (cs.CL),Africa-Papers: a 10-billion-token multi-domain academic corpus for African foundation language models,http://arxiv.org/abs/2610.28173v1
 infra,Oct 19,TechAfrica News,Libya's O3 Group unveils national fibre and Tier III data centre plans after Medusa cable landing,https://techafricanews.com/2026/10/19/libya-o3-group-digital-infrastructure-medusa-cable-landing/
 infra,Oct 19,TechTrendsKE,Dell and NTT Data pitch on-premise 'AI in a box' to Kenyan small businesses,https://techtrendske.co.ke/2026/10/19/locally-hosted-ai-kenya/
 infra,Oct 19,TechTrendsKE,After the data centre: Africa's missing cloud platform layer,https://techtrendske.co.ke/2026/10/19/africa-missing-cloud-platform-layer/
