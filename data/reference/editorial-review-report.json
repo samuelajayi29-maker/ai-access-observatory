@@ -1,14 +1,24 @@
 {
- "generated_at": "2026-10-26",
- "count": 826,
+ "generated_at": "2026-10-27",
+ "count": 839,
  "source_checked": 78,
  "flag_counts": {
-  "source_review_outstanding": 748,
-  "african_relevance_not_recorded": 322,
+  "african_relevance_not_recorded": 330,
+  "source_review_outstanding": 761,
   "topic_needs_review": 56
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
  "rows": [
+  {
+   "headline": "AI could displace 1 in 11 workers, mostly in recessions: Goldman Sachs",
+   "url": "https://news.outsourceaccelerator.com/goldman-sachs-ai-worker-displacement/",
+   "pillar": "jobs",
+   "current_topic": "Employment and outsourcing",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
   {
    "headline": "Experts urge Africa to link AI training with jobs at BUILD 2026 panel",
    "url": "https://von.gov.ng/experts-urge-africa-to-link-ai-training-with-jobs/",
@@ -2130,11 +2140,81 @@
    "source_checked": true
   },
   {
+   "headline": "Cassava Technologies becomes authorised reseller of Anthropic's Claude AI in Africa",
+   "url": "https://techafricanews.com/2026/10/27/cassava-technologies-claude-ai-reseller-africa/",
+   "pillar": "access",
+   "current_topic": "Models and capability",
+   "suggested_topic": "Models and capability",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Why Ghana is mandating 4G for rural telephony before 5G takes over",
+   "url": "https://techafricanews.com/2026/10/27/why-ghana-is-mandating-4g-for-rural-telephony-before-5g-takes-over/",
+   "pillar": "access",
+   "current_topic": "Connectivity and bandwidth",
+   "suggested_topic": "Connectivity and bandwidth",
+   "country": "GHA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Why NCC's ban on unapproved phones risks falling into an enforcement trap",
+   "url": "https://technext24.com/reviews/ncc-ban-unapproved-phones-enforcement-trap/",
+   "pillar": "access",
+   "current_topic": "Devices and hardware",
+   "suggested_topic": "Devices and hardware",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "Kimi K3.1 Pro: Moonshot's new AI model at a competitive price",
    "url": "https://basic-tutorials.com/news/kimi-k3-1-pro-moonshots-new-ai-model-at-a-competitive-price/",
    "pillar": "access",
    "current_topic": "Pricing and affordability",
    "suggested_topic": "Pricing and affordability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "The tokenizer tax: why non-English AI users pay more for tokens",
+   "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
+   "pillar": "access",
+   "current_topic": "Access and affordability",
+   "suggested_topic": "Access and affordability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "The brutal financial reality behind government AI adoption in Africa",
+   "url": "https://techcabal.com/2026/10/26/government-ai-adoption-in-africa/",
+   "pillar": "access",
+   "current_topic": "Investment and funding",
+   "suggested_topic": "Investment and funding",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Who pays for thinking? Billing hidden reasoning tokens in model cloud contracts",
+   "url": "http://arxiv.org/abs/2610.35338v1",
+   "pillar": "access",
+   "current_topic": "Models and capability",
+   "suggested_topic": "Models and capability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Do language models understand Igbo culture? Beyond multiple choice",
+   "url": "http://arxiv.org/abs/2610.35168v1",
+   "pillar": "access",
+   "current_topic": "Models and capability",
+   "suggested_topic": "Models and capability",
    "country": "",
    "flags": "african_relevance_not_recorded; source_review_outstanding",
    "source_checked": false
@@ -5050,6 +5130,46 @@
    "source_checked": true
   },
   {
+   "headline": "Study shows African countries competitive for data centre construction",
+   "url": "https://www.engineeringnews.co.za/article/study-shows-african-countries-competitive-for-data-centre-construction-2026-10-27",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Fear of foreign shutdowns drives local cloud demand",
+   "url": "https://www.itweb.co.za/article/fear-of-foreign-shutdowns-drives-local-cloud-demand/G98YdMLGAL87X2PD",
+   "pillar": "infra",
+   "current_topic": "Infrastructure and compute",
+   "suggested_topic": "Infrastructure and compute",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "The data centre inquiry is really a test of King V",
+   "url": "https://www.itweb.co.za/article/the-data-centre-inquiry-is-really-a-test-of-king-v/LPp6V7rBraj7DKQz",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "AWS capacity 'largely' sold out in 2027, Amazon CEO claims",
+   "url": "https://www.datacenterdynamics.com/en/news/aws-capacity-largely-sold-out-in-2027-amazon-ceo-claims/",
+   "pillar": "infra",
+   "current_topic": "Infrastructure and compute",
+   "suggested_topic": "Infrastructure and compute",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "Ghana's National AI Data Centre faces power supply and skills challenges",
    "url": "https://techreviewafrica.com/news/7928/ghanas-national-ai-data-centre-faces-power-supply-and-skills-challenges",
    "pillar": "infra",
@@ -5277,6 +5397,16 @@
    "suggested_topic": "Infrastructure and compute",
    "country": "",
    "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Africa-Papers: a 10-billion-token multi-domain academic corpus for African foundation language models",
+   "url": "http://arxiv.org/abs/2610.28173v1",
+   "pillar": "infra",
+   "current_topic": "Models and capability",
+   "suggested_topic": "Models and capability",
+   "country": "",
+   "flags": "source_review_outstanding",
    "source_checked": false
   },
   {
