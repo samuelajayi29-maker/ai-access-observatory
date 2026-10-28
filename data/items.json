@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27",
+ "updated": "2026-10-28",
  "schema": 1,
  "buckets": {
   "jobs": {
@@ -10,6 +10,13 @@
      "u": "https://news.outsourceaccelerator.com/goldman-sachs-ai-worker-displacement/",
      "s": "Outsource Accelerator",
      "d": "Oct 27",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "KPMG Africa CEO Outlook: only 14% of African CEOs say their firms keep pace with AI",
+     "u": "https://techafricanews.com/2026/10/26/kpmg-africa-ceos-growth-ai-readiness/",
+     "s": "TechAfrica News",
+     "d": "Oct 26",
      "dot": "dot-jobs"
     },
     {
@@ -107,6 +114,13 @@
      "t": "Will Africa's AI talent find the infrastructure it needs at home?",
      "u": "https://techafricanews.com/2026/10/21/will-africas-ai-talent-find-the-infrastructure-it-needs-at-home/",
      "s": "TechAfrica News",
+     "d": "Oct 21",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Nigeria faces job-loss risks as AI reshapes global telecoms",
+     "u": "https://thesun.ng/nigeria-faces-job-loss-risks-as-ai-reshapes-global-telecoms/",
+     "s": "The Sun Nigeria",
      "d": "Oct 21",
      "dot": "dot-jobs"
     },
@@ -1409,6 +1423,27 @@
      "s": "Technext24",
      "d": "Oct 27",
      "dot": "dot-access"
+    },
+    {
+     "t": "OpenAI's GPT-6.1 Terra cuts token prices 50% to $1 input / $5 output per million",
+     "u": "https://aimagazine.com/news/how-openais-gpt-6-1-terra-is-much-faster-and-50-cheaper",
+     "s": "AI Magazine",
+     "d": "Oct 27",
+     "dot": "dot-price"
+    },
+    {
+     "t": "M-KOPA urges Ghana to zero-rate locally assembled smartphones",
+     "u": "https://ghanaiantimes.com.gh/m-kopa-urges-govt-to-zero-rate-locally-manufactured-smartphones-to-boost-production/",
+     "s": "Ghanaian Times",
+     "d": "Oct 27",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Aligning large language models for safety in African languages: a case study of Hausa",
+     "u": "http://arxiv.org/abs/2610.37245v1",
+     "s": "arXiv",
+     "d": "Oct 27",
+     "dot": "dot-arxiv"
     },
     {
      "t": "Kimi K3.1 Pro: Moonshot's new AI model at a competitive price",
@@ -3253,6 +3288,13 @@
      "t": "Study shows African countries competitive for data centre construction",
      "u": "https://www.engineeringnews.co.za/article/study-shows-african-countries-competitive-for-data-centre-construction-2026-10-27",
      "s": "Engineering News",
+     "d": "Oct 27",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Nigeria to receive $1 billion for two AI-focused data centres under INFRAGORA's AFRIDATA platform",
+     "u": "https://geeky.com.ng/2026/10/27/investment-in-ai-focused-data-nigeria-to-receive-1-billion/",
+     "s": "Geeky Nigeria",
      "d": "Oct 27",
      "dot": "dot-infra"
     },

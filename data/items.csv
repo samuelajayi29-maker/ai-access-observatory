@@ -1,5 +1,6 @@
 bucket,date,source,title,url
 jobs,Oct 27,Outsource Accelerator,"AI could displace 1 in 11 workers, mostly in recessions: Goldman Sachs",https://news.outsourceaccelerator.com/goldman-sachs-ai-worker-displacement/
+jobs,Oct 26,TechAfrica News,KPMG Africa CEO Outlook: only 14% of African CEOs say their firms keep pace with AI,https://techafricanews.com/2026/10/26/kpmg-africa-ceos-growth-ai-readiness/
 jobs,Oct 24,Voice of Nigeria,Experts urge Africa to link AI training with jobs at BUILD 2026 panel,https://von.gov.ng/experts-urge-africa-to-link-ai-training-with-jobs/
 jobs,Oct 24,Ghana Guardian,GIZ seeks business partners for Ghana AI training scheme for 120 graduates,https://ghanaguardian.com/giz-seeks-business-partners-for-ghana-ai-training-scheme-for-120-graduates/
 jobs,Oct 24,BusinessDay NG,"Nigerian businesses face skills shake-up as AI, digital technology reshape workplaces",https://businessday.ng/technology/article/nigerian-businesses-face-skills-shake-up-as-ai-digital-technology-reshape-workplaces/
@@ -14,6 +15,7 @@ jobs,Oct 22,arXiv cs.HC,"Making generative AI workable at work: accountability, 
 jobs,Oct 22,arXiv econ.GN,The Delegation Divide: An Open Index of AI-Agent Delegability across Occupations and Countries,https://arxiv.org/abs/2610.30752
 jobs,Oct 21,Technext24,"Cisco, NITDA and Meta account for 85% of digital literacy training as Nigeria achieves only 5.54% of 2027 target",https://technext24.com/news/cisco-nitda-meta-records-85-digital-literacy/
 jobs,Oct 21,TechAfrica News,Will Africa's AI talent find the infrastructure it needs at home?,https://techafricanews.com/2026/10/21/will-africas-ai-talent-find-the-infrastructure-it-needs-at-home/
+jobs,Oct 21,The Sun Nigeria,Nigeria faces job-loss risks as AI reshapes global telecoms,https://thesun.ng/nigeria-faces-job-loss-risks-as-ai-reshapes-global-telecoms/
 jobs,Oct 20,TechAfrica News,Kenya's Konza Technopolis targets BPO investment and digital jobs beyond Nairobi,https://techafricanews.com/2026/10/20/kenyas-konza-technopolis-targets-bpo-investment-and-digital-jobs-beyond-nairobi/
 jobs,Oct 20,arXiv econ.GN,When Better Opportunities Backfire: Service Worker Responses to Parallel AI Deployment in Customer Acquisition,https://arxiv.org/abs/2610.25603
 jobs,Oct 20,arXiv cs.CY,Artificial Intelligence and Job Design: A Dynamic Framework,https://arxiv.org/abs/2610.28830
@@ -199,6 +201,9 @@ jobs,Dec 25,"Deric Cheng, AI Frontiers",AI Could Undermine Emerging Economies,ht
 access,Oct 27,TechAfrica News,Cassava Technologies becomes authorised reseller of Anthropic's Claude AI in Africa,https://techafricanews.com/2026/10/27/cassava-technologies-claude-ai-reseller-africa/
 access,Oct 27,TechAfrica News,Why Ghana is mandating 4G for rural telephony before 5G takes over,https://techafricanews.com/2026/10/27/why-ghana-is-mandating-4g-for-rural-telephony-before-5g-takes-over/
 access,Oct 27,Technext24,Why NCC's ban on unapproved phones risks falling into an enforcement trap,https://technext24.com/reviews/ncc-ban-unapproved-phones-enforcement-trap/
+access,Oct 27,AI Magazine,OpenAI's GPT-6.1 Terra cuts token prices 50% to $1 input / $5 output per million,https://aimagazine.com/news/how-openais-gpt-6-1-terra-is-much-faster-and-50-cheaper
+access,Oct 27,Ghanaian Times,M-KOPA urges Ghana to zero-rate locally assembled smartphones,https://ghanaiantimes.com.gh/m-kopa-urges-govt-to-zero-rate-locally-manufactured-smartphones-to-boost-production/
+access,Oct 27,arXiv,Aligning large language models for safety in African languages: a case study of Hausa,http://arxiv.org/abs/2610.37245v1
 access,Oct 26,Basic Tutorials,Kimi K3.1 Pro: Moonshot's new AI model at a competitive price,https://basic-tutorials.com/news/kimi-k3-1-pro-moonshots-new-ai-model-at-a-competitive-price/
 access,Oct 26,Rest of World,The tokenizer tax: why non-English AI users pay more for tokens,https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/
 access,Oct 26,TechCabal,The brutal financial reality behind government AI adoption in Africa,https://techcabal.com/2026/10/26/government-ai-adoption-in-africa/
@@ -462,6 +467,7 @@ access,May 26,"David Oks, Substack",AI Is Killing the Cheap Smartphone,https://d
 access,Apr 15,Japan Times / AFP,AI-driven chip shortage slowing efforts to get world online: GSMA,https://www.thejapantimes.jp/Technology/658420-ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma.html
 access,Feb 26,Techpoint Africa,AI Chip Demand — Smartphone Prices in Nigeria,https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/
 infra,Oct 27,Engineering News,Study shows African countries competitive for data centre construction,https://www.engineeringnews.co.za/article/study-shows-african-countries-competitive-for-data-centre-construction-2026-10-27
+infra,Oct 27,Geeky Nigeria,Nigeria to receive $1 billion for two AI-focused data centres under INFRAGORA's AFRIDATA platform,https://geeky.com.ng/2026/10/27/investment-in-ai-focused-data-nigeria-to-receive-1-billion/
 infra,Oct 26,ITWeb,Fear of foreign shutdowns drives local cloud demand,https://www.itweb.co.za/article/fear-of-foreign-shutdowns-drives-local-cloud-demand/G98YdMLGAL87X2PD
 infra,Oct 26,ITWeb,The data centre inquiry is really a test of King V,https://www.itweb.co.za/article/the-data-centre-inquiry-is-really-a-test-of-king-v/LPp6V7rBraj7DKQz
 infra,Oct 26,Data Centre Dynamics,"AWS capacity 'largely' sold out in 2027, Amazon CEO claims",https://www.datacenterdynamics.com/en/news/aws-capacity-largely-sold-out-in-2027-amazon-ceo-claims/
