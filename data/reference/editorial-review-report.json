@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-27",
- "count": 839,
+ "generated_at": "2026-10-28",
+ "count": 845,
  "source_checked": 78,
  "flag_counts": {
-  "african_relevance_not_recorded": 330,
-  "source_review_outstanding": 761,
+  "african_relevance_not_recorded": 331,
+  "source_review_outstanding": 767,
   "topic_needs_review": 56
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
@@ -17,6 +17,16 @@
    "suggested_topic": "Employment and outsourcing",
    "country": "",
    "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "KPMG Africa CEO Outlook: only 14% of African CEOs say their firms keep pace with AI",
+   "url": "https://techafricanews.com/2026/10/26/kpmg-africa-ceos-growth-ai-readiness/",
+   "pillar": "jobs",
+   "current_topic": "Employment and outsourcing",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "",
+   "flags": "source_review_outstanding",
    "source_checked": false
   },
   {
@@ -156,6 +166,16 @@
    "current_topic": "Skills and talent",
    "suggested_topic": "Skills and talent",
    "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Nigeria faces job-loss risks as AI reshapes global telecoms",
+   "url": "https://thesun.ng/nigeria-faces-job-loss-risks-as-ai-reshapes-global-telecoms/",
+   "pillar": "jobs",
+   "current_topic": "Safety and governance of AI",
+   "suggested_topic": "Safety and governance of AI",
+   "country": "NGA",
    "flags": "source_review_outstanding",
    "source_checked": false
   },
@@ -2167,6 +2187,36 @@
    "suggested_topic": "Devices and hardware",
    "country": "",
    "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "OpenAI's GPT-6.1 Terra cuts token prices 50% to $1 input / $5 output per million",
+   "url": "https://aimagazine.com/news/how-openais-gpt-6-1-terra-is-much-faster-and-50-cheaper",
+   "pillar": "access",
+   "current_topic": "Pricing and affordability",
+   "suggested_topic": "Pricing and affordability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "M-KOPA urges Ghana to zero-rate locally assembled smartphones",
+   "url": "https://ghanaiantimes.com.gh/m-kopa-urges-govt-to-zero-rate-locally-manufactured-smartphones-to-boost-production/",
+   "pillar": "access",
+   "current_topic": "Devices and hardware",
+   "suggested_topic": "Devices and hardware",
+   "country": "GHA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Aligning large language models for safety in African languages: a case study of Hausa",
+   "url": "http://arxiv.org/abs/2610.37245v1",
+   "pillar": "access",
+   "current_topic": "Models and capability",
+   "suggested_topic": "Models and capability",
+   "country": "",
+   "flags": "source_review_outstanding",
    "source_checked": false
   },
   {
@@ -5136,6 +5186,16 @@
    "current_topic": "Data centres and compute",
    "suggested_topic": "Data centres and compute",
    "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Nigeria to receive $1 billion for two AI-focused data centres under INFRAGORA's AFRIDATA platform",
+   "url": "https://geeky.com.ng/2026/10/27/investment-in-ai-focused-data-nigeria-to-receive-1-billion/",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "NGA",
    "flags": "source_review_outstanding",
    "source_checked": false
   },
