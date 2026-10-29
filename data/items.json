@@ -1,10 +1,31 @@
 {
- "updated": "2026-10-28",
+ "updated": "2026-10-29",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "Kenya courts German customer service firms to expand BPO investment and jobs",
+     "u": "https://techafricanews.com/2026/10/29/kenya-bpo-investment-german-customer-service-firms/",
+     "s": "TechAfrica News",
+     "d": "Oct 29",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Aboyeji's Talent Nation bets on a million African AI engineers to supply global AI demand",
+     "u": "https://www.semafor.com/article/10/28/2026/nigerian-serial-tech-founder-launches-ai-startup",
+     "s": "Semafor",
+     "d": "Oct 28",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Talent pipelines versus compute limits: inside Rwanda's AI skills agreement with AISCA",
+     "u": "https://techafricanews.com/2026/10/28/talent-pipelines-versus-compute-limits-inside-rwandas-ai-skills-agreement/",
+     "s": "TechAfrica News",
+     "d": "Oct 28",
+     "dot": "dot-jobs"
+    },
     {
      "t": "AI could displace 1 in 11 workers, mostly in recessions: Goldman Sachs",
      "u": "https://news.outsourceaccelerator.com/goldman-sachs-ai-worker-displacement/",
@@ -1403,6 +1424,20 @@
   "access": {
    "label": "Access & Pricing",
    "items": [
+    {
+     "t": "MTN warns memory costs push entry smartphones from $30-50 to $80-100 as Africa shipments fall 27%",
+     "u": "https://bizwatchnigeria.ng/mtn-chief-warns-rising-smartphone-prices-could-slow-africas-digital-inclusion/",
+     "s": "BizWatch Nigeria",
+     "d": "Oct 28",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Africa AI X-Prize launches $10M purse aimed at cutting inference costs 50-100x",
+     "u": "https://africaaixprize.org/",
+     "s": "Nduzi Foundation",
+     "d": "Oct 28",
+     "dot": "dot-price"
+    },
     {
      "t": "Cassava Technologies becomes authorised reseller of Anthropic's Claude AI in Africa",
      "u": "https://techafricanews.com/2026/10/27/cassava-technologies-claude-ai-reseller-africa/",
@@ -3284,6 +3319,27 @@
   "infra": {
    "label": "Infrastructure",
    "items": [
+    {
+     "t": "NITDA and CBN partner to advance Nigeria's digital sovereignty and data localisation",
+     "u": "https://techafricanews.com/2026/10/29/nitda-cbn-partner-nigeria-digital-sovereignty/",
+     "s": "TechAfrica News",
+     "d": "Oct 29",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "SA and Kenya top technology investment destinations as data centre spend climbs",
+     "u": "https://www.businessday.co.za/companies/2026-10-29-sa-and-kenya-are-tops-for-technology-investors-in-africa/",
+     "s": "Business Day",
+     "d": "Oct 29",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "AFRIDATA signs $1.87m USTDA grant for $650m-$1bn Nigeria data centre project",
+     "u": "https://businessday.ng/technology/article/afridata-us-agency-sign-1-87m-grant-deal-for-nigeria-data-centre-project/",
+     "s": "BusinessDay",
+     "d": "Oct 28",
+     "dot": "dot-infra"
+    },
     {
      "t": "Study shows African countries competitive for data centre construction",
      "u": "https://www.engineeringnews.co.za/article/study-shows-african-countries-competitive-for-data-centre-construction-2026-10-27",
