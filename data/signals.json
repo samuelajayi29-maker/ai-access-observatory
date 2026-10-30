@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "schema": 1,
  "buckets": {
   "jobs": {
@@ -9,6 +9,13 @@
      "t": "Kenya courts German customer service firms to expand BPO investment and jobs",
      "u": "https://techafricanews.com/2026/10/29/kenya-bpo-investment-german-customer-service-firms/",
      "s": "TechAfrica News",
+     "d": "Oct 29",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "NMG Summit: AI will not kill your job, but someone using it might, leaders told",
+     "u": "https://nation.africa/kenya/news/nmg-summit-ai-will-not-kill-your-job-but-someone-using-it-might-leaders-told-5650176",
+     "s": "Daily Nation",
      "d": "Oct 29",
      "dot": "dot-jobs"
     },
@@ -1894,6 +1901,27 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "Enzi's Oji Udezue says Africa needs cheaper AI",
+     "u": "https://techcabal.com/2026/10/30/enzi-oji-udezue-cheaper-ai-africa/",
+     "s": "TechCabal",
+     "d": "Oct 30",
+     "dot": "dot-access"
+    },
+    {
+     "t": "AI Made in Africa: voices from AI businesses across Africa (GIZ survey, 65% cite cloud and compute as top cost)",
+     "u": "https://www.briter.co/insights/reports/ai-made-in-africa-voices-from-ai-businesses-across-africa",
+     "s": "Briter",
+     "d": "Oct 29",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Red-teaming large language models in low-resource African languages: a case study of Yoruba and Nigerian Pidgin",
+     "u": "https://arxiv.org/abs/2610.39590",
+     "s": "arXiv",
+     "d": "Oct 29",
+     "dot": "dot-arxiv"
+    },
+    {
      "t": "MTN warns memory costs push entry smartphones from $30-50 to $80-100 as Africa shipments fall 27%",
      "u": "https://bizwatchnigeria.ng/mtn-chief-warns-rising-smartphone-prices-could-slow-africas-digital-inclusion/",
      "s": "BizWatch Nigeria",
@@ -1906,6 +1934,13 @@
      "s": "Nduzi Foundation",
      "d": "Oct 28",
      "dot": "dot-price"
+    },
+    {
+     "t": "Dollar cloud bills squeeze African AI startups as customers resist higher prices",
+     "u": "https://businessday.ng/technology/article/dollar-cloud-bills-squeeze-african-ai-startups-as-customers-resist-higher-prices/",
+     "s": "BusinessDay NG",
+     "d": "Oct 28",
+     "dot": "dot-access"
     },
     {
      "t": "Cassava Technologies becomes authorised reseller of Anthropic's Claude AI in Africa",
@@ -4690,6 +4725,13 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "From digital strategies to delivery: AU ministers call for increased investment and faster implementation",
+     "u": "https://au.int/en/pressreleases/20261030/digital-strategies-delivery-au-ministers-call-increased-investment",
+     "s": "African Union",
+     "d": "Oct 30",
+     "dot": "dot-infra"
+    },
+    {
      "t": "NITDA and CBN partner to advance Nigeria's digital sovereignty and data localisation",
      "u": "https://techafricanews.com/2026/10/29/nitda-cbn-partner-nigeria-digital-sovereignty/",
      "s": "TechAfrica News",
@@ -4700,6 +4742,20 @@
      "t": "SA and Kenya top technology investment destinations as data centre spend climbs",
      "u": "https://www.businessday.co.za/companies/2026-10-29-sa-and-kenya-are-tops-for-technology-investors-in-africa/",
      "s": "Business Day",
+     "d": "Oct 29",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "MTN plans large data centre in Nigeria to meet sovereign needs, Mupita says",
+     "u": "https://www.newsngr.com/mtn-plans-large-data-centre-in-nigeria/",
+     "s": "NewsNGR",
+     "d": "Oct 29",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Africa must help shape AI revolution, President Mahama tells Russia-Africa summit",
+     "u": "https://gna.org.gh/2026/10/africa-must-help-shape-ai-revolution-transformation-president-mahama/",
+     "s": "Ghana News Agency",
      "d": "Oct 29",
      "dot": "dot-infra"
     },
@@ -4721,6 +4777,13 @@
      "t": "Nigeria to receive $1 billion for two AI-focused data centres under INFRAGORA's AFRIDATA platform",
      "u": "https://geeky.com.ng/2026/10/27/investment-in-ai-focused-data-nigeria-to-receive-1-billion/",
      "s": "Geeky Nigeria",
+     "d": "Oct 27",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "MTN Group to build 150 MW AI-enabled data centres in Africa via Africa Data Hub Holding",
+     "u": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/mtn-group-to-build-150-mw-ai-enabled-data-centers-in-africa/135223454",
+     "s": "ETDatacenters",
      "d": "Oct 27",
      "dot": "dot-infra"
     },
@@ -7135,7 +7198,7 @@
    ]
   }
  },
- "tracker_updated": "2026-10-29",
+ "tracker_updated": "2026-10-30",
  "backfill_updated": "2026-10-22",
  "scope": "Combined signal feed: tracker plus reviewed historical additions. Signals are not verified numerical observations."
 }

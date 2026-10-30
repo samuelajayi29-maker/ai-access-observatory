@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-29",
- "count": 853,
+ "generated_at": "2026-10-30",
+ "count": 862,
  "source_checked": 78,
  "flag_counts": {
-  "source_review_outstanding": 775,
-  "african_relevance_not_recorded": 331,
+  "source_review_outstanding": 784,
+  "african_relevance_not_recorded": 333,
   "topic_needs_review": 56
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
@@ -17,6 +17,16 @@
    "suggested_topic": "Investment and funding",
    "country": "KEN",
    "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "NMG Summit: AI will not kill your job, but someone using it might, leaders told",
+   "url": "https://nation.africa/kenya/news/nmg-summit-ai-will-not-kill-your-job-but-someone-using-it-might-leaders-told-5650176",
+   "pillar": "jobs",
+   "current_topic": "Policy and regulation",
+   "suggested_topic": "Policy and regulation",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
    "source_checked": false
   },
   {
@@ -2190,6 +2200,36 @@
    "source_checked": true
   },
   {
+   "headline": "Enzi's Oji Udezue says Africa needs cheaper AI",
+   "url": "https://techcabal.com/2026/10/30/enzi-oji-udezue-cheaper-ai-africa/",
+   "pillar": "access",
+   "current_topic": "Pricing and affordability",
+   "suggested_topic": "Pricing and affordability",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "AI Made in Africa: voices from AI businesses across Africa (GIZ survey, 65% cite cloud and compute as top cost)",
+   "url": "https://www.briter.co/insights/reports/ai-made-in-africa-voices-from-ai-businesses-across-africa",
+   "pillar": "access",
+   "current_topic": "Pricing and affordability",
+   "suggested_topic": "Pricing and affordability",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Red-teaming large language models in low-resource African languages: a case study of Yoruba and Nigerian Pidgin",
+   "url": "https://arxiv.org/abs/2610.39590",
+   "pillar": "access",
+   "current_topic": "Models and capability",
+   "suggested_topic": "Models and capability",
+   "country": "NGA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "MTN warns memory costs push entry smartphones from $30-50 to $80-100 as Africa shipments fall 27%",
    "url": "https://bizwatchnigeria.ng/mtn-chief-warns-rising-smartphone-prices-could-slow-africas-digital-inclusion/",
    "pillar": "access",
@@ -2202,6 +2242,16 @@
   {
    "headline": "Africa AI X-Prize launches $10M purse aimed at cutting inference costs 50-100x",
    "url": "https://africaaixprize.org/",
+   "pillar": "access",
+   "current_topic": "Pricing and affordability",
+   "suggested_topic": "Pricing and affordability",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Dollar cloud bills squeeze African AI startups as customers resist higher prices",
+   "url": "https://businessday.ng/technology/article/dollar-cloud-bills-squeeze-african-ai-startups-as-customers-resist-higher-prices/",
    "pillar": "access",
    "current_topic": "Pricing and affordability",
    "suggested_topic": "Pricing and affordability",
@@ -5230,6 +5280,16 @@
    "source_checked": true
   },
   {
+   "headline": "From digital strategies to delivery: AU ministers call for increased investment and faster implementation",
+   "url": "https://au.int/en/pressreleases/20261030/digital-strategies-delivery-au-ministers-call-increased-investment",
+   "pillar": "infra",
+   "current_topic": "Investment and funding",
+   "suggested_topic": "Investment and funding",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "NITDA and CBN partner to advance Nigeria's digital sovereignty and data localisation",
    "url": "https://techafricanews.com/2026/10/29/nitda-cbn-partner-nigeria-digital-sovereignty/",
    "pillar": "infra",
@@ -5246,6 +5306,26 @@
    "current_topic": "Investment and funding",
    "suggested_topic": "Investment and funding",
    "country": "KEN",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "MTN plans large data centre in Nigeria to meet sovereign needs, Mupita says",
+   "url": "https://www.newsngr.com/mtn-plans-large-data-centre-in-nigeria/",
+   "pillar": "infra",
+   "current_topic": "Policy and regulation",
+   "suggested_topic": "Policy and regulation",
+   "country": "NGA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Africa must help shape AI revolution, President Mahama tells Russia-Africa summit",
+   "url": "https://gna.org.gh/2026/10/africa-must-help-shape-ai-revolution-transformation-president-mahama/",
+   "pillar": "infra",
+   "current_topic": "Policy and regulation",
+   "suggested_topic": "Policy and regulation",
+   "country": "",
    "flags": "source_review_outstanding",
    "source_checked": false
   },
@@ -5276,6 +5356,16 @@
    "current_topic": "Data centres and compute",
    "suggested_topic": "Data centres and compute",
    "country": "NGA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "MTN Group to build 150 MW AI-enabled data centres in Africa via Africa Data Hub Holding",
+   "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/mtn-group-to-build-150-mw-ai-enabled-data-centers-in-africa/135223454",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "",
    "flags": "source_review_outstanding",
    "source_checked": false
   },
