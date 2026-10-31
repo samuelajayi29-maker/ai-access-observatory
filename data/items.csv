@@ -1,4 +1,6 @@
 bucket,date,source,title,url
+jobs,Oct 31,Outsource Accelerator,FCC chair praises AT&T pledge to bring customer care onshore as agency weighs cap on offshore call centres,https://news.outsourceaccelerator.com/fcc-carr-att-onshoring-customer-care/
+jobs,Oct 30,Outsource Accelerator,"Armatis opens Antananarivo centre targeting 700 staff by end-2027, combining AI with human agents",https://news.outsourceaccelerator.com/armatis-madagascar-antananarivo-center/
 jobs,Oct 29,TechAfrica News,Kenya courts German customer service firms to expand BPO investment and jobs,https://techafricanews.com/2026/10/29/kenya-bpo-investment-german-customer-service-firms/
 jobs,Oct 29,Daily Nation,"NMG Summit: AI will not kill your job, but someone using it might, leaders told",https://nation.africa/kenya/news/nmg-summit-ai-will-not-kill-your-job-but-someone-using-it-might-leaders-told-5650176
 jobs,Oct 28,Semafor,Aboyeji's Talent Nation bets on a million African AI engineers to supply global AI demand,https://www.semafor.com/article/10/28/2026/nigerian-serial-tech-founder-launches-ai-startup
@@ -203,8 +205,10 @@ jobs,Apr 25,Mastercard Foundation,40% of Tasks in Africa's Tech Outsourcing May 
 jobs,Mar 31,WeeTracker,South Africa's gig economy becomes a bargain with AI skills shortage looming,https://weetracker.com/2026/03/31/south-africa-freelance-economy-ai-talent-gap-2026/
 jobs,Dec 25,"Deric Cheng, AI Frontiers",AI Could Undermine Emerging Economies,https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies
 access,Oct 30,TechCabal,Enzi's Oji Udezue says Africa needs cheaper AI,https://techcabal.com/2026/10/30/enzi-oji-udezue-cheaper-ai-africa/
+access,Oct 30,Semafor,"Africa's AI bet is on building, not catching up: founders work around compute and capital gaps",https://www.semafor.com/article/10/30/2026/africas-ai-bet-is-on-building-not-catching-up
 access,Oct 29,Briter,"AI Made in Africa: voices from AI businesses across Africa (GIZ survey, 65% cite cloud and compute as top cost)",https://www.briter.co/insights/reports/ai-made-in-africa-voices-from-ai-businesses-across-africa
 access,Oct 29,arXiv,Red-teaming large language models in low-resource African languages: a case study of Yoruba and Nigerian Pidgin,https://arxiv.org/abs/2610.39590
+access,Oct 29,Light Reading,African smartphone shipments fall 39% in Q3 as memory costs push vendors upmarket (Omdia),https://www.lightreading.com/smartphones-devices/eurobites-african-smartphone-shipments-slump-39-in-q3
 access,Oct 28,BizWatch Nigeria,MTN warns memory costs push entry smartphones from $30-50 to $80-100 as Africa shipments fall 27%,https://bizwatchnigeria.ng/mtn-chief-warns-rising-smartphone-prices-could-slow-africas-digital-inclusion/
 access,Oct 28,Nduzi Foundation,Africa AI X-Prize launches $10M purse aimed at cutting inference costs 50-100x,https://africaaixprize.org/
 access,Oct 28,BusinessDay NG,Dollar cloud bills squeeze African AI startups as customers resist higher prices,https://businessday.ng/technology/article/dollar-cloud-bills-squeeze-african-ai-startups-as-customers-resist-higher-prices/
@@ -481,6 +485,7 @@ infra,Oct 29,TechAfrica News,NITDA and CBN partner to advance Nigeria's digital 
 infra,Oct 29,Business Day,SA and Kenya top technology investment destinations as data centre spend climbs,https://www.businessday.co.za/companies/2026-10-29-sa-and-kenya-are-tops-for-technology-investors-in-africa/
 infra,Oct 29,NewsNGR,"MTN plans large data centre in Nigeria to meet sovereign needs, Mupita says",https://www.newsngr.com/mtn-plans-large-data-centre-in-nigeria/
 infra,Oct 29,Ghana News Agency,"Africa must help shape AI revolution, President Mahama tells Russia-Africa summit",https://gna.org.gh/2026/10/africa-must-help-shape-ai-revolution-transformation-president-mahama/
+infra,Oct 29,Business Now,"Cassava's Pemhiwa: AI could have 100x mobile money's impact, but only with local data centres and power",https://businessnow.co.ke/why-ai-economic-impact-could-surpass-mobile-money-revolution/
 infra,Oct 28,BusinessDay,AFRIDATA signs $1.87m USTDA grant for $650m-$1bn Nigeria data centre project,https://businessday.ng/technology/article/afridata-us-agency-sign-1-87m-grant-deal-for-nigeria-data-centre-project/
 infra,Oct 27,Engineering News,Study shows African countries competitive for data centre construction,https://www.engineeringnews.co.za/article/study-shows-african-countries-competitive-for-data-centre-construction-2026-10-27
 infra,Oct 27,Geeky Nigeria,Nigeria to receive $1 billion for two AI-focused data centres under INFRAGORA's AFRIDATA platform,https://geeky.com.ng/2026/10/27/investment-in-ai-focused-data-nigeria-to-receive-1-billion/
