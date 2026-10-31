@@ -1,14 +1,34 @@
 {
- "generated_at": "2026-10-30",
- "count": 862,
+ "generated_at": "2026-10-31",
+ "count": 867,
  "source_checked": 78,
  "flag_counts": {
-  "source_review_outstanding": 784,
-  "african_relevance_not_recorded": 333,
+  "african_relevance_not_recorded": 335,
+  "source_review_outstanding": 789,
   "topic_needs_review": 56
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
  "rows": [
+  {
+   "headline": "FCC chair praises AT&T pledge to bring customer care onshore as agency weighs cap on offshore call centres",
+   "url": "https://news.outsourceaccelerator.com/fcc-carr-att-onshoring-customer-care/",
+   "pillar": "jobs",
+   "current_topic": "Investment and funding",
+   "suggested_topic": "Investment and funding",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Armatis opens Antananarivo centre targeting 700 staff by end-2027, combining AI with human agents",
+   "url": "https://news.outsourceaccelerator.com/armatis-madagascar-antananarivo-center/",
+   "pillar": "jobs",
+   "current_topic": "Employment and outsourcing",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
   {
    "headline": "Kenya courts German customer service firms to expand BPO investment and jobs",
    "url": "https://techafricanews.com/2026/10/29/kenya-bpo-investment-german-customer-service-firms/",
@@ -2210,6 +2230,16 @@
    "source_checked": false
   },
   {
+   "headline": "Africa's AI bet is on building, not catching up: founders work around compute and capital gaps",
+   "url": "https://www.semafor.com/article/10/30/2026/africas-ai-bet-is-on-building-not-catching-up",
+   "pillar": "access",
+   "current_topic": "Investment and funding",
+   "suggested_topic": "Investment and funding",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "AI Made in Africa: voices from AI businesses across Africa (GIZ survey, 65% cite cloud and compute as top cost)",
    "url": "https://www.briter.co/insights/reports/ai-made-in-africa-voices-from-ai-businesses-across-africa",
    "pillar": "access",
@@ -2226,6 +2256,16 @@
    "current_topic": "Models and capability",
    "suggested_topic": "Models and capability",
    "country": "NGA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "African smartphone shipments fall 39% in Q3 as memory costs push vendors upmarket (Omdia)",
+   "url": "https://www.lightreading.com/smartphones-devices/eurobites-african-smartphone-shipments-slump-39-in-q3",
+   "pillar": "access",
+   "current_topic": "Pricing and affordability",
+   "suggested_topic": "Pricing and affordability",
+   "country": "",
    "flags": "source_review_outstanding",
    "source_checked": false
   },
@@ -5325,6 +5365,16 @@
    "pillar": "infra",
    "current_topic": "Policy and regulation",
    "suggested_topic": "Policy and regulation",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Cassava's Pemhiwa: AI could have 100x mobile money's impact, but only with local data centres and power",
+   "url": "https://businessnow.co.ke/why-ai-economic-impact-could-surpass-mobile-money-revolution/",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
    "country": "",
    "flags": "source_review_outstanding",
    "source_checked": false

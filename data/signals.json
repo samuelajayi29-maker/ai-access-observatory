@@ -1,10 +1,24 @@
 {
- "updated": "2026-10-30",
+ "updated": "2026-10-31",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "FCC chair praises AT&T pledge to bring customer care onshore as agency weighs cap on offshore call centres",
+     "u": "https://news.outsourceaccelerator.com/fcc-carr-att-onshoring-customer-care/",
+     "s": "Outsource Accelerator",
+     "d": "Oct 31",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Armatis opens Antananarivo centre targeting 700 staff by end-2027, combining AI with human agents",
+     "u": "https://news.outsourceaccelerator.com/armatis-madagascar-antananarivo-center/",
+     "s": "Outsource Accelerator",
+     "d": "Oct 30",
+     "dot": "dot-jobs"
+    },
     {
      "t": "Kenya courts German customer service firms to expand BPO investment and jobs",
      "u": "https://techafricanews.com/2026/10/29/kenya-bpo-investment-german-customer-service-firms/",
@@ -1908,6 +1922,13 @@
      "dot": "dot-access"
     },
     {
+     "t": "Africa's AI bet is on building, not catching up: founders work around compute and capital gaps",
+     "u": "https://www.semafor.com/article/10/30/2026/africas-ai-bet-is-on-building-not-catching-up",
+     "s": "Semafor",
+     "d": "Oct 30",
+     "dot": "dot-access"
+    },
+    {
      "t": "AI Made in Africa: voices from AI businesses across Africa (GIZ survey, 65% cite cloud and compute as top cost)",
      "u": "https://www.briter.co/insights/reports/ai-made-in-africa-voices-from-ai-businesses-across-africa",
      "s": "Briter",
@@ -1920,6 +1941,13 @@
      "s": "arXiv",
      "d": "Oct 29",
      "dot": "dot-arxiv"
+    },
+    {
+     "t": "African smartphone shipments fall 39% in Q3 as memory costs push vendors upmarket (Omdia)",
+     "u": "https://www.lightreading.com/smartphones-devices/eurobites-african-smartphone-shipments-slump-39-in-q3",
+     "s": "Light Reading",
+     "d": "Oct 29",
+     "dot": "dot-access"
     },
     {
      "t": "MTN warns memory costs push entry smartphones from $30-50 to $80-100 as Africa shipments fall 27%",
@@ -4760,6 +4788,13 @@
      "dot": "dot-infra"
     },
     {
+     "t": "Cassava's Pemhiwa: AI could have 100x mobile money's impact, but only with local data centres and power",
+     "u": "https://businessnow.co.ke/why-ai-economic-impact-could-surpass-mobile-money-revolution/",
+     "s": "Business Now",
+     "d": "Oct 29",
+     "dot": "dot-infra"
+    },
+    {
      "t": "AFRIDATA signs $1.87m USTDA grant for $650m-$1bn Nigeria data centre project",
      "u": "https://businessday.ng/technology/article/afridata-us-agency-sign-1-87m-grant-deal-for-nigeria-data-centre-project/",
      "s": "BusinessDay",
@@ -7198,7 +7233,7 @@
    ]
   }
  },
- "tracker_updated": "2026-10-30",
+ "tracker_updated": "2026-10-31",
  "backfill_updated": "2026-10-22",
  "scope": "Combined signal feed: tracker plus reviewed historical additions. Signals are not verified numerical observations."
 }
