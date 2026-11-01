@@ -1,5 +1,7 @@
 bucket,date,source,title,url
 jobs,Oct 31,Outsource Accelerator,FCC chair praises AT&T pledge to bring customer care onshore as agency weighs cap on offshore call centres,https://news.outsourceaccelerator.com/fcc-carr-att-onshoring-customer-care/
+jobs,Oct 31,GBC Ghana,"African journalists adopt continental action plan on responsible AI, decent work and media freedom, warning AI-driven automation can cut newsroom staffing",https://www.gbcghanaonline.com/general/african-journalists-action-plan-ai/2026/
+jobs,Oct 31,KBC,"Future of Commerce Summit: East African firms say AI is reshaping hiring, CV screening and people operations",https://www.kbc.co.ke/future-of-commerce-summit-highlights-ais-growing-role-in-east-africas-hr-landscape/
 jobs,Oct 30,Outsource Accelerator,"Armatis opens Antananarivo centre targeting 700 staff by end-2027, combining AI with human agents",https://news.outsourceaccelerator.com/armatis-madagascar-antananarivo-center/
 jobs,Oct 29,TechAfrica News,Kenya courts German customer service firms to expand BPO investment and jobs,https://techafricanews.com/2026/10/29/kenya-bpo-investment-german-customer-service-firms/
 jobs,Oct 29,Daily Nation,"NMG Summit: AI will not kill your job, but someone using it might, leaders told",https://nation.africa/kenya/news/nmg-summit-ai-will-not-kill-your-job-but-someone-using-it-might-leaders-told-5650176
@@ -204,8 +206,10 @@ jobs,May 16,UN Economic Commission for Africa,AI and jobs in Africa: turning dis
 jobs,Apr 25,Mastercard Foundation,40% of Tasks in Africa's Tech Outsourcing May Be Affected by AI by 2030,https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/
 jobs,Mar 31,WeeTracker,South Africa's gig economy becomes a bargain with AI skills shortage looming,https://weetracker.com/2026/03/31/south-africa-freelance-economy-ai-talent-gap-2026/
 jobs,Dec 25,"Deric Cheng, AI Frontiers",AI Could Undermine Emerging Economies,https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies
+access,Oct 31,TechCabal,"TechCabal panel: Nigeria's AI progress will be judged by local problems solved, with affordability and access deciding who benefits",https://techcabal.com/2026/10/31/nigerias-ai-progress/
 access,Oct 30,TechCabal,Enzi's Oji Udezue says Africa needs cheaper AI,https://techcabal.com/2026/10/30/enzi-oji-udezue-cheaper-ai-africa/
 access,Oct 30,Semafor,"Africa's AI bet is on building, not catching up: founders work around compute and capital gaps",https://www.semafor.com/article/10/30/2026/africas-ai-bet-is-on-building-not-catching-up
+access,Oct 30,Android Headlines,"SanDisk locks two-thirds of 2028 flash supply to data centres, leaving phone makers to fight for leftovers as device storage costs climb",https://www.androidheadlines.com/2026/10/phone-makers-are-fighting-for-leftover-storage-as-ai-buys-up-sandisks-supply.html
 access,Oct 29,Briter,"AI Made in Africa: voices from AI businesses across Africa (GIZ survey, 65% cite cloud and compute as top cost)",https://www.briter.co/insights/reports/ai-made-in-africa-voices-from-ai-businesses-across-africa
 access,Oct 29,arXiv,Red-teaming large language models in low-resource African languages: a case study of Yoruba and Nigerian Pidgin,https://arxiv.org/abs/2610.39590
 access,Oct 29,Light Reading,African smartphone shipments fall 39% in Q3 as memory costs push vendors upmarket (Omdia),https://www.lightreading.com/smartphones-devices/eurobites-african-smartphone-shipments-slump-39-in-q3
@@ -480,6 +484,9 @@ access,May 27,Trustonic,"Deconstructing Africa's smartphone market: shipments, p
 access,May 26,"David Oks, Substack",AI Is Killing the Cheap Smartphone,https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone
 access,Apr 15,Japan Times / AFP,AI-driven chip shortage slowing efforts to get world online: GSMA,https://www.thejapantimes.jp/Technology/658420-ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma.html
 access,Feb 26,Techpoint Africa,AI Chip Demand — Smartphone Prices in Nigeria,https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/
+infra,Nov 1,SaharaWire,"Mauritius seeks World Bank expertise on an AI Act and a proposed AI Knowledge Centre for Africa, after Seoul Global AI summit",https://saharawire.com/article/mauritius-seeks-world-bank-expertise-in-artificial-intelligence-and-digital-transformation
+infra,Nov 1,The Nation,"Antler and OpenAI tell Lagos summit that energy, grid and data centre infrastructure is where African AI capital should land first",https://thenationonlineng.net/antler-openai-mull-investment-in-nigerias-energy-ai-infrastructure-sectors/
+infra,Nov 1,Government and Business Journal,"Africa Energy Bank formally established with $5bn authorised capital, framed around energy demand from AI and emerging technologies",https://govbusinessjournal.com/afreximbank-appo-formally-establish-africa-energy-bank-with-authorised-capital-of-us5-billion/
 infra,Oct 30,African Union,From digital strategies to delivery: AU ministers call for increased investment and faster implementation,https://au.int/en/pressreleases/20261030/digital-strategies-delivery-au-ministers-call-increased-investment
 infra,Oct 29,TechAfrica News,NITDA and CBN partner to advance Nigeria's digital sovereignty and data localisation,https://techafricanews.com/2026/10/29/nitda-cbn-partner-nigeria-digital-sovereignty/
 infra,Oct 29,Business Day,SA and Kenya top technology investment destinations as data centre spend climbs,https://www.businessday.co.za/companies/2026-10-29-sa-and-kenya-are-tops-for-technology-investors-in-africa/

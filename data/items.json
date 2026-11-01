@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31",
+ "updated": "2026-11-01",
  "schema": 1,
  "buckets": {
   "jobs": {
@@ -9,6 +9,20 @@
      "t": "FCC chair praises AT&T pledge to bring customer care onshore as agency weighs cap on offshore call centres",
      "u": "https://news.outsourceaccelerator.com/fcc-carr-att-onshoring-customer-care/",
      "s": "Outsource Accelerator",
+     "d": "Oct 31",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "African journalists adopt continental action plan on responsible AI, decent work and media freedom, warning AI-driven automation can cut newsroom staffing",
+     "u": "https://www.gbcghanaonline.com/general/african-journalists-action-plan-ai/2026/",
+     "s": "GBC Ghana",
+     "d": "Oct 31",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Future of Commerce Summit: East African firms say AI is reshaping hiring, CV screening and people operations",
+     "u": "https://www.kbc.co.ke/future-of-commerce-summit-highlights-ais-growing-role-in-east-africas-hr-landscape/",
+     "s": "KBC",
      "d": "Oct 31",
      "dot": "dot-jobs"
     },
@@ -1446,6 +1460,13 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "TechCabal panel: Nigeria's AI progress will be judged by local problems solved, with affordability and access deciding who benefits",
+     "u": "https://techcabal.com/2026/10/31/nigerias-ai-progress/",
+     "s": "TechCabal",
+     "d": "Oct 31",
+     "dot": "dot-access"
+    },
+    {
      "t": "Enzi's Oji Udezue says Africa needs cheaper AI",
      "u": "https://techcabal.com/2026/10/30/enzi-oji-udezue-cheaper-ai-africa/",
      "s": "TechCabal",
@@ -1456,6 +1477,13 @@
      "t": "Africa's AI bet is on building, not catching up: founders work around compute and capital gaps",
      "u": "https://www.semafor.com/article/10/30/2026/africas-ai-bet-is-on-building-not-catching-up",
      "s": "Semafor",
+     "d": "Oct 30",
+     "dot": "dot-access"
+    },
+    {
+     "t": "SanDisk locks two-thirds of 2028 flash supply to data centres, leaving phone makers to fight for leftovers as device storage costs climb",
+     "u": "https://www.androidheadlines.com/2026/10/phone-makers-are-fighting-for-leftover-storage-as-ai-buys-up-sandisks-supply.html",
+     "s": "Android Headlines",
      "d": "Oct 30",
      "dot": "dot-access"
     },
@@ -3382,6 +3410,27 @@
   "infra": {
    "label": "Infrastructure",
    "items": [
+    {
+     "t": "Mauritius seeks World Bank expertise on an AI Act and a proposed AI Knowledge Centre for Africa, after Seoul Global AI summit",
+     "u": "https://saharawire.com/article/mauritius-seeks-world-bank-expertise-in-artificial-intelligence-and-digital-transformation",
+     "s": "SaharaWire",
+     "d": "Nov 1",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Antler and OpenAI tell Lagos summit that energy, grid and data centre infrastructure is where African AI capital should land first",
+     "u": "https://thenationonlineng.net/antler-openai-mull-investment-in-nigerias-energy-ai-infrastructure-sectors/",
+     "s": "The Nation",
+     "d": "Nov 1",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Africa Energy Bank formally established with $5bn authorised capital, framed around energy demand from AI and emerging technologies",
+     "u": "https://govbusinessjournal.com/afreximbank-appo-formally-establish-africa-energy-bank-with-authorised-capital-of-us5-billion/",
+     "s": "Government and Business Journal",
+     "d": "Nov 1",
+     "dot": "dot-infra"
+    },
     {
      "t": "From digital strategies to delivery: AU ministers call for increased investment and faster implementation",
      "u": "https://au.int/en/pressreleases/20261030/digital-strategies-delivery-au-ministers-call-increased-investment",
