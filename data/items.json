@@ -1,10 +1,24 @@
 {
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "Jamaica's central bank governor tells BPO workers and founders to pivot as AI cuts the sector's need for labour, with over one million square feet of outsourcing space now on the market",
+     "u": "https://jamaica-gleaner.com/article/business/20261101/bpo-workers-and-founders-must-pivot-sector-contracts-says-boj-governor",
+     "s": "Jamaica Gleaner",
+     "d": "Nov 1",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "African film industry debates whether AI is a tool, a threat or an advantage for crews and creatives as production budgets tighten",
+     "u": "https://iafrica.com/african-film-industry-weighs-ai-as-tool-threat-or-advantage/",
+     "s": "iAfrica",
+     "d": "Nov 1",
+     "dot": "dot-jobs"
+    },
     {
      "t": "FCC chair praises AT&T pledge to bring customer care onshore as agency weighs cap on offshore call centres",
      "u": "https://news.outsourceaccelerator.com/fcc-carr-att-onshoring-customer-care/",
@@ -30,6 +44,13 @@
      "t": "Armatis opens Antananarivo centre targeting 700 staff by end-2027, combining AI with human agents",
      "u": "https://news.outsourceaccelerator.com/armatis-madagascar-antananarivo-center/",
      "s": "Outsource Accelerator",
+     "d": "Oct 30",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "African AI startups cannot hire the engineers they need, so they are running their own training pipelines to fill technical roles",
+     "u": "https://techpoint.africa/insight/african-ai-startups/",
+     "s": "Techpoint Africa",
      "d": "Oct 30",
      "dot": "dot-jobs"
     },
@@ -1459,6 +1480,13 @@
   "access": {
    "label": "Access & Pricing",
    "items": [
+    {
+     "t": "Samsung takes Africa's smartphone crown for the first time since 1995 on daily and weekly instalments, with 46% of its regional phone revenue paid in small increments through Watu and M-KOPA",
+     "u": "https://www.koreaherald.com/article/10922893",
+     "s": "The Korea Herald",
+     "d": "Nov 2",
+     "dot": "dot-access"
+    },
     {
      "t": "TechCabal panel: Nigeria's AI progress will be judged by local problems solved, with affordability and access deciding who benefits",
      "u": "https://techcabal.com/2026/10/31/nigerias-ai-progress/",
@@ -3429,6 +3457,34 @@
      "u": "https://govbusinessjournal.com/afreximbank-appo-formally-establish-africa-energy-bank-with-authorised-capital-of-us5-billion/",
      "s": "Government and Business Journal",
      "d": "Nov 1",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "East African Community ministers adopt regional AI and digital transformation strategies and approve a foundational AI module for universities across the bloc",
+     "u": "https://www.thecitizen.co.tz/tanzania/news/east-africa-news/east-african-community-ministers-approve-ai-strategy-university-technology-module-5654326",
+     "s": "The Citizen",
+     "d": "Nov 1",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Finland offers South African researchers a route to the LUMI supercomputer for AI work, but no access agreement has been signed yet",
+     "u": "https://iafrica.com/finland-offers-south-african-researchers-a-route-to-lumi-supercomputer-but-no-deal-yet/",
+     "s": "iAfrica",
+     "d": "Nov 1",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "South Africans will not see the redrafted national AI policy before March 2027, a government official says, pushing the framework past the current policy cycle",
+     "u": "https://iafrica.com/south-africans-wont-see-redrafted-ai-policy-before-march-2027-official-says/",
+     "s": "iAfrica",
+     "d": "Oct 31",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Oxide Cloud Services adds a private AI compute pod at Digital Parks Africa's Samrand data centre outside Johannesburg, targeting local inference workloads",
+     "u": "https://iafrica.com/oxide-cloud-services-adds-private-ai-pod-at-digital-parks-africas-samrand-data-centre/",
+     "s": "iAfrica",
+     "d": "Oct 31",
      "dot": "dot-infra"
     },
     {
