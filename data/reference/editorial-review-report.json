@@ -1,14 +1,34 @@
 {
- "generated_at": "2026-11-02",
- "count": 882,
+ "generated_at": "2026-11-03",
+ "count": 890,
  "source_checked": 78,
  "flag_counts": {
-  "african_relevance_not_recorded": 337,
-  "source_review_outstanding": 804,
+  "source_review_outstanding": 812,
+  "african_relevance_not_recorded": 338,
   "topic_needs_review": 56
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
  "rows": [
+  {
+   "headline": "IITPSA panel: Southern African firms struggle to prepare workforces for AI as practical workplace experience runs short",
+   "url": "https://itweb.africa/article/southern-africas-ai-ambitions-face-reality-check/KWEBbvyLd4mqmRjO",
+   "pillar": "jobs",
+   "current_topic": "Employment and outsourcing",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Google launches Skilling Africa hub with 15+ training programmes, targeting 3 million Africans by 2030 and 250,000 graduates by end-2026",
+   "url": "https://blog.google/intl/en-africa/unlocking-africas-ai-potential-introducing-skilling-africa-with-google/",
+   "pillar": "jobs",
+   "current_topic": "Skills and talent",
+   "suggested_topic": "Skills and talent",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
   {
    "headline": "Jamaica's central bank governor tells BPO workers and founders to pivot as AI cuts the sector's need for labour, with over one million square feet of outsourcing space now on the market",
    "url": "https://jamaica-gleaner.com/article/business/20261101/bpo-workers-and-founders-must-pivot-sector-contracts-says-boj-governor",
@@ -56,6 +76,16 @@
    "current_topic": "Policy and regulation",
    "suggested_topic": "Policy and regulation",
    "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Punch column: the 40% outsourcing automation figure counts tasks, not jobs, but entry-level roles make up 68% of Nigeria's BPO workforce and carry the most exposure",
+   "url": "https://punchng.com/talented-nigerians-outdated-opportunities/",
+   "pillar": "jobs",
+   "current_topic": "Employment and outsourcing",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "NGA",
    "flags": "source_review_outstanding",
    "source_checked": false
   },
@@ -2277,6 +2307,26 @@
    "suggested_topic": "Devices and hardware",
    "country": "",
    "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Transsion revenue falls 27% in Q3 as memory costs bite, with Africa smartphone shipments down 39%, the steepest drop of any region",
+   "url": "https://tech-ish.com/2026/11/02/tecno-and-infinixs-parent-transsion-saw-third-quarter-revenue-fall-27-as-memory-costs-rose/",
+   "pillar": "access",
+   "current_topic": "Pricing and affordability",
+   "suggested_topic": "Pricing and affordability",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "The SIMPLE Law for Energy Cost of LLM Inference: analytical model shows each token's energy cost rises non-linearly along a sequence as the KV-cache grows",
+   "url": "https://arxiv.org/abs/2611.03330",
+   "pillar": "access",
+   "current_topic": "Policy and regulation",
+   "suggested_topic": "Policy and regulation",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
    "source_checked": false
   },
   {
@@ -5398,6 +5448,36 @@
    "country": "TUN",
    "flags": "topic_needs_review",
    "source_checked": true
+  },
+  {
+   "headline": "AFC chief Samaila Zubairu tells AFIS 2026 that AI cannot formalise Africa's informal economy without power, transport and warehousing, calling AI a threat to labour markets that cannot work in isolation",
+   "url": "https://techcabal.com/2026/11/03/samaila-zubairu-on-ai-for-africa/",
+   "pillar": "infra",
+   "current_topic": "Energy and power",
+   "suggested_topic": "Energy and power",
+   "country": "MLI",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Alibaba Cloud runs Dakar 2026 Youth Olympic Games on a private cloud it will hand to Senegal as a national platform, with Qwen models opened to local developers afterwards",
+   "url": "https://www.media-outreach.com/news/senegal/2026/11/02/498654/alibaba-brings-cloud-and-ai-to-the-first-youth-olympic-games-in-africa/",
+   "pillar": "infra",
+   "current_topic": "Models and capability",
+   "suggested_topic": "Models and capability",
+   "country": "SEN",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Eswatini Standards Authority and AICE Africa launch an AI Safety and Standards Centre of Excellence, with a proposed testing lab and an African AI Standards Baseline Report",
+   "url": "https://africa.com/apo/eswatini-standards-authority-and-aice-africa-launch-ai-safety-and-standards-center-of-excellence",
+   "pillar": "infra",
+   "current_topic": "Safety and governance of AI",
+   "suggested_topic": "Safety and governance of AI",
+   "country": "SWZ",
+   "flags": "source_review_outstanding",
+   "source_checked": false
   },
   {
    "headline": "Mauritius seeks World Bank expertise on an AI Act and a proposed AI Knowledge Centre for Africa, after Seoul Global AI summit",

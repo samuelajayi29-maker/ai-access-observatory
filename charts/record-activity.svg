@@ -1,42 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 380" width="820" height="380" role="img" aria-label="Signals added to the record by month and series: Jul 102, Aug 114, Sep 251, Oct 329, Nov 8. This measures the monitoring layer, not the market.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 380" width="820" height="380" role="img" aria-label="Signals added to the record by month and series: Jul 102, Aug 114, Sep 251, Oct 330, Nov 15. This measures the monitoring layer, not the market.">
 <defs><pattern id="status-proposal" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 6L6 0" stroke="#756342" stroke-width="1" /></pattern></defs><rect width="820" height="380" fill="#fbfaf8" />
 <text x="28" y="38" font-family="'Source Serif 4',Georgia,serif" font-size="21" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Signals added to the record, by month</text>
 <text x="28" y="60.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Stories recorded per series, by the month the source dated them. This is the monitoring layer's own output, not a</text>
 <text x="28" y="76.5" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">measure of the market: source dates carry no year, so a stray month is a dating artefact, not activity.</text>
 <rect x="97.4" y="272.6" width="89.3" height="11.4" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
-<rect x="97.4" y="252.0" width="89.3" height="20.6" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
-<text x="142.0" y="266.3" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#fbfaf8" style="font-variant-numeric:tabular-nums lining-nums">Access 36</text>
-<rect x="97.4" y="225.7" width="89.3" height="26.3" fill="#1a5f4a" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
-<text x="142.0" y="242.9" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#fbfaf8" style="font-variant-numeric:tabular-nums lining-nums">Infra 46</text>
-<text x="142.0" y="219.7" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">102</text>
+<rect x="97.4" y="252.1" width="89.3" height="20.5" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
+<text x="142.0" y="266.4" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#fbfaf8" style="font-variant-numeric:tabular-nums lining-nums">Access 36</text>
+<rect x="97.4" y="225.9" width="89.3" height="26.2" fill="#1a5f4a" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
+<text x="142.0" y="243.0" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#fbfaf8" style="font-variant-numeric:tabular-nums lining-nums">Infra 46</text>
+<text x="142.0" y="219.9" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">102</text>
 <text x="142.0" y="304" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Jul</text>
-<rect x="241.4" y="269.1" width="89.3" height="14.9" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
-<rect x="241.4" y="245.1" width="89.3" height="24.0" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
-<text x="286.0" y="261.1" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#fbfaf8" style="font-variant-numeric:tabular-nums lining-nums">Access 42</text>
-<rect x="241.4" y="218.9" width="89.3" height="26.3" fill="#1a5f4a" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
-<text x="286.0" y="236.0" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#fbfaf8" style="font-variant-numeric:tabular-nums lining-nums">Infra 46</text>
-<text x="286.0" y="212.9" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">114</text>
+<rect x="241.4" y="269.2" width="89.3" height="14.8" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
+<rect x="241.4" y="245.3" width="89.3" height="23.9" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
+<text x="286.0" y="261.2" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#fbfaf8" style="font-variant-numeric:tabular-nums lining-nums">Access 42</text>
+<rect x="241.4" y="219.1" width="89.3" height="26.2" fill="#1a5f4a" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
+<text x="286.0" y="236.2" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#fbfaf8" style="font-variant-numeric:tabular-nums lining-nums">Infra 46</text>
+<text x="286.0" y="213.1" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">114</text>
 <text x="286.0" y="304" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Aug</text>
-<rect x="385.4" y="245.7" width="89.3" height="38.3" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
+<rect x="385.4" y="245.8" width="89.3" height="38.2" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
 <text x="430.0" y="268.9" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#fbfaf8" style="font-variant-numeric:tabular-nums lining-nums">Jobs 67</text>
-<rect x="385.4" y="205.1" width="89.3" height="40.6" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
-<text x="430.0" y="229.4" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#fbfaf8" style="font-variant-numeric:tabular-nums lining-nums">Access 71</text>
-<rect x="385.4" y="140.6" width="89.3" height="64.6" fill="#1a5f4a" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
-<text x="430.0" y="176.9" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#fbfaf8" style="font-variant-numeric:tabular-nums lining-nums">Infra 113</text>
-<text x="430.0" y="134.6" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">251</text>
+<rect x="385.4" y="205.4" width="89.3" height="40.4" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
+<text x="430.0" y="229.6" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#fbfaf8" style="font-variant-numeric:tabular-nums lining-nums">Access 71</text>
+<rect x="385.4" y="141.0" width="89.3" height="64.4" fill="#1a5f4a" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
+<text x="430.0" y="177.2" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#fbfaf8" style="font-variant-numeric:tabular-nums lining-nums">Infra 113</text>
+<text x="430.0" y="135.0" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">251</text>
 <text x="430.0" y="304" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Sep</text>
-<rect x="529.4" y="233.1" width="89.3" height="50.9" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
-<text x="574.0" y="262.6" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#fbfaf8" style="font-variant-numeric:tabular-nums lining-nums">Jobs 89</text>
-<rect x="529.4" y="162.9" width="89.3" height="70.3" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
-<text x="574.0" y="202.0" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#fbfaf8" style="font-variant-numeric:tabular-nums lining-nums">Access 123</text>
-<rect x="529.4" y="96.0" width="89.3" height="66.9" fill="#1a5f4a" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
-<text x="574.0" y="133.4" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#fbfaf8" style="font-variant-numeric:tabular-nums lining-nums">Infra 117</text>
-<text x="574.0" y="90.0" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">329</text>
+<rect x="529.4" y="232.7" width="89.3" height="51.3" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
+<text x="574.0" y="262.4" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#fbfaf8" style="font-variant-numeric:tabular-nums lining-nums">Jobs 90</text>
+<rect x="529.4" y="162.7" width="89.3" height="70.1" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
+<text x="574.0" y="201.7" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#fbfaf8" style="font-variant-numeric:tabular-nums lining-nums">Access 123</text>
+<rect x="529.4" y="96.0" width="89.3" height="66.7" fill="#1a5f4a" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
+<text x="574.0" y="133.3" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#fbfaf8" style="font-variant-numeric:tabular-nums lining-nums">Infra 117</text>
+<text x="574.0" y="90.0" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">330</text>
 <text x="574.0" y="304" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Oct</text>
-<rect x="673.4" y="282.9" width="89.3" height="1.1" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
-<rect x="673.4" y="282.3" width="89.3" height="0.6" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
-<rect x="673.4" y="279.4" width="89.3" height="2.9" fill="#1a5f4a" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
-<text x="718.0" y="273.4" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">8</text>
+<rect x="673.4" y="281.7" width="89.3" height="2.3" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
+<rect x="673.4" y="280.0" width="89.3" height="1.7" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
+<rect x="673.4" y="275.5" width="89.3" height="4.6" fill="#1a5f4a" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
+<text x="718.0" y="269.5" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">15</text>
 <text x="718.0" y="304" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Nov</text>
 <line x1="70" y1="284" x2="790" y2="284" stroke="#ddd8d0" />
 <rect x="70" y="334" width="11" height="11" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
@@ -46,5 +46,5 @@
 <rect x="290" y="334" width="11" height="11" fill="#1a5f4a" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
 <text x="307" y="344" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Infrastructure</text>
 <line x1="28" y1="334" x2="792" y2="334" stroke="#ddd8d0" />
-<text x="28" y="353" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Chart: InferenceAfrica · CC BY 4.0 · compiled 2026-11-02</text>
+<text x="28" y="353" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Chart: InferenceAfrica · CC BY 4.0 · compiled 2026-11-03</text>
 </svg>

@@ -1,10 +1,24 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "IITPSA panel: Southern African firms struggle to prepare workforces for AI as practical workplace experience runs short",
+     "u": "https://itweb.africa/article/southern-africas-ai-ambitions-face-reality-check/KWEBbvyLd4mqmRjO",
+     "s": "ITWeb Africa",
+     "d": "Nov 3",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Google launches Skilling Africa hub with 15+ training programmes, targeting 3 million Africans by 2030 and 250,000 graduates by end-2026",
+     "u": "https://blog.google/intl/en-africa/unlocking-africas-ai-potential-introducing-skilling-africa-with-google/",
+     "s": "Google Africa Blog",
+     "d": "Nov 2",
+     "dot": "dot-jobs"
+    },
     {
      "t": "Jamaica's central bank governor tells BPO workers and founders to pivot as AI cuts the sector's need for labour, with over one million square feet of outsourcing space now on the market",
      "u": "https://jamaica-gleaner.com/article/business/20261101/bpo-workers-and-founders-must-pivot-sector-contracts-says-boj-governor",
@@ -37,6 +51,13 @@
      "t": "Future of Commerce Summit: East African firms say AI is reshaping hiring, CV screening and people operations",
      "u": "https://www.kbc.co.ke/future-of-commerce-summit-highlights-ais-growing-role-in-east-africas-hr-landscape/",
      "s": "KBC",
+     "d": "Oct 31",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Punch column: the 40% outsourcing automation figure counts tasks, not jobs, but entry-level roles make up 68% of Nigeria's BPO workforce and carry the most exposure",
+     "u": "https://punchng.com/talented-nigerians-outdated-opportunities/",
+     "s": "Punch",
      "d": "Oct 31",
      "dot": "dot-jobs"
     },
@@ -1955,6 +1976,20 @@
      "s": "The Korea Herald",
      "d": "Nov 2",
      "dot": "dot-access"
+    },
+    {
+     "t": "Transsion revenue falls 27% in Q3 as memory costs bite, with Africa smartphone shipments down 39%, the steepest drop of any region",
+     "u": "https://tech-ish.com/2026/11/02/tecno-and-infinixs-parent-transsion-saw-third-quarter-revenue-fall-27-as-memory-costs-rose/",
+     "s": "tech-ish",
+     "d": "Nov 2",
+     "dot": "dot-price"
+    },
+    {
+     "t": "The SIMPLE Law for Energy Cost of LLM Inference: analytical model shows each token's energy cost rises non-linearly along a sequence as the KV-cache grows",
+     "u": "https://arxiv.org/abs/2611.03330",
+     "s": "arXiv",
+     "d": "Nov 2",
+     "dot": "dot-arxiv"
     },
     {
      "t": "TechCabal panel: Nigeria's AI progress will be judged by local problems solved, with affordability and access deciding who benefits",
@@ -4809,6 +4844,27 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "AFC chief Samaila Zubairu tells AFIS 2026 that AI cannot formalise Africa's informal economy without power, transport and warehousing, calling AI a threat to labour markets that cannot work in isolation",
+     "u": "https://techcabal.com/2026/11/03/samaila-zubairu-on-ai-for-africa/",
+     "s": "TechCabal",
+     "d": "Nov 3",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Alibaba Cloud runs Dakar 2026 Youth Olympic Games on a private cloud it will hand to Senegal as a national platform, with Qwen models opened to local developers afterwards",
+     "u": "https://www.media-outreach.com/news/senegal/2026/11/02/498654/alibaba-brings-cloud-and-ai-to-the-first-youth-olympic-games-in-africa/",
+     "s": "Media OutReach",
+     "d": "Nov 2",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Eswatini Standards Authority and AICE Africa launch an AI Safety and Standards Centre of Excellence, with a proposed testing lab and an African AI Standards Baseline Report",
+     "u": "https://africa.com/apo/eswatini-standards-authority-and-aice-africa-launch-ai-safety-and-standards-center-of-excellence",
+     "s": "APO Group",
+     "d": "Nov 2",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Mauritius seeks World Bank expertise on an AI Act and a proposed AI Knowledge Centre for Africa, after Seoul Global AI summit",
      "u": "https://saharawire.com/article/mauritius-seeks-world-bank-expertise-in-artificial-intelligence-and-digital-transformation",
      "s": "SaharaWire",
@@ -7338,7 +7394,7 @@
    ]
   }
  },
- "tracker_updated": "2026-11-02",
+ "tracker_updated": "2026-11-03",
  "backfill_updated": "2026-10-22",
  "scope": "Combined signal feed: tracker plus reviewed historical additions. Signals are not verified numerical observations."
 }
