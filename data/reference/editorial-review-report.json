@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-03",
- "count": 890,
+ "generated_at": "2026-11-04",
+ "count": 895,
  "source_checked": 78,
  "flag_counts": {
-  "source_review_outstanding": 812,
-  "african_relevance_not_recorded": 338,
+  "source_review_outstanding": 817,
+  "african_relevance_not_recorded": 339,
   "topic_needs_review": 56
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
@@ -27,6 +27,16 @@
    "suggested_topic": "Skills and talent",
    "country": "",
    "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Upwork Q3 revenue falls 8% as low-value freelance work rolls off the marketplace",
+   "url": "https://markets.businessinsider.com/news/stocks/upwork-reports-third-quarter-2026-financial-results-1036702796?op=1",
+   "pillar": "jobs",
+   "current_topic": "Employment and outsourcing",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
    "source_checked": false
   },
   {
@@ -2298,6 +2308,16 @@
    "country": "UGA",
    "flags": "topic_needs_review",
    "source_checked": true
+  },
+  {
+   "headline": "Mogo, ZTE offer Kenyans smartphones from KES 100 deposit",
+   "url": "https://techtrendske.co.ke/2026/11/04/mogo-zte-offer-kenyans-smartphones-from-kes100-deposit/",
+   "pillar": "access",
+   "current_topic": "Devices and hardware",
+   "suggested_topic": "Devices and hardware",
+   "country": "KEN",
+   "flags": "source_review_outstanding",
+   "source_checked": false
   },
   {
    "headline": "Samsung takes Africa's smartphone crown for the first time since 1995 on daily and weekly instalments, with 46% of its regional phone revenue paid in small increments through Watu and M-KOPA",
@@ -5450,12 +5470,42 @@
    "source_checked": true
   },
   {
+   "headline": "Africa's Data Centers: Plugged Into Progress",
+   "url": "https://www.forbesafrica.com/focus/2026/11/04/africas-data-centers-plugged-into-progress",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Senegal engages Alibaba Group on cloud infrastructure and digital transformation",
+   "url": "https://techafricanews.com/2026/11/04/senegal-alibaba-group-cloud-infrastructure-digital-transformation/",
+   "pillar": "infra",
+   "current_topic": "Infrastructure and compute",
+   "suggested_topic": "Infrastructure and compute",
+   "country": "SEN",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "AFC chief Samaila Zubairu tells AFIS 2026 that AI cannot formalise Africa's informal economy without power, transport and warehousing, calling AI a threat to labour markets that cannot work in isolation",
    "url": "https://techcabal.com/2026/11/03/samaila-zubairu-on-ai-for-africa/",
    "pillar": "infra",
    "current_topic": "Energy and power",
    "suggested_topic": "Energy and power",
    "country": "MLI",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Wingu Africa wins Uptime Tier III design certification for Tanzania Phase 2 data centre",
+   "url": "https://www.wingu.africa/latest-news/wingu-africa-achieves-uptime-institute-tier-iii-certification-of-design-documents-for-tanzania-phase-2-data-centre",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "TZA",
    "flags": "source_review_outstanding",
    "source_checked": false
   },
