@@ -1,10 +1,24 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "Enugu signs BPO hub deal with Humatrix targeting 100,000 jobs in five years, starting from a 750-seat centre",
+     "u": "https://news.outsourceaccelerator.com/enugu-humatrix-bpo-hub/",
+     "s": "Outsource Accelerator",
+     "d": "Nov 4",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Canva cuts 22% of staff, 1,271 roles, as AI costs and slowing growth force a restructuring",
+     "u": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
+     "s": "TechCrunch",
+     "d": "Nov 4",
+     "dot": "dot-jobs"
+    },
     {
      "t": "IITPSA panel: Southern African firms struggle to prepare workforces for AI as practical workplace experience runs short",
      "u": "https://itweb.africa/article/southern-africas-ai-ambitions-face-reality-check/KWEBbvyLd4mqmRjO",
@@ -4872,6 +4886,20 @@
      "dot": "dot-infra"
     },
     {
+     "t": "Galaxy Backbone in talks with two unnamed firms to build Nigeria's sovereign cloud under a public-private partnership",
+     "u": "https://techpoint.africa/news/galaxy-backbone-sovereign-cloud/",
+     "s": "Techpoint Africa",
+     "d": "Nov 4",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Analysis: building local data centres is necessary but does not guarantee that African traffic reaches them, as routing keeps sending data abroad",
+     "u": "https://techafricanews.com/2026/11/04/why-physical-proximity-fails-to-guarantee-local-traffic-in-african-cloud-markets/",
+     "s": "TechAfrica News",
+     "d": "Nov 4",
+     "dot": "dot-infra"
+    },
+    {
      "t": "AFC chief Samaila Zubairu tells AFIS 2026 that AI cannot formalise Africa's informal economy without power, transport and warehousing, calling AI a threat to labour markets that cannot work in isolation",
      "u": "https://techcabal.com/2026/11/03/samaila-zubairu-on-ai-for-africa/",
      "s": "TechCabal",
@@ -7429,7 +7457,7 @@
    ]
   }
  },
- "tracker_updated": "2026-11-04",
+ "tracker_updated": "2026-11-05",
  "backfill_updated": "2026-10-22",
  "scope": "Combined signal feed: tracker plus reviewed historical additions. Signals are not verified numerical observations."
 }

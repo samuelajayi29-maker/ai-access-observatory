@@ -1,14 +1,34 @@
 {
- "generated_at": "2026-11-04",
- "count": 895,
+ "generated_at": "2026-11-05",
+ "count": 899,
  "source_checked": 78,
  "flag_counts": {
-  "source_review_outstanding": 817,
-  "african_relevance_not_recorded": 339,
+  "african_relevance_not_recorded": 341,
+  "source_review_outstanding": 821,
   "topic_needs_review": 56
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
  "rows": [
+  {
+   "headline": "Enugu signs BPO hub deal with Humatrix targeting 100,000 jobs in five years, starting from a 750-seat centre",
+   "url": "https://news.outsourceaccelerator.com/enugu-humatrix-bpo-hub/",
+   "pillar": "jobs",
+   "current_topic": "Employment and outsourcing",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Canva cuts 22% of staff, 1,271 roles, as AI costs and slowing growth force a restructuring",
+   "url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
+   "pillar": "jobs",
+   "current_topic": "Pricing and affordability",
+   "suggested_topic": "Pricing and affordability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
   {
    "headline": "IITPSA panel: Southern African firms struggle to prepare workforces for AI as practical workplace experience runs short",
    "url": "https://itweb.africa/article/southern-africas-ai-ambitions-face-reality-check/KWEBbvyLd4mqmRjO",
@@ -5486,6 +5506,26 @@
    "current_topic": "Infrastructure and compute",
    "suggested_topic": "Infrastructure and compute",
    "country": "SEN",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Galaxy Backbone in talks with two unnamed firms to build Nigeria's sovereign cloud under a public-private partnership",
+   "url": "https://techpoint.africa/news/galaxy-backbone-sovereign-cloud/",
+   "pillar": "infra",
+   "current_topic": "Policy and regulation",
+   "suggested_topic": "Policy and regulation",
+   "country": "NGA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Analysis: building local data centres is necessary but does not guarantee that African traffic reaches them, as routing keeps sending data abroad",
+   "url": "https://techafricanews.com/2026/11/04/why-physical-proximity-fails-to-guarantee-local-traffic-in-african-cloud-markets/",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "",
    "flags": "source_review_outstanding",
    "source_checked": false
   },
