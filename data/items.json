@@ -1,10 +1,17 @@
 {
- "updated": "2026-11-05",
+ "updated": "2026-11-06",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "Kenya emerges as world's cheapest English-speaking jobs outsourcing hub",
+     "u": "https://www.the-star.co.ke/business/2026-11-06-kenya-emerges-as-worlds-cheapest-english-speaking-jobs-outsourcing-hub",
+     "s": "The Star Kenya",
+     "d": "Nov 6",
+     "dot": "dot-jobs"
+    },
     {
      "t": "Enugu signs BPO hub deal with Humatrix targeting 100,000 jobs in five years, starting from a 750-seat centre",
      "u": "https://news.outsourceaccelerator.com/enugu-humatrix-bpo-hub/",
@@ -1523,9 +1530,30 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "Smart appliances' ambitions in Africa face an electricity test",
+     "u": "https://techcabal.com/2026/11/05/smart-appliances-need-power-and-wi-fi/",
+     "s": "TechCabal",
+     "d": "Nov 5",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Nairobi financial hub to set up Sh65bn fund for Kenyan startups",
+     "u": "https://www.businessdailyafrica.com/bd/markets/currencies/nairobi-financial-hub-to-set-up-fund-for-kenyan-startups-5659342",
+     "s": "Business Daily Africa",
+     "d": "Nov 5",
+     "dot": "dot-access"
+    },
+    {
      "t": "Mogo, ZTE offer Kenyans smartphones from KES 100 deposit",
      "u": "https://techtrendske.co.ke/2026/11/04/mogo-zte-offer-kenyans-smartphones-from-kes100-deposit/",
      "s": "TechTrendsKE",
+     "d": "Nov 4",
+     "dot": "dot-access"
+    },
+    {
+     "t": "South Africa leads Egypt on AI funding but only because of one deal",
+     "u": "https://iafrica.com/south-africa-leads-egypt-on-ai-funding-but-only-because-of-one-deal/",
+     "s": "iAfrica",
      "d": "Nov 4",
      "dot": "dot-access"
     },
@@ -3501,6 +3529,27 @@
   "infra": {
    "label": "Infrastructure",
    "items": [
+    {
+     "t": "Adesina proposes $10bn AI fund to anchor $50bn investment drive across Africa",
+     "u": "https://businessday.ng/africa/article/former-afdb-president-adesina-proposes-10bn-ai-fund-to-anchor-50bn-investment-drive-across-africa/",
+     "s": "BusinessDay",
+     "d": "Nov 6",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Paratus Lesotho opens shop with Starlink enterprise offering",
+     "u": "https://developingtelecoms.com/telecom-technology/satellite-communications-networks/21088-paratus-lesotho-opens-shop-with-starlink-enterprise-offering.html",
+     "s": "Developing Telecoms",
+     "d": "Nov 6",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Africa's federated cloud grid could power AI and 6G",
+     "u": "https://techtrendske.co.ke/2026/11/05/africa-federated-cloud-grid-ai-6g/",
+     "s": "TechTrendsKE",
+     "d": "Nov 5",
+     "dot": "dot-infra"
+    },
     {
      "t": "Africa's Data Centers: Plugged Into Progress",
      "u": "https://www.forbesafrica.com/focus/2026/11/04/africas-data-centers-plugged-into-progress",
