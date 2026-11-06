@@ -1,9 +1,9 @@
 {
- "checked_at": "2026-11-05",
+ "checked_at": "2026-11-06",
  "status": "pass",
  "chart_pages_checked": 1,
  "chart_series_checked": 160,
- "signals_triaged": 899,
+ "signals_triaged": 906,
  "scope": "Internal agreement of canonical data, exports and embedded chart series. External verification is recorded separately in the signal review decisions.",
  "errors": []
 }
