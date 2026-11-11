@@ -1,10 +1,10 @@
 {
  "https://api-docs.deepseek.com/quick_start/pricing/": {
-  "archive_url": "https://web.archive.org/web/20260917051418/https://api-docs.deepseek.com/quick_start/pricing/",
-  "archived_at": "2026-09-17",
+  "archive_url": "https://web.archive.org/web/20261109234006/https://api-docs.deepseek.com/quick_start/pricing/",
+  "archived_at": "2026-11-09",
   "status": "live",
+  "checked_at": "2026-11-11",
   "http_status": "200",
-  "checked_at": "2026-11-02",
   "submitted": false
  },
  "https://apimaster.ai/blog/claude-opus-5-apimaster-launch-2026": {
@@ -362,12 +362,12 @@
   "submitted": false
  },
  "https://chatgpt.com/pricing/": {
-  "archive_url": "https://web.archive.org/web/20260920222650/https://chatgpt.com/pricing/",
-  "archived_at": "2026-09-20",
+  "archive_url": "https://web.archive.org/web/20261111034130/https://chatgpt.com/pricing/",
+  "archived_at": "2026-11-11",
   "status": "live",
-  "http_status": "200",
-  "checked_at": "2026-11-02",
-  "submitted": false
+  "checked_at": "2026-11-11",
+  "submitted": false,
+  "http_status": "204"
  },
  "https://claude.com/pricing": {
   "archive_url": "https://web.archive.org/web/20260922130720/https://claude.com/pricing",
@@ -479,12 +479,12 @@
   "submitted": false
  },
  "https://www.aipricing.guru/subscriptions/claude-max-20x/": {
-  "archive_url": "https://web.archive.org/web/20260916024829/https://www.aipricing.guru/subscriptions/claude-max-20x/",
-  "archived_at": "2026-09-16",
+  "archive_url": "https://web.archive.org/web/20260922221334/https://www.aipricing.guru/subscriptions/claude-max-20x/",
+  "archived_at": "2026-09-22",
   "status": "live",
-  "http_status": "200",
-  "checked_at": "2026-11-02",
-  "submitted": false
+  "checked_at": "2026-11-11",
+  "submitted": false,
+  "http_status": "200"
  },
  "https://www.anthropic.com/supported-countries": {
   "archive_url": "https://web.archive.org/web/20260919112849/https://www.anthropic.com/supported-countries",
@@ -664,12 +664,12 @@
   "submitted": true
  },
  "https://www.dailymaverick.co.za/article/2026-09-20-data-centre-deal-cape-town-forced-back-to-the-drawing-board/": {
-  "archive_url": "https://web.archive.org/web/20260926160919/https://www.dailymaverick.co.za/article/2026-09-20-data-centre-deal-cape-town-forced-back-to-the-drawing-board/",
-  "archived_at": "2026-09-26",
+  "archive_url": "https://web.archive.org/web/20261001071310/https://www.dailymaverick.co.za/article/2026-09-20-data-centre-deal-cape-town-forced-back-to-the-drawing-board/",
+  "archived_at": "2026-10-01",
   "status": "live",
-  "http_status": "200",
-  "checked_at": "2026-11-02",
-  "submitted": false
+  "checked_at": "2026-11-11",
+  "submitted": false,
+  "http_status": "200"
  },
  "https://www.idc.com/resource-center/blog/smartphone-shipments-set-for-record-16-7-drop-in-2026-as-the-memory-crisis-hits-full-force/": {
   "archive_url": "https://web.archive.org/web/20260916071417/https://www.idc.com/resource-center/blog/smartphone-shipments-set-for-record-16-7-drop-in-2026-as-the-memory-crisis-hits-full-force/",
@@ -774,5 +774,109 @@
   "http_status": "200",
   "checked_at": "2026-11-02",
   "submitted": true
+ },
+ "https://platform.claude.com/docs/en/about-claude/pricing": {
+  "archive_url": "https://web.archive.org/web/20261111034421/https://platform.claude.com/docs/en/about-claude/pricing",
+  "archived_at": "2026-11-11",
+  "status": "live",
+  "checked_at": "2026-11-11",
+  "http_status": "200",
+  "submitted": false
+ },
+ "https://platform.kimi.ai/docs/pricing/chat": {
+  "archive_url": "https://web.archive.org/web/20261110114433/https://platform.kimi.ai/docs/pricing/chat",
+  "archived_at": "2026-11-10",
+  "status": "live",
+  "checked_at": "2026-11-11",
+  "http_status": "200",
+  "submitted": false
+ },
+ "https://www.teraco.co.za/news/teraco-announces-jb7-and-a-new-r8-billion-syndicated-loan/": {
+  "archive_url": "https://web.archive.org/web/20260814234546/https://www.teraco.co.za/news/teraco-announces-jb7-and-a-new-r8-billion-syndicated-loan/",
+  "archived_at": "2026-08-14",
+  "status": "live",
+  "checked_at": "2026-11-11",
+  "http_status": "200",
+  "submitted": false
+ },
+ "https://aistudio.google.com/docs/pricing": {
+  "archive_url": "https://web.archive.org/web/20261111083048/https://aistudio.google.com/docs/pricing",
+  "archived_at": "2026-11-11",
+  "status": "live",
+  "checked_at": "2026-11-11",
+  "submitted": true,
+  "http_status": "200"
+ },
+ "https://nsia.com.ng/kasi-cloud-datacenters-commissions-west-africas-first-hyperscaleready-ai-capable-data-centre-campus-in-lagos/": {
+  "archive_url": "https://web.archive.org/web/20260607021120/https://nsia.com.ng/kasi-cloud-datacenters-commissions-west-africas-first-hyperscaleready-ai-capable-data-centre-campus-in-lagos/",
+  "archived_at": "2026-06-07",
+  "status": "live",
+  "checked_at": "2026-11-11",
+  "submitted": false,
+  "http_status": "200"
+ },
+ "https://developers.openai.com/api/docs/pricing": {
+  "archive_url": "https://web.archive.org/web/20261111090821/https://developers.openai.com/api/docs/pricing",
+  "archived_at": "2026-11-11",
+  "status": "live",
+  "checked_at": "2026-11-11",
+  "http_status": "200",
+  "submitted": false
+ },
+ "https://docs.x.ai/developers/models": {
+  "archive_url": "https://web.archive.org/web/20261111091800/https://docs.x.ai/developers/models",
+  "archived_at": "2026-11-11",
+  "status": "live",
+  "checked_at": "2026-11-11",
+  "submitted": true,
+  "http_status": "200"
+ },
+ "https://docs.x.ai/x-subscription/pricing": {
+  "archive_url": "https://web.archive.org/web/20261030102446/https://docs.x.ai/x-subscription/pricing",
+  "archived_at": "2026-10-30",
+  "status": "live",
+  "checked_at": "2026-11-11",
+  "submitted": false,
+  "http_status": "200"
+ },
+ "https://gemini.google/subscriptions/": {
+  "archive_url": "https://web.archive.org/web/20261110102043/https://gemini.google/subscriptions/",
+  "archived_at": "2026-11-10",
+  "status": "live",
+  "checked_at": "2026-11-11",
+  "submitted": false,
+  "http_status": "200"
+ },
+ "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers": {
+  "archive_url": "https://web.archive.org/web/20261109033428/https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+  "archived_at": "2026-11-09",
+  "status": "live",
+  "checked_at": "2026-11-11",
+  "submitted": false,
+  "http_status": "200"
+ },
+ "https://www.microsoft.com/en-us/microsoft-365/p/microsoft-365-pro/cfq7ttbzzcmc": {
+  "archive_url": "https://web.archive.org/web/20261028094326/https://www.microsoft.com/en-us/microsoft-365/p/microsoft-365-pro/cfq7ttbzzcmc",
+  "archived_at": "2026-10-28",
+  "status": "live",
+  "checked_at": "2026-11-11",
+  "submitted": false,
+  "http_status": "200"
+ },
+ "https://www.perplexity.ai/help-center/en/articles/11187416-which-perplexity-subscription-plan-is-right-for-you": {
+  "archive_url": "https://web.archive.org/web/20261110114453/https://www.perplexity.ai/help-center/en/articles/11187416-which-perplexity-subscription-plan-is-right-for-you",
+  "archived_at": "2026-11-10",
+  "status": "live",
+  "checked_at": "2026-11-11",
+  "submitted": false,
+  "http_status": "200"
+ },
+ "https://www.perplexity.ai/help-center/en/articles/11680686-perplexity-max": {
+  "archive_url": "https://web.archive.org/web/20261110115009/https://www.perplexity.ai/help-center/en/articles/11680686-perplexity-max",
+  "archived_at": "2026-11-10",
+  "status": "live",
+  "checked_at": "2026-11-11",
+  "submitted": false,
+  "http_status": "204"
  }
 }

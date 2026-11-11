@@ -1582,6 +1582,576 @@
    "added": [],
    "changed": [],
    "removed": []
+  },
+  {
+   "built_at": "2026-11-11",
+   "added": [
+    {
+     "register": "infrastructure",
+     "row": "KASI hyperscale campus (NSIA investment)",
+     "date": "2026-09-01"
+    },
+    {
+     "register": "model-prices",
+     "row": "GPT-6.1 Sol",
+     "date": "2026-11-11"
+    },
+    {
+     "register": "model-prices",
+     "row": "Claude Fable 5.2",
+     "date": "2026-11-11"
+    },
+    {
+     "register": "model-prices",
+     "row": "Claude Opus 5.5",
+     "date": "2026-11-11"
+    },
+    {
+     "register": "model-prices",
+     "row": "Gemini 4 Carbon",
+     "date": "2026-11-11"
+    },
+    {
+     "register": "model-prices",
+     "row": "Kimi K3.1 Pro",
+     "date": "2026-11-11"
+    },
+    {
+     "register": "model-prices",
+     "row": "Grok 4.7",
+     "date": "2026-11-11"
+    },
+    {
+     "register": "model-prices",
+     "row": "DeepSeek V4.1 Flash 1017 (max)",
+     "date": "2026-11-11"
+    }
+   ],
+   "changed": [
+    {
+     "register": "infrastructure",
+     "row": "Teraco JB7 data centre expansion",
+     "field": "source",
+     "from": "https://mybroadband.co.za/news/cloud-hosting/664345-one-data-centre-in-south-africa-will-use-more-power-than-kimberley-or-nelspruit.html",
+     "to": "https://www.teraco.co.za/news/teraco-announces-jb7-and-a-new-r8-billion-syndicated-loan/"
+    },
+    {
+     "register": "model-prices",
+     "row": "GPT-6 Astra",
+     "field": "capability score",
+     "from": 52.7,
+     "to": 56.854
+    },
+    {
+     "register": "model-prices",
+     "row": "GPT-6 Astra",
+     "field": "source",
+     "from": "https://llm-stats.com/blog/research/gpt-6-astra-launch",
+     "to": "https://developers.openai.com/api/docs/pricing"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "AGO",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "BDI",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "BEN",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "BFA",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "BWA",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "CAF",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "CIV",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "CMR",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "COD",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "COG",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "COM",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "CPV",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "DJI",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "DZA",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "EGY",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "ERI",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "ETH",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "GAB",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "GHA",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "GIN",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "GMB",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "GNB",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "GNQ",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "KEN",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "LBR",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "LBY",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "LSO",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "MAR",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "MDG",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "MLI",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "MOZ",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "MRT",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "MUS",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "MWI",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "NAM",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "NER",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "NGA",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "RWA",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "SDN",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "SEN",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "SLE",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "SOM",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "SSD",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "STP",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "SWZ",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "SYC",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "TCD",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "TGO",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "TUN",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "TZA",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "UGA",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "ZAF",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "ZMB",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    },
+    {
+     "register": "gni-per-capita",
+     "row": "ZWE",
+     "field": "World Bank API snapshot",
+     "from": "2026-07-13",
+     "to": "2026-10-08"
+    }
+   ],
+   "removed": [
+    {
+     "register": "infrastructure",
+     "row": "NSIA AI data centre"
+    },
+    {
+     "register": "model-prices",
+     "row": "Claude Fable 5.1"
+    },
+    {
+     "register": "model-prices",
+     "row": "Gemini 3.8 Flash"
+    },
+    {
+     "register": "model-prices",
+     "row": "Kimi K3 (max)"
+    },
+    {
+     "register": "model-prices",
+     "row": "Grok 4.6"
+    },
+    {
+     "register": "model-prices",
+     "row": "DeepSeek V4 Pro 0813 (max)"
+    },
+    {
+     "register": "model-prices",
+     "row": "DeepSeek V4 Flash 0731"
+    },
+    {
+     "register": "model-prices",
+     "row": "Claude Opus 5"
+    },
+    {
+     "register": "model-prices",
+     "row": "Claude Opus 5 (routed)"
+    },
+    {
+     "register": "model-prices",
+     "row": "GPT-5.6 Sol"
+    },
+    {
+     "register": "model-prices",
+     "row": "GPT-5.6 Terra"
+    },
+    {
+     "register": "model-prices",
+     "row": "GPT-5.6 Luna"
+    },
+    {
+     "register": "model-prices",
+     "row": "Muse Spark 1.1"
+    }
+   ]
+  },
+  {
+   "built_at": "2026-11-11",
+   "added": [
+    {
+     "register": "infrastructure",
+     "row": "Equinix King Air Industria campus (two sites)",
+     "date": "2026-07-14"
+    },
+    {
+     "register": "device-shipments",
+     "row": "Shipments, Q3 2026 (preliminary)|Global|2026-10-15",
+     "date": "2026-10-15"
+    }
+   ],
+   "changed": [
+    {
+     "register": "infrastructure",
+     "row": "Côte d'Ivoire sovereign data centre",
+     "field": "source",
+     "from": "https://developingtelecoms.com/telecom-business/telecom-investment-mergers/20549-cote-divoire-approves-starlin",
+     "to": "https://www.devtelecoms.com/telecom-business/telecom-investment-mergers/20549-cote-divoire-approves-starlink-service-data-centre-project-and-more-after-us-state-visit.html"
+    }
+   ],
+   "removed": [
+    {
+     "register": "infrastructure",
+     "row": "Cape Town hyperscale campus (two sites)"
+    },
+    {
+     "register": "infrastructure",
+     "row": "Equinix Cape Town campus"
+    }
+   ]
+  },
+  {
+   "built_at": "2026-11-11",
+   "added": [],
+   "changed": [],
+   "removed": []
+  },
+  {
+   "built_at": "2026-11-11",
+   "added": [],
+   "changed": [],
+   "removed": []
+  },
+  {
+   "built_at": "2026-11-11",
+   "added": [],
+   "changed": [],
+   "removed": []
+  },
+  {
+   "built_at": "2026-11-11",
+   "added": [
+    {
+     "register": "device-shipments",
+     "row": "Smartphone shipments, Q3 2026|Africa|2026-10-29",
+     "date": "2026-10-29"
+    }
+   ],
+   "changed": [],
+   "removed": []
+  },
+  {
+   "built_at": "2026-11-11",
+   "added": [],
+   "changed": [],
+   "removed": []
   }
  ],
  "release_notes": [

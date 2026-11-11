@@ -15,7 +15,7 @@
    "hash": "77731ac10bdb3b4e",
    "date": "2026-09-07"
   },
-  "NSIA AI data centre": {
+  "KASI hyperscale campus (NSIA investment)": {
    "payload": {
     "capacity_mw": 100,
     "capex_usd": null,
@@ -25,9 +25,9 @@
     "status": "announced",
     "status_detail": null,
     "online": null,
-    "url": "https://businessday.ng/technology/article/nsia-bets-on-100mw-ai-data-centre-to-power-nigerias-digital-economy/"
+    "url": "https://nsia.com.ng/kasi-cloud-datacenters-commissions-west-africas-first-hyperscaleready-ai-capable-data-centre-campus-in-lagos/"
    },
-   "hash": "0038438981dd0b64",
+   "hash": "51dcb9e36fec389f",
    "date": "2026-09-01"
   },
   "MTN AI-ready data centres": {
@@ -135,7 +135,7 @@
    "hash": "d7c3c09659f25b57",
    "date": "2026-08-17"
   },
-  "Cape Town hyperscale campus (two sites)": {
+  "Equinix King Air Industria campus (two sites)": {
    "payload": {
     "capacity_mw": null,
     "capex_usd": null,
@@ -150,21 +150,6 @@
    "hash": "80b23332805144d9",
    "date": "2026-07-14"
   },
-  "Equinix Cape Town campus": {
-   "payload": {
-    "capacity_mw": null,
-    "capex_usd": null,
-    "capex_local": null,
-    "committed_capital_lower_bound_usd": null,
-    "investment_target_usd": null,
-    "status": "approved",
-    "status_detail": null,
-    "online": null,
-    "url": "https://furtherafrica.com/2026/08/04/equinix-wins-approval-for-major-cape-town-data-centre-campus/"
-   },
-   "hash": "69665c58573dc59b",
-   "date": "2026-08-04"
-  },
   "Teraco JB7 data centre expansion": {
    "payload": {
     "capacity_mw": 40,
@@ -175,9 +160,9 @@
     "status": "under_construction",
     "status_detail": "MyBroadband reported it was still expanding on 27 August 2026; the 2026 completion date is a schedule, not confirmation of commissioning.",
     "online": "2026",
-    "url": "https://mybroadband.co.za/news/cloud-hosting/664345-one-data-centre-in-south-africa-will-use-more-power-than-kimberley-or-nelspruit.html"
+    "url": "https://www.teraco.co.za/news/teraco-announces-jb7-and-a-new-r8-billion-syndicated-loan/"
    },
-   "hash": "afea98d7cd29142f",
+   "hash": "8cc15deb4c8f14d8",
    "date": "2024-11-13"
   },
   "Cassava AI Factory": {
@@ -250,9 +235,9 @@
     "status": "approved",
     "status_detail": null,
     "online": null,
-    "url": "https://developingtelecoms.com/telecom-business/telecom-investment-mergers/20549-cote-divoire-approves-starlin"
+    "url": "https://www.devtelecoms.com/telecom-business/telecom-investment-mergers/20549-cote-divoire-approves-starlink-service-data-centre-project-and-more-after-us-state-visit.html"
    },
-   "hash": "03837c65c20a7508",
+   "hash": "596d36cd54e4ffdf",
    "date": "2026-07-20"
   },
   "Gabon sovereign data centre": {
@@ -332,161 +317,101 @@
   }
  },
  "model-prices": {
-  "Claude Fable 5.1": {
-   "payload": {
-    "input": 10.0,
-    "output": 50.0,
-    "capability": 53.4,
-    "cap_basis": "current",
-    "status": "reported",
-    "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
-   },
-   "hash": "1382a0a602ca7616",
-   "date": "2026-09-01"
-  },
   "GPT-6 Astra": {
    "payload": {
-    "input": 10.0,
-    "output": 50.0,
-    "capability": 52.7,
+    "input": 10,
+    "output": 50,
+    "capability": 56.854,
     "cap_basis": "current",
     "status": "reported",
-    "url": "https://llm-stats.com/blog/research/gpt-6-astra-launch"
+    "url": "https://developers.openai.com/api/docs/pricing"
    },
-   "hash": "6d45c7551edf6a8d",
-   "date": "2026-09-03"
+   "hash": "df38f8866571a33f",
+   "date": "2026-11-11"
   },
-  "Gemini 3.8 Flash": {
+  "GPT-6.1 Sol": {
    "payload": {
-    "input": 0.75,
-    "output": 3.75,
-    "capability": 40.9,
-    "cap_basis": "current",
-    "status": "official",
-    "url": "https://benchlm.ai/models/gemini-3-8-flash"
-   },
-   "hash": "040524b85e37abc1",
-   "date": "2026-09-02"
-  },
-  "Kimi K3 (max)": {
-   "payload": {
-    "input": 3.0,
-    "output": 15.0,
-    "capability": 43.6,
+    "input": 2,
+    "output": 10,
+    "capability": 54.609,
     "cap_basis": "current",
     "status": "reported",
-    "url": "https://kie.ai/blog/kimi-k3-pricing"
+    "url": "https://developers.openai.com/api/docs/pricing"
    },
-   "hash": "c7bdb22f97000d98",
-   "date": "2026-07-16"
+   "hash": "ee8581a568120e8e",
+   "date": "2026-11-11"
   },
-  "Grok 4.6": {
+  "Claude Fable 5.2": {
    "payload": {
-    "input": 2.0,
-    "output": 6.0,
-    "capability": 44.3,
+    "input": 8,
+    "output": 40,
+    "capability": 64.564,
     "cap_basis": "current",
     "status": "reported",
-    "url": "https://artificialanalysis.ai/models"
+    "url": "https://platform.claude.com/docs/en/about-claude/pricing"
    },
-   "hash": "7d7ddc1f992e0a59",
-   "date": "2026-08-01"
+   "hash": "d39738d6c108a252",
+   "date": "2026-11-11"
   },
-  "DeepSeek V4 Pro 0813 (max)": {
+  "Claude Opus 5.5": {
    "payload": {
-    "input": 0.66,
-    "output": 1.98,
-    "capability": 36.0,
+    "input": 4,
+    "output": 20,
+    "capability": 59.106,
     "cap_basis": "current",
-    "status": "official",
+    "status": "reported",
+    "url": "https://platform.claude.com/docs/en/about-claude/pricing"
+   },
+   "hash": "10d8734cb515155d",
+   "date": "2026-11-11"
+  },
+  "Gemini 4 Carbon": {
+   "payload": {
+    "input": 2,
+    "output": 10,
+    "capability": 60.026,
+    "cap_basis": "current",
+    "status": "reported",
+    "url": "https://aistudio.google.com/docs/pricing"
+   },
+   "hash": "50d7bcce3a92a8f0",
+   "date": "2026-11-11"
+  },
+  "Kimi K3.1 Pro": {
+   "payload": {
+    "input": 2,
+    "output": 10,
+    "capability": 46.453,
+    "cap_basis": "current",
+    "status": "reported",
+    "url": "https://platform.kimi.ai/docs/pricing/chat"
+   },
+   "hash": "5935c24880688b18",
+   "date": "2026-11-11"
+  },
+  "Grok 4.7": {
+   "payload": {
+    "input": 2,
+    "output": 6,
+    "capability": 35.485,
+    "cap_basis": "current",
+    "status": "reported",
+    "url": "https://docs.x.ai/developers/models"
+   },
+   "hash": "e4342f400a17889c",
+   "date": "2026-11-11"
+  },
+  "DeepSeek V4.1 Flash 1017 (max)": {
+   "payload": {
+    "input": 0.3,
+    "output": 1.2,
+    "capability": 32.59,
+    "cap_basis": "current",
+    "status": "reported",
     "url": "https://api-docs.deepseek.com/quick_start/pricing/"
    },
-   "hash": "1940a31999649d76",
-   "date": "2026-08-13"
-  },
-  "DeepSeek V4 Flash 0731": {
-   "payload": {
-    "input": 0.22,
-    "output": 0.66,
-    "capability": 35,
-    "cap_basis": "no current score",
-    "status": "official",
-    "url": "https://www.morphllm.com/deepseek-v4"
-   },
-   "hash": "609bd5496b115b7e",
-   "date": "2026-08-13"
-  },
-  "Claude Opus 5": {
-   "payload": {
-    "input": 5.0,
-    "output": 25.0,
-    "capability": 50.8,
-    "cap_basis": "current",
-    "status": "reported",
-    "url": "https://apimaster.ai/blog/claude-opus-5-apimaster-launch-2026"
-   },
-   "hash": "7f33844313e19300",
-   "date": "2026-07-24"
-  },
-  "Claude Opus 5 (routed)": {
-   "payload": {
-    "input": 2.0,
-    "output": 10.0,
-    "capability": 50.8,
-    "cap_basis": "current",
-    "status": "third_party",
-    "url": "https://apimaster.ai/blog/claude-opus-5-apimaster-launch-2026"
-   },
-   "hash": "6d56d9fd17314e24",
-   "date": "2026-07-24"
-  },
-  "GPT-5.6 Sol": {
-   "payload": {
-    "input": 5.0,
-    "output": 30.0,
-    "capability": 47.0,
-    "cap_basis": "current",
-    "status": "reported",
-    "url": "https://www.aipricing.guru/openai-pricing/"
-   },
-   "hash": "db5ccf2e107c3911",
-   "date": "2026-07-09"
-  },
-  "GPT-5.6 Terra": {
-   "payload": {
-    "input": 2.5,
-    "output": 15.0,
-    "capability": 42.1,
-    "cap_basis": "current",
-    "status": "reported",
-    "url": "https://lmmarketcap.com/reports/gpt-5-6-sol-terra-luna"
-   },
-   "hash": "55179b59c929e895",
-   "date": "2026-07-09"
-  },
-  "GPT-5.6 Luna": {
-   "payload": {
-    "input": 1.0,
-    "output": 6.0,
-    "capability": 37.3,
-    "cap_basis": "current",
-    "status": "reported",
-    "url": "https://lmmarketcap.com/reports/gpt-5-6-sol-terra-luna"
-   },
-   "hash": "78b64a99e0041c64",
-   "date": "2026-07-09"
-  },
-  "Muse Spark 1.1": {
-   "payload": {
-    "input": 1.25,
-    "output": 4.25,
-    "capability": 51,
-    "cap_basis": "no current score",
-    "status": "reported",
-    "url": "https://openrouter.ai/meta/muse-spark-1.1"
-   },
-   "hash": "3bce0efab41f3c3a",
-   "date": "2026-07-09"
+   "hash": "af1f05f9bed26220",
+   "date": "2026-11-11"
   }
  },
  "device-prices": {
@@ -591,6 +516,22 @@
    },
    "hash": "04e64277a0ca5150",
    "date": "2026-02-28"
+  },
+  "Shipments, Q3 2026 (preliminary)|Global|2026-10-15": {
+   "payload": {
+    "change_pct": -22,
+    "metric": "Shipments, Q3 2026 (preliminary)"
+   },
+   "hash": "6b28e2861dbdc472",
+   "date": "2026-10-15"
+  },
+  "Smartphone shipments, Q3 2026|Africa|2026-10-29": {
+   "payload": {
+    "change_pct": -39,
+    "metric": "Smartphone shipments, Q3 2026"
+   },
+   "hash": "7570ff8fba2df551",
+   "date": "2026-10-29"
   }
  },
  "device-policy": {
@@ -618,540 +559,540 @@
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "2860",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/AGO/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "6cf9be50be4907ea",
+   "hash": "08293ff0c02642b5",
    "date": ""
   },
   "BDI": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "240",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/BDI/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "851b0a045f3fd6f7",
+   "hash": "d186ea31c86e6ddb",
    "date": ""
   },
   "BEN": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "1600",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/BEN/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "21fcd156241b34ff",
+   "hash": "fb8356e8a86e73e5",
    "date": ""
   },
   "BFA": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "980",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/BFA/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "1f15ccdda4219733",
+   "hash": "72996e196d3a86c2",
    "date": ""
   },
   "BWA": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "7390",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/BWA/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "575913282bb850da",
+   "hash": "e30b06f5ab111199",
    "date": ""
   },
   "CAF": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "560",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/CAF/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "6c3c404498f0d73f",
+   "hash": "1ae363ecd003bc80",
    "date": ""
   },
   "CIV": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "2780",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/CIV/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "b0633bff9a23345a",
+   "hash": "1563d64750513273",
    "date": ""
   },
   "CMR": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "1860",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/CMR/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "371b60b229c13bd2",
+   "hash": "8f5102a35c1c3970",
    "date": ""
   },
   "COD": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "720",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/COD/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "13fa3cb95648ced0",
+   "hash": "2b28f347cead9a75",
    "date": ""
   },
   "COG": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "2280",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/COG/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "9a5e161ed2685419",
+   "hash": "a278941eb5773fd2",
    "date": ""
   },
   "COM": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "1950",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/COM/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "27f98853fb975bc0",
+   "hash": "f3d8f02b8370c0fe",
    "date": ""
   },
   "CPV": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "5590",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/CPV/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "a60833f2707f4d8d",
+   "hash": "5ff6551b8952fac9",
    "date": ""
   },
   "DJI": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "3960",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/DJI/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "dcffd4b1a96e9762",
+   "hash": "7a784bef75f89568",
    "date": ""
   },
   "DZA": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "5850",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/DZA/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "c69a2598be432c79",
+   "hash": "2ceaeaee82056db7",
    "date": ""
   },
   "EGY": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "3260",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/EGY/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "4ff3bd5a50ac2521",
+   "hash": "2a7ab2f150ed2952",
    "date": ""
   },
   "ERI": {
    "payload": {
     "year": "2011",
     "gni_per_capita_atlas_usd": "650",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/ERI/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "828b550c8469af40",
+   "hash": "a75b60ee90fb1f89",
    "date": ""
   },
   "ETH": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "1110",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/ETH/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "0c3d9a255a75146b",
+   "hash": "e57726523b31ccef",
    "date": ""
   },
   "GAB": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "8090",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/GAB/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "0ad2e12a6dbfc4b9",
+   "hash": "c0aa22a7f2187400",
    "date": ""
   },
   "GHA": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "2630",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/GHA/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "bac6ef80c30f603c",
+   "hash": "88d29e5ae3992abe",
    "date": ""
   },
   "GIN": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "1730",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/GIN/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "c12ae56ded6bc87c",
+   "hash": "62e07acf2a3fae8f",
    "date": ""
   },
   "GMB": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "930",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/GMB/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "cfb7ff2d61c0717a",
+   "hash": "010e9af7f7c41307",
    "date": ""
   },
   "GNB": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "1090",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/GNB/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "11793275822ce249",
+   "hash": "4d47fb44223b4ad5",
    "date": ""
   },
   "GNQ": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "5890",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/GNQ/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "2a50179727c4b277",
+   "hash": "321e0d881906e0a5",
    "date": ""
   },
   "KEN": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "2200",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/KEN/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "2bbb8d2ccc046b74",
+   "hash": "800de92b8797fac6",
    "date": ""
   },
   "LBR": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "830",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/LBR/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "2e11afd8d3a74bdb",
+   "hash": "229015998529a1a4",
    "date": ""
   },
   "LBY": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "7250",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/LBY/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "dbd0b8d0059aaa47",
+   "hash": "128665d16bfb5fb4",
    "date": ""
   },
   "LSO": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "1280",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/LSO/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "03d54c7d32594273",
+   "hash": "d9e9f1395ee74e4c",
    "date": ""
   },
   "MAR": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "4360",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/MAR/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "6bc3f32e72bacba4",
+   "hash": "eb063dc057cff792",
    "date": ""
   },
   "MDG": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "560",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/MDG/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "c3da22287226dc2e",
+   "hash": "49b3d3945272a01d",
    "date": ""
   },
   "MLI": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "1120",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/MLI/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "ab82ed3e5e37e8a2",
+   "hash": "13c3e351c7d94ae2",
    "date": ""
   },
   "MOZ": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "570",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/MOZ/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "3dc5479787488287",
+   "hash": "e2aeaac01dcfd66f",
    "date": ""
   },
   "MRT": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "2210",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/MRT/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "12279097dd75461a",
+   "hash": "5e799830ae39d52c",
    "date": ""
   },
   "MUS": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "14040",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/MUS/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "4549a533d9b1ffa4",
+   "hash": "1bbb29b10fba7ee9",
    "date": ""
   },
   "MWI": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "600",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/MWI/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "43c54d920592c9b0",
+   "hash": "f32e634c44fc42a0",
    "date": ""
   },
   "NAM": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "4340",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/NAM/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "d19a0cccfa94540e",
+   "hash": "fd45dbc5785c04ec",
    "date": ""
   },
   "NER": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "750",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/NER/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "dfbd97e7bfc1d92d",
+   "hash": "1abc84bd480db415",
    "date": ""
   },
   "NGA": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "1360",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/NGA/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "5daf95c050b1e6e6",
+   "hash": "a30fd5863d6aeb58",
    "date": ""
   },
   "RWA": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "1150",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/RWA/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "78f57facb97ed15b",
+   "hash": "238a3ebd2d8a08ab",
    "date": ""
   },
   "SDN": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "900",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/SDN/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "daadaba08fd194cf",
+   "hash": "8ede8dce353117e7",
    "date": ""
   },
   "SEN": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "1780",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/SEN/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "80764b3cb268dec2",
+   "hash": "b740bb26978f14d3",
    "date": ""
   },
   "SLE": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "830",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/SLE/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "bcaec330fda0ada4",
+   "hash": "978d87044e2e40ec",
    "date": ""
   },
   "SOM": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "640",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/SOM/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "c8747f8094ed6c9c",
+   "hash": "50cbcca4e58955ea",
    "date": ""
   },
   "SSD": {
    "payload": {
     "year": "2015",
     "gni_per_capita_atlas_usd": "1050",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/SSD/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "71b00ba18f634dcc",
+   "hash": "31772d87f2cc7b6b",
    "date": ""
   },
   "STP": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "3800",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/STP/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "7b0489216a2c5447",
+   "hash": "fc68b34aca956866",
    "date": ""
   },
   "SWZ": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "3730",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/SWZ/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "1585fe8d5c69b376",
+   "hash": "4512521abe73b5ce",
    "date": ""
   },
   "SYC": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "19200",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/SYC/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "299ff977d90d0466",
+   "hash": "445148de8dc7aae6",
    "date": ""
   },
   "TCD": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "970",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/TCD/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "4a6c1aba9b835f4f",
+   "hash": "4af49e21237d09ea",
    "date": ""
   },
   "TGO": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "1350",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/TGO/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "bc4b34b06dbca531",
+   "hash": "00779fd81bb974c1",
    "date": ""
   },
   "TUN": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "4300",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "aa46744d20d5be3b",
+   "hash": "ec4e4c9f244877a6",
    "date": ""
   },
   "TZA": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "1270",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/TZA/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "dd08c47d3732e9c9",
+   "hash": "58a3e9f4b7cf6112",
    "date": ""
   },
   "UGA": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "1120",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/UGA/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "32a7982b8f76a08b",
+   "hash": "324bc41be30ad3e4",
    "date": ""
   },
   "ZAF": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "6270",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/ZAF/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "689c2f74f0986836",
+   "hash": "60167ad457a9f5c4",
    "date": ""
   },
   "ZMB": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "1200",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/ZMB/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "86f2d1c417169499",
+   "hash": "9357b02b6a0eef63",
    "date": ""
   },
   "ZWE": {
    "payload": {
     "year": "2025",
     "gni_per_capita_atlas_usd": "2660",
-    "api_last_updated": "2026-07-13",
+    "api_last_updated": "2026-10-08",
     "source_url": "https://api.worldbank.org/v2/country/ZWE/indicator/NY.GNP.PCAP.CD?format=json&mrnev=1&per_page=100"
    },
-   "hash": "2cc1b5f9ed58ff63",
+   "hash": "4596c7af1d1eb356",
    "date": ""
   }
  }

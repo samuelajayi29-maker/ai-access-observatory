@@ -1,0 +1,162 @@
+{
+ "reviewed_at": "2026-11-11",
+ "overall_status": "verified_refresh_with_explicit_gaps",
+ "items": [
+  {
+   "id": "F01",
+   "area": "Facility directory",
+   "status": "updated",
+   "result": "November 5 edition: 621 listings, +43 added IDs, 0 removed, 149 existing records changed; source-reported scope retained."
+  },
+  {
+   "id": "F02",
+   "area": "API model prices and model universe",
+   "status": "updated",
+   "result": "21 API quotes checked; 8 models meet the existing price/capability inclusion rule on one November v5.0.1 basis. Old full snapshot retained."
+  },
+  {
+   "id": "F03",
+   "area": "Exchange rates and local-currency comparisons",
+   "status": "partial",
+   "result": "New primary-bank observations for 7/10 sample countries. Egypt, Ethiopia and Rwanda retain old dated quotes; their current quotes remain unverified. Parallel observations are historical."
+  },
+  {
+   "id": "F04",
+   "area": "Subscriptions, discounts and free tiers",
+   "status": "updated_with_gaps",
+   "result": "31 plan rows after adding Pro 200/500 and updating Claude and X tiers. Monthly versus annual and introductory pricing separated. Local storefront/discount evidence is not a fresh checkout test; some USD rows retain prior capture dates."
+  },
+  {
+   "id": "F05",
+   "area": "Provider availability and payment access",
+   "status": "updated_with_gaps",
+   "result": "All 324 product/country location rows rechecked. 31 payment rows qualified: historical declines/undocumented rails do not prove universal bans. No checkout tests performed."
+  },
+  {
+   "id": "F06",
+   "area": "Infrastructure project delivery",
+   "status": "updated_with_gaps",
+   "result": "21 project records after merging duplicate Equinix King Air campus. KASI phase versus campus design clarified; Airtel ongoing construction checked against October filing; Teraco primary source and CIV link repaired. Other statuses retain their evidence dates."
+  },
+  {
+   "id": "F07",
+   "area": "Signals to verified register updates",
+   "status": "partial",
+   "result": "Four targeted source decisions added/refreshed, including Africa Q3 shipments. The remaining manual review queue is not declared verified."
+  },
+  {
+   "id": "F08",
+   "area": "Minimum wages and affordability",
+   "status": "reviewed_with_gaps",
+   "result": "No new benchmark value established. South Africa and Ghana sources strengthened; future Ghana rates excluded. Rwanda/Ethiopia remain missing, not zero. Country-specific hours assumptions retained."
+  },
+  {
+   "id": "F09",
+   "area": "Device prices, shipments, duties and components",
+   "status": "updated_with_gaps",
+   "result": "Added Q3 2026 Africa smartphone shipments (-39%, Omdia via Light Reading) and preliminary worldwide shipments (-22%, IDC). Different scopes and providers remain separate; earlier observations and forecasts are preserved."
+  },
+  {
+   "id": "F10",
+   "area": "Compute services and GPU evidence",
+   "status": "reviewed_unchanged",
+   "result": "AWS Cape Town listing, Cassava operator deployment/product pages and JB4 expansion re-read. No verified rental quote or installed GPU count invented."
+  },
+  {
+   "id": "F11",
+   "area": "AI adoption, work-use and connectivity baskets",
+   "status": "updated",
+   "result": "Microsoft Q2 2026 vintage gives 46 country estimates across four published periods; 8 country gaps retained. All 216 ITU basket values re-read: unchanged 2025 observations. Ipsos 2025 survey values rechecked unchanged."
+  },
+  {
+   "id": "F12",
+   "area": "AI hiring and employment evidence",
+   "status": "reviewed_with_gaps",
+   "result": "Pnet August 2025 +77% vacancy evidence re-read; stays a dated platform statistic. Newer general reports do not supply an interchangeable national AI employment series."
+  },
+  {
+   "id": "F13",
+   "area": "Research library",
+   "status": "updated",
+   "result": "22 arXiv metadata records fetched from API. Research rebuild now preserves source capture dates instead of resetting all to the build date. No automatic promotion to peer-reviewed status."
+  },
+  {
+   "id": "F14",
+   "area": "Jobs exposure estimates",
+   "status": "historical_retained",
+   "result": "Dated exposure estimates retained with original modelled/task or employment-weighted definitions. No fresh national job-loss observation substituted."
+  },
+  {
+   "id": "F15",
+   "area": "Economic context and annual history",
+   "status": "refreshed",
+   "result": "Ten full WDI historical series and EIA capacity retrieved into new dated snapshots, flags/definitions preserved."
+  },
+  {
+   "id": "F16",
+   "area": "GNI and older country-context observations",
+   "status": "refreshed_unchanged",
+   "result": "54 GNI and 324 country-context rows freshly retrieved; values/observation years unchanged. Old observations remain visibly old and GNI eligibility window remains enforced."
+  },
+  {
+   "id": "F17",
+   "area": "Fiscal outlooks",
+   "status": "refreshed_with_limits",
+   "result": "WDI interest/revenue refreshed. October 2026 WEO vintage retained with its original retrieval date; reported/estimated/projected statuses preserved."
+  },
+  {
+   "id": "F18",
+   "area": "Eskom household tariffs",
+   "status": "valid_dated_source",
+   "result": "2026/27 Eskom booklet remains the applicable source: April 2026–March 2027 for direct customers. No national-average or industrial interpretation."
+  },
+  {
+   "id": "F19",
+   "area": "Homepage Africa capacity share",
+   "status": "reviewed_unchanged",
+   "result": "ADCA 2026 page still reports 0.6% of global capacity. This is capacity share, not a directory facility-count share."
+  },
+  {
+   "id": "F20",
+   "area": "Source archives",
+   "status": "updated_with_gaps",
+   "result": "Current API pricing sources have located/captured archives. Remaining supplementary missing captures stay warnings and are not described as captured."
+  },
+  {
+   "id": "F21",
+   "area": "Build dates versus verification dates",
+   "status": "fixed",
+   "result": "Research and consumer registers retain source-capture dates separately from build dates. Local storefront observations retain September dates. Infrastructure rebuild date is distinct from project reviews."
+  },
+  {
+   "id": "F22",
+   "area": "Design preview feed/cards compiled 2026-11-06; public release/feed 2026-11-11",
+   "status": "fixed",
+   "result": "Fresh canonical data, charts, card sections and embedded data synchronized into the local design preview. Design stages and country maps preserved; not a design deployment."
+  },
+  {
+   "id": "F23",
+   "area": "Preview Infrastructure featured feed",
+   "status": "fixed",
+   "result": "Infrastructure featured-feed control now uses the canonical infra bucket."
+  },
+  {
+   "id": "F24",
+   "area": "Relative dates in retained records",
+   "status": "fixed",
+   "result": "NBO2 wording now states 7 September 2026 rather than opened this week."
+  },
+  {
+   "id": "F25",
+   "area": "Signals ingestion and deployment",
+   "status": "preserved",
+   "result": "Tracker JSON, CSV, workbook and ingestion cadence unchanged. The release manifest records the validated file inventory."
+  }
+ ],
+ "limits": [
+  "No comprehensive clearance of the Signals review backlog.",
+  "No current payment checkout tests.",
+  "Three sampled current FX quotes remain unverified.",
+  "Historic annual datasets are not relabelled as 2026 measurements."
+ ]
+}

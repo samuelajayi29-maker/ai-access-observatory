@@ -1,14 +1,14 @@
 {
- "edition": "2026-10-07",
- "sha256": "3b23c3cd7821dbea42e1b08970dadae93c5c00326dfc00cbce33ef4bc7b98937",
- "rows": 578,
+ "edition": "2026-11-05",
+ "sha256": "646b58fc8f5f49ce13300c13a35bdf147b3c9f033276b495e00575b3963ae4b2",
+ "rows": 621,
  "countries": 54,
  "statuses": {
-  "Operational": 422,
-  "Unknown": 59,
+  "Operational": 449,
+  "Unknown": 65,
   "Decommissioned": 5,
-  "Planned": 54,
-  "Under construction": 36,
+  "Planned": 63,
+  "Under construction": 37,
   "On hold": 2
  },
  "coordinate_rows": 326,

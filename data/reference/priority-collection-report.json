@@ -1,8 +1,8 @@
 {
- "source_digest": "c76a3bb3ccbb8c40f50037bd6540a26c43cde17e31ab8ea2950c768cd64d0f32",
- "reviewed_at": "2026-10-01",
- "numeric_observations": 294,
- "series": 12,
+ "source_digest": "40cfb87b55bbc5764161cd0df7d24c760ae418cce814a5ef6eaf953e1bdd6074",
+ "reviewed_at": "2026-11-11",
+ "numeric_observations": 386,
+ "series": 14,
  "asset_records": 3,
  "country_priority_reviews": 216
 }

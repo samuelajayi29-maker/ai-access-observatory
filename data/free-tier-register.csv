@@ -1,30 +1,32 @@
-provider,product,tier,free_tier_exists,free_tier_limit,free_tier_limit_period,model_on_free_tier,evidence_status,temporal_status,headline_eligible,source_url,compiled
-OpenAI,ChatGPT,Free,yes,"Unlimited text chats with GPT-5.6 Luna subject to abuse guardrails. Uploads ('limited messages with uploads'), image generation, voice chats, deep research, memory/context and Codex access are all described only as 'limited' - no numeric cap published.",not published,GPT-5.6 Luna,official,measured,True,https://chatgpt.com/pricing/,2026-09-21
-OpenAI,ChatGPT,Go,yes,,,,official,measured,True,https://openai.com/index/introducing-chatgpt-go/,2026-09-21
-OpenAI,ChatGPT,Plus,yes,,,,official,measured,True,https://chatgpt.com/pricing/,2026-09-21
-OpenAI,ChatGPT,Pro,yes,,,,official,measured,True,https://chatgpt.com/pricing/,2026-09-21
-Anthropic,Claude,Free,yes,"Chat on web, desktop and mobile; web search; file creation and code execution; memory across conversations; connectors; Create Artifacts; Projects (up to 5). Paid plans advertise 'more usage' but Anthropic publishes no numeric message cap for the free plan. Opus and Fable models are not available on free.",not published,Sonnet and Haiku (Opus/Fable excluded),official,measured,True,https://claude.com/pricing,2026-09-21
-Anthropic,Claude,Pro,yes,,,,official,measured,True,https://claude.com/pricing,2026-09-21
-Anthropic,Claude,Max 5x,yes,,,,official,measured,True,https://claude.com/pricing,2026-09-21
-Anthropic,Claude,Max 20x,yes,,,,trade_reporting,measured,False,https://www.aipricing.guru/subscriptions/claude-max-20x/,2026-09-21
-Anthropic,Claude,Team standard seat,yes,,,,official,measured,True,https://claude.com/pricing,2026-09-21
-Anthropic,Claude,Team premium seat,yes,,,,official,measured,True,https://claude.com/pricing,2026-09-21
-Google,Gemini (Google AI plans),Free of charge,yes,"Free plan gives access to 3.6 Flash and 'varying access to 3.1 Pro', Deep Research, Gemini Live, Canvas, Gems, image generation/editing and 15 GB storage. Gemini app usage limits are compute-based, refresh every five hours up to a weekly limit, and can be topped up with AI credits; no numeric cap published.",5-hour refresh within a weekly cap (no numeric cap published),Gemini 3.6 Flash; varying access to Gemini 3.1 Pro,official,measured,True,https://gemini.google/ng/subscriptions/,2026-09-21
-Google,Gemini (Google AI plans),Google AI Plus,yes,,,,official,measured,True,https://gemini.google/subscriptions/?hl=en&gl=us,2026-09-21
-Google,Gemini (Google AI plans),Google AI Pro,yes,,,,official,measured,True,https://gemini.google/subscriptions/?hl=en&gl=us,2026-09-21
-Google,Gemini (Google AI plans),Google AI Ultra 5x,yes,,,,official,measured,True,https://gemini.google/subscriptions/?hl=en&gl=us,2026-09-21
-Google,Gemini (Google AI plans),Google AI Ultra 20x,yes,,,,official,measured,True,https://gemini.google/subscriptions/?hl=en&gl=us,2026-09-21
-Microsoft,Copilot,Copilot (free),yes,'A free tier is available with a Microsoft account... with some capabilities subject to usage limits and more available through paid plans.' No numeric cap published. Separate Microsoft wording: 'Microsoft offers a limited free version of Copilot subject to available capacity and limits.',not published (capacity-based),Not disclosed by Microsoft,official,measured,False,https://copilot.com/,2026-09-21
-Microsoft,Microsoft 365 (consumer) with Copilot,Microsoft 365 Premium (Copilot successor to Copilot Pro),yes,,,,official,measured,True,https://www.microsoft.com/en-us/microsoft-365-copilot/pricing/individuals,2026-09-21
-Microsoft,Microsoft 365 (consumer) with Copilot,Microsoft 365 Personal (includes limited Copilot AI),yes,,,,official,measured,True,https://www.microsoft.com/en-us/microsoft-365-copilot/pricing/individuals,2026-09-21
-Microsoft,Microsoft 365 (consumer) with Copilot,Microsoft 365 Family (includes limited Copilot AI),yes,,,,official,measured,True,https://www.microsoft.com/en-us/microsoft-365-copilot/pricing/individuals,2026-09-21
-Microsoft,Microsoft 365 (consumer) with Copilot,Microsoft 365 Pro (highest Copilot usage),yes,,,,official,measured,True,https://www.microsoft.com/en-us/microsoft-365-copilot/pricing/individuals,2026-09-21
-xAI,Grok,Free,yes,Described only as 'generous limits' with 'higher rate limits' reserved for SuperGrok. No numeric cap published. Real-time web and X search limited on free; video/image generation and Grok Bot require paid tiers.,not published,Grok 4.6,official,measured,True,https://x.ai/pricing,2026-09-21
-xAI,Grok,SuperGrok Lite,yes,,,,trade_reporting,measured,False,https://x.ai/pricing,2026-09-21
-xAI,Grok,SuperGrok,yes,,,,official,measured,True,https://x.ai/pricing,2026-09-21
-xAI,Grok,SuperGrok Plus,yes,,,,official,measured,True,https://x.ai/pricing,2026-09-21
-xAI,Grok,SuperGrok Heavy,yes,,,,trade_reporting,measured,False,https://x.ai/pricing,2026-09-21
-Perplexity,Perplexity,Free,yes,'Search only with accurate answers and citations... Good for limited daily usage.' The FAQ states free includes access to top AI models 'with limited weekly usage'; the comparison table marks free as 'Limited' and Pro as '10x'. No numeric cap (searches or messages) is published.,week (no numeric cap published),"Not named - Perplexity routes across models (ChatGPT, Google Gemini, Anthropic Claude, NVIDIA Nemotron) and delegates automatic selection on free",official,measured,True,https://www.perplexity.ai/hub/pricing,2026-09-21
-Perplexity,Perplexity,Pro,yes,,,,official,measured,True,https://www.perplexity.ai/hub/pricing,2026-09-21
-Perplexity,Perplexity,Max,yes,,,,official,measured,True,https://www.perplexity.ai/hub/pricing,2026-09-21
-DeepSeek,DeepSeek Chat,Free,yes,"Consumer chat (web and iOS/Android apps) is free. DeepSeek publishes token pricing for the API but no message/usage cap for the free consumer chat, and no paid consumer subscription tier equivalent to ChatGPT Plus or Claude Pro was found on DeepSeek's own pages. Trade coverage states free chat has rate limits without published numbers.",not published,DeepSeek-V4.1-Flash and DeepSeek-V4-Pro,official,measured,True,https://api-docs.deepseek.com/quick_start/pricing,2026-09-21
+provider,product,tier,free_tier_exists,free_tier_limit,free_tier_limit_period,model_on_free_tier,evidence_status,temporal_status,headline_eligible,source_url,source_captured_at,compiled
+OpenAI,ChatGPT,Free,yes,"Everyday text chats are unlimited subject to abuse guardrails; uploads, images, voice and other tools have separate limited access. No numeric cap verified.",not published,GPT-6 Luna,official,measured,True,https://chatgpt.com/pricing/,2026-11-11,2026-11-11
+OpenAI,ChatGPT,Go,yes,,,,official,measured,True,https://openai.com/index/introducing-chatgpt-go/,2026-09-21,2026-11-11
+OpenAI,ChatGPT,Plus,yes,,,,official,measured,True,https://chatgpt.com/pricing/,2026-09-21,2026-11-11
+OpenAI,ChatGPT,Pro 100,yes,,,,official,measured,True,https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers,2026-11-11,2026-11-11
+Anthropic,Claude,Free,yes,"Limited usage every 5 hours and every week; consumption depends on model, chat length and attachments. No universal numeric message cap.",5 hours and weekly,Sonnet and Haiku (Opus/Fable excluded),official,measured,True,https://claude.com/pricing,2026-11-11,2026-11-11
+Anthropic,Claude,Pro,yes,,,,official,measured,True,https://claude.com/pricing,2026-11-11,2026-11-11
+Anthropic,Claude,Max,yes,,,,official,measured,True,https://claude.com/pricing,2026-11-11,2026-11-11
+Anthropic,Claude,Ultra,yes,,,,trade_reporting,measured,False,https://www.aipricing.guru/subscriptions/claude-max-20x/,2026-11-11,2026-11-11
+Anthropic,Claude,Team standard seat,yes,,,,official,measured,True,https://claude.com/pricing,2026-09-21,2026-11-11
+Anthropic,Claude,Team premium seat,yes,,,,official,measured,True,https://claude.com/pricing,2026-09-21,2026-11-11
+Google,Gemini (Google AI plans),Free of charge,yes,Free access with separate limited tools; no universal numeric chat allowance verified.,varies by tool,Flash-Lite (version not named on reviewed page),official,measured,True,https://gemini.google/subscriptions/,2026-11-11,2026-11-11
+Google,Gemini (Google AI plans),Google AI Plus,yes,,,,official,measured,True,https://gemini.google/subscriptions/,2026-11-11,2026-11-11
+Google,Gemini (Google AI plans),Google AI Pro,yes,,,,official,measured,True,https://gemini.google/subscriptions/,2026-11-11,2026-11-11
+Google,Gemini (Google AI plans),Google AI Ultra 5x,yes,,,,official,measured,True,https://gemini.google/subscriptions/,2026-11-11,2026-11-11
+Google,Gemini (Google AI plans),Google AI Ultra 20x,yes,,,,official,measured,True,https://gemini.google/subscriptions/,2026-11-11,2026-11-11
+Microsoft,Copilot,Copilot (free),yes,'A free tier is available with a Microsoft account... with some capabilities subject to usage limits and more available through paid plans.' No numeric cap published. Separate Microsoft wording: 'Microsoft offers a limited free version of Copilot subject to available capacity and limits.',not published (capacity-based),Not disclosed by Microsoft,official,measured,False,https://copilot.com/,2026-09-21,2026-11-11
+Microsoft,Microsoft 365 (consumer) with Copilot,Microsoft 365 Premium (Copilot successor to Copilot Pro),yes,,,,official,measured,True,https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products,2026-11-11,2026-11-11
+Microsoft,Microsoft 365 (consumer) with Copilot,Microsoft 365 Personal (includes limited Copilot AI),yes,,,,official,measured,True,https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products,2026-11-11,2026-11-11
+Microsoft,Microsoft 365 (consumer) with Copilot,Microsoft 365 Family (includes limited Copilot AI),yes,,,,official,measured,True,https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products,2026-11-11,2026-11-11
+Microsoft,Microsoft 365 (consumer) with Copilot,Microsoft 365 Pro (highest Copilot usage),yes,,,,official,measured,True,https://www.microsoft.com/en-us/microsoft-365/p/microsoft-365-pro/cfq7ttbzzcmc,2026-11-11,2026-11-11
+xAI,"The X Subscription (Grok, Cursor and X)",Free,yes,Limited usage; model and tool limits vary. Shared usage pools apply across included services. No universal message allowance verified.,varies by tool,Not specified in reviewed pricing page,official,measured,True,https://docs.x.ai/x-subscription/pricing,2026-11-11,2026-11-11
+xAI,"The X Subscription (Grok, Cursor and X)",Plus,yes,,,,trade_reporting,measured,False,https://docs.x.ai/x-subscription/pricing,2026-11-11,2026-11-11
+xAI,"The X Subscription (Grok, Cursor and X)",Premium,yes,,,,official,measured,True,https://docs.x.ai/x-subscription/pricing,2026-11-11,2026-11-11
+xAI,"The X Subscription (Grok, Cursor and X)",Super,yes,,,,official,measured,True,https://docs.x.ai/x-subscription/pricing,2026-11-11,2026-11-11
+xAI,"The X Subscription (Grok, Cursor and X)",Ultra,yes,,,,trade_reporting,measured,False,https://docs.x.ai/x-subscription/pricing,2026-11-11,2026-11-11
+Perplexity,Perplexity,Free,yes,"Basic searches practically unlimited; comparison table lists 3 Pro Searches/day and 1 Research query/month, with limited uploads. Allowances can change.",daily and monthly by feature,Automatically selected; no advanced model selection,official,measured,True,https://www.perplexity.ai/help-center/en/articles/11187416-which-perplexity-subscription-plan-is-right-for-you,2026-11-11,2026-11-11
+Perplexity,Perplexity,Pro,yes,,,,official,measured,True,https://www.perplexity.ai/hub/pricing,2026-09-21,2026-11-11
+Perplexity,Perplexity,Max,yes,,,,official,measured,True,https://www.perplexity.ai/help-center/en/articles/11680686-perplexity-max,2026-11-11,2026-11-11
+DeepSeek,DeepSeek Chat,Free,yes,"Consumer chat (web and iOS/Android apps) is free. DeepSeek publishes token pricing for the API but no message/usage cap for the free consumer chat, and no paid consumer subscription tier equivalent to ChatGPT Plus or Claude Pro was found on DeepSeek's own pages. Trade coverage states free chat has rate limits without published numbers.",not published,DeepSeek-V4.1-Flash and DeepSeek-V4-Pro,official,measured,True,https://api-docs.deepseek.com/quick_start/pricing,2026-09-21,2026-11-11
+OpenAI,ChatGPT,Pro 200,yes,,,,official,measured,True,https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers,2026-11-11,2026-11-11
+OpenAI,ChatGPT,Pro 500,yes,,,,official,measured,True,https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers,2026-11-11,2026-11-11

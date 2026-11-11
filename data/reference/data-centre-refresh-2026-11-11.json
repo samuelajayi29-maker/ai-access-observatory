@@ -1,0 +1,934 @@
+{
+ "retrieved_at": "2026-11-11",
+ "prior_edition": "2026-10-07",
+ "edition": "2026-11-05",
+ "before": 578,
+ "after": 621,
+ "added_ids": [
+  "AGO-018",
+  "AGO-019",
+  "AGO-020",
+  "BDI-005",
+  "BDI-006",
+  "BFA-008",
+  "BFA-009",
+  "CAF-003",
+  "CIV-021",
+  "CMR-010",
+  "CMR-011",
+  "CMR-012",
+  "COD-008",
+  "COG-009",
+  "COM-003",
+  "DJI-006",
+  "EGY-053",
+  "ETH-023",
+  "GAB-006",
+  "GHA-018",
+  "GHA-019",
+  "GNB-002",
+  "KEN-036",
+  "LBR-010",
+  "LBY-012",
+  "LBY-013",
+  "LBY-014",
+  "MDG-008",
+  "MLI-003",
+  "NAM-006",
+  "NAM-007",
+  "NER-003",
+  "NGA-045",
+  "NGA-046",
+  "SDN-007",
+  "SEN-015",
+  "SLE-006",
+  "SSD-004",
+  "SYC-003",
+  "TUN-013",
+  "ZMB-008",
+  "ZWE-012",
+  "ZWE-013"
+ ],
+ "removed_ids": [],
+ "changed_fields": {
+  "DZA-004": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "KEN-001": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "NAM-005": [
+   "total_floor_space_sqm",
+   "rack_capacity",
+   "carrier_neutrality",
+   "security_certifications",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "TZA-001": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "TUN-006": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "ZMB-003": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "ZAF-009": [
+   "key_tenants",
+   "ixp_presence",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "SEN-008": [
+   "year_operational",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "DZA-002": [
+   "operational_status",
+   "year_operational",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "CMR-001": [
+   "total_floor_space_sqm",
+   "it_capacity_mw",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "NGA-022": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "MWI-003": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "NGA-037": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "SDN-005": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "EGY-025": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "CIV-014": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "ZAF-010": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "CMR-006": [
+   "rack_capacity",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "BFA-004": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "SLE-005": [
+   "services_offered",
+   "operator_name",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "GNQ-002": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "SOM-001": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "COD-005": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "CMR-003": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "MUS-001": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "NGA-007": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "MAR-025": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "AGO-013": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "SSD-002": [
+   "raw_slugs",
+   "last_verified"
+  ],
+  "NER-002": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "NGA-017": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "BWA-002": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "EGY-006": [
+   "recent_investments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "AGO-012": [
+   "security_certifications",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "MAR-023": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "COD-007": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "KEN-011": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "ZAF-008": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "GMB-002": [
+   "raw_slugs",
+   "last_verified"
+  ],
+  "BFA-002": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "TCD-001": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "MOZ-001": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "NGA-008": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "TUN-007": [
+   "it_capacity_mw",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "SWZ-001": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "COM-001": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "AGO-004": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "NGA-004": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "SYC-002": [
+   "investment_usd",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "NGA-043": [
+   "recent_investments",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "ZWE-009": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "COD-002": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "TUN-001": [
+   "gpu_ai_capability",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "LSO-003": [
+   "operational_status",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "DZA-011": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "TCD-002": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "GNB-001": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "UGA-002": [
+   "cloud_platform",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "CIV-001": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "COD-001": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "AGO-003": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "SEN-002": [
+   "rack_capacity",
+   "it_capacity_mw",
+   "gpu_ai_capability",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "CMR-008": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "EGY-019": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "MRT-001": [
+   "key_tenants",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "TGO-001": [
+   "key_tenants",
+   "gpu_ai_capability",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "ZWE-007": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "SOM-002": [
+   "raw_slugs",
+   "last_verified"
+  ],
+  "MOZ-002": [
+   "expansion_plans",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "ZMB-001": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "GHA-017": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "KEN-028": [
+   "investment_usd",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "TUN-010": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "SEN-001": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "CPV-001": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "ZMB-004": [
+   "key_tenants",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "LBR-009": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "ETH-004": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "EGY-027": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "ZWE-006": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "MLI-001": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "EGY-026": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "AGO-002": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "DZA-001": [
+   "year_operational",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "SYC-001": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "ETH-002": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "COD-006": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "KEN-012": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "ZAF-012": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "LBR-008": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "TUN-005": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "NGA-044": [
+   "recent_investments",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "STP-001": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "TUN-011": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "GMB-001": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "EGY-016": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "NGA-016": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "ZAF-022": [
+   "key_tenants",
+   "gpu_ai_capability",
+   "server_vendors",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "GIN-002": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "DJI-003": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "SEN-009": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "BFA-003": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "SEN-005": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "MWI-002": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "MWI-008": [
+   "gpu_ai_capability",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "KEN-003": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "COM-002": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "TZA-002": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "TUN-002": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "CIV-003": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "GAB-002": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "AGO-005": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "EGY-001": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "SLE-001": [
+   "services_offered",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "CMR-005": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "MAR-030": [
+   "raw_slugs",
+   "last_verified"
+  ],
+  "COG-002": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "ETH-001": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "EGY-024": [
+   "raw_slugs",
+   "last_verified"
+  ],
+  "NGA-003": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "COG-003": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "CIV-013": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "MAR-021": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "ZAF-017": [
+   "security_certifications",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "CIV-004": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "CIV-006": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "NGA-001": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "CMR-002": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "ZAF-045": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "TUN-003": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "BWA-003": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "GAB-001": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "EGY-031": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "SDN-001": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "GHA-005": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "SDN-003": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "NAM-001": [
+   "govt_data_hosted",
+   "expansion_plans",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "SOM-007": [
+   "raw_slugs",
+   "last_verified"
+  ],
+  "GHA-004": [
+   "total_floor_space_sqm",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "NAM-003": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "MOZ-003": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "DZA-012": [
+   "year_operational",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "LBY-001": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "MUS-006": [
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "CIV-010": [
+   "services_offered",
+   "dfi_involvement",
+   "comments",
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "CIV-007": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "LBR-001": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "ZMB-002": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ],
+  "BWA-005": [
+   "source_urls",
+   "raw_slugs",
+   "last_verified"
+  ]
+ },
+ "statuses": {
+  "Operational": 449,
+  "Unknown": 65,
+  "Decommissioned": 5,
+  "Planned": 63,
+  "Under construction": 37,
+  "On hold": 2
+ },
+ "note": "Directory changes are not proof of newly commissioned facilities. Source-reported, not independently verified."
+}

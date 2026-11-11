@@ -1,0 +1,258 @@
+{
+ "reviewed_at": "2026-11-11",
+ "method": "Evidence qualification, not a payment test. No purchase or account signup performed. Historic source capture dates retained.",
+ "changes": [
+  {
+   "provider": "OpenAI",
+   "country": "NGA",
+   "prior_flags": {
+    "requires_foreign_card": "true",
+    "accepts_local_cards": "no",
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "OpenAI",
+   "country": "KEN",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "OpenAI",
+   "country": "ZAF",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "OpenAI",
+   "country": "GHA",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "OpenAI",
+   "country": "EGY",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "OpenAI",
+   "country": "MAR",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "OpenAI",
+   "country": "ETH",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "OpenAI",
+   "country": "RWA",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "OpenAI",
+   "country": "SEN",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "OpenAI",
+   "country": "CIV",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "Anthropic",
+   "country": "NGA",
+   "prior_flags": {
+    "requires_foreign_card": "true",
+    "accepts_local_cards": "no",
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "Anthropic",
+   "country": "KEN",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "Anthropic",
+   "country": "ZAF",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "Anthropic",
+   "country": "GHA",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "Anthropic",
+   "country": "EGY",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "Anthropic",
+   "country": "MAR",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "Anthropic",
+   "country": "ETH",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "Anthropic",
+   "country": "RWA",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "Anthropic",
+   "country": "SEN",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "Anthropic",
+   "country": "CIV",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "Google",
+   "country": "NGA",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "Perplexity",
+   "country": "NGA",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "Perplexity",
+   "country": "KEN",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "Perplexity",
+   "country": "ZAF",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "Perplexity",
+   "country": "GHA",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "Perplexity",
+   "country": "EGY",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "Perplexity",
+   "country": "MAR",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "Perplexity",
+   "country": "ETH",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "Perplexity",
+   "country": "RWA",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "Perplexity",
+   "country": "SEN",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  },
+  {
+   "provider": "Perplexity",
+   "country": "CIV",
+   "prior_flags": {
+    "accepts_local_payment_rails": "no"
+   },
+   "after": "unclear"
+  }
+ ]
+}

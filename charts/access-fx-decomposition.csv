@@ -1,11 +1,11 @@
 Country,Currency,Base date,Observation date,Base FX per USD,Latest FX per USD,Currency-only change,Base source,Latest source
-Nigeria,NGN,2026-01-15,2026-09-18,1418.7844,1330.7027,-6.2083%,Central Bank of Nigeria,Central Bank of Nigeria
-South Africa,ZAR,2026-01-15,2026-09-21,16.4105,16.2057,-1.2480%,South African Reserve Bank,South African Reserve Bank
-Kenya,KES,2026-01-15,2026-09-18,129.03,129.49,+0.3565%,Central Bank of Kenya,Central Bank of Kenya
+Nigeria,NGN,2026-01-15,2026-11-10,1418.7844,1350.3587,-4.8228%,Central Bank of Nigeria,Central Bank of Nigeria
+Kenya,KES,2026-01-15,2026-11-10,129.03,129.96,+0.7208%,Central Bank of Kenya,Central Bank of Kenya
+South Africa,ZAR,2026-01-15,2026-11-11,16.4105,16.5462,+0.8269%,South African Reserve Bank,South African Reserve Bank
 Rwanda,RWF,2026-01-15,2026-09-21,1447.0,1467.849976,+1.4409%,Yahoo Finance (USDRWF=X),Yahoo Finance (USDRWF=X)
-Senegal,XOF,2026-01-15,2026-09-18,561.0,572.39,+2.0303%,Yahoo Finance (USDXOF=X),BCEAO (Central Bank of West African States)
-Côte d'Ivoire,XOF,2026-01-15,2026-09-18,561.0,572.39,+2.0303%,Yahoo Finance (USDXOF=X),BCEAO (Central Bank of West African States)
-Morocco,MAD,2026-01-15,2026-09-18,9.2216,9.5119,+3.1480%,Bank Al-Maghrib,Bank Al-Maghrib
 Ethiopia,ETB,2026-01-15,2026-09-18,154.899994,160.649994,+3.7121%,Yahoo Finance (USDETB=X),Yahoo Finance (USDETB=X)
-Ghana,GHS,2026-01-15,2026-09-21,10.8,11.48,+6.2963%,Yahoo Finance (USDGHS=X),Yahoo Finance (USDGHS=X)
+Senegal,XOF,2026-01-15,2026-11-10,561.0,584.94,+4.2674%,Yahoo Finance (USDXOF=X),BCEAO
+Côte d'Ivoire,XOF,2026-01-15,2026-11-10,561.0,584.94,+4.2674%,Yahoo Finance (USDXOF=X),BCEAO
+Morocco,MAD,2026-01-15,2026-11-10,9.2216,9.7479,+5.7073%,Bank Al-Maghrib,Bank Al-Maghrib
+Ghana,GHS,2026-01-15,2026-11-10,10.8,11.7,+8.3333%,Yahoo Finance (USDGHS=X),Bank of Ghana
 Egypt,EGP,2026-01-15,2026-09-21,47.2692,51.8636,+9.7196%,Yahoo Finance (USDEGP=X),Central Bank of Egypt

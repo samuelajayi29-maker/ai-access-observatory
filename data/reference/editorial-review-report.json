@@ -1,10 +1,10 @@
 {
  "generated_at": "2026-11-11",
  "count": 911,
- "source_checked": 78,
+ "source_checked": 82,
  "flag_counts": {
   "african_relevance_not_recorded": 343,
-  "source_review_outstanding": 833,
+  "source_review_outstanding": 829,
   "topic_needs_review": 56
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
@@ -2506,8 +2506,8 @@
    "current_topic": "Pricing and affordability",
    "suggested_topic": "Pricing and affordability",
    "country": "",
-   "flags": "source_review_outstanding",
-   "source_checked": false
+   "flags": "",
+   "source_checked": true
   },
   {
    "headline": "MTN warns memory costs push entry smartphones from $30-50 to $80-100 as Africa shipments fall 27%",
@@ -8066,8 +8066,8 @@
    "current_topic": "Data centres and compute",
    "suggested_topic": "Data centres and compute",
    "country": "NGA",
-   "flags": "source_review_outstanding",
-   "source_checked": false
+   "flags": "",
+   "source_checked": true
   },
   {
    "headline": "Deploying DeepSeek 175B Locally on a Single Consumer-Grade RTX 4060 Laptop with 32GB RAM for 200k-Scale Protein-Ligand Virtual Screening",
@@ -8446,8 +8446,8 @@
    "current_topic": "Data centres and compute",
    "suggested_topic": "Data centres and compute",
    "country": "KEN",
-   "flags": "source_review_outstanding",
-   "source_checked": false
+   "flags": "",
+   "source_checked": true
   },
   {
    "headline": "The Cost of Empty Capacity in Africa's Data Centre Boom",
@@ -8496,8 +8496,8 @@
    "current_topic": "Data centres and compute",
    "suggested_topic": "Data centres and compute",
    "country": "",
-   "flags": "african_relevance_not_recorded; source_review_outstanding",
-   "source_checked": false
+   "flags": "african_relevance_not_recorded",
+   "source_checked": true
   },
   {
    "headline": "97 teams at the Deep Learning Indaba take on Africa's language-mixing problem",

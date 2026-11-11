@@ -429,6 +429,37 @@
    "reviewed_at": "2026-10-12",
    "observation_ids": [],
    "note": "The call covers health, language processing, agriculture and environment, with an application deadline of 24 August 2026. It does not report successful applicants, completed training or jobs created. The historical call is no longer presented as an open opportunity."
+  },
+  {
+   "signal_url": "https://businessday.ng/technology/article/nsia-bets-on-100mw-ai-data-centre-to-power-nigerias-digital-economy/",
+   "decision": "corrected_scope",
+   "reviewed_at": "2026-11-11",
+   "note": "Primary NSIA review: KASI full-campus 100 MW is a long-term design. LOS1 flag-off precedes phased commissioning and customer readiness; no quantified operational IT load established. Project source and scope corrected.",
+   "source_url": "https://nsia.com.ng/kasi-cloud-datacenters-commissions-west-africas-first-hyperscaleready-ai-capable-data-centre-campus-in-lagos/",
+   "observation_ids": []
+  },
+  {
+   "signal_url": "https://furtherafrica.com/2026/08/04/equinix-wins-approval-for-major-cape-town-data-centre-campus/",
+   "decision": "corrected_scope",
+   "reviewed_at": "2026-11-11",
+   "note": "The July approval and later appeal refer to the same two-site King Air Industria campus. Duplicate project merged; approval suspended pending appeal. Electrical demand is not critical IT load.",
+   "observation_ids": []
+  },
+  {
+   "signal_url": "https://techafricanews.com/2026/08/07/airtels-150m-kenya-data-centre-now-targets-july-2027-launch/",
+   "decision": "context_only",
+   "reviewed_at": "2026-11-11",
+   "note": "Airtel 30 October half-year filing confirms Kenya and Nigeria construction remains in progress. Later July 2027 Kenya target retained separately from older Q1 2027 target. Reported 44 MW design not added to comparable IT-load totals without its capacity basis.",
+   "source_url": "https://doclib.ngxgroup.com/Financial_NewsDocs/48263_AIRTEL_AFRICA_PLC-RESULTS_FOR_HALF_YEAR_ENDED_30_SEPTEMBER_2026_CORPORATE_ACTIONS_OCTOBER_2026.pdf",
+   "observation_ids": []
+  },
+  {
+   "signal_url": "https://www.lightreading.com/smartphones-devices/eurobites-african-smartphone-shipments-slump-39-in-q3",
+   "decision": "evidence_added",
+   "reviewed_at": "2026-11-11",
+   "observation_ids": [],
+   "note": "Added Q3 2026 Africa smartphone shipment change (-39%) to the device-shipments register. Primary Omdia release corroborates it; primary archive capture failed, so retained as supplementary trade-reported evidence. Not country data and not a price increase.",
+   "source_url": "https://omdia.tech.informa.com/pr/2026/oct/global-smartphone-shipments-fell-20percent-in-3q26-the-lowest-third-quarter-total-since-2013"
   }
  ]
 }

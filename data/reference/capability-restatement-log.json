@@ -107,5 +107,14 @@
    "prior_basis": "launch",
    "reason": "no score for this model on the restated index"
   }
+ ],
+ "subsequent_reviews": [
+  {
+   "reviewed_at": "2026-11-11",
+   "basis": "Artificial Analysis Intelligence Index v5.0.1",
+   "active_models": 8,
+   "previous_snapshot": "model-prices-before-2026-11-11.json",
+   "note": "New basis and model versions. Scores are not changes on the September scale. No score transferred between model versions. Current sources and variant labels are on each price row."
+  }
  ]
 }

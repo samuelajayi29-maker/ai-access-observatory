@@ -7,7 +7,7 @@
   "evidence_status",
   "temporal_status"
  ],
- "compiled": "2026-09-11",
+ "compiled": "2026-11-11",
  "observations": [
   {
    "date": "2026-08-25",
@@ -111,6 +111,41 @@
    "source_quality": "ok",
    "archive_url": "https://web.archive.org/web/20260917194024/https://www.legit.ng/business-economy/technology/",
    "archived_at": "2026-09-17"
+  },
+  {
+   "date": "2026-10-15",
+   "scope": "Global",
+   "metric": "Shipments, Q3 2026 (preliminary)",
+   "change_pct": -22,
+   "type": "actual",
+   "source": "IDC press release reproduced by I-Connect007",
+   "url": "https://iconnect007.com/article/152009/global-smartphone-shipments-drop-record-high-of-22-in-q3-2026-as-the-memory-crisis-hits-hard/152006/design",
+   "note": "Preliminary worldwide new smartphone shipments: 255.3 million, down 22.0% year-on-year. Global scope; not an African or national shipment estimate. Subject to IDC revisions.",
+   "geography_scope": "global",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "measured",
+   "headline_eligible": false,
+   "originating_source": "IDC",
+   "reviewed_at": "2026-11-11",
+   "source_quality": "ok"
+  },
+  {
+   "date": "2026-10-29",
+   "scope": "Africa",
+   "metric": "Smartphone shipments, Q3 2026",
+   "change_pct": -39,
+   "type": "actual",
+   "source": "Light Reading reporting Omdia",
+   "url": "https://www.lightreading.com/smartphones-devices/eurobites-african-smartphone-shipments-slump-39-in-q3",
+   "original_source_url": "https://omdia.tech.informa.com/pr/2026/oct/global-smartphone-shipments-fell-20percent-in-3q26-the-lowest-third-quarter-total-since-2013",
+   "note": "African smartphone shipments fell 39% year-on-year in Q3 2026. Corroborated against Omdia official 29 October release. The primary URL could not be archived in this sweep; retained under the trade-reporting source, not headline eligible. This is shipments, not retail sales or device price inflation. No country split is supplied.",
+   "geography_scope": "region",
+   "evidence_status": "trade_reporting",
+   "temporal_status": "measured",
+   "headline_eligible": false,
+   "originating_source": "Omdia",
+   "reviewed_at": "2026-11-11",
+   "source_quality": "ok"
   }
  ]
 }

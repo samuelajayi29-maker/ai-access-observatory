@@ -1,0 +1,18 @@
+{
+ "reviewed_at": "2026-11-11",
+ "prior_snapshot": "model-prices-before-2026-11-11.json",
+ "capability_verified": 8,
+ "method": "Official direct uncached standard/short-context quotes; DeepSeek peak and off-peak explicitly distinguished. Historical non-reverified routed promotion excluded from current comparisons. Index change is not a model performance change.",
+ "sources": [
+  "https://developers.openai.com/api/docs/pricing",
+  "https://platform.claude.com/docs/en/about-claude/pricing",
+  "https://aistudio.google.com/docs/pricing",
+  "https://api-docs.deepseek.com/quick_start/pricing/",
+  "https://platform.kimi.ai/docs/pricing/chat",
+  "https://docs.x.ai/developers/models",
+  "https://artificialanalysis.ai/models",
+  "https://openrouter.ai/api/v1/models"
+ ],
+ "verified_quotes": 21,
+ "active_comparable_models": 8
+}

@@ -7,7 +7,11 @@
   "published": "2026-07-08",
   "summary": "We analyze how four forces restructure the AI industry over 2026-2030: the DRAM/HBM price surge, frontier-capable open-weight models (GLM-5.2), rapid inference-efficiency gains (near-Shannon-limit KV-cache compression, lightweight local runtimes), and the entry of Meta and xAI into compute resale on fleets bought before the memory repricing. Formulating inference economics in dollars per petabyte of bandwidth delivered (\\$/PB) -- model-agnostic for bandwidth-bound decode -- we show the entrant-incumbent cost gap never closes: a depreciation conveyor delivers newly amortized fleets to incumbents faster than hardware prices normalize (3.2x in 2026, 1.9x in 2027, re-widening to 3-4x by 2029-30). Training bifurcates into a luxury tier (\\$18-38B per frontier run by 2030) and a mass tier (previous-frontier parity via RL/distillation falling toward \\$5M). Solvency of the announced buildout is confined to a corridor requiring roughly 2x annual token-demand growth for four years with sticky premium pricing; a measurement critique shows public token trackers overstate monetizable demand, and all pre-Q2-2026 projections predate the industry's shift from token maximization to token minimization. A vintage-breakeven analysis finds 2026 and 2028-29 capacity each fatally exposed to one pricing regime, with only the 2027 vintage robust. A greenfield custom-silicon entrant removes the merchant margin but not the memory premium (central outcome: 25% success/34% mediocre/41% loss, improvable via staged go/no-go gates). China's LineShine LX2 -- domestic HBM on a standard ISA -- decouples its cost curve from the memory crisis. Scenario probabilities: Rotating Landlord Oligopoly 25%, Commoditization Crash 25%, Jevons Absorption 20%, System-Layer Re-differentiation 18%, Geopolitical Bifurcation 12%. Solvency now depends on monetized bandwidth demand, premium stickiness, and vintage ownership.",
   "comment": "21 pages",
-  "fetched_at": "2026-09-22"
+  "fetched_at": "2026-11-11",
+  "updated": "2026-07-08",
+  "version": "2607.07207v1",
+  "journal_ref": "",
+  "doi": ""
  },
  "2603.23640": {
   "title": "LLM Inference at the Edge: Mobile, NPU, and GPU Performance Efficiency Trade-offs Under Sustained Load",
@@ -20,7 +24,11 @@
   "published": "2026-03-24",
   "summary": "Deploying large language models on-device for always-on personal agents demands sustained inference from hardware tightly constrained in power, thermal envelope, and memory. We benchmark Qwen 2.5 1.5B (4-bit quantised) across four platforms: a Raspberry Pi 5 with Hailo-10H NPU, a Samsung Galaxy S24 Ultra, an iPhone 16 Pro, and a laptop NVIDIA RTX 4050 GPU. Using a fixed 258-token prompt over 20 warm-condition iterations per device, we measure throughput, latency, power, and thermal behaviour. For mobile platforms, thermal management supersedes peak compute as the primary constraint: the iPhone 16 Pro loses nearly half its throughput within two iterations, and the S24 Ultra suffers a hard OS-enforced GPU frequency floor that terminates inference entirely. On dedicated hardware, distinct constraints dominate: the RTX 4050 is bounded by its battery power ceiling, while the Hailo-10H is limited by on-module memory bandwidth. The RTX 4050 sustains 131.7 tok/s at 34.1 W; the Hailo-10H sustains 6.9 tok/s at under 2 W with near-zero variance, matching the RTX 4050 in energy proportionality at 19x lower throughput. Results should be interpreted as platform-level deployment characterisations for a single model and prompt type, reflecting hardware and software combined, rather than general claims about hardware capability alone.",
   "comment": "14 pages, 5 figures, 10 tables",
-  "fetched_at": "2026-09-22"
+  "fetched_at": "2026-11-11",
+  "updated": "2026-06-07",
+  "version": "2603.23640v2",
+  "journal_ref": "",
+  "doi": ""
  },
  "2609.06940": {
   "title": "Unified AI Gateway: A Framework for Joint Model Routing and KV Cache Management",
@@ -32,7 +40,11 @@
   "published": "2026-09-07",
   "summary": "Large language model (LLM) inference increasingly spans models that differ in size, capability, price, and provider. This shift creates two costs for developers. One is the integration cost of choosing among and switching between many models. The other is the inference cost of rebuilding a KV cache when it is unavailable or incompatible with the selected model. We define and analyze the Unified AI Gateway as a system setting for an edge-deployed AI traffic hub. It coordinates model routing, KV cache management, and compute placement across end devices, edge resources, and cloud model services. At request time, the gateway jointly selects a target model, an execution site, and a KV cache action under task-quality, latency, cost, and resource constraints. In parallel, background cache-management actions optimize KV cache placement, replication, retrieval, and lifecycle decisions for subsequent requests. We synthesize existing evidence on KV cache reuse, compression, cross-model mapping, distributed storage, and transfer, and discuss the remaining challenges of integrating these capabilities into one system. Across eight typical workload profiles, our workload-level analytical simulation reports TTFT speedups of 1.25$\\times$--13.28$\\times$ and input-cost benefits of 1.20$\\times$--6.16$\\times$.",
   "comment": "15 pages, 5 figures",
-  "fetched_at": "2026-09-22"
+  "fetched_at": "2026-11-11",
+  "updated": "2026-09-07",
+  "version": "2609.06940v1",
+  "journal_ref": "",
+  "doi": ""
  },
  "2609.08307": {
   "title": "A Measurement Study of LLM Inference Trade-offs Across Edge Continuum Hardware",
@@ -46,7 +58,11 @@
   "published": "2026-09-08",
   "summary": "Large language models (LLMs) are increasingly used as backends for intelligent web services, but serving them across the edge continuum requires balancing quality, latency, model footprint, and energy. This paper presents a controlled measurement study of self-hosted LLM inference across edge and near-edge deployment nodes: an NVIDIA Jetson AGX Orin and a near-edge server with CPU-only and GPU-enabled inference modes. We evaluate multiple open-weight LLMs and quantization variants using a fixed question-answering workload, and compare them against GPT-4o as a cloud-hosted accuracy and latency reference. Our benchmarking pipeline reports accuracy, model footprint, per-token decoding latency, prefill latency, and overall execution energy. The results show that GPU-enabled server execution provides the lowest compute-side latency, while Jetson Orin shows lower measured energy, consistent with its lower platform power under our setup. CPU-only execution is consistently dominated in latency for our workload and shows higher measured energy. We also show that parameter count and downloaded weight-file size alone do not reliably predict observed accuracy or latency. Finally, using Pareto-frontier analysis, we study how deployment decisions may change under possible streamed-token delivery overheads, highlighting that compute-side inference metrics alone can lead to suboptimal placement for latency-sensitive interactive web services.",
   "comment": "Accepted for publication at WIMS 2026",
-  "fetched_at": "2026-09-22"
+  "fetched_at": "2026-11-11",
+  "updated": "2026-09-08",
+  "version": "2609.08307v1",
+  "journal_ref": "",
+  "doi": ""
  },
  "2609.21756": {
   "title": "When AI Enters the Workplace, Who Faces Greater Risks? A Gendered Analysis",
@@ -56,12 +72,17 @@
    "Damiano Giallongo",
    "Davide Ghia",
    "Maryam Yaqub",
-   "Daniele Quercia"
+   "Daniele Quercia",
+   "Tania Cerquitelli"
   ],
   "published": "2026-09-18",
   "summary": "Gender inequality remains a persistent structural feature of the labour market, shaping women's lifetime earnings and economic security. As artificial intelligence (AI) transforms organisational practices, there is growing concern that existing disparities may be unintentionally amplified through task automation, unequal access to upskilling opportunities, and differential returns obtained from technological change. In this paper, we examine how exposure to AI-driven innovation varies across male- and female-dominated occupations, with particular attention to differences across the skill and wage distribution. Using a novel dataset that links occupational characteristics to measures of AI exposure, we analyse how recent advances in Large Language Models (LLMs) and broader AI technologies are distributed across the labour market. Our findings show that, while AI exposure is generally concentrated in higher-skilled and higher-paid occupations for male-dominated occupations, female-dominated occupations display relatively uniform levels of exposure across both high-skilled, high-paid, and low-skilled, low-paid occupations. Moreover, we find that LLM-related exposure is higher in female-dominated occupations, while exposure to broader AI innovation remains more concentrated in male-dominated occupations. A triangulation of these results with existing literature suggests that women, particularly those in the most vulnerable positions (lower-skilled and lower-paid female-dominated occupations), may face greater exposure to forms of AI associated with task automation, job restructuring, reduction of wages and limited career progression.",
   "comment": "12 pages, 5 figures, 8 tables. Accepted at the 2026 AAAI/ACM Conference on AI, Ethics, and Society (AIES 2026)",
-  "fetched_at": "2026-09-22"
+  "fetched_at": "2026-11-11",
+  "updated": "2026-09-18",
+  "version": "2609.21756v1",
+  "journal_ref": "",
+  "doi": ""
  },
  "2606.28404": {
   "title": "Financing Artificial Intelligence Infrastructure: Mapping AI Infrastructure Investment and Compute Governance Across Africa",
@@ -76,7 +97,11 @@
   "published": "2026-06-24",
   "summary": "Artificial intelligence depends on large-scale compute resources and their supporting infrastructure. However, AI governance debates treat compute primarily as a technical input rather than as an outcome of investment, ownership, and financial control. This paper examines AI infrastructure investment flows across Africa through a systematic analysis of 46 publicly announced projects totalling USD $12.7 billion between 2019 and 2025. Using a value chain framework, we analyze who invests in AI-relevant infrastructure and where investments concentrate. Our findings reveal a highly concentrated landscape dominated by global data center operators, hyperscale technology firms, and development finance institutions, clustering in South Africa, Kenya, Nigeria, and Egypt. We introduce asymmetrical interdependence to describe a structural condition in which capital and physical infrastructure account for 73% of total funding while control remains concentrated in the compute layer among a small number of global technology firms. We argue that compute governance must account for capital flows, ownership, and control, not only geographic access, because these dynamics shape AI compute equity. Infrastructure presence is necessary but insufficient for meaningful governance capacity.",
   "comment": "14 pages; two figures. Currently under review at Data and Policy journal",
-  "fetched_at": "2026-09-22"
+  "fetched_at": "2026-11-11",
+  "updated": "2026-06-24",
+  "version": "2606.28404v1",
+  "journal_ref": "",
+  "doi": ""
  },
  "2607.25335": {
   "title": "Every Time I Hire a Linguist, Inference Costs Go Down: On Linguistic Rules as Effective Prompt Compressors",
@@ -88,8 +113,12 @@
   ],
   "published": "2026-07-28",
   "summary": "Prompt compression shortens LLM input to reduce inference cost, yet existing methods score token importance through LM forward passes. It remains questionable whether such nuanced, costly token selection is necessary. Compression requires identifying informative content, a problem that linguistic research has long addressed through cues that can be operationalized as deterministic rules. We therefore ask: can \\textbf{linguistic rules alone} serve as effective prompt compressors, without LM-based scoring at compression time? To address this, we conduct offline evolutionary search over lexical, syntactic, semantic, and discourse seeds to find competitive rule combinations. The resulting linguistic compressor requires no LM forward pass at deployment and uses only CPU-side processing for compression. We evaluate it with a dual-path protocol to balance compression quality and reconstruction fidelity. Across short passages, multi-document reasoning, and dialogue-memory QA datasets, evolved compressors achieve performance similar to that of recent advanced prompt-compression strategies. Performance is strongest under light-to-moderate compression and degrades as compression becomes more aggressive, while the Direct and Reconstruction paths exhibit distinct patterns. Evolutionary analysis reveals that effective compression fuses signals across linguistic levels and, as the compression ratio increases, rules shift from token pruning to sentence extraction.",
-  "comment": "37 pages, 6 figures, under review paper",
-  "fetched_at": "2026-09-22"
+  "comment": "EMNLP 2026",
+  "fetched_at": "2026-11-11",
+  "updated": "2026-10-14",
+  "version": "2607.25335v3",
+  "journal_ref": "",
+  "doi": ""
  },
  "2608.12875": {
   "title": "The Embedder's Dilemma: LLMs Are Better, but at What Cost?",
@@ -101,7 +130,11 @@
   "published": "2026-08-13",
   "summary": "Should you replace your text-embedding pipeline with a large language model? We answer this with a controlled, cost-aware comparison of ten LLMs across six families and 26 embedding models (118M to 14B parameters) on 37 tasks spanning classification, semantic textual similarity (STS), clustering, pair classification, and retrieval. In aggregate the two paradigms are effectively tied: the best LLM (Gemini 3.1 Pro, 77.6) and the best embedding model (77.2) differ by 0.4 points. Their strengths differ by task: LLMs lead on reasoning-heavy retrieval, embedding models lead on classification, and the two match on clustering, STS, and pair classification. Reaching that parity is expensive. An LLM costs up to 1,431x more than an embedding model of comparable quality (USD 154 vs. USD 0.11 per benchmark pass), and the open LLMs tested process tokens 2.5 to 736x more slowly on the same GPU. Reasoning tokens account for 28 to 81% of LLM inference cost; lower reasoning budgets preserve or improve retrieval quality for most models in our ablation. The Pareto frontier contains the leading embedding models and one LLM, Gemini 3.1 Pro. These results support a division of labour: use embedding models for similarity, classification, and clustering, and reserve LLMs for reasoning-intensive retrieval. Our code, datasets, and results are publicly available at https://github.com/embeddings-benchmark/embedders-dilemma.",
   "comment": "Accepted to COLM 2026",
-  "fetched_at": "2026-09-22"
+  "fetched_at": "2026-11-11",
+  "updated": "2026-08-13",
+  "version": "2608.12875v1",
+  "journal_ref": "",
+  "doi": ""
  },
  "2608.13426": {
   "title": "Reduced Matrix Multiplication: Input-Adaptive Matrix-Product Reduction for LLM Inference",
@@ -113,7 +146,11 @@
   "published": "2026-08-13",
   "summary": "Transformer-based language models achieve strong performance but incur substantial inference cost due to repeated high-dimensional matrix multiplications. We propose Reduced Matrix Multiplication (RMM), a training-free, input-adaptive inference method that reduces Transformer matrix products by selecting informative slices along their contraction dimensions, without modifying model weights. Under a simple retention-ratio control, RMM provides a smooth and predictable accuracy-efficiency trade-off. Across language models ranging from 1B to 70B parameters, we find that reduction tolerance depends on the model family, task, component, and retention ratio, although it often improves with model scale. Under moderate reduction, RMM remains robust across the evaluated discriminative, autoregressive generation, and long-context settings. We further show that the same principle extends to multimodal vision-language inference. Mechanistic ablations reveal a structural asymmetry within Transformers: attention-side computations are substantially more reducible than MLP components. Finally, wall-clock benchmarks with custom kernels on an NVIDIA A100 show that these computational savings can translate into practical runtime gains, especially at longer sequence lengths. Together, these results position RMM as a scalable direction for input-adaptive inference-time optimization.",
   "comment": "",
-  "fetched_at": "2026-09-22"
+  "fetched_at": "2026-11-11",
+  "updated": "2026-08-31",
+  "version": "2608.13426v2",
+  "journal_ref": "",
+  "doi": ""
  },
  "2609.19096": {
   "title": "Prepared Or Unprepared? Evaluating Healthcare Workforce Readiness for Clinical Adoption of Artificial Intelligence in Nigeria",
@@ -123,12 +160,19 @@
    "Um-mulkhairi Ibrahim",
    "Tolulope Olusuyi",
    "Shaheeda Farouq",
-   "Safwan M. Dafi"
+   "Safwan M. Dafi",
+   "Adaobi C. Emegoakor",
+   "Yewande Gbadamosi",
+   "Maruf Adewole"
   ],
   "published": "2026-09-16",
   "summary": "Artificial intelligence (AI) is increasingly integrated into healthcare systems worldwide, yet its successful clinical adoption depends critically on workforce readiness, particularly in low- and middle-income countries (LMICs) where infrastructural and training gaps persist. This cross-sectional study evaluated awareness, attitudes, preparedness, and barriers to AI adoption among 761 healthcare professionals across multiple disciplines and practice settings in Nigeria. Data were collected between December 2025 and March 2026 using a structured, validated questionnaire. Overall awareness of AI in healthcare was high (92.6%); however, objective knowledge and self-reported preparedness remained limited, with 40.9% reporting low or very low knowledge and only 63.0% feeling adequately prepared. Willingness to adopt AI was high: 92.5% expressed interest in training, and 78.7% supported inclusion of AI education in undergraduate curricula. Key barriers included lack of training (84.7%), poor infrastructure (71.1%), high cost of AI tools (61.0%), fear of job displacement (60.6%), ethical concerns (52.9%), and data privacy concerns (52.7%). Significant differences in preparedness were observed across geopolitical zones (chi-square (5) = 24.28, p < 0.001), and awareness differed across professional groups (chi-square (6) = 68.38, p < 0.001). Attitudes toward AI differed significantly across professional groups (F = 3.32, p = 0.003), with professionals who felt prepared demonstrating more positive attitudes (mean = 3.74) compared to those who did not (mean = 3.46). These findings reveal a critical disconnect between high awareness and actual readiness, underscoring the need for targeted training, infrastructure investment, and clear implementation frameworks to bridge the gap between AI technological potential and clinical reality in resource-constrained settings.",
   "comment": "Accepted for publication at the AFRICAI Workshop (MICCAI 2026)",
-  "fetched_at": "2026-09-22"
+  "fetched_at": "2026-11-11",
+  "updated": "2026-09-16",
+  "version": "2609.19096v1",
+  "journal_ref": "",
+  "doi": ""
  },
  "2510.26136": {
   "title": "Beyond Benchmarks: The Economics of AI Inference",
@@ -138,12 +182,21 @@
    "Mingqian Liu",
    "Mingxing Yu",
    "Ping Hong",
-   "Rui Li"
+   "Rui Li",
+   "Xiaoxia Song",
+   "Xiangjun Xu",
+   "Xu Chen",
+   "Yaoyao Ma",
+   "Yujie Gao"
   ],
   "published": "2025-10-30",
   "summary": "The inference cost of Large Language Models (LLMs) has become a critical factor in determining their commercial viability and widespread adoption. This paper introduces a quantitative ``economics of inference'' framework, treating the LLM inference process as a compute-driven intelligent production activity. We analyze its marginal cost, economies of scale, and quality of output under various performance configurations. Based on empirical data from WiNEval-3.0, we construct the first ``LLM Inference Production Frontier,'' revealing three principles: diminishing marginal cost, diminishing returns to scale, and an optimal cost-effectiveness zone. This paper not only provides an economic basis for model deployment decisions but also lays an empirical foundation for the future market-based pricing and optimization of AI inference resources.",
   "comment": "",
-  "fetched_at": "2026-09-22"
+  "fetched_at": "2026-11-11",
+  "updated": "2025-10-30",
+  "version": "2510.26136v1",
+  "journal_ref": "",
+  "doi": ""
  },
  "2608.18655": {
   "title": "TranslatePsy-AfriSLM: High-Quality Data Scaling For Low-Resource Machine Translation",
@@ -156,7 +209,11 @@
   "published": "2026-08-19",
   "summary": "The rapid progress in Artificial Intelligence has largely bypassed African languages, creating a digital divide that limits AI adoption on the continent. Recent open-source LLMs systematically underperform on African language machine translation, while the lack of large-scale, high-quality, open-source parallel data has constrained the development of competitive small language models (SLMs). We introduce TranslatePsy-AfriSLM, a collection of open-source machine translation resources for 19 Sub-Saharan African languages, including curated parallel data, African-specialized synthetic data, and a family of fine-tuned SLMs. Our empirical study shows that unified quality-estimation filtering removes up to 96% of training tokens without degrading quality, and that filtered synthetic data dominates the quality-efficiency Pareto frontier. Fine-tuned on the resulting data mixture, TranslatePsy-AfriSLMs outperform substantially larger systems, including TranslateGemma-27B and Qwen3.5-122B-A10B, with as few as 0.8B parameters.",
   "comment": "EMNLP 2026 (main conference)",
-  "fetched_at": "2026-09-22"
+  "fetched_at": "2026-11-11",
+  "updated": "2026-08-26",
+  "version": "2608.18655v2",
+  "journal_ref": "",
+  "doi": ""
  },
  "2607.13080": {
   "title": "Inference Economics of Enterprise Coding Agents: A Case Study of Cloud vs. On-Premise LLMs",
@@ -168,7 +225,11 @@
   "published": "2026-07-13",
   "summary": "Autonomous coding agents force engineering organizations to choose between API-based frontier models -- strong reasoning at high token cost -- and on-premise quantized open-weights models, which promise low-marginal-cost scaling and data sovereignty at some loss of reasoning fidelity. We study this trade-off through a single-developer, non-randomized longitudinal case study over two contiguous 28-day periods on a production monorepo: an API-based Claude Opus 4.7/4.8 configuration using Claude Code versus an on-premise GLM-5.1/5.2 configuration using Opencode, quantized to NVFP4, on NVIDIA Blackwell hardware. Analyzing LLM telemetry and Git history, we find that prompt caching (99.3% hit rate) cuts realized API cost by 88.6% to an effective \\$0.57 per million tokens -- below even the \\$2.83 amortized unit cost of the shared on-premise slice (a utilization-dependent inversion; total realized spend and total cost of ownership (TCO) are the robust quantities). At comparable gross code churn, the local configuration was associated with a far higher defect-repair burden: a Fix Commit Ratio (FCR) of 74.9% versus 45.9%, with the odds of a commit being a repair 2.6 to 4.9 times higher within every difficulty tier (Mantel-Haenszel OR = 3.61). Under Taiwan-market parameters and a symmetric labor model, on-premise deployment nonetheless saves 40.1% of true TCO under shared GPU allocation, whereas dedicated reservation costs 43.8% more than the cached API. Under shared allocation, the genuine penalty is not monetary but a measurable developer-experience burden -- timestamp indicators show more work trapped in debugging spirals and a slower commit cadence -- and an offline replay shows hybrid routing gateways trade defect rate for infrastructure savings along a cost-quality frontier rather than dominate the pure-API baseline.",
   "comment": "20 pages, 13 figures, 14 tables. Industrial longitudinal case study",
-  "fetched_at": "2026-09-22"
+  "fetched_at": "2026-11-11",
+  "updated": "2026-07-13",
+  "version": "2607.13080v1",
+  "journal_ref": "",
+  "doi": ""
  },
  "2609.15230": {
   "title": "ETCInfer: An Energy-efficient Thermal-aware Cooling-joint Scheduler for LLM Inference in AI Datacenters",
@@ -182,7 +243,11 @@
   "published": "2026-09-14",
   "summary": "Large language model (LLM) inference in AI datacenters creates a coupled control problem between GPU serving and facility cooling. Raising ambient temperature setpoints can reduce cooling energy and carbon, but also shrinks thermal headroom, induces GPU throttling, and leads to Service-Level-Objective (SLO) violations. In this paper, we study joint cooling--computing control for LLM inference: minimizing per-job GPU-plus-cooling energy while satisfying thermal safety and latency SLO constraints. We present ETCInfer, an energy-efficient, thermal-aware scheduler that selects a pre-job Computer Room Air Conditioner (CRAC) setpoint and adapts per-GPU frequency and micro-batch size during execution. ETCInfer builds compact physics-informed control models by calibrating GPU heat generation, chassis heat dissipation, CRAC power, and prefill/decode latency relations from telemetry. These models estimate hidden thermal states and time-to-throttle, enabling the scheduler to evaluate energy, temperature, and latency before applying an action. We formulate this joint setpoint--frequency--micro-batch control problem as a partially observable Markov decision process and design ETCAdapter, a learning-based controller that minimizes per-job energy under thermal safety and SLO constraints. We implement ETCInfer as a coordination layer over typical inference and cluster management stacks. Evaluation across real-trace simulation and validation experiments shows that ETCInfer reduces total job energy by up to 33.1%, thermal throttle exposure by up to 92.9%, and keeps SLO violation rates below 0.7% even at ambient temperatures up to $48^{\\circ}\\mathrm{C}$.",
   "comment": "16 pages",
-  "fetched_at": "2026-09-22"
+  "fetched_at": "2026-11-11",
+  "updated": "2026-09-14",
+  "version": "2609.15230v1",
+  "journal_ref": "",
+  "doi": ""
  },
  "2608.18554": {
   "title": "CentaurBench: Benchmarking LLM Capabilities on Augmenting vs. Automating Real-World Work Tasks",
@@ -195,7 +260,11 @@
   "published": "2026-08-19",
   "summary": "Most LLM benchmarks rank models on their ability to automate work tasks. In practice, however, models are often used to assist other (human or LLM) agents. The question that drives model selection is therefore not only which model produces the best output, but which model most improves the work of another (weaker) agent. We introduce a unified framework that evaluates the capability of models to automate and augment another agent's performance. Across seven economically grounded real-world tasks, an assistant model writes assistance text for a standardized lower-capacity worker model, which produces the deliverable. In automation mode, the assistant produces the output directly. Outputs are scored through blind pairwise comparisons by an LLM judge panel with task-specific rubrics, replicated across ten runs. Rankings across the two regimes are only modestly correlated, and the automation winner loses augmentation on five of seven tasks. Assistance is not reliably positive. The unaided worker outranks every assisted condition on three tasks, and only one model's guidance beats no guidance on average. These results suggest that automation ability is an incomplete proxy for assistance quality, motivating benchmarks that evaluate models according to the roles they play in human-AI and multi-agent systems.",
   "comment": "46 pages, 15 figures",
-  "fetched_at": "2026-09-22"
+  "fetched_at": "2026-11-11",
+  "updated": "2026-08-19",
+  "version": "2608.18554v1",
+  "journal_ref": "",
+  "doi": ""
  },
  "2608.26089": {
   "title": "From Producing to Validating: How AI Is Deskilling Freelancers",
@@ -205,7 +274,11 @@
   "published": "2026-08-26",
   "summary": "Generative AI is promoted as a way to enhance knowledge work, yet its benefits and drawbacks fall unevenly across the workforce. Freelance and gig workers, who commonly lack the upskilling pathways available to traditional employees, face heightened risks to both skill development and job security as AI adoption advances. We review empirical evidence on AI's impact on knowledge-worker workflows and upskilling, then predict the primary and downstream effects of AI adoption among clients and workers in the freelance economy. We anchor this in two cases of the same shift, machine-translation post-editing and software development. We argue that freelancers are the leading edge of a change that also reaches salaried HCI practitioners, and we close with questions for the platforms and clients that mediate this work, and for HCI researchers.",
   "comment": "",
-  "fetched_at": "2026-09-22"
+  "fetched_at": "2026-11-11",
+  "updated": "2026-08-26",
+  "version": "2608.26089v1",
+  "journal_ref": "",
+  "doi": ""
  },
  "2609.23421": {
   "title": "Beyond PUE: A Local Impact Audit Framework for Data Center Environmental Accountability",
@@ -216,7 +289,11 @@
   "published": "2026-09-20",
   "summary": "Standard data center sustainability metrics, including Power Usage Effectiveness (PUE), Water Usage Effectiveness (WUE), and Carbon Usage Effectiveness (CUE), measure a facility's resource use and emissions intensity, normalized to IT energy use, without directly representing local resource scarcity, infrastructure capacity, or social footprint. This gap has become politically consequential. In the first quarter of 2026 alone, local opposition delayed or canceled roughly $130 billion in projects across the United States, driven overwhelmingly by recurring concerns over water use, power demand, infrastructure capacity, and transparency rather than internal efficiency, matching the total for all of 2025 [11]. We propose a five-category local impact audit framework covering efficiency, water stewardship, carbon and renewables, regulatory compliance, and local disclosure. The framework is designed for recurring quarterly assessment and independent verification against public records. We illustrate its application using publicly available data from three Illinois facilities that are currently at the center of local policy disputes, and we examine the data-access barriers that constrain independent verification. We position this framework as both a research contribution and a practical instrument for county-level policymakers evaluating data center permitting and moratorium decisions.",
   "comment": "",
-  "fetched_at": "2026-09-22"
+  "fetched_at": "2026-11-11",
+  "updated": "2026-09-20",
+  "version": "2609.23421v1",
+  "journal_ref": "",
+  "doi": ""
  },
  "2608.30877": {
   "title": "Deploying DeepSeek 175B Locally on a Single Consumer-Grade RTX 4060 Laptop with 32GB RAM for 200k-Scale Protein-Ligand Virtual Screening",
@@ -227,7 +304,11 @@
   "published": "2026-08-31",
   "summary": "Recent advances in large language models (LLMs) have demonstrated exceptional performance in protein-ligand interaction prediction, but state-of-the-art pipelines for large-scale virtual screening almost exclusively rely on high-end GPU clusters with hundreds of gigabytes of memory, creating prohibitive hardware barriers for small academic teams. In this work, we present a fully local low-resource framework that deploys the 175-billion-parameter DeepSeek 175B LLM on a single consumer-grade RTX 4060 laptop equipped with 32GB system RAM and 8GB VRAM, completing a full 200k-scale protein-ligand virtual screening workflow across 20 distinct protein targets. Our implementation achieves 100x throughput of an 8-card A100 cluster baseline under identical task configurations within 72 hours, with an average binding affinity prediction error of 0.88 kcal/mol across all targets, satisfying the 1.0 kcal/mol chemical accuracy requirement for preclinical drug discovery. Systematic runtime profiling reveals that heterogeneous memory management overhead accounts for 72% of total execution time, while accuracy loss introduced by model optimization contributes less than 10% to total prediction error. This work validates the engineering feasibility of running industrial-scale trillion-parameter LLM-driven biomedical computing tasks on consumer hardware, establishing a new low-barrier paradigm for AI-powered early stage drug discovery.",
   "comment": "",
-  "fetched_at": "2026-09-22"
+  "fetched_at": "2026-11-11",
+  "updated": "2026-08-31",
+  "version": "2608.30877v1",
+  "journal_ref": "",
+  "doi": ""
  },
  "2609.24016": {
   "title": "Context-Aware Pre-Deployment Evaluation of AI Systems: A Regulatory Framework for Nigerian Fintech",
@@ -239,7 +320,11 @@
   "published": "2026-09-21",
   "summary": "Commercial large language models are increasingly deployed across African fintech infrastructure for fraud detection and customer communication, yet no Nigerian or African continental regulatory instrument specifies what pre-deployment evaluation such systems must undergo before procurement. This paper reviews African fintech AI governance across global, continental, and Nigerian instruments, and shows that safety is affirmed as a principle while pre-deployment evaluation is operationally unspecified. Generic safety benchmarks cannot surface the failure modes most relevant to this domain, since none contain Nigerian institutional content or test for false positive misclassification of legitimate financial communications. These claims are demonstrated using SafeAlert, a purpose-built evaluation kit applied to six commercial models across three system prompt conditions. Results show that models resisting generic harmful content requests still produce complete fraud scripts under specific framing, and that several models misclassify most legitimate Nigerian bank communications as suspicious or fraudulent, a failure invisible to standard safety evaluation. The paper concludes with a regulatory framework proposing pre-deployment evaluation requirements for the CBN, NITDA, SEC, and the AU, arguing that the identified gap reflects an absence of regulatory specification, not a shortage of technical or financial resources.",
   "comment": "",
-  "fetched_at": "2026-09-22"
+  "fetched_at": "2026-11-11",
+  "updated": "2026-09-21",
+  "version": "2609.24016v1",
+  "journal_ref": "",
+  "doi": ""
  },
  "2609.14643": {
   "title": "BigMoMo: Efficient Inference of Large-Scale MoE with Speculative Decoding on Mobile Devices",
@@ -249,12 +334,20 @@
    "Taohong Han",
    "Haoze Chi",
    "Jiayu Chen",
-   "Zihao Zheng"
+   "Zihao Zheng",
+   "Zimo Guo",
+   "Jie Zhang",
+   "Guojie Luo",
+   "Xiang Chen"
   ],
   "published": "2026-09-13",
-  "summary": "Mixture-of-Experts (MoE) models expand language model capacity on smartphones, but expert offloading remains constrained by limited DRAM capacity and costly data movement. Sequential token routing couples expert execution to fragmented flash reads and multistage NPU preparation, leaving sparse computation stalled on weight transfers. Each transfer serves few tokens before execution moves on. We exploit the multi-token verification window of speculative decoding to decouple expert movement from single-token execution, enabling weight reuse, contiguous flash reads, and load-compute overlap. We present \\textsc{BigMoMo}, a mobile MoE runtime that exploits this window across the memory hierarchy. It prunes speculative branches and expert activations using acceptance rates, routing impact, and movement cost; reorganizes on-flash experts according to runtime co-loading patterns; and batches ready experts to overlap NPU computation with pending transfers. Across four MoE models and five benchmarks on two mobile platforms, \\textsc{BigMoMo} achieves mean decoding speedups of $4.83\\times$ over on-demand autoregressive offloading and $1.82\\times$ over the best speculative MoE baseline, supporting MoE models up to 30B parameter.",
+  "summary": "Mixture-of-Experts (MoE) models expand language model capacity on smartphones, but expert offloading remains constrained by limited DRAM capacity and costly data movement. Sequential token routing couples expert execution to fragmented flash reads and multistage NPU preparation, leaving sparse computation stalled on weight transfers. Each transfer serves few tokens before execution moves on. We exploit the multi-token verification window of speculative decoding to decouple expert movement from single-token execution, enabling weight reuse, contiguous flash reads, and load-compute overlap. We present \\textsc{BigMoMo}, a mobile MoE runtime that exploits this window across the memory hierarchy. It prunes speculative branches and expert activations using acceptance rates, routing impact, and movement cost; reorganizes on-flash experts according to runtime co-loading patterns; and batches ready experts to overlap NPU computation with pending transfers. Across four MoE models and five benchmarks on two mobile platforms, \\textsc{BigMoMo} achieves mean decoding speedups of $4.83\\times$ over on-demand autoregressive offloading and $1.82\\times$ over the best speculative MoE baseline, supporting MoE models up to 80B parameter.",
   "comment": "14 pages,15 figures,preprint,under review",
-  "fetched_at": "2026-09-22"
+  "fetched_at": "2026-11-11",
+  "updated": "2026-10-03",
+  "version": "2609.14643v2",
+  "journal_ref": "",
+  "doi": ""
  },
  "2608.17111": {
   "title": "Stranded Credentials: Keeping Online Reputation Systems Informative in the AI Era",
@@ -264,7 +357,11 @@
   "published": "2026-08-17",
   "summary": "Platforms summarize providers' past achievements into credentials that buyers use to judge quality. Generative AI can now produce much of the work those achievements certify, raising fears that those quality signals are worthless. We audit how well such credentials stay informative in Kaggle's 2010-2026 archive, where medals are won on predictions scored against withheld answers and two evaluation formats ran side by side. Across 444,698 participations, a medal's power to predict performance sits almost entirely in its first year, in both formats and eras. Fresh medals kept most of their value through the AI transition. About half of the collapse in the informativeness of one format's medals is institutional: the platform had been phasing out that format before AI, and its medal stock aged out on schedule. Old medals look more informative only in isolation. The platform's official lifetime-tier display discards up to a sixth of the medals' predictive power. A recency-weighted index fit before the AI era explains AI-era performance about 13% better than the tiers and selects entrants who perform better on average, though the tiers still identify extreme top performers better. Displaying a recent-performance summary alongside the lifetime tiers would recover the discarded information for buyers.",
   "comment": "22 pages including appendix, 6 figures. Revised version, September 2026: new title, points-ranking benchmark, screening exercise, attribution stated as the identified component. Data and code: https://doi.org/10.17605/OSF.IO/GQW9B",
-  "fetched_at": "2026-09-22"
+  "fetched_at": "2026-11-11",
+  "updated": "2026-09-14",
+  "version": "2608.17111v2",
+  "journal_ref": "",
+  "doi": ""
  },
  "2609.08189": {
   "title": "Do Dynamic Routers Need Memory? HeRo: History-Aware Routing for Efficient LLM Inference",
@@ -276,6 +373,351 @@
   "published": "2026-09-08",
   "summary": "Dynamic layer routing reduces the inference cost of Large Language Models (LLMs) by learning to skip layers for individual tokens. Existing methods, however, treat each routing decision as a local operation conditioned solely on the current hidden state which is a formulation that overlooks the sequential, path-dependent nature of routing across depth: earlier decisions shape the representations seen by downstream routers, and the layer-usage objective couples all decisions jointly. We propose History-Aware Routing (HeRo), a dynamic routing framework that resolves this mismatch by introducing a router memory mechanism to maintain an explicit routing state across model depth. The memory is constructed via linear attention, incrementally aggregating preceding routing scores and their induced residual updates into a compact history representation. At each routed layer, the router conditions jointly on this accumulated state and the current hidden representation to select the executed branch. Instantiated for token-wise FFN routing, HeRo trains only lightweight routers and adapters on a frozen backbone, requiring no modification to pretrained parameters. Across Llama 3.1-8B, Llama 2-7B, and Llama 2-13B, HeRo consistently achieves the highest aggregate performance retention among ten baselines. On Llama 3.1-8B, it bypasses 26.87% of model parameters while achieving 100.24% of dense model performance across seven benchmarks, and retains 97.01% while bypassing 38.82% of model parameters under a tighter computation budget. Ablation studies confirm that removing routing history consistently degrades performance, most notably on multistep reasoning and code generation, validating that explicit routing memory enables more accurate and adaptive dynamic routing than solely conditioning on hidden state.",
   "comment": "9 pages, 2 figures",
-  "fetched_at": "2026-09-22"
+  "fetched_at": "2026-11-11",
+  "updated": "2026-09-08",
+  "version": "2609.08189v1",
+  "journal_ref": "",
+  "doi": ""
+ },
+ "2610.11930": {
+  "title": "Automated Disinformation and Malicious AI Swarms: Risks for Democracy and Development in Africa",
+  "authors": [
+   "Daniel Thilo Schroeder",
+   "Philipp M. Lutscher",
+   "Samba Dialimpa Badji",
+   "Stefan Brenner",
+   "Wenchao Dong",
+   "Tsehaye Haidemariam"
+  ],
+  "published": "2026-10-08",
+  "summary": "Generative artificial intelligence is reshaping how information is produced, accessed, and circulated, while enabling disinformation campaigns of increasing scale and sophistication. There is currently no clear evidence that fully autonomous AI swarms conduct influence operations at scale, but their enabling capabilities are advancing. We define malicious AI swarms as coordinated, persistent, and adaptive multi-agent systems designed for influence operations, distinguishing them from AI-assisted content production and centrally managed synthetic personas. We examine their implications for hybrid regimes and conflict-affected states in Africa, where institutional constraints and fragile media environments may heighten vulnerability. Drawing on Mali and Ethiopia, we consider how automated influence could infiltrate communities, fabricate consensus, and erode trust in governance and development. The cases illustrate different configurations of state and non-state influence: competing actors in Mali's fragmented information environment, and more organized state-led strategies of narrative management in Ethiopia. African-language and training-data asymmetries may constrain influence capabilities while weakening defensive responses. Hybrid human-AI operations could combine automated scale and adaptation with local knowledge and credibility. This forward-looking risk analysis develops a scenario of increasingly accessible AI-driven coordination, rather than claiming that autonomous swarms are already operating at scale in Africa. We propose a layered governance approach linking technical safeguards to platform accountability, civic institutions, and regional coordination to protect democratic participation, peacebuilding, and development.",
+  "comment": "26 pages",
+  "fetched_at": "2026-11-11"
+ },
+ "2610.25603": {
+  "title": "When Better Opportunities Backfire: Service Worker Responses to Parallel AI Deployment in Customer Acquisition",
+  "authors": [
+   "Xinyu Fu",
+   "Shulong Luo",
+   "Narayan Ramasubbu",
+   "Peng Shen",
+   "Xincheng Wang",
+   "Yucheng Wang"
+  ],
+  "published": "2026-10-19",
+  "summary": "As AI voice agents get deployed in high-volume contact centers, firms can route low-intent leads to AI and allocate high-intent leads to human workers. Drawing on sequential search theory, we posit that AI-induced task allocation reshapes work, enriching opportunities facing human workers but also raising their reservation value for continuing with the lead in hand, making them less willing to persist. We study the effects of an AI voice-agent deployment at a Chinese online health-insurance brokerage using more than a half million customer outreach records surrounding the rollout. Adopting a regression-discontinuity-in-time design, we trace how worker behavior changes across the workday. Results show that the enrichment of human-facing opportunities concentrates early in the workday, raising the probability that a call is a high-intent lead by about 23 percentage points on the first three calls and fading to zero later. However, customer acquisition by human workers declines precisely where the enrichment is greatest, falling about 5 percentage points on the first three calls and flattening over the day. Consistent with the theorized reservation value mechanism, workers reallocate their earliest leads about 8 percentage points more often and persist less with them, shortening those calls by about 13%. A calibrated decomposition analysis further shows that the modest gain from improved lead ordering is outweighed by a much larger negative behavioral response. By reshaping the quality and within-workday distribution of opportunities, parallel AI deployment alters how workers pursue tasks, highlighting opportunity distribution as an important service operations state variable beyond workload and congestion.",
+  "comment": "",
+  "fetched_at": "2026-11-11"
+ },
+ "2609.33367": {
+  "title": "Is AI Widening the Wage Gap? A Hybrid Agentic Simulation for Labor Equity",
+  "authors": [
+   "Zhongbo Hu",
+   "Zonghan Wu",
+   "Georgina Curto",
+   "Aocheng Tang",
+   "Yilei Shao"
+  ],
+  "published": "2026-09-27",
+  "summary": "Artificial intelligence (AI) is reshaping labor markets, yet its effects on wage distribution and the underlying mechanisms remain insufficiently understood. Conventional analytical approaches are limited in their ability to directly examine the dynamic evolution of worker behavior and income distribution under sustained AI shocks and counterfactual policy scenarios. To address this limitation, we present a hybrid agentic framework that aims to challenges of scalability of rule-based models and the limited explainability in LLM-agentic frameworks. Using this framework and sociodemographic data from China, we simulate changes in wage distribution under repeated AI shocks. The results show that both the average-wage ratio between workers in the top and bottom income deciles (T10/B10) and the Gini coefficient increase persistently, suggesting that AI shocks widen the wage gap and exacerbate income inequality. This pattern of a widening wage gap remains robust across alternative large language model decision engines and 30 Monte Carlo simulations. We further conduct counterfactual policy experiments. The results show that education subsidies targeted at low-income workers increase both the number of skill-upgrading attempts and the number of successful upgrades, with particularly pronounced improvements in the upskilling success probability of workers in the bottom income decile. These effects enable the policy to partially mitigate wage inequality. The proposed framework provides an interpretable simulation approach for examining the effects and mechanisms of AI shocks on wage distribution. It also offers policymakers a complementary analytical tool for evaluating policy interventions.",
+  "comment": "12 pages,",
+  "fetched_at": "2026-11-11"
+ },
+ "2610.31344": {
+  "title": "Making Generative AI Workable at Work: Accountability, Localization, and Representation in Kenyan and Nigerian Small Businesses",
+  "authors": [
+   "Najeeb Gambo Abdulhamid",
+   "Stephanie Nyairo",
+   "Liz Ankrah",
+   "Jacki O'Neill"
+  ],
+  "published": "2026-10-22",
+  "summary": "Generative AI is widely framed as democratizing skilled work by lowering the barrier to producing professional output. Drawing on 21 semi-structured interviews with 27 workers across 21 small and medium-sized businesses (SMBs) in Kenya and Nigeria (July to October 2023), we find that availability alone did not make participation workable. In participants' accounts, drafting was rarely the hard part. The consequential work was making AI-assisted drafts defensible enough to circulate to clients. We identify five intertwined practices through which participants made generative AI workable: using it as draft labour, steering outputs through iterative interaction, switching and comparing across tools, performing release work to make outputs accountable before circulation, and repairing context misfit when outputs failed local requirements. We make two central contributions. First, we specify release work as a distinct, boundary-facing form of accountability labour, evidenced through verification gates, traceability reconstruction when sources fail, and non-delegation boundaries that decide what can ship. Second, we show how localization and representational failures, which we call context misfit, operate in everyday work as a recurring breakdown-and-repair class, including failures of local language, institutional knowledge, and the credible representation of African people and places, and we document the repair repertoire they demanded. Reframing democratization as workable participation, we argue that reported gains were conditional on this accountability and repair labour, and we translate the findings into four design directions for workplace generative AI. We treat Kenya and Nigeria as two situated cases, not as a representative sample of SMBs or the Global South.",
+  "comment": "",
+  "fetched_at": "2026-11-11"
+ },
+ "2610.14145": {
+  "title": "Is the business of frontier AI companies selling tokens? Value capture and equity prices",
+  "authors": [
+   "Andrew J. Peterson"
+  ],
+  "published": "2026-10-09",
+  "summary": "We examine business models that could support frontier AI companies' valuations and the public evidence of plans to earn income beyond selling model access. Reverse cash-flow calculations for OpenAI and Anthropic yield combined year-ten revenue requirements of \\$2.79 trillion or \\$733 billion, depending on financial assumptions. Public documents identify proposed payments and ownership interests that could supply additional income, such as through partnerships on pharmaceuticals, robotics, or materials science. We discuss how these arrangements relate to firm boundaries and value capture.",
+  "comment": "",
+  "fetched_at": "2026-11-11"
+ },
+ "2610.39590": {
+  "title": "Red-Teaming Large Language Models in Low-Resource African Languages: A Case Study of Yoruba and Nigerian Pidgin",
+  "authors": [
+   "Paula Chikaodinaka Anyanwu",
+   "Valdini Douglace Lemofouet",
+   "Blessing Ngozi Uzor",
+   "Ifeoluwa Dorcas Awotunde",
+   "Danielle Blanche Kapsa",
+   "Tassallah Abdullahi"
+  ],
+  "published": "2026-10-29",
+  "summary": "As large language models (LLMs) become more widespread in Africa, their safety in low-resource languages remains largely untested since most red-teaming work focuses on English. This study evaluates six state-of-the-art LLMs using 400 explicit adversarial prompts in Yoruba and Nigerian Pidgin, categorised into four harm categories. The responses were scored by native-speaker annotators and reliability was assessed using Cohen's $κ$. While models that rejected up to 69% of English prompts rejected as few as 0% in Yoruba, this was not because they were safer, but because they failed to understand the prompts. Attack success rates increased for most models in the Nigerian languages, with GPT-4o Mini demonstrating the most significant cross-lingual safety discrepancy (+0.23 in Yoruba). When models did engage with adversarial prompts, many of the responses were harmful, with rates of harmful content reaching 0.63 in English and 0.50 in Nigerian Pidgin. The most difficult harm category to detect was cultural stereotypes and discrimination (ASR = 0.44 in Nigerian Pidgin). Comprehension in Yoruba was low across most models, and this directly suppressed apparent attack success without indicating actual safety. Gemini 2.0 Flash was the most consistent model across languages. Despite its explicit training in African languages, Aya 101 had the highest attack success rate in English (0.60) and one of the lowest Yoruba comprehension rates (0.28). These results demonstrate that English-centric safety alignment does not transfer to Nigerian languages, highlighting the urgent need for language-specific safety evaluations.",
+  "comment": "",
+  "fetched_at": "2026-11-11"
+ },
+ "2610.30858": {
+  "title": "Joules-to-GDP: How Much Economic Value Do AI Systems Produce per Unit of Energy?",
+  "authors": [
+   "Amirreza Zeinali",
+   "Jon Saad-Falcon",
+   "Avanika Narayan",
+   "Mersad Abbasi",
+   "Jonathan S. Hartley",
+   "John Hennessy"
+  ],
+  "published": "2026-10-22",
+  "summary": "AI systems are increasingly used to complete economically valuable tasks in various professions, such as software engineering and finance. This motivates the question: how much economic value does an AI system produce per unit of energy? To answer it, we introduce Joules-to-GDP, a framework that measures output dollar value minus AI execution cost per unit of energy, which we call Net Value per Joule (NVJ), and expert time saved per unit of energy, or Time Saving per Joule (TSJ). We then apply the framework to 220 GDPval tasks across 44 occupations. Four findings stand out. First, the most valuable work is not always the most efficient. For example, engineering work such as CAD design yields about 10% more net value per task than software development such as building websites, yet the latter yields about 27% more per joule. Second, defaulting to the most capable model can mean less total value from the same energy budget. Of the five tested models, GLM 5.2 delivers the most net value, $72.27 per task on average, using the energy of about four hours of active laptop use, while Gemma 4 31B achieves 56% of that with 23% of the energy, for 2.5x the NVJ and 2.8x the TSJ. Third, for the same model, NVJ and TSJ vary widely across different accelerators, and adding GPUs can raise energy use for modest gains: eight H100s use 3.2x the energy of one to cut completion time by only 22%, at similar net value. More capable models and more hardware must therefore earn their extra energy with enough gains in output value. Finally, the work of experts who use AI is harder for AI to match than that of experts working alone. Measured against it, GLM 5.2's NVJ falls by 70% and its TSJ by 65%. Taken together, these findings justify economic return per joule as an objective for selecting professional tasks and improving language models and accelerators, and as a basis for examining AI's effect on the economy",
+  "comment": "",
+  "fetched_at": "2026-11-11"
+ },
+ "2610.30701": {
+  "title": "From Tokens to Credits to Outcomes: Pricing AI Across Models, Applications, and Cloud Platforms",
+  "authors": [
+   "Pratik Gupta"
+  ],
+  "published": "2026-10-22",
+  "summary": "Between 2023 and 2026, AI changed how software is priced. Traditional SaaS charged per seat because serving one more user cost almost nothing. Model inference has non-zero marginal cost, and usage varies by orders of magnitude across customers, producing prepaid credits, metered usage, hybrid seat-plus-usage models, and outcome pricing that supplement, and in rare cases replace, seat-based pricing. These pricing models have not been systematically characterized. This paper presents a source-traceable study of public pricing artifacts - pricing pages and documentation - across three cohorts: the full Forbes AI 50 (2026) as the AI-native core sample, cloud platforms selling AI services included by a documented rule, and a frozen purposive cohort of 9 distinctive designs. It contributes (1) a dataset coding each offering's pricing primitive and credit mechanics with dated primary sources, prepared for public release with the paper, (2) a taxonomy of the primitives in use and their distribution across cohorts, and (3) evidence-informed design requirements for automated, configurable billing platforms, including ledger state for credits, attribution pipelines for outcome pricing, and configuration support for high pricing-change velocity. Subscription with usage quota is the dominant observable model among AI-native companies (55% of observable AI-native rows; 45-61% under sensitivity analysis of hybrid boundary cases, 41-65% when product-line coding is also varied). 23 of the 52 AI-native rows publish no pricing. Hybrid products are better understood as compositions of packaging anchor, allowance mechanism, and billable unit than as mutually exclusive categories. The dataset is planned for release with the paper; my employer is excluded from the sample.",
+  "comment": "26 pages",
+  "fetched_at": "2026-11-11"
+ },
+ "2607.23481": {
+  "title": "Mwando: Leveraging AI to Preserve and Teach shiKomori",
+  "authors": [
+   "Naira Abdou Mohamed",
+   "Haidar Nassur Said Ali",
+   "Mohamed Hazra",
+   "Naoufal Mohamed Soibira",
+   "Roushnaty Ali Yamani"
+  ],
+  "published": "2026-07-26",
+  "summary": "This paper presents Mwando, a virtual educational assistant designed to support the teaching and preservation of shiKomori, the language of the Comoros Islands. The system covers the four main dialectal variants (shiNgazidja, shiMwali, shiNdzuani and shiMaore) through a knowledge base constructed from phrases, proverbs, dictionaries and grammar lessons. A multi-agent architecture combining vector search, a knowledge graph and web search fallback enables accurate and context-aware responses. Evaluation on 500 queries demonstrates strong performance on vocabulary lookup and grammar explanations, while qualitative case studies illustrate both capabilities and current limitations. This work represents an initial step toward computational support for shiKomori and provides a blueprint for developing AI-powered educational tools for other low-resource languages.",
+  "comment": "",
+  "fetched_at": "2026-11-11"
+ },
+ "2610.05301": {
+  "title": "From Access to Realized Affordances: University Students' Generative AI Engagement across Linguistic and Sociotechnical Contexts",
+  "authors": [
+   "Ming Li",
+   "Qin Xie",
+   "Ariunaa Enkhtur",
+   "Lilan Chen",
+   "Fei Cheng"
+  ],
+  "published": "2026-10-04",
+  "summary": "Generative artificial intelligence (GenAI) is increasingly embedded in university students' academic work, yet student engagement is often examined through adoption, frequency of use, or general perceptions, with less attention to how it is shaped by linguistic and sociotechnical conditions. This comparative qualitative study examines how university students access, incorporate, and evaluate GenAI across three contrasting higher education settings in China, Japan, and Mongolia. Semi-structured interviews were conducted with 42 undergraduates from one university in each setting, and the data were analyzed through qualitative interpretation supported by co-occurrence network and correspondence analyses using KH Coder. Across the three samples, GenAI was incorporated into academic practices spanning exploration, production, and refinement. However, access pathways differed across the three contexts. Participants in China navigated between domestic and global GenAIs, those in Japan predominantly used global GenAIs through Japanese, and those in Mongolia more frequently shifted to English when Mongolian outputs were perceived as less satisfactory. During their use of GenAI, students evaluated its accuracy, privacy implications, potential for dependence, and effects on critical thinking. The findings suggest that technological access alone does not ensure equivalent educational usability across linguistic and sociotechnical contexts. Building on the empirical findings and the analytical perspectives, an empirically informed integrative framework is developed in which student GenAI engagement is understood as situated, mediated, enacted, and evaluated. The framework conceptualizes realized affordances as educational possibilities that become practically usable through the interplay of sociotechnical conditions, linguistic resources, academic practices, and evaluative judgments.",
+  "comment": "Work in Progress",
+  "fetched_at": "2026-11-11"
+ },
+ "2610.28830": {
+  "title": "Artificial Intelligence and Job Design: A Dynamic Framework",
+  "authors": [
+   "Amin Shirangi",
+   "Todd L. Pittinsky"
+  ],
+  "published": "2026-10-20",
+  "summary": "This study aims to deepen the understanding of artificial intelligence's (AI) impact on work by introducing and describing the AI-Job Dynamics Framework. Drawing from sociotechnical systems theory, complexity theory, and organizational learning theories, we conceptualize AI integration as a dynamic, non-linear process with three key phases. The framework, supported by theoretical propositions, identifies how this process affects organizational decision-making structures and key job characteristics over time, emphasizing the balance between centralization and decentralization of decision-making power. AI integration initially reduces job autonomy but may lead to greater autonomy in later phases as AI becomes more embedded. Throughout this process, AI reshapes skill requirements from routine to complex cognitive and adaptive skills. In the advanced phase of AI integration, we introduce the alternative paths and varied trajectories through which AI, organizational structures, and individual work experiences evolve. We conclude by discussing the implications of this framework for future research on AI and job design.",
+  "comment": "27 pages, 1 figure",
+  "fetched_at": "2026-11-11"
+ },
+ "2610.24818": {
+  "title": "Efficiency Measured in English: Tokeniser Coverage Bounds Small Language Models on Indic Scripts",
+  "authors": [
+   "Anna Pramod"
+  ],
+  "published": "2026-10-17",
+  "summary": "Small Language Models with quantisation and parameter-efficient adaptation are widely offered as the route to multilingual AI under compute constraints, and their efficiency is almost always reported as a single memory figure. We show that this figure is measured in English and does not transfer. Across a 131k-sentence corpus spanning eleven Indic scripts, TinyLlama-1.1B's tokeniser emits 1.34 subword tokens per Latin-script word and 22.60 per Kannada word. This is not inefficiency; it is absence. Its vocabulary contains 0% of Odia's codepoints, 1% of Telugu's and 2% of Kannada's, and for five of eleven scripts the measured fertility sits at the UTF-8 byte-fallback ceiling, on Odia at 99.6% of it, with 93.6% of emitted tokens being raw bytes. Because SentencePiece byte fallback never raises an unknown-token marker, this failure is entirely silent: TinyLlama's UNK rate is 0.0% on every script, including the one it reads as bytes. We further show that low fertility can indicate the opposite of efficiency: mBERT posts its best score anywhere (1.10 tokens/word, on Odia) while discarding 87.9% of the text as UNK. MuRIL, an Indic-vocabulary encoder with a fifth of TinyLlama's parameters, reads every script at 1.23-2.26 tokens/word with zero UNK and zero byte fallback. The binding constraint is the vocabulary, not the parameter count. The consequence is concrete: on a 2048-token context window, the same model gives an English user 1,528 words of usable context and a Kannada user 91.",
+  "comment": "",
+  "fetched_at": "2026-11-11"
+ },
+ "2611.03330": {
+  "title": "The SIMPLE Law for Energy Cost of LLM Inference",
+  "authors": [
+   "Hiari Pizzini Cavagna",
+   "Andrea Proia",
+   "Daniele Cesarini",
+   "Zeynep Kiziltan",
+   "Andrea Bartolini"
+  ],
+  "published": "2026-11-02",
+  "summary": "Generative AI is billed per token, yet tokens are not equally expensive. Each token enters the KV-cache and raises the cost of those that follow, so energy grows non-linearly along a sequence whose tokens look identical. No analytical model states what a token costs, and the most accurate SOTA model is a fit, not a law: it absorbs architecture into fitted coefficients, requiring per-LLM fitting. We derive closed-form expressions of the computational and memory-access complexity of LLM inference in terms of architectural hyperparameters, covering MHA and GQA, and compare a family of analytical models of increasing granularity. From these, we obtain the SIMPLE Inference Model to Predict LLMs Energy (SIMPLE), a four-parameter law that separates prefill from decode, and decode into KV-cache cost and next-token computation. Over traces of 13 dense LLMs from six families on NVIDIA H100 GPUs, it attains R2 = 0.969 and 11.97% MAPE, 3.1-3.5x below the SOTA, without per-LLM calibration. The SIMPLE law explains as well as predicts: prefill energy grows quadratically with the hidden dimension, so larger LLMs suffer most from long inputs; and more aggressive GQA KV grouping reduces the per-token energy by up to 3x relative to standard MHA. Increasing the reasoning token budget pushes output length beyond the analytically derived energy minimum, driving super-linear energy growth; although accuracy grows with the budget, energy grows faster, so Intelligence per Joule peaks at an intermediate budget and falls by up to 3.14x across a 4.0x reasoning-budget range. Agentic serving raises energy per request by 13.0x relative to non-agentic ones, driven by the growth of both the prefill and the KV-cache terms with input length; while prefix caching removes most of the prefill cost (-93%), the KV-cache term is unaffected, so even a cached agentic request costs 4.8x more.",
+  "comment": "Submitted to Future Generation Computer Systems",
+  "fetched_at": "2026-11-11"
+ },
+ "2610.06387": {
+  "title": "Scaling Down the Scaling Laws: Parameter Efficiency and Compute-Optimal Training in Resource-Constrained Large Language Models",
+  "authors": [
+   "Joe Dwyer"
+  ],
+  "published": "2026-10-05",
+  "summary": "Large language models (LLMs) have achieved substantial performance gains through increases in model size, training data, and computational resources. However, traditional scaling approaches produce diminishing returns, rising financial and environmental costs, and barriers to participation for researchers operating outside large industrial laboratories. This review examines the evolution of LLM scaling theory from empirical scaling laws to compute-optimal training, with particular emphasis on parameter efficiency, token utilization, data efficiency, and resource-constrained environments. Foundational work on scaling laws is synthesized alongside later research on compute-optimal training, data pruning, efficient architectures, quantization, low-rank adaptation, and edge-oriented optimization. The literature indicates a shift from scale maximization toward more deliberate allocation of parameters, tokens, compute, and hardware resources. At the same time, important empirical, theoretical, and methodological gaps remain regarding whether scaling principles established on enterprise-grade infrastructure generalize to smaller models and constrained computing environments. This review organizes these developments into a unified framework for resource-efficient LLM training and argues that future progress should evaluate efficiency not solely through model performance, but through the relationship among performance, parameter count, computational cost, token allocation, and hardware constraints.",
+  "comment": "",
+  "fetched_at": "2026-11-11"
+ },
+ "2610.14850": {
+  "title": "Displacement Is Endogenous: AI Workers in a Search-and-Matching Labor Market",
+  "authors": [
+   "Ibrahim Denis Fofanah"
+  ],
+  "published": "2026-10-10",
+  "summary": "We build a labor market in which AI systems enter as workers: they apply for jobs, pass screenings, get hired, and get dismissed, alongside humans. Firms post vacancies, workers search with friction, and product demand slopes downward. Across 30 seeded runs per configuration, AI entry at 70% of the human wage raises unemployment by 4.1 percentage points (95% CI 3.5 to 4.6) and leaves 12.2 fewer humans employed (CI 10.5 to 13.9). Layoffs dominate when AI is much cheaper than humans: the layoff margin accounts for 7.2 of the lost jobs and reduced hiring for 5.0, though most dismissed workers find work again. A wider price gap reduces displacement, because cheap AI makes firms expand: at price parity, with zero dismissals, the unemployment effect is largest at 9.2 points (CI 8.6 to 9.9), all of it through hiring. That parity result survives cutting AI applications from five per period to one. Demand elasticity decides how many workers AI displaces. Screening changes who gets hired and leaves the displacement total unchanged.",
+  "comment": "5 pages, 1 figure",
+  "fetched_at": "2026-11-11"
+ },
+ "2609.35569": {
+  "title": "Beyond Energy: When Sustainability Dimensions Reshape LLM Serving Decisions",
+  "authors": [
+   "Tianyao Shi",
+   "Xipeng Shen",
+   "Yi Ding"
+  ],
+  "published": "2026-09-28",
+  "summary": "Large language model (LLM) serving has environmental impacts across energy consumption, carbon emission, water consumption, and biodiversity loss. Yet these dimensions are largely evaluated in isolation, leaving it unclear when and how they lead to different optimization decisions. We present PRISM, a unified framework for characterizing and optimizing LLM serving across energy, carbon, water, and biodiversity impacts. Our analysis reveals a fundamental distinction: computing configurations determine energy consumption, whereas where and when LLM serving is deployed determine its carbon, water, and biodiversity impacts. Under a fixed deployment choice and operational-only accounting, all dimensions preserve the same energy-based configuration ranking. Deployment rankings can diverge across dimensions, while embodied impacts can break configuration invariance when they exceed a lifecycle crossover boundary. PRISM identifies these conditions, quantifies cross-dimensional regrets, and balances the four dimensions. In regional-routing experiments, PRISM reduces median worst-case regret by 50.2% relative to the strongest baseline.",
+  "comment": "41 pages, 30 figures, 13 tables",
+  "fetched_at": "2026-11-11"
+ },
+ "2609.38279": {
+  "title": "How People Use ChatGPT: Conversation-Level Evidence from India, Nigeria, Brazil, and Pakistan",
+  "authors": [
+   "Shreyasi Roy Chowdhury",
+   "Kiran Garimella"
+  ],
+  "published": "2026-09-29",
+  "summary": "Public understanding of how people use LLM-based conversational AI assistants comes primarily from aggregate platform reports by OpenAI and Anthropic, which apply fixed taxonomies and inferred demographics to hundreds of millions of users and release only summary statistics that outside researchers cannot re-analyze. We provide a complementary, conversation-level view: complete ChatGPT exports comprising 202,590 conversations from 1,252 users across India, Nigeria, Brazil, and Pakistan, paired with self-reported age and gender and spanning December 2022 to February 2026. To our knowledge this is the first conversation-level, demographically grounded comparison of ChatGPT use across multiple non-Western countries. We ask what these users use ChatGPT for (purpose), what they talk about (topics), and how they engage with it (mode of interaction), using the platform's own classifiers, unsupervised topic discovery, and a thematic analysis of expressive conversations. Personal use accounts for 55-64% of conversations in every country and coursework is about as common as work, so workplace productivity describes a minority of use. Unsupervised topic discovery surfaces country-specific uses that the OpenAI taxonomy folds into generic categories: health and wellness in India and Brazil, Urdu-English translation in Pakistan, current affairs in Nigeria, religious questions in Nigeria and Pakistan, and self-reflection in Brazil. Over three years, the share of conversations that seek information declined only modestly and the share that delegate a task did not grow, while conversations in which users express themselves rose from a few percent to roughly a fifth or more in every country. The same product is thus attached to different local needs in each country, and understanding what adoption means requires conversation-level, country-sensitive measurement alongside global aggregates.",
+  "comment": "29 pages, 22 figures, 9 tables",
+  "fetched_at": "2026-11-11"
+ },
+ "2610.30752": {
+  "title": "The Delegation Divide: An Open Index of AI-Agent Delegability across Occupations and Countries",
+  "authors": [
+   "Cristian Espinal Maya",
+   "Santiago Jiménez Londoño"
+  ],
+  "published": "2026-10-22",
+  "summary": "35.2% of task time in world employment is at least partly delegable to AI agents in 2026, and only 2.5% can be handed over in full. Existing measures score exposure to generative AI, mostly for the United States. We build the Agent Delegability Index (ADI): two language models rate all 18,796 O*NET 30.2 task statements on a frozen, preregistered rubric of delegation levels and barriers; tasks are mapped to 433 ISCO-08 unit groups and weighted by ILOSTAT employment in 146 countries. Four findings. First, delegable employment rises with income, from 22.5% in low-income to 48.7% in high-income countries, a slope of 7.23 percentage points per log point of GDP per capita. This delegation divide is compositional: the physical barrier dominates the jobs poorer countries employ most. Second, at the occupation level ADI tracks exposure closely (r = 0.93 with Eloundou et al. and 0.89 with Felten et al.), above the preregistered bound of 0.80; ADI adds delegation levels and barriers on top of exposure, for the world, not a new ranking of occupations. Third, full delegation is rare and peaks for tasks that take a human about twelve minutes (11.8 minutes). Fourth, the preregistered adoption gap is not supported: across 101 countries, delegability and observed AI usage correlate at r = 0.86, and the gap between them is not wider in middle-income countries (p = 0.27). Model agreement is kappa = 0.77; a blind human rating of 300 tasks agrees with the model consensus at kappa = 0.85, and an agentic panel with web search at kappa = 0.87. We release the index, the atlas, the prompts and an MCP server at https://github.com/Cespial/delegation-divide.",
+  "comment": "32 pages, 6 figures, 4 tables. Preregistered at OSF: 10.17605/OSF.IO/9ZNTF. Data and code: doi:10.5281/zenodo.23552918; repository and MCP server: https://github.com/Cespial/delegation-divide",
+  "fetched_at": "2026-11-11"
+ },
+ "2610.28173": {
+  "title": "Africa-Papers: A 10-Billion-Token Multi-Domain Academic Corpus for African Foundation Language Models",
+  "authors": [
+   "Mich-Seth Owusu"
+  ],
+  "published": "2026-10-20",
+  "summary": "Large Language Models (LLMs) depend fundamentally on the diversity, depth, and factual rigor of their pre-training corpora. However, contemporary foundational pre-training datasets (such as The Pile, S2ORC, and Dolma) exhibit a severe structural omission: African scientific, medical, legal, and agricultural scholarship constitutes less than 0.5% of global pre-training tokens. Consequently, state-of-the-art models suffer from systematic failure modes when reasoning about tropical epidemiology, localized smallholder agro-ecologies, regional economic governance, and indigenous linguistic structures. To resolve this representation deficit and advance African intellectual sovereignty in artificial intelligence, we introduce Africa-Papers, the largest curated multi-domain Pan-African academic pre-training corpus to date. Comprising over 844,807 full-text papers spanning 10.15 billion tokens across 879 Parquet shards, Africa-Papers unifies four primary scientific streams: (1) continental peer-reviewed journals indexed in DOAJ across 31 African nations, (2) the CGIAR CGSpace agricultural repository, (3) African-authored and African-focused STEM/AI preprints on arXiv, and (4) open-access international publications by scholars affiliated with African institutions indexed via OpenAlex. The entire corpus is processed into layout-aware, clean Markdown preserving section hierarchies, mathematical equations, and tabular data, accompanied by exact BPE token counts and a standardized 8-domain taxonomy. We release Africa-Papers openly on the Hugging Face Hub under the AfriSpeech organization to accelerate continual pre-training and domain evaluation for foundation models globally.",
+  "comment": "",
+  "fetched_at": "2026-11-11"
+ },
+ "2610.05238": {
+  "title": "The Law of DeepSeek",
+  "authors": [
+   "Jyh-An Lee",
+   "Xuan Sun"
+  ],
+  "published": "2026-10-04",
+  "summary": "Amid the intensifying competition in artificial intelligence between the United States and China, the emergence of the DeepSeek-R1 model has sent significant ripples through the technology sector, capital markets, and policy circles. This Article offers a comprehensive analysis of legal and policy landscape surrounding DeepSeek, drawing upon its key technical features-including reinforcement learning, mixture-experts architecture, multi-head latent attention mechanism, knowledge distillation, and open-source approach. Firstly, DeepSeek's success raises crtitical questions about the efficacy of the United States' increasingly robust export control measures on chips and semiconductors, components essential for training large language models. Secondly, akin to Chinese technology giants such as TikTok and Huawei, DeepSeek is confronted with information security scrutiny in the United States and other jurisdictions. Thirdly, despite its domain-specific capabilities and competitive API pricing, DeepSeek has faced criticism for producing outputs laden with political and ideological biases, igniting debates over free speech and censorship. Further more, this Article delves into intellectual property and contractual concerns stemming from the knowledge distillation technique employed by DeepSeek. Ultimately, it concludes that geopolitical consideration will continue to exert a profound influence on the legal challenges and prospective solutions related to the DeepSeek models.",
+  "comment": "",
+  "fetched_at": "2026-11-11"
+ },
+ "2610.07026": {
+  "title": "Offline AI Modules: Voice-First Offline Architecture, Hardware Reference Stack, Quantization and Benchmarking",
+  "authors": [
+   "Sunday Afariogun",
+   "Odunolaoluwa Jenrola",
+   "Zeinab Nezami"
+  ],
+  "published": "2026-10-04",
+  "summary": "The Offline AI Modules workstream enables practical, low-power, and community-accessible deployment of voice-first AI systems that operate fully offline. Designed for African language communities where speech is the dominant mode of interaction and internet connectivity is unreliable or absent, the workstream delivers three reinforcing components: a modular voice-first offline architecture, a low-cost hardware reference bill of materials, and a reproducible quantization and a reproducible quantization and benchmarking pipeline for instruction-tuned language models in the 2-5B parameter class. This paper presents the first end-to-end benchmark evaluation of the stack across two hardware tiers: an NVIDIA Jetson Orin NX (TierB) and a Raspberry Pi5 (TierA). Three instruction-tuned models are evaluated across four quantization formats, assessed for deployment metrics (decode throughput, chat latency, memory, power) and multilingual quality (topic classification accuracy on MasakhaNEWS across English, Hausa, Igbo, Nigerian Pidgin, and Yoruba; per-language perplexity drift). Speech recognition is evaluated using Ethio-ASR on Amharic and Oromo across both tiers. The principal finding is that Q4_K_M quantization represents the best size-to-quality trade-off for deployment on both tiers: gemma-4-E2B-it achieves 28.8t/s decode throughput and 89.2% topic classification accuracy at Q4_K_M on TierB, while all three models run within the 16GB memory budget on TierA.",
+  "comment": "",
+  "fetched_at": "2026-11-11"
+ },
+ "2610.22529": {
+  "title": "Pearl-Chat: Engineering a native Luganda language model from first principles in JAX and Flax NNX",
+  "authors": [
+   "Wesley Kambale",
+   "Roland Sankara"
+  ],
+  "published": "2026-10-15",
+  "summary": "Autoregressive foundation language models predominantly target high-resource Indo-European languages, imposing computational and morphological penalties on under-represented African languages. Generic multilingual tokenizers routinely exceed fertility rates of 3.2 tokens per word on agglutinative Bantu languages, degrading context efficiency and inflating latency. We present Pearl-Chat, an 8,473,122-parameter ($\\sim$8.5M) causal decoder-only transformer engineered for Luganda (Oluganda, ISO 639-2: lg), a low-resource Niger-Congo Bantu language spoken by over 10 million people in East Africa. Built from first mathematical principles in JAX and Flax NNX, Pearl-Chat uses explicit functional state decomposition (nnx.split and nnx.merge), deterministic resumable data streaming via Google Grain, and SPMD tensor parallelism using jax.sharding.Mesh. We introduce a byte-level byte-pair encoding (BPE) subword tokenizer trained from scratch on curated Luganda corpora ($V = 8,192$), achieving 4.88 characters per token compression and 1.60 tokens per word fertility, a two-fold compression improvement over LLaMA-3 (128K) and Gemma (256K). The model is trained with a two-stage curriculum: Stage 1 pre-training on 59,501 sequences across parallel, biblical, encyclopedic, and journalistic corpora, and Stage 2 instruction fine-tuning on 510 dialogues with assistant-only loss masking. Across 4,000 optimization steps, validation cross-entropy loss drops monotonically from 9.4695 (perplexity: 12,958.98) to 0.1818 (perplexity: 1.20), a decrease of 9.2877 nats. On a three-tier held-out diagnostic benchmark, Pearl-Chat achieves 0.9792 ROUGE-L and 0.9405 BLEU while maintaining concordial agreement across Bantu noun classes. We provide a Python Server-Sent Events (SSE) streaming runtime and open-source all weights, tokenizers, and code.",
+  "comment": "17 pages, 8 figures",
+  "fetched_at": "2026-11-11"
+ },
+ "2610.18921": {
+  "title": "Creative destruction: Human-AI competition in an experimental market",
+  "authors": [
+   "John Conlon",
+   "Peter Schwardmann"
+  ],
+  "published": "2026-10-12",
+  "summary": "We study two hypotheses for how a human role in production could persist despite growing AI capabilities. Humans might have a durable advantage in taste, designing better products even as AI agents automate routine tasks, or consumers might intrinsically prefer that humans have a hand in production. In our experiment, participants act as producers, designing computer games with an AI coding agent, and as consumers who buy them. Across three studies (N = 1,025), we find no evidence for either hypothesis. Games designed by an AI on its own outperform those of human producers, including both amateurs and professional creatives. Human producers do not anticipate the AI's advantage. Revealing whether a game is human-designed does not raise consumers' willingness to pay for the product.",
+  "comment": "",
+  "fetched_at": "2026-11-11"
+ },
+ "2610.35168": {
+  "title": "Do Language Models Understand Igbo Culture? Beyond Multiple Choice",
+  "authors": [
+   "Blessing Ngozi Uzor",
+   "Valdini Douglace Lemofouet",
+   "Paula Chikaodinaka Anyanwu",
+   "Mmesoma Peace Orji",
+   "Danielle Blanche Kapsa",
+   "Tassallah Abdullahi"
+  ],
+  "published": "2026-10-26",
+  "summary": "The value of language models for any community depends on whether a model actually understands the culture of the people it intends to serve. We use the Igbo language as a case study. Existing benchmarks test translated Western ideas, lacking depth. To address this, we introduce CAB-Igbo, a benchmark developed from indigenous cultural sources and verified by native speakers across six domains. We evaluated diverse models under varying conditions, incorporating regional personas. Performance was assessed using multiple-choice accuracy and human evaluations across Epistemic Fidelity, Representational Richness, Linguistic Quality, and Pragmatic Proficiency. Results reveal a stark dissociation between language fluency and cultural knowledge. Through statistical testing, we show that for most models, the severe lack of Epistemic Fidelity and Representational Richness is already present in English and does not significantly worsen when switching to Igbo. Instead, native language prompting mainly degrades Linguistic Quality and Pragmatic Proficiency. Gemini 2.0 Flash is the only model whose cultural knowledge scores improve under Igbo prompting. We find that current models struggle to demonstrate the knowledge needed for true alignment with Igbo, and multiple-choice formats allow pattern-matching to appear as understanding. Furthermore, automated judges agree with humans on linguistic quality but fail on epistemic fidelity. Ultimately, cultural evaluation must be built from community knowledge, establishing human evaluation as the gold standard to prevent misrepresenting low-resource communities globally.",
+  "comment": "20 pages, 7 figures, 14 tables. v2: added two missing authors",
+  "fetched_at": "2026-11-11"
+ },
+ "2610.37245": {
+  "title": "Aligning Large Language Models for Safety in African Languages: A Case Study of Hausa",
+  "authors": [
+   "Valdini Douglace Lemofouet",
+   "Blessing Ngozi Uzor",
+   "Paula Chikaodinaka Anyanwu",
+   "Danielle Blanche Kapsa",
+   "Saminu Mohammad Aliyu",
+   "Seid Muhie Yimam"
+  ],
+  "published": "2026-10-27",
+  "summary": "Safety alignment research for large language models (LLMs) remains concentrated on high-resource languages, leaving open how existing alignment methods perform in low-resource, culturally distinct settings. We study this question for Hausa, a language spoken by more than 200 million people across West Africa. We introduce HausaSafeLM, one of the first Hausa safety preference dataset, built from 10,000 prompts derived from PKU-SafeRLHF: 3,000 human-corrected (gold) and 7,000 machine-translated (silver) examples spanning six harm macro-categories. Using Qwen2.5-7B-Instruct, we compare supervised fine-tuning (SFT) and SFT followed by Direct Preference Optimization (DPO) under both data regimes, evaluating on 500 harmful and 200 benign Hausa prompts.We find that the untuned base model appears highly safe by refusal-rate metrics alone, but this reflects limited Hausa generation ability rather than genuine alignment: its refusals are almost uniformly low quality. SFT improves both refusal fluency and precision and benefits substantially from the larger, noisier silver-tier data, while DPO sharpens refusal precision but comes at a steep, largely data-invariant cost to linguistic quality. No single configuration jointly maximizes safety, helpfulness, and fluency. Our results suggest that current alignment techniques teach models when to refuse more readily than how to do so fluently in underrepresented languages, and that refusal-rate metrics alone are an unreliable signal of safety in low-resource settings.",
+  "comment": "",
+  "fetched_at": "2026-11-11"
+ },
+ "2610.35338": {
+  "title": "Who Pays for Thinking? Billing Hidden Reasoning Tokens in Model Cloud Contracts",
+  "authors": [
+   "Chao Feng",
+   "Burkhard Stiller"
+  ],
+  "published": "2026-10-26",
+  "summary": "In token-priced language model services, users can see the prompts they submit and the answers they receive, but may also pay for internal reasoning and candidate answers that are not shown in the final response. This paper develops a three-party service model to study how charging for this intermediate computation shapes providers' decisions and social welfare. Users purchase answers from a model firm that pays an execution cloud, with either supplier controlling the computation budget. The model separates user billing from upstream payments and identifies when metered pricing encourages excessive generation, when fixed service prices restrict valuable computation, and how responsibility for execution costs changes these choices. A LiveCodeBench study measures answer quality, latency, token use, and resource consumption across five model deployments, with numerical billing comparisons for the three covered by archived tariffs. At equal average charges on the reference workload, the calibrated comparisons show that billing structure changes both service participation and the computation budgets suppliers select. For accepted services with different budgets, the measured outcomes define the user-value thresholds at which their welfare ranking reverses. Metered pricing yields higher welfare when the additional inference it induces creates net social value, whereas fixed service pricing is preferable when the costs of that computation outweigh its benefits.",
+  "comment": "",
+  "fetched_at": "2026-11-11"
+ },
+ "2610.04485": {
+  "title": "Data Colonisation and AI Governance in South Africa: Data Protection, Algorithmic Power, and the Struggle for Digital Sovereignty",
+  "authors": [
+   "Takudzwa Musekiwa",
+   "Kimon Kieslich"
+  ],
+  "published": "2026-10-03",
+  "summary": "AI is not only a technological artefact; it is also a new site of political economy, legal struggle, and sovereignty contestation. AI systems depend on the continuous collection, storage, processing, and monetisation of large volumes of data. In South Africa, these datasets increasingly include behavioural, biometric, financial, consumer, health, and public-sector information. Our article uses data colonisation as a theoretical lens to analyse whether South Africa's existing legal and governance framework can regulate AI-specific risks. It argues that South Africa's current laws, including the Protection of Personal Information Act (POPIA), regulate personal information but do not adequately prevent data colonisation. POPIA remains important for privacy, lawful processing, automated decision-making, and cross-border transfers. However, data colonisation cannot solely be reduced to privacy protection. It concerns ownership, dependency, infrastructure, surveillance, regulatory power, value extraction, and the capacity of people and institutions to challenge algorithmic decisions. The article examines South African AI-related risks in various areas (e.g. cloud and digital infrastructure, biometric surveillance, and digital markets). This paper argues that South Africa's legal framework does not yet adequately regulate algorithmic opacity, externally controlled digital infrastructure, biometric surveillance, automated profiling, collective data harms, or the extraction of value from South African data. We argue for the need of a decolonial AI governance framework based on algorithmic impact assessments, public-sector AI registers, independent audits, biometric safeguards, competition-law remedies, public-interest data governance, stronger regulatory capacity, and democratic control to strengthen South Africa's digital future.",
+  "comment": "",
+  "fetched_at": "2026-11-11"
+ },
+ "2611.13441": {
+  "title": "Inherited Weights: Measuring the Tokenization Premium and the Sovereignty Cost of Language Models for the Global South",
+  "authors": [
+   "Paulo Camara"
+  ],
+  "published": "2026-11-10",
+  "summary": "Most language models deployed outside the United States and China are fine-tuned descendants of a small number of pretrained families. We argue that fine-tuning leaves the decisive properties of a model inherited from its base: vocabulary, knowledge, cultural alignment, memorized data and license. We contribute (i) an updated, reproducible measurement of the tokenization premium across 31 languages and 7 tokenizers released in 2023-2024, on 27 articles of the Universal Declaration of Human Rights, with explicit correction for unknown-token collapse. Premiums reach 10x for Amharic in older tokenizers and remain at 6.8x in the newest commercial one; Indigenous South American languages pay between 1.6x and 2.7x under global tokenizers. A vocabulary built from Portuguese lowers the premium for 11 of 13 Latin-script Global South languages relative to every global tokenizer tested, by about 24% for Guarani and Quechua. (ii) An eight-test black-box sovereignty audit that a buyer can run without access to weights. (iii) A regime argument: under energy and liability constraints, accuracy per joule, calibration and selective risk should replace raw accuracy as design objectives, with metrics that abstention cannot inflate. We close with preliminary internal measurements from a proprietary architecture built around these objectives, reported with their limitations. Data and measurement code are included.",
+  "comment": "6 pages, 2 tables. Data and measurement code: https://doi.org/10.5281/zenodo.22899767",
+  "fetched_at": "2026-11-11"
  }
 }

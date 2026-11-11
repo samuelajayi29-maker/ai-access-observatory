@@ -3,16 +3,16 @@
  "schema_version": "2026.10.3",
  "validated_at": "2026-11-11",
  "counts": {
-  "rows_checked": 1337,
-  "rows_passing": 366,
-  "rows_quarantined": 971,
-  "rows_missing_archive": 48,
+  "rows_checked": 1035,
+  "rows_passing": 441,
+  "rows_quarantined": 594,
+  "rows_missing_archive": 39,
   "rows_with_bad_url": 11,
   "rows_with_dead_source": 0,
   "rows_missing_status": 0,
   "indicators": 140,
   "indicators_failing_contract": 0,
-  "fx_rows_checked": 130
+  "fx_rows_checked": 80
  },
  "country_context": {
   "rows": 324,
@@ -97,9 +97,9 @@
   "current_from_year": 2021
  },
  "affordability_coverage": {
-  "rows": 702,
+  "rows": 432,
   "countries": 54,
-  "models": 13,
+  "models": 8,
   "recent_gni_countries": 52,
   "minimum_wage_value_countries": 8,
   "formula_failures": 0,
@@ -107,9 +107,9 @@
  },
  "per_register": {
   "model-prices": {
-   "rows": 13,
-   "passing": 3,
-   "quarantined": 10,
+   "rows": 8,
+   "passing": 8,
+   "quarantined": 0,
    "missing_archive": 0,
    "bad_url": 0,
    "dead_source": 0
@@ -123,9 +123,9 @@
    "dead_source": 0
   },
   "infrastructure": {
-   "rows": 22,
+   "rows": 21,
    "passing": 0,
-   "quarantined": 22,
+   "quarantined": 21,
    "missing_archive": 3,
    "bad_url": 0,
    "dead_source": 0
@@ -139,10 +139,10 @@
    "dead_source": 0
   },
   "device-shipments": {
-   "rows": 5,
+   "rows": 7,
    "passing": 1,
-   "quarantined": 4,
-   "missing_archive": 0,
+   "quarantined": 6,
+   "missing_archive": 2,
    "bad_url": 0,
    "dead_source": 0
   },
@@ -163,34 +163,34 @@
    "dead_source": 0
   },
   "affordability.csv": {
-   "rows": 702,
-   "passing": 12,
-   "quarantined": 690,
+   "rows": 432,
+   "passing": 40,
+   "quarantined": 392,
    "missing_archive": 0,
    "bad_url": 0,
    "dead_source": 0
   },
   "fx-decomposition.csv": {
-   "rows": 130,
-   "passing": 12,
-   "quarantined": 118,
+   "rows": 80,
+   "passing": 32,
+   "quarantined": 48,
    "missing_archive": 0,
    "bad_url": 0,
    "dead_source": 0
   },
   "subscription-register.csv": {
-   "rows": 290,
-   "passing": 250,
+   "rows": 310,
+   "passing": 270,
    "quarantined": 40,
-   "missing_archive": 40,
+   "missing_archive": 30,
    "bad_url": 10,
    "dead_source": 0
   },
   "free-tier-register.csv": {
-   "rows": 29,
-   "passing": 25,
+   "rows": 31,
+   "passing": 27,
    "quarantined": 4,
-   "missing_archive": 4,
+   "missing_archive": 3,
    "bad_url": 1,
    "dead_source": 0
   },
@@ -230,9 +230,11 @@
  "hard_failures": [],
  "warnings": [
   "infrastructure[6] Huawei AI data centre bid: no archive snapshot captured for https://www.bloomberg.com/news/articles/2026-08-26/huawei-courts-egypt",
-  "infrastructure[11] Teraco JB7 data centre expansion: no archive snapshot captured for https://mybroadband.co.za/news/cloud-hosting/664345-one-data-centre-in",
-  "infrastructure[21] Nexus AI factory (Casablanca): no archive snapshot captured for https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
-  "device-prices[4] Device prices: no archive snapshot captured for https://techwireasia.com/2026/04/global-smartphone-market-2026-memory-"
+  "infrastructure[15] Côte d'Ivoire sovereign data centre: no archive snapshot captured for https://www.devtelecoms.com/telecom-business/telecom-investment-merger",
+  "infrastructure[20] Nexus AI factory (Casablanca): no archive snapshot captured for https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+  "device-prices[4] Device prices: no archive snapshot captured for https://techwireasia.com/2026/04/global-smartphone-market-2026-memory-",
+  "device-shipments[5] Shipments, Q3 2026 (preliminary): no archive snapshot captured for https://iconnect007.com/article/152009/global-smartphone-shipments-dro",
+  "device-shipments[6] Smartphone shipments, Q3 2026: no archive snapshot captured for https://www.lightreading.com/smartphones-devices/eurobites-african-sma"
  ],
  "status": "pass"
 }

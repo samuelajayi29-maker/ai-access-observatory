@@ -1,11 +1,9 @@
 Model,Capability (index),"Cost of standard workload, USD",Capability basis
-"Claude Fable 5.1, GPT-6 Astra",53.4,$22.50,current
-Claude Opus 5 (routed),50.8,$4.50,current
-Claude Opus 5,50.8,$11.25,current
-GPT-5.6 Sol,47.0,$12.50,current
-Grok 4.6,44.3,$3.50,current
-Kimi K3 (max),43.6,$6.75,current
-GPT-5.6 Terra,42.1,$6.25,current
-Gemini 3.8 Flash,40.9,$1.69,current
-GPT-5.6 Luna,37.3,$2.50,current
-DeepSeek V4 Pro 0813 (max),36.0,$1.16,current
+Claude Fable 5.2,64.564,$18.00,current
+Gemini 4 Carbon,60.026,$4.50,current
+Claude Opus 5.5,59.106,$9.00,current
+GPT-6 Astra,56.854,$22.50,current
+GPT-6.1 Sol,54.609,$4.50,current
+Kimi K3.1 Pro,46.453,$4.50,current
+Grok 4.7,35.485,$3.50,current
+DeepSeek V4.1 Flash 1017 (max),32.59,$0.60,current

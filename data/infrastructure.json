@@ -3,7 +3,7 @@
  "metric": "infrastructure_project",
  "definition": "Colocation and hyperscale data centre facilities of 1 MW design capacity or above, plus nationally announced cloud or AI compute programmes, publicly announced and traceable to a named source. Enterprise self-build, sub-1 MW sites and unannounced facilities are out of scope in this version. The definition is published so coverage can be judged against it, and it will be revised in the open.",
  "unit": "MW (capacity) and USD (capital). The two are never summed.",
- "compiled": "2026-09-28",
+ "compiled": "2026-11-11",
  "status_key": {
   "operational": "Open and serving customers",
   "under_construction": "Building, with a stated target date",
@@ -11,7 +11,8 @@
   "announced": "Publicly announced by a sponsor or government; no consent evidence yet",
   "exploring": "Discussions or bidding reported; nothing committed",
   "funding": "Capital raised for a portfolio, not a single site",
-  "policy_target": "Government target, not a project"
+  "policy_target": "Government target, not a project",
+  "appeal_pending": "Planning approval suspended while an appeal is decided; not construction"
  },
  "universe": {
   "note": "Reference figures are published by others and are not our own count. They are recorded so coverage can be stated honestly rather than implied.",
@@ -44,7 +45,7 @@
    "online": "2026-09-07",
    "source": "TechAfrica News",
    "url": "https://techafricanews.com/2026/09/07/digital-realty-opens-6-4mw-nairobi-two-data-center-east-africa/",
-   "note": "Opened this week; iColo sites rebranded to Digital Realty across Kenya and Mozambique.",
+   "note": "Opened on 7 September 2026; iColo sites rebranded to Digital Realty across Kenya and Mozambique.",
    "evidence_status": "trade_reporting",
    "temporal_status": "measured",
    "geography_scope": "country",
@@ -56,7 +57,7 @@
    "archived_at": "2026-09-21"
   },
   {
-   "name": "NSIA AI data centre",
+   "name": "KASI hyperscale campus (NSIA investment)",
    "country": "Nigeria",
    "sponsors": "Nigeria Sovereign Investment Authority",
    "capacity_mw": 100,
@@ -64,18 +65,21 @@
    "status": "announced",
    "announced": "2026-09-01",
    "online": null,
-   "source": "BusinessDay",
-   "url": "https://businessday.ng/technology/article/nsia-bets-on-100mw-ai-data-centre-to-power-nigerias-digital-economy/",
-   "note": "Sovereign wealth vehicle entering AI capacity directly.",
-   "evidence_status": "unclear",
+   "source": "Nigeria Sovereign Investment Authority",
+   "url": "https://nsia.com.ng/kasi-cloud-datacenters-commissions-west-africas-first-hyperscaleready-ai-capable-data-centre-campus-in-lagos/",
+   "note": "The 100 MW is the long-term full-campus design, not capacity already serving load. NSIA reported the LOS1 flag-off on 19 May 2026, followed by phased commissioning, systems integration and customer readiness. No separately quantified operational IT load was published in this source; the 100 MW remains planned.",
+   "evidence_status": "official",
    "temporal_status": "announced",
    "geography_scope": "country",
    "headline_eligible": false,
-   "originating_source": "BusinessDay",
-   "evidence_host": "businessday.ng",
+   "originating_source": "Nigeria Sovereign Investment Authority",
+   "evidence_host": "nsia.com.ng",
    "source_quality": "ok",
-   "archive_url": "https://web.archive.org/web/20260911080947/https://businessday.ng/technology/article/nsia-bets-on-100mw-ai-data-centre-to-power-nigerias-digital-economy/",
-   "archived_at": "2026-09-11"
+   "reviewed_at": "2026-11-11",
+   "phase_status": "LOS1 phased commissioning / customer readiness",
+   "operational_capacity_mw": null,
+   "archive_url": "https://web.archive.org/web/20260607021120/https://nsia.com.ng/kasi-cloud-datacenters-commissions-west-africas-first-hyperscaleready-ai-capable-data-centre-campus-in-lagos/",
+   "archived_at": "2026-06-07"
   },
   {
    "name": "MTN AI-ready data centres",
@@ -196,7 +200,7 @@
    "online": "2027-07",
    "source": "TechAfrica News",
    "url": "https://techafricanews.com/2026/08/07/airtels-150m-kenya-data-centre-now-targets-july-2027-launch/",
-   "note": "Target moved to July 2027.",
+   "note": "Airtel half-year results published 30 October 2026, page 11, confirm construction continues in Kenya and Nigeria. July 2027 completion is the later reported target; older operator/government pages still say Q1 2027. The reported 44 MW design is not added to comparable IT-load totals because its basis is unconfirmed.",
    "evidence_status": "trade_reporting",
    "temporal_status": "measured",
    "geography_scope": "country",
@@ -205,7 +209,11 @@
    "evidence_host": "techafricanews.com",
    "source_quality": "ok",
    "archive_url": "https://web.archive.org/web/20260921122930/https://techafricanews.com/2026/08/07/airtels-150m-kenya-data-centre-now-targets-july-2027-launch/",
-   "archived_at": "2026-09-21"
+   "archived_at": "2026-09-21",
+   "reviewed_at": "2026-11-11",
+   "latest_status_source_url": "https://doclib.ngxgroup.com/Financial_NewsDocs/48263_AIRTEL_AFRICA_PLC-RESULTS_FOR_HALF_YEAR_ENDED_30_SEPTEMBER_2026_CORPORATE_ACTIONS_OCTOBER_2026.pdf",
+   "reported_design_capacity_mw": 44,
+   "capacity_basis": "44 MW reported design capacity; not confirmed as critical IT load, excluded from capacity_mw"
   },
   {
    "name": "Mombasa AI data centre",
@@ -233,9 +241,9 @@
    "archived_at": "2026-09-16"
   },
   {
-   "name": "Cape Town hyperscale campus (two sites)",
+   "name": "Equinix King Air Industria campus (two sites)",
    "country": "South Africa",
-   "sponsors": "Undisclosed",
+   "sponsors": "Equinix",
    "capacity_mw": null,
    "capex_usd": null,
    "status": "appeal_pending",
@@ -243,7 +251,7 @@
    "online": null,
    "source": "Daily Maverick",
    "url": "https://www.dailymaverick.co.za/article/2026-09-20-data-centre-deal-cape-town-forced-back-to-the-drawing-board/",
-   "note": "No confirmed IT capacity is published. The earlier 174 MW figure described electricity demand, not installed or declared IT capacity; the July land-use approval was legally suspended after an appeal, and Equinix reported no immediate development plans (20 September 2026).",
+   "note": "No confirmed IT capacity is published. The earlier 174 MW figure described electricity demand, not installed or declared IT capacity; the July land-use approval was legally suspended after an appeal, and Equinix reported no immediate development plans (20 September 2026). The August approval report and September appeal concern the same King Air Industria campus; merged to prevent duplicate project counts. Latest reviewed reporting still describes approval suspended pending appeal, not construction.",
    "evidence_status": "trade_reporting",
    "temporal_status": "announced",
    "geography_scope": "country",
@@ -252,30 +260,17 @@
    "evidence_host": "dailymaverick.co.za",
    "source_quality": "ok",
    "status_detail": "Planning approval legally suspended pending appeal; no immediate development plan reported.",
-   "archive_url": "https://web.archive.org/web/20260926160919/https://www.dailymaverick.co.za/article/2026-09-20-data-centre-deal-cape-town-forced-back-to-the-drawing-board/",
-   "archived_at": "2026-09-26"
-  },
-  {
-   "name": "Equinix Cape Town campus",
-   "country": "South Africa",
-   "sponsors": "Equinix",
-   "capacity_mw": null,
-   "capex_usd": null,
-   "status": "approved",
-   "announced": "2026-08-04",
-   "online": null,
-   "source": "FurtherAfrica",
-   "url": "https://furtherafrica.com/2026/08/04/equinix-wins-approval-for-major-cape-town-data-centre-campus/",
-   "note": "Approved; capacity not disclosed.",
-   "evidence_status": "unclear",
-   "temporal_status": "measured",
-   "geography_scope": "country",
-   "headline_eligible": false,
-   "originating_source": "FurtherAfrica",
-   "evidence_host": "furtherafrica.com",
-   "source_quality": "ok",
-   "archive_url": "https://web.archive.org/web/20260921122736/https://furtherafrica.com/2026/08/04/equinix-wins-approval-for-major-cape-town-data-centre-campus/",
-   "archived_at": "2026-09-21"
+   "archive_url": "https://web.archive.org/web/20261001071310/https://www.dailymaverick.co.za/article/2026-09-20-data-centre-deal-cape-town-forced-back-to-the-drawing-board/",
+   "archived_at": "2026-10-01",
+   "reviewed_at": "2026-11-11",
+   "aliases": [
+    "Cape Town hyperscale campus (two sites)",
+    "Equinix Cape Town campus"
+   ],
+   "supporting_sources": [
+    "https://furtherafrica.com/2026/08/04/equinix-wins-approval-for-major-cape-town-data-centre-campus/",
+    "https://techcentral.co.za/cape-town-new-rules-data-centre-applications-equinix/286218/"
+   ]
   },
   {
    "name": "Teraco JB7 data centre expansion",
@@ -286,17 +281,20 @@
    "status": "under_construction",
    "announced": "2024-11-13",
    "online": "2026",
-   "source": "MyBroadband, citing Teraco",
-   "url": "https://mybroadband.co.za/news/cloud-hosting/664345-one-data-centre-in-south-africa-will-use-more-power-than-kimberley-or-nelspruit.html",
-   "note": "Only JB7's 40 MW addition is counted as under construction. Teraco's 228 MW figure is a planned full-portfolio total including existing campuses; it is not counted as new build capacity. Teraco reported 189 MW of critical IT load across operating facilities in January 2026.",
-   "evidence_status": "trade_reporting",
+   "source": "Teraco",
+   "url": "https://www.teraco.co.za/news/teraco-announces-jb7-and-a-new-r8-billion-syndicated-loan/",
+   "note": "Teraco announced construction on 13 November 2024: 40 MW critical IT load, with completion scheduled for 2026. No commissioning confirmation located in this review. Portfolio totals are excluded from this project capacity.",
+   "evidence_status": "company_filing",
    "temporal_status": "announced",
    "geography_scope": "country",
    "headline_eligible": false,
-   "originating_source": "Teraco plan reported by MyBroadband",
+   "originating_source": "Teraco",
    "evidence_host": "teraco.co.za",
    "source_quality": "ok",
-   "status_detail": "MyBroadband reported it was still expanding on 27 August 2026; the 2026 completion date is a schedule, not confirmation of commissioning."
+   "status_detail": "MyBroadband reported it was still expanding on 27 August 2026; the 2026 completion date is a schedule, not confirmation of commissioning.",
+   "reviewed_at": "2026-11-11",
+   "archive_url": "https://web.archive.org/web/20260814234546/https://www.teraco.co.za/news/teraco-announces-jb7-and-a-new-r8-billion-syndicated-loan/",
+   "archived_at": "2026-08-14"
   },
   {
    "name": "Cassava AI Factory",
@@ -400,8 +398,8 @@
    "announced": "2026-07-20",
    "online": null,
    "source": "Developing Telecoms",
-   "url": "https://developingtelecoms.com/telecom-business/telecom-investment-mergers/20549-cote-divoire-approves-starlin",
-   "note": "Government-approved sovereign facility.",
+   "url": "https://www.devtelecoms.com/telecom-business/telecom-investment-mergers/20549-cote-divoire-approves-starlink-service-data-centre-project-and-more-after-us-state-visit.html",
+   "note": "Sovereign national data-centre programme reported approved in July 2026. Financing covers a broader government digitisation and smart-border package; no site-specific MW or capex is assigned. Broken truncated source link replaced with the full article.",
    "evidence_status": "unclear",
    "temporal_status": "measured",
    "geography_scope": "country",
@@ -409,8 +407,7 @@
    "originating_source": "Developing Telecoms",
    "evidence_host": "developingtelecoms.com",
    "source_quality": "ok",
-   "archive_url": "https://web.archive.org/web/20260923085135/https://developingtelecoms.com/telecom-business/telecom-investment-mergers/20549-cote-divoire-approves-starlin",
-   "archived_at": "2026-09-23"
+   "reviewed_at": "2026-11-11"
   },
   {
    "name": "Gabon sovereign data centre",

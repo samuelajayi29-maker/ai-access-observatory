@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "reviewed_at": "2026-10-01",
+ "reviewed_at": "2026-11-11",
  "sources": {
   "itu": {
    "name": "ITU ICT Price Baskets, December 2025 release",
@@ -8,9 +8,10 @@
    "published": "2025-12-02",
    "basis": "official",
    "method": "Retail basket prices collected under ITU rules; country prices are published in USD and as a share of monthly GNI per capita. Basket definitions changed in 2025.",
-   "reviewed_at": "2026-10-01",
+   "reviewed_at": "2026-11-11",
    "headline_eligible": false,
-   "download_sha256": "bc09d24b171c5d5c8492de06ee5e73124a9c82c64ba166eb18d5cb39a0d32094"
+   "download_sha256": "21e1a4ee956105e0fbc5a72be0f70ea5a0c76ed02cc3c672b9ca9705a6d6fbd4",
+   "snapshot": "data/reference/itu-2025-reviewed-2026-11-11.xlsx"
   },
   "itu-detail": {
    "name": "ITU 2025 basket allowances and operator metadata",
@@ -18,9 +19,10 @@
    "published": "2025 data release",
    "basis": "official",
    "method": "Selected plans and allowances may exceed the minimum basket requirement. These are 2025 observations, not live retail quotes.",
-   "reviewed_at": "2026-10-01",
+   "reviewed_at": "2026-11-11",
    "headline_eligible": false,
-   "download_sha256": "bef84c377d8d3c5ca2c49a053655b58b73b4c636fe6465880e8ef40d68456cd9"
+   "download_sha256": "d90acd4cebe8ae5a273d71a7764b1bc541f94f5b5461665bc35454323c5c2286",
+   "snapshot": "data/reference/itu-detail-2025-reviewed-2026-11-11.xlsx"
   },
   "ipsos": {
    "name": "Google / Ipsos Our Life With AI, 2025 fieldwork",
@@ -28,7 +30,7 @@
    "published": "2026-01-15",
    "basis": "survey",
    "method": "Online non-probability survey, approximately 1,000 adults per country; fieldwork 22 September–10 October 2025. Self-reported use. Results describe the surveyed sample and must not be presented as a census of all residents.",
-   "reviewed_at": "2026-10-01",
+   "reviewed_at": "2026-11-11",
    "headline_eligible": false
   },
   "microsoft": {
@@ -46,7 +48,7 @@
    "published": "2025-08 report",
    "basis": "platform_records",
    "method": "Change in AI-related vacancies observed by Pnet. A vacancy is an advertisement, not a hire or net job creation. The report includes international and remote listings; it is not a census of domestic employment.",
-   "reviewed_at": "2026-10-01",
+   "reviewed_at": "2026-11-11",
    "headline_eligible": false
   },
   "pwc": {
@@ -64,7 +66,7 @@
    "published": "Undated live documentation",
    "basis": "operator_documentation",
    "method": "Regional product listing checked on the review date. It does not establish spare capacity, granted account quotas, actual uptime or an available rental price.",
-   "reviewed_at": "2026-10-01",
+   "reviewed_at": "2026-11-11",
    "headline_eligible": false
   },
   "cassava": {
@@ -73,7 +75,7 @@
    "published": "2026-03-18",
    "basis": "operator_statement",
    "method": "Operator-reported South Africa deployment and GPU service offering. Expansion countries are plans, not operating sites verified by this review.",
-   "reviewed_at": "2026-10-01",
+   "reviewed_at": "2026-11-11",
    "headline_eligible": false
   },
   "cassava-product": {
@@ -82,7 +84,7 @@
    "published": "Undated product page",
    "basis": "operator_documentation",
    "method": "Advertises H200 GPU services and on-demand, reserved and spot options. No numerical rental rate or installed GPU total found on the reviewed page.",
-   "reviewed_at": "2026-10-01",
+   "reviewed_at": "2026-11-11",
    "headline_eligible": false
   },
   "teraco": {
@@ -91,7 +93,7 @@
    "published": "2025-08-12",
    "basis": "operator_statement",
    "method": "Operator reports completion of a 30 MW addition, bringing the JB4 campus to 50 MW critical IT capacity. Total and increment must not be added. Rated capacity is not actual electricity consumption or AI-specific compute.",
-   "reviewed_at": "2026-10-01",
+   "reviewed_at": "2026-11-11",
    "headline_eligible": false
   },
   "kenya-study": {
@@ -111,6 +113,17 @@
    "method": "Research announcement. No completed employment-impact estimate is extracted from this source.",
    "reviewed_at": "2026-10-01",
    "headline_eligible": false
+  },
+  "microsoft-q2": {
+   "name": "Microsoft AI Economy Institute, Q2 2026 diffusion dataset",
+   "url": "https://github.com/microsoft/ai-diffusion-report/blob/main/data/AI_Diffusion_Q22026_Update.csv",
+   "published": "2026-09",
+   "basis": "vendor_estimate",
+   "method": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+   "reviewed_at": "2026-11-11",
+   "headline_eligible": false,
+   "download_sha256": "b69dec5f6b634d7cdaa4d4d9206465e5d73b192b7b1351ab81430a3bb4a30f4a",
+   "technical_paper": "https://doi.org/10.48550/arXiv.2511.02781"
   }
  },
  "series": [
@@ -1115,1006 +1128,6 @@
    ]
   },
   {
-   "id": "adoption-estimate-h1-2025",
-   "priority": "adoption",
-   "pillar": "access",
-   "title": "Estimated generative AI use — H1 2025",
-   "unit": "% of working-age population",
-   "period": "H1 2025",
-   "source_id": "microsoft",
-   "definition": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-   "evidence_status": "vendor_estimate",
-   "temporal_status": "modelled",
-   "rows": [
-    {
-     "id": "DZA",
-     "label": "Algeria",
-     "country": "DZA",
-     "value": 11.3,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "AGO",
-     "label": "Angola",
-     "country": "AGO",
-     "value": 8.9,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "BEN",
-     "label": "Benin",
-     "country": "BEN",
-     "value": 8.7,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "BWA",
-     "label": "Botswana",
-     "country": "BWA",
-     "value": 12.8,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "BFA",
-     "label": "Burkina Faso",
-     "country": "BFA",
-     "value": 8.7,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "BDI",
-     "label": "Burundi",
-     "country": "BDI",
-     "value": 6.4,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "CPV",
-     "label": "Cabo Verde",
-     "country": "CPV",
-     "value": null,
-     "availability": "no_information_in_source",
-     "note": "No information: no country estimate in the reviewed appendix.",
-     "details": {}
-    },
-    {
-     "id": "CMR",
-     "label": "Cameroon",
-     "country": "CMR",
-     "value": 7.0,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "CAF",
-     "label": "Central African Republic",
-     "country": "CAF",
-     "value": 7.0,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "TCD",
-     "label": "Chad",
-     "country": "TCD",
-     "value": 7.0,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "COM",
-     "label": "Comoros",
-     "country": "COM",
-     "value": null,
-     "availability": "no_information_in_source",
-     "note": "No information: no country estimate in the reviewed appendix.",
-     "details": {}
-    },
-    {
-     "id": "CIV",
-     "label": "Côte d'Ivoire",
-     "country": "CIV",
-     "value": 10.8,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "COD",
-     "label": "Democratic Republic of the Congo",
-     "country": "COD",
-     "value": 7.0,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "DJI",
-     "label": "Djibouti",
-     "country": "DJI",
-     "value": null,
-     "availability": "no_information_in_source",
-     "note": "No information: no country estimate in the reviewed appendix.",
-     "details": {}
-    },
-    {
-     "id": "EGY",
-     "label": "Egypt",
-     "country": "EGY",
-     "value": 12.5,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "GNQ",
-     "label": "Equatorial Guinea",
-     "country": "GNQ",
-     "value": null,
-     "availability": "no_information_in_source",
-     "note": "No information: no country estimate in the reviewed appendix.",
-     "details": {}
-    },
-    {
-     "id": "ERI",
-     "label": "Eritrea",
-     "country": "ERI",
-     "value": 6.4,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "SWZ",
-     "label": "Eswatini",
-     "country": "SWZ",
-     "value": null,
-     "availability": "no_information_in_source",
-     "note": "No information: no country estimate in the reviewed appendix.",
-     "details": {}
-    },
-    {
-     "id": "ETH",
-     "label": "Ethiopia",
-     "country": "ETH",
-     "value": 6.4,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "GAB",
-     "label": "Gabon",
-     "country": "GAB",
-     "value": 12.3,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "GMB",
-     "label": "Gambia",
-     "country": "GMB",
-     "value": 10.6,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "GHA",
-     "label": "Ghana",
-     "country": "GHA",
-     "value": 8.7,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "GIN",
-     "label": "Guinea",
-     "country": "GIN",
-     "value": 8.7,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "GNB",
-     "label": "Guinea-Bissau",
-     "country": "GNB",
-     "value": 8.7,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "KEN",
-     "label": "Kenya",
-     "country": "KEN",
-     "value": 7.8,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "LSO",
-     "label": "Lesotho",
-     "country": "LSO",
-     "value": 8.8,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "LBR",
-     "label": "Liberia",
-     "country": "LBR",
-     "value": 8.7,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "LBY",
-     "label": "Libya",
-     "country": "LBY",
-     "value": 12.7,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "MDG",
-     "label": "Madagascar",
-     "country": "MDG",
-     "value": 8.9,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "MWI",
-     "label": "Malawi",
-     "country": "MWI",
-     "value": 8.9,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "MLI",
-     "label": "Mali",
-     "country": "MLI",
-     "value": 8.7,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "MRT",
-     "label": "Mauritania",
-     "country": "MRT",
-     "value": 8.7,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "MUS",
-     "label": "Mauritius",
-     "country": "MUS",
-     "value": null,
-     "availability": "no_information_in_source",
-     "note": "No information: no country estimate in the reviewed appendix.",
-     "details": {}
-    },
-    {
-     "id": "MAR",
-     "label": "Morocco",
-     "country": "MAR",
-     "value": 10.5,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "MOZ",
-     "label": "Mozambique",
-     "country": "MOZ",
-     "value": 8.9,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "NAM",
-     "label": "Namibia",
-     "country": "NAM",
-     "value": 13.0,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "NER",
-     "label": "Niger",
-     "country": "NER",
-     "value": 8.7,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "NGA",
-     "label": "Nigeria",
-     "country": "NGA",
-     "value": 8.7,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "COG",
-     "label": "Republic of the Congo",
-     "country": "COG",
-     "value": 7.0,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "RWA",
-     "label": "Rwanda",
-     "country": "RWA",
-     "value": 6.0,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "SEN",
-     "label": "Senegal",
-     "country": "SEN",
-     "value": 12.4,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "SYC",
-     "label": "Seychelles",
-     "country": "SYC",
-     "value": null,
-     "availability": "no_information_in_source",
-     "note": "No information: no country estimate in the reviewed appendix.",
-     "details": {}
-    },
-    {
-     "id": "SLE",
-     "label": "Sierra Leone",
-     "country": "SLE",
-     "value": 8.7,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "SOM",
-     "label": "Somalia",
-     "country": "SOM",
-     "value": 6.4,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "ZAF",
-     "label": "South Africa",
-     "country": "ZAF",
-     "value": 19.3,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "SSD",
-     "label": "South Sudan",
-     "country": "SSD",
-     "value": 6.4,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "SDN",
-     "label": "Sudan",
-     "country": "SDN",
-     "value": 6.4,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "STP",
-     "label": "São Tomé and Príncipe",
-     "country": "STP",
-     "value": null,
-     "availability": "no_information_in_source",
-     "note": "No information: no country estimate in the reviewed appendix.",
-     "details": {}
-    },
-    {
-     "id": "TZA",
-     "label": "Tanzania",
-     "country": "TZA",
-     "value": 6.4,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "TGO",
-     "label": "Togo",
-     "country": "TGO",
-     "value": 8.7,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "TUN",
-     "label": "Tunisia",
-     "country": "TUN",
-     "value": 12.3,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "UGA",
-     "label": "Uganda",
-     "country": "UGA",
-     "value": 6.4,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "ZMB",
-     "label": "Zambia",
-     "country": "ZMB",
-     "value": 11.7,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "ZWE",
-     "label": "Zimbabwe",
-     "country": "ZWE",
-     "value": 6.9,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    }
-   ]
-  },
-  {
-   "id": "adoption-estimate-h2-2025",
-   "priority": "adoption",
-   "pillar": "access",
-   "title": "Estimated generative AI use — H2 2025",
-   "unit": "% of working-age population",
-   "period": "H2 2025",
-   "source_id": "microsoft",
-   "definition": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-   "evidence_status": "vendor_estimate",
-   "temporal_status": "modelled",
-   "rows": [
-    {
-     "id": "DZA",
-     "label": "Algeria",
-     "country": "DZA",
-     "value": 12.0,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "AGO",
-     "label": "Angola",
-     "country": "AGO",
-     "value": 9.7,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "BEN",
-     "label": "Benin",
-     "country": "BEN",
-     "value": 9.3,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "BWA",
-     "label": "Botswana",
-     "country": "BWA",
-     "value": 13.7,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "BFA",
-     "label": "Burkina Faso",
-     "country": "BFA",
-     "value": 9.3,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "BDI",
-     "label": "Burundi",
-     "country": "BDI",
-     "value": 6.8,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "CPV",
-     "label": "Cabo Verde",
-     "country": "CPV",
-     "value": null,
-     "availability": "no_information_in_source",
-     "note": "No information: no country estimate in the reviewed appendix.",
-     "details": {}
-    },
-    {
-     "id": "CMR",
-     "label": "Cameroon",
-     "country": "CMR",
-     "value": 7.8,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "CAF",
-     "label": "Central African Republic",
-     "country": "CAF",
-     "value": 7.8,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "TCD",
-     "label": "Chad",
-     "country": "TCD",
-     "value": 7.8,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "COM",
-     "label": "Comoros",
-     "country": "COM",
-     "value": null,
-     "availability": "no_information_in_source",
-     "note": "No information: no country estimate in the reviewed appendix.",
-     "details": {}
-    },
-    {
-     "id": "CIV",
-     "label": "Côte d'Ivoire",
-     "country": "CIV",
-     "value": 11.7,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "COD",
-     "label": "Democratic Republic of the Congo",
-     "country": "COD",
-     "value": 7.8,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "DJI",
-     "label": "Djibouti",
-     "country": "DJI",
-     "value": null,
-     "availability": "no_information_in_source",
-     "note": "No information: no country estimate in the reviewed appendix.",
-     "details": {}
-    },
-    {
-     "id": "EGY",
-     "label": "Egypt",
-     "country": "EGY",
-     "value": 13.4,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "GNQ",
-     "label": "Equatorial Guinea",
-     "country": "GNQ",
-     "value": null,
-     "availability": "no_information_in_source",
-     "note": "No information: no country estimate in the reviewed appendix.",
-     "details": {}
-    },
-    {
-     "id": "ERI",
-     "label": "Eritrea",
-     "country": "ERI",
-     "value": 6.8,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "SWZ",
-     "label": "Eswatini",
-     "country": "SWZ",
-     "value": null,
-     "availability": "no_information_in_source",
-     "note": "No information: no country estimate in the reviewed appendix.",
-     "details": {}
-    },
-    {
-     "id": "ETH",
-     "label": "Ethiopia",
-     "country": "ETH",
-     "value": 6.8,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "GAB",
-     "label": "Gabon",
-     "country": "GAB",
-     "value": 13.4,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "GMB",
-     "label": "Gambia",
-     "country": "GMB",
-     "value": 10.9,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "GHA",
-     "label": "Ghana",
-     "country": "GHA",
-     "value": 9.3,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "GIN",
-     "label": "Guinea",
-     "country": "GIN",
-     "value": 9.3,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "GNB",
-     "label": "Guinea-Bissau",
-     "country": "GNB",
-     "value": 9.3,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "KEN",
-     "label": "Kenya",
-     "country": "KEN",
-     "value": 8.1,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "LSO",
-     "label": "Lesotho",
-     "country": "LSO",
-     "value": 9.1,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "LBR",
-     "label": "Liberia",
-     "country": "LBR",
-     "value": 9.3,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "LBY",
-     "label": "Libya",
-     "country": "LBY",
-     "value": 13.7,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "MDG",
-     "label": "Madagascar",
-     "country": "MDG",
-     "value": 9.7,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "MWI",
-     "label": "Malawi",
-     "country": "MWI",
-     "value": 9.7,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "MLI",
-     "label": "Mali",
-     "country": "MLI",
-     "value": 9.3,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "MRT",
-     "label": "Mauritania",
-     "country": "MRT",
-     "value": 9.3,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "MUS",
-     "label": "Mauritius",
-     "country": "MUS",
-     "value": null,
-     "availability": "no_information_in_source",
-     "note": "No information: no country estimate in the reviewed appendix.",
-     "details": {}
-    },
-    {
-     "id": "MAR",
-     "label": "Morocco",
-     "country": "MAR",
-     "value": 10.9,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "MOZ",
-     "label": "Mozambique",
-     "country": "MOZ",
-     "value": 9.7,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "NAM",
-     "label": "Namibia",
-     "country": "NAM",
-     "value": 13.8,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "NER",
-     "label": "Niger",
-     "country": "NER",
-     "value": 9.3,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "NGA",
-     "label": "Nigeria",
-     "country": "NGA",
-     "value": 9.3,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "COG",
-     "label": "Republic of the Congo",
-     "country": "COG",
-     "value": 7.8,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "RWA",
-     "label": "Rwanda",
-     "country": "RWA",
-     "value": 6.3,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "SEN",
-     "label": "Senegal",
-     "country": "SEN",
-     "value": 12.9,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "SYC",
-     "label": "Seychelles",
-     "country": "SYC",
-     "value": null,
-     "availability": "no_information_in_source",
-     "note": "No information: no country estimate in the reviewed appendix.",
-     "details": {}
-    },
-    {
-     "id": "SLE",
-     "label": "Sierra Leone",
-     "country": "SLE",
-     "value": 9.3,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "SOM",
-     "label": "Somalia",
-     "country": "SOM",
-     "value": 6.8,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "ZAF",
-     "label": "South Africa",
-     "country": "ZAF",
-     "value": 21.1,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "SSD",
-     "label": "South Sudan",
-     "country": "SSD",
-     "value": 6.8,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "SDN",
-     "label": "Sudan",
-     "country": "SDN",
-     "value": 6.8,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "STP",
-     "label": "São Tomé and Príncipe",
-     "country": "STP",
-     "value": null,
-     "availability": "no_information_in_source",
-     "note": "No information: no country estimate in the reviewed appendix.",
-     "details": {}
-    },
-    {
-     "id": "TZA",
-     "label": "Tanzania",
-     "country": "TZA",
-     "value": 6.8,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "TGO",
-     "label": "Togo",
-     "country": "TGO",
-     "value": 9.3,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "TUN",
-     "label": "Tunisia",
-     "country": "TUN",
-     "value": 12.7,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "UGA",
-     "label": "Uganda",
-     "country": "UGA",
-     "value": 6.8,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "ZMB",
-     "label": "Zambia",
-     "country": "ZMB",
-     "value": 12.3,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    },
-    {
-     "id": "ZWE",
-     "label": "Zimbabwe",
-     "country": "ZWE",
-     "value": 7.6,
-     "availability": "available",
-     "note": "Generative-AI diffusion estimate adjusted from Microsoft telemetry for device/OS market share, internet penetration and population. Working-age denominator; not a direct population survey or a measure of workplace adoption. Appendix pp. 15–17.",
-     "details": {}
-    }
-   ]
-  },
-  {
    "id": "cost-mobile-usd-2025",
    "priority": "costs",
    "pillar": "access",
@@ -2364,7 +1377,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB1783",
       "source_code": "i271mb_5GB$",
-      "source_value": 10,
+      "source_value": 10.0,
       "metadata_source_id": "itu-detail",
       "operator": "Vodacom",
       "allowance_gb": 10,
@@ -2421,7 +1434,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB3493",
       "source_code": "i271mb_5GB$",
-      "source_value": "NA",
+      "source_value": null,
       "metadata_source_id": "itu-detail"
      }
     },
@@ -2435,7 +1448,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB2683",
       "source_code": "i271mb_5GB$",
-      "source_value": "NA",
+      "source_value": null,
       "metadata_source_id": "itu-detail"
      }
     },
@@ -2601,7 +1614,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB5248",
       "source_code": "i271mb_5GB$",
-      "source_value": 8,
+      "source_value": 8.0,
       "metadata_source_id": "itu-detail",
       "operator": "Vodacom Lesotho",
       "allowance_gb": 6,
@@ -2620,7 +1633,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB5023",
       "source_code": "i271mb_5GB$",
-      "source_value": 8,
+      "source_value": 8.0,
       "metadata_source_id": "itu-detail",
       "operator": "Orange",
       "allowance_gb": 7.2,
@@ -2943,7 +1956,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB7993",
       "source_code": "i271mb_5GB$",
-      "source_value": 2,
+      "source_value": 2.0,
       "metadata_source_id": "itu-detail",
       "operator": "Hormuud Telecom ",
       "allowance_gb": 5,
@@ -3133,7 +2146,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB9928",
       "source_code": "i271mb_5GB$",
-      "source_value": "NA",
+      "source_value": null,
       "metadata_source_id": "itu-detail",
       "operator": "ECONET",
       "allowance_gb": 5.6,
@@ -3451,7 +2464,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB3491",
       "source_code": "i271mb_5GB_GNI",
-      "source_value": "NA",
+      "source_value": null,
       "metadata_source_id": "itu-detail"
      }
     },
@@ -3465,7 +2478,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB2681",
       "source_code": "i271mb_5GB_GNI",
-      "source_value": "NA",
+      "source_value": null,
       "metadata_source_id": "itu-detail"
      }
     },
@@ -3973,7 +2986,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB7991",
       "source_code": "i271mb_5GB_GNI",
-      "source_value": 4,
+      "source_value": 4.0,
       "metadata_source_id": "itu-detail",
       "operator": "Hormuud Telecom ",
       "allowance_gb": 5,
@@ -4163,7 +3176,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB9926",
       "source_code": "i271mb_5GB_GNI",
-      "source_value": "NA",
+      "source_value": null,
       "metadata_source_id": "itu-detail",
       "operator": "ECONET",
       "allowance_gb": 5.6,
@@ -4367,7 +3380,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB8557",
       "source_code": "i154_FBB5$",
-      "source_value": "NA",
+      "source_value": null,
       "metadata_source_id": "itu-detail"
      }
     },
@@ -4419,7 +3432,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB1762",
       "source_code": "i154_FBB5$",
-      "source_value": "NA",
+      "source_value": null,
       "metadata_source_id": "itu-detail"
      }
     },
@@ -4471,7 +3484,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB3472",
       "source_code": "i154_FBB5$",
-      "source_value": "NA",
+      "source_value": null,
       "metadata_source_id": "itu-detail"
      }
     },
@@ -4485,7 +3498,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB2662",
       "source_code": "i154_FBB5$",
-      "source_value": "NA",
+      "source_value": null,
       "metadata_source_id": "itu-detail"
      }
     },
@@ -4556,7 +3569,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB3382",
       "source_code": "i154_FBB5$",
-      "source_value": "NA",
+      "source_value": null,
       "metadata_source_id": "itu-detail"
      }
     },
@@ -4665,7 +3678,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB5002",
       "source_code": "i154_FBB5$",
-      "source_value": 93,
+      "source_value": 93.0,
       "metadata_source_id": "itu-detail",
       "operator": "Telecel ",
       "allowance_gb": "Unlimited",
@@ -4969,7 +3982,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB7837",
       "source_code": "i154_FBB5$",
-      "source_value": "NA",
+      "source_value": null,
       "metadata_source_id": "itu-detail"
      }
     },
@@ -4983,7 +3996,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB7972",
       "source_code": "i154_FBB5$",
-      "source_value": 25,
+      "source_value": 25.0,
       "metadata_source_id": "itu-detail",
       "operator": "Hormuud Telecom ",
       "allowance_gb": "Unlimited",
@@ -5021,7 +4034,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB8062",
       "source_code": "i154_FBB5$",
-      "source_value": "NA",
+      "source_value": null,
       "metadata_source_id": "itu-detail"
      }
     },
@@ -5168,7 +4181,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB9907",
       "source_code": "i154_FBB5$",
-      "source_value": 14,
+      "source_value": 14.0,
       "metadata_source_id": "itu-detail",
       "operator": "TelOne",
       "allowance_gb": 30,
@@ -5296,7 +4309,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB635",
       "source_code": "i154_FBB5_GNI",
-      "source_value": "NA",
+      "source_value": null,
       "metadata_source_id": "itu-detail",
       "operator": "CBINET",
       "allowance_gb": "Unlimited",
@@ -5372,7 +4385,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB8555",
       "source_code": "i154_FBB5_GNI",
-      "source_value": "NA",
+      "source_value": null,
       "metadata_source_id": "itu-detail"
      }
     },
@@ -5424,7 +4437,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB1760",
       "source_code": "i154_FBB5_GNI",
-      "source_value": "NA",
+      "source_value": null,
       "metadata_source_id": "itu-detail"
      }
     },
@@ -5476,7 +4489,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB3470",
       "source_code": "i154_FBB5_GNI",
-      "source_value": "NA",
+      "source_value": null,
       "metadata_source_id": "itu-detail"
      }
     },
@@ -5490,7 +4503,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB2660",
       "source_code": "i154_FBB5_GNI",
-      "source_value": "NA",
+      "source_value": null,
       "metadata_source_id": "itu-detail"
      }
     },
@@ -5561,7 +4574,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB3380",
       "source_code": "i154_FBB5_GNI",
-      "source_value": "NA",
+      "source_value": null,
       "metadata_source_id": "itu-detail"
      }
     },
@@ -5974,7 +4987,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB7835",
       "source_code": "i154_FBB5_GNI",
-      "source_value": "NA",
+      "source_value": null,
       "metadata_source_id": "itu-detail"
      }
     },
@@ -5988,7 +5001,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB7970",
       "source_code": "i154_FBB5_GNI",
-      "source_value": 50,
+      "source_value": 50.0,
       "metadata_source_id": "itu-detail",
       "operator": "Hormuud Telecom ",
       "allowance_gb": "Unlimited",
@@ -6026,7 +5039,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB8060",
       "source_code": "i154_FBB5_GNI",
-      "source_value": "NA",
+      "source_value": null,
       "metadata_source_id": "itu-detail"
      }
     },
@@ -6173,7 +5186,7 @@
      "details": {
       "source_cell": "economies_2008-2025!AB9905",
       "source_code": "i154_FBB5_GNI",
-      "source_value": "NA",
+      "source_value": null,
       "metadata_source_id": "itu-detail",
       "operator": "TelOne",
       "allowance_gb": 30,
@@ -6772,6 +5785,2006 @@
      }
     }
    ]
+  },
+  {
+   "id": "adoption-estimate-h1-2025",
+   "priority": "adoption",
+   "pillar": "access",
+   "title": "Estimated generative AI use — H1 2025",
+   "unit": "% of working-age population",
+   "period": "H1 2025",
+   "source_id": "microsoft-q2",
+   "definition": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+   "evidence_status": "vendor_estimate",
+   "temporal_status": "modelled",
+   "rows": [
+    {
+     "id": "DZA",
+     "label": "Algeria",
+     "country": "DZA",
+     "value": 11.3,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "AGO",
+     "label": "Angola",
+     "country": "AGO",
+     "value": 8.9,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "BEN",
+     "label": "Benin",
+     "country": "BEN",
+     "value": 8.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "BWA",
+     "label": "Botswana",
+     "country": "BWA",
+     "value": 12.8,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "BFA",
+     "label": "Burkina Faso",
+     "country": "BFA",
+     "value": 8.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "BDI",
+     "label": "Burundi",
+     "country": "BDI",
+     "value": 6.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "CPV",
+     "label": "Cabo Verde",
+     "country": "CPV",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "CMR",
+     "label": "Cameroon",
+     "country": "CMR",
+     "value": 7.0,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "CAF",
+     "label": "Central African Republic",
+     "country": "CAF",
+     "value": 7.0,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "TCD",
+     "label": "Chad",
+     "country": "TCD",
+     "value": 7.0,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "COM",
+     "label": "Comoros",
+     "country": "COM",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "CIV",
+     "label": "Côte d'Ivoire",
+     "country": "CIV",
+     "value": 10.8,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "COD",
+     "label": "Democratic Republic of the Congo",
+     "country": "COD",
+     "value": 7.0,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "DJI",
+     "label": "Djibouti",
+     "country": "DJI",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "EGY",
+     "label": "Egypt",
+     "country": "EGY",
+     "value": 12.5,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GNQ",
+     "label": "Equatorial Guinea",
+     "country": "GNQ",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "ERI",
+     "label": "Eritrea",
+     "country": "ERI",
+     "value": 6.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "SWZ",
+     "label": "Eswatini",
+     "country": "SWZ",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "ETH",
+     "label": "Ethiopia",
+     "country": "ETH",
+     "value": 6.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GAB",
+     "label": "Gabon",
+     "country": "GAB",
+     "value": 12.3,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GMB",
+     "label": "Gambia",
+     "country": "GMB",
+     "value": 10.6,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GHA",
+     "label": "Ghana",
+     "country": "GHA",
+     "value": 8.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GIN",
+     "label": "Guinea",
+     "country": "GIN",
+     "value": 8.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GNB",
+     "label": "Guinea-Bissau",
+     "country": "GNB",
+     "value": 8.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "KEN",
+     "label": "Kenya",
+     "country": "KEN",
+     "value": 7.8,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "LSO",
+     "label": "Lesotho",
+     "country": "LSO",
+     "value": 8.8,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "LBR",
+     "label": "Liberia",
+     "country": "LBR",
+     "value": 8.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "LBY",
+     "label": "Libya",
+     "country": "LBY",
+     "value": 12.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MDG",
+     "label": "Madagascar",
+     "country": "MDG",
+     "value": 8.9,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MWI",
+     "label": "Malawi",
+     "country": "MWI",
+     "value": 8.9,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MLI",
+     "label": "Mali",
+     "country": "MLI",
+     "value": 8.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MRT",
+     "label": "Mauritania",
+     "country": "MRT",
+     "value": 8.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MUS",
+     "label": "Mauritius",
+     "country": "MUS",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "MAR",
+     "label": "Morocco",
+     "country": "MAR",
+     "value": 10.5,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MOZ",
+     "label": "Mozambique",
+     "country": "MOZ",
+     "value": 8.9,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "NAM",
+     "label": "Namibia",
+     "country": "NAM",
+     "value": 13.0,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "NER",
+     "label": "Niger",
+     "country": "NER",
+     "value": 8.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "NGA",
+     "label": "Nigeria",
+     "country": "NGA",
+     "value": 8.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "COG",
+     "label": "Republic of the Congo",
+     "country": "COG",
+     "value": 7.0,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "RWA",
+     "label": "Rwanda",
+     "country": "RWA",
+     "value": 6.0,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "STP",
+     "label": "São Tomé and Príncipe",
+     "country": "STP",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "SEN",
+     "label": "Senegal",
+     "country": "SEN",
+     "value": 12.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "SYC",
+     "label": "Seychelles",
+     "country": "SYC",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "SLE",
+     "label": "Sierra Leone",
+     "country": "SLE",
+     "value": 8.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "SOM",
+     "label": "Somalia",
+     "country": "SOM",
+     "value": 6.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "ZAF",
+     "label": "South Africa",
+     "country": "ZAF",
+     "value": 19.3,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "SSD",
+     "label": "South Sudan",
+     "country": "SSD",
+     "value": 6.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "SDN",
+     "label": "Sudan",
+     "country": "SDN",
+     "value": 6.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "TZA",
+     "label": "Tanzania",
+     "country": "TZA",
+     "value": 6.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "TGO",
+     "label": "Togo",
+     "country": "TGO",
+     "value": 8.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "TUN",
+     "label": "Tunisia",
+     "country": "TUN",
+     "value": 12.3,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "UGA",
+     "label": "Uganda",
+     "country": "UGA",
+     "value": 6.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "ZMB",
+     "label": "Zambia",
+     "country": "ZMB",
+     "value": 11.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "ZWE",
+     "label": "Zimbabwe",
+     "country": "ZWE",
+     "value": 6.9,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    }
+   ]
+  },
+  {
+   "id": "adoption-estimate-h2-2025",
+   "priority": "adoption",
+   "pillar": "access",
+   "title": "Estimated generative AI use — H2 2025",
+   "unit": "% of working-age population",
+   "period": "H2 2025",
+   "source_id": "microsoft-q2",
+   "definition": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+   "evidence_status": "vendor_estimate",
+   "temporal_status": "modelled",
+   "rows": [
+    {
+     "id": "DZA",
+     "label": "Algeria",
+     "country": "DZA",
+     "value": 12.0,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "AGO",
+     "label": "Angola",
+     "country": "AGO",
+     "value": 9.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "BEN",
+     "label": "Benin",
+     "country": "BEN",
+     "value": 9.3,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "BWA",
+     "label": "Botswana",
+     "country": "BWA",
+     "value": 13.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "BFA",
+     "label": "Burkina Faso",
+     "country": "BFA",
+     "value": 9.3,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "BDI",
+     "label": "Burundi",
+     "country": "BDI",
+     "value": 6.8,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "CPV",
+     "label": "Cabo Verde",
+     "country": "CPV",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "CMR",
+     "label": "Cameroon",
+     "country": "CMR",
+     "value": 7.8,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "CAF",
+     "label": "Central African Republic",
+     "country": "CAF",
+     "value": 7.8,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "TCD",
+     "label": "Chad",
+     "country": "TCD",
+     "value": 7.8,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "COM",
+     "label": "Comoros",
+     "country": "COM",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "CIV",
+     "label": "Côte d'Ivoire",
+     "country": "CIV",
+     "value": 11.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "COD",
+     "label": "Democratic Republic of the Congo",
+     "country": "COD",
+     "value": 7.8,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "DJI",
+     "label": "Djibouti",
+     "country": "DJI",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "EGY",
+     "label": "Egypt",
+     "country": "EGY",
+     "value": 13.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GNQ",
+     "label": "Equatorial Guinea",
+     "country": "GNQ",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "ERI",
+     "label": "Eritrea",
+     "country": "ERI",
+     "value": 6.8,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "SWZ",
+     "label": "Eswatini",
+     "country": "SWZ",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "ETH",
+     "label": "Ethiopia",
+     "country": "ETH",
+     "value": 6.8,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GAB",
+     "label": "Gabon",
+     "country": "GAB",
+     "value": 13.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GMB",
+     "label": "Gambia",
+     "country": "GMB",
+     "value": 10.9,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GHA",
+     "label": "Ghana",
+     "country": "GHA",
+     "value": 9.3,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GIN",
+     "label": "Guinea",
+     "country": "GIN",
+     "value": 9.3,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GNB",
+     "label": "Guinea-Bissau",
+     "country": "GNB",
+     "value": 9.3,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "KEN",
+     "label": "Kenya",
+     "country": "KEN",
+     "value": 8.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "LSO",
+     "label": "Lesotho",
+     "country": "LSO",
+     "value": 9.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "LBR",
+     "label": "Liberia",
+     "country": "LBR",
+     "value": 9.3,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "LBY",
+     "label": "Libya",
+     "country": "LBY",
+     "value": 13.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MDG",
+     "label": "Madagascar",
+     "country": "MDG",
+     "value": 9.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MWI",
+     "label": "Malawi",
+     "country": "MWI",
+     "value": 9.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MLI",
+     "label": "Mali",
+     "country": "MLI",
+     "value": 9.3,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MRT",
+     "label": "Mauritania",
+     "country": "MRT",
+     "value": 9.3,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MUS",
+     "label": "Mauritius",
+     "country": "MUS",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "MAR",
+     "label": "Morocco",
+     "country": "MAR",
+     "value": 10.9,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MOZ",
+     "label": "Mozambique",
+     "country": "MOZ",
+     "value": 9.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "NAM",
+     "label": "Namibia",
+     "country": "NAM",
+     "value": 13.8,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "NER",
+     "label": "Niger",
+     "country": "NER",
+     "value": 9.3,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "NGA",
+     "label": "Nigeria",
+     "country": "NGA",
+     "value": 9.3,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "COG",
+     "label": "Republic of the Congo",
+     "country": "COG",
+     "value": 7.8,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "RWA",
+     "label": "Rwanda",
+     "country": "RWA",
+     "value": 6.3,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "STP",
+     "label": "São Tomé and Príncipe",
+     "country": "STP",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "SEN",
+     "label": "Senegal",
+     "country": "SEN",
+     "value": 12.9,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "SYC",
+     "label": "Seychelles",
+     "country": "SYC",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "SLE",
+     "label": "Sierra Leone",
+     "country": "SLE",
+     "value": 9.3,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "SOM",
+     "label": "Somalia",
+     "country": "SOM",
+     "value": 6.8,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "ZAF",
+     "label": "South Africa",
+     "country": "ZAF",
+     "value": 21.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "SSD",
+     "label": "South Sudan",
+     "country": "SSD",
+     "value": 6.8,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "SDN",
+     "label": "Sudan",
+     "country": "SDN",
+     "value": 6.8,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "TZA",
+     "label": "Tanzania",
+     "country": "TZA",
+     "value": 6.8,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "TGO",
+     "label": "Togo",
+     "country": "TGO",
+     "value": 9.3,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "TUN",
+     "label": "Tunisia",
+     "country": "TUN",
+     "value": 12.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "UGA",
+     "label": "Uganda",
+     "country": "UGA",
+     "value": 6.8,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "ZMB",
+     "label": "Zambia",
+     "country": "ZMB",
+     "value": 12.3,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "ZWE",
+     "label": "Zimbabwe",
+     "country": "ZWE",
+     "value": 7.6,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    }
+   ]
+  },
+  {
+   "id": "adoption-estimate-q1-2026",
+   "priority": "adoption",
+   "pillar": "access",
+   "title": "Estimated generative AI use — Q1 2026",
+   "unit": "% of working-age population",
+   "period": "Q1 2026",
+   "source_id": "microsoft-q2",
+   "definition": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+   "evidence_status": "vendor_estimate",
+   "temporal_status": "modelled",
+   "rows": [
+    {
+     "id": "DZA",
+     "label": "Algeria",
+     "country": "DZA",
+     "value": 13.2,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "AGO",
+     "label": "Angola",
+     "country": "AGO",
+     "value": 10.9,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "BEN",
+     "label": "Benin",
+     "country": "BEN",
+     "value": 10.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "BWA",
+     "label": "Botswana",
+     "country": "BWA",
+     "value": 14.8,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "BFA",
+     "label": "Burkina Faso",
+     "country": "BFA",
+     "value": 10.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "BDI",
+     "label": "Burundi",
+     "country": "BDI",
+     "value": 7.6,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "CPV",
+     "label": "Cabo Verde",
+     "country": "CPV",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "CMR",
+     "label": "Cameroon",
+     "country": "CMR",
+     "value": 8.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "CAF",
+     "label": "Central African Republic",
+     "country": "CAF",
+     "value": 8.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "TCD",
+     "label": "Chad",
+     "country": "TCD",
+     "value": 8.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "COM",
+     "label": "Comoros",
+     "country": "COM",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "CIV",
+     "label": "Côte d'Ivoire",
+     "country": "CIV",
+     "value": 13.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "COD",
+     "label": "Democratic Republic of the Congo",
+     "country": "COD",
+     "value": 8.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "DJI",
+     "label": "Djibouti",
+     "country": "DJI",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "EGY",
+     "label": "Egypt",
+     "country": "EGY",
+     "value": 14.8,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GNQ",
+     "label": "Equatorial Guinea",
+     "country": "GNQ",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "ERI",
+     "label": "Eritrea",
+     "country": "ERI",
+     "value": 7.6,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "SWZ",
+     "label": "Eswatini",
+     "country": "SWZ",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "ETH",
+     "label": "Ethiopia",
+     "country": "ETH",
+     "value": 7.6,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GAB",
+     "label": "Gabon",
+     "country": "GAB",
+     "value": 15.0,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GMB",
+     "label": "Gambia",
+     "country": "GMB",
+     "value": 11.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GHA",
+     "label": "Ghana",
+     "country": "GHA",
+     "value": 10.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GIN",
+     "label": "Guinea",
+     "country": "GIN",
+     "value": 10.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GNB",
+     "label": "Guinea-Bissau",
+     "country": "GNB",
+     "value": 10.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "KEN",
+     "label": "Kenya",
+     "country": "KEN",
+     "value": 8.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "LSO",
+     "label": "Lesotho",
+     "country": "LSO",
+     "value": 9.8,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "LBR",
+     "label": "Liberia",
+     "country": "LBR",
+     "value": 10.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "LBY",
+     "label": "Libya",
+     "country": "LBY",
+     "value": 15.0,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MDG",
+     "label": "Madagascar",
+     "country": "MDG",
+     "value": 10.9,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MWI",
+     "label": "Malawi",
+     "country": "MWI",
+     "value": 10.9,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MLI",
+     "label": "Mali",
+     "country": "MLI",
+     "value": 10.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MRT",
+     "label": "Mauritania",
+     "country": "MRT",
+     "value": 10.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MUS",
+     "label": "Mauritius",
+     "country": "MUS",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "MAR",
+     "label": "Morocco",
+     "country": "MAR",
+     "value": 11.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MOZ",
+     "label": "Mozambique",
+     "country": "MOZ",
+     "value": 10.9,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "NAM",
+     "label": "Namibia",
+     "country": "NAM",
+     "value": 15.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "NER",
+     "label": "Niger",
+     "country": "NER",
+     "value": 10.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "NGA",
+     "label": "Nigeria",
+     "country": "NGA",
+     "value": 10.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "COG",
+     "label": "Republic of the Congo",
+     "country": "COG",
+     "value": 8.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "RWA",
+     "label": "Rwanda",
+     "country": "RWA",
+     "value": 7.2,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "STP",
+     "label": "São Tomé and Príncipe",
+     "country": "STP",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "SEN",
+     "label": "Senegal",
+     "country": "SEN",
+     "value": 13.9,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "SYC",
+     "label": "Seychelles",
+     "country": "SYC",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "SLE",
+     "label": "Sierra Leone",
+     "country": "SLE",
+     "value": 10.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "SOM",
+     "label": "Somalia",
+     "country": "SOM",
+     "value": 7.6,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "ZAF",
+     "label": "South Africa",
+     "country": "ZAF",
+     "value": 23.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "SSD",
+     "label": "South Sudan",
+     "country": "SSD",
+     "value": 7.6,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "SDN",
+     "label": "Sudan",
+     "country": "SDN",
+     "value": 7.6,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "TZA",
+     "label": "Tanzania",
+     "country": "TZA",
+     "value": 7.6,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "TGO",
+     "label": "Togo",
+     "country": "TGO",
+     "value": 10.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "TUN",
+     "label": "Tunisia",
+     "country": "TUN",
+     "value": 13.5,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "UGA",
+     "label": "Uganda",
+     "country": "UGA",
+     "value": 7.6,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "ZMB",
+     "label": "Zambia",
+     "country": "ZMB",
+     "value": 13.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "ZWE",
+     "label": "Zimbabwe",
+     "country": "ZWE",
+     "value": 8.5,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    }
+   ]
+  },
+  {
+   "id": "adoption-estimate-q2-2026",
+   "priority": "adoption",
+   "pillar": "access",
+   "title": "Estimated generative AI use — Q2 2026",
+   "unit": "% of working-age population",
+   "period": "Q2 2026",
+   "source_id": "microsoft-q2",
+   "definition": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+   "evidence_status": "vendor_estimate",
+   "temporal_status": "modelled",
+   "rows": [
+    {
+     "id": "DZA",
+     "label": "Algeria",
+     "country": "DZA",
+     "value": 13.8,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "AGO",
+     "label": "Angola",
+     "country": "AGO",
+     "value": 11.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "BEN",
+     "label": "Benin",
+     "country": "BEN",
+     "value": 10.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "BWA",
+     "label": "Botswana",
+     "country": "BWA",
+     "value": 15.0,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "BFA",
+     "label": "Burkina Faso",
+     "country": "BFA",
+     "value": 10.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "BDI",
+     "label": "Burundi",
+     "country": "BDI",
+     "value": 8.0,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "CPV",
+     "label": "Cabo Verde",
+     "country": "CPV",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "CMR",
+     "label": "Cameroon",
+     "country": "CMR",
+     "value": 9.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "CAF",
+     "label": "Central African Republic",
+     "country": "CAF",
+     "value": 9.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "TCD",
+     "label": "Chad",
+     "country": "TCD",
+     "value": 9.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "COM",
+     "label": "Comoros",
+     "country": "COM",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "CIV",
+     "label": "Côte d'Ivoire",
+     "country": "CIV",
+     "value": 13.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "COD",
+     "label": "Democratic Republic of the Congo",
+     "country": "COD",
+     "value": 9.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "DJI",
+     "label": "Djibouti",
+     "country": "DJI",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "EGY",
+     "label": "Egypt",
+     "country": "EGY",
+     "value": 15.5,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GNQ",
+     "label": "Equatorial Guinea",
+     "country": "GNQ",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "ERI",
+     "label": "Eritrea",
+     "country": "ERI",
+     "value": 8.0,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "SWZ",
+     "label": "Eswatini",
+     "country": "SWZ",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "ETH",
+     "label": "Ethiopia",
+     "country": "ETH",
+     "value": 8.0,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GAB",
+     "label": "Gabon",
+     "country": "GAB",
+     "value": 15.7,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GMB",
+     "label": "Gambia",
+     "country": "GMB",
+     "value": 11.5,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GHA",
+     "label": "Ghana",
+     "country": "GHA",
+     "value": 10.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GIN",
+     "label": "Guinea",
+     "country": "GIN",
+     "value": 10.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "GNB",
+     "label": "Guinea-Bissau",
+     "country": "GNB",
+     "value": 10.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "KEN",
+     "label": "Kenya",
+     "country": "KEN",
+     "value": 8.9,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "LSO",
+     "label": "Lesotho",
+     "country": "LSO",
+     "value": 9.9,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "LBR",
+     "label": "Liberia",
+     "country": "LBR",
+     "value": 10.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "LBY",
+     "label": "Libya",
+     "country": "LBY",
+     "value": 15.5,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MDG",
+     "label": "Madagascar",
+     "country": "MDG",
+     "value": 11.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MWI",
+     "label": "Malawi",
+     "country": "MWI",
+     "value": 11.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MLI",
+     "label": "Mali",
+     "country": "MLI",
+     "value": 10.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MRT",
+     "label": "Mauritania",
+     "country": "MRT",
+     "value": 10.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MUS",
+     "label": "Mauritius",
+     "country": "MUS",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "MAR",
+     "label": "Morocco",
+     "country": "MAR",
+     "value": 12.0,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "MOZ",
+     "label": "Mozambique",
+     "country": "MOZ",
+     "value": 11.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "NAM",
+     "label": "Namibia",
+     "country": "NAM",
+     "value": 15.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "NER",
+     "label": "Niger",
+     "country": "NER",
+     "value": 10.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "NGA",
+     "label": "Nigeria",
+     "country": "NGA",
+     "value": 10.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "COG",
+     "label": "Republic of the Congo",
+     "country": "COG",
+     "value": 9.1,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "RWA",
+     "label": "Rwanda",
+     "country": "RWA",
+     "value": 7.6,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "STP",
+     "label": "São Tomé and Príncipe",
+     "country": "STP",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "SEN",
+     "label": "Senegal",
+     "country": "SEN",
+     "value": 14.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "SYC",
+     "label": "Seychelles",
+     "country": "SYC",
+     "value": null,
+     "availability": "no_information_in_source",
+     "note": "No country estimate in this source. This is not zero AI use.",
+     "details": {}
+    },
+    {
+     "id": "SLE",
+     "label": "Sierra Leone",
+     "country": "SLE",
+     "value": 10.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "SOM",
+     "label": "Somalia",
+     "country": "SOM",
+     "value": 8.0,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "ZAF",
+     "label": "South Africa",
+     "country": "ZAF",
+     "value": 23.9,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "SSD",
+     "label": "South Sudan",
+     "country": "SSD",
+     "value": 8.0,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "SDN",
+     "label": "Sudan",
+     "country": "SDN",
+     "value": 8.0,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "TZA",
+     "label": "Tanzania",
+     "country": "TZA",
+     "value": 8.0,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "TGO",
+     "label": "Togo",
+     "country": "TGO",
+     "value": 10.4,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "TUN",
+     "label": "Tunisia",
+     "country": "TUN",
+     "value": 13.9,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "UGA",
+     "label": "Uganda",
+     "country": "UGA",
+     "value": 8.0,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "ZMB",
+     "label": "Zambia",
+     "country": "ZMB",
+     "value": 13.3,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    },
+    {
+     "id": "ZWE",
+     "label": "Zimbabwe",
+     "country": "ZWE",
+     "value": 8.9,
+     "availability": "available",
+     "note": "Microsoft telemetry-based generative-AI diffusion estimate, adjusted for device/OS market share, internet use and working-age population (15–64). Not a population survey or measured workplace adoption. All periods use the Q2 2026 dataset vintage; revised historical values are not spliced with old vintages.",
+     "details": {}
+    }
+   ]
   }
  ],
  "assets": [
@@ -6786,9 +7799,9 @@
    "capacity_mw": null,
    "gpu_count": null,
    "hourly_price_usd": null,
-   "period": "Listed when reviewed on 2026-10-01",
+   "period": "Listed when reviewed on 2026-11-11",
    "note": "AWS lists G4dn in Cape Town. Listing does not verify spare capacity or account access. The reviewed regional listing gives no GPU fleet count, power capacity or hourly price. Inf1 is also listed, but is an inference accelerator and is not counted as a GPU.",
-   "reviewed_at": "2026-10-01",
+   "reviewed_at": "2026-11-11",
    "headline_eligible": false
   },
   {
@@ -6804,7 +7817,7 @@
    "hourly_price_usd": null,
    "period": "2026-03-18 operator update",
    "note": "South Africa deployment is stated by the operator. Nigeria, Kenya, Egypt and Morocco remain expansion plans in this source. No MW, installed GPU total or numerical rental rate is published here. Linked to the existing Cassava AI Factory project; not an additional project.",
-   "reviewed_at": "2026-10-01",
+   "reviewed_at": "2026-11-11",
    "headline_eligible": false
   },
   {
@@ -6820,7 +7833,7 @@
    "hourly_price_usd": null,
    "period": "2025-08-12 completion statement",
    "note": "50 MW is total critical IT capacity after a 30 MW addition. Actual utilisation and AI-specific capacity are not reported. JB4 is a different facility from JB7 in the project pipeline; do not add its incremental 30 MW again.",
-   "reviewed_at": "2026-10-01",
+   "reviewed_at": "2026-11-11",
    "headline_eligible": false
   }
  ],
@@ -6831,7 +7844,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "AGO",
@@ -6847,7 +7860,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "AGO",
@@ -6863,7 +7876,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "BDI",
@@ -6879,7 +7892,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "BDI",
@@ -6895,7 +7908,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "BEN",
@@ -6911,7 +7924,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "BEN",
@@ -6927,7 +7940,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "BFA",
@@ -6943,7 +7956,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "BFA",
@@ -6959,7 +7972,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "BWA",
@@ -6975,7 +7988,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "BWA",
@@ -6991,7 +8004,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "CAF",
@@ -7007,7 +8020,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "CAF",
@@ -7023,7 +8036,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "CIV",
@@ -7039,7 +8052,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "CIV",
@@ -7055,7 +8068,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "CMR",
@@ -7071,7 +8084,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "CMR",
@@ -7087,7 +8100,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "COD",
@@ -7103,7 +8116,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "COD",
@@ -7119,7 +8132,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "COG",
@@ -7135,7 +8148,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "COG",
@@ -7151,7 +8164,7 @@
    "priority": "adoption",
    "state": "no_information_in_reviewed_sources",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "COM",
@@ -7167,7 +8180,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "COM",
@@ -7183,7 +8196,7 @@
    "priority": "adoption",
    "state": "no_information_in_reviewed_sources",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "CPV",
@@ -7199,7 +8212,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "CPV",
@@ -7215,7 +8228,7 @@
    "priority": "adoption",
    "state": "no_information_in_reviewed_sources",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "DJI",
@@ -7231,7 +8244,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "DJI",
@@ -7247,7 +8260,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "DZA",
@@ -7263,7 +8276,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "DZA",
@@ -7279,7 +8292,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "EGY",
@@ -7295,7 +8308,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "EGY",
@@ -7311,7 +8324,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "ERI",
@@ -7327,7 +8340,7 @@
    "priority": "costs",
    "state": "no_information_in_reviewed_sources",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "ERI",
@@ -7343,7 +8356,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "ETH",
@@ -7359,7 +8372,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "ETH",
@@ -7375,7 +8388,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "GAB",
@@ -7391,7 +8404,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "GAB",
@@ -7407,7 +8420,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "GHA",
@@ -7423,7 +8436,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "GHA",
@@ -7439,7 +8452,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "GIN",
@@ -7455,7 +8468,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "GIN",
@@ -7471,7 +8484,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "GMB",
@@ -7487,7 +8500,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "GMB",
@@ -7503,7 +8516,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "GNB",
@@ -7519,7 +8532,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "GNB",
@@ -7535,7 +8548,7 @@
    "priority": "adoption",
    "state": "no_information_in_reviewed_sources",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "GNQ",
@@ -7551,7 +8564,7 @@
    "priority": "costs",
    "state": "no_information_in_reviewed_sources",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "GNQ",
@@ -7567,7 +8580,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "KEN",
@@ -7583,7 +8596,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "KEN",
@@ -7599,7 +8612,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "LBR",
@@ -7615,7 +8628,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "LBR",
@@ -7631,7 +8644,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "LBY",
@@ -7647,7 +8660,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "LBY",
@@ -7663,7 +8676,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "LSO",
@@ -7679,7 +8692,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "LSO",
@@ -7695,7 +8708,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "MAR",
@@ -7711,7 +8724,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "MAR",
@@ -7727,7 +8740,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "MDG",
@@ -7743,7 +8756,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "MDG",
@@ -7759,7 +8772,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "MLI",
@@ -7775,7 +8788,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "MLI",
@@ -7791,7 +8804,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "MOZ",
@@ -7807,7 +8820,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "MOZ",
@@ -7823,7 +8836,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "MRT",
@@ -7839,7 +8852,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "MRT",
@@ -7855,7 +8868,7 @@
    "priority": "adoption",
    "state": "no_information_in_reviewed_sources",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "MUS",
@@ -7871,7 +8884,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "MUS",
@@ -7887,7 +8900,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "MWI",
@@ -7903,7 +8916,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "MWI",
@@ -7919,7 +8932,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "NAM",
@@ -7935,7 +8948,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "NAM",
@@ -7951,7 +8964,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "NER",
@@ -7967,7 +8980,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "NER",
@@ -7983,7 +8996,7 @@
    "priority": "adoption",
    "state": "survey_available",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "NGA",
@@ -7999,7 +9012,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "NGA",
@@ -8015,7 +9028,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "RWA",
@@ -8031,7 +9044,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "RWA",
@@ -8047,7 +9060,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "SDN",
@@ -8063,7 +9076,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "SDN",
@@ -8079,7 +9092,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "SEN",
@@ -8095,7 +9108,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "SEN",
@@ -8111,7 +9124,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "SLE",
@@ -8127,7 +9140,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "SLE",
@@ -8143,7 +9156,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "SOM",
@@ -8159,7 +9172,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "SOM",
@@ -8175,7 +9188,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "SSD",
@@ -8191,7 +9204,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "SSD",
@@ -8207,7 +9220,7 @@
    "priority": "adoption",
    "state": "no_information_in_reviewed_sources",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "STP",
@@ -8223,7 +9236,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "STP",
@@ -8239,7 +9252,7 @@
    "priority": "adoption",
    "state": "no_information_in_reviewed_sources",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "SWZ",
@@ -8255,7 +9268,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "SWZ",
@@ -8271,7 +9284,7 @@
    "priority": "adoption",
    "state": "no_information_in_reviewed_sources",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "SYC",
@@ -8287,7 +9300,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "SYC",
@@ -8303,7 +9316,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "TCD",
@@ -8319,7 +9332,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "TCD",
@@ -8335,7 +9348,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "TGO",
@@ -8351,7 +9364,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "TGO",
@@ -8367,7 +9380,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "TUN",
@@ -8383,7 +9396,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "TUN",
@@ -8399,7 +9412,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "TZA",
@@ -8415,7 +9428,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "TZA",
@@ -8431,7 +9444,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "UGA",
@@ -8447,7 +9460,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "UGA",
@@ -8463,7 +9476,7 @@
    "priority": "adoption",
    "state": "survey_available",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "ZAF",
@@ -8479,7 +9492,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "ZAF",
@@ -8487,7 +9500,7 @@
    "priority": "compute",
    "state": "provider_evidence_available",
    "note": "This is a starter sample, not a facility census. GPU counts, current rental quotes and latency measurements remain gaps.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "ZMB",
@@ -8495,7 +9508,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "ZMB",
@@ -8511,7 +9524,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "ZMB",
@@ -8527,7 +9540,7 @@
    "priority": "adoption",
    "state": "estimate_only",
    "note": "National business-adoption and usage-frequency measures remain uncollected. Pooled employee survey is not allocated to countries.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "ZWE",
@@ -8543,7 +9556,7 @@
    "priority": "costs",
    "state": "price_evidence_available",
    "note": "ITU 2025 baskets checked. Current local device retail prices and verified payment checkout conditions remain uncollected.",
-   "reviewed_at": "2026-10-01"
+   "reviewed_at": "2026-11-11"
   },
   {
    "country": "ZWE",

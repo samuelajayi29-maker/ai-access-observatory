@@ -1,0 +1,57 @@
+{
+ "retrieved_at": "2026-11-11",
+ "basis": "Artificial Analysis Intelligence Index v5.0.1",
+ "url": "https://artificialanalysis.ai/models",
+ "source_sha256": "420fc00ead70d201e07fa8b7d042053924591267e823577a203651cb4d319001",
+ "method": "Values from the intelligence-index chart, not repeated throughput/price charts in the page payload. Only the named variant on this basis is compared.",
+ "scores": [
+  {
+   "model": "GPT-6 Astra",
+   "score": 56.854,
+   "variant": "GPT-6 Astra (max)",
+   "source_url": "https://artificialanalysis.ai/models/gpt-6-astra"
+  },
+  {
+   "model": "GPT-6.1 Sol",
+   "score": 54.609,
+   "variant": "GPT-6.1 Sol (max)",
+   "source_url": "https://artificialanalysis.ai/models/gpt-6-1-sol"
+  },
+  {
+   "model": "Claude Fable 5.2",
+   "score": 64.564,
+   "variant": "Claude Fable 5.2 (max)",
+   "source_url": "https://artificialanalysis.ai/models/claude-fable-5-2"
+  },
+  {
+   "model": "Claude Opus 5.5",
+   "score": 59.106,
+   "variant": "Claude Opus 5.5 (max)",
+   "source_url": "https://artificialanalysis.ai/models/claude-opus-5-5"
+  },
+  {
+   "model": "Gemini 4 Carbon",
+   "score": 60.026,
+   "variant": "Gemini 4 Carbon (high)",
+   "source_url": "https://artificialanalysis.ai/models/gemini-4-carbon"
+  },
+  {
+   "model": "Kimi K3.1 Pro",
+   "score": 46.453,
+   "variant": "Kimi K3.1 Pro",
+   "source_url": "https://artificialanalysis.ai/models/kimi-k3-1-pro"
+  },
+  {
+   "model": "Grok 4.7",
+   "score": 35.485,
+   "variant": "Grok 4.7 (xhigh)",
+   "source_url": "https://artificialanalysis.ai/models/grok-4-7"
+  },
+  {
+   "model": "DeepSeek V4.1 Flash 1017 (max)",
+   "score": 32.59,
+   "variant": "DeepSeek V4.1 Flash 1017 (max)",
+   "source_url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017"
+  }
+ ]
+}
