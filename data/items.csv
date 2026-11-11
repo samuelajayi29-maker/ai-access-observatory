@@ -1,4 +1,5 @@
 bucket,date,source,title,url
+jobs,Nov 9,BusinessDay,"iDICE BPO training-to-jobs track starts for 50,000 South-West youths on November 18, part of a 300,000 national target",https://businessday.ng/news/article/idice-50000-south-west-youths-begin-training-november-18/
 jobs,Nov 6,The Star Kenya,Kenya emerges as world's cheapest English-speaking jobs outsourcing hub,https://www.the-star.co.ke/business/2026-11-06-kenya-emerges-as-worlds-cheapest-english-speaking-jobs-outsourcing-hub
 jobs,Nov 4,Outsource Accelerator,"Enugu signs BPO hub deal with Humatrix targeting 100,000 jobs in five years, starting from a 750-seat centre",https://news.outsourceaccelerator.com/enugu-humatrix-bpo-hub/
 jobs,Nov 4,TechCrunch,"Canva cuts 22% of staff, 1,271 roles, as AI costs and slowing growth force a restructuring",https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/
@@ -216,6 +217,8 @@ jobs,May 16,UN Economic Commission for Africa,AI and jobs in Africa: turning dis
 jobs,Apr 25,Mastercard Foundation,40% of Tasks in Africa's Tech Outsourcing May Be Affected by AI by 2030,https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/
 jobs,Mar 31,WeeTracker,South Africa's gig economy becomes a bargain with AI skills shortage looming,https://weetracker.com/2026/03/31/south-africa-freelance-economy-ai-talent-gap-2026/
 jobs,Dec 25,"Deric Cheng, AI Frontiers",AI Could Undermine Emerging Economies,https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies
+access,Nov 10,The Diplomat,China's open-weight AI hits a last-mile problem in Kenya: Nairobi integrators resell cheap Kimi and DeepSeek builds as Chinese models take more tokens than US ones in the Global South,https://thediplomat.com/2026/11/chinas-open-weight-ai-has-a-last-mile-problem-in-kenya/
+access,Nov 10,arXiv,"Inherited Weights: tokenization premium still 6.8x for Amharic in the newest commercial tokenizer, plus an eight-test black-box sovereignty audit buyers can run",https://arxiv.org/abs/2611.13441
 access,Nov 5,TechCabal,Smart appliances' ambitions in Africa face an electricity test,https://techcabal.com/2026/11/05/smart-appliances-need-power-and-wi-fi/
 access,Nov 5,Business Daily Africa,Nairobi financial hub to set up Sh65bn fund for Kenyan startups,https://www.businessdailyafrica.com/bd/markets/currencies/nairobi-financial-hub-to-set-up-fund-for-kenyan-startups-5659342
 access,Nov 4,TechTrendsKE,"Mogo, ZTE offer Kenyans smartphones from KES 100 deposit",https://techtrendske.co.ke/2026/11/04/mogo-zte-offer-kenyans-smartphones-from-kes100-deposit/
@@ -501,6 +504,8 @@ access,May 27,Trustonic,"Deconstructing Africa's smartphone market: shipments, p
 access,May 26,"David Oks, Substack",AI Is Killing the Cheap Smartphone,https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone
 access,Apr 15,Japan Times / AFP,AI-driven chip shortage slowing efforts to get world online: GSMA,https://www.thejapantimes.jp/Technology/658420-ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma.html
 access,Feb 26,Techpoint Africa,AI Chip Demand — Smartphone Prices in Nigeria,https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/
+infra,Nov 10,TechCentral,"Vodacom puts a $1bn price on Egypt's sovereign AI data centre, takes about 30% through Vodafone Egypt, and names South Africa and Kenya as the next hubs",https://techcentral.co.za/vodacom-ai-data-centre-hubs-south-africa-kenya-egypt/288232/
+infra,Nov 9,Billionaires Africa,"Cassava's 12,000-GPU Nvidia buildout worth up to $720m: Cape Town AI factory running, with Johannesburg, Egypt, Kenya, Morocco and Nigeria to follow",https://www.billionaires.africa/2026/11/09/zimbabwean-billionaire-strive-masiyiwas-cassava-builds-out-12-000-gpu-nvidia-ai-network/
 infra,Nov 6,BusinessDay,Adesina proposes $10bn AI fund to anchor $50bn investment drive across Africa,https://businessday.ng/africa/article/former-afdb-president-adesina-proposes-10bn-ai-fund-to-anchor-50bn-investment-drive-across-africa/
 infra,Nov 6,Developing Telecoms,Paratus Lesotho opens shop with Starlink enterprise offering,https://developingtelecoms.com/telecom-technology/satellite-communications-networks/21088-paratus-lesotho-opens-shop-with-starlink-enterprise-offering.html
 infra,Nov 5,TechTrendsKE,Africa's federated cloud grid could power AI and 6G,https://techtrendske.co.ke/2026/11/05/africa-federated-cloud-grid-ai-6g/

@@ -1,10 +1,17 @@
 {
- "updated": "2026-11-06",
+ "updated": "2026-11-11",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "iDICE BPO training-to-jobs track starts for 50,000 South-West youths on November 18, part of a 300,000 national target",
+     "u": "https://businessday.ng/news/article/idice-50000-south-west-youths-begin-training-november-18/",
+     "s": "BusinessDay",
+     "d": "Nov 9",
+     "dot": "dot-jobs"
+    },
     {
      "t": "Kenya emerges as world's cheapest English-speaking jobs outsourcing hub",
      "u": "https://www.the-star.co.ke/business/2026-11-06-kenya-emerges-as-worlds-cheapest-english-speaking-jobs-outsourcing-hub",
@@ -1529,6 +1536,20 @@
   "access": {
    "label": "Access & Pricing",
    "items": [
+    {
+     "t": "China's open-weight AI hits a last-mile problem in Kenya: Nairobi integrators resell cheap Kimi and DeepSeek builds as Chinese models take more tokens than US ones in the Global South",
+     "u": "https://thediplomat.com/2026/11/chinas-open-weight-ai-has-a-last-mile-problem-in-kenya/",
+     "s": "The Diplomat",
+     "d": "Nov 10",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Inherited Weights: tokenization premium still 6.8x for Amharic in the newest commercial tokenizer, plus an eight-test black-box sovereignty audit buyers can run",
+     "u": "https://arxiv.org/abs/2611.13441",
+     "s": "arXiv",
+     "d": "Nov 10",
+     "dot": "dot-arxiv"
+    },
     {
      "t": "Smart appliances' ambitions in Africa face an electricity test",
      "u": "https://techcabal.com/2026/11/05/smart-appliances-need-power-and-wi-fi/",
@@ -3529,6 +3550,20 @@
   "infra": {
    "label": "Infrastructure",
    "items": [
+    {
+     "t": "Vodacom puts a $1bn price on Egypt's sovereign AI data centre, takes about 30% through Vodafone Egypt, and names South Africa and Kenya as the next hubs",
+     "u": "https://techcentral.co.za/vodacom-ai-data-centre-hubs-south-africa-kenya-egypt/288232/",
+     "s": "TechCentral",
+     "d": "Nov 10",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Cassava's 12,000-GPU Nvidia buildout worth up to $720m: Cape Town AI factory running, with Johannesburg, Egypt, Kenya, Morocco and Nigeria to follow",
+     "u": "https://www.billionaires.africa/2026/11/09/zimbabwean-billionaire-strive-masiyiwas-cassava-builds-out-12-000-gpu-nvidia-ai-network/",
+     "s": "Billionaires Africa",
+     "d": "Nov 9",
+     "dot": "dot-infra"
+    },
     {
      "t": "Adesina proposes $10bn AI fund to anchor $50bn investment drive across Africa",
      "u": "https://businessday.ng/africa/article/former-afdb-president-adesina-proposes-10bn-ai-fund-to-anchor-50bn-investment-drive-across-africa/",
