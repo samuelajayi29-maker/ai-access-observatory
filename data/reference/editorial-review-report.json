@@ -1,14 +1,24 @@
 {
- "generated_at": "2026-11-06",
- "count": 906,
+ "generated_at": "2026-11-11",
+ "count": 911,
  "source_checked": 78,
  "flag_counts": {
-  "source_review_outstanding": 828,
-  "african_relevance_not_recorded": 341,
+  "african_relevance_not_recorded": 343,
+  "source_review_outstanding": 833,
   "topic_needs_review": 56
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
  "rows": [
+  {
+   "headline": "iDICE BPO training-to-jobs track starts for 50,000 South-West youths on November 18, part of a 300,000 national target",
+   "url": "https://businessday.ng/news/article/idice-50000-south-west-youths-begin-training-november-18/",
+   "pillar": "jobs",
+   "current_topic": "Skills and talent",
+   "suggested_topic": "Skills and talent",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
   {
    "headline": "Kenya emerges as world's cheapest English-speaking jobs outsourcing hub",
    "url": "https://www.the-star.co.ke/business/2026-11-06-kenya-emerges-as-worlds-cheapest-english-speaking-jobs-outsourcing-hub",
@@ -2338,6 +2348,26 @@
    "country": "UGA",
    "flags": "topic_needs_review",
    "source_checked": true
+  },
+  {
+   "headline": "China's open-weight AI hits a last-mile problem in Kenya: Nairobi integrators resell cheap Kimi and DeepSeek builds as Chinese models take more tokens than US ones in the Global South",
+   "url": "https://thediplomat.com/2026/11/chinas-open-weight-ai-has-a-last-mile-problem-in-kenya/",
+   "pillar": "access",
+   "current_topic": "Models and capability",
+   "suggested_topic": "Models and capability",
+   "country": "KEN",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Inherited Weights: tokenization premium still 6.8x for Amharic in the newest commercial tokenizer, plus an eight-test black-box sovereignty audit buyers can run",
+   "url": "https://arxiv.org/abs/2611.13441",
+   "pillar": "access",
+   "current_topic": "Policy and regulation",
+   "suggested_topic": "Policy and regulation",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
   },
   {
    "headline": "Smart appliances' ambitions in Africa face an electricity test",
@@ -5528,6 +5558,26 @@
    "country": "TUN",
    "flags": "topic_needs_review",
    "source_checked": true
+  },
+  {
+   "headline": "Vodacom puts a $1bn price on Egypt's sovereign AI data centre, takes about 30% through Vodafone Egypt, and names South Africa and Kenya as the next hubs",
+   "url": "https://techcentral.co.za/vodacom-ai-data-centre-hubs-south-africa-kenya-egypt/288232/",
+   "pillar": "infra",
+   "current_topic": "Policy and regulation",
+   "suggested_topic": "Policy and regulation",
+   "country": "EGY",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Cassava's 12,000-GPU Nvidia buildout worth up to $720m: Cape Town AI factory running, with Johannesburg, Egypt, Kenya, Morocco and Nigeria to follow",
+   "url": "https://www.billionaires.africa/2026/11/09/zimbabwean-billionaire-strive-masiyiwas-cassava-builds-out-12-000-gpu-nvidia-ai-network/",
+   "pillar": "infra",
+   "current_topic": "Devices and hardware",
+   "suggested_topic": "Devices and hardware",
+   "country": "EGY",
+   "flags": "source_review_outstanding",
+   "source_checked": false
   },
   {
    "headline": "Adesina proposes $10bn AI fund to anchor $50bn investment drive across Africa",
