@@ -1,10 +1,24 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "South Africa's GBS sector added 26,346 offshore jobs in a year, its best result since 2018, as AI reshapes what the industry sells",
+     "u": "https://lifestyleandtech.co.za/business/article/2026-11-11/south-africas-gbs-sector-creates-over-26000-jobs-as-industry-confronts-ai-driven-transformation",
+     "s": "Lifestyle & Tech",
+     "d": "Nov 11",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "OpenAI and Upwork research finds AI shifting freelance demand toward fewer, larger projects that bundle AI skills with domain work",
+     "u": "https://openai.com/index/ai-effect-on-freelance-work/",
+     "s": "OpenAI",
+     "d": "Nov 10",
+     "dot": "dot-jobs"
+    },
     {
      "t": "iDICE BPO training-to-jobs track starts for 50,000 South-West youths on November 18, part of a 300,000 national target",
      "u": "https://businessday.ng/news/article/idice-50000-south-west-youths-begin-training-november-18/",
@@ -1537,6 +1551,13 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "Samsung takes 46% of its Africa smartphone revenue through daily and weekly instalments as rising device prices push buyers into financing",
+     "u": "https://techmoran.com/2026/11/11/samsungs-instalment-plans-accounted-for-46-of-its-smartphone-revenue-in-africa/",
+     "s": "TechMoran",
+     "d": "Nov 11",
+     "dot": "dot-access"
+    },
+    {
      "t": "China's open-weight AI hits a last-mile problem in Kenya: Nairobi integrators resell cheap Kimi and DeepSeek builds as Chinese models take more tokens than US ones in the Global South",
      "u": "https://thediplomat.com/2026/11/chinas-open-weight-ai-has-a-last-mile-problem-in-kenya/",
      "s": "The Diplomat",
@@ -1548,6 +1569,13 @@
      "u": "https://arxiv.org/abs/2611.13441",
      "s": "arXiv",
      "d": "Nov 10",
+     "dot": "dot-arxiv"
+    },
+    {
+     "t": "High-bandwidth flash only beats buying more GPUs for LLM inference in narrow cases, a nine-model cost simulation finds",
+     "u": "https://arxiv.org/abs/2611.11036",
+     "s": "arXiv",
+     "d": "Nov 8",
      "dot": "dot-arxiv"
     },
     {
@@ -3550,6 +3578,13 @@
   "infra": {
    "label": "Infrastructure",
    "items": [
+    {
+     "t": "Amaco and ARISE IIP sign MoU for a $700m, 250MW power and AI infrastructure park at Dongo Kundu in Mombasa",
+     "u": "https://www.standardmedia.co.ke/business/real-estate/article/2001562071/mombasa-industrial-park-set-for-sh90-billion-power-plant-ai-project",
+     "s": "The Standard",
+     "d": "Nov 12",
+     "dot": "dot-infra"
+    },
     {
      "t": "Vodacom puts a $1bn price on Egypt's sovereign AI data centre, takes about 30% through Vodafone Egypt, and names South Africa and Kenya as the next hubs",
      "u": "https://techcentral.co.za/vodacom-ai-data-centre-hubs-south-africa-kenya-egypt/288232/",
