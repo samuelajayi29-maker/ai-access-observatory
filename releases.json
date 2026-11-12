@@ -1532,8 +1532,8 @@
      "bytes": 600
     },
     "index.html": {
-     "sha256": "0348c460ab4804704b6337392ac30bbef8b62587ba9c67976aca78927d29ca8e",
-     "bytes": 3847
+     "sha256": "96c8c300fc5ccda9e706650c3670695e5f9b18d93ea2eb5656bc9f1e83a0071b",
+     "bytes": 3855
     },
     "infrastructure.html": {
      "sha256": "d978919f75bf259b56424bb89803734933168aa42d1217ab1a17773dd4955b76",
@@ -1552,8 +1552,8 @@
      "bytes": 18245
     },
     "js/atlas.js": {
-     "sha256": "6cd4d3eb7c6ffd7744e9c0e6b8d36532528f96c87b403a457091c91aa84edac9",
-     "bytes": 63611
+     "sha256": "49e52473515c93e9c12b15e9e1f3ca319cd928e9c04d61689e8dfe37a26040ef",
+     "bytes": 63861
     },
     "js/chart-builder.js": {
      "sha256": "bb587ed148387ce60da4391bdf8724399b6bf9fd43d667a485127b9bddf21522",
