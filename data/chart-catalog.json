@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11",
+ "generated_at": "2026-11-12",
  "countries": [
   {
    "iso3": "DZA",
@@ -54079,13 +54079,13 @@
   "data/signals.json": "e9f0d5f6ac841cbeb21321f5c0aebedb3576b26a8a51ea61e4f34f5c95bb1a5d",
   "data/infrastructure.json": "d6d64951b741ac83b9ffa558ab5669298efc38fef0a58d9265f7d40335969816",
   "data/prices.json": "13bd6b503b6d866728562fb37cbc62b6ed3694075baf766e17ca1496888bdd92",
-  "data/indicators.json": "91e63dd8e65fd47eaae85afe44b4d5ad39824b5f605a003bc8fe8b5d89b358ed",
+  "data/indicators.json": "69b713b974e3d0b06cc39f04fb752f70eab28ca4378538d3fc46f33c57971ea2",
   "data/jobs-atlas-exposure.csv": "ea830da762c9bad4c3e394f0ac39e67cb5c082c22d70fbfc9eb6454eed13e273",
   "data/jobs-exposure.csv": "3186fdea841750a81d33e350cc15af28f4d85ff18f88351a3bf14439dfe73c37",
   "data/affordability.csv": "7dea9923bd26f6419fd69c0284b67d97f5c9090749434843b125cee410eebf3e",
   "data/subscription-register.csv": "884303a8be0f27ed83ab38ba789d6511291deb5d653fc0cd2909a24f20eed8cd",
   "data/reference/gni-per-capita.csv": "dbc685308f75008d1f393daac42564cd0db4c8c7f45fa682a538888206afe7a9",
-  "data/reference/home-figures.json": "03d83b7858d875d38ff4ecc1e0d0fccd05167d46789917453c11524fdf92a3c6",
+  "data/reference/home-figures.json": "e90041c689c789e320988e35632df1af00469e097ff619af2fd895da0194ef3c",
   "data/reference/country-context.csv": "458569409a41706b6a1ec01fadc52a6197b637a0abc18b90fff6935dc05ee860",
   "data/reference/signal-evidence.json": "cfa55e5cfe72d64f26651af593d6878d654bfbe8a83794c7588b6ad89747c74f",
   "data/reference/signal-review-decisions.json": "0ca4af4be31bfb858aa1aa3b63432a6154b600c8e958f1ccd291c2d10c53b78d",

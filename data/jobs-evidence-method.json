@@ -1,0 +1,19 @@
+{
+  "ilo": {
+    "year": 2025,
+    "url": "https://doi.org/10.54394/HETP0387",
+    "licence": "CC BY 4.0",
+    "commit": "ce5fc25c2a0db2757c5bfa797c4cfc8b408431ea",
+    "sha256": "c1940b87e7293b1eb95b530b6d3da7cd806b61d217c4bff1e69372b2cff5c90a",
+    "disclaimer": "This is an adaptation of a copyrighted work of the International Labour Organization (ILO). This adaptation has not been prepared, reviewed or endorsed by the ILO and should not be considered an official ILO adaptation. The ILO disclaims all responsibility for its content and accuracy. Responsibility rests solely with the author(s) of the adaptation."
+  },
+  "worldbank": {
+    "year": 2025,
+    "url": "https://documents1.worldbank.org/curated/en/099629202052521198/pdf/IDU137d75e6614ee0145c919c7f1dc4831e7fa02.pdf",
+    "table": 3,
+    "pdf_page": 34,
+    "unit": "AIOE index (0–100), not a percentage",
+    "population": "Employed people aged 15–64; population weighted",
+    "extraction": "Manually transcribed published rounded values, checked against Table 3; survey years from Table 2."
+  }
+}
