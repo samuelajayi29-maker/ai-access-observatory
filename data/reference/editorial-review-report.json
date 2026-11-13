@@ -1,14 +1,34 @@
 {
- "generated_at": "2026-11-12",
- "count": 911,
+ "generated_at": "2026-11-13",
+ "count": 918,
  "source_checked": 82,
  "flag_counts": {
-  "african_relevance_not_recorded": 343,
-  "source_review_outstanding": 829,
+  "source_review_outstanding": 836,
+  "african_relevance_not_recorded": 346,
   "topic_needs_review": 56
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
  "rows": [
+  {
+   "headline": "South Africa's GBS sector adds 26,346 offshore jobs in 2025, its best since 2018, as AI reshapes entry-level work",
+   "url": "https://www.itweb.co.za/article/gbs-sector-stands-firm-amid-jobs-crunch-ai-wave/O2rQGMAE1VoMd1ea",
+   "pillar": "jobs",
+   "current_topic": "Employment and outsourcing",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "ZAF",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "BPO leaders say AI is making South African call-centre work harder, not just fewer: Concentrix training time rises from three weeks to eight",
+   "url": "https://iafrica.com/ai-is-making-south-african-call-centre-work-harder-not-just-fewer-bpo-leaders/",
+   "pillar": "jobs",
+   "current_topic": "Skills and talent",
+   "suggested_topic": "Skills and talent",
+   "country": "ZAF",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
   {
    "headline": "iDICE BPO training-to-jobs track starts for 50,000 South-West youths on November 18, part of a 300,000 national target",
    "url": "https://businessday.ng/news/article/idice-50000-south-west-youths-begin-training-november-18/",
@@ -2348,6 +2368,36 @@
    "country": "UGA",
    "flags": "topic_needs_review",
    "source_checked": true
+  },
+  {
+   "headline": "CoreWeave raised GPU prices about 25% in July and another 10% later in Q3, with H100/H200 rents up 50% sequentially",
+   "url": "https://www.nextplatform.com/cloud/2026/11/12/coreweave-is-accelerating-to-escape-velocity-thanks-to-gpu-shortages/5309222",
+   "pillar": "access",
+   "current_topic": "Pricing and affordability",
+   "suggested_topic": "Pricing and affordability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "TrendForce: DRAM contract prices to rise up to 20% in Q4, with HBM average selling prices up 121% in 2027",
+   "url": "https://www.ajupress.com/view/20261112173270381",
+   "pillar": "access",
+   "current_topic": "Pricing and affordability",
+   "suggested_topic": "Pricing and affordability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Smart Model Routing for Order-of-Magnitude LLM Cost Reduction",
+   "url": "https://arxiv.org/abs/2611.15911",
+   "pillar": "access",
+   "current_topic": "Pricing and affordability",
+   "suggested_topic": "Pricing and affordability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
   },
   {
    "headline": "China's open-weight AI hits a last-mile problem in Kenya: Nairobi integrators resell cheap Kimi and DeepSeek builds as Chinese models take more tokens than US ones in the Global South",
@@ -5558,6 +5608,26 @@
    "country": "TUN",
    "flags": "topic_needs_review",
    "source_checked": true
+  },
+  {
+   "headline": "Vodacom plans AI data centre builds in South Africa and Kenya after breaking ground on $1bn Egypt facility",
+   "url": "https://www.businessday.co.za/companies/2026-11-11-vodacom-plans-ai-data-centre-builds-in-sa-and-kenya/",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "ZAF",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "DBSA study: South Africa's data centre IT load to almost double from 435MW in 2024 to 829MW by 2029",
+   "url": "https://thenational.co.za/news/2026-11-11-us-data-centre-concerns-highlight-need-for-south-africa-to-invest-in-digital-infrastructure/",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "ZAF",
+   "flags": "source_review_outstanding",
+   "source_checked": false
   },
   {
    "headline": "Vodacom puts a $1bn price on Egypt's sovereign AI data centre, takes about 30% through Vodafone Egypt, and names South Africa and Kenya as the next hubs",
