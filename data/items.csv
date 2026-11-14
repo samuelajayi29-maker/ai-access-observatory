@@ -1,7 +1,11 @@
 bucket,date,source,title,url
+jobs,Nov 14,Sunday Times,BPO faces skills crunch if government dithers as AI raises the entry-level bar,https://www.sundaytimes.timeslive.co.za/business/2026-11-14-business-process-outsourcing-faces-skills-crunch-if-government-dithers/
+jobs,Nov 13,Tuko,"Safaricom says AI will automate tasks, not people, with 6,000 staff already trained",https://www.tuko.co.ke/business-economy/technology/646646-safaricom-reveals-plan-ai-replacing-employees/
 jobs,Nov 12,ITWeb,"South Africa's GBS sector adds 26,346 offshore jobs in 2025, its best since 2018, as AI reshapes entry-level work",https://www.itweb.co.za/article/gbs-sector-stands-firm-amid-jobs-crunch-ai-wave/O2rQGMAE1VoMd1ea
 jobs,Nov 12,iAfrica,"BPO leaders say AI is making South African call-centre work harder, not just fewer: Concentrix training time rises from three weeks to eight",https://iafrica.com/ai-is-making-south-african-call-centre-work-harder-not-just-fewer-bpo-leaders/
+jobs,Nov 12,ITWeb,AI skills on SA CVs nearly double each year as IT recruitment falls 18% in Q3,https://www.itweb.co.za/article/demand-for-ai-expertise-spreads-beyond-sas-it-sector/JN1gPvOARVlMjL6m
 jobs,Nov 9,BusinessDay,"iDICE BPO training-to-jobs track starts for 50,000 South-West youths on November 18, part of a 300,000 national target",https://businessday.ng/news/article/idice-50000-south-west-youths-begin-training-november-18/
+jobs,Nov 9,TIME,"Sama liquidates with $1m in assets against $17m in liabilities, citing lawsuits",https://time.com/article/2026/11/09/sama-ai-data-liquidates-lawsuits-meta/
 jobs,Nov 6,The Star Kenya,Kenya emerges as world's cheapest English-speaking jobs outsourcing hub,https://www.the-star.co.ke/business/2026-11-06-kenya-emerges-as-worlds-cheapest-english-speaking-jobs-outsourcing-hub
 jobs,Nov 4,Outsource Accelerator,"Enugu signs BPO hub deal with Humatrix targeting 100,000 jobs in five years, starting from a 750-seat centre",https://news.outsourceaccelerator.com/enugu-humatrix-bpo-hub/
 jobs,Nov 4,TechCrunch,"Canva cuts 22% of staff, 1,271 roles, as AI costs and slowing growth force a restructuring",https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/
@@ -219,8 +223,10 @@ jobs,May 16,UN Economic Commission for Africa,AI and jobs in Africa: turning dis
 jobs,Apr 25,Mastercard Foundation,40% of Tasks in Africa's Tech Outsourcing May Be Affected by AI by 2030,https://mastercardfdn.org/en/news/40percent-of-tasks-in-africas-growing-tech-outsourcing-sector-may-be-affected-by-ai-by-2030/
 jobs,Mar 31,WeeTracker,South Africa's gig economy becomes a bargain with AI skills shortage looming,https://weetracker.com/2026/03/31/south-africa-freelance-economy-ai-talent-gap-2026/
 jobs,Dec 25,"Deric Cheng, AI Frontiers",AI Could Undermine Emerging Economies,https://ai-frontiers.org/articles/ai-could-undermine-emerging-economies
+access,Nov 13,Data Studios,Fable 5.2 cut 20% to $8/$40 as Gemini 4 Hydrogen lands at $1.50/$7.50 and Meta's Muse Ember at $0.10,https://www.datastudios.org/post/ai-api-pricing-this-week-claude-fable-5-2-gemini-4-hydrogen-muse-ember
 access,Nov 12,The Next Platform,"CoreWeave raised GPU prices about 25% in July and another 10% later in Q3, with H100/H200 rents up 50% sequentially",https://www.nextplatform.com/cloud/2026/11/12/coreweave-is-accelerating-to-escape-velocity-thanks-to-gpu-shortages/5309222
 access,Nov 12,Aju Press,"TrendForce: DRAM contract prices to rise up to 20% in Q4, with HBM average selling prices up 121% in 2027",https://www.ajupress.com/view/20261112173270381
+access,Nov 12,Tech-ish,"Samsung passes TECNO as Africa's biggest phone brand on units sold, Transsion still ships more",https://tech-ish.com/2026/11/12/samsung-africa-top-phone-brand-transsion/
 access,Nov 11,arXiv,Smart Model Routing for Order-of-Magnitude LLM Cost Reduction,https://arxiv.org/abs/2611.15911
 access,Nov 10,The Diplomat,China's open-weight AI hits a last-mile problem in Kenya: Nairobi integrators resell cheap Kimi and DeepSeek builds as Chinese models take more tokens than US ones in the Global South,https://thediplomat.com/2026/11/chinas-open-weight-ai-has-a-last-mile-problem-in-kenya/
 access,Nov 10,arXiv,"Inherited Weights: tokenization premium still 6.8x for Amharic in the newest commercial tokenizer, plus an eight-test black-box sovereignty audit buyers can run",https://arxiv.org/abs/2611.13441
@@ -509,6 +515,9 @@ access,May 27,Trustonic,"Deconstructing Africa's smartphone market: shipments, p
 access,May 26,"David Oks, Substack",AI Is Killing the Cheap Smartphone,https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone
 access,Apr 15,Japan Times / AFP,AI-driven chip shortage slowing efforts to get world online: GSMA,https://www.thejapantimes.jp/Technology/658420-ai-driven-chip-shortage-slowing-efforts-to-get-world-online-gsma.html
 access,Feb 26,Techpoint Africa,AI Chip Demand — Smartphone Prices in Nigeria,https://techpoint.africa/insight/ai-chip-rush-smartphone-prices-nigerians/
+infra,Nov 13,TechAfrica News,Kenya and Oracle advance plans for a local cloud region and digital skills training,https://techafricanews.com/2026/11/13/kenya-and-oracle-advance-plans-for-local-cloud-region-and-digital-skills-training/
+infra,Nov 13,Daily News Egypt,"Jensen Huang's exit puts Africa's 12,000-GPU Cassava buildout in question",https://africa.dailynewsegypt.com/jensen-huang-nvidia-africa-ai/
+infra,Nov 12,AI Reports Africa,"SEACOM 2.0, four Google cable hubs and 30,000 Japanese-trained experts: Africa's AI pipes and skills",https://aireportsafrica.com/2026/11/12/how-africa-is-building-the-cables-and-skills-it-needs-for-ai/
 infra,Nov 11,BusinessDay,Vodacom plans AI data centre builds in South Africa and Kenya after breaking ground on $1bn Egypt facility,https://www.businessday.co.za/companies/2026-11-11-vodacom-plans-ai-data-centre-builds-in-sa-and-kenya/
 infra,Nov 11,The National,DBSA study: South Africa's data centre IT load to almost double from 435MW in 2024 to 829MW by 2029,https://thenational.co.za/news/2026-11-11-us-data-centre-concerns-highlight-need-for-south-africa-to-invest-in-digital-infrastructure/
 infra,Nov 10,TechCentral,"Vodacom puts a $1bn price on Egypt's sovereign AI data centre, takes about 30% through Vodafone Egypt, and names South Africa and Kenya as the next hubs",https://techcentral.co.za/vodacom-ai-data-centre-hubs-south-africa-kenya-egypt/288232/
