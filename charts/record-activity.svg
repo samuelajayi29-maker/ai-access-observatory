@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 380" width="820" height="380" role="img" aria-label="Signals added to the record by month and series: Jul 102, Aug 114, Sep 251, Oct 330, Nov 43. This measures the monitoring layer, not the market.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 380" width="820" height="380" role="img" aria-label="Signals added to the record by month and series: Jul 102, Aug 114, Sep 251, Oct 330, Nov 52. This measures the monitoring layer, not the market.">
 <defs><pattern id="status-proposal" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 6L6 0" stroke="#756342" stroke-width="1" /></pattern></defs><rect width="820" height="380" fill="#fbfaf8" />
 <text x="28" y="38" font-family="'Source Serif 4',Georgia,serif" font-size="21" font-weight="600" fill="#1a1815" style="font-variant-numeric:tabular-nums lining-nums">Signals added to the record, by month</text>
 <text x="28" y="60.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Stories recorded per series, by the month the source dated them. This is the monitoring layer's own output, not a</text>
@@ -33,10 +33,10 @@
 <text x="574.0" y="133.3" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#fbfaf8" style="font-variant-numeric:tabular-nums lining-nums">Infra 117</text>
 <text x="574.0" y="90.0" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">330</text>
 <text x="574.0" y="304" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Oct</text>
-<rect x="673.4" y="277.7" width="89.3" height="6.3" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
-<rect x="673.4" y="270.9" width="89.3" height="6.8" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
-<rect x="673.4" y="259.5" width="89.3" height="11.4" fill="#1a5f4a" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
-<text x="718.0" y="253.5" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">43</text>
+<rect x="673.4" y="275.5" width="89.3" height="8.5" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
+<rect x="673.4" y="267.5" width="89.3" height="8.0" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
+<rect x="673.4" y="254.4" width="89.3" height="13.1" fill="#1a5f4a" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
+<text x="718.0" y="248.4" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">52</text>
 <text x="718.0" y="304" text-anchor="middle" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Nov</text>
 <line x1="70" y1="284" x2="790" y2="284" stroke="#ddd8d0" />
 <rect x="70" y="334" width="11" height="11" fill="#456c60" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
@@ -46,5 +46,5 @@
 <rect x="290" y="334" width="11" height="11" fill="#1a5f4a" data-status="measured" stroke="#fbfaf8" stroke-width="1"><title>measured</title></rect>
 <text x="307" y="344" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Infrastructure</text>
 <line x1="28" y1="334" x2="792" y2="334" stroke="#ddd8d0" />
-<text x="28" y="353" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Chart: InferenceAfrica · CC BY 4.0 · compiled 2026-11-13</text>
+<text x="28" y="353" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#706a61" style="font-variant-numeric:tabular-nums lining-nums">Chart: InferenceAfrica · CC BY 4.0 · compiled 2026-11-14</text>
 </svg>

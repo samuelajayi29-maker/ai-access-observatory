@@ -1,10 +1,24 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "BPO faces skills crunch if government dithers as AI raises the entry-level bar",
+     "u": "https://www.sundaytimes.timeslive.co.za/business/2026-11-14-business-process-outsourcing-faces-skills-crunch-if-government-dithers/",
+     "s": "Sunday Times",
+     "d": "Nov 14",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Safaricom says AI will automate tasks, not people, with 6,000 staff already trained",
+     "u": "https://www.tuko.co.ke/business-economy/technology/646646-safaricom-reveals-plan-ai-replacing-employees/",
+     "s": "Tuko",
+     "d": "Nov 13",
+     "dot": "dot-jobs"
+    },
     {
      "t": "South Africa's GBS sector adds 26,346 offshore jobs in 2025, its best since 2018, as AI reshapes entry-level work",
      "u": "https://www.itweb.co.za/article/gbs-sector-stands-firm-amid-jobs-crunch-ai-wave/O2rQGMAE1VoMd1ea",
@@ -20,9 +34,23 @@
      "dot": "dot-jobs"
     },
     {
+     "t": "AI skills on SA CVs nearly double each year as IT recruitment falls 18% in Q3",
+     "u": "https://www.itweb.co.za/article/demand-for-ai-expertise-spreads-beyond-sas-it-sector/JN1gPvOARVlMjL6m",
+     "s": "ITWeb",
+     "d": "Nov 12",
+     "dot": "dot-jobs"
+    },
+    {
      "t": "iDICE BPO training-to-jobs track starts for 50,000 South-West youths on November 18, part of a 300,000 national target",
      "u": "https://businessday.ng/news/article/idice-50000-south-west-youths-begin-training-november-18/",
      "s": "BusinessDay",
+     "d": "Nov 9",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Sama liquidates with $1m in assets against $17m in liabilities, citing lawsuits",
+     "u": "https://time.com/article/2026/11/09/sama-ai-data-liquidates-lawsuits-meta/",
+     "s": "TIME",
      "d": "Nov 9",
      "dot": "dot-jobs"
     },
@@ -2020,6 +2048,13 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "Fable 5.2 cut 20% to $8/$40 as Gemini 4 Hydrogen lands at $1.50/$7.50 and Meta's Muse Ember at $0.10",
+     "u": "https://www.datastudios.org/post/ai-api-pricing-this-week-claude-fable-5-2-gemini-4-hydrogen-muse-ember",
+     "s": "Data Studios",
+     "d": "Nov 13",
+     "dot": "dot-price"
+    },
+    {
      "t": "CoreWeave raised GPU prices about 25% in July and another 10% later in Q3, with H100/H200 rents up 50% sequentially",
      "u": "https://www.nextplatform.com/cloud/2026/11/12/coreweave-is-accelerating-to-escape-velocity-thanks-to-gpu-shortages/5309222",
      "s": "The Next Platform",
@@ -2032,6 +2067,13 @@
      "s": "Aju Press",
      "d": "Nov 12",
      "dot": "dot-price"
+    },
+    {
+     "t": "Samsung passes TECNO as Africa's biggest phone brand on units sold, Transsion still ships more",
+     "u": "https://tech-ish.com/2026/11/12/samsung-africa-top-phone-brand-transsion/",
+     "s": "Tech-ish",
+     "d": "Nov 12",
+     "dot": "dot-access"
     },
     {
      "t": "Smart Model Routing for Order-of-Magnitude LLM Cost Reduction",
@@ -4956,6 +4998,27 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "Kenya and Oracle advance plans for a local cloud region and digital skills training",
+     "u": "https://techafricanews.com/2026/11/13/kenya-and-oracle-advance-plans-for-local-cloud-region-and-digital-skills-training/",
+     "s": "TechAfrica News",
+     "d": "Nov 13",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Jensen Huang's exit puts Africa's 12,000-GPU Cassava buildout in question",
+     "u": "https://africa.dailynewsegypt.com/jensen-huang-nvidia-africa-ai/",
+     "s": "Daily News Egypt",
+     "d": "Nov 13",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "SEACOM 2.0, four Google cable hubs and 30,000 Japanese-trained experts: Africa's AI pipes and skills",
+     "u": "https://aireportsafrica.com/2026/11/12/how-africa-is-building-the-cables-and-skills-it-needs-for-ai/",
+     "s": "AI Reports Africa",
+     "d": "Nov 12",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Vodacom plans AI data centre builds in South Africa and Kenya after breaking ground on $1bn Egypt facility",
      "u": "https://www.businessday.co.za/companies/2026-11-11-vodacom-plans-ai-data-centre-builds-in-sa-and-kenya/",
      "s": "BusinessDay",
@@ -7590,7 +7653,7 @@
    ]
   }
  },
- "tracker_updated": "2026-11-13",
+ "tracker_updated": "2026-11-14",
  "backfill_updated": "2026-10-22",
  "scope": "Combined signal feed: tracker plus reviewed historical additions. Signals are not verified numerical observations."
 }
