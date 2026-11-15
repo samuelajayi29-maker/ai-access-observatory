@@ -1,10 +1,17 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "Uber's Nigeria exit and Wayve robotaxi pivot lay bare platform drivers' exposure to AI, as payouts stall for former Lagos, Abuja drivers",
+     "u": "https://www.premiumtimesng.com/business/business-news/925246-ubers-exit-from-nigeria-highlights-platform-workers-exposure-to-ai-risks.html",
+     "s": "Premium Times",
+     "d": "Nov 15",
+     "dot": "dot-jobs"
+    },
     {
      "t": "BPO faces skills crunch if government dithers as AI raises the entry-level bar",
      "u": "https://www.sundaytimes.timeslive.co.za/business/2026-11-14-business-process-outsourcing-faces-skills-crunch-if-government-dithers/",
@@ -16,6 +23,13 @@
      "t": "Safaricom says AI will automate tasks, not people, with 6,000 staff already trained",
      "u": "https://www.tuko.co.ke/business-economy/technology/646646-safaricom-reveals-plan-ai-replacing-employees/",
      "s": "Tuko",
+     "d": "Nov 13",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "After Microsoft's Nairobi ADC wind-down, Kenya asks where 450-plus engineers go next as local salary gaps bite",
+     "u": "https://aptantech.com/2026/11/13/when-big-tech-restructures-where-does-kenyas-tech-talent-go-next/",
+     "s": "Aptantech",
      "d": "Nov 13",
      "dot": "dot-jobs"
     },
@@ -1578,6 +1592,20 @@
   "access": {
    "label": "Access & Pricing",
    "items": [
+    {
+     "t": "Fluence: hyperscalers list GPUs at 1.98x the GPU-cloud median, and 17 of 22 tracked GPU models cost more than a year ago",
+     "u": "https://coininsight.co.uk/hyperscalers-list-gpus-at-nearly-2x-the-gpu-cloud-price-fluence-research-finds/",
+     "s": "CoinInsight (Fluence)",
+     "d": "Nov 15",
+     "dot": "dot-price"
+    },
+    {
+     "t": "November API price tally to Nov 15: 52 headline prices move, 28 cuts against 24 increases, DeepSeek V4 Flash input down 49.6%",
+     "u": "https://bertrande.com/en/reports/2026-11/",
+     "s": "Bertrande",
+     "d": "Nov 15",
+     "dot": "dot-price"
+    },
     {
      "t": "Fable 5.2 cut 20% to $8/$40 as Gemini 4 Hydrogen lands at $1.50/$7.50 and Meta's Muse Ember at $0.10",
      "u": "https://www.datastudios.org/post/ai-api-pricing-this-week-claude-fable-5-2-gemini-4-hydrogen-muse-ember",
@@ -3649,6 +3677,13 @@
      "dot": "dot-infra"
     },
     {
+     "t": "TICON Africa: continent holds 0.6% of global data centre capacity, with 360MW live, 238MW under construction and 656MW planned",
+     "u": "https://aireportsafrica.com/2026/11/12/ticon-africa-warns-continent-against-dependence-on-foreign-ai-infrastructure-urges-investment-in-local-data-centres/",
+     "s": "AI Reports Africa",
+     "d": "Nov 12",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Vodacom plans AI data centre builds in South Africa and Kenya after breaking ground on $1bn Egypt facility",
      "u": "https://www.businessday.co.za/companies/2026-11-11-vodacom-plans-ai-data-centre-builds-in-sa-and-kenya/",
      "s": "BusinessDay",
@@ -3670,9 +3705,23 @@
      "dot": "dot-infra"
     },
     {
+     "t": "Stratos Lab, Ecoblox and Digital Parks Africa deploy 400-plus Nvidia B300 GPUs at Samrand, claiming 7.2 EFLOPS for Africa",
+     "u": "https://www.dpa.host/nvidias-top-ai-chips-are-coming-to-digital-parks-africas-samrand-data-centre/",
+     "s": "Digital Parks Africa",
+     "d": "Nov 10",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Cassava's 12,000-GPU Nvidia buildout worth up to $720m: Cape Town AI factory running, with Johannesburg, Egypt, Kenya, Morocco and Nigeria to follow",
      "u": "https://www.billionaires.africa/2026/11/09/zimbabwean-billionaire-strive-masiyiwas-cassava-builds-out-12-000-gpu-nvidia-ai-network/",
      "s": "Billionaires Africa",
+     "d": "Nov 9",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "USTDA funds $1.87m feasibility study for two AI-ready data centres in Lagos and Delta, 60-70MW with room for 100MW",
+     "u": "https://aireportsafrica.com/2026/11/09/us-agency-backs-feasibility-study-for-two-ai-ready-data-centres-in-nigeria/",
+     "s": "AI Reports Africa",
      "d": "Nov 9",
      "dot": "dot-infra"
     },
