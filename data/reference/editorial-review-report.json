@@ -1,14 +1,24 @@
 {
- "generated_at": "2026-11-14",
- "count": 927,
+ "generated_at": "2026-11-15",
+ "count": 934,
  "source_checked": 82,
  "flag_counts": {
-  "african_relevance_not_recorded": 351,
-  "source_review_outstanding": 845,
+  "source_review_outstanding": 852,
+  "african_relevance_not_recorded": 354,
   "topic_needs_review": 56
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
  "rows": [
+  {
+   "headline": "Uber's Nigeria exit and Wayve robotaxi pivot lay bare platform drivers' exposure to AI, as payouts stall for former Lagos, Abuja drivers",
+   "url": "https://www.premiumtimesng.com/business/business-news/925246-ubers-exit-from-nigeria-highlights-platform-workers-exposure-to-ai-risks.html",
+   "pillar": "jobs",
+   "current_topic": "Employment and outsourcing",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "NGA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
   {
    "headline": "BPO faces skills crunch if government dithers as AI raises the entry-level bar",
    "url": "https://www.sundaytimes.timeslive.co.za/business/2026-11-14-business-process-outsourcing-faces-skills-crunch-if-government-dithers/",
@@ -27,6 +37,16 @@
    "suggested_topic": "Employment and outsourcing",
    "country": "",
    "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "After Microsoft's Nairobi ADC wind-down, Kenya asks where 450-plus engineers go next as local salary gaps bite",
+   "url": "https://aptantech.com/2026/11/13/when-big-tech-restructures-where-does-kenyas-tech-talent-go-next/",
+   "pillar": "jobs",
+   "current_topic": "Employment and outsourcing",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "KEN",
+   "flags": "source_review_outstanding",
    "source_checked": false
   },
   {
@@ -2408,6 +2428,26 @@
    "country": "UGA",
    "flags": "topic_needs_review",
    "source_checked": true
+  },
+  {
+   "headline": "Fluence: hyperscalers list GPUs at 1.98x the GPU-cloud median, and 17 of 22 tracked GPU models cost more than a year ago",
+   "url": "https://coininsight.co.uk/hyperscalers-list-gpus-at-nearly-2x-the-gpu-cloud-price-fluence-research-finds/",
+   "pillar": "access",
+   "current_topic": "Pricing and affordability",
+   "suggested_topic": "Pricing and affordability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "November API price tally to Nov 15: 52 headline prices move, 28 cuts against 24 increases, DeepSeek V4 Flash input down 49.6%",
+   "url": "https://bertrande.com/en/reports/2026-11/",
+   "pillar": "access",
+   "current_topic": "Pricing and affordability",
+   "suggested_topic": "Pricing and affordability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
   },
   {
    "headline": "Fable 5.2 cut 20% to $8/$40 as Gemini 4 Hydrogen lands at $1.50/$7.50 and Meta's Muse Ember at $0.10",
@@ -5700,6 +5740,16 @@
    "source_checked": false
   },
   {
+   "headline": "TICON Africa: continent holds 0.6% of global data centre capacity, with 360MW live, 238MW under construction and 656MW planned",
+   "url": "https://aireportsafrica.com/2026/11/12/ticon-africa-warns-continent-against-dependence-on-foreign-ai-infrastructure-urges-investment-in-local-data-centres/",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "Vodacom plans AI data centre builds in South Africa and Kenya after breaking ground on $1bn Egypt facility",
    "url": "https://www.businessday.co.za/companies/2026-11-11-vodacom-plans-ai-data-centre-builds-in-sa-and-kenya/",
    "pillar": "infra",
@@ -5730,6 +5780,16 @@
    "source_checked": false
   },
   {
+   "headline": "Stratos Lab, Ecoblox and Digital Parks Africa deploy 400-plus Nvidia B300 GPUs at Samrand, claiming 7.2 EFLOPS for Africa",
+   "url": "https://www.dpa.host/nvidias-top-ai-chips-are-coming-to-digital-parks-africas-samrand-data-centre/",
+   "pillar": "infra",
+   "current_topic": "Devices and hardware",
+   "suggested_topic": "Devices and hardware",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "Cassava's 12,000-GPU Nvidia buildout worth up to $720m: Cape Town AI factory running, with Johannesburg, Egypt, Kenya, Morocco and Nigeria to follow",
    "url": "https://www.billionaires.africa/2026/11/09/zimbabwean-billionaire-strive-masiyiwas-cassava-builds-out-12-000-gpu-nvidia-ai-network/",
    "pillar": "infra",
@@ -5737,6 +5797,16 @@
    "suggested_topic": "Devices and hardware",
    "country": "EGY",
    "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "USTDA funds $1.87m feasibility study for two AI-ready data centres in Lagos and Delta, 60-70MW with room for 100MW",
+   "url": "https://aireportsafrica.com/2026/11/09/us-agency-backs-feasibility-study-for-two-ai-ready-data-centres-in-nigeria/",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
    "source_checked": false
   },
   {
