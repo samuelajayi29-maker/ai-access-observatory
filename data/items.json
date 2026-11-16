@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "schema": 1,
  "buckets": {
   "jobs": {
@@ -3655,6 +3655,27 @@
   "infra": {
    "label": "Infrastructure",
    "items": [
+    {
+     "t": "Ramaphosa tells Silicon Valley delegation South Africa must build its own AI, not just consume it",
+     "u": "https://www.sanews.gov.za/south-africa/president-ramaphosa-calls-homegrown-ai-innovation",
+     "s": "SAnews",
+     "d": "Nov 16",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Ramokgopa courts AI investors with a 50MW flexible AI load pilot at Grootvlei, pitching data centre demand as a grid asset",
+     "u": "https://www.greenbuildingafrica.co.za/ramokgopa-pitches-south-africa-as-an-ai-and-data-centre-investment-destination-during-silicon-valley-visit/",
+     "s": "Green Building Africa",
+     "d": "Nov 16",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "BISI: Africa holds 0.6% of global data centre capacity, and outside South Africa only a third of built capacity is fully used",
+     "u": "https://bisi.org.uk/reports/africas-ai-infrastructure-gap-investment-opportunities-and-risks-for-data-centre-expansion",
+     "s": "Bloomsbury Intelligence and Security Institute",
+     "d": "Nov 16",
+     "dot": "dot-infra"
+    },
     {
      "t": "Kenya and Oracle advance plans for a local cloud region and digital skills training",
      "u": "https://techafricanews.com/2026/11/13/kenya-and-oracle-advance-plans-for-local-cloud-region-and-digital-skills-training/",
