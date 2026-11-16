@@ -1,5 +1,5 @@
 {
- "compiled": "2026-11-15",
+ "compiled": "2026-11-16",
  "band_points": 5.0,
  "infrastructure": {
   "adca": {
@@ -21,8 +21,8 @@
    "funding": 0.0,
    "policy_target": 0.0
   },
-  "register_refreshed_at": "2026-11-15",
-  "register_generated_at": "2026-11-15",
+  "register_refreshed_at": "2026-11-16",
+  "register_generated_at": "2026-11-16",
   "date_note": "Build date; project observation and review dates vary."
  },
  "access": {

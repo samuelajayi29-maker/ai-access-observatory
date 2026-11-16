@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-15",
- "count": 934,
+ "generated_at": "2026-11-16",
+ "count": 937,
  "source_checked": 82,
  "flag_counts": {
-  "source_review_outstanding": 852,
-  "african_relevance_not_recorded": 354,
+  "source_review_outstanding": 855,
+  "african_relevance_not_recorded": 355,
   "topic_needs_review": 56
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
@@ -5708,6 +5708,36 @@
    "country": "TUN",
    "flags": "topic_needs_review",
    "source_checked": true
+  },
+  {
+   "headline": "Ramaphosa tells Silicon Valley delegation South Africa must build its own AI, not just consume it",
+   "url": "https://www.sanews.gov.za/south-africa/president-ramaphosa-calls-homegrown-ai-innovation",
+   "pillar": "infra",
+   "current_topic": "Infrastructure and compute",
+   "suggested_topic": "Infrastructure and compute",
+   "country": "ZAF",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Ramokgopa courts AI investors with a 50MW flexible AI load pilot at Grootvlei, pitching data centre demand as a grid asset",
+   "url": "https://www.greenbuildingafrica.co.za/ramokgopa-pitches-south-africa-as-an-ai-and-data-centre-investment-destination-during-silicon-valley-visit/",
+   "pillar": "infra",
+   "current_topic": "Investment and funding",
+   "suggested_topic": "Investment and funding",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "BISI: Africa holds 0.6% of global data centre capacity, and outside South Africa only a third of built capacity is fully used",
+   "url": "https://bisi.org.uk/reports/africas-ai-infrastructure-gap-investment-opportunities-and-risks-for-data-centre-expansion",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "ZAF",
+   "flags": "source_review_outstanding",
+   "source_checked": false
   },
   {
    "headline": "Kenya and Oracle advance plans for a local cloud region and digital skills training",

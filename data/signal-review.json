@@ -1,10 +1,10 @@
 {
  "schema_version": 1,
- "feed_updated": "2026-11-15",
- "feed_sha256": "8891c7037336e20526d91ab80f9c40e05d298ec0e69425686e167e01d5a2832a",
+ "feed_updated": "2026-11-16",
+ "feed_sha256": "77fb159bd3bf7af40dca94060853394bfc6b66e44b90a43785e702b8e2c44026",
  "backfill_sha256": "ff9093680b4574bbc6ee386b6e9c8759b8a766b460106e54900f438361345f5f",
  "counts": {
-  "needs_source_review": 832,
+  "needs_source_review": 835,
   "context_only": 29,
   "evidence_added": 15,
   "source_checked_signal_only": 28,
@@ -9803,7 +9803,58 @@
    "related_signals": []
   },
   {
-   "id": "8b2261b8179415",
+   "id": "3950532f2f40ae",
+   "pillar": "infra",
+   "headline": "Ramaphosa tells Silicon Valley delegation South Africa must build its own AI, not just consume it",
+   "signal_url": "https://www.sanews.gov.za/south-africa/president-ramaphosa-calls-homegrown-ai-innovation",
+   "feed_date_label": "Nov 16",
+   "review_state": "needs_source_review",
+   "review_basis": "automated_triage",
+   "reviewed_at": "",
+   "priority": "normal",
+   "topic": "Context and research",
+   "related_registers": [],
+   "duplicate_of": "",
+   "note": "Headline triage only. Read the source and verify its definition, geography and date before adding values.",
+   "evidence_ids": [],
+   "related_signals": []
+  },
+  {
+   "id": "199bf54d58b2e8",
+   "pillar": "infra",
+   "headline": "Ramokgopa courts AI investors with a 50MW flexible AI load pilot at Grootvlei, pitching data centre demand as a grid asset",
+   "signal_url": "https://www.greenbuildingafrica.co.za/ramokgopa-pitches-south-africa-as-an-ai-and-data-centre-investment-destination-during-silicon-valley-visit/",
+   "feed_date_label": "Nov 16",
+   "review_state": "needs_source_review",
+   "review_basis": "automated_triage",
+   "reviewed_at": "",
+   "priority": "high",
+   "topic": "Capacity and investment",
+   "related_registers": [],
+   "duplicate_of": "",
+   "note": "Headline triage only. Read the source and verify its definition, geography and date before adding values.",
+   "evidence_ids": [],
+   "related_signals": []
+  },
+  {
+   "id": "e78e8cc4aa381b",
+   "pillar": "infra",
+   "headline": "BISI: Africa holds 0.6% of global data centre capacity, and outside South Africa only a third of built capacity is fully used",
+   "signal_url": "https://bisi.org.uk/reports/africas-ai-infrastructure-gap-investment-opportunities-and-risks-for-data-centre-expansion",
+   "feed_date_label": "Nov 16",
+   "review_state": "needs_source_review",
+   "review_basis": "automated_triage",
+   "reviewed_at": "",
+   "priority": "high",
+   "topic": "Capacity and investment",
+   "related_registers": [],
+   "duplicate_of": "",
+   "note": "Headline triage only. Read the source and verify its definition, geography and date before adding values.",
+   "evidence_ids": [],
+   "related_signals": []
+  },
+  {
+   "id": "be2360fd766857",
    "pillar": "infra",
    "headline": "Kenya and Oracle advance plans for a local cloud region and digital skills training",
    "signal_url": "https://techafricanews.com/2026/11/13/kenya-and-oracle-advance-plans-for-local-cloud-region-and-digital-skills-training/",
@@ -9820,7 +9871,7 @@
    "related_signals": []
   },
   {
-   "id": "f3263a7d2b59a7",
+   "id": "305d01f4fa244b",
    "pillar": "infra",
    "headline": "Jensen Huang's exit puts Africa's 12,000-GPU Cassava buildout in question",
    "signal_url": "https://africa.dailynewsegypt.com/jensen-huang-nvidia-africa-ai/",
@@ -9837,7 +9888,7 @@
    "related_signals": []
   },
   {
-   "id": "bed682a38dd8d3",
+   "id": "754252e60831fa",
    "pillar": "infra",
    "headline": "SEACOM 2.0, four Google cable hubs and 30,000 Japanese-trained experts: Africa's AI pipes and skills",
    "signal_url": "https://aireportsafrica.com/2026/11/12/how-africa-is-building-the-cables-and-skills-it-needs-for-ai/",
@@ -9854,7 +9905,7 @@
    "related_signals": []
   },
   {
-   "id": "16541ebe70651f",
+   "id": "9e25e7b43012c3",
    "pillar": "infra",
    "headline": "TICON Africa: continent holds 0.6% of global data centre capacity, with 360MW live, 238MW under construction and 656MW planned",
    "signal_url": "https://aireportsafrica.com/2026/11/12/ticon-africa-warns-continent-against-dependence-on-foreign-ai-infrastructure-urges-investment-in-local-data-centres/",
@@ -9871,7 +9922,7 @@
    "related_signals": []
   },
   {
-   "id": "664afc822afd98",
+   "id": "f57de87c7d8868",
    "pillar": "infra",
    "headline": "Vodacom plans AI data centre builds in South Africa and Kenya after breaking ground on $1bn Egypt facility",
    "signal_url": "https://www.businessday.co.za/companies/2026-11-11-vodacom-plans-ai-data-centre-builds-in-sa-and-kenya/",
@@ -9888,7 +9939,7 @@
    "related_signals": []
   },
   {
-   "id": "1a6208f87e055b",
+   "id": "9aba90d2b7395f",
    "pillar": "infra",
    "headline": "DBSA study: South Africa's data centre IT load to almost double from 435MW in 2024 to 829MW by 2029",
    "signal_url": "https://thenational.co.za/news/2026-11-11-us-data-centre-concerns-highlight-need-for-south-africa-to-invest-in-digital-infrastructure/",
@@ -9905,7 +9956,7 @@
    "related_signals": []
   },
   {
-   "id": "24045b4494d0df",
+   "id": "88f9cecffb97b9",
    "pillar": "infra",
    "headline": "Vodacom puts a $1bn price on Egypt's sovereign AI data centre, takes about 30% through Vodafone Egypt, and names South Africa and Kenya as the next hubs",
    "signal_url": "https://techcentral.co.za/vodacom-ai-data-centre-hubs-south-africa-kenya-egypt/288232/",
@@ -9922,7 +9973,7 @@
    "related_signals": []
   },
   {
-   "id": "12daced5625b4a",
+   "id": "ff38c8b8bd3b64",
    "pillar": "infra",
    "headline": "Stratos Lab, Ecoblox and Digital Parks Africa deploy 400-plus Nvidia B300 GPUs at Samrand, claiming 7.2 EFLOPS for Africa",
    "signal_url": "https://www.dpa.host/nvidias-top-ai-chips-are-coming-to-digital-parks-africas-samrand-data-centre/",
@@ -9939,7 +9990,7 @@
    "related_signals": []
   },
   {
-   "id": "dede3af27f08ea",
+   "id": "6e127f8f937880",
    "pillar": "infra",
    "headline": "Cassava's 12,000-GPU Nvidia buildout worth up to $720m: Cape Town AI factory running, with Johannesburg, Egypt, Kenya, Morocco and Nigeria to follow",
    "signal_url": "https://www.billionaires.africa/2026/11/09/zimbabwean-billionaire-strive-masiyiwas-cassava-builds-out-12-000-gpu-nvidia-ai-network/",
@@ -9956,7 +10007,7 @@
    "related_signals": []
   },
   {
-   "id": "c74316c13fc16b",
+   "id": "5515d3cbe135eb",
    "pillar": "infra",
    "headline": "USTDA funds $1.87m feasibility study for two AI-ready data centres in Lagos and Delta, 60-70MW with room for 100MW",
    "signal_url": "https://aireportsafrica.com/2026/11/09/us-agency-backs-feasibility-study-for-two-ai-ready-data-centres-in-nigeria/",
@@ -9973,7 +10024,7 @@
    "related_signals": []
   },
   {
-   "id": "2880a42868b600",
+   "id": "0f599f6abf86cb",
    "pillar": "infra",
    "headline": "Adesina proposes $10bn AI fund to anchor $50bn investment drive across Africa",
    "signal_url": "https://businessday.ng/africa/article/former-afdb-president-adesina-proposes-10bn-ai-fund-to-anchor-50bn-investment-drive-across-africa/",
@@ -9990,7 +10041,7 @@
    "related_signals": []
   },
   {
-   "id": "944a97449f8119",
+   "id": "4e4cdc829d0b15",
    "pillar": "infra",
    "headline": "Paratus Lesotho opens shop with Starlink enterprise offering",
    "signal_url": "https://developingtelecoms.com/telecom-technology/satellite-communications-networks/21088-paratus-lesotho-opens-shop-with-starlink-enterprise-offering.html",
@@ -10007,7 +10058,7 @@
    "related_signals": []
   },
   {
-   "id": "f5dbe178c0db9a",
+   "id": "5bdb0a69605dc6",
    "pillar": "infra",
    "headline": "Africa's federated cloud grid could power AI and 6G",
    "signal_url": "https://techtrendske.co.ke/2026/11/05/africa-federated-cloud-grid-ai-6g/",
@@ -10024,7 +10075,7 @@
    "related_signals": []
   },
   {
-   "id": "1e61f66cf1174c",
+   "id": "4fade0721b6cd1",
    "pillar": "infra",
    "headline": "Africa's Data Centers: Plugged Into Progress",
    "signal_url": "https://www.forbesafrica.com/focus/2026/11/04/africas-data-centers-plugged-into-progress",
@@ -10041,7 +10092,7 @@
    "related_signals": []
   },
   {
-   "id": "2651fbca4aa89d",
+   "id": "52fa5b014b9232",
    "pillar": "infra",
    "headline": "Senegal engages Alibaba Group on cloud infrastructure and digital transformation",
    "signal_url": "https://techafricanews.com/2026/11/04/senegal-alibaba-group-cloud-infrastructure-digital-transformation/",
@@ -10058,7 +10109,7 @@
    "related_signals": []
   },
   {
-   "id": "d3aff4e6ce4c57",
+   "id": "0f01ec67c70ce3",
    "pillar": "infra",
    "headline": "Galaxy Backbone in talks with two unnamed firms to build Nigeria's sovereign cloud under a public-private partnership",
    "signal_url": "https://techpoint.africa/news/galaxy-backbone-sovereign-cloud/",
@@ -10075,7 +10126,7 @@
    "related_signals": []
   },
   {
-   "id": "c4d565f6df24c4",
+   "id": "8aa9e746a821a0",
    "pillar": "infra",
    "headline": "Analysis: building local data centres is necessary but does not guarantee that African traffic reaches them, as routing keeps sending data abroad",
    "signal_url": "https://techafricanews.com/2026/11/04/why-physical-proximity-fails-to-guarantee-local-traffic-in-african-cloud-markets/",
@@ -10092,7 +10143,7 @@
    "related_signals": []
   },
   {
-   "id": "541225dff59cf7",
+   "id": "71a612b339ffc3",
    "pillar": "infra",
    "headline": "AFC chief Samaila Zubairu tells AFIS 2026 that AI cannot formalise Africa's informal economy without power, transport and warehousing, calling AI a threat to labour markets that cannot work in isolation",
    "signal_url": "https://techcabal.com/2026/11/03/samaila-zubairu-on-ai-for-africa/",
@@ -10109,7 +10160,7 @@
    "related_signals": []
   },
   {
-   "id": "94a2dc6828a3b2",
+   "id": "bd007a17764536",
    "pillar": "infra",
    "headline": "Wingu Africa wins Uptime Tier III design certification for Tanzania Phase 2 data centre",
    "signal_url": "https://www.wingu.africa/latest-news/wingu-africa-achieves-uptime-institute-tier-iii-certification-of-design-documents-for-tanzania-phase-2-data-centre",
@@ -10126,7 +10177,7 @@
    "related_signals": []
   },
   {
-   "id": "483fb5138ab5b8",
+   "id": "80cb67f48f1c0e",
    "pillar": "infra",
    "headline": "Alibaba Cloud runs Dakar 2026 Youth Olympic Games on a private cloud it will hand to Senegal as a national platform, with Qwen models opened to local developers afterwards",
    "signal_url": "https://www.media-outreach.com/news/senegal/2026/11/02/498654/alibaba-brings-cloud-and-ai-to-the-first-youth-olympic-games-in-africa/",
@@ -10143,7 +10194,7 @@
    "related_signals": []
   },
   {
-   "id": "7438720d9ecbbb",
+   "id": "f810221bcf274e",
    "pillar": "infra",
    "headline": "Eswatini Standards Authority and AICE Africa launch an AI Safety and Standards Centre of Excellence, with a proposed testing lab and an African AI Standards Baseline Report",
    "signal_url": "https://africa.com/apo/eswatini-standards-authority-and-aice-africa-launch-ai-safety-and-standards-center-of-excellence",
@@ -10160,7 +10211,7 @@
    "related_signals": []
   },
   {
-   "id": "45065f455a829a",
+   "id": "692682464135ca",
    "pillar": "infra",
    "headline": "Mauritius seeks World Bank expertise on an AI Act and a proposed AI Knowledge Centre for Africa, after Seoul Global AI summit",
    "signal_url": "https://saharawire.com/article/mauritius-seeks-world-bank-expertise-in-artificial-intelligence-and-digital-transformation",
@@ -10177,7 +10228,7 @@
    "related_signals": []
   },
   {
-   "id": "f50d5f25253e9a",
+   "id": "08e07756e383b9",
    "pillar": "infra",
    "headline": "Antler and OpenAI tell Lagos summit that energy, grid and data centre infrastructure is where African AI capital should land first",
    "signal_url": "https://thenationonlineng.net/antler-openai-mull-investment-in-nigerias-energy-ai-infrastructure-sectors/",
@@ -10194,7 +10245,7 @@
    "related_signals": []
   },
   {
-   "id": "36db26e0893cfd",
+   "id": "6914cdc250382d",
    "pillar": "infra",
    "headline": "Africa Energy Bank formally established with $5bn authorised capital, framed around energy demand from AI and emerging technologies",
    "signal_url": "https://govbusinessjournal.com/afreximbank-appo-formally-establish-africa-energy-bank-with-authorised-capital-of-us5-billion/",
@@ -10211,7 +10262,7 @@
    "related_signals": []
   },
   {
-   "id": "de0d7dd6b22ff9",
+   "id": "e14eb8d48f1408",
    "pillar": "infra",
    "headline": "East African Community ministers adopt regional AI and digital transformation strategies and approve a foundational AI module for universities across the bloc",
    "signal_url": "https://www.thecitizen.co.tz/tanzania/news/east-africa-news/east-african-community-ministers-approve-ai-strategy-university-technology-module-5654326",
@@ -10228,7 +10279,7 @@
    "related_signals": []
   },
   {
-   "id": "e86310e6b38104",
+   "id": "5c67d38f1737f0",
    "pillar": "infra",
    "headline": "Finland offers South African researchers a route to the LUMI supercomputer for AI work, but no access agreement has been signed yet",
    "signal_url": "https://iafrica.com/finland-offers-south-african-researchers-a-route-to-lumi-supercomputer-but-no-deal-yet/",
@@ -10245,7 +10296,7 @@
    "related_signals": []
   },
   {
-   "id": "2ad13bcdf3b8e8",
+   "id": "183c0fac45dfe1",
    "pillar": "infra",
    "headline": "South Africans will not see the redrafted national AI policy before March 2027, a government official says, pushing the framework past the current policy cycle",
    "signal_url": "https://iafrica.com/south-africans-wont-see-redrafted-ai-policy-before-march-2027-official-says/",
@@ -10262,7 +10313,7 @@
    "related_signals": []
   },
   {
-   "id": "85e0822d5419b5",
+   "id": "f1153b09c9c836",
    "pillar": "infra",
    "headline": "Oxide Cloud Services adds a private AI compute pod at Digital Parks Africa's Samrand data centre outside Johannesburg, targeting local inference workloads",
    "signal_url": "https://iafrica.com/oxide-cloud-services-adds-private-ai-pod-at-digital-parks-africas-samrand-data-centre/",
@@ -10279,7 +10330,7 @@
    "related_signals": []
   },
   {
-   "id": "0bfc51b4b3c860",
+   "id": "2194a6de4bbb53",
    "pillar": "infra",
    "headline": "From digital strategies to delivery: AU ministers call for increased investment and faster implementation",
    "signal_url": "https://au.int/en/pressreleases/20261030/digital-strategies-delivery-au-ministers-call-increased-investment",
@@ -10296,7 +10347,7 @@
    "related_signals": []
   },
   {
-   "id": "d50672102d3a7b",
+   "id": "79af9b3e98cdac",
    "pillar": "infra",
    "headline": "NITDA and CBN partner to advance Nigeria's digital sovereignty and data localisation",
    "signal_url": "https://techafricanews.com/2026/10/29/nitda-cbn-partner-nigeria-digital-sovereignty/",
@@ -10313,7 +10364,7 @@
    "related_signals": []
   },
   {
-   "id": "fb222f9fc4ce2d",
+   "id": "27c6a3bf382b19",
    "pillar": "infra",
    "headline": "SA and Kenya top technology investment destinations as data centre spend climbs",
    "signal_url": "https://www.businessday.co.za/companies/2026-10-29-sa-and-kenya-are-tops-for-technology-investors-in-africa/",
@@ -10330,7 +10381,7 @@
    "related_signals": []
   },
   {
-   "id": "53726e35b14651",
+   "id": "059280a602085e",
    "pillar": "infra",
    "headline": "MTN plans large data centre in Nigeria to meet sovereign needs, Mupita says",
    "signal_url": "https://www.newsngr.com/mtn-plans-large-data-centre-in-nigeria/",
@@ -10347,7 +10398,7 @@
    "related_signals": []
   },
   {
-   "id": "3a21d1e913385a",
+   "id": "1688dd5313c179",
    "pillar": "infra",
    "headline": "Africa must help shape AI revolution, President Mahama tells Russia-Africa summit",
    "signal_url": "https://gna.org.gh/2026/10/africa-must-help-shape-ai-revolution-transformation-president-mahama/",
@@ -10364,7 +10415,7 @@
    "related_signals": []
   },
   {
-   "id": "440026698bb6d4",
+   "id": "9683e9ebd11546",
    "pillar": "infra",
    "headline": "Cassava's Pemhiwa: AI could have 100x mobile money's impact, but only with local data centres and power",
    "signal_url": "https://businessnow.co.ke/why-ai-economic-impact-could-surpass-mobile-money-revolution/",
@@ -10381,7 +10432,7 @@
    "related_signals": []
   },
   {
-   "id": "e60cfc6bf4eee5",
+   "id": "29fb2b3dfc0821",
    "pillar": "infra",
    "headline": "AFRIDATA signs $1.87m USTDA grant for $650m-$1bn Nigeria data centre project",
    "signal_url": "https://businessday.ng/technology/article/afridata-us-agency-sign-1-87m-grant-deal-for-nigeria-data-centre-project/",
@@ -10398,7 +10449,7 @@
    "related_signals": []
   },
   {
-   "id": "0a8f2d35222e29",
+   "id": "70ff591a32bc9d",
    "pillar": "infra",
    "headline": "Study shows African countries competitive for data centre construction",
    "signal_url": "https://www.engineeringnews.co.za/article/study-shows-african-countries-competitive-for-data-centre-construction-2026-10-27",
@@ -10415,7 +10466,7 @@
    "related_signals": []
   },
   {
-   "id": "19e205f9fc5e9b",
+   "id": "4d8b34f5e4ffe8",
    "pillar": "infra",
    "headline": "Nigeria to receive $1 billion for two AI-focused data centres under INFRAGORA's AFRIDATA platform",
    "signal_url": "https://geeky.com.ng/2026/10/27/investment-in-ai-focused-data-nigeria-to-receive-1-billion/",
@@ -10432,7 +10483,7 @@
    "related_signals": []
   },
   {
-   "id": "1130c33b85d121",
+   "id": "95f0aea58342ed",
    "pillar": "infra",
    "headline": "MTN Group to build 150 MW AI-enabled data centres in Africa via Africa Data Hub Holding",
    "signal_url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/mtn-group-to-build-150-mw-ai-enabled-data-centers-in-africa/135223454",
@@ -10449,7 +10500,7 @@
    "related_signals": []
   },
   {
-   "id": "7aae92a2aa8032",
+   "id": "0d4d7582e026a7",
    "pillar": "infra",
    "headline": "Fear of foreign shutdowns drives local cloud demand",
    "signal_url": "https://www.itweb.co.za/article/fear-of-foreign-shutdowns-drives-local-cloud-demand/G98YdMLGAL87X2PD",
@@ -10466,7 +10517,7 @@
    "related_signals": []
   },
   {
-   "id": "0683c9d80413ec",
+   "id": "324be504824b42",
    "pillar": "infra",
    "headline": "The data centre inquiry is really a test of King V",
    "signal_url": "https://www.itweb.co.za/article/the-data-centre-inquiry-is-really-a-test-of-king-v/LPp6V7rBraj7DKQz",
@@ -10483,7 +10534,7 @@
    "related_signals": []
   },
   {
-   "id": "a604b2973b6f53",
+   "id": "0ac5489f563092",
    "pillar": "infra",
    "headline": "AWS capacity 'largely' sold out in 2027, Amazon CEO claims",
    "signal_url": "https://www.datacenterdynamics.com/en/news/aws-capacity-largely-sold-out-in-2027-amazon-ceo-claims/",
@@ -10500,7 +10551,7 @@
    "related_signals": []
   },
   {
-   "id": "09e203e7e68ccb",
+   "id": "5d1d1d61ff7eb4",
    "pillar": "infra",
    "headline": "Ghana's National AI Data Centre faces power supply and skills challenges",
    "signal_url": "https://techreviewafrica.com/news/7928/ghanas-national-ai-data-centre-faces-power-supply-and-skills-challenges",
@@ -10517,7 +10568,7 @@
    "related_signals": []
   },
   {
-   "id": "e34eebae5bfcb8",
+   "id": "cb51aa9ac58769",
    "pillar": "infra",
    "headline": "South Africa must capture more value from the data centre boom",
    "signal_url": "https://sundayworld.co.za/business/south-africa-must-capture-more-value-from-the-data-centre-boom/",
@@ -10534,7 +10585,7 @@
    "related_signals": []
   },
   {
-   "id": "dfb7d794adadd4",
+   "id": "6aa2770a00524a",
    "pillar": "infra",
    "headline": "World Bank plans shared AI computing for Africa: rent GPUs, don't build data centres",
    "signal_url": "https://tech-ish.com/2026/10/23/world-bank-plans-shared-ai-computing-for-africa/",
@@ -10551,7 +10602,7 @@
    "related_signals": []
   },
   {
-   "id": "8aad56e6bb1f15",
+   "id": "689abedbe84035",
    "pillar": "infra",
    "headline": "SoleCrypt plans 40MW solar-powered AI campus in Bizerte, Tunisia",
    "signal_url": "https://iafrica.com/solecrypt-plans-40mw-solar-powered-ai-campus-in-bizerte-tunisia/",
@@ -10568,7 +10619,7 @@
    "related_signals": []
   },
   {
-   "id": "f24c7fc55bebb0",
+   "id": "edd1120a6b6104",
    "pillar": "infra",
    "headline": "Egypt plans up to seven 'mega data centres', targets exports by 2030",
    "signal_url": "https://iafrica.com/egypt-plans-up-to-seven-mega-data-centres-targets-exports-by-2030/",
@@ -10585,7 +10636,7 @@
    "related_signals": []
   },
   {
-   "id": "1be4275726c2ff",
+   "id": "745467ec5051f1",
    "pillar": "infra",
    "headline": "Uganda launches five-year data strategy as groundwork for national AI plan",
    "signal_url": "https://iafrica.com/uganda-launches-five-year-data-strategy-as-groundwork-for-national-ai-plan/",
@@ -10602,7 +10653,7 @@
    "related_signals": []
   },
   {
-   "id": "6fab8936ea467c",
+   "id": "8aaf8127af7598",
    "pillar": "infra",
    "headline": "Kenya's Konza Technopolis secures funding agreement for data centre and smart city project",
    "signal_url": "https://techafricanews.com/2026/10/23/kenyas-konza-technopolis-secures-funding-agreement-for-data-centre-and-smart-city-project/",
@@ -10619,7 +10670,7 @@
    "related_signals": []
   },
   {
-   "id": "df819538894f8f",
+   "id": "ecdecacbf1de88",
    "pillar": "infra",
    "headline": "Redington Gulf signs AWS deal to expand AI adoption across Middle East and Africa",
    "signal_url": "https://techtrendske.co.ke/2026/10/23/redington-gulf-and-aws-target-faster-ai-adoption-across-middle-east-and-africa/",
@@ -10636,7 +10687,7 @@
    "related_signals": []
   },
   {
-   "id": "314407d1d20bfc",
+   "id": "2a211e2f6cdc4f",
    "pillar": "infra",
    "headline": "How heavy AI rules risk killing Africa's homegrown startups",
    "signal_url": "https://techafricanews.com/2026/10/23/how-heavy-ai-rules-risk-killing-africas-homegrown-startups/",
@@ -10653,7 +10704,7 @@
    "related_signals": []
   },
   {
-   "id": "6f09d66486ad34",
+   "id": "c1b44432d105dc",
    "pillar": "infra",
    "headline": "Nxtra Africa details multi-country hyperscale expansion to support regional AI and cloud workloads",
    "signal_url": "https://af.net/realtime/nxtra-africa-details-multi-country-hyperscale-expansion-to-support-regional-ai-and-cloud-workloads/",
@@ -10670,7 +10721,7 @@
    "related_signals": []
   },
   {
-   "id": "83bbc38d68f3c0",
+   "id": "3796bfd3ed02be",
    "pillar": "infra",
    "headline": "Sierra Leone says private investment critical to digital infrastructure expansion",
    "signal_url": "https://techreviewafrica.com/news/7900/sierra-leone-says-private-investment-critical-to-digital-infrastructure-expansion",
@@ -10687,7 +10738,7 @@
    "related_signals": []
   },
   {
-   "id": "5fbb0e3d58c1b5",
+   "id": "4fe055a752d7f3",
    "pillar": "infra",
    "headline": "Africa must own its digital future or risk exploitation, says Luminate CEO",
    "signal_url": "https://techcabal.com/2026/10/22/african-cloud-infrastructure-exploitation/",
@@ -10704,7 +10755,7 @@
    "related_signals": []
   },
   {
-   "id": "dd246e4ccfb292",
+   "id": "fcba7684202683",
    "pillar": "infra",
    "headline": "Nigeria plans shared AI computing infrastructure as government targets faster technology development",
    "signal_url": "https://www.simpsonglobalmedia.com.ng/2026/10/nigeria-plans-shared-ai-computing.html",
@@ -10721,7 +10772,7 @@
    "related_signals": []
   },
   {
-   "id": "622434a4f86993",
+   "id": "55fa7833338c43",
    "pillar": "infra",
    "headline": "FG proposes shared AI computing infrastructure with Rwanda, Senegal, Kenya",
    "signal_url": "https://www.thecable.ng/fg-proposes-shared-ai-computing-infrastructure-with-rwanda-senegal-kenya/",
@@ -10738,7 +10789,7 @@
    "related_signals": []
   },
   {
-   "id": "74200955d93fe1",
+   "id": "4f067f456507ee",
    "pillar": "infra",
    "headline": "UK and Nigeria collaborate on AI governance, standards and digital transformation",
    "signal_url": "https://technext24.com/news/uk-and-nigeria-collaborate-on-ai-governance/",
@@ -10755,7 +10806,7 @@
    "related_signals": []
   },
   {
-   "id": "b4e51bfc0499c0",
+   "id": "7bf9ee6af73248",
    "pillar": "infra",
    "headline": "Big Tech's thirst for water is sparking a global resistance",
    "signal_url": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/",
@@ -10772,7 +10823,7 @@
    "related_signals": []
   },
   {
-   "id": "f0fd58d0b8bd36",
+   "id": "5d589884ace7a4",
    "pillar": "infra",
    "headline": "Vodacom and Bowmans call for African-shaped, phased approach to AI regulation",
    "signal_url": "https://iafrica.com/vodacom-and-bowmans-call-for-african-shaped-phased-approach-to-ai-regulation/",
@@ -10789,7 +10840,7 @@
    "related_signals": []
   },
   {
-   "id": "17e74ae92022d4",
+   "id": "8e21dc03a3ac17",
    "pillar": "infra",
    "headline": "Cassava Technologies adds NVIDIA Nemotron models to its AI Factory",
    "signal_url": "https://innovation-village.com/cassava-technologies-adds-nvidia-nemotron-to-ai-factory/",
@@ -10806,7 +10857,7 @@
    "related_signals": []
   },
   {
-   "id": "429300455190b1",
+   "id": "4d7dbc58c49f2e",
    "pillar": "infra",
    "headline": "Morocco appoints first AI minister as it pushes to build a $10 billion AI economy",
    "signal_url": "https://innovation-village.com/morocco-appoints-first-ai-minister-as-it-pushes-to-build-a-10-billion-ai-economy/",
@@ -10823,7 +10874,7 @@
    "related_signals": []
   },
   {
-   "id": "b90b573f04e92a",
+   "id": "b78816118123a5",
    "pillar": "infra",
    "headline": "World Bank taps Cassava, Nvidia for Africa AI compute push",
    "signal_url": "https://techtrendske.co.ke/2026/10/20/world-bank-cassava-nvidia-ai-infrastructure-initiative-africa/",
@@ -10840,7 +10891,7 @@
    "related_signals": []
   },
   {
-   "id": "9e9ae21777027f",
+   "id": "cffac74294e95e",
    "pillar": "infra",
    "headline": "Vodacom South Africa invests R600 million to expand connectivity in Mpumalanga",
    "signal_url": "https://techafricanews.com/2026/10/20/vodacom-south-africa-invests-r600-million-to-expand-connectivity-in-mpumalanga/",
@@ -10857,7 +10908,7 @@
    "related_signals": []
   },
   {
-   "id": "f15dd5e4a20e84",
+   "id": "c494bf79202912",
    "pillar": "infra",
    "headline": "Africa risks missing AI investment boom without reliable power, infrastructure, KPMG says",
    "signal_url": "https://businessday.ng/africa/article/africa-risks-missing-ai-investment-boom-without-reliable-power-infrastructure-kpmg/",
@@ -10874,7 +10925,7 @@
    "related_signals": []
   },
   {
-   "id": "a4648c2f449585",
+   "id": "2696f0c77d3015",
    "pillar": "infra",
    "headline": "Ramaphosa plans Silicon Valley AI delegation after local elections",
    "signal_url": "https://iafrica.com/ramaphosa-plans-silicon-valley-ai-delegation-after-local-elections/",
@@ -10891,7 +10942,7 @@
    "related_signals": []
   },
   {
-   "id": "b3f10a41242598",
+   "id": "8dd58fadab9019",
    "pillar": "infra",
    "headline": "Africa-Papers: a 10-billion-token multi-domain academic corpus for African foundation language models",
    "signal_url": "http://arxiv.org/abs/2610.28173v1",
@@ -10908,7 +10959,7 @@
    "related_signals": []
   },
   {
-   "id": "c6203ad5d3142f",
+   "id": "5bd08ca00a1fae",
    "pillar": "infra",
    "headline": "Libya's O3 Group unveils national fibre and Tier III data centre plans after Medusa cable landing",
    "signal_url": "https://techafricanews.com/2026/10/19/libya-o3-group-digital-infrastructure-medusa-cable-landing/",
@@ -10925,7 +10976,7 @@
    "related_signals": []
   },
   {
-   "id": "0f2280da4cf364",
+   "id": "49d6c5ecdcbaf7",
    "pillar": "infra",
    "headline": "Dell and NTT Data pitch on-premise 'AI in a box' to Kenyan small businesses",
    "signal_url": "https://techtrendske.co.ke/2026/10/19/locally-hosted-ai-kenya/",
@@ -10942,7 +10993,7 @@
    "related_signals": []
   },
   {
-   "id": "0d89f0075ee388",
+   "id": "42d2ee995e7841",
    "pillar": "infra",
    "headline": "After the data centre: Africa's missing cloud platform layer",
    "signal_url": "https://techtrendske.co.ke/2026/10/19/africa-missing-cloud-platform-layer/",
@@ -10959,7 +11010,7 @@
    "related_signals": []
   },
   {
-   "id": "9438c402099785",
+   "id": "fef601bba0cdf6",
    "pillar": "infra",
    "headline": "Datacenters 2027: the year of acceleration, +50GW in a single year",
    "signal_url": "https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration",
@@ -10976,7 +11027,7 @@
    "related_signals": []
   },
   {
-   "id": "9ccc53d9d2f188",
+   "id": "95ce149f306238",
    "pillar": "infra",
    "headline": "NITDA and CBN to convene financial sector dialogue on data localisation",
    "signal_url": "https://africa.hyperscalers.news/news/nitda-cbn-to-convene-financial-sector-dialogue-on-data-localisation/",
@@ -10993,7 +11044,7 @@
    "related_signals": []
   },
   {
-   "id": "e85fce59303f0d",
+   "id": "2e817a6c3f036e",
    "pillar": "infra",
    "headline": "Vodacom's technology chief outlines regional data centre strategy",
    "signal_url": "https://www.businessday.co.za/companies/2026-10-18-vodacoms-technology-chief-outlines-regional-data-centre-strategy/",
@@ -11010,7 +11061,7 @@
    "related_signals": []
   },
   {
-   "id": "76830fca4df1eb",
+   "id": "41e5c106926fcc",
    "pillar": "infra",
    "headline": "Senate committee shoots down Nyamu's Bill on AI, warns of Sh5 million fines",
    "signal_url": "https://www.the-star.co.ke/news/2026-10-15-senate-committee-shoots-down-nyamus-bill-on-ai",
@@ -11027,7 +11078,7 @@
    "related_signals": []
   },
   {
-   "id": "ae218a1f4dd1fa",
+   "id": "7dc27d8c14cef0",
    "pillar": "infra",
    "headline": "Microsoft launches Maia 300 for Azure cloud AI workloads",
    "signal_url": "https://dailysynapse.com/news/microsoft-launches-maia-300-for-azure-cloud-ai-workloads/",
@@ -11044,7 +11095,7 @@
    "related_signals": []
   },
   {
-   "id": "6449fcfde99e9e",
+   "id": "33284999bb8fc5",
    "pillar": "infra",
    "headline": "Building Africa's digital future: Vertiv's Wojtek Piorko on AI, data centres and infrastructure readiness",
    "signal_url": "https://techcabal.com/2026/10/14/building-africas-digital-future-vertivs-wojtek-piorko-on-ai-data-centres-and-infrastructure-readiness/",
@@ -11061,7 +11112,7 @@
    "related_signals": []
   },
   {
-   "id": "4e37041db80435",
+   "id": "d65468a611073a",
    "pillar": "infra",
    "headline": "Microsoft aims to scale AI across African energy and mining operations",
    "signal_url": "https://it-online.co.za/2026/10/13/microsoft-aims-to-scale-ai-across-african-energy-mining-operations/",
@@ -11078,7 +11129,7 @@
    "related_signals": []
   },
   {
-   "id": "c7bcb2d581ba44",
+   "id": "f2f04eb8b750bd",
    "pillar": "infra",
    "headline": "Nvidia opens Vera Rubin architecture to help scale AI factories",
    "signal_url": "https://it-online.co.za/2026/10/13/nvidia-opens-vera-rubin-architecture-to-help-scale-ai-factories/",
@@ -11095,7 +11146,7 @@
    "related_signals": []
   },
   {
-   "id": "ff748c7b75932f",
+   "id": "4b2e6b5dc9cee8",
    "pillar": "infra",
    "headline": "Redvine's LEO satellite adoption in Africa climbs 70% in a year",
    "signal_url": "https://it-online.co.za/2026/10/13/redvines-leo-satellite-adoption-in-africa-climbs-70-in-a-year/",
@@ -11112,7 +11163,7 @@
    "related_signals": []
   },
   {
-   "id": "41444178242155",
+   "id": "63bee7c15a4eaa",
    "pillar": "infra",
    "headline": "Nigeria's internet infrastructure at a critical turning point as industry leaders converge for ngPIF 2026",
    "signal_url": "https://itpulse.com.ng/nigerias-internet-infrastructure-at-critical-turning-point-as-industry-leaders-converge-for-ngpif-2026/",
@@ -11129,7 +11180,7 @@
    "related_signals": []
   },
   {
-   "id": "c5602fcdbfe5d7",
+   "id": "c2a1dc0c3e2967",
    "pillar": "infra",
    "headline": "The grid cannot wait: set a timetable for independent transmission projects",
    "signal_url": "https://techcentral.co.za/grid-cannot-wait-independent-transmission-projects/287163/",
@@ -11146,7 +11197,7 @@
    "related_signals": []
   },
   {
-   "id": "8087ca17080eba",
+   "id": "5c324a6328726b",
    "pillar": "infra",
    "headline": "Nigeria to host Build 2026 as Africa's AI data centre capacity faces growing demand",
    "signal_url": "https://aireportsafrica.com/2026/10/12/nigeria-to-host-build-2026-as-africas-ai-data-centre-capacity-faces-growing-demand/",
@@ -11163,7 +11214,7 @@
    "related_signals": []
   },
   {
-   "id": "f69601ebbcbb29",
+   "id": "e63b4b5a48de3d",
    "pillar": "infra",
    "headline": "Nigerians consume 1.76 million terabytes of data in August 2026, the highest yet",
    "signal_url": "https://technext24.com/news/nigerians-used-1-76-m-terabytes-data-in-august/",
@@ -11180,7 +11231,7 @@
    "related_signals": []
   },
   {
-   "id": "2db2121a65dbdd",
+   "id": "89cf309205cda9",
    "pillar": "infra",
    "headline": "Africa holds just 0.6% of global data centre capacity, World Bank finds",
    "signal_url": "https://guru8.net/2026/10/africa-holds-just-0-6-of-global-data-centre-capacity-world-bank-finds/",
@@ -11197,7 +11248,7 @@
    "related_signals": []
   },
   {
-   "id": "2f2ee4d2676249",
+   "id": "b28427aea63a93",
    "pillar": "infra",
    "headline": "Emerging AI regulatory approaches highlight key policy choices across Africa",
    "signal_url": "https://trustur.ai/news/gh/2026/10/11/emerging-ai-regulatory-approaches-highlight-key-policy-choices-across-africa/94ea282e-b34f-41ff-aebc-5d9a86cc26d6/",
@@ -11214,7 +11265,7 @@
    "related_signals": []
   },
   {
-   "id": "a1f3e4e1b50040",
+   "id": "f3b80da346d02d",
    "pillar": "infra",
    "headline": "AI doesn't run on hype, it runs on megawatts",
    "signal_url": "https://datacentresafrica.com/ai-doesnt-run-on-hype-it-runs-on-megawatts/",
@@ -11231,7 +11282,7 @@
    "related_signals": []
   },
   {
-   "id": "ed06feb593fe08",
+   "id": "ee712b50c976a9",
    "pillar": "infra",
    "headline": "DE-CIX and Cabo Verde Telecom plan a new South Atlantic interconnection corridor",
    "signal_url": "https://datacentresafrica.com/de-cix-and-cabo-verde-telecom-plan-new-south-atlantic-interconnection-corridor/",
@@ -11248,7 +11299,7 @@
    "related_signals": []
   },
   {
-   "id": "64b5c2875ab40d",
+   "id": "1da85695cfacc7",
    "pillar": "infra",
    "headline": "Ramokgopa prioritises battery storage and gas-to-power as data centre demand strains supply",
    "signal_url": "https://datacentresafrica.com/minister-kgosientsho-ramokgopa-prioritises-battery-storage-and-gas-to-power-to-address-curtailment-and-strengthen-reliable-electricity-supply-to-support-economic-growth/",
@@ -11265,7 +11316,7 @@
    "related_signals": []
   },
   {
-   "id": "875aafd66d84bb",
+   "id": "489c6911c3edb4",
    "pillar": "infra",
    "headline": "AIFOD Nairobi Summit 2027 to focus on AI safety and governance challenges in developing nations",
    "signal_url": "https://af.net/realtime/aifod-nairobi-summit-2027-to-focus-on-ai-safety-and-governance-challenges-in-developing-nations/",
@@ -11282,7 +11333,7 @@
    "related_signals": []
   },
   {
-   "id": "b20e8b8e2e5318",
+   "id": "c0640672d65cab",
    "pillar": "infra",
    "headline": "Angola Cables boosts capacity across MONET and SACS submarine cable systems with Ciena",
    "signal_url": "https://datacentresafrica.com/angola-cables-boosts-capacity-across-monet-and-sacs-submarine-cable-systems-with-ciena-technology/",
@@ -11299,7 +11350,7 @@
    "related_signals": []
   },
   {
-   "id": "8ea974b32a6228",
+   "id": "0ba5bcd3a9dfa2",
    "pillar": "infra",
    "headline": "Continent 8 Technologies launches in South Africa, extending its private global network into Africa",
    "signal_url": "https://datacentresafrica.com/continent-8-technologies-launches-in-south-africa-extending-its-private-global-network-into-africa/",
@@ -11316,7 +11367,7 @@
    "related_signals": []
   },
   {
-   "id": "29913c2894bb08",
+   "id": "b22844620a615d",
    "pillar": "infra",
    "headline": "Building the foundations of Africa's digital future through data centre-led infrastructure investment",
    "signal_url": "https://datacentresafrica.com/building-the-foundations-of-africas-digital-future-through-data-centre-led-infrastructure-investment/",
@@ -11333,7 +11384,7 @@
    "related_signals": []
   },
   {
-   "id": "814b263480c7ee",
+   "id": "a22f2f5e6964b8",
    "pillar": "infra",
    "headline": "Zanetor Agyeman-Rawlings Demands AI Oversight at GAEC",
    "signal_url": "https://chale.news/zanetor-agyeman-rawlings-i-wont-let-ai-run-our-nuclear-programme/",
@@ -11350,7 +11401,7 @@
    "related_signals": []
   },
   {
-   "id": "ad0b17907f463e",
+   "id": "09140bd175cb76",
    "pillar": "infra",
    "headline": "Nigeria targets 200MW of data centre capacity, and the governing party chairman is asking where the power comes from",
    "signal_url": "https://iafrica.com/nigeria-targets-200mw-of-data-centre-capacity-and-the-governing-party-chairman-is-asking-where-the-power-comes-from/",
@@ -11367,7 +11418,7 @@
    "related_signals": []
   },
   {
-   "id": "a69aaa38621c12",
+   "id": "fac806e9e11d8b",
    "pillar": "infra",
    "headline": "Why AI success in Africa hinges on power infrastructure - Gary Chomse",
    "signal_url": "https://nairametrics.com/2026/10/10/why-ai-success-in-africa-hinges-on-power-infrastructure-gary-chomse/",
@@ -11384,7 +11435,7 @@
    "related_signals": []
   },
   {
-   "id": "9ea51bfe2ade7c",
+   "id": "c997108fe53c3b",
    "pillar": "infra",
    "headline": "AI's uncertain opportunity for Africa",
    "signal_url": "https://www.semafor.com/article/10/09/2026/ais-uncertain-opportunity-for-africa",
@@ -11401,7 +11452,7 @@
    "related_signals": []
   },
   {
-   "id": "cb870d7fc4ced1",
+   "id": "7f336c92354fab",
    "pillar": "infra",
    "headline": "AFRICLOUD Opens Lagos Region and Local-Currency Payments in African Markets",
    "signal_url": "https://paymentsafrika.com/africloud-opens-lagos-region-and-local-currency/",
@@ -11418,7 +11469,7 @@
    "related_signals": []
   },
   {
-   "id": "be03289a1b4673",
+   "id": "96d6c724fd9e69",
    "pillar": "infra",
    "headline": "Africa Faces Growing Battle for Digital Sovereignty",
    "signal_url": "https://ippmedia.co.tz/the-guardian/features/read/africa-faces-growing-battle-for-digital-sovereignty-2026-10-09-205248",
@@ -11435,7 +11486,7 @@
    "related_signals": []
   },
   {
-   "id": "3a4c326485876d",
+   "id": "4c5aff7b19bef2",
    "pillar": "infra",
    "headline": "Africa's AI data centre infrastructure: key countries for development and investment",
    "signal_url": "https://www.powertechafrica.com/2026/10/09/africas-ai-data-centre-infrastructure-key-countries-for-development-and-investment/",
@@ -11452,7 +11503,7 @@
    "related_signals": []
   },
   {
-   "id": "850fcae047ce9a",
+   "id": "9b07231c395eeb",
    "pillar": "infra",
    "headline": "Digital Parks Africa expands into Nigeria, plans data centre in Lagos",
    "signal_url": "https://www.datacenterdynamics.com/en/news/digital-parks-africa-expands-into-nigeria-plans-data-center-in-lagos/",
@@ -11469,7 +11520,7 @@
    "related_signals": []
   },
   {
-   "id": "b165e0a7ecfbed",
+   "id": "eb6e638ecf2f6e",
    "pillar": "infra",
    "headline": "Kenya wants a bigger share of global digital trade, but the infrastructure must keep pace",
    "signal_url": "https://techtrendske.co.ke/2026/10/08/kenya-digital-trade-infrastructure/",
@@ -11486,7 +11537,7 @@
    "related_signals": []
   },
   {
-   "id": "aa77a5a41ce367",
+   "id": "d6e9a8f1e76054",
    "pillar": "infra",
    "headline": "'Not Even a Producer of Data': Researcher presses African policymakers on AI sovereignty",
    "signal_url": "https://iafrica.com/not-even-a-producer-of-data-researcher-presses-african-policymakers-on-ai-sovereignty/",
@@ -11503,7 +11554,7 @@
    "related_signals": []
   },
   {
-   "id": "85e07701009afd",
+   "id": "ad5b5af4442a40",
    "pillar": "infra",
    "headline": "Airtel Africa adds 3,250 sites and 3,200km of fibre in a year",
    "signal_url": "https://techtrendske.co.ke/2026/10/08/airtel-africa-adds-3250-sites-and-3200km-of-fibre-in-a-year/",
@@ -11520,7 +11571,7 @@
    "related_signals": []
   },
   {
-   "id": "e692611914175d",
+   "id": "c56a4e45e17452",
    "pillar": "infra",
    "headline": "Africa Is Building Its Own AI Engines, and Cassava and NVIDIA Are Leading the Charge",
    "signal_url": "https://aireportsafrica.com/2026/10/08/africa-is-building-its-own-ai-engines-and-cassava-and-nvidia-are-leading-the-charge/",
@@ -11537,7 +11588,7 @@
    "related_signals": []
   },
   {
-   "id": "6cd018e7337f3c",
+   "id": "76431104b0e035",
    "pillar": "infra",
    "headline": "Cassava rehires Dan Kwach to lead AI data centre push",
    "signal_url": "https://techtrendske.co.ke/2026/10/07/cassava-technologies-rehires-dan-kwach-to-lead-ai-data-centre-push/",
@@ -11554,7 +11605,7 @@
    "related_signals": []
   },
   {
-   "id": "9dffc40928d010",
+   "id": "265c5de2c062bc",
    "pillar": "infra",
    "headline": "UAE launches $1 billion AI investment initiative for Africa",
    "signal_url": "https://wearethefrontier.org/world/2026/10/07/uae-launches-1-billion-ai-africa-initiative",
@@ -11571,7 +11622,7 @@
    "related_signals": []
   },
   {
-   "id": "ee5c3df100d8bf",
+   "id": "3673401055c20b",
    "pillar": "infra",
    "headline": "Ghana adds a technical review to public-sector AI purchases",
    "signal_url": "https://streamlinefeed.co.ke/news/ghana-adds-technical-review-to-public-ai-purchases",
@@ -11588,7 +11639,7 @@
    "related_signals": []
   },
   {
-   "id": "d2ef91c0a39d7c",
+   "id": "6e824a5777ad4a",
    "pillar": "infra",
    "headline": "Africa moves toward coordinated AI governance as regulators seek balance",
    "signal_url": "https://trendsnafrica.com/africa-moves-toward-coordinated-ai-governance-as-regulators-seek-balance-between-innovation-and-protection/",
@@ -11605,7 +11656,7 @@
    "related_signals": []
   },
   {
-   "id": "604f42952f1156",
+   "id": "9be7d88d2c31e1",
    "pillar": "infra",
    "headline": "AI and cybersecurity regulation in Africa",
    "signal_url": "https://techtrendske.co.ke/2026/10/07/ai-cybersecurity-regulation-africa/",
@@ -11622,7 +11673,7 @@
    "related_signals": []
   },
   {
-   "id": "447c0d2df789c9",
+   "id": "36379801ff7e39",
    "pillar": "infra",
    "headline": "Google and Meta said to be paying a premium for land routes amid the Red Sea clash",
    "signal_url": "https://restofworld.org/2026/google-meta-red-sea-subsea-cables-houthi-yemen/",
@@ -11639,7 +11690,7 @@
    "related_signals": []
   },
   {
-   "id": "300a67e37d1e5b",
+   "id": "9fdd052075f1c6",
    "pillar": "infra",
    "headline": "IXPN targets 80% local internet traffic by 2030",
    "signal_url": "https://itpulse.com.ng/ixpn-targets-80-local-internet-traffic-by-2030-exposes-students-to-digital-infrastructure-careers",
@@ -11656,7 +11707,7 @@
    "related_signals": []
   },
   {
-   "id": "affae1fd79a325",
+   "id": "51176a10f6127a",
    "pillar": "infra",
    "headline": "Paratus Namibia launches Eutelsat's OneWeb LEO connectivity",
    "signal_url": "https://techcentral.co.za/paratus-namibia-eutelsat-oneweb-leo/286998/",
@@ -11673,7 +11724,7 @@
    "related_signals": []
   },
   {
-   "id": "596611b1e0fec3",
+   "id": "ad2dde915f5966",
    "pillar": "infra",
    "headline": "Angola Cables upgrades transatlantic capacity for AI traffic on a route that bypasses Europe",
    "signal_url": "https://iafrica.com/angola-cables-upgrades-transatlantic-capacity-for-ai-traffic-on-a-route-that-bypasses-europe/",
@@ -11690,7 +11741,7 @@
    "related_signals": []
   },
   {
-   "id": "1a1d47bc05b388",
+   "id": "eaaa2d9ca872d5",
    "pillar": "infra",
    "headline": "FiveNines, Nexus Core to establish Morocco data centre",
    "signal_url": "https://cajnewsafrica.com/2026/10/07/fivenines-nexus-core-to-establish-morocco-data-centre/",
@@ -11707,7 +11758,7 @@
    "related_signals": []
   },
   {
-   "id": "8db8d72f8a0567",
+   "id": "7cba15ddea9e61",
    "pillar": "infra",
    "headline": "Vertiv, Cybastion sign deal to boost data centre infrastructure across Africa",
    "signal_url": "https://allafricareports.com/vertiv-cybastion-sign-deal-to-boost-data-centre-infrastructure-across-africa/",
@@ -11724,7 +11775,7 @@
    "related_signals": []
   },
   {
-   "id": "5fdaedefc9a2d5",
+   "id": "08ca6bdf8acaeb",
    "pillar": "infra",
    "headline": "Eskom to facilitate construction of more data centres in South Africa, Ramokgopa tells Windaba delegates",
    "signal_url": "https://www.engineeringnews.co.za/article/eskom-to-facilitate-construction-of-more-data-centres-in-south-africa-ramokgopa-tells-windaba-delegates-2026-10-06",
@@ -11741,7 +11792,7 @@
    "related_signals": []
   },
   {
-   "id": "1cbeb3a98241f4",
+   "id": "d02c8065cf76f5",
    "pillar": "infra",
    "headline": "World Bank: Economic Growth in Sub-Saharan Africa Gains Momentum Despite Global Uncertainty (Africa Economic Update: Building AI-Readiness)",
    "signal_url": "https://www.worldbank.org/en/news/press-release/2026/10/06/economic-growth-in-sub-saharan-africa-gains-momentum-despite-global-uncertainty",
@@ -11758,7 +11809,7 @@
    "related_signals": []
   },
   {
-   "id": "2df9dff93727b8",
+   "id": "bb14dfdc858e2d",
    "pillar": "infra",
    "headline": "Kenya launches $40 million AI-focused data centre in Nairobi",
    "signal_url": "https://af.net/realtime/kenya-launches-40-million-ai-focused-data-center-in-nairobi/",
@@ -11775,7 +11826,7 @@
    "related_signals": []
   },
   {
-   "id": "dde8052642c71e",
+   "id": "78f43f92e01906",
    "pillar": "infra",
    "headline": "Continent 8 Technologies expands into Africa with Johannesburg data centre",
    "signal_url": "https://techafricanews.com/2026/10/06/continent-8-technologies-expands-into-africa-with-johannesburg-data-centre/",
@@ -11792,7 +11843,7 @@
    "related_signals": []
   },
   {
-   "id": "784a42ac999283",
+   "id": "a09a0844088fee",
    "pillar": "infra",
    "headline": "Africa's data centre investment projected to hit $255 billion by 2050",
    "signal_url": "https://www.mvfdesign.com/africas-data-centre-investment-255-billion.html",
@@ -11809,7 +11860,7 @@
    "related_signals": []
   },
   {
-   "id": "5949e14138e829",
+   "id": "55087f4472a13b",
    "pillar": "infra",
    "headline": "Nigeria's data appetite surges 47% as networks strain under rising demand",
    "signal_url": "https://itpulse.com.ng/nigerias-data-appetite-surges-47-as-networks-strain-under-rising-demand/",
@@ -11826,7 +11877,7 @@
    "related_signals": []
   },
   {
-   "id": "087680d4bece07",
+   "id": "8dcd091233bd13",
    "pillar": "infra",
    "headline": "Starlink's subscriber growth accelerates in Kenya as capacity limits new customers",
    "signal_url": "https://techtrendske.co.ke/2026/10/06/starlink-kenya-capacity-users-growth/",
@@ -11843,7 +11894,7 @@
    "related_signals": []
   },
   {
-   "id": "e87e5c45e04355",
+   "id": "a137c0275fcd63",
    "pillar": "infra",
    "headline": "FG targets 6 months to fund community-owned telecom towers in rural Nigeria",
    "signal_url": "https://technext24.com/news/fg-solar-powered-community-telecom-towers/",
@@ -11860,7 +11911,7 @@
    "related_signals": []
   },
   {
-   "id": "ad59cd57977258",
+   "id": "310772cca1e8c1",
    "pillar": "infra",
    "headline": "NCC, stakeholders seek Right of Way cost cuts to advance Nigeria's digital connectivity",
    "signal_url": "https://technext24.com/news/ncc-stakeholders-seek-right-of-way-cost-cuts/",
@@ -11877,7 +11928,7 @@
    "related_signals": []
   },
   {
-   "id": "f6a6dc182ac804",
+   "id": "30b5e87298a321",
    "pillar": "infra",
    "headline": "MTN Ghana to deploy new spectrum to accelerate 5G expansion",
    "signal_url": "https://www.citinewsroom.com/2026/10/mtn-ghana-to-deploy-new-spectrum-to-accelerate-5g-expansion/",
@@ -11898,7 +11949,7 @@
    "related_signals": []
   },
   {
-   "id": "3e7f4179ddd3d2",
+   "id": "8735b1e1196332",
    "pillar": "infra",
    "headline": "Africa's AI race accelerates",
    "signal_url": "https://cajnewsafrica.com/2026/10/05/africas-ai-race-accelerates/",
@@ -11915,7 +11966,7 @@
    "related_signals": []
   },
   {
-   "id": "4bd9334721931c",
+   "id": "c72581536656fe",
    "pillar": "infra",
    "headline": "Nigeria launches West Africa's first sovereign-backed AI data centre in Lagos",
    "signal_url": "https://af.net/realtime/nigeria-launches-west-africas-first-sovereign-backed-ai-data-center-in-lagos/",
@@ -11932,7 +11983,7 @@
    "related_signals": []
   },
   {
-   "id": "708a391268e837",
+   "id": "873e518e155a64",
    "pillar": "infra",
    "headline": "UNDP and GSMA partner on African AI, with compute access as the stated priority",
    "signal_url": "https://iafrica.com/undp-and-gsma-partner-on-african-ai-with-compute-access-as-the-stated-priority/",
@@ -11949,7 +12000,7 @@
    "related_signals": []
   },
   {
-   "id": "298ad26404d03a",
+   "id": "1f4c9e9b77bbee",
    "pillar": "infra",
    "headline": "‘Capability Leaves With the Vendor’: What’s Actually Running in SADC, and What Isn’t",
    "signal_url": "https://iafrica.com/capability-leaves-with-the-vendor-whats-actually-running-in-sadc-and-what-isnt/",
@@ -11966,7 +12017,7 @@
    "related_signals": []
   },
   {
-   "id": "80bd61f1e6b246",
+   "id": "486a9c45053a6c",
    "pillar": "infra",
    "headline": "Angola Cables upgrades atlantic network as AI reshapes global data demand",
    "signal_url": "https://businessday.ng/technology/article/angola-cables-upgrades-atlantic-network-as-ai-reshapes-global-data-demand/",
@@ -11983,7 +12034,7 @@
    "related_signals": []
   },
   {
-   "id": "2a6130e64e45f4",
+   "id": "5400a888260153",
    "pillar": "infra",
    "headline": "Hassanein Hiridjee's Axian expands Senegal data center",
    "signal_url": "https://www.billionaires.africa/2026/10/03/madagascar-billionaire-hassanein-hiridjee-expands-senegal-data-center-to-meet-ai-demand/",
@@ -12000,7 +12051,7 @@
    "related_signals": []
   },
   {
-   "id": "76ffe11ada0dd1",
+   "id": "8796da07df5056",
    "pillar": "infra",
    "headline": "Data Colonisation and AI Governance in South Africa: Data Protection, Algorithmic Power, and the Struggle for Digital Sovereignty",
    "signal_url": "https://arxiv.org/abs/2610.04485",
@@ -12017,7 +12068,7 @@
    "related_signals": []
   },
   {
-   "id": "3a40ed4ece040d",
+   "id": "294db6ba9d2b6d",
    "pillar": "infra",
    "headline": "Starlink backhaul in Nigeria tests rural tower economics",
    "signal_url": "https://furtherafrica.com/2026/10/02/starlink-backhaul-nigeria-tests-rural-tower-economics/",
@@ -12034,7 +12085,7 @@
    "related_signals": []
   },
   {
-   "id": "23443e0c4952a7",
+   "id": "96674848491973",
    "pillar": "infra",
    "headline": "African AI training opens free for public officials",
    "signal_url": "https://furtherafrica.com/2026/10/02/african-ai-training-opens-free-for-public-officials/",
@@ -12051,7 +12102,7 @@
    "related_signals": []
   },
   {
-   "id": "f4404596ebe594",
+   "id": "1e1526caeba447",
    "pillar": "infra",
    "headline": "Namibia Opens National AI Institute Built Around Four Gaps Its Own Assessment Found",
    "signal_url": "https://iafrica.com/namibia-opens-national-ai-institute-built-around-four-gaps-its-own-assessment-found/",
@@ -12068,7 +12119,7 @@
    "related_signals": []
   },
   {
-   "id": "38519fbb11b3d9",
+   "id": "3d361320aa8420",
    "pillar": "infra",
    "headline": "MTN’s IHS Towers takeover advances as regulator demands fair access",
    "signal_url": "https://techcabal.com/2026/10/02/mtn-ihs-towers-2-2-billion-deal-south-africa-competition-commission-approval/",
@@ -12085,7 +12136,7 @@
    "related_signals": []
   },
   {
-   "id": "9669749983ea78",
+   "id": "2a88cc8ab906d0",
    "pillar": "infra",
    "headline": "Ghana awards 5G licence to state-owned Telecel, set for rollout by December",
    "signal_url": "https://technext24.com/news/ghana-awards-5g-licence-to-state-owned-telecel/",
@@ -12102,7 +12153,7 @@
    "related_signals": []
   },
   {
-   "id": "088c0947b5d4e0",
+   "id": "b2001eba91e7d5",
    "pillar": "infra",
    "headline": "How Cyber Resilience Can Strengthen South Africa’s Sovereign AI Ambitions",
    "signal_url": "https://iafrica.com/how-cyber-resilience-can-strengthen-south-africas-sovereign-ai-ambitions/",
@@ -12119,7 +12170,7 @@
    "related_signals": []
   },
   {
-   "id": "1a1ae7b24a25ff",
+   "id": "9a68877d08ed55",
    "pillar": "infra",
    "headline": "NEC Africa lands 4G contract with Savannah Uganda, eyes financial sector",
    "signal_url": "https://www.developingtelecoms.com/telecom-technology/wireless-networks/20910-nec-africa-lands-4g-contract-with-savannah-uganda-eyes-financial-sector.html",
@@ -12136,7 +12187,7 @@
    "related_signals": []
   },
   {
-   "id": "66059713fc5b23",
+   "id": "5a2ef02ecc3187",
    "pillar": "infra",
    "headline": "NCC calls for increased investment in Nigeria's telecoms infrastructure",
    "signal_url": "https://techafricanews.com/2026/10/01/ncc-calls-for-increased-investment-in-nigerias-telecoms-infrastructure/",
@@ -12153,7 +12204,7 @@
    "related_signals": []
   },
   {
-   "id": "75973cab086b0e",
+   "id": "f6c3d7684382ac",
    "pillar": "infra",
    "headline": "Nigeria needs more data centres as AI, cloud demand surges",
    "signal_url": "https://itpulse.com.ng/nigeria-needs-more-data-centres-as-ai-cloud-demand-surges/",
@@ -12170,7 +12221,7 @@
    "related_signals": []
   },
   {
-   "id": "5643ee96e0f1b1",
+   "id": "1513f957b3898c",
    "pillar": "infra",
    "headline": "Can global energy demand for AI help electrify rural Africa?",
    "signal_url": "https://www.theafricareport.com/431971/can-global-energy-demand-for-ai-help-electrify-rural-africa/",
@@ -12187,7 +12238,7 @@
    "related_signals": []
   },
   {
-   "id": "f76a78fd712fa7",
+   "id": "97e9b4eb29c8df",
    "pillar": "infra",
    "headline": "Space-tech Satlyt raises $8m to build AI data centres in space",
    "signal_url": "https://techcabal.com/2026/10/01/the-plan-to-build-virtual-data-centres-in-space-just-got-8-million-backing/",
@@ -12204,7 +12255,7 @@
    "related_signals": []
   },
   {
-   "id": "9322e9f08d2138",
+   "id": "2fcb3b6599c609",
    "pillar": "infra",
    "headline": "Bacongo data center: solar power and AfDB backing",
    "signal_url": "https://congoinvestor.com/congo-data-center-bets-on-solar-to-win-investors/",
@@ -12221,7 +12272,7 @@
    "related_signals": []
   },
   {
-   "id": "0e2967325e62c5",
+   "id": "ffbb0b8b466ad1",
    "pillar": "infra",
    "headline": "U.S. backs AI-ready data centres in Nigeria with a $1.87m feasibility grant",
    "signal_url": "https://businessxperiment.com/us-backs-ai-data-centres-nigeria-1-87m/",
@@ -12238,7 +12289,7 @@
    "related_signals": []
   },
   {
-   "id": "1f9e639dfc8950",
+   "id": "6604e13f254fa0",
    "pillar": "infra",
    "headline": "Vodacom to deploy Nokia's passive-active massive MIMO solution",
    "signal_url": "https://www.developingtelecoms.com/telecom-technology/wireless-networks/20898-vodacom-to-deploy-nokias-passive-active-massive-mimo-solution.html",
@@ -12255,7 +12306,7 @@
    "related_signals": []
   },
   {
-   "id": "18417421b48e10",
+   "id": "aa411b1c60853b",
    "pillar": "infra",
    "headline": "Wetech Conference: Africa must build its own AI, integrate more women in decision-making",
    "signal_url": "https://techpoint.africa/coverage/wetech-conference-event-coverage/",
@@ -12272,7 +12323,7 @@
    "related_signals": []
   },
   {
-   "id": "218e54fe8e9f92",
+   "id": "f649391e6018a3",
    "pillar": "infra",
    "headline": "Nigeria AI Collective to host Africa's first shared compute and AI infrastructure conference",
    "signal_url": "https://techcabal.com/2026/09/30/nigeria-ai-collective-set-to-host-africas-first-shared-compute-and-ai-infrastructure-conference-build-2026/",
@@ -12289,7 +12340,7 @@
    "related_signals": []
   },
   {
-   "id": "bafc68341b7835",
+   "id": "72041af048703d",
    "pillar": "infra",
    "headline": "Kenya joins digital bloc as AI and data rules take shape",
    "signal_url": "https://techtrendske.co.ke/2026/09/30/kenya-digital-cooperation-organization/",
@@ -12306,7 +12357,7 @@
    "related_signals": []
   },
   {
-   "id": "2ce8f795601a97",
+   "id": "783b9342d474e6",
    "pillar": "infra",
    "headline": "Africa-US subsea cable route gets a capacity upgrade",
    "signal_url": "https://techcentral.co.za/africa-us-subsea-cable-upgrade/286683/",
@@ -12323,7 +12374,7 @@
    "related_signals": []
   },
   {
-   "id": "a2c38483cf4143",
+   "id": "ca4cb7b68d0e66",
    "pillar": "infra",
    "headline": "Continent 8 launches Johannesburg data centre, its first in Africa",
    "signal_url": "https://www.continent8.com/continent-8-technologies-launches-in-south-africa-extending-its-private-global-network-into-africa/",
@@ -12340,7 +12391,7 @@
    "related_signals": []
   },
   {
-   "id": "3a2d97db79fdf8",
+   "id": "40b84a7e348477",
    "pillar": "infra",
    "headline": "The AU’s Question: What 55 Countries Need to Agree on Before Africa Can Govern AI",
    "signal_url": "https://techafricanews.com/2026/09/29/the-aus-question-what-55-countries-need-to-agree-on-before-africa-can-govern-ai/",
@@ -12357,7 +12408,7 @@
    "related_signals": []
   },
   {
-   "id": "739cf87082d5b3",
+   "id": "165ff67402fe20",
    "pillar": "infra",
    "headline": "Africa AI solutions must grow from local soil",
    "signal_url": "https://furtherafrica.com/2026/09/29/africa-ai-solutions-must-grow-from-local-soil/",
@@ -12374,7 +12425,7 @@
    "related_signals": []
   },
   {
-   "id": "672c81f5c5f6cf",
+   "id": "bca6e7292c0cfd",
    "pillar": "infra",
    "headline": "Beyond Energy: When Sustainability Dimensions Reshape LLM Serving Decisions",
    "signal_url": "https://arxiv.org/abs/2609.35569",
@@ -12391,7 +12442,7 @@
    "related_signals": []
   },
   {
-   "id": "44460bcfe81329",
+   "id": "b12ab01b19aa52",
    "pillar": "infra",
    "headline": "Africa's AI problem isn't talent: compute scarcity is the bottleneck",
    "signal_url": "https://techcabal.com/2026/09/29/africas-ai-problem-isnt-talent/",
@@ -12408,7 +12459,7 @@
    "related_signals": []
   },
   {
-   "id": "d2c27409f073e2",
+   "id": "5f30bfd3691514",
    "pillar": "infra",
    "headline": "Nigeria's central bank data localisation push is about more than local servers",
    "signal_url": "https://techcabal.com/2026/09/29/cbn-data-localisation-nigeria-financial-data/",
@@ -12425,7 +12476,7 @@
    "related_signals": []
   },
   {
-   "id": "0e4b39293429f9",
+   "id": "61e77a92727b7b",
    "pillar": "infra",
    "headline": "Standard Bank and Huawei forge strategic cloud partnership",
    "signal_url": "https://techcentral.co.za/standard-bank-huawei-cloud-partnership/286590/",
@@ -12442,7 +12493,7 @@
    "related_signals": []
   },
   {
-   "id": "d9e4fbdfe1bbe1",
+   "id": "ffb93e6c534a9b",
    "pillar": "infra",
    "headline": "Angola Cables upgrades transatlantic capacity with Ciena technology",
    "signal_url": "https://www.developingtelecoms.com/telecom-technology/optical-fixed-networks/20897-angola-cables-upgrades-transatlantic-capacity-with-ciena-technology.html",
@@ -12459,7 +12510,7 @@
    "related_signals": []
   },
   {
-   "id": "41a12a75ebb71d",
+   "id": "d65bbd48f21ae2",
    "pillar": "infra",
    "headline": "Cape Verde Telecom and DE-CIX explore new cable route",
    "signal_url": "https://www.developingtelecoms.com/telecom-technology/optical-fixed-networks/20896-cape-verde-telecom-and-de-cix-explore-new-cable-route.html",
@@ -12476,7 +12527,7 @@
    "related_signals": []
   },
   {
-   "id": "b3d3475b43fb26",
+   "id": "f89ecd694b592b",
    "pillar": "infra",
    "headline": "Building a data hub in Egypt",
    "signal_url": "https://english.ahram.org.eg/NewsContent/50/1202/577840/AlAhram-Weekly/Economy/Building-a-data-hub-in-Egypt.aspx",
@@ -12493,7 +12544,7 @@
    "related_signals": []
   },
   {
-   "id": "b9b20513c9b4a9",
+   "id": "2ec32751abd854",
    "pillar": "infra",
    "headline": "Schneider Electric backs Kenya push to build data centre talent",
    "signal_url": "https://businessday.ng/companies/article/schneider-electric-backs-kenya-push-to-build-data-centre-talent/",
@@ -12510,7 +12561,7 @@
    "related_signals": []
   },
   {
-   "id": "64bccc840ff347",
+   "id": "89d846de7521bc",
    "pillar": "infra",
    "headline": "AI must generate $6 trillion and invent $4.2T in products to justify the data centre boom",
    "signal_url": "https://technext24.com/reviews/ai-must-generate-6-trillion-data-centre/",
@@ -12527,7 +12578,7 @@
    "related_signals": []
   },
   {
-   "id": "52506259b5de03",
+   "id": "9437855b05c368",
    "pillar": "infra",
    "headline": "Egypt and Mali deepen digital cooperation on fibre networks and AI",
    "signal_url": "https://techafricanews.com/2026/09/28/egypt-mali-digital-cooperation-fibre-networks-ai/",
@@ -12544,7 +12595,7 @@
    "related_signals": []
   },
   {
-   "id": "5a744b70a512a4",
+   "id": "2e597430c4b79e",
    "pillar": "infra",
    "headline": "Gabon pushes African priorities in global digital governance ahead of ITU PP-26",
    "signal_url": "https://techafricanews.com/2026/09/28/gabon-african-priorities-global-digital-governance-itu-pp26/",
@@ -12561,7 +12612,7 @@
    "related_signals": []
   },
   {
-   "id": "8e8d9ea978e272",
+   "id": "05976e65510f27",
    "pillar": "infra",
    "headline": "Malawi's telecoms regulator proposes AI surveillance network for Blantyre",
    "signal_url": "https://iafrica.com/malawis-telecoms-regulator-proposes-ai-surveillance-network-for-blantyre/",
@@ -12578,7 +12629,7 @@
    "related_signals": []
   },
   {
-   "id": "10f0c5e29b91d3",
+   "id": "ea773cfaaab1ae",
    "pillar": "infra",
    "headline": "TCS Sovereign Cloud Goes Live In Nairobi",
    "signal_url": "https://cioafrica.co/tcs-sovereign-cloud-goes-live-in-nairobi/",
@@ -12595,7 +12646,7 @@
    "related_signals": []
   },
   {
-   "id": "bceae0420cddc2",
+   "id": "eda8747998f289",
    "pillar": "infra",
    "headline": "UN AI Panel Member: African Countries Should Start With the Problem, Not the Technology",
    "signal_url": "https://iafrica.com/un-ai-panel-member-african-countries-should-start-with-the-problem-not-the-technology/",
@@ -12612,7 +12663,7 @@
    "related_signals": []
   },
   {
-   "id": "56c512ec06bd7a",
+   "id": "4c2e594c7427de",
    "pillar": "infra",
    "headline": "The data center Americans hate could light up rural Africa: Rockefeller's Emergent Grid",
    "signal_url": "https://www.forbes.com/sites/kensilverstein/2026/09/27/the-data-center-americans-hate-could-light-up-rural-africa/",
@@ -12629,7 +12680,7 @@
    "related_signals": []
   },
   {
-   "id": "e43a2cd64ace4a",
+   "id": "3f7e44eaa152cd",
    "pillar": "infra",
    "headline": "NVIDIA confirms Morocco in two African AI compute projects, including 500MW Casablanca factory",
    "signal_url": "https://iafrica.com/nvidia-confirms-morocco-in-two-african-ai-compute-projects-including-500mw-casablanca-factory/",
@@ -12646,7 +12697,7 @@
    "related_signals": []
   },
   {
-   "id": "b49a4e823bb985",
+   "id": "e801fb91132b97",
    "pillar": "infra",
    "headline": "Kenya cyber threats hit 11 billion as DDoS attacks double",
    "signal_url": "https://www.itnewsafrica.com/cybersecurity/kenya-cyber-threats-hit-11-billion/",
@@ -12663,7 +12714,7 @@
    "related_signals": []
   },
   {
-   "id": "90aea9b86ecadb",
+   "id": "6290ed19506883",
    "pillar": "infra",
    "headline": "Kenya signs responsible AI declaration with Anthropic",
    "signal_url": "https://iafrica.com/kenya-signs-responsible-ai-declaration-with-anthropic-days-after-being-named-in-the-companys-threat-report/",
@@ -12680,7 +12731,7 @@
    "related_signals": []
   },
   {
-   "id": "5bbd4236d16bd6",
+   "id": "e3cfd5f6856fd2",
    "pillar": "infra",
    "headline": "Rwanda's PM sets three tests for AI sovereignty: 'A market, not a participant'",
    "signal_url": "https://iafrica.com/a-market-not-a-participant-rwandas-pm-sets-three-tests-for-ai-sovereignty/",
@@ -12697,7 +12748,7 @@
    "related_signals": []
   },
   {
-   "id": "f989e887c0eb64",
+   "id": "b87045b76ac0b7",
    "pillar": "infra",
    "headline": "Lesotho is first to apply UN AI blueprint, starting with what it needs before what it builds",
    "signal_url": "https://iafrica.com/lesotho-is-first-to-apply-un-ai-blueprint-starting-with-what-it-needs-before-what-it-builds/",
@@ -12714,7 +12765,7 @@
    "related_signals": []
   },
   {
-   "id": "48af1898103639",
+   "id": "06b3cd296a3c9c",
    "pillar": "infra",
    "headline": "South Africa: Malatsi on the AI policy collapse, redraft now slipping to March",
    "signal_url": "https://iafrica.com/we-didnt-interrogate-the-bibliography-malatsi-on-the-ai-policy-collapse-and-a-redraft-now-slipping-to-march/",
@@ -12731,7 +12782,7 @@
    "related_signals": []
   },
   {
-   "id": "9135b166b07b73",
+   "id": "fc0287839c089d",
    "pillar": "infra",
    "headline": "Egypt AI Council reviews national AI strategy progress and quantum computing plans",
    "signal_url": "https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/",
@@ -12748,7 +12799,7 @@
    "related_signals": []
   },
   {
-   "id": "c76b17cdd18b1d",
+   "id": "75db3ea4c48323",
    "pillar": "infra",
    "headline": "Akamai secures $11.6 billion Anthropic cloud infrastructure commitment over seven years",
    "signal_url": "https://techafricanews.com/2026/09/25/akamai-11-6-billion-anthropic-cloud-infrastructure-commitment/",
@@ -12765,7 +12816,7 @@
    "related_signals": []
   },
   {
-   "id": "131d4647b2e0dd",
+   "id": "d41ea41df9e5ff",
    "pillar": "infra",
    "headline": "Kenya to double Ethiopian power imports as domestic grid pressures mount",
    "signal_url": "https://www.theafricareport.com/431601/kenya-to-double-ethiopian-power-imports-as-domestic-grid-pressures-mount/",
@@ -12782,7 +12833,7 @@
    "related_signals": []
   },
   {
-   "id": "6adda2780f357d",
+   "id": "7250e0a6fe6eaf",
    "pillar": "infra",
    "headline": "5,000 fibre cuts threaten Nigeria's digital economy",
    "signal_url": "https://itpulse.com.ng/5000-fibre-cuts-threaten-nigerias-digital-economy/",
@@ -12799,7 +12850,7 @@
    "related_signals": []
   },
   {
-   "id": "7f3a0e01f28527",
+   "id": "202e19cce08047",
    "pillar": "infra",
    "headline": "Coffee With Larry Yon: why Africa's tech ecosystem should be building the next NVIDIA",
    "signal_url": "https://techcabal.com/2026/09/25/larry-yon-africa-digital-trust-diaspora-investment/",
@@ -12816,7 +12867,7 @@
    "related_signals": []
   },
   {
-   "id": "a0a05d1833b2f2",
+   "id": "6f81a9bac7d537",
    "pillar": "infra",
    "headline": "Africa cannot secure agentic AI with yesterday's security model",
    "signal_url": "https://itpulse.com.ng/africa-cannot-secure-agentic-ai-with-yesterdays-security-model/",
@@ -12833,7 +12884,7 @@
    "related_signals": []
   },
   {
-   "id": "4ab14556a08b96",
+   "id": "5ee8001651173e",
    "pillar": "infra",
    "headline": "Eastern Africa countries, EAC and IGAD advance regional digital integration in Nairobi",
    "signal_url": "https://techafricanews.com/2026/09/25/eastern-africa-eac-igad-regional-digital-integration/",
@@ -12850,7 +12901,7 @@
    "related_signals": []
   },
   {
-   "id": "831b3d30d5e1d6",
+   "id": "49911f365139dd",
    "pillar": "infra",
    "headline": "Africa's 5G market is set to nearly quadruple by 2030",
    "signal_url": "https://techafricanews.com/2026/09/24/africas-5g-market-is-set-to-nearly-quadruple-by-2030-what-will-drive-the-growth/",
@@ -12867,7 +12918,7 @@
    "related_signals": []
   },
   {
-   "id": "d884440ea022c4",
+   "id": "eccebfddff373a",
    "pillar": "infra",
    "headline": "NuRAN Wireless to pilot Starlink LEO backhaul at rural Nigeria sites",
    "signal_url": "https://techafricanews.com/2026/09/24/nuran-wireless-starlink-leo-backhaul-pilot-nigeria/",
@@ -12884,7 +12935,7 @@
    "related_signals": []
   },
   {
-   "id": "80531df2fcdb4e",
+   "id": "8d452ea76eedf9",
    "pillar": "infra",
    "headline": "R4.54 billion in a week: who is paying for Africa's fibre build-out?",
    "signal_url": "https://www.itnewsafrica.com/mobile-and-telecoms/r4-54bn-in-a-week-who-is-paying-for-africas-fibre-build-out/",
@@ -12901,7 +12952,7 @@
    "related_signals": []
   },
   {
-   "id": "8443d6b827c4d7",
+   "id": "3241f3bfc63f9a",
    "pillar": "infra",
    "headline": "Egypt and NVIDIA Discuss AI Cooperation, Skills Development and Innovation",
    "signal_url": "https://techafricanews.com/2026/09/22/egypt-nvidia-discuss-ai-cooperation-skills-development-innovation/",
@@ -12918,7 +12969,7 @@
    "related_signals": []
   },
   {
-   "id": "6fd5d6abc32323",
+   "id": "efb3f81f229d92",
    "pillar": "infra",
    "headline": "Rwanda Signs MoU With ChipMango to Build Local Semiconductor Design Skills",
    "signal_url": "https://techafricanews.com/2026/09/22/rwanda-signs-mou-with-chipmango-to-build-local-semiconductor-design-skills/",
@@ -12935,7 +12986,7 @@
    "related_signals": []
   },
   {
-   "id": "3f4bcf12dc4b7b",
+   "id": "30c28a58ee0362",
    "pillar": "infra",
    "headline": "South Africa seeks UN commitment to global AI governance framework",
    "signal_url": "https://iafrica.com/south-africa-seeks-un-commitment-to-global-ai-governance-framework/",
@@ -12952,7 +13003,7 @@
    "related_signals": []
   },
   {
-   "id": "3fff0257735416",
+   "id": "47213e1a48a5fd",
    "pillar": "infra",
    "headline": "UNGA: Nigeria sets four pillars for its inclusive AI push",
    "signal_url": "https://headlines.ng/unga-nigeria-sets-four-pillars-for-its-inclusive-ai-push/",
@@ -12969,7 +13020,7 @@
    "related_signals": []
   },
   {
-   "id": "3a9127784f0af4",
+   "id": "ab910324980f27",
    "pillar": "infra",
    "headline": "Vodafone Egypt begins commercial rollout of Ericsson's AI RAN processor, among first markets after Japan",
    "signal_url": "https://iafrica.com/vodafone-egypt-begins-commercial-rollout-of-ericssons-ai-ran-processor-among-first-markets-after-japan/",
@@ -12986,7 +13037,7 @@
    "related_signals": []
   },
   {
-   "id": "93f84200ea7f1b",
+   "id": "2064093cbb4c20",
    "pillar": "infra",
    "headline": "Offshore wind is pitched to power Cape Town's data centres. It won't arrive until 2035",
    "signal_url": "https://iafrica.com/offshore-wind-is-pitched-to-power-cape-towns-data-centres-it-wont-arrive-until-2035/",
@@ -13003,7 +13054,7 @@
    "related_signals": []
   },
   {
-   "id": "cfad814d1d2c84",
+   "id": "a9747aa61db5b5",
    "pillar": "infra",
    "headline": "Kenya and Stanford's Hoover Institution Sign Five-Year Deal on AI and Data Governance",
    "signal_url": "https://techafricanews.com/2026/09/21/kenya-stanford-hoover-institution-ai-data-governance-deal/",
@@ -13020,7 +13071,7 @@
    "related_signals": []
   },
   {
-   "id": "9aa807068505e5",
+   "id": "79fa6ac22e6cd2",
    "pillar": "infra",
    "headline": "Resilience, Routing and Data Sovereignty in African Networks",
    "signal_url": "https://techafricanews.com/2026/09/21/resilience-routing-and-data-sovereignty-in-african-networks/",
@@ -13037,7 +13088,7 @@
    "related_signals": []
   },
   {
-   "id": "ff4f898e490038",
+   "id": "c5d20b8b6405b0",
    "pillar": "infra",
    "headline": "Digital Parks Africa To Build Tier IV Carrier-Neutral Data Centre In Lagos",
    "signal_url": "https://independent.ng/digital-parks-africa-to-build-tier-iv-carrier-neutral-data-centre-in-lagos/",
@@ -13054,7 +13105,7 @@
    "related_signals": []
   },
   {
-   "id": "cb54cafce11338",
+   "id": "0ec046a4398a6a",
    "pillar": "infra",
    "headline": "Vertiv, Pinnacle ICT in distribution deal to expand data infrastructure reach in Southern Africa",
    "signal_url": "https://techtrendske.co.ke/2026/09/21/vertiv-pinnacle-ict-in-distribution-deal-to-expand-data-infrastructure-reach-in-southern-africa/",
@@ -13071,7 +13122,7 @@
    "related_signals": []
   },
   {
-   "id": "4853aa3e92ba15",
+   "id": "acc282b3502ebe",
    "pillar": "infra",
    "headline": "From Enablement to Execution, Egypt's AI Ecosystem Reaches Production Scale",
    "signal_url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
@@ -13096,7 +13147,7 @@
    "related_signals": []
   },
   {
-   "id": "06072e7c73651e",
+   "id": "f50a1db7bc4a32",
    "pillar": "infra",
    "headline": "The 14-week race to move Nigeria's bank data home",
    "signal_url": "https://businessday.ng/technology/article/the-14-week-race-to-move-nigerias-bank-data-home/",
@@ -13113,7 +13164,7 @@
    "related_signals": []
   },
   {
-   "id": "c6f39caa30e7eb",
+   "id": "580d2ee6116742",
    "pillar": "infra",
    "headline": "FSCA Holds Off on AI Rules Until Global Standards Body Reports",
    "signal_url": "https://iafrica.com/fsca-holds-off-on-ai-rules-until-global-standards-body-reports/",
@@ -13130,7 +13181,7 @@
    "related_signals": []
   },
   {
-   "id": "ed43a2ce452df9",
+   "id": "38dea425a186ad",
    "pillar": "infra",
    "headline": "Context-Aware Pre-Deployment Evaluation of AI Systems: A Regulatory Framework for Nigerian Fintech",
    "signal_url": "https://arxiv.org/abs/2609.24016",
@@ -13147,7 +13198,7 @@
    "related_signals": []
   },
   {
-   "id": "7cb057825eec7e",
+   "id": "d8a3cccd08aeb7",
    "pillar": "infra",
    "headline": "What digital sovereignty and data localisation should mean for Africa",
    "signal_url": "https://africa.hyperscalers.news/data-center/what-digital-sovereignty-and-data-localisation-should-mean-for-africa/",
@@ -13164,7 +13215,7 @@
    "related_signals": []
   },
   {
-   "id": "d07d03ac72d75b",
+   "id": "bdcdfd14e584a2",
    "pillar": "infra",
    "headline": "Algeria reviews AI infrastructure, model and training implementation plans",
    "signal_url": "https://www.mesrs.dz/2026/09/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D9%88%D8%A7%D9%84%D8%A8%D8%AD%D8%AB-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A-%D9%8A%D8%AA%D8%B1/",
@@ -13181,7 +13232,7 @@
    "related_signals": []
   },
   {
-   "id": "b9938a4b5f1df9",
+   "id": "e137fab7ef42a0",
    "pillar": "infra",
    "headline": "Cassava Technologies CEO calls for African ownership of AI compute infrastructure",
    "signal_url": "https://techreviewafrica.com/news/7356/cassava-technologies-ceo-calls-for-african-ownership-of-ai-compute-infrastructure",
@@ -13198,7 +13249,7 @@
    "related_signals": []
   },
   {
-   "id": "48e682a70aec19",
+   "id": "9cb7c2cd0ae735",
    "pillar": "infra",
    "headline": "Data centre deal: Cape Town forced back to the drawing board",
    "signal_url": "https://www.dailymaverick.co.za/article/2026-09-20-data-centre-deal-cape-town-forced-back-to-the-drawing-board/",
@@ -13219,7 +13270,7 @@
    "related_signals": []
   },
   {
-   "id": "86ccfb5630bf53",
+   "id": "2e8f0c01805e9f",
    "pillar": "infra",
    "headline": "Datatec is riding the global AI infrastructure wave from the JSE",
    "signal_url": "https://www.dailymaverick.co.za/article/2026-09-20-datatec-is-riding-the-global-ai-infrastructure-wave-from-the-jse/",
@@ -13236,7 +13287,7 @@
    "related_signals": []
   },
   {
-   "id": "37d28cbdcad6c3",
+   "id": "709d1a2c95b8e1",
    "pillar": "infra",
    "headline": "Beyond PUE: A Local Impact Audit Framework for Data Center Environmental Accountability",
    "signal_url": "https://arxiv.org/abs/2609.23421",
@@ -13253,7 +13304,7 @@
    "related_signals": []
   },
   {
-   "id": "a4f8b165a86539",
+   "id": "7e5ce173e88a8f",
    "pillar": "infra",
    "headline": "Cape Town Groups File Legal Challenge Against Equinix Data Centres, Demand National Moratorium",
    "signal_url": "https://iafrica.com/cape-town-groups-file-legal-challenge-against-equinix-data-centres-demand-national-moratorium/",
@@ -13270,7 +13321,7 @@
    "related_signals": []
   },
   {
-   "id": "4b6d2170034f9b",
+   "id": "e1ef0e4ff84951",
    "pillar": "infra",
    "headline": "Egypt's Synapse Analytics Raises $13m Series A Led by Partech",
    "signal_url": "https://iafrica.com/egypts-synapse-analytics-raises-13m-series-a-led-by-partech/",
@@ -13287,7 +13338,7 @@
    "related_signals": []
   },
   {
-   "id": "6801b3d082942c",
+   "id": "fedeaafdb58894",
    "pillar": "infra",
    "headline": "South Africa's data centre boom gets push from government",
    "signal_url": "https://mybroadband.co.za/news/cloud-hosting/666504-south-africas-data-centre-boom-gets-push-from-government.html",
@@ -13304,7 +13355,7 @@
    "related_signals": []
   },
   {
-   "id": "68cfd53fe414bc",
+   "id": "db3c0580c3b9d4",
    "pillar": "infra",
    "headline": "'Africa needs data centre surge' to keep up with the digital economy",
    "signal_url": "https://www.businessday.co.za/business-times/2026-09-19-africa-needs-data-centre-surge-to-keep-up-with-the-digital-economy/",
@@ -13321,7 +13372,7 @@
    "related_signals": []
   },
   {
-   "id": "1990acec253f74",
+   "id": "31c9a3c7cf56af",
    "pillar": "infra",
    "headline": "Mozambique Drafts AI Rules for Schools and Universities, Due at Cabinet Before Year End",
    "signal_url": "https://iafrica.com/mozambique-drafts-ai-rules-for-schools-and-universities-due-at-cabinet-before-year-end/",
@@ -13338,7 +13389,7 @@
    "related_signals": []
   },
   {
-   "id": "8b791ca78bbd86",
+   "id": "3259178cb18c1b",
    "pillar": "infra",
    "headline": "VEA Capital Partners Invests in South African AI Firm Bonisa AI",
    "signal_url": "https://techafricanews.com/2026/09/18/vea-capital-partners-invests-south-african-ai-firm-bonisa-ai/",
@@ -13355,7 +13406,7 @@
    "related_signals": []
   },
   {
-   "id": "7497e25050a14d",
+   "id": "246295cd5de8fb",
    "pillar": "infra",
    "headline": "Huawei Unveils New AI Computing Technologies as Middle East Demand Grows",
    "signal_url": "https://techafricanews.com/2026/09/18/huawei-unveils-new-ai-computing-technologies-as-middle-east-demand-grows/",
@@ -13372,7 +13423,7 @@
    "related_signals": []
   },
   {
-   "id": "49521bbb41b706",
+   "id": "32f1c742119c79",
    "pillar": "infra",
    "headline": "Stears: West Africa's data centre gap is bigger than most portfolios reflect",
    "signal_url": "https://www.cnbcafrica.com/media/7789743486778/stears-west-africas-data-centre-gap-is-bigger-than-most-portfolios-reflect",
@@ -13389,7 +13440,7 @@
    "related_signals": []
   },
   {
-   "id": "501b5e267aaa48",
+   "id": "5625e678e421c9",
    "pillar": "infra",
    "headline": "Inside Nigeria's Plan to Build a Regional Cloud Economy from Investment to Sovereignty",
    "signal_url": "https://techafricanews.com/2026/09/17/nigeria-national-digital-cloud-policy-750-million/",
@@ -13406,7 +13457,7 @@
    "related_signals": []
   },
   {
-   "id": "b8b669798d8607",
+   "id": "e569e080d72f64",
    "pillar": "infra",
    "headline": "South Africa sees offshore wind powering AI data centres",
    "signal_url": "https://techcentral.co.za/offshore-wind-framework-ai-data-centres-south-africa/286229/",
@@ -13423,7 +13474,7 @@
    "related_signals": []
   },
   {
-   "id": "d2c2951298d6ec",
+   "id": "afefeea21549a6",
    "pillar": "infra",
    "headline": "South Africa's Datacentre And AI Boom Needs To Be Treated Like Critical Infrastructure",
    "signal_url": "https://techfinancials.co.za/2026/09/17/south-africas-datacentre-and-ai-boom-needs-to-be-treated-like-critical-infrastructure/",
@@ -13440,7 +13491,7 @@
    "related_signals": []
   },
   {
-   "id": "5a3d98d0ebbdc7",
+   "id": "994df478f95e66",
    "pillar": "infra",
    "headline": "UNDP reports lessons from AI compute deployments in six African countries",
    "signal_url": "https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use",
@@ -13457,7 +13508,7 @@
    "related_signals": []
   },
   {
-   "id": "d9b194e6b70511",
+   "id": "22b0a3fac241fc",
    "pillar": "infra",
    "headline": "Terrahex targets Nigeria's compute gap with modular power-driven infrastructure",
    "signal_url": "https://itpulse.com.ng/terrahex-targets-nigerias-compute-gap-with-modular-power-driven-infrastructure/",
@@ -13474,7 +13525,7 @@
    "related_signals": []
   },
   {
-   "id": "cd2c43fcb28058",
+   "id": "24b88f51f28323",
    "pillar": "infra",
    "headline": "Senegal Secures $300m Cybastion Commitment for Digitalisation Projects",
    "signal_url": "https://techafricanews.com/2026/09/16/senegal-300m-cybastion-digitalisation-projects/",
@@ -13493,7 +13544,7 @@
    "related_signals": []
   },
   {
-   "id": "fe9940b5062da5",
+   "id": "84dd944a62d1bd",
    "pillar": "infra",
    "headline": "Kenya ICTA Opens Tender to Expand National Fibre and Cross-Border Connectivity",
    "signal_url": "https://techafricanews.com/2026/09/16/kenya-icta-tender-national-fibre-cross-border-connectivity/",
@@ -13510,7 +13561,7 @@
    "related_signals": []
   },
   {
-   "id": "d0fea80822a318",
+   "id": "a71103069c3c92",
    "pillar": "infra",
    "headline": "Africa needs better data to unlock AI's promise",
    "signal_url": "https://www.cnbcafrica.com/2026/africa-needs-better-data-to-unlock-ais-promise",
@@ -13527,7 +13578,7 @@
    "related_signals": []
   },
   {
-   "id": "f18eaaed530b71",
+   "id": "9c380c723318ce",
    "pillar": "infra",
    "headline": "Africa's Data-Centre Expansion Accelerates as New Investment Targets AI and Digital Infrastructure",
    "signal_url": "https://www.techmanly.com/africas-data-centre-expansion-accelerates-as-new-investment-targets-ai-and-digital-infrastructure/",
@@ -13544,7 +13595,7 @@
    "related_signals": []
   },
   {
-   "id": "42b9f256719820",
+   "id": "78eac5b7dd19ce",
    "pillar": "infra",
    "headline": "Ramaphosa Proposes BRICS Mechanism for Independent Scientific Evaluation of AI",
    "signal_url": "https://iafrica.com/ramaphosa-proposes-brics-mechanism-for-independent-scientific-evaluation-of-ai-citing-anthropic/",
@@ -13561,7 +13612,7 @@
    "related_signals": []
   },
   {
-   "id": "3070cb40333fc7",
+   "id": "c9e4c152caaf13",
    "pillar": "infra",
    "headline": "Housing Assembly raises concerns over Cape Town data centres' water, power usage",
    "signal_url": "https://www.ewn.co.za/2026/09/15/housing-assembly-raises-concerns-over-cape-town-data-centres-water-power-usage",
@@ -13578,7 +13629,7 @@
    "related_signals": []
   },
   {
-   "id": "ba34df9a429a8f",
+   "id": "70ecd102742560",
    "pillar": "infra",
    "headline": "Submer and Edgecore partner on AI-ready data centre infrastructure across META",
    "signal_url": "https://techafricanews.com/2026/09/14/submer-and-edgecore-partner-on-ai-ready-data-centre-infrastructure-across-meta/",
@@ -13595,7 +13646,7 @@
    "related_signals": []
   },
   {
-   "id": "7a6fbd970e7cd7",
+   "id": "91c8d02c0eaa5f",
    "pillar": "infra",
    "headline": "Cote d'Ivoire To Build Its First State-Owned Data Centre",
    "signal_url": "https://cioafrica.co/cote-divoire-to-build-its-first-state-owned-data-centre/",
@@ -13612,7 +13663,7 @@
    "related_signals": []
   },
   {
-   "id": "a0c9347d0d8c3e",
+   "id": "5b1abf97e4fa7c",
    "pillar": "infra",
    "headline": "Cassava and Vodafone bring Nvidia-powered AI data centre to Egypt",
    "signal_url": "https://techpoint.africa/insight/techpoint-digest-1431/",
@@ -13629,7 +13680,7 @@
    "related_signals": []
   },
   {
-   "id": "823d6fabe908a3",
+   "id": "94d086d72d8c0d",
    "pillar": "infra",
    "headline": "ETCInfer: An Energy-efficient Thermal-aware Cooling-joint Scheduler for LLM Inference in AI Datacenters",
    "signal_url": "https://arxiv.org/abs/2609.15230",
@@ -13646,7 +13697,7 @@
    "related_signals": []
   },
   {
-   "id": "f1ee9d9c19b7b7",
+   "id": "8c4da75117c604",
    "pillar": "infra",
    "headline": "Could Africa be the next AI frontier as US and Europe hit limits?",
    "signal_url": "https://www.foxnews.com/world/could-africa-next-ai-frontier-us-europe-hit-limits",
@@ -13663,7 +13714,7 @@
    "related_signals": []
   },
   {
-   "id": "5ed574af4d6884",
+   "id": "734630f65b0bf2",
    "pillar": "infra",
    "headline": "Tinubu turns to BRICS for AI, digital infrastructure and critical minerals investment",
    "signal_url": "https://nairametrics.com/2026/09/13/tinubu-turns-to-brics-for-ai-digital-infrastructure-and-critical-minerals-investment/",
@@ -13680,7 +13731,7 @@
    "related_signals": []
   },
   {
-   "id": "9fb9b4a5b36899",
+   "id": "2b72c81ab6c30f",
    "pillar": "infra",
    "headline": "Egypt Begins OECD Work on a National AI Strategy - While Already Running One",
    "signal_url": "https://iafrica.com/egypt-begins-oecd-work-on-a-national-ai-strategy-while-already-running-one/",
@@ -13697,7 +13748,7 @@
    "related_signals": []
   },
   {
-   "id": "3c09dbf416f4b6",
+   "id": "46926c820bb87d",
    "pillar": "infra",
    "headline": "Algeria Creates Five Committees to Implement AI Strategy, With Large Language Models Given Its Own",
    "signal_url": "https://iafrica.com/algeria-creates-five-committees-to-implement-ai-strategy-with-large-language-models-given-its-own/",
@@ -13714,7 +13765,7 @@
    "related_signals": []
   },
   {
-   "id": "2ae0ced6a72181",
+   "id": "40e29f06f3fb85",
    "pillar": "infra",
    "headline": "Vodafone Egypt and Cassava Launch Egypt's First AI Factory as Cairo Courts Multiple Infrastructure Partners",
    "signal_url": "https://iafrica.com/vodafone-egypt-and-cassava-launch-egypts-first-ai-factory-as-cairo-courts-multiple-infrastructure-partners/",
@@ -13731,7 +13782,7 @@
    "related_signals": []
   },
   {
-   "id": "9185282e5e74dd",
+   "id": "f8c580693077a3",
    "pillar": "infra",
    "headline": "NITDA outlines policy framework to unlock data centre investment in Nigeria",
    "signal_url": "https://www.worldstagenews.com/nitda-outlines-policy-framework-to-unlock-data-centre-investment-in-nigeria/",
@@ -13748,7 +13799,7 @@
    "related_signals": []
   },
   {
-   "id": "122872c430c010",
+   "id": "85d7a10f70e35a",
    "pillar": "infra",
    "headline": "UduTech adds Baro AI to expand Africa's GPU supply",
    "signal_url": "https://techcabal.com/2026/09/11/udutech-adds-baro-ai-to-expand-gpu-supply/",
@@ -13765,7 +13816,7 @@
    "related_signals": []
   },
   {
-   "id": "8c179e3aee45b7",
+   "id": "485ac36677a317",
    "pillar": "infra",
    "headline": "Digital Parks Africa enters Nigeria's data centre race with Lagos facility",
    "signal_url": "https://nairametrics.com/2026/09/11/digital-parks-africa-enters-nigerias-data-centre-race-with-lagos-facility/",
@@ -13782,7 +13833,7 @@
    "related_signals": []
   },
   {
-   "id": "fce22b04184e84",
+   "id": "6dbe8f2adfd5ab",
    "pillar": "infra",
    "headline": "Kenya, UNDP move to operationalise sovereign AI infrastructure at Konza Data Centre",
    "signal_url": "https://techreviewafrica.com/news/7149/kenya-undp-move-to-operationalise-sovereign-ai-infrastructure-at-konza-data-centre",
@@ -13799,7 +13850,7 @@
    "related_signals": []
   },
   {
-   "id": "72b8676c1604d8",
+   "id": "fdf0eec9efb3bc",
    "pillar": "infra",
    "headline": "Tanzania plans AI data centres as Korea funds digital training",
    "signal_url": "https://streamlinefeed.co.ke/news/tanzania-plans-ai-data-centres-as-korea-funds-digital-training",
@@ -13816,7 +13867,7 @@
    "related_signals": []
   },
   {
-   "id": "ddc496abedf760",
+   "id": "344ce81e246dbe",
    "pillar": "infra",
    "headline": "Africa's AI ambition hits an expensive reality of compute, power, compliance",
    "signal_url": "https://businessday.ng/technology/article/africas-ai-ambition-hits-an-expensive-reality-of-compute-power-compliance/",
@@ -13833,7 +13884,7 @@
    "related_signals": []
   },
   {
-   "id": "7aea74093c9965",
+   "id": "2e6169dd837521",
    "pillar": "infra",
    "headline": "Africa's Billion Dollar AI Data Centre Rush Is Real. Its Power and Water Aren't.",
    "signal_url": "https://iafrikan.com/africas-billion-dollar-ai-data-centre-rush-is-real-its-power-and-water-arent/",
@@ -13850,7 +13901,7 @@
    "related_signals": []
   },
   {
-   "id": "ed80f6ddd6cf37",
+   "id": "0e8a59993b9a4b",
    "pillar": "infra",
    "headline": "Nigeria Links Data Sovereignty, AI to Fresh Digital Infrastructure Investment",
    "signal_url": "https://allafrica.com/stories/202609100269.html",
@@ -13867,7 +13918,7 @@
    "related_signals": []
   },
   {
-   "id": "36657781815cdb",
+   "id": "22505a4b73127d",
    "pillar": "infra",
    "headline": "AMACO taps GE Vernova for Mombasa AI data centre",
    "signal_url": "https://techtrendske.co.ke/2026/09/10/amaco-ge-vernova-mombasa-ai-data-centre/",
@@ -13884,7 +13935,7 @@
    "related_signals": []
   },
   {
-   "id": "6639652685076e",
+   "id": "b7c3ba578aa667",
    "pillar": "infra",
    "headline": "At ITW Africa 2026, Africa's Digital Future Came Down to Power, Fibre and Execution",
    "signal_url": "https://www.kenyaengineer.co.ke/at-itw-africa-2026-africas-digital-future-came-down-to-power-fibre-and-execution/",
@@ -13901,7 +13952,7 @@
    "related_signals": []
   },
   {
-   "id": "576b1ebf220fba",
+   "id": "5668eb0c0b0c01",
    "pillar": "infra",
    "headline": "Burundi presents AI infrastructure and skills priorities at KOAFEC",
    "signal_url": "https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-a-seoul-le-burundi-presente-ses-ambitions",
@@ -13918,7 +13969,7 @@
    "related_signals": []
   },
   {
-   "id": "1a108e12e207b3",
+   "id": "9fec01945b3ca0",
    "pillar": "infra",
    "headline": "Morocco Moves AI Strategy Into Implementation, Targets MAD 100 Bln in GDP Value by 2030",
    "signal_url": "https://www.maghrebdailynews.com/15755-morocco-moves-ai-strategy-into-implementation-targets-mad-100-bln-in-gdp-value-by-2030.html",
@@ -13935,7 +13986,7 @@
    "related_signals": []
   },
   {
-   "id": "76a8426e0d3fec",
+   "id": "85061e56196ddb",
    "pillar": "infra",
    "headline": "Egypt moves to build $1bn AI data centre with Nvidia tech",
    "signal_url": "https://www.arabnews.com/business/egypt-moves-to-build-1bn-ai-data-centre-with-nvidia-tech-3001048",
@@ -13952,7 +14003,7 @@
    "related_signals": []
   },
   {
-   "id": "5839ab03404f02",
+   "id": "4086b30d96d21e",
    "pillar": "infra",
    "headline": "CA plans standalone licence for data centres in Kenya",
    "signal_url": "https://www.the-star.co.ke/sasa/technology/2026-09-08-ca-plans-standalone-licence-for-data-centres-in-kenya",
@@ -13969,7 +14020,7 @@
    "related_signals": []
   },
   {
-   "id": "3159db82d4169e",
+   "id": "4c703da533f503",
    "pillar": "infra",
    "headline": "Egypt Partners With Vodafone, Elsewedy and Cassava on $1bn Data Centre",
    "signal_url": "https://techafricanews.com/2026/09/08/egypt-vodafone-elsewedy-cassava-1bn-data-centre/",
@@ -13991,7 +14042,7 @@
    "related_signals": []
   },
   {
-   "id": "a32bb55b326cf6",
+   "id": "1f925f2e729d99",
    "pillar": "infra",
    "headline": "South Africa Pushes Subsea Cable, AI and Digital Skills Agenda to Expand Connectivity",
    "signal_url": "https://techafricanews.com/2026/09/08/south-africa-subsea-cable-ai-digital-skills-connectivity/",
@@ -14008,7 +14059,7 @@
    "related_signals": []
   },
   {
-   "id": "37c043e9abe5cd",
+   "id": "02f83524706873",
    "pillar": "infra",
    "headline": "HeRo: History-Aware Routing for Efficient LLM Inference",
    "signal_url": "https://arxiv.org/abs/2609.08189",
@@ -14025,7 +14076,7 @@
    "related_signals": []
   },
   {
-   "id": "8f6b0269506ca7",
+   "id": "be984a02be2ca0",
    "pillar": "infra",
    "headline": "A Measurement Study of LLM Inference Trade-offs Across Edge Continuum Hardware",
    "signal_url": "https://arxiv.org/abs/2609.08307",
@@ -14042,7 +14093,7 @@
    "related_signals": []
   },
   {
-   "id": "e4e717370ea170",
+   "id": "3049a8792217f0",
    "pillar": "infra",
    "headline": "Digital Realty Opens 6.4MW Nairobi Two Data Center to Expand East Africa Capacity",
    "signal_url": "https://techafricanews.com/2026/09/07/digital-realty-opens-6-4mw-nairobi-two-data-center-east-africa/",
@@ -14064,7 +14115,7 @@
    "related_signals": []
   },
   {
-   "id": "9f342889a51e9e",
+   "id": "e32725d19cfde0",
    "pillar": "infra",
    "headline": "Unified AI Gateway: A Framework for Joint Model Routing and KV Cache Management",
    "signal_url": "https://arxiv.org/abs/2609.06940",
@@ -14081,7 +14132,7 @@
    "related_signals": []
   },
   {
-   "id": "919b08eab9fc02",
+   "id": "811449e11828ff",
    "pillar": "infra",
    "headline": "Civil society groups in South Africa call for temporary halt to new data centres",
    "signal_url": "https://www.africanews.com/2026/09/04/civil-society-groups-in-south-africa-call-for-temporary-halt-to-new-data-centres/",
@@ -14098,7 +14149,7 @@
    "related_signals": []
   },
   {
-   "id": "0f6a2a2823ab21",
+   "id": "c5eed7f2b23667",
    "pillar": "infra",
    "headline": "Egypt Explores Major Data Centre and AI Hub Project With Heka Data, US consortium",
    "signal_url": "https://techafricanews.com/2026/09/04/egypt-explores-major-data-centre-ai-hub-project-heka-data-us-consortium/",
@@ -14119,7 +14170,7 @@
    "related_signals": []
   },
   {
-   "id": "5fca21160d0c30",
+   "id": "4ad7adccc74d9f",
    "pillar": "infra",
    "headline": "Orange Joins ReuNION Submarine Cable Project to Strengthen La Réunion-South Africa Connectivity",
    "signal_url": "https://techafricanews.com/2026/09/03/orange-joins-reunion-submarine-cable-project-to-strengthen-la-reunion-south-africa-connectivity/",
@@ -14136,7 +14187,7 @@
    "related_signals": []
   },
   {
-   "id": "00c992342fe3f6",
+   "id": "70f4fd49d420c1",
    "pillar": "infra",
    "headline": "NITDA DG urges Africa to move from AI policy talks to action on compute",
    "signal_url": "https://nationalfocusng.com/2026/09/02/nitda-dg-urges-africa-to-move-from-ai-policy-talks-to-action/",
@@ -14153,7 +14204,7 @@
    "related_signals": []
   },
   {
-   "id": "8a4d9437d37888",
+   "id": "c12b2ba1cd419f",
    "pillar": "infra",
    "headline": "Cybastion Cameroon investment anchors a $75m AI hub",
    "signal_url": "https://furtherafrica.com/2026/09/02/cybastion-cameroon-investment-anchors-a-75m-ai-hub/",
@@ -14175,7 +14226,7 @@
    "related_signals": []
   },
   {
-   "id": "24390b337a0324",
+   "id": "6873ee40590f33",
    "pillar": "infra",
    "headline": "AI data centres could make electricity more expensive",
    "signal_url": "https://groundup.org.za/article/south-africas-data-centre-build-could-deepen-energy-crisis/",
@@ -14192,7 +14243,7 @@
    "related_signals": []
   },
   {
-   "id": "26ac68a1a1592f",
+   "id": "47245a4f038a26",
    "pillar": "infra",
    "headline": "NITDA DG Urges Nigeria to Prioritise AI Sovereignty at GITEX 2026",
    "signal_url": "https://techafricanews.com/2026/09/01/nitda-dg-urges-nigeria-to-prioritise-ai-sovereignty-at-gitex-2026/",
@@ -14209,7 +14260,7 @@
    "related_signals": []
   },
   {
-   "id": "ede99055503b12",
+   "id": "1bddb134fd0fef",
    "pillar": "infra",
    "headline": "Wiocc lands US$300-million from Saudi and African backers",
    "signal_url": "https://techcentral.co.za/wiocc-300-million-afc-vision-invest/285628/",
@@ -14230,7 +14281,7 @@
    "related_signals": []
   },
   {
-   "id": "aff996a886896c",
+   "id": "e200d14b10417f",
    "pillar": "infra",
    "headline": "NSIA bets on 100MW AI data centre to power Nigeria's digital economy",
    "signal_url": "https://businessday.ng/technology/article/nsia-bets-on-100mw-ai-data-centre-to-power-nigerias-digital-economy/",
@@ -14247,7 +14298,7 @@
    "related_signals": []
   },
   {
-   "id": "7bc7a20b1468c3",
+   "id": "6f8ccf4de7f21f",
    "pillar": "infra",
    "headline": "Deploying DeepSeek 175B Locally on a Single Consumer-Grade RTX 4060 Laptop with 32GB RAM for 200k-Scale Protein-Ligand Virtual Screening",
    "signal_url": "https://arxiv.org/abs/2608.30877",
@@ -14264,7 +14315,7 @@
    "related_signals": []
   },
   {
-   "id": "7ac106ee0cf666",
+   "id": "34f6730a8cb06e",
    "pillar": "infra",
    "headline": "US-China data centre race heats up across Africa",
    "signal_url": "https://furtherafrica.com/2026/08/31/us-and-china-race-for-africas-next-strategic-infrastructure-data-centres/",
@@ -14281,7 +14332,7 @@
    "related_signals": []
   },
   {
-   "id": "32893e617fffdb",
+   "id": "0579bc9d99a43a",
    "pillar": "infra",
    "headline": "SA data centre operators push back amid sustainability probe",
    "signal_url": "https://www.itweb.co.za/article/sa-data-centre-operators-push-back-amid-sustainability-probe/5yONP7EroNQMXWrb",
@@ -14298,7 +14349,7 @@
    "related_signals": []
   },
   {
-   "id": "ebb12293b52771",
+   "id": "7447eec5b5a9ad",
    "pillar": "infra",
    "headline": "MTN Partners UAE Data Centre Platform to Accelerate AI-Ready Infrastructure Across Africa",
    "signal_url": "https://techafricanews.com/2026/08/27/mtn-uae-data-centre-platform-ai-ready-infrastructure-africa/",
@@ -14315,7 +14366,7 @@
    "related_signals": []
   },
   {
-   "id": "5979dea8d2effc",
+   "id": "c2cb72432d4884",
    "pillar": "infra",
    "headline": "UAE Tycoon Al Ashram, MTN Agree to Build Africa AI Data Centers",
    "signal_url": "https://www.bloomberg.com/news/articles/2026-08-27/uae-tycoon-al-ashram-mtn-agree-to-build-africa-ai-data-centers",
@@ -14332,7 +14383,7 @@
    "related_signals": []
   },
   {
-   "id": "a0a0c39f9e9b42",
+   "id": "a59d94614aed95",
    "pillar": "infra",
    "headline": "Why Africa's AI Adoption Will Depend on Secure and Reliable Cloud Infrastructure",
    "signal_url": "https://techeconomy.ng/why-africas-ai-adoption-will-depend-on-secure-and-reliable-cloud-infrastructure",
@@ -14349,7 +14400,7 @@
    "related_signals": []
   },
   {
-   "id": "1f46b1b84809a3",
+   "id": "e23ffa8ee43129",
    "pillar": "infra",
    "headline": "Cassava AI Factory Ranks 36th Globally on TOP500 Supercomputer List",
    "signal_url": "https://techafricanews.com/2026/08/26/cassava-ai-factory-ranks-36th-top500/",
@@ -14372,7 +14423,7 @@
    "related_signals": []
   },
   {
-   "id": "30e394c33dce33",
+   "id": "61b0867795acba",
    "pillar": "infra",
    "headline": "Huawei AI Data Center Bid in Egypt Spurs US to Mull Counteroffer",
    "signal_url": "https://www.bloomberg.com/news/articles/2026-08-26/huawei-egypt-ai-ascend-chips-test-us-tech-diplomacy-nvidia-amd-microsoft",
@@ -14389,7 +14440,7 @@
    "related_signals": []
   },
   {
-   "id": "bed64e69043ba3",
+   "id": "7cceaefe8cb4e7",
    "pillar": "infra",
    "headline": "MTN to develop 150MW AI data centres in Nigeria, South Africa with UAE-backed investor",
    "signal_url": "https://nairametrics.com/2026/08/26/mtn-to-develop-150mw-ai-data-centres-in-nigeria-south-africa-with-uae-backed-investor/",
@@ -14411,7 +14462,7 @@
    "related_signals": []
   },
   {
-   "id": "3985a07cc37ad0",
+   "id": "d38c3e65dfcc55",
    "pillar": "infra",
    "headline": "Nigeria Targets $750m in Cloud and AI Infrastructure Investment Within 24 Months Under New Digital Cloud Policy",
    "signal_url": "https://iafrica.com/nigeria-targets-750m-in-cloud-and-ai-infrastructure-investment-within-24-months-under-new-digital-cloud-policy/",
@@ -14428,7 +14479,7 @@
    "related_signals": []
   },
   {
-   "id": "02a66966c9039d",
+   "id": "cdafccc962c7c3",
    "pillar": "infra",
    "headline": "Approved in the dark — the hidden environmental toll of SA's data centre boom",
    "signal_url": "https://www.dailymaverick.co.za/article/2026-08-24-approved-in-the-dark-the-hidden-environmental-toll-of-sa-s-data-centre-boom/",
@@ -14445,7 +14496,7 @@
    "related_signals": []
   },
   {
-   "id": "14ec91d17b5379",
+   "id": "08b8c25725573d",
    "pillar": "infra",
    "headline": "The Biggest Threat to Africa's Data Centre Race Is the Grid",
    "signal_url": "https://www.thisdaylive.com/2026/08/24/the-biggest-threat-to-africas-data-centre-race-is-the-grid/",
@@ -14462,7 +14513,7 @@
    "related_signals": []
   },
   {
-   "id": "a05c039eecd073",
+   "id": "76a1e1312cf734",
    "pillar": "infra",
    "headline": "AMACO plans Kenya data centre; Terra closes $52M Seed round",
    "signal_url": "https://www.africaainews.com/p/amaco-plans-kenya-data-centre-terra",
@@ -14479,7 +14530,7 @@
    "related_signals": []
   },
   {
-   "id": "e3634155ee1169",
+   "id": "fc27f37a8b2178",
    "pillar": "infra",
    "headline": "NITDA and Budget Office Inaugurate Committee to Drive Nigeria's Sovereign Cloud Initiative",
    "signal_url": "https://techafricanews.com/2026/08/21/nitda-budget-office-inaugurate-committee-nigeria-sovereign-cloud-initiative/",
@@ -14496,7 +14547,7 @@
    "related_signals": []
   },
   {
-   "id": "6ed4ce9b4584ee",
+   "id": "85a125da575fe7",
    "pillar": "infra",
    "headline": "Ethio telecom Enters Active Deployment of Africa-Middle East Fibre Corridor",
    "signal_url": "https://techafricanews.com/2026/08/20/ethio-telecom-active-deployment-africa-middle-east-fibre-corridor/",
@@ -14513,7 +14564,7 @@
    "related_signals": []
   },
   {
-   "id": "cfd5335d780a00",
+   "id": "e796f287c928bb",
    "pillar": "infra",
    "headline": "Nigeria hopes for solid sovereign AI ecosystem, as OADC Analytics Intelligence seal cloud solutions deal",
    "signal_url": "https://www.vanguardngr.com/2026/08/nigeria-hopes-for-solid-sovereign-ai-ecosystem-as-oadc-analytics-intelligence-seal-cloud-solutions-deal/",
@@ -14530,7 +14581,7 @@
    "related_signals": []
   },
   {
-   "id": "c197a139cf96f9",
+   "id": "7e51f11b0f3418",
    "pillar": "infra",
    "headline": "Firms Partner to Boost Africa's AI Computing Capacity",
    "signal_url": "https://punchng.com/firms-partner-to-boost-africas-ai-computing-capacity/",
@@ -14547,7 +14598,7 @@
    "related_signals": []
   },
   {
-   "id": "161662170f8cde",
+   "id": "744d75921f6189",
    "pillar": "infra",
    "headline": "Africa's Data Centre Evolution: AI, Edge Computing and New Energy Demands",
    "signal_url": "https://www.instrumentation.co.za/regular.aspx?pklregularid=27942",
@@ -14564,7 +14615,7 @@
    "related_signals": []
   },
   {
-   "id": "ea8bf9b8b29db7",
+   "id": "c98fbd05c307c3",
    "pillar": "infra",
    "headline": "Greek firm Amaco plans Sh194bn AI data centre in Mombasa",
    "signal_url": "https://www.businessdailyafrica.com/bd/corporate/technology/greek-firm-amaco-plans-sh194bn-ai-data-centre-5561498",
@@ -14581,7 +14632,7 @@
    "related_signals": []
   },
   {
-   "id": "9f7df1f1a424b7",
+   "id": "60453d573f18dc",
    "pillar": "infra",
    "headline": "Africa's data centre demand could surge 5x by 2030, require $20 billion",
    "signal_url": "https://nairametrics.com/2026/08/17/africas-data-centre-demand-could-surge-5x-by-2030-require-20-billion/",
@@ -14598,7 +14649,7 @@
    "related_signals": []
   },
   {
-   "id": "3bd9261706cbf7",
+   "id": "c03e8089a8d89c",
    "pillar": "infra",
    "headline": "Senegal Moves to Strengthen Critical Infrastructure and Digital Security",
    "signal_url": "https://techafricanews.com/2026/08/14/senegal-moves-to-strengthen-critical-infrastructure-and-digital-security/",
@@ -14615,7 +14666,7 @@
    "related_signals": []
   },
   {
-   "id": "fb0975e176342e",
+   "id": "fa9b39c5bbd5f6",
    "pillar": "infra",
    "headline": "BoFiNet Completes P43m Fibre Project, Connects Three Botswana Villages",
    "signal_url": "https://techafricanews.com/2026/08/14/bofinet-completes-p43m-fibre-project-connects-three-botswana-villages/",
@@ -14632,7 +14683,7 @@
    "related_signals": []
   },
   {
-   "id": "29769784c120e4",
+   "id": "10cac88533d646",
    "pillar": "infra",
    "headline": "Airtel Africa Launches First Satellite-to-Mobile Service in DRC with Starlink",
    "signal_url": "https://techafricanews.com/2026/08/14/airtel-africa-launches-first-satellite-to-mobile-service-in-drc-with-starlink/",
@@ -14649,7 +14700,7 @@
    "related_signals": []
   },
   {
-   "id": "ff280e54597058",
+   "id": "707eb6499e0ec4",
    "pillar": "infra",
    "headline": "Data Centre Summit Connects Africa's Digital Growth with the Power Systems Needed to Sustain it",
    "signal_url": "https://www.africannewspage.net/2026/08/data-centre-summit-connects-africas-digital-growth-with-the-power-systems-needed-to-sustain-it/",
@@ -14666,7 +14717,7 @@
    "related_signals": []
   },
   {
-   "id": "55caea8ba44973",
+   "id": "bae838941ee305",
    "pillar": "infra",
    "headline": "The Embedder's Dilemma: LLMs Are Better, but at What Cost?",
    "signal_url": "https://arxiv.org/abs/2608.12875",
@@ -14683,7 +14734,7 @@
    "related_signals": []
   },
   {
-   "id": "e1f54f56024b7c",
+   "id": "e00b5bb56b12a4",
    "pillar": "infra",
    "headline": "Reduced Matrix Multiplication: Input-Adaptive Matrix-Product Reduction for LLM Inference",
    "signal_url": "https://arxiv.org/abs/2608.13426",
@@ -14700,7 +14751,7 @@
    "related_signals": []
   },
   {
-   "id": "e9a02c1c5f7d2a",
+   "id": "4a589e25d8b5fe",
    "pillar": "infra",
    "headline": "What is driving Kenya's data centre boom, and why does Nairobi matter for East Africa?",
    "signal_url": "https://capacityglobal.com/news/what-is-driving-kenyas-data-centre-boom/",
@@ -14717,7 +14768,7 @@
    "related_signals": []
   },
   {
-   "id": "e1e6c85f7b6193",
+   "id": "f7e4e990459e8b",
    "pillar": "infra",
    "headline": "L'Afrique devient le nouveau terrain de jeu des data centers: Microsoft, Google et AWS misent des milliards sur Johannesburg, Lagos et Nairobi",
    "signal_url": "https://www.tech-connect.info/technologies/data-centers-afrique-microsoft-google-aws-souverainete-2026/",
@@ -14734,7 +14785,7 @@
    "related_signals": []
   },
   {
-   "id": "aae61c35be1b4b",
+   "id": "e9d7d7c25f3942",
    "pillar": "infra",
    "headline": "Algeria Moves to Implement National AI Strategy With Inter-Ministerial Roadmap",
    "signal_url": "https://techafricanews.com/2026/08/11/algeria-moves-to-implement-national-ai-strategy-with-inter-ministerial-roadmap/",
@@ -14751,7 +14802,7 @@
    "related_signals": []
   },
   {
-   "id": "bcdf705bbdcd2a",
+   "id": "42fdd7e7f39e52",
    "pillar": "infra",
    "headline": "Qua Iboe: Nigeria's only cable landing outside Lagos",
    "signal_url": "https://tech.africa/qua-iboe-cable-landing-akwa-ibom/",
@@ -14768,7 +14819,7 @@
    "related_signals": []
   },
   {
-   "id": "607a3dcdef1084",
+   "id": "2d22fe81dc9014",
    "pillar": "infra",
    "headline": "AfPIF 2026: peering forum returns to Kigali, 18-20 August",
    "signal_url": "https://tech.africa/afpif-2026-kigali/",
@@ -14785,7 +14836,7 @@
    "related_signals": []
   },
   {
-   "id": "6ce17ea6f8e373",
+   "id": "b79ddc0e9fff5a",
    "pillar": "infra",
    "headline": "Africa's AI conversation is entering a new phase",
    "signal_url": "https://iafrica.com/africas-ai-conversation-is-entering-a-new-phase/",
@@ -14802,7 +14853,7 @@
    "related_signals": []
   },
   {
-   "id": "453dfcea73fa7d",
+   "id": "2597cfac662c38",
    "pillar": "infra",
    "headline": "Nigeria pushes to keep more of its cloud infrastructure local",
    "signal_url": "https://techcabal.com/2026/08/10/nigeria-pushes-local-cloud-as-85-of-workloads-use-public-",
@@ -14819,7 +14870,7 @@
    "related_signals": []
   },
   {
-   "id": "933d1be0065ced",
+   "id": "b47d400d41460d",
    "pillar": "infra",
    "headline": "Nigeria's Project BRIDGE enters execution phase: 90,000 km of new fibre",
    "signal_url": "https://techafricanews.com/2026/08/10/project-bridge-enters-execution-phase-with-bridge-oa-incorporation/",
@@ -14841,7 +14892,7 @@
    "related_signals": []
   },
   {
-   "id": "b8c2f0e5144839",
+   "id": "94d4c9634f9050",
    "pillar": "infra",
    "headline": "Africa AI Strategy: From Policy Documents to Competitive Advantage",
    "signal_url": "https://www.thrumos.com/insights/africas-ai-opportunity-turning-national-strategy-into-competitive-advantage",
@@ -14858,7 +14909,7 @@
    "related_signals": []
   },
   {
-   "id": "574d185d21eb24",
+   "id": "dae6bf4d6d96ba",
    "pillar": "infra",
    "headline": "Africa's AI boom faces infrastructure reality check",
    "signal_url": "https://businessday.ng/technology/article/africas-ai-boom-faces-infrastructure-reality-check/",
@@ -14875,7 +14926,7 @@
    "related_signals": []
   },
   {
-   "id": "70d917337d631c",
+   "id": "d9767c6919e90a",
    "pillar": "infra",
    "headline": "The gateway to Africa's data centre future",
    "signal_url": "https://www.intelligentcio.com/africa/2026/08/07/the-gateway-to-africas-data-centre-future/",
@@ -14892,7 +14943,7 @@
    "related_signals": []
   },
   {
-   "id": "c82aefb234cb15",
+   "id": "2cc18043f1a1b0",
    "pillar": "infra",
    "headline": "Airtel's $150M Kenya Data Centre Now Targets July 2027 Launch",
    "signal_url": "https://techafricanews.com/2026/08/07/airtels-150m-kenya-data-centre-now-targets-july-2027-launch/",
@@ -14915,7 +14966,7 @@
    "related_signals": []
   },
   {
-   "id": "bb20a8faaa3726",
+   "id": "ce707d468e38f1",
    "pillar": "infra",
    "headline": "The Cost of Empty Capacity in Africa's Data Centre Boom",
    "signal_url": "https://techafricanews.com/2026/08/06/the-cost-of-empty-capacity-in-africas-data-centre-boom/",
@@ -14935,7 +14986,7 @@
    "related_signals": []
   },
   {
-   "id": "06b1a40b0a3afa",
+   "id": "974656562cb9df",
    "pillar": "infra",
    "headline": "An African vision of artificial intelligence",
    "signal_url": "https://www.economist.com/middle-east-and-africa/2026/08/06/an-african-vision-of-artificial-intelligence",
@@ -14952,7 +15003,7 @@
    "related_signals": []
   },
   {
-   "id": "f8deacfce73658",
+   "id": "15cd3364b3df8d",
    "pillar": "infra",
    "headline": "Top 15 African countries with the most data centres in 2026",
    "signal_url": "https://nairametrics.com/2026/08/05/top-15-african-countries-with-the-most-data-centres-in-2026/",
@@ -14972,7 +15023,7 @@
    "related_signals": []
   },
   {
-   "id": "8250cb26b4beb3",
+   "id": "d79cfc09feefde",
    "pillar": "infra",
    "headline": "New Data Center Developments: August 2026 — Egypt licenses Hassan Allam data centres with $400M first-phase investment",
    "signal_url": "https://www.datacenterknowledge.com/data-center-construction/new-data-center-developments-august-2026",
@@ -14994,7 +15045,7 @@
    "related_signals": []
   },
   {
-   "id": "d092102c78e648",
+   "id": "60a4153cdcc4aa",
    "pillar": "infra",
    "headline": "Equinix Wins Approval for Major Cape Town Data Centre Campus",
    "signal_url": "https://furtherafrica.com/2026/08/04/equinix-wins-approval-for-major-cape-town-data-centre-campus/",
@@ -15011,7 +15062,7 @@
    "related_signals": []
   },
   {
-   "id": "8fe28023e40796",
+   "id": "dc6f2a2f011595",
    "pillar": "infra",
    "headline": "97 teams at the Deep Learning Indaba take on Africa's language-mixing problem",
    "signal_url": "https://techcabal.com/2026/08/04/97-teams-at-the-deep-learning-indaba-take-on-africas-language-mixing-problem/",
@@ -15028,7 +15079,7 @@
    "related_signals": []
   },
   {
-   "id": "5d828da04bd730",
+   "id": "99bfc9a1554b7c",
    "pillar": "infra",
    "headline": "South Africa's economy depends on what lies beneath the ocean",
    "signal_url": "https://www.itnewsafrica.com/2026/08/south-africas-economy-depends-on-what-lies-beneath-the-ocean/",
@@ -15045,7 +15096,7 @@
    "related_signals": []
   },
   {
-   "id": "e1494862212383",
+   "id": "5b6caedba6b3de",
    "pillar": "infra",
    "headline": "Nigeria's AI boom depends on one thing government hasn't fixed",
    "signal_url": "https://nairametrics.com/2026/08/01/nigerias-ai-boom-depends-on-one-thing-government-hasnt-fixed/",
@@ -15062,7 +15113,7 @@
    "related_signals": []
   },
   {
-   "id": "bcc6faab5749bb",
+   "id": "740c7aa25f078c",
    "pillar": "infra",
    "headline": "GSMA leads launch of pan-African AI language initiative",
    "signal_url": "https://www.africaainews.com/p/gsma-leads-launch-of-pan-african",
@@ -15079,7 +15130,7 @@
    "related_signals": []
   },
   {
-   "id": "5bd1b8d4079f1c",
+   "id": "d9fad7e5447b8d",
    "pillar": "infra",
    "headline": "AI Infrastructure Becomes Africa's Next Strategic Investment Battleground",
    "signal_url": "https://www.mondaq.com/southafrica/technology/1825004/ai-infrastructure-becomes-africas-next-strategic-investment-battleground",
@@ -15096,7 +15147,7 @@
    "related_signals": []
   },
   {
-   "id": "c4c42824cd407d",
+   "id": "b058e4bedcdbfc",
    "pillar": "infra",
    "headline": "Why Africa's Next Growth Story Will Be Built On Intelligence Infrastructure",
    "signal_url": "https://allafrica.com/stories/202607310233.html",
@@ -15113,7 +15164,7 @@
    "related_signals": []
   },
   {
-   "id": "f98fc9c61b7b60",
+   "id": "fdb64ca198d0ff",
    "pillar": "infra",
    "headline": "Investors pour into Africa's digital backbone as data centre projects near 900 MW",
    "signal_url": "https://businessday.ng/technology/article/investors-pour-into-africas-digital-backbone-as-data-centre-projects-near-900-mw/",
@@ -15130,7 +15181,7 @@
    "related_signals": []
   },
   {
-   "id": "0b5e11f4b22143",
+   "id": "11fddae69d4f8b",
    "pillar": "infra",
    "headline": "The Digital Pivot: How South Africa is Positioning Itself as Africa's AI Hub",
    "signal_url": "https://www.vifindia.org/article/2026/july/29/The-Digital-Pivot-How-South-Africa-is-Positioning-Itself-as-Africa-s-AI-Hub",
@@ -15147,7 +15198,7 @@
    "related_signals": []
   },
   {
-   "id": "77ed3a65c86da0",
+   "id": "c8adbfc2f66665",
    "pillar": "infra",
    "headline": "Africa's First NVIDIA RTX PRO GPU Servers Have Landed",
    "signal_url": "https://www.whtop.com/news/35472-africas-first-nvidia-rtx-pro-gpu-servers-have-landed",
@@ -15164,7 +15215,7 @@
    "related_signals": []
   },
   {
-   "id": "b838c6e76a4d37",
+   "id": "b77c1c99c6e287",
    "pillar": "infra",
    "headline": "Every Time I Hire a Linguist, Inference Costs Go Down: Linguistic Rules as Effective Prompt Compressors",
    "signal_url": "https://arxiv.org/abs/2607.25335",
@@ -15181,7 +15232,7 @@
    "related_signals": []
   },
   {
-   "id": "0e211df981c2c5",
+   "id": "6b9294fac328cb",
    "pillar": "infra",
    "headline": "Nigeria Welcomes IMF Recognition as One of Africa's Leading AI Economies",
    "signal_url": "https://techafricanews.com/2026/07/27/nigeria-welcomes-imf-recognition-as-one-of-africas-leading-ai-economies/",
@@ -15198,7 +15249,7 @@
    "related_signals": []
   },
   {
-   "id": "e64df00c74acc5",
+   "id": "9cff994df29705",
    "pillar": "infra",
    "headline": "Kenya emerges as regional data hub as report warns Africa risks missing on AI boom",
    "signal_url": "https://www.the-star.co.ke/business/2026-07-27-kenya-emerges-as-regional-data-hub-as-report-warns-africa-risks-missing-on-ai-boom/",
@@ -15215,7 +15266,7 @@
    "related_signals": []
   },
   {
-   "id": "ee2370958d1641",
+   "id": "2d9fed7b476d47",
    "pillar": "infra",
    "headline": "Africa risks falling behind in the AI race (BCG Report)",
    "signal_url": "https://www.sundaytimes.timeslive.co.za/business/news/2026-07-25-africa-risks-falling-behind-in-the-ai-race/",
@@ -15232,7 +15283,7 @@
    "related_signals": []
   },
   {
-   "id": "6d4087f6a03ba1",
+   "id": "de80b5cf45d167",
    "pillar": "infra",
    "headline": "Kenya shares draft AI policy; Côte d'Ivoire approves $170M data centre",
    "signal_url": "https://www.africaainews.com/p/kenya-shares-draft-ai-policy-cote",
@@ -15255,7 +15306,7 @@
    ]
   },
   {
-   "id": "cb4cab10f03553",
+   "id": "44f620fadd36e7",
    "pillar": "infra",
    "headline": "Why Africa's Data Center Boom Comes With Big Environmental Questions",
    "signal_url": "https://nigerianobservernews.com/2026/07/why-africas-data-center-boom-comes-with-big-environmental-questions/",
@@ -15272,7 +15323,7 @@
    "related_signals": []
   },
   {
-   "id": "943df46b21e226",
+   "id": "055bdcea098de8",
    "pillar": "infra",
    "headline": "Cape Town Approves Two Hyperscale Data Centres Totalling ~174MW — Among Africa's Largest New Grid Loads",
    "signal_url": "https://iafrica.com/cape-town-approves-two-hyperscale-data-centres-totalling-174mw-among-africas-largest-new-grid-loads/",
@@ -15289,7 +15340,7 @@
    "related_signals": []
   },
   {
-   "id": "ab7afa0ca58abf",
+   "id": "808bdd25a42f13",
    "pillar": "infra",
    "headline": "IMF Says Africa Has to Keep Lights On Before It Can Bet on AI",
    "signal_url": "https://techcabal.com/2026/07/23/imf-says-africa-has-lights-before-ai/",
@@ -15306,7 +15357,7 @@
    "related_signals": []
   },
   {
-   "id": "e78f24eb775de6",
+   "id": "aa6ef862dbcccc",
    "pillar": "infra",
    "headline": "Are Africas power grids ready for the AI data centre boom?",
    "signal_url": "https://www.weforum.org/stories/2026/07/africa-power-grids-ai-data-centre-boom/",
@@ -15323,7 +15374,7 @@
    "related_signals": []
   },
   {
-   "id": "43d3ce9dd1e378",
+   "id": "2c1f002139d4a9",
    "pillar": "infra",
    "headline": "Africa's data center growth needs power sector overhaul",
    "signal_url": "https://www.semafor.com/article/07/22/2026/africas-data-center-growth-rests-on-power-sector-overhaul",
@@ -15340,7 +15391,7 @@
    "related_signals": []
   },
   {
-   "id": "04c6a9d55a48d3",
+   "id": "e59bc798a3f057",
    "pillar": "infra",
    "headline": "How AI is rewiring South Africa",
    "signal_url": "https://african.business/2026/07/how-ai-is-rewiring-south-africa/",
@@ -15357,7 +15408,7 @@
    "related_signals": []
   },
   {
-   "id": "dbdde1366c4ce3",
+   "id": "4dd869d1188152",
    "pillar": "infra",
    "headline": "South Africas data centre gold rush risks resource crunch",
    "signal_url": "https://www.cnbcafrica.com/2026/south-africas-data-centre-gold-rush-risks-resource-crunch/",
@@ -15374,7 +15425,7 @@
    "related_signals": []
   },
   {
-   "id": "d677fd8ecca5ff",
+   "id": "54bce7761ed887",
    "pillar": "infra",
    "headline": "AFR-IX lights up Raxio data centres in Angola, Mozambique",
    "signal_url": "https://tech.africa/afr-ix-raxio-angola-mozambique/",
@@ -15391,7 +15442,7 @@
    "related_signals": []
   },
   {
-   "id": "d57c29c2fb84c4",
+   "id": "f8096751d60e09",
    "pillar": "infra",
    "headline": "Somalia opens its first National AI Centre at Somali National University",
    "signal_url": "https://www.intelligentcio.com/africa/2026/07/21/somali-national-university-launches-countrys-first-national-ai-centre/",
@@ -15408,7 +15459,7 @@
    "related_signals": []
   },
   {
-   "id": "3cd56afc7f000e",
+   "id": "ba5a469de18972",
    "pillar": "infra",
    "headline": "Global Tech Giants Bet Big on South Africa Digital Future — Google, AWS, Microsoft announce landmark cloud investments",
    "signal_url": "https://www.ubuntutimes.co.za/global-tech-giants-bet-big-on-south-africa-digital-future/",
@@ -15425,7 +15476,7 @@
    "related_signals": []
   },
   {
-   "id": "309116739c4825",
+   "id": "6243e50f088ea4",
    "pillar": "infra",
    "headline": "Côte d'Ivoire approves $170M sovereign data centre and digital infrastructure project",
    "signal_url": "https://developingtelecoms.com/telecom-business/telecom-investment-mergers/20549-cote-divoire-approves-starlink-service-data-centre-project-and-more-after-us-state-visit.html",
@@ -15442,7 +15493,7 @@
    "related_signals": []
   },
   {
-   "id": "e6c50618379b89",
+   "id": "0a3e2cb609d00d",
    "pillar": "infra",
    "headline": "Cassava Technologies wins Africa's first Microsoft Azure ExpressRoute Metro peering site",
    "signal_url": "https://techtrendske.co.ke/2026/07/20/cassava-gets-africas-first-microsoft-azure-expressroute-metro-designation/",
@@ -15459,7 +15510,7 @@
    "related_signals": []
   },
   {
-   "id": "a921632415e3d7",
+   "id": "a99b0e0881a9dc",
    "pillar": "infra",
    "headline": "Google’s $1B Milestone Signals Africa’s New Digital Infrastructure Race",
    "signal_url": "https://prospect-intel.com/googles-1b-milestone-signals-africas-new-digital-infrastructure-race/",
@@ -15476,7 +15527,7 @@
    "related_signals": []
   },
   {
-   "id": "1036e487a561a4",
+   "id": "2e028986664ddc",
    "pillar": "infra",
    "headline": "The stories shaping Africa's AI future",
    "signal_url": "https://africasacountry.com/2026/07/the-stories-shaping-africas-ai-future",
@@ -15493,7 +15544,7 @@
    "related_signals": []
   },
   {
-   "id": "cbaa349738b8b9",
+   "id": "c5de73beba4f85",
    "pillar": "infra",
    "headline": "Kenya and France Push Africa Forward AI Clusters Across Six Countries, With €1.9M Dedicated to African LLMs",
    "signal_url": "https://iafrica.com/kenya-and-france-push-africa-forward-ai-clusters-across-six-countries-with-e1-9m-dedicated-to-african-llms/",
@@ -15510,7 +15561,7 @@
    "related_signals": []
   },
   {
-   "id": "4fd4d563d19068",
+   "id": "79c8620be1283d",
    "pillar": "infra",
    "headline": "World Bank recommends single-window policy to attract hyperscale cloud to Africa",
    "signal_url": "https://www.agenceecofin.com/actualites-numerique/1707-140291-cloud-en-afrique-la-banque-mondiale-recommande-un-guichet-unique-pour-attirer-les-hyperscalers",
@@ -15527,7 +15578,7 @@
    "related_signals": []
   },
   {
-   "id": "778a6d6a126b9c",
+   "id": "033dd0b6b1dac4",
    "pillar": "infra",
    "headline": "Via Africa submarine cable system, Europe to Africa",
    "signal_url": "https://www.engineeringnews.co.za/article/via-africa-submarine-cable-system-europe-to-africa-2026-07-17",
@@ -15544,7 +15595,7 @@
    "related_signals": []
   },
   {
-   "id": "3670f70d789ced",
+   "id": "004739c6e17a5a",
    "pillar": "infra",
    "headline": "Djibouti Presses National AI Strategy Talks With ITU and Smart Africa at WSIS 2026",
    "signal_url": "https://iafrica.com/djibouti-presses-national-ai-strategy-talks-with-itu-and-smart-africa-at-wsis-2026/",
@@ -15561,7 +15612,7 @@
    "related_signals": []
   },
   {
-   "id": "b82ed2ccbd2674",
+   "id": "703338f4b570dd",
    "pillar": "infra",
    "headline": "Africa's AI Talent Race Is Heating Up, But Compute And Capital Still Lag",
    "signal_url": "https://www.techbooky.com/africa-ai-talent-race-compute-capital-gap/",
@@ -15578,7 +15629,7 @@
    "related_signals": []
   },
   {
-   "id": "b7ad389a7a27ee",
+   "id": "9bf5d751f30023",
    "pillar": "infra",
    "headline": "Africa Data Center Construction Market 2026-2031: Nigeria Leverages Solar and Wind Energy",
    "signal_url": "https://www.globenewswire.com/news-release/2026/07/15/3327874/0/en/africa-data-center-construction-market-2026-2031-nigeria-leverages-solar-and-wind-energy-in-data-centers-to-cut-carbon-footprint.html",
@@ -15595,7 +15646,7 @@
    "related_signals": []
   },
   {
-   "id": "d91782179ca4e6",
+   "id": "e3283462f229e7",
    "pillar": "infra",
    "headline": "Let's Talk About Africa and AI Compute",
    "signal_url": "https://reamby.substack.com/p/lets-talk-about-africa-and-ai-compute",
@@ -15612,7 +15663,7 @@
    "related_signals": []
   },
   {
-   "id": "c9cf22d286056d",
+   "id": "3d765d0986b832",
    "pillar": "infra",
    "headline": "Why South Africa's Data Centre Boom Is Good News for AI",
    "signal_url": "https://dfafrica.co.za/newsroom/feature/2026-07-15/why-south-africas-data-centre-boom-is-good-news-for-ai/",
@@ -15629,7 +15680,7 @@
    "related_signals": []
   },
   {
-   "id": "ba42cadbc0c81e",
+   "id": "c64e90c12dabb5",
    "pillar": "infra",
    "headline": "WATRA Calls for Stronger Regional Cooperation on Submarine Cable Resilience",
    "signal_url": "https://techafricanews.com/2026/07/15/watra-calls-for-stronger-regional-cooperation-on-submarine-cable-resilience/",
@@ -15646,7 +15697,7 @@
    "related_signals": []
   },
   {
-   "id": "29edf29cf3f9ad",
+   "id": "f6c3d966d2ac2e",
    "pillar": "infra",
    "headline": "Africa's AI advantage will be built in production",
    "signal_url": "https://www.miningweekly.com/article/africas-ai-advantage-will-be-built-in-production-2026-07-15",
@@ -15663,7 +15714,7 @@
    "related_signals": []
   },
   {
-   "id": "e139609043388c",
+   "id": "65ccfff258a88a",
    "pillar": "infra",
    "headline": "Raxio Secures Over US$380 Million to Accelerate Africa Data Centre Expansion",
    "signal_url": "https://www.techafricanews.com/2026/07/14/raxio-secures-over-us380-million-to-accelerate-africa-data-centre-expansion/",
@@ -15680,7 +15731,7 @@
    "related_signals": []
   },
   {
-   "id": "ae102c1a706ebc",
+   "id": "e9064a3dbaca1c",
    "pillar": "infra",
    "headline": "Raxio secures over US$380M to accelerate African data centre expansion",
    "signal_url": "https://techafricanews.com/2026/07/14/raxio-secures-over-us380-million-to-accelerate-africa-data-centre-expansion/",
@@ -15691,19 +15742,19 @@
    "priority": "high",
    "topic": "Capacity and investment",
    "related_registers": [],
-   "duplicate_of": "e139609043388c",
+   "duplicate_of": "65ccfff258a88a",
    "note": "This source URL is already in the feed. Repetition is not corroboration. Related reporting is linked in the downloadable review queue. Shared links or similar headlines are not independent corroboration; event identity remains subject to source review.",
    "evidence_ids": [],
    "related_signals": [
     {
-     "id": "e139609043388c",
+     "id": "65ccfff258a88a",
      "url": "https://www.techafricanews.com/2026/07/14/raxio-secures-over-us380-million-to-accelerate-africa-data-centre-expansion/",
      "relationship": "similar_headline_review_pending"
     }
    ]
   },
   {
-   "id": "c456d3f57b805b",
+   "id": "19de1413f37999",
    "pillar": "infra",
    "headline": "Inference Economics of Enterprise Coding Agents: Cloud vs. On-Premise LLMs",
    "signal_url": "https://arxiv.org/abs/2607.13080",
@@ -15720,7 +15771,7 @@
    "related_signals": []
   },
   {
-   "id": "1f3ec8440c16d8",
+   "id": "cee52a10c7409b",
    "pillar": "infra",
    "headline": "African Governments Draw New Line In The 'Cloud' In Data Sovereignty Push",
    "signal_url": "https://weetracker.com/2026/07/13/africa-data-sovereignty-local-infrastructure/",
@@ -15737,7 +15788,7 @@
    "related_signals": []
   },
   {
-   "id": "9d82a5d78de36b",
+   "id": "21c61c74e07688",
    "pillar": "infra",
    "headline": "Africa's US$3.6+ Billion Data Center Market 2026-2031: Analysis of Substantial Growth Prospects and Strategic Initiatives",
    "signal_url": "https://uk.finance.yahoo.com/news/africas-us-3-6-billion-080900699.html",
@@ -15754,7 +15805,7 @@
    "related_signals": []
   },
   {
-   "id": "472d1ec4d4eb9a",
+   "id": "0897175e718a77",
    "pillar": "infra",
    "headline": "Africa's Fiber Optic Paradox: 77 Submarine Cables Yet Underconnected",
    "signal_url": "https://www.ico-optics.org/africas-fiber-optic-paradox-77-submarine-cables-yet-underconnected/",
@@ -15771,7 +15822,7 @@
    "related_signals": []
   },
   {
-   "id": "476468ecafb15a",
+   "id": "90b1634036f838",
    "pillar": "infra",
    "headline": "HUMAIN and Cohere Launch Strategic Sovereign AI Compute Collaboration",
    "signal_url": "https://techafricanews.com/2026/07/09/humain-and-cohere-launch-strategic-sovereign-ai-compute-collaboration/",
@@ -15788,7 +15839,7 @@
    "related_signals": []
   },
   {
-   "id": "29b9804b4c3dc3",
+   "id": "35b41ba54dbf5f",
    "pillar": "infra",
    "headline": "Africa’s data centre evolution: AI, edge computing and new energy demands",
    "signal_url": "https://techcentral.co.za/africas-data-centres-ai-edge-computing-and-new-energy-demands/283580/",
@@ -15804,14 +15855,14 @@
    "evidence_ids": [],
    "related_signals": [
     {
-     "id": "161662170f8cde",
+     "id": "744d75921f6189",
      "url": "https://www.instrumentation.co.za/regular.aspx?pklregularid=27942",
      "relationship": "identical_headline"
     }
    ]
   },
   {
-   "id": "c8a99a3d12b984",
+   "id": "f1fddc0f686f1a",
    "pillar": "infra",
    "headline": "Gabon launches sovereign data centre",
    "signal_url": "https://itweb.africa/article/gabon-launches-sovereign-data-centre/xnklOvz14JDq4Ymz",
@@ -15833,7 +15884,7 @@
    "related_signals": []
   },
   {
-   "id": "716ce3671c0d26",
+   "id": "8db7098e2993e8",
    "pillar": "infra",
    "headline": "Google announces first African cloud region in Nairobi — target 2028",
    "signal_url": "https://www.techinafrica.com/google-unveils-major-ai-and-cloud-expansion-across-africa/",
@@ -15850,7 +15901,7 @@
    "related_signals": []
   },
   {
-   "id": "de042584dc3dcf",
+   "id": "afa168709c8f07",
    "pillar": "infra",
    "headline": "Africa's digital infrastructure ambition has a power problem",
    "signal_url": "https://capacityglobal.com/news/africas-digital-infrastructure-ambition-power/",
@@ -15867,7 +15918,7 @@
    "related_signals": []
   },
   {
-   "id": "7b8bb71addc39e",
+   "id": "88f6657226c0a3",
    "pillar": "infra",
    "headline": "Financing Artificial Intelligence Infrastructure: Mapping AI Infrastructure Investment and Compute Governance Across Africa",
    "signal_url": "https://arxiv.org/abs/2606.28404",
@@ -15884,7 +15935,7 @@
    "related_signals": []
   },
   {
-   "id": "83e830a2c11846",
+   "id": "b2ef89413257ba",
    "pillar": "infra",
    "headline": "Africa Declares AI a Strategic Priority",
    "signal_url": "https://au.int/en/pressreleases/20250517/africa-declares-ai-strategic-priority-investment-inclusion-and-innovation",
@@ -15901,7 +15952,7 @@
    "related_signals": []
   },
   {
-   "id": "2252db5f38e766",
+   "id": "2173f77863205a",
    "pillar": "infra",
    "headline": "Africa's $60B AI sovereignty plan runs through 12,000 Nvidia GPUs and Big Tech",
    "signal_url": "https://siliconcanals.com/sc-d-africas-60b-ai-sovereignty-plan-runs-directly-through-12-000-nvidia-gpus-and-microsoft-data-centres-and-the-contradiction-is-exactly-the-point-everyone-keeps-missing/",
@@ -15918,7 +15969,7 @@
    "related_signals": []
   },
   {
-   "id": "c48bdb7abdaf94",
+   "id": "a43645c43b68aa",
    "pillar": "infra",
    "headline": "Africa pushes for data sovereignty and digital independence",
    "signal_url": "https://africarenewal.un.org/en/magazine/africa-pushes-data-sovereignty-and-digital-independence",
@@ -15935,7 +15986,7 @@
    "related_signals": []
   },
   {
-   "id": "4db2277e8a7463",
+   "id": "64f287cd9d9442",
    "pillar": "infra",
    "headline": "The hidden fight for AI sovereign infrastructure in Africa",
    "signal_url": "https://www.africanelements.org/news/the-hidden-fight-for-ai-sovereign-infrastructure-in-africa/",
@@ -15952,7 +16003,7 @@
    "related_signals": []
   },
   {
-   "id": "3c90f91cc63332",
+   "id": "1da730f4f72d36",
    "pillar": "infra",
    "headline": "Data Centres in Africa 2026: The Economic Report — 0.6% of global capacity, 360 MW active",
    "signal_url": "https://africadca.org/en/data-centres-in-africa-2026-the-economic-report",
@@ -15975,7 +16026,7 @@
    "related_signals": []
   },
   {
-   "id": "90fe019039ab5c",
+   "id": "312673058818cb",
    "pillar": "infra",
    "headline": "Zimbabwe launches National Artificial Intelligence Strategy 2026-2030",
    "signal_url": "https://www.unesco.org/en/articles/zimbabwe-launches-national-artificial-intelligence-strategy",
@@ -15992,7 +16043,7 @@
    "related_signals": []
   },
   {
-   "id": "dee5af9045da25",
+   "id": "ffa6abcc0c0894",
    "pillar": "infra",
    "headline": "Congo’s AI research centre inaugurated at Kintélé",
    "signal_url": "https://itweb.africa/article/ai-research-centre-boosts-congos-digital-ambitions/wbrpOqgYdk27DLZn",
@@ -16009,7 +16060,7 @@
    "related_signals": []
   },
   {
-   "id": "6f52bbb73985f8",
+   "id": "06f0e43d6958c9",
    "pillar": "infra",
    "headline": "Congo and ECA schedule AI research centre inauguration",
    "signal_url": "https://www.uneca.org/stories/eca-set-to-launch-africa%E2%80%99s-first-ai-research-centre-in-brazzaville-congo,-with-focus-on",
@@ -16026,7 +16077,7 @@
    "related_signals": []
   },
   {
-   "id": "4ca812b85ff036",
+   "id": "7aa764e2bea9e7",
    "pillar": "infra",
    "headline": "Nigeria inaugurates AI and robotics centre in Abuja",
    "signal_url": "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/",
@@ -16043,7 +16094,7 @@
    "related_signals": []
   },
   {
-   "id": "98799899555108",
+   "id": "af3e3cc501b247",
    "pillar": "infra",
    "headline": "Africa's Compute Capacity for AI",
    "signal_url": "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/bridging-the-new-digital-divide-how-africa-can-boost-its-compute-capacity-for-ai/",
@@ -16060,7 +16111,7 @@
    "related_signals": []
   },
   {
-   "id": "4268a68599b194",
+   "id": "28b87d948265bf",
    "pillar": "infra",
    "headline": "World Bank Digital Progress & Trends Report 2025: AI Foundations",
    "signal_url": "https://www.worldbank.org/en/publication/dptr2025-ai-foundations",
@@ -16077,7 +16128,7 @@
    "related_signals": []
   },
   {
-   "id": "c019647065b823",
+   "id": "e6047377c3c915",
    "pillar": "infra",
    "headline": "5 Issues That Must Be Tackled for Digital Equality",
    "signal_url": "https://theconversation.com/ai-in-africa-5-issues-that-must-be-tackled-for-digital-equality-265611",
