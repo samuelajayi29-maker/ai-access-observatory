@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16",
- "count": 937,
+ "generated_at": "2026-11-17",
+ "count": 943,
  "source_checked": 82,
  "flag_counts": {
-  "source_review_outstanding": 855,
+  "source_review_outstanding": 861,
   "african_relevance_not_recorded": 355,
   "topic_needs_review": 56
  },
@@ -2430,6 +2430,16 @@
    "source_checked": true
   },
   {
+   "headline": "Memory squeeze pushes up phone prices across Africa as AI servers absorb DRAM supply, with sub-$100 handsets squeezed out first",
+   "url": "https://meatechwatch.com/memory-chip-squeeze-phone-prices-south-asia-africa/",
+   "pillar": "access",
+   "current_topic": "Pricing and affordability",
+   "suggested_topic": "Pricing and affordability",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "Fluence: hyperscalers list GPUs at 1.98x the GPU-cloud median, and 17 of 22 tracked GPU models cost more than a year ago",
    "url": "https://coininsight.co.uk/hyperscalers-list-gpus-at-nearly-2x-the-gpu-cloud-price-fluence-research-finds/",
    "pillar": "access",
@@ -2447,6 +2457,16 @@
    "suggested_topic": "Pricing and affordability",
    "country": "",
    "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Attribute or Abstain: evaluating evidence-grounded retrieval on the low-resource African business web",
+   "url": "https://arxiv.org/abs/2611.19900",
+   "pillar": "access",
+   "current_topic": "Access and affordability",
+   "suggested_topic": "Access and affordability",
+   "country": "",
+   "flags": "source_review_outstanding",
    "source_checked": false
   },
   {
@@ -5710,6 +5730,16 @@
    "source_checked": true
   },
   {
+   "headline": "Eskom pitches itself as strategic power producer for Africa's data centre growth, citing surplus capacity",
+   "url": "https://it-online.co.za/2026/11/17/eskom-aims-to-power-africas-data-centre-growth/",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "Ramaphosa tells Silicon Valley delegation South Africa must build its own AI, not just consume it",
    "url": "https://www.sanews.gov.za/south-africa/president-ramaphosa-calls-homegrown-ai-innovation",
    "pillar": "infra",
@@ -5736,6 +5766,36 @@
    "current_topic": "Data centres and compute",
    "suggested_topic": "Data centres and compute",
    "country": "ZAF",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Cote d'Ivoire signs AI cooperation deal with AISCA covering sovereign compute access for researchers under its 2030 AI strategy",
+   "url": "https://www.techreviewafrica.com/news/8351/cote-divoire-signs-ai-cooperation-agreement-with-aisca-to-strengthen-skills-and-research",
+   "pillar": "infra",
+   "current_topic": "Policy and regulation",
+   "suggested_topic": "Policy and regulation",
+   "country": "CIV",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Galaxy Backbone advances sovereign cloud talks with two technology firms under Nigeria's National Digital Cloud Policy",
+   "url": "https://kobodaily.com/article/galaxy-backbone-pushes-nigeria-sovereign-cloud-talks",
+   "pillar": "infra",
+   "current_topic": "Policy and regulation",
+   "suggested_topic": "Policy and regulation",
+   "country": "NGA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Ex-Nvidia manager's Udu targets $100m GPU cluster projects in Nigeria, renting compute below $1 an hour",
+   "url": "https://naija247news.com/nigerias-ai-infrastructure-gap-opens-market-for-local-gpu-computing-as-ex-nvidia-executive-targets-100m-projects/",
+   "pillar": "infra",
+   "current_topic": "Devices and hardware",
+   "suggested_topic": "Devices and hardware",
+   "country": "NGA",
    "flags": "source_review_outstanding",
    "source_checked": false
   },
