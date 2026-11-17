@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "schema": 1,
  "buckets": {
   "jobs": {
@@ -1593,6 +1593,13 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "Memory squeeze pushes up phone prices across Africa as AI servers absorb DRAM supply, with sub-$100 handsets squeezed out first",
+     "u": "https://meatechwatch.com/memory-chip-squeeze-phone-prices-south-asia-africa/",
+     "s": "MEA Tech Watch",
+     "d": "Nov 16",
+     "dot": "dot-access"
+    },
+    {
      "t": "Fluence: hyperscalers list GPUs at 1.98x the GPU-cloud median, and 17 of 22 tracked GPU models cost more than a year ago",
      "u": "https://coininsight.co.uk/hyperscalers-list-gpus-at-nearly-2x-the-gpu-cloud-price-fluence-research-finds/",
      "s": "CoinInsight (Fluence)",
@@ -1605,6 +1612,13 @@
      "s": "Bertrande",
      "d": "Nov 15",
      "dot": "dot-price"
+    },
+    {
+     "t": "Attribute or Abstain: evaluating evidence-grounded retrieval on the low-resource African business web",
+     "u": "https://arxiv.org/abs/2611.19900",
+     "s": "arXiv",
+     "d": "Nov 15",
+     "dot": "dot-arxiv"
     },
     {
      "t": "Fable 5.2 cut 20% to $8/$40 as Gemini 4 Hydrogen lands at $1.50/$7.50 and Meta's Muse Ember at $0.10",
@@ -3656,6 +3670,13 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "Eskom pitches itself as strategic power producer for Africa's data centre growth, citing surplus capacity",
+     "u": "https://it-online.co.za/2026/11/17/eskom-aims-to-power-africas-data-centre-growth/",
+     "s": "IT-Online",
+     "d": "Nov 17",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Ramaphosa tells Silicon Valley delegation South Africa must build its own AI, not just consume it",
      "u": "https://www.sanews.gov.za/south-africa/president-ramaphosa-calls-homegrown-ai-innovation",
      "s": "SAnews",
@@ -3674,6 +3695,27 @@
      "u": "https://bisi.org.uk/reports/africas-ai-infrastructure-gap-investment-opportunities-and-risks-for-data-centre-expansion",
      "s": "Bloomsbury Intelligence and Security Institute",
      "d": "Nov 16",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Cote d'Ivoire signs AI cooperation deal with AISCA covering sovereign compute access for researchers under its 2030 AI strategy",
+     "u": "https://www.techreviewafrica.com/news/8351/cote-divoire-signs-ai-cooperation-agreement-with-aisca-to-strengthen-skills-and-research",
+     "s": "TechReviewAfrica",
+     "d": "Nov 16",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Galaxy Backbone advances sovereign cloud talks with two technology firms under Nigeria's National Digital Cloud Policy",
+     "u": "https://kobodaily.com/article/galaxy-backbone-pushes-nigeria-sovereign-cloud-talks",
+     "s": "Kobo Daily",
+     "d": "Nov 16",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Ex-Nvidia manager's Udu targets $100m GPU cluster projects in Nigeria, renting compute below $1 an hour",
+     "u": "https://naija247news.com/nigerias-ai-infrastructure-gap-opens-market-for-local-gpu-computing-as-ex-nvidia-executive-targets-100m-projects/",
+     "s": "Naija247news",
+     "d": "Nov 14",
      "dot": "dot-infra"
     },
     {
