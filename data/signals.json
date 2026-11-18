@@ -1,10 +1,31 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "PwC survey: 71% of African workers use AI on the job, but only 37% say it helps with complex tasks",
+     "u": "https://iafrica.com/71-of-african-workers-use-ai-on-the-job-but-only-37-say-it-helps-with-hard-tasks-pwc/",
+     "s": "iAfrica",
+     "d": "Nov 17",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Ghana's BOSAG pitches digital talent exports at Invest Ghana Summit as AI reshapes outsourcing",
+     "u": "https://thevaultznews.com/2026/11/17/bosag-advances-ghanas-digital-agenda-at-invest-ghana-summit-2026/",
+     "s": "The Vaultz News",
+     "d": "Nov 17",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Decision models match frontier LLMs on contact-centre tasks at the lowest per-request cost",
+     "u": "https://arxiv.org/abs/2611.22949",
+     "s": "arXiv",
+     "d": "Nov 17",
+     "dot": "dot-arxiv"
+    },
     {
      "t": "Uber's Nigeria exit and Wayve robotaxi pivot lay bare platform drivers' exposure to AI, as payouts stall for former Lagos, Abuja drivers",
      "u": "https://www.premiumtimesng.com/business/business-news/925246-ubers-exit-from-nigeria-highlights-platform-workers-exposure-to-ai-risks.html",
@@ -5040,6 +5061,20 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "Africa's AI runs on rented infrastructure: 0.2% of global AI compute, H100s at $13.55 an hour",
+     "u": "https://cioafrica.co/africas-ai-runs-on-rented-infrastructure/",
+     "s": "CIO Africa",
+     "d": "Nov 18",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Cassava seeks $1 billion to buy Nvidia chips for AI data centres across Africa",
+     "u": "https://techcabal.com/2026/11/18/techcabal-daily-cassava-seeks-1-billion-for-ai/",
+     "s": "TechCabal",
+     "d": "Nov 18",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Eskom pitches itself as strategic power producer for Africa's data centre growth, citing surplus capacity",
      "u": "https://it-online.co.za/2026/11/17/eskom-aims-to-power-africas-data-centre-growth/",
      "s": "IT-Online",
@@ -5078,6 +5113,13 @@
      "t": "Galaxy Backbone advances sovereign cloud talks with two technology firms under Nigeria's National Digital Cloud Policy",
      "u": "https://kobodaily.com/article/galaxy-backbone-pushes-nigeria-sovereign-cloud-talks",
      "s": "Kobo Daily",
+     "d": "Nov 16",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Can AI data centres help power underserved African communities? COP31 pledge tests the case",
+     "u": "https://www.climatechangenews.com/2026/11/16/can-ai-data-centres-help-power-underserved-african-communities/",
+     "s": "Climate Home News",
      "d": "Nov 16",
      "dot": "dot-infra"
     },
@@ -7765,7 +7807,7 @@
    ]
   }
  },
- "tracker_updated": "2026-11-17",
+ "tracker_updated": "2026-11-18",
  "backfill_updated": "2026-10-22",
  "scope": "Combined signal feed: tracker plus reviewed historical additions. Signals are not verified numerical observations."
 }
