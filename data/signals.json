@@ -1,10 +1,45 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-20",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "Jumia cuts a further 3% of staff as AI automation spreads into seller onboarding, product listing and support, leaving 1,720 on payroll",
+     "u": "https://businessday.ng/technology/article/jumia-trims-workforce-by-3-as-ai-takes-over-operations/",
+     "s": "BusinessDay",
+     "d": "Nov 19",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Kuda cuts 7.5% of staff across seven countries in its second round of 2026, as AI and better software reshape African tech staffing",
+     "u": "https://techcabal.com/2026/11/19/kuda-cut-jobs-again/",
+     "s": "TechCabal",
+     "d": "Nov 19",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "MTN Nigeria and Plateau State open a 600-seat BPO and AI hub in Jos to train and place young workers in outsourced digital services",
+     "u": "https://www.nigeriacommunicationsweek.com.ng/2026/11/19/mtn-nigeria-plateau-state-government-partner-to-grow-bpo-industry-create-digital-jobs",
+     "s": "Nigeria Communications Week",
+     "d": "Nov 19",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Kenya and the EU conclude data adequacy talks, the first such arrangement with an African country, easing European BPO data transfers",
+     "u": "https://techmoran.com/2026/11/19/kenya-nears-eu-data-agreement-in-boost-for-outsourcing-ambitions/",
+     "s": "TechMoran",
+     "d": "Nov 19",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "KNCCI and Akili AI find 99% of Kenyan organisations use AI, but three-quarters have no formal AI policy and four in five no named risk owner",
+     "u": "https://techtrendske.co.ke/2026/11/19/ai-adoption-kenya-organisations-readiness-report/",
+     "s": "TechTrendsKE",
+     "d": "Nov 19",
+     "dot": "dot-jobs"
+    },
     {
      "t": "PwC survey: 71% of African workers use AI on the job, but only 37% say it helps with complex tasks",
      "u": "https://iafrica.com/71-of-african-workers-use-ai-on-the-job-but-only-37-say-it-helps-with-hard-tasks-pwc/",
@@ -2082,6 +2117,20 @@
   "access": {
    "label": "Access & Pricing",
    "items": [
+    {
+     "t": "Week 47 price report logs 140 API price movements across 11 providers, with Gemini Pro input rising from $1.25 to $2 per million tokens",
+     "u": "https://www.priceper1m.com/digest/2026-w47",
+     "s": "Price per 1M",
+     "d": "Nov 20",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Gemini 4 Neon launches at $3 input and $15 output per million tokens, with cached input at $0.15 and a 1M-token window",
+     "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+     "s": "Google",
+     "d": "Nov 18",
+     "dot": "dot-price"
+    },
     {
      "t": "Memory squeeze pushes up phone prices across Africa as AI servers absorb DRAM supply, with sub-$100 handsets squeezed out first",
      "u": "https://meatechwatch.com/memory-chip-squeeze-phone-prices-south-asia-africa/",
@@ -5061,6 +5110,20 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "Huawei to expand AI computing capacity in Nigeria by end-2026, announced at Huawei IT Day Lagos, using its local open laboratory for partners",
+     "u": "https://www.techreview.africa/news/huawei-targets-Nigerias-ai-infrastructure-market-with-expansion-plan",
+     "s": "Tech Review Africa",
+     "d": "Nov 19",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Sino-Algerian consortium led by China Railway Construction and Huawei wins a $290m contract for a national data centre and disaster recovery centre",
+     "u": "https://dzwatch.dz/en/algeria/sino-algerian-consortium-wins-290-million-data-center-contract",
+     "s": "DZ Watch",
+     "d": "Nov 19",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Africa's AI runs on rented infrastructure: 0.2% of global AI compute, H100s at $13.55 an hour",
      "u": "https://cioafrica.co/africas-ai-runs-on-rented-infrastructure/",
      "s": "CIO Africa",
@@ -7807,7 +7870,7 @@
    ]
   }
  },
- "tracker_updated": "2026-11-18",
+ "tracker_updated": "2026-11-20",
  "backfill_updated": "2026-10-22",
  "scope": "Combined signal feed: tracker plus reviewed historical additions. Signals are not verified numerical observations."
 }

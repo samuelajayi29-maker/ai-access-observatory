@@ -1,14 +1,64 @@
 {
- "generated_at": "2026-11-18",
- "count": 949,
+ "generated_at": "2026-11-20",
+ "count": 958,
  "source_checked": 82,
  "flag_counts": {
-  "source_review_outstanding": 867,
-  "african_relevance_not_recorded": 356,
+  "african_relevance_not_recorded": 359,
+  "source_review_outstanding": 876,
   "topic_needs_review": 56
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
  "rows": [
+  {
+   "headline": "Jumia cuts a further 3% of staff as AI automation spreads into seller onboarding, product listing and support, leaving 1,720 on payroll",
+   "url": "https://businessday.ng/technology/article/jumia-trims-workforce-by-3-as-ai-takes-over-operations/",
+   "pillar": "jobs",
+   "current_topic": "Employment and outsourcing",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Kuda cuts 7.5% of staff across seven countries in its second round of 2026, as AI and better software reshape African tech staffing",
+   "url": "https://techcabal.com/2026/11/19/kuda-cut-jobs-again/",
+   "pillar": "jobs",
+   "current_topic": "Employment and outsourcing",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "MTN Nigeria and Plateau State open a 600-seat BPO and AI hub in Jos to train and place young workers in outsourced digital services",
+   "url": "https://www.nigeriacommunicationsweek.com.ng/2026/11/19/mtn-nigeria-plateau-state-government-partner-to-grow-bpo-industry-create-digital-jobs",
+   "pillar": "jobs",
+   "current_topic": "Employment and outsourcing",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "NGA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Kenya and the EU conclude data adequacy talks, the first such arrangement with an African country, easing European BPO data transfers",
+   "url": "https://techmoran.com/2026/11/19/kenya-nears-eu-data-agreement-in-boost-for-outsourcing-ambitions/",
+   "pillar": "jobs",
+   "current_topic": "Employment and outsourcing",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "KEN",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "KNCCI and Akili AI find 99% of Kenyan organisations use AI, but three-quarters have no formal AI policy and four in five no named risk owner",
+   "url": "https://techtrendske.co.ke/2026/11/19/ai-adoption-kenya-organisations-readiness-report/",
+   "pillar": "jobs",
+   "current_topic": "Policy and regulation",
+   "suggested_topic": "Policy and regulation",
+   "country": "KEN",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
   {
    "headline": "PwC survey: 71% of African workers use AI on the job, but only 37% say it helps with complex tasks",
    "url": "https://iafrica.com/71-of-african-workers-use-ai-on-the-job-but-only-37-say-it-helps-with-hard-tasks-pwc/",
@@ -2458,6 +2508,26 @@
    "country": "UGA",
    "flags": "topic_needs_review",
    "source_checked": true
+  },
+  {
+   "headline": "Week 47 price report logs 140 API price movements across 11 providers, with Gemini Pro input rising from $1.25 to $2 per million tokens",
+   "url": "https://www.priceper1m.com/digest/2026-w47",
+   "pillar": "access",
+   "current_topic": "Pricing and affordability",
+   "suggested_topic": "Pricing and affordability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Gemini 4 Neon launches at $3 input and $15 output per million tokens, with cached input at $0.15 and a 1M-token window",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "pillar": "access",
+   "current_topic": "Models and capability",
+   "suggested_topic": "Models and capability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
   },
   {
    "headline": "Memory squeeze pushes up phone prices across Africa as AI servers absorb DRAM supply, with sub-$100 handsets squeezed out first",
@@ -5758,6 +5828,26 @@
    "country": "TUN",
    "flags": "topic_needs_review",
    "source_checked": true
+  },
+  {
+   "headline": "Huawei to expand AI computing capacity in Nigeria by end-2026, announced at Huawei IT Day Lagos, using its local open laboratory for partners",
+   "url": "https://www.techreview.africa/news/huawei-targets-Nigerias-ai-infrastructure-market-with-expansion-plan",
+   "pillar": "infra",
+   "current_topic": "Infrastructure and compute",
+   "suggested_topic": "Infrastructure and compute",
+   "country": "NGA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Sino-Algerian consortium led by China Railway Construction and Huawei wins a $290m contract for a national data centre and disaster recovery centre",
+   "url": "https://dzwatch.dz/en/algeria/sino-algerian-consortium-wins-290-million-data-center-contract",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "DZA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
   },
   {
    "headline": "Africa's AI runs on rented infrastructure: 0.2% of global AI compute, H100s at $13.55 an hour",
