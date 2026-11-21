@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "schema": 1,
  "buckets": {
   "jobs": {
@@ -37,6 +37,20 @@
      "t": "KNCCI and Akili AI find 99% of Kenyan organisations use AI, but three-quarters have no formal AI policy and four in five no named risk owner",
      "u": "https://techtrendske.co.ke/2026/11/19/ai-adoption-kenya-organisations-readiness-report/",
      "s": "TechTrendsKE",
+     "d": "Nov 19",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Task-based model finds high AI disruption across four Kenyan freelance categories, with livelihood vulnerability lower and uneven",
+     "u": "https://arxiv.org/abs/2611.25585",
+     "s": "arXiv",
+     "d": "Nov 19",
+     "dot": "dot-arxiv"
+    },
+    {
+     "t": "Scale AI's Outlier pays up to $180 an hour for US doctors but advertises Swahili work in Tanzania at $12.50, as high-skill data work turns gig",
+     "u": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
+     "s": "Rest of World",
      "d": "Nov 19",
      "dot": "dot-jobs"
     },
@@ -1661,6 +1675,13 @@
      "s": "Google",
      "d": "Nov 18",
      "dot": "dot-price"
+    },
+    {
+     "t": "Quantisation on consumer T4 GPUs holds African-language translation within about 1 chrF but makes inference 1.3x to 5.3x slower",
+     "u": "https://arxiv.org/abs/2611.24043",
+     "s": "arXiv",
+     "d": "Nov 18",
+     "dot": "dot-arxiv"
     },
     {
      "t": "Memory squeeze pushes up phone prices across Africa as AI servers absorb DRAM supply, with sub-$100 handsets squeezed out first",
@@ -3740,6 +3761,27 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "Kenya signs KSh90bn ($692m) floating LNG deal with AMACO to power Mombasa data centres, from 250MW up to 1,000MW",
+     "u": "https://econews.co.ke/2026/11/20/kenya-lng-power-plant-mombasa/",
+     "s": "Eco News",
+     "d": "Nov 20",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Gungubele tells Africa Tech Festival that African pension funds and banks must finance the continent's data centres, not just use them",
+     "u": "https://www.engineeringnews.co.za/article/africas-digital-economy-at-a-turning-point-says-gungubele-2026-11-20",
+     "s": "Engineering News",
+     "d": "Nov 20",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "OADC re-plans its Lagos flagship from 24MW to about 40MW as AI densities rise, with Ghana and Cote d'Ivoire next after the WIOCC capital raise",
+     "u": "https://datacentremagazine.com/news/open-access-data-centres-ayotunde-coker-on-ai-in-africa",
+     "s": "Data Centre Magazine",
+     "d": "Nov 20",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Huawei to expand AI computing capacity in Nigeria by end-2026, announced at Huawei IT Day Lagos, using its local open laboratory for partners",
      "u": "https://www.techreview.africa/news/huawei-targets-Nigerias-ai-infrastructure-market-with-expansion-plan",
      "s": "Tech Review Africa",
@@ -3750,6 +3792,13 @@
      "t": "Sino-Algerian consortium led by China Railway Construction and Huawei wins a $290m contract for a national data centre and disaster recovery centre",
      "u": "https://dzwatch.dz/en/algeria/sino-algerian-consortium-wins-290-million-data-center-contract",
      "s": "DZ Watch",
+     "d": "Nov 19",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Nature Computational Science argues for 'distributed sovereignty' instead of national hyperscale build-out, noting Africa is about 500 data centres short of the 700 needed",
+     "u": "https://www.nature.com/articles/s43588-026-01084-9",
+     "s": "Nature Computational Science",
      "d": "Nov 19",
      "dot": "dot-infra"
     },
