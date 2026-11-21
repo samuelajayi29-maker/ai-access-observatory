@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-20",
- "count": 958,
+ "generated_at": "2026-11-21",
+ "count": 965,
  "source_checked": 82,
  "flag_counts": {
   "african_relevance_not_recorded": 359,
-  "source_review_outstanding": 876,
+  "source_review_outstanding": 883,
   "topic_needs_review": 56
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
@@ -56,6 +56,26 @@
    "current_topic": "Policy and regulation",
    "suggested_topic": "Policy and regulation",
    "country": "KEN",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Task-based model finds high AI disruption across four Kenyan freelance categories, with livelihood vulnerability lower and uneven",
+   "url": "https://arxiv.org/abs/2611.25585",
+   "pillar": "jobs",
+   "current_topic": "Employment and outsourcing",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "KEN",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Scale AI's Outlier pays up to $180 an hour for US doctors but advertises Swahili work in Tanzania at $12.50, as high-skill data work turns gig",
+   "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
+   "pillar": "jobs",
+   "current_topic": "Skills and talent",
+   "suggested_topic": "Skills and talent",
+   "country": "TZA",
    "flags": "source_review_outstanding",
    "source_checked": false
   },
@@ -2527,6 +2547,16 @@
    "suggested_topic": "Models and capability",
    "country": "",
    "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Quantisation on consumer T4 GPUs holds African-language translation within about 1 chrF but makes inference 1.3x to 5.3x slower",
+   "url": "https://arxiv.org/abs/2611.24043",
+   "pillar": "access",
+   "current_topic": "Devices and hardware",
+   "suggested_topic": "Devices and hardware",
+   "country": "",
+   "flags": "source_review_outstanding",
    "source_checked": false
   },
   {
@@ -5830,6 +5860,36 @@
    "source_checked": true
   },
   {
+   "headline": "Kenya signs KSh90bn ($692m) floating LNG deal with AMACO to power Mombasa data centres, from 250MW up to 1,000MW",
+   "url": "https://econews.co.ke/2026/11/20/kenya-lng-power-plant-mombasa/",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "KEN",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Gungubele tells Africa Tech Festival that African pension funds and banks must finance the continent's data centres, not just use them",
+   "url": "https://www.engineeringnews.co.za/article/africas-digital-economy-at-a-turning-point-says-gungubele-2026-11-20",
+   "pillar": "infra",
+   "current_topic": "Investment and funding",
+   "suggested_topic": "Investment and funding",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "OADC re-plans its Lagos flagship from 24MW to about 40MW as AI densities rise, with Ghana and Cote d'Ivoire next after the WIOCC capital raise",
+   "url": "https://datacentremagazine.com/news/open-access-data-centres-ayotunde-coker-on-ai-in-africa",
+   "pillar": "infra",
+   "current_topic": "Investment and funding",
+   "suggested_topic": "Investment and funding",
+   "country": "GHA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "Huawei to expand AI computing capacity in Nigeria by end-2026, announced at Huawei IT Day Lagos, using its local open laboratory for partners",
    "url": "https://www.techreview.africa/news/huawei-targets-Nigerias-ai-infrastructure-market-with-expansion-plan",
    "pillar": "infra",
@@ -5846,6 +5906,16 @@
    "current_topic": "Data centres and compute",
    "suggested_topic": "Data centres and compute",
    "country": "DZA",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Nature Computational Science argues for 'distributed sovereignty' instead of national hyperscale build-out, noting Africa is about 500 data centres short of the 700 needed",
+   "url": "https://www.nature.com/articles/s43588-026-01084-9",
+   "pillar": "infra",
+   "current_topic": "Policy and regulation",
+   "suggested_topic": "Policy and regulation",
+   "country": "",
    "flags": "source_review_outstanding",
    "source_checked": false
   },
