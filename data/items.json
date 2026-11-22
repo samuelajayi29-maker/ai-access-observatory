@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "schema": 1,
  "buckets": {
   "jobs": {
@@ -52,6 +52,13 @@
      "u": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
      "s": "Rest of World",
      "d": "Nov 19",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Microsoft and the Western Cape launch CAPEability AI to train residents aged 18 to 35 across 83 e-centres and 375 library points, as advertised vacancies demanding AI skills rise 352% since 2019",
+     "u": "https://www.itweb.co.za/article/microsoft-wcape-to-prepare-residents-for-ai-economy/5yONP7Erj8QMXWrb",
+     "s": "ITWeb",
+     "d": "Nov 18",
      "dot": "dot-jobs"
     },
     {
@@ -1663,6 +1670,13 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "GSMA puts Africa's mobile internet usage gap at 64% even with 92% of the population under network coverage",
+     "u": "https://nairametrics.com/2026/11/21/gsma-says-africa-has-64-mobile-internet-usage-gap-despite-92-network-coverage/",
+     "s": "Nairametrics",
+     "d": "Nov 21",
+     "dot": "dot-access"
+    },
+    {
      "t": "Week 47 price report logs 140 API price movements across 11 providers, with Gemini Pro input rising from $1.25 to $2 per million tokens",
      "u": "https://www.priceper1m.com/digest/2026-w47",
      "s": "Price per 1M",
@@ -1682,6 +1696,13 @@
      "s": "arXiv",
      "d": "Nov 18",
      "dot": "dot-arxiv"
+    },
+    {
+     "t": "Benin plans AI that answers in 16 local languages and about 50 variants to open more than 250 French-only government services to citizens who cannot use French",
+     "u": "https://africa.businessinsider.com/local/markets/benin-turns-to-ai-in-local-languages-as-it-pushes-to-reduce-africas-dependence-on/7syhlex",
+     "s": "Business Insider Africa",
+     "d": "Nov 17",
+     "dot": "dot-access"
     },
     {
      "t": "Memory squeeze pushes up phone prices across Africa as AI servers absorb DRAM supply, with sub-$100 handsets squeezed out first",
@@ -3782,6 +3803,20 @@
      "dot": "dot-infra"
     },
     {
+     "t": "Morocco plans a $256m fund for AI startups under its AI Made in Morocco strategy, targeting 50,000 AI-related jobs and $10 billion in economic contribution by 2030",
+     "u": "https://iafrica.com/morocco-plans-256m-fund-for-ai-startups/",
+     "s": "iAfrica",
+     "d": "Nov 20",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Telkom South Africa explores converting about 300 underused fixed-line exchange buildings into edge data centres to add capacity without new land",
+     "u": "https://cioafrica.co/telkom-eyes-300-buildings-for-edge-data-centre-expansion/",
+     "s": "CIO Africa",
+     "d": "Nov 20",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Huawei to expand AI computing capacity in Nigeria by end-2026, announced at Huawei IT Day Lagos, using its local open laboratory for partners",
      "u": "https://www.techreview.africa/news/huawei-targets-Nigerias-ai-infrastructure-market-with-expansion-plan",
      "s": "Tech Review Africa",
@@ -3803,6 +3838,13 @@
      "dot": "dot-infra"
     },
     {
+     "t": "Mauritius Telecom partners Cassava Technologies to expand AI services, starting with South Africa and reaching Cape Town compute, as only 5% of African data centres are AI-ready",
+     "u": "https://www.ecofinagency.com/news-digital/1911-60968-mauritius-telecom-partners-with-cassava-technologies-to-expand-ai-services-across-africa",
+     "s": "Ecofin Agency",
+     "d": "Nov 19",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Africa's AI runs on rented infrastructure: 0.2% of global AI compute, H100s at $13.55 an hour",
      "u": "https://cioafrica.co/africas-ai-runs-on-rented-infrastructure/",
      "s": "CIO Africa",
@@ -3813,6 +3855,20 @@
      "t": "Cassava seeks $1 billion to buy Nvidia chips for AI data centres across Africa",
      "u": "https://techcabal.com/2026/11/18/techcabal-daily-cassava-seeks-1-billion-for-ai/",
      "s": "TechCabal",
+     "d": "Nov 18",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "UAE's $1 billion AI for Development initiative in Africa draws project inquiries worth more than its full allocation, with more than 10% already deploying, ADEX says",
+     "u": "https://www.khaleejtimes.com/uae/uae-ai-fund-for-africa-receives-over-1-billion-dollars-in-project-inquiries",
+     "s": "Khaleej Times",
+     "d": "Nov 18",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Zimbabwe's Cabinet approves a National AI Charter to govern implementation of its 2026-2030 strategy, with oversight, accountability and complaint handling built in",
+     "u": "https://techafricanews.com/2026/11/18/zimbabwe-cabinet-approves-national-ai-charter-for-responsible-technology-development/",
+     "s": "TechAfrica News",
      "d": "Nov 18",
      "dot": "dot-infra"
     },
