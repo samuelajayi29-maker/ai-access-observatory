@@ -4,7 +4,7 @@
  "releases": [
   {
    "version": "v2026.10",
-   "compiled": "2026-11-21",
+   "compiled": "2026-11-22",
    "base_url": "https://inferenceafrica.com",
    "schema_version": "2026.10.3",
    "licence": "CC BY 4.0. Credit reads: InferenceAfrica",
@@ -24,11 +24,11 @@
      "bytes": 1541
     },
     "access.html": {
-     "sha256": "7f708e3db2db146a01023efd0282bc7fe254ea940c14229b71bcece8587c6442",
+     "sha256": "125d776176218c7f4804e2490227b63038348be258e9a254982048ed019f1575",
      "bytes": 3846
     },
     "analysis.html": {
-     "sha256": "cecaca88b044b0b44a3e282d4c82dc6e457132e011e8eb480eaf826fe230628b",
+     "sha256": "b9dcee1f46455fde5e97612e8a37f4675b0e3d1f2770483b908a0324cec67147",
      "bytes": 3852
     },
     "apple-touch-icon.png": {
@@ -40,11 +40,11 @@
      "bytes": 6922
     },
     "charts/access-affordability.png": {
-     "sha256": "d8d36bf45d8e620e61186383587d3438e20aa1337c32bcd1dddb2c2502ef68dc",
-     "bytes": 404654
+     "sha256": "9403f80e4cd7ee0942ee4f68206ed37063132fa541b68b70c90d90244e06ca17",
+     "bytes": 404800
     },
     "charts/access-affordability.svg": {
-     "sha256": "d0bd9a1090cf0223e2538ecea91bdec1ca9a5b76e456608518186d63d7a00c29",
+     "sha256": "8497fcf85749cbee669c0f6aeefca0d48a89e328fbfb1a614814b3e438d91875",
      "bytes": 50524
     },
     "charts/access-capability-vs-cost.csv": {
@@ -52,11 +52,11 @@
      "bytes": 380
     },
     "charts/access-capability-vs-cost.png": {
-     "sha256": "31f4609e82089c7ea42792e2c9b951d9ca66b62de2a2e43f1f91b4127e4b5dad",
-     "bytes": 434996
+     "sha256": "c0d08b37fcca28bf71b5c2655a36f672b1d0fcb22561fce9875dbdaa17584fc7",
+     "bytes": 435173
     },
     "charts/access-capability-vs-cost.svg": {
-     "sha256": "df4828388036159797634f98667a03ed39bbfdda458040ee6808f4e07f283b35",
+     "sha256": "d855f5d20598e0bbf50dac281fbd28a31892c1b959ca480e004ec47091a293dd",
      "bytes": 15934
     },
     "charts/access-device-prices.csv": {
@@ -64,11 +64,11 @@
      "bytes": 572
     },
     "charts/access-device-prices.png": {
-     "sha256": "60922c7f9d982fa3cbdca75100a736acb550cd3e97f49fdb58634a8e0ec6b51f",
-     "bytes": 326162
+     "sha256": "943b3ba80c65206ee08e21163c7c663b8032e896ec264d4b5aa53dad136b2dc6",
+     "bytes": 326294
     },
     "charts/access-device-prices.svg": {
-     "sha256": "2bd95c0bdd40a35f25f1b099bf8d4223eb96f426445422e9f0a051b5a1d22e72",
+     "sha256": "19f4c58adc32e56df988dfe5182e20d592e01c9c4a75b43d36945a735cf880a6",
      "bytes": 8778
     },
     "charts/access-fx-decomposition.csv": {
@@ -76,11 +76,11 @@
      "bytes": 1155
     },
     "charts/access-fx-decomposition.png": {
-     "sha256": "32f673365dc7cae7e09377adba8c79f507881cfb4710309b1b43f2d551156203",
-     "bytes": 242090
+     "sha256": "499bb0c000751af5be54fac25e4fd134840ffae64712b7b435343a4381b6514f",
+     "bytes": 242219
     },
     "charts/access-fx-decomposition.svg": {
-     "sha256": "a07368cc63a287132b62074b94dc18d25fe7acfd4a9acc1a986892b83283dab5",
+     "sha256": "1469783020253e005f78521d358bf3fb28d7bd230259a2704b311884cbd7c680",
      "bytes": 7059
     },
     "charts/access-shipments.csv": {
@@ -88,11 +88,11 @@
      "bytes": 539
     },
     "charts/access-shipments.png": {
-     "sha256": "2c4448a04e32b9e363e653b7fafa36e9ee95573836b46d6da0bed451836c2b5b",
-     "bytes": 316723
+     "sha256": "eb4e39e487d0d9a77c582053b5c79e6b8b4f1eb41f5cf1c8d7a4687f02a0954d",
+     "bytes": 316834
     },
     "charts/access-shipments.svg": {
-     "sha256": "e4eebfa47e0cfe2b9df7fbfd66ec0ff89439f500aa38b3c6b2909368fbef1b67",
+     "sha256": "0ab7a38cbc7e5aa1931ff4da8e341f32f7c9c5f0649aa2177cb77e512b73a470",
      "bytes": 8597
     },
     "charts/access-subscription-share.csv": {
@@ -100,11 +100,11 @@
      "bytes": 15150
     },
     "charts/access-subscription-share.png": {
-     "sha256": "95acf9e95a7339f58d357ef2d0ee26f2728829c0befe0840dd6b5f4d887e429e",
-     "bytes": 353589
+     "sha256": "ef6d1f01847f0e4f263c19017c356c549b27586b17e12eea440ff6115b699dfa",
+     "bytes": 353737
     },
     "charts/access-subscription-share.svg": {
-     "sha256": "266ddb95811d28114475254106e11e36281d0dbfb9dee2289f2a3f040a5a359e",
+     "sha256": "b35c4d7b41c0449905490c4b3bd44cdb03f7020c6dd2b7b1c47f98e763c144ed",
      "bytes": 37668
     },
     "charts/countries/ago.csv": {
@@ -112,7 +112,7 @@
      "bytes": 5044
     },
     "charts/countries/ago.svg": {
-     "sha256": "0731b03e101d238fa338faac1c63cd41bbabb8236dd686b22ef33900ba49d8e5",
+     "sha256": "adc834772d1a6fb17fa7360a0583b4223261a42db185ba8c23b519fbae554bfc",
      "bytes": 7604
     },
     "charts/countries/bdi.csv": {
@@ -120,7 +120,7 @@
      "bytes": 4732
     },
     "charts/countries/bdi.svg": {
-     "sha256": "750988525214ae2c7338a1ce5f65640d7045b86febe6bdac6ce00da3cd13ab2c",
+     "sha256": "29f3c2099ef4be4da23f935238dd350311fbe82e8f95a93a73249479e3ab892d",
      "bytes": 7602
     },
     "charts/countries/ben.csv": {
@@ -128,7 +128,7 @@
      "bytes": 4754
     },
     "charts/countries/ben.svg": {
-     "sha256": "8c1c533840827ac31de0baf855e0cb864443adea2083a5adecdb24ea3a98746d",
+     "sha256": "08286028e45be1b4eff8b5bd14ea91e90c0213b3eb4a8c9bf7d05c4436b45081",
      "bytes": 7596
     },
     "charts/countries/bfa.csv": {
@@ -136,7 +136,7 @@
      "bytes": 4798
     },
     "charts/countries/bfa.svg": {
-     "sha256": "29dbbe9e57f160c7ad4f3e4616d99720906a6a315e934ff4145a10c455ebd19a",
+     "sha256": "d80b22897d611ebd7e4172d4ca188dfaa18d61dcdb17d5bfdb0f639f15d987ef",
      "bytes": 7624
     },
     "charts/countries/bwa.csv": {
@@ -144,7 +144,7 @@
      "bytes": 4512
     },
     "charts/countries/bwa.svg": {
-     "sha256": "103214e4d54d2466392c8ee037259f09d990c6c4af48f2532bf4050be83d5476",
+     "sha256": "7f45bcfad8ab85e777563aab115a801e9c28d520de6132413d6b4e4a9e836dbb",
      "bytes": 7644
     },
     "charts/countries/caf.csv": {
@@ -152,7 +152,7 @@
      "bytes": 4142
     },
     "charts/countries/caf.svg": {
-     "sha256": "fdf15027fed8302bfed5e47855cc04f13655b8f7843a7642fc7e30c4550020a6",
+     "sha256": "28c59c17ce50f54cd73ac11753b9dd430df766b9a9f887e621b9174cee53c6f1",
      "bytes": 7734
     },
     "charts/countries/civ.csv": {
@@ -160,7 +160,7 @@
      "bytes": 5065
     },
     "charts/countries/civ.svg": {
-     "sha256": "3f3d4677bebd0e5b133d024c93535ef02d24b712ed1fd12d8cb2261b0ea4aeb7",
+     "sha256": "64a9ae9a51f7e291ac452e20d542f38e95b7ba144e5c239c1373794b0656b554",
      "bytes": 7643
     },
     "charts/countries/cmr.csv": {
@@ -168,7 +168,7 @@
      "bytes": 4583
     },
     "charts/countries/cmr.svg": {
-     "sha256": "0509774d4cd0bb8338aafde0893a43dcdc7fe37152b2b221a63df3c972ec9fda",
+     "sha256": "19b2df4c2495cce962cfe4b53c443cb0264837a0eba2b72816ba80170893ed12",
      "bytes": 7633
     },
     "charts/countries/cod.csv": {
@@ -176,7 +176,7 @@
      "bytes": 4777
     },
     "charts/countries/cod.svg": {
-     "sha256": "c60d929fd1096bd29c05ab7e51bd81a6b642ddef1493004eda39adf873e43855",
+     "sha256": "923d8bbc008b3fe3893fc1652570361208887a2110f4a09cd68a1f6d043c39ec",
      "bytes": 7759
     },
     "charts/countries/cog.csv": {
@@ -184,7 +184,7 @@
      "bytes": 4516
     },
     "charts/countries/cog.svg": {
-     "sha256": "973651ed79339eff312c6fd306a3ddd2a35448a22a058b5d09c100f000fbb5e4",
+     "sha256": "6d0f676954e7e5264c5e828130ef0ee996a904ae1f3abc2f14095f87f7282212",
      "bytes": 7684
     },
     "charts/countries/com.csv": {
@@ -192,7 +192,7 @@
      "bytes": 3890
     },
     "charts/countries/com.svg": {
-     "sha256": "353f8f2afa7d306b23369576e69070d9b0436bab21e3465cd798719e1c6157ef",
+     "sha256": "2639db0c15dd476ee4cf0a2e9aa5e11287f05c8bafb8e014adf3c40729b701f7",
      "bytes": 7679
     },
     "charts/countries/cpv.csv": {
@@ -200,7 +200,7 @@
      "bytes": 4192
     },
     "charts/countries/cpv.svg": {
-     "sha256": "1d2e0d3ed6fce390bfd84f75cfce308243a33d90f5e3458bc424ab2cced44785",
+     "sha256": "f6e8d7810b9005bdc4cb0e298aff43bba67ddc456fbb4c9d942adde10bb64858",
      "bytes": 7665
     },
     "charts/countries/dji.csv": {
@@ -208,7 +208,7 @@
      "bytes": 3935
     },
     "charts/countries/dji.svg": {
-     "sha256": "d99e34ebb38ce4ab3708a7a4fc8f910c93e377a8eee9800fb38d911e26d7f4eb",
+     "sha256": "b6b093669ecfb5ea63234106a9d11eeea64c0c1218c230925d00bd9727547dcf",
      "bytes": 7684
     },
     "charts/countries/dza.csv": {
@@ -216,7 +216,7 @@
      "bytes": 4718
     },
     "charts/countries/dza.svg": {
-     "sha256": "1d752282518d67879e709610be2c250b68242177b571d3d35e704813c0e213d0",
+     "sha256": "9fbfb8c2c29568697380500465eda154c9b0925ae97a743367b0f6dbe9661f0c",
      "bytes": 7632
     },
     "charts/countries/egy.csv": {
@@ -224,7 +224,7 @@
      "bytes": 5725
     },
     "charts/countries/egy.svg": {
-     "sha256": "7453978ded688d8dae6d7f5dbe6c20ef4f2629631715b644a138a2e3e508887f",
+     "sha256": "8fd094c002da530ce951c99b54312548c29c56df371938e5ed745c1d9eacb558",
      "bytes": 7599
     },
     "charts/countries/eri.csv": {
@@ -232,7 +232,7 @@
      "bytes": 3852
     },
     "charts/countries/eri.svg": {
-     "sha256": "49e2dea37ba2c6b59ffe2237fe1336711fd6bdcb8af5447a4b688f26c6f833a2",
+     "sha256": "151368bd0934565c9190089ea694677e4c0cd06bb72636162becf52dff5591e0",
      "bytes": 7666
     },
     "charts/countries/eth.csv": {
@@ -240,7 +240,7 @@
      "bytes": 5087
     },
     "charts/countries/eth.svg": {
-     "sha256": "9bc15c59d0310cc44d2d9ffab7365309a95be4d274fe2e0cad14a7ecc06806bb",
+     "sha256": "8f283540a3db075a6b02e274afb3398b93c4804650102aba058c89108ddfc2af",
      "bytes": 7609
     },
     "charts/countries/gab.csv": {
@@ -248,7 +248,7 @@
      "bytes": 4188
     },
     "charts/countries/gab.svg": {
-     "sha256": "580d65eb31eab0fd20d56377005fe6e80e1f27fa8058446a6f0d3bb02cedb737",
+     "sha256": "a4985d43970d876a5a1ccbede004114328919511ad90619cc20953475305816f",
      "bytes": 7660
     },
     "charts/countries/gha.csv": {
@@ -256,7 +256,7 @@
      "bytes": 5020
     },
     "charts/countries/gha.svg": {
-     "sha256": "e6193ae88587722323b99b629cb2ac0edce6018bc8e88f5a837916adbb5eb9a5",
+     "sha256": "796808f033d74536061bda87f47ca45de7264dc574194a4f16a9ebbdcb118914",
      "bytes": 7598
     },
     "charts/countries/gin.csv": {
@@ -264,7 +264,7 @@
      "bytes": 4690
     },
     "charts/countries/gin.svg": {
-     "sha256": "ce1019257f789afe39d7fe0fabcee0cb2fced4946bbb9d0e0236155e2484e150",
+     "sha256": "7c83901b5c98f95464361a44579fd34533b6306c4a37f1d8b14297bf6be4a5b3",
      "bytes": 7602
     },
     "charts/countries/gmb.csv": {
@@ -272,7 +272,7 @@
      "bytes": 4422
     },
     "charts/countries/gmb.svg": {
-     "sha256": "54d3fd54cdca04e524f24e552a81ad9626f0908db80cefebb44409c49ece5828",
+     "sha256": "ede77f3c61735b922a74e7da1f2480abf10fd7b5f7da344601153d6710f76c7f",
      "bytes": 7636
     },
     "charts/countries/gnb.csv": {
@@ -280,7 +280,7 @@
      "bytes": 4402
     },
     "charts/countries/gnb.svg": {
-     "sha256": "87b661d3132e246bdda978033d6f2f0ea4de535d729b250259a395aa3f92a2b1",
+     "sha256": "dd6bdaee022234455c8cda714e33af8dd7b9ea060fef4b8c58dbf33b15b09ef0",
      "bytes": 7666
     },
     "charts/countries/gnq.csv": {
@@ -288,7 +288,7 @@
      "bytes": 3622
     },
     "charts/countries/gnq.svg": {
-     "sha256": "e2e83aa06ec5e3188c2aeb388ba70dfe89bbb3bbc84c13bbddc022cc55409c3b",
+     "sha256": "1c89b9958e133c4ac00a76dac899e9104ce1077f638bba01fadcd0f4f3cc01e7",
      "bytes": 7721
     },
     "charts/countries/ken.csv": {
@@ -296,7 +296,7 @@
      "bytes": 5283
     },
     "charts/countries/ken.svg": {
-     "sha256": "1b47a4c32808a6d757b0e651cafc834a9a387a03c20240871c744928bb3e6916",
+     "sha256": "ba2b0071052a1399c8b25aa1426161df584af663a1e555517a5b3fd31a00e107",
      "bytes": 7595
     },
     "charts/countries/lbr.csv": {
@@ -304,7 +304,7 @@
      "bytes": 4274
     },
     "charts/countries/lbr.svg": {
-     "sha256": "d8609340713a4c7913ec4fb587a583dfd7fe4ade884d86b588c4843a2fcd2410",
+     "sha256": "a93a8d73756baf502691af44f49659b243197e5d569190fbc806e2fee46d5581",
      "bytes": 7664
     },
     "charts/countries/lby.csv": {
@@ -312,7 +312,7 @@
      "bytes": 4608
     },
     "charts/countries/lby.svg": {
-     "sha256": "96d8ebe9a20ae8a180c80e41df1b5585b3a0133d84750979ed1b03b0912d9752",
+     "sha256": "619ac8e14c3d659526fa207dadf82f9833f8a82f4b07c7a72c7677934189f79a",
      "bytes": 7622
     },
     "charts/countries/lso.csv": {
@@ -320,7 +320,7 @@
      "bytes": 4466
     },
     "charts/countries/lso.svg": {
-     "sha256": "7172427ff5428b9698e670dcce2d6af6ae5d252b7b75e1e260a73a1ea7c37fc3",
+     "sha256": "6fab751d9691026a597b8541185fbbf24d3642c8ce6374a2ce1972d57465bc8b",
      "bytes": 7638
     },
     "charts/countries/mar.csv": {
@@ -328,7 +328,7 @@
      "bytes": 5070
     },
     "charts/countries/mar.svg": {
-     "sha256": "2a3bf9c0490bf13dfb60e02ce84b84b77d38047461ee8fd074be7ff6c756804a",
+     "sha256": "120267e8103eddecb327760b8f7f2409c7b1e638dddd45e93248e80dbc1ef88e",
      "bytes": 7630
     },
     "charts/countries/mdg.csv": {
@@ -336,7 +336,7 @@
      "bytes": 4756
     },
     "charts/countries/mdg.svg": {
-     "sha256": "3d7cee45a62e7450df1989cff8975af5ad7b1c86decea626a118cacf51e32661",
+     "sha256": "5e08f63a9abe52983f1e978f396b912f327f2854d987bfe288ad02ce3d8416d4",
      "bytes": 7618
     },
     "charts/countries/mli.csv": {
@@ -344,7 +344,7 @@
      "bytes": 4666
     },
     "charts/countries/mli.svg": {
-     "sha256": "14a282b650c4368f104394113322d58bbd4d1b58ce4388e9a82d721c6ed2764b",
+     "sha256": "c1e98597d8e67101e5f67bd81c0f6902871b97d832ae2e71c0cedacc101ed26d",
      "bytes": 7590
     },
     "charts/countries/moz.csv": {
@@ -352,7 +352,7 @@
      "bytes": 4845
     },
     "charts/countries/moz.svg": {
-     "sha256": "ddc75b148c3c5c2be7e8431cad0b598b7a61f7e44db6f718e3bd3ceadaba6a90",
+     "sha256": "fb8ac77684001ea820a81ef0d0e4bd4ad9ab7472ce58b102ee9414259416b131",
      "bytes": 7619
     },
     "charts/countries/mrt.csv": {
@@ -360,7 +360,7 @@
      "bytes": 4099
     },
     "charts/countries/mrt.svg": {
-     "sha256": "d0edd5dddbbd85eee9e1924142add0009069ed636b7367432678da47dc01ce1e",
+     "sha256": "5ae1f06c1d1759b4e1654e9a82c8ba84424bea3cf1b50d9852ade8327f068c89",
      "bytes": 7679
     },
     "charts/countries/mus.csv": {
@@ -368,7 +368,7 @@
      "bytes": 4392
     },
     "charts/countries/mus.svg": {
-     "sha256": "624d5ca829da5f764e21b0d651fd986e1d1b1a02d9168288f53d006b13a2aee1",
+     "sha256": "7d8384ed4a94453a21c5d75d1899c1b80b363c8536988fd3a62ae5eb2ced1882",
      "bytes": 7663
     },
     "charts/countries/mwi.csv": {
@@ -376,7 +376,7 @@
      "bytes": 4756
     },
     "charts/countries/mwi.svg": {
-     "sha256": "dadfae49bf773d4341366125f141cdd64fe663538d23e5036ba4e4d94530b932",
+     "sha256": "937a47c244eee9eca131fb7ca485917fb58343a744246d68bde4b292ea252668",
      "bytes": 7602
     },
     "charts/countries/nam.csv": {
@@ -384,7 +384,7 @@
      "bytes": 4230
     },
     "charts/countries/nam.svg": {
-     "sha256": "5fb3daff732709490f5b0aa1eb7e22600386809a954192da3fb582b1bf4a49b8",
+     "sha256": "b2657d2f92c7b373277de99c8be6dc06a84623f6aeb054d94a91c7517bcdf3c2",
      "bytes": 7666
     },
     "charts/countries/ner.csv": {
@@ -392,7 +392,7 @@
      "bytes": 4667
     },
     "charts/countries/ner.svg": {
-     "sha256": "94ff2c5bb43b57fd73cd150e03800217339adcbd53dd3d8fec43c4d623d37c68",
+     "sha256": "15e10a0e388c37ad3727b3c6cfed4dde018213a786fea1ce1e1e209e41a79405",
      "bytes": 7597
     },
     "charts/countries/nga.csv": {
@@ -400,7 +400,7 @@
      "bytes": 5291
     },
     "charts/countries/nga.svg": {
-     "sha256": "2cba81444dbd0a1352363100c363e86f7055d22b546e9a658a459433950aa2fa",
+     "sha256": "d32db3ddce035ee130e1f140cc9dd2444e944feccd1d448b5e477415d2828291",
      "bytes": 7633
     },
     "charts/countries/rwa.csv": {
@@ -408,7 +408,7 @@
      "bytes": 4775
     },
     "charts/countries/rwa.svg": {
-     "sha256": "22456bb9927281833e66b12c678f9cea8c1d25059d9c3ef35006cc559923b1f8",
+     "sha256": "24722c84c225e5e08027ee51d6457c81a161ec69197db658ffab01348b6b31ff",
      "bytes": 7599
     },
     "charts/countries/sdn.csv": {
@@ -416,7 +416,7 @@
      "bytes": 4753
     },
     "charts/countries/sdn.svg": {
-     "sha256": "ad9df360a55a2aa488a99a4bfe16f758e329f1f0b0352938c50c29a5ade9c34d",
+     "sha256": "e078913357587042d5c16b43ea4ee098fb394a46f1d9f04a9eac45ea81b1a624",
      "bytes": 7593
     },
     "charts/countries/sen.csv": {
@@ -424,7 +424,7 @@
      "bytes": 4609
     },
     "charts/countries/sen.svg": {
-     "sha256": "86b890e6502848b3c124283067868510238abb183dfe9dff1609644ea39dc692",
+     "sha256": "97a7bb5d82b9ac121b4653abd58883bda19da94207e4beb27bbaf6c0dd8ec5c7",
      "bytes": 7633
     },
     "charts/countries/sle.csv": {
@@ -432,7 +432,7 @@
      "bytes": 4734
     },
     "charts/countries/sle.svg": {
-     "sha256": "26b4c6d91c72b6cfbe742f418c97036fee9488194ad5802b7adad42595865569",
+     "sha256": "e97409760e545cf9a145788d5e9731648ceca4cd43432355fdb44f5126d61d94",
      "bytes": 7626
     },
     "charts/countries/som.csv": {
@@ -440,7 +440,7 @@
      "bytes": 4732
     },
     "charts/countries/som.svg": {
-     "sha256": "0431aae5567665d4c3ba81d5faf33e7b5d64d510ad4d0851b5b4f60b4a776bf4",
+     "sha256": "5cd3681c35ade984a98df059ea15ec4f5e589af49bbc6083e69757c3d44bba1f",
      "bytes": 7600
     },
     "charts/countries/ssd.csv": {
@@ -448,7 +448,7 @@
      "bytes": 4406
     },
     "charts/countries/ssd.svg": {
-     "sha256": "a7aad024246d3f877b98a4769318bbf0633238cd6bb5db8115cedfbdec1f4221",
+     "sha256": "c43a02971d2320570617a3ca006cc8968bc787da234c8092ad482608cf5ea95c",
      "bytes": 7642
     },
     "charts/countries/stp.csv": {
@@ -456,7 +456,7 @@
      "bytes": 4127
     },
     "charts/countries/stp.svg": {
-     "sha256": "c0222831ca2dc58c7e4e0579b051e5dceb124c760e3894b081722a76c064250d",
+     "sha256": "86af05bdda9302bebd20251bd919bbda205d6f4329e81ad4ab75bcf9ed194966",
      "bytes": 7716
     },
     "charts/countries/swz.csv": {
@@ -464,7 +464,7 @@
      "bytes": 4172
     },
     "charts/countries/swz.svg": {
-     "sha256": "03f2aa78ca6257c92efcdd7a84e7c58ba454afd85f737c0f6ed6c9d3b1b043ac",
+     "sha256": "9f145afacfe72ddd48c0ed2a7b7077332c6f3b4724a0a6f3b97d7acaff1a512d",
      "bytes": 7659
     },
     "charts/countries/syc.csv": {
@@ -472,7 +472,7 @@
      "bytes": 3890
     },
     "charts/countries/syc.svg": {
-     "sha256": "5a5647a6ea546cdc001ae493cfa9e1d013a7b61392f03833279e8f6a66b50b86",
+     "sha256": "942c0083cbc93ba93e3a4db2c1509e026a30900387de02900883b6cce7537781",
      "bytes": 7691
     },
     "charts/countries/tcd.csv": {
@@ -480,7 +480,7 @@
      "bytes": 4385
     },
     "charts/countries/tcd.svg": {
-     "sha256": "2cc486efd9ad7d1cabeb06d43d3e03a7a390565097fcacadad92f26a6d958d09",
+     "sha256": "5b9d82cdb9e8cc157cf136c9541af010460d03db25df1123ff9f8e139af50b87",
      "bytes": 7617
     },
     "charts/countries/tgo.csv": {
@@ -488,7 +488,7 @@
      "bytes": 4646
     },
     "charts/countries/tgo.svg": {
-     "sha256": "504ac8acd8c35bbde5a524fef8c9fd62e3e26d3d611ef7b040b2bc3cb3d0a603",
+     "sha256": "e8a1f13db52e891c0cdf6e261e256257a3d845c495c94171655c38c3bbd3870e",
      "bytes": 7594
     },
     "charts/countries/tun.csv": {
@@ -496,7 +496,7 @@
      "bytes": 4889
     },
     "charts/countries/tun.svg": {
-     "sha256": "ada6df1ce2090c8de97cf409510190c43b903712817e292e5cd19e013e0d2a92",
+     "sha256": "1dedb6b0983d17a07691819fd14da995d2e12258e75a07ba6579fa83fe162a30",
      "bytes": 7607
     },
     "charts/countries/tza.csv": {
@@ -504,7 +504,7 @@
      "bytes": 5043
     },
     "charts/countries/tza.svg": {
-     "sha256": "7be7866302fcdb9b34ba3a67cf222b147beb43374d8ce58d840add95c09e5ff1",
+     "sha256": "d3fb56b159294fcf7916163ea25e3b228621bf36c3142f11d246e47d742f7389",
      "bytes": 7609
     },
     "charts/countries/uga.csv": {
@@ -512,7 +512,7 @@
      "bytes": 4674
     },
     "charts/countries/uga.svg": {
-     "sha256": "663174d64ee78e3208166d502c10d439f2cc05d462106d4bc05dfa569a134cce",
+     "sha256": "7274dda6a6ce46615a180f79fb7378f5fe1bc44d848e610afc3e17a6088ceed0",
      "bytes": 7626
     },
     "charts/countries/zaf.csv": {
@@ -520,7 +520,7 @@
      "bytes": 5775
     },
     "charts/countries/zaf.svg": {
-     "sha256": "31972ba2fd32c23a8f7f64196568b5c06bc3699007261255f06df6fa73d5311f",
+     "sha256": "05d1832f7620204c148d9c0a27debd208a50f4e3885afa06ab13d2ba11ca4e8a",
      "bytes": 7651
     },
     "charts/countries/zmb.csv": {
@@ -528,7 +528,7 @@
      "bytes": 4778
     },
     "charts/countries/zmb.svg": {
-     "sha256": "9dfb7b63c2fd5252d1c0920fb52a3c1d9d4a7c33fb2809db5e12975c9e647254",
+     "sha256": "78317274e804beffe5d2defa22f343aeb14d03646dcaac6562eb76703a767ecb",
      "bytes": 7602
     },
     "charts/countries/zwe.csv": {
@@ -536,7 +536,7 @@
      "bytes": 4641
     },
     "charts/countries/zwe.svg": {
-     "sha256": "80e032dfeb07005898af76e92f5deca1ba96684ba53ed4e21ed87790e142f610",
+     "sha256": "e349ffdf4c298527a9614011dab6abc61a37e70abc9181ff710d8e798d10e5c1",
      "bytes": 7611
     },
     "charts/infra-capacity-by-status.csv": {
@@ -544,11 +544,11 @@
      "bytes": 174
     },
     "charts/infra-capacity-by-status.png": {
-     "sha256": "9900c35f41fec848aec1b732916cd530e61404f512c44c378063727c2ce3038f",
-     "bytes": 217723
+     "sha256": "7d3688b959e8f57fb8cf50fe3b0daeabeb023684b3e96883ee753c7d80df04e5",
+     "bytes": 217847
     },
     "charts/infra-capacity-by-status.svg": {
-     "sha256": "eb250ab858b9656cacc3d10bdff89600a025aea65a209d0edeec4e0658c1c50d",
+     "sha256": "ac1208891d6049ad7e073659de6eec2790073f53f2986ff3de04eb93f78e1d2f",
      "bytes": 5486
     },
     "charts/infra-capital-by-country.csv": {
@@ -556,11 +556,11 @@
      "bytes": 238
     },
     "charts/infra-capital-by-country.png": {
-     "sha256": "5f26bbe055131319a1463da88a1d8216c4945362c233004c4e3e1905b2848b39",
-     "bytes": 182724
+     "sha256": "b6b380b642f7291049473104f68594a80e7b8fffd1c3e9fc4a99bc2bdcbe65d2",
+     "bytes": 182852
     },
     "charts/infra-capital-by-country.svg": {
-     "sha256": "9c3cb36fa5efc351ea420288c5ba8f310aa44bb515dc0ef8cfde02a5fcb4738b",
+     "sha256": "75b44d1a2d9fc819428d3c45ad5e12b03bacbef61181d895c964ae56999d7e33",
      "bytes": 7215
     },
     "charts/jobs-atlas-exposure.csv": {
@@ -568,11 +568,11 @@
      "bytes": 841
     },
     "charts/jobs-atlas-exposure.png": {
-     "sha256": "78de69e19f728820839d9cc2161b43cdd8536c7e8b9adbd63b3e5cb41d212a9c",
-     "bytes": 537002
+     "sha256": "a8c72d3cc4520de6868753b9fe124a82223eae95bb409b25d62e80204a1bf262",
+     "bytes": 537121
     },
     "charts/jobs-atlas-exposure.svg": {
-     "sha256": "0ba9e3efedfd4be5299fa4b3ffed5f3b50c41bc4285299547f7e18fc1c199f8e",
+     "sha256": "d378a3eac9df4eb693ddb276b6edaf6a29edf06ae37d8eec1019962985a4a0f0",
      "bytes": 34345
     },
     "charts/jobs-exposure.csv": {
@@ -580,243 +580,243 @@
      "bytes": 604
     },
     "charts/jobs-exposure.png": {
-     "sha256": "b7b77cb915f766b32143cfa9fcfae34ac5c2994c2655f47af70777b072d4c387",
-     "bytes": 497380
+     "sha256": "7dbc496fcabb884841cd4a271b82c77f11743134d7c89a745008fb67cd964716",
+     "bytes": 497512
     },
     "charts/jobs-exposure.svg": {
-     "sha256": "fa1bd59bea72d68acd9a23b16b349472688a45817eba3d0834cff9f1086bb782",
+     "sha256": "516c608de7cde144e9aec18ec89076a70fb9931ca9066bf1de38c50dc43e4b82",
      "bytes": 30723
     },
     "charts/record-activity.csv": {
-     "sha256": "ab732cfc15606fd851007a37c77ed9114a6aa65a7be3f355e9853cd343ed47e3",
+     "sha256": "f4df711dcad9522b807d2c154187a345cea34942e34c6555eec148b1d18f7e0a",
      "bytes": 137
     },
     "charts/record-activity.png": {
-     "sha256": "4107b83d94f57ea6c976a9168cb29d1c1498e4f18ca428b26f9960c35ff18945",
-     "bytes": 182743
+     "sha256": "69839519e6b224bf715a7ebab420ad679f3d3ce411f0ec2bf2b88698d36ea46e",
+     "bytes": 182746
     },
     "charts/record-activity.svg": {
-     "sha256": "ae86db1e88311523913ad8008c4f215fcc45175c9ee8d964bcf122a91aa00428",
+     "sha256": "bbbbda00c0f2597dfa1d674f6251753efba95f0933d2b5c1af75cbf4b4a619ca",
      "bytes": 9681
     },
     "countries.html": {
-     "sha256": "0b8d7142aa46d0c62b71b339aadc4c79c25ad18936628e28f85223d8ba60dd3b",
+     "sha256": "b38c4e4116bb9349fdb5ab9c256c6bc748c28ed413dc86c5ff4d9d7f5aedbf98",
      "bytes": 3861
     },
     "country-algeria.html": {
-     "sha256": "17ba67fe5b2c5407462b8cf013f6187f9bc4ae23892fe6f974109b39634445b5",
+     "sha256": "75827f6df87761f13a9f77100c0d1c4aa14158eb5a45d923df2db0f71d52806a",
      "bytes": 3870
     },
     "country-angola.html": {
-     "sha256": "1a1602f90170536b8333d7e50be5ea342607c1078a6f9fc5c5b96d0df2570947",
+     "sha256": "c8264b66fc39d96ce9536aa183d153a3b4d746d3d5d7055a667f28a987cb1104",
      "bytes": 3866
     },
     "country-benin.html": {
-     "sha256": "2b03e23ad284af9777340806216fd2343c07235b8edf5f6018578181683bd8b8",
+     "sha256": "1731a67a1cce57555c26f43880fbe53745fba2d3e1cd57b99058f9a82f1f8dee",
      "bytes": 3862
     },
     "country-botswana.html": {
-     "sha256": "1e3c5efaf80bcc0fadfa7bb2f8d7048b82cd7d9300c2e97c0610196eb9d3eaa9",
+     "sha256": "af77ef0da7c0389123b75b2bf5f82be2992328f66e0dd099a11e9ee4a633b9cf",
      "bytes": 3874
     },
     "country-burkina-faso.html": {
-     "sha256": "f0d78bca82f64148f1646a03df3c55a13be1aca3536456f0ee3a4127645f7c84",
+     "sha256": "3afc1a79b9c6ff65b41e7eaff54b8ac5ea19988e49a5012c9635ee985fba099b",
      "bytes": 3890
     },
     "country-burundi.html": {
-     "sha256": "9ce7266b5bd93ebee00cecd1a0a54398b5948007a646018eaa9c7cae6183cf87",
+     "sha256": "c585b8d3d7fd3d40e27736f3f06121837c093a7a8584003c66e1503e7f873aa2",
      "bytes": 3870
     },
     "country-cabo-verde.html": {
-     "sha256": "61592245bd548c8f92c01d7eca5b26e23ee0c73881365590e45da1a1d01a352c",
+     "sha256": "a2b8f2613e94956a919d1279b032268b1ef858957e6bda1f1c7cbfe864411b0c",
      "bytes": 3882
     },
     "country-cameroon.html": {
-     "sha256": "dda0d9cfb91aa512796eddaf30b083fa8b7b5a7f0f5f15862ece64017a0333d7",
+     "sha256": "f9d5192108ab92e29323ab6b14c5ec8f6a11aa1ad2fd6f6bbceb756ba1d27d93",
      "bytes": 3874
     },
     "country-central-african-republic.html": {
-     "sha256": "90183e0b78d6e585ff6a0dc2cc050e75be737eef1b7fd5855bc4118ec9376ce5",
+     "sha256": "ce66c5e2b1b4b164216ed0c198339b18a6276356a4329151d2b34ab406b771f2",
      "bytes": 3938
     },
     "country-chad.html": {
-     "sha256": "86d8164fa86e32f4adee80854e5f9b05e98e6d954af201228021c66f539a44c9",
+     "sha256": "16a5b969a3fdd80fff23169b4b2a7bd72ac14f7c621902836c40b47391b3c4f6",
      "bytes": 3858
     },
     "country-comoros.html": {
-     "sha256": "ce1e3862bf91f77bac0a1b3990bfa571a6527b4bf70f2d8770cf3e406be8e132",
+     "sha256": "080ab262ecc25c5e70f84da0658d0c19007a75a1320a779ff984a9983d1f1d7b",
      "bytes": 3870
     },
     "country-cote-d-ivoire.html": {
-     "sha256": "4ce7346b4b62a15ddb77b37aae36e47d33ad4d41639fcdc0f78735b8712b2388",
+     "sha256": "22ed630f6cf3b0e27e64f639b1968b1df250856b9929a154d73357e59df4614f",
      "bytes": 3906
     },
     "country-djibouti.html": {
-     "sha256": "a7a939346ceb023cf28c7799e833bb6cdfbff0a736f1b245c7a9a1d2ea87a8b9",
+     "sha256": "2667048486573d01e1973e300392bc2dc5b361b7ce937c9b7c768d79ddacbefe",
      "bytes": 3874
     },
     "country-dr-congo.html": {
-     "sha256": "e75e1917fb8810b797265f1409f3d9445cfb73a79250191eb04e768d74421968",
+     "sha256": "91187ff1820addc37019cf9a875d6ff3ad7c23dd89dcc01f73b9179610173c95",
      "bytes": 3922
     },
     "country-egypt.html": {
-     "sha256": "87e8cf0f49599fa51aea978b0d41b3b4e31761b3865bb2b867b0de01713e0a33",
+     "sha256": "29eeaf6850ca5aa370900451d668cf016169833d2a4f329cd922c5924512bc9c",
      "bytes": 3862
     },
     "country-equatorial-guinea.html": {
-     "sha256": "6c4289c4bbf5f61d8bd37767d5feb022be6219163b6fbd0e56039ebc0cdcf1fd",
+     "sha256": "edc2940f6c3a69d3f3bd12d3286e6d221edcb152520f48db537338afda947055",
      "bytes": 3910
     },
     "country-eritrea.html": {
-     "sha256": "82afee401e569e68544162d40c11d765d7cc5ba1ea844ba1dc420a9b2c7b5bf0",
+     "sha256": "9598930a542e90208b24a6c4922140c97a21923456dc0e43162a1fcef6afde4b",
      "bytes": 3870
     },
     "country-eswatini.html": {
-     "sha256": "b071791046153ebb7415e9697604ca5f4145eee1a109ada4b5983c0f1551784e",
+     "sha256": "e27b7881accd8cac7e407a852ba69afe8a65c020d23a0f96a81202dc54b7af34",
      "bytes": 3874
     },
     "country-ethiopia.html": {
-     "sha256": "8f1913135365c35d17f8c2a687ade829fff37770779fe082860e5a0a310957f6",
+     "sha256": "57aca61e220aac87df5ab9a276e9ebe1d14d6f409bd7d7672584ed385dd5c011",
      "bytes": 3874
     },
     "country-gabon.html": {
-     "sha256": "c95b45320ddc694d86b2aa9a7a63768a2051b37b4ef779433338c1facbecf4a8",
+     "sha256": "9448c56a9886c14cab6351220d37ed931f5a7c257f990a7090423a553aef76ce",
      "bytes": 3862
     },
     "country-gambia.html": {
-     "sha256": "1fd1eabd487954db74cccef60ac5c6d4c0f2acf48c6696f9529f2ce228c74d32",
+     "sha256": "cc15094468512b923702e5cfd3e0f4ee468b6cc4fdbcd19e39324f578974c38b",
      "bytes": 3866
     },
     "country-ghana.html": {
-     "sha256": "0a12bf9b76e955dc90afc2d3019d064faef8f9a665d0c2154a8643f92a8e5b77",
+     "sha256": "10b0a098f130666022bf17c59baf3178f469e6427971400dc14cf5462791a9d6",
      "bytes": 3862
     },
     "country-guinea-bissau.html": {
-     "sha256": "d47bc370e3953c87b352676e8bec22bafe6c9312d1d1ffe19e96bb4d342588c2",
+     "sha256": "ad305804d4ea9a836b560117a2d79f3f8cdf6ab7eacabbbd0569734154b43fda",
      "bytes": 3894
     },
     "country-guinea.html": {
-     "sha256": "30b6c623f4565c4dea0c8df878a48dcfab33d7e0289bb923f0d8cbb603c0730d",
+     "sha256": "fb506663eb0ea1ce7de4f7e51da750997650c5c336fc46582dc527e9be3f4f94",
      "bytes": 3866
     },
     "country-kenya.html": {
-     "sha256": "a5108c793c4130ee08927efc34fcbe0329081f37b08799635dc455d56e36625c",
+     "sha256": "b8609d2eb8fbb23d32d21a59af963d4b3052b3b766a9ec09c37d7479c749a70c",
      "bytes": 3862
     },
     "country-lesotho.html": {
-     "sha256": "685cd4518d2de199cd24652694c90d0b0a47b5dc4a0c3a3cb3658036c9a98e87",
+     "sha256": "6abb03f0023b1dda3f1a5abfd2adc8f1c35718457ac40503bd76310f9d41e1a0",
      "bytes": 3870
     },
     "country-liberia.html": {
-     "sha256": "f261e82c4737dbb8e5eaa902553da6e28f3632da44ded416ca8306c0dafeaeb5",
+     "sha256": "b5be8a9623c8a26cb235f1ef297ba443c3cb63139712bddafdedd4cfe7649c2b",
      "bytes": 3870
     },
     "country-libya.html": {
-     "sha256": "918771cc0e10566e6f13b0de2d63bf96a553fddcce09f23e356aa4653bee51ca",
+     "sha256": "7a2fb4447bfc6cdccfd72325c3e0fe3e9a4c0fdfb166216f0ee80af27f6d3c10",
      "bytes": 3862
     },
     "country-madagascar.html": {
-     "sha256": "eb3382df0a951ef89834867789e3cb0bc2a7b373806bd54db013598776f2b825",
+     "sha256": "07fa40e9991b1310533c45b46cd971e5b22e19ffbbe28d719bbba2db5fc9d9e1",
      "bytes": 3882
     },
     "country-malawi.html": {
-     "sha256": "a1209ecac0a9927726f649d9765ba18d336232bce59b9a4c144eeeec9c7cdc9b",
+     "sha256": "b58e8539312f8c51e72f1dd24131fade136cd34a58461d7d09e23f43807db1fd",
      "bytes": 3866
     },
     "country-mali.html": {
-     "sha256": "99a7e5450e34242390699b2ceabe6a537bb3cc08e8b9c07ec537da7a5ffcb9bf",
+     "sha256": "28c459ae954524eef34a0a4c5111e8d2e68019f2a85597c2b1521f930101b1b1",
      "bytes": 3858
     },
     "country-mauritania.html": {
-     "sha256": "e196bb4b3e79aa730bc38d52c425ffc56af0775c5d5957e1ee46119742f16c74",
+     "sha256": "9c3e1f95525679c2c9819a28e5ff3dc542b9043b3171eb0f7d64acfcf4279ef0",
      "bytes": 3882
     },
     "country-mauritius.html": {
-     "sha256": "ec364d41f2a130685d045b933368b200de98a2af7249c8295278eefbc5254b79",
+     "sha256": "2793926907c85899109c9be6f618fbcc484657309e250de911eb8e5c6b9ed3d1",
      "bytes": 3878
     },
     "country-morocco.html": {
-     "sha256": "701bfa29ed7098c3026837668bb2453ff51a5de473fdfc651afe070c7337c19c",
+     "sha256": "121797c05e219fba9324995e66c4baa2e12ad9268c0240a7f0a516266b48f37b",
      "bytes": 3870
     },
     "country-mozambique.html": {
-     "sha256": "09114b86d569beeb8c7f2efda313ecc4d6bbe93b5f4253e9f45656b95fb11326",
+     "sha256": "f54daba34753137bbba58e95384961560c5311c6101be21262c9b5bb0d2997cb",
      "bytes": 3882
     },
     "country-namibia.html": {
-     "sha256": "76ff708c5c5e68a598f656b59bb76b9d84845bc57b5b3258e5c413b341419a24",
+     "sha256": "0f2cb4d07a3582b9f2a1425da9641c0a610e238aaf6fba1259bce53eb57ae6e2",
      "bytes": 3870
     },
     "country-niger.html": {
-     "sha256": "3f46ad3a9c0933cad01baec3c858ffea52b3836fcc237f221927eaae5483a38a",
+     "sha256": "3a8da739eccafb5fa2e6dfffb978fc3737000d2b160caaea5db0f90bef96c696",
      "bytes": 3862
     },
     "country-nigeria.html": {
-     "sha256": "187cd832cd80dd2f8ce0c027343da0aefafac40841c7c32dbf0c24d66db02174",
+     "sha256": "bb7fc4208bcc8c929709dfee19f0f6cc12a8ca4203a8a75fe71b40b0226fca42",
      "bytes": 3870
     },
     "country-republic-of-the-congo.html": {
-     "sha256": "56fd963aa01e68008486305cfa09e0bd8ad810e32e30dc4b0125b9db9a17af85",
+     "sha256": "71b794356faa336209aabdcd667f33dd0e42b56ab14d1dd27d48cb1df4b7b36b",
      "bytes": 3926
     },
     "country-rwanda.html": {
-     "sha256": "801fca5602f21bbaaaa3c4a4f4bcfa19cddff6fd7c7e9666dd0d8b42c5b483cb",
+     "sha256": "a31f870180e79aeff1e38d86779e57137fa232bbff498f66a306c9b822bd623a",
      "bytes": 3866
     },
     "country-sao-tome-and-principe.html": {
-     "sha256": "8c2bfbd1c8e6b98a1917c1c0f61264e078bc69467febc25b818ec80e3343fb35",
+     "sha256": "f1df1dfa2ccc4059551194fc8a875a7878fba77597e54fb358fb5df8eb1cc5b6",
      "bytes": 3932
     },
     "country-senegal.html": {
-     "sha256": "bbeb24d07c4bc039cab0a2499bf9f45bb6e960984d39f8e6473eaff975f96702",
+     "sha256": "12e6bc629189fef9974eda5b8cb3b6b81df00c3fd958bc5713e0e36a8f403053",
      "bytes": 3870
     },
     "country-seychelles.html": {
-     "sha256": "a4e6addbe98a7a64d90c0df87a3d244800893720e4972cbda5c1d9e2087f2340",
+     "sha256": "286cd777440ecb983bf592edafd0a107812598ac5d62e645b0ba8ed3a0712ca2",
      "bytes": 3882
     },
     "country-sierra-leone.html": {
-     "sha256": "b07a6e5a08329a52129ff30d5349fd794afa3bbbf76d13162493647b01a999a7",
+     "sha256": "706e4627d6bd9e53f639bfb2915d89b9c81de4722a8081067397228c7eb8160f",
      "bytes": 3890
     },
     "country-somalia.html": {
-     "sha256": "fe1a72716e4bdd78eb1231344a247c5548226453eb4abb919d86ee6578811705",
+     "sha256": "8469d8ad23b37534e11e8cc9da792d14f8064d5a8fc06744bf09e9d7959cbddf",
      "bytes": 3870
     },
     "country-south-africa.html": {
-     "sha256": "0baac6f7d243da33e849e7b2cf3696833fbbc43a30badf5faca6441e7898fb30",
+     "sha256": "2dc9f06e61bb37788ff28f83882ba4775582033cb02bcff846dc985694617245",
      "bytes": 3890
     },
     "country-south-sudan.html": {
-     "sha256": "97e5301660ef3606b866c7a79b61a619a48d1ed6b5eb8ebc5379a793ae878f38",
+     "sha256": "2e4eef349105a203bc8012ba51cc90bf0abe01ededc6a36c77707867de68519b",
      "bytes": 3886
     },
     "country-sudan.html": {
-     "sha256": "09621c27925b910942f11f0e9bbc4974a75c12ee950451d99cec20a6220cf8dc",
+     "sha256": "31338755ceddc6e0c919db27bcc34859f843d7e0dd6b7ce83caae47eb5947bd1",
      "bytes": 3862
     },
     "country-tanzania.html": {
-     "sha256": "08715bc9c378359d2746dd343df34d1d357fcc503c03274fc6e694c95e05e8ab",
+     "sha256": "db6bdc374f6390f3ae88c4168612213164196c653fe1d8ae87d58c0fb3b7c685",
      "bytes": 3874
     },
     "country-togo.html": {
-     "sha256": "9c10340d17683d6930330dfa11b6693d7035feefcce775fb5dd6172b723957fa",
+     "sha256": "1a5dfca5a52abf1ec39193d56f76d909542df457b8f7356387145da20e8548c7",
      "bytes": 3858
     },
     "country-tunisia.html": {
-     "sha256": "ae53d1731d818addb2fd828625de8f5e79c85385f70471951a460740223b3bb7",
+     "sha256": "0bb24d82374f285e7736d47d7d0a3902a263f1049241fd382aca6fd7274c1efe",
      "bytes": 3870
     },
     "country-uganda.html": {
-     "sha256": "a7000639c2f78dc61a7ab36f564660dd8ec68303cfccc36bef24075f686e4d64",
+     "sha256": "3ef7753dc927537c355c7abe093090ec6736ff1e2f3c4856b9d262e6b80ac6e7",
      "bytes": 3866
     },
     "country-zambia.html": {
-     "sha256": "586e6ecc97e41b0e7f02c4d14005655d61b44564dd3f0f6eb80380eff11546bd",
+     "sha256": "b1c4058a661aba32da5a3d6c1ba6176473e071cab1b7e63c7b78ae2f58d920f4",
      "bytes": 3866
     },
     "country-zimbabwe.html": {
-     "sha256": "75cbfc717df110ab3e473a6b393d6f7b0dba53787db465329f96bfd6ac21c2d9",
+     "sha256": "5dc4b3253ec17b2d57d9eda1e45f99950dd6c651ffb26deba2e7e34b4d9c7532",
      "bytes": 3874
     },
     "css/ai-talent.css": {
@@ -848,7 +848,7 @@
      "bytes": 83716
     },
     "data-explorer.html": {
-     "sha256": "93c93e2854c7ce3fd78da991ea79e05ca2dd79470762a3d1edb176b5642fadde",
+     "sha256": "6959fb49cd6dfac0a58cd1c4263e4cd64e0c9758f662e59ea13434b1e2a1c93e",
      "bytes": 3879
     },
     "data/affordability.csv": {
@@ -856,19 +856,19 @@
      "bytes": 145178
     },
     "data/ai-access-observatory.xlsx": {
-     "sha256": "2363024b2e65e5ed0e5e193ad47eb08060d5cde3ad8ee2f85bfd95604b0ab1e1",
-     "bytes": 257499
+     "sha256": "bef5561899bbf3b503f5565dd251a1717caf36d3db57e303ecbb2f2c70eb494e",
+     "bytes": 260510
     },
     "data/atlas.json": {
-     "sha256": "e783ac1eed3f89a72e6acd1d24a9419f814dcb18542e183b738421a90a824dcd",
-     "bytes": 5814661
+     "sha256": "1c2ca5265d3b5c91938c4b4774364b7a506c2a62d7529de11e0821be96b81222",
+     "bytes": 5818910
     },
     "data/availability-register.csv": {
      "sha256": "645e178d9dd8838bf72ba8c77b11c3c92c5f5d34f9a9ef1468a16907fe96693e",
      "bytes": 24606
     },
     "data/chart-catalog.json": {
-     "sha256": "85fb7a9022de3a9be868d123f3fcb2df52a4f2eb0f910bfb18dc83559ca42adc",
+     "sha256": "9480a479ff4be8abef3c3671691934efd961a31d4f416c7f7b897629e6b3c1b4",
      "bytes": 3061328
     },
     "data/component-costs.csv": {
@@ -892,7 +892,7 @@
      "bytes": 1878719
     },
     "data/country-cards.json": {
-     "sha256": "a1af0d790e596bd9ab771083baebbc47e28ce90530bd0eedca0a824d810c8ce8",
+     "sha256": "add0851a906f407d15c01992e141349815379bd2d93729738a382e3990d51733",
      "bytes": 774831
     },
     "data/country-navigation.json": {
@@ -948,23 +948,23 @@
      "bytes": 38126272
     },
     "data/editorial-review.csv": {
-     "sha256": "a188b75d8c9a87cda337f7281397e6190503155b155da18b3397916f0e6ca474",
-     "bytes": 259477
+     "sha256": "81a84fc3d792fb6c73401bb4b318dfc294d56db5297141726b23e18cc439bd2a",
+     "bytes": 262378
     },
     "data/explorer-views/charts.json": {
-     "sha256": "1e59c0d678e51fcefee2e5ee8d3cb456e9d71fd8c25037455a09721b122b9a19",
+     "sha256": "74d2a9c675eef50b34918a068bdad7eb4634b0372af3ec759cf6c1deba908e6b",
      "bytes": 3384387
     },
     "data/explorer-views/compare.json": {
-     "sha256": "72c7d80b192a2d0d3ff76240ef7cc2f34d88686bc34c8f2aeb90c23c69e90c00",
+     "sha256": "050c5f21f5a8faaad351625b68bd401b79425d9fdbb822582b3afe07269c989f",
      "bytes": 2927975
     },
     "data/explorer-views/countries.json": {
-     "sha256": "193dbf273ce751ad1165ef5c147fac6ce2173cd1a0dce6454d632dd015953a3c",
+     "sha256": "89ea02c6fbab3c82ebae713bf168920f28668925a2be130e27a3e4789658afec",
      "bytes": 29314
     },
     "data/explorer-views/downloads.json": {
-     "sha256": "ddc3f78f0dbe8c0f77bc08f1141a52864a3b17ef595fa79ea8f9add9b9318755",
+     "sha256": "b6d1dee988902cf9f29ca4c39563f1ad99a258457452521b944629419f2afeb2",
      "bytes": 1224
     },
     "data/explorer-views/facilities.json": {
@@ -992,11 +992,11 @@
      "bytes": 34119
     },
     "data/home-facts.json": {
-     "sha256": "0184082e754d7bdd416ff86935fa5c357fe62aedd2aba990de8f44dfc101990f",
+     "sha256": "25ab2beb0af7647c7b9b430953649de2b306d182a8fca07565fa27b8e189a7f6",
      "bytes": 4043
     },
     "data/indicators.json": {
-     "sha256": "d0a9b593d54330efadcbd412c2fe5234123228e22e543bab46ffc7062a7ca6e8",
+     "sha256": "7fbad3cf241b2c1021fe098dcaa913d3d01e6918a18e9fa111d682e31969ace4",
      "bytes": 138308
     },
     "data/infra-capacity.csv": {
@@ -1012,12 +1012,12 @@
      "bytes": 27952
     },
     "data/items.csv": {
-     "sha256": "4915bb3520d707db9f43b7131f955236917072ebe5b4c4fc11d75c08b6a46e5e",
-     "bytes": 177073
+     "sha256": "f09457ea1792987938f3cc57a90763c94c0eb83d53d314453a4b5ab46aae9bcc",
+     "bytes": 179445
     },
     "data/items.json": {
-     "sha256": "e742424a10ae1e8449f59a930c7addee55cd54540955c90bae030229fedb7060",
-     "bytes": 252003
+     "sha256": "767cf469df52f1676b5aacc5209cd27e0536cbd7e845b83ef486fa9da1700e82",
+     "bytes": 255029
     },
     "data/jobs-atlas-exposure.csv": {
      "sha256": "ea830da762c9bad4c3e394f0ac39e67cb5c082c22d70fbfc9eb6454eed13e273",
@@ -1036,8 +1036,8 @@
      "bytes": 26167
     },
     "data/jobs-signals.csv": {
-     "sha256": "c76fecada928a79dcdab86d40f67219e9873408d6e380cf4c4d4281549921c3e",
-     "bytes": 47497
+     "sha256": "fb86acc0e238ebf5ed5d49a1b789b6cc22a2ced3c743e577b1861004f0c581a2",
+     "bytes": 47809
     },
     "data/model-prices.csv": {
      "sha256": "0a56607f9c970d9c7a08016bf0e99ddc9f0e32e7ae83348e1d7861fa07fb27c9",
@@ -1056,7 +1056,7 @@
      "bytes": 573405
     },
     "data/published-chart-presets.json": {
-     "sha256": "20d3dfff881564cd10f87377749d105c36f4fd28e6a27a5cea870ff870160b4e",
+     "sha256": "d3b618d13b0fbb1e3f6d6bc63c80e2067a6a58fddf8b544dfda1b5c591d80829",
      "bytes": 436798
     },
     "data/reference/ai-provider-country-availability-method.md": {
@@ -1112,11 +1112,11 @@
      "bytes": 383810
     },
     "data/reference/chart-export-manifest.json": {
-     "sha256": "cf0d843549f13c13c9c35f8bb2186d05738c51273d11871879809ae6c3c7f4d2",
+     "sha256": "3cb12469ff231bc8557890af8f2b00b380cf6a78455d39cc08885e7224f261cd",
      "bytes": 2075
     },
     "data/reference/chart-render-manifest.json": {
-     "sha256": "540ecf390d196599ef02a329c52c23c8517c08bde8b538f58ba34d2241ef4672",
+     "sha256": "b130e0dd1aecb5a78f198d4a4c1659c10a5ea0fec98e4a52d6d48cdc60635ba2",
      "bytes": 2031
     },
     "data/reference/collection-candidates.md": {
@@ -1124,7 +1124,7 @@
      "bytes": 5768
     },
     "data/reference/consistency-report.json": {
-     "sha256": "1b54c2ade5ef8a373f153c58488fd421075f43d0b43f07d08f7341e61cbb8f79",
+     "sha256": "5a69494f91c250b8ba7350413b20d7354e0c591137bd29da372f493b9d25db5e",
      "bytes": 320
     },
     "data/reference/context-history-snapshots/EG.ELC.ACCS.ZS.2026-11-11.json": {
@@ -1316,8 +1316,8 @@
      "bytes": 712445
     },
     "data/reference/editorial-review-report.json": {
-     "sha256": "2c102c4a4f034a42577fb8e93d83eba7ca11523dbc8cde569a6287698177ea41",
-     "bytes": 419372
+     "sha256": "d7d5b323b9e4261136cafc77f601328cdc7b53fe136ca1ed636092059c84cf69",
+     "bytes": 423591
     },
     "data/reference/electricity-tariffs.json": {
      "sha256": "9f75815bd4b77da23e03c0ca3e5406ee7959388fc645ff072039156f1a4cafcd",
@@ -1348,7 +1348,7 @@
      "bytes": 8128
     },
     "data/reference/home-figures.json": {
-     "sha256": "79515a42ef3d9f309511d5037c3f6e3e64c17826a6302532a1c764c6c8f4f39d",
+     "sha256": "49263b47054d83313e340d25a2a6817036a69b80c24f1695f460c29df5a1d00c",
      "bytes": 87213
     },
     "data/reference/itu-2025-reviewed-2026-11-11.xlsx": {
@@ -1428,8 +1428,8 @@
      "bytes": 3434
     },
     "data/reference/revision-log.json": {
-     "sha256": "ecdfde8510ab9555dea1e9a1c461b61efd2e7a6539a8bdd5551a350ff4242f37",
-     "bytes": 44663
+     "sha256": "e4a814b1951093df994b31379fb0ed21afc66f34b52d2b1c3c794bdfd2f89b15",
+     "bytes": 44758
     },
     "data/reference/row-state.json": {
      "sha256": "c774592bb5ee4dec6323d4e22c8638acc9932d54c445aaf2dd53fb7269a58c85",
@@ -1480,7 +1480,7 @@
      "bytes": 29141
     },
     "data/reference/validation-report.json": {
-     "sha256": "74c2aa25cf734084c88541a03c10f0583e65ae802052ffb52a5a42ae1afccd78",
+     "sha256": "46aca829f01fcde93e568cf452229767c29351bd7d8df9f3b00f32559d3231c9",
      "bytes": 6083
     },
     "data/reference/why-it-matters-review.md": {
@@ -1500,20 +1500,20 @@
      "bytes": 26148
     },
     "data/signal-review.csv": {
-     "sha256": "73e435b3e139afc1b5b533cfdcd70b0190c75a42c435c872ba971e47e7a53bca",
-     "bytes": 376355
+     "sha256": "e26a49fa67b3769e4595f76428cab7afc075d886107dcf6e465c68fd6942be78",
+     "bytes": 380181
     },
     "data/signal-review.json": {
-     "sha256": "9bc880d741cb2099beb7219c69b817da8dabdcaf909b73f77ded1951c0a98310",
-     "bytes": 687225
+     "sha256": "dd9251588b7ffcdf1156f952def5b31fc35a304fa354ab5d899dc89c0d391e68",
+     "bytes": 693601
     },
     "data/signals.csv": {
-     "sha256": "147b15637f2a08da59f4f457ad164e3b621ce691002b2924812329cbf2aa3eed",
-     "bytes": 230101
+     "sha256": "1eef0a37d947287d87b53333c5542e27cedbd687ea6d43abd35d90717d556002",
+     "bytes": 232673
     },
     "data/signals.json": {
-     "sha256": "6bfdb81d3ef3be10de4c497bf7dfd37719b26e1279237f89038f58002a489b8a",
-     "bytes": 334726
+     "sha256": "8588ef055b199fee9bddbd228843d8425098085b9e3811be9b56cf5a5986eb3f",
+     "bytes": 337808
     },
     "data/subscription-register.csv": {
      "sha256": "884303a8be0f27ed83ab38ba789d6511291deb5d653fc0cd2909a24f20eed8cd",
@@ -1524,7 +1524,7 @@
      "bytes": 17280
     },
     "essay-nigeria-gaming.html": {
-     "sha256": "9766283873f3029e1cae88d43e20e4d770955554a83b0ae5d20996868d3254b2",
+     "sha256": "531ad792b123b7fd132ae38d898b40dffc51172045e41dbe0f347874cd085efc",
      "bytes": 51249
     },
     "favicon.svg": {
@@ -1532,15 +1532,15 @@
      "bytes": 600
     },
     "index.html": {
-     "sha256": "4818bc50f6a5772a002260b75399152e579c17b3c8eec40e860ac5f656ed6f84",
+     "sha256": "11a900bec992108e9e64d2a426978ef35b4b4224f7f026beac4a8ecce1172573",
      "bytes": 3875
     },
     "infrastructure.html": {
-     "sha256": "cb99a0058cca529c0e9661a766e46583710eb888106a86fdde2e15a5405cb884",
+     "sha256": "f7bdfb3ec6c75a3097c6a74997fb1f0e59027ba5aaa7252cf573066f5529cbba",
      "bytes": 3886
     },
     "jobs.html": {
-     "sha256": "b3baab93c831e16a520a48d7441cd60e76dd3a946004c865245c43942cf7dd3a",
+     "sha256": "b8c65523cbbebe29eb6d7c5753041ee2e442ebbd665236cf0dffeff6eedd4de4",
      "bytes": 3836
     },
     "js/ai-talent-essay.js": {
@@ -1632,7 +1632,7 @@
      "bytes": 280462
     },
     "method.html": {
-     "sha256": "3396cdf5bd02e87445d2abbd909a6247ac66f8d7ddfde9b1b05d2571cc6e52c8",
+     "sha256": "7a5ed9797cd78d6500a98619b3b58aefeec8c78da2e27ce40453f4590cfdd758",
      "bytes": 3854
     },
     "og-card.png": {
@@ -1640,255 +1640,255 @@
      "bytes": 31812
     },
     "outlooks.html": {
-     "sha256": "4ca72cb98fe7f0db90a66c6d81e76a9a62f12905f5a82b9e8a4451830780cef2",
+     "sha256": "387d1aa1a31d6fcec195165d06ab8cde4d81ab5d957320d948652f39a2a6c7db",
      "bytes": 3870
     },
     "record-access.html": {
-     "sha256": "249a3f94a58cdff834c3a98fc741e7b99758f6612cebeed12e79be4e57d8e3b5",
-     "bytes": 670397
+     "sha256": "e3136df024ab7bf9f599a1bf35c607df0dfed2c8df7ef10eca8280aa0d301e42",
+     "bytes": 670440
     },
     "record-analysis.html": {
-     "sha256": "2cc1ee0143eede7162d689e77afea439a38377a6fc6ee56b96b8743db1501205",
+     "sha256": "968526199ab5d6154f826c31596b4e4cc37742a47e4e5598e74ffc67e16d9e75",
      "bytes": 7223
     },
     "record-countries.html": {
-     "sha256": "3aadd0a5ec4fe16329e1b7f8bbfb16f3f7739628bcf6b315f397e42922bd3ab3",
+     "sha256": "74f4d688c9509803c48b7654a066620da39d59114ba30f56513fbb8b76098aa0",
      "bytes": 49027
     },
     "record-country-algeria.html": {
-     "sha256": "44e278d863dbf4216b9d56f9d67fb8613c34e3f7b3af884b9aa81f2d70f0048c",
+     "sha256": "ffbaa95a7869ee2e7669a34aeaec7f4d1f0db4e65d29691dd8fa0bb34ff25267",
      "bytes": 81419
     },
     "record-country-angola.html": {
-     "sha256": "cde4cd872411118a6be9fb6532c76563f23c6cbe48edb026092663f5d26e8bd4",
+     "sha256": "865fd18b0150dd08f2e74d504e30e285952b3de575524746bb24b50410922dd6",
      "bytes": 83153
     },
     "record-country-benin.html": {
-     "sha256": "f745f61dedf4677c8640d6ce7e13eb46174290241722cd38810d8f5abebf0929",
-     "bytes": 81695
+     "sha256": "b6e90ec6cc6a1fa91617024e2167ccf1f84890a93e66b21391b7b9cc1033db96",
+     "bytes": 82323
     },
     "record-country-botswana.html": {
-     "sha256": "78f3faa11611679ee02ab91b04495a7a3a06ba00b61f765b3ebc0b148decaa13",
+     "sha256": "eb3dddbe89acb8dbdc9caa2a0843cdd6684fc0fabc261d1be1fbcc92fcf5444c",
      "bytes": 80347
     },
     "record-country-burkina-faso.html": {
-     "sha256": "44b027c7c7cb93c0fa9a8e608746f724a5f0a7d0707ec6ee4e671d21ad8d1006",
+     "sha256": "7aacc252e512b9d1fb6067ec5afadae4b3e1add0165fdf73e68a67a31c432485",
      "bytes": 81264
     },
     "record-country-burundi.html": {
-     "sha256": "e0557b23511b64d372721c6b936998d9ff34f758e4eb7f4f212144ee6a0f9333",
+     "sha256": "44ae725965e5a1b79a75dcdbac4c5f5800ef56282c892cfcd7c5a2f9753a74f2",
      "bytes": 80579
     },
     "record-country-cabo-verde.html": {
-     "sha256": "384eb41c15f8012dad64e3942a7d477f3625e0edcf729b7d9f2fb7445d876c89",
+     "sha256": "fb9d1af3627ae416bdcb3e7b6dc58a8d3570368153a2e48ed5933180a963daf1",
      "bytes": 77261
     },
     "record-country-cameroon.html": {
-     "sha256": "3c5ba33ccacb33a6a82157352ba17e6b0b7732815317fb35f653351fee251dca",
+     "sha256": "df7937895462f086b08c9b0896f02a226f0809984e3233bf3917eb8cb5202cc0",
      "bytes": 81019
     },
     "record-country-central-african-republic.html": {
-     "sha256": "a0e1e42026ce987e6290a9ff6d88ad40e4a833e95f3d36ec039f57a8edec5380",
+     "sha256": "6a6bfb24b328a3a9d0720b00c9da49e1f910d9739c79a17c0ecc80793b01cd21",
      "bytes": 78292
     },
     "record-country-chad.html": {
-     "sha256": "0b80367e5cd4f79153147740cde3f1bd9ce3906802ff077a5c171ff30fa2ebee",
+     "sha256": "9d244b52723f9b517e4b537dd051948e24c0949ed532f184be86458936710964",
      "bytes": 78161
     },
     "record-country-comoros.html": {
-     "sha256": "9f8a985f50624e377fed28ac80990ea9608a1178c286a5c66886e19e8c26353f",
+     "sha256": "4a882602a120283ea0e902a42543dd77227bca448c1d26068274828dc4eaf170",
      "bytes": 77357
     },
     "record-country-cote-d-ivoire.html": {
-     "sha256": "12535173b923c68f05fcf63d0acc2246fc6a52d9d1ac9f9cf486b69ac3e82d73",
+     "sha256": "23f7915bece7b532e0ce3d854cc4a35820b16a435c7daa863b45ec0482da8ca9",
      "bytes": 87019
     },
     "record-country-djibouti.html": {
-     "sha256": "7383b9aab8a6c2dfc0f48abd70dab1b21d958399e19f053fc7d54aed29d73e86",
+     "sha256": "6e94e4ef261d54e22e828ddef8299b6b00e78058c924af34522cfb3de5a4c310",
      "bytes": 77749
     },
     "record-country-dr-congo.html": {
-     "sha256": "10f5675e548e1ce398f75cf6d52c3619d3065959c2e865175ce8f2ab0bdbcc04",
+     "sha256": "c7464e14b6c5066d8d9e0204e2e2c3e839ae0a174e222f2191d3953cf3b08561",
      "bytes": 80993
     },
     "record-country-egypt.html": {
-     "sha256": "b298fae9e6e0d03fac73900bc74848109375e3dac3ee57bced0de121da169d9b",
+     "sha256": "9b72509ce17902b1231fba3dd258653e1a3a016814969e1d01ad7d6e5e7d22cf",
      "bytes": 93188
     },
     "record-country-equatorial-guinea.html": {
-     "sha256": "c41e9885c84d626766a9283e014dac56403701e1024b79c5eb3afe3d4e663f21",
+     "sha256": "a819a1e9b930ab9d4089633089533731312c80e259d33c599a0f91d7950722c8",
      "bytes": 74285
     },
     "record-country-eritrea.html": {
-     "sha256": "8fd36c15983fa31e6de2cde75046532de1ea3c955e2097728e339eced1814a2e",
+     "sha256": "5d795a7b0dde334933feaa9b8eaf5d712d0cc1f66006c48f5d9100da62affdb9",
      "bytes": 74790
     },
     "record-country-eswatini.html": {
-     "sha256": "2578fdb0b98525ffd4bb03c10d5873277bddc0bdfcb6316de02497a0b64913b7",
+     "sha256": "22e0e291e3ddef08fc2acff8507e52576c86ef61324ad5edbc8b3051f52f51a4",
      "bytes": 79537
     },
     "record-country-ethiopia.html": {
-     "sha256": "c47f7dae01f743c6fab63be08ac37397a3f2b8cf8cc37af2e9d3a084a3910c7c",
+     "sha256": "b22b8723b17658a5796957e366470abd4b584a3199721188ae34e78a8f0c0abf",
      "bytes": 81601
     },
     "record-country-gabon.html": {
-     "sha256": "2fee67c60c06c7e2d4bf40e1a8cb5338b8cebcc673fd01d23f39093bf0d5e461",
+     "sha256": "a685258fc4f42f6e7771617b39265d93dc4c5fccd3685c9baea95a27033e487e",
      "bytes": 78054
     },
     "record-country-gambia.html": {
-     "sha256": "1bc6d524c147c41eaf36c9e7e0468e766d0f9b554df6ae6e7eab1de0c3d7fea1",
+     "sha256": "aabd70d26eec92623b7d67ff52a6cabb02b631457648e48fc01203b9af532e78",
      "bytes": 77202
     },
     "record-country-ghana.html": {
-     "sha256": "28858e1df9373afbc8dfb53b54942d3258ebd2c70a6ad9cef91d81fd7f7c36bf",
+     "sha256": "9b55a5a42ce3cac250e21c064afc3dbea093c64139387872a95b9ca9bfa5cd00",
      "bytes": 89412
     },
     "record-country-guinea-bissau.html": {
-     "sha256": "63d77a4dd523c8d9418252ba5734b4a6494c4250709045893d3f9505e2bc4911",
+     "sha256": "193977b84bd2cffb6e80b101a1191898063ff527c2917d76fddb74b3947367a1",
      "bytes": 78016
     },
     "record-country-guinea.html": {
-     "sha256": "e97ad6052cec918de67c0608e4b6ae494c91c270490755efe2091cd8e2f32517",
+     "sha256": "e3dc092a1f76c4d94a610d00fd089cd0ee7990a2760a8b347c93461ce02ab84e",
      "bytes": 81500
     },
     "record-country-kenya.html": {
-     "sha256": "030e552de1c1648819cffffa5e9361917300c52c779c3e4ae71a7ffe04da3a72",
+     "sha256": "14e4af25138c8002c3f23f14a65a02703bfdf0992ac3f07e64890d601e44dc40",
      "bytes": 92838
     },
     "record-country-lesotho.html": {
-     "sha256": "ec13e8299d15f802c45c9b7a256b8e018cce2f4fe28fa1ba1447d992d73cde2b",
+     "sha256": "610a3f7ae12775359ec4f93658751ee3191739452158cd53f39bda005537cdf3",
      "bytes": 79840
     },
     "record-country-liberia.html": {
-     "sha256": "d7800453c655ef117d770a856c190be2b8183b121b9bf8de0b086e53ad72d12e",
+     "sha256": "7ea6709abbdf858960b2f75371bb622404644231719dedce85eac26bb95c1e9e",
      "bytes": 78722
     },
     "record-country-libya.html": {
-     "sha256": "1c6ee6dd0416cec8817c6cbc0aeaf803fb333dc48616f71b3893f4fadaef5019",
+     "sha256": "eff8daae6e9691aeaede87790c0d698535cdab550b3cb6335386dcd22b3bc7db",
      "bytes": 78471
     },
     "record-country-madagascar.html": {
-     "sha256": "b89966f0497a28d3d98815cbf18bb114942e4a0a416870ca2df0a1df96aef858",
+     "sha256": "51bb314142c5608a744eccf04a1a5313797627cc4b83ef66e2c38efb5f296998",
      "bytes": 81253
     },
     "record-country-malawi.html": {
-     "sha256": "cfd75f7b88b9076f55cf057da651a88b4c5715379fd3595a6be461a2be19c669",
+     "sha256": "e9e5128fd2aa5e64fccdc00df18834a9c0a5fdf9252948521a8501b904cbdd2e",
      "bytes": 82325
     },
     "record-country-mali.html": {
-     "sha256": "bc4ab761e1661f8c84c926cc7fa0190547fd16142f96e020fca9d72e391c3f3a",
+     "sha256": "7a20b1a0d3a284e8e2ba92ef719ad3881e0a5aea1f4aa0c8f41af539720c04d1",
      "bytes": 80976
     },
     "record-country-mauritania.html": {
-     "sha256": "39a171da577258104c2a57fd0ed69cad93e99edfba8bac8ff904b0391b110432",
+     "sha256": "d7f0c8e9d6e8fb11606bc17112f4dcff11ec716c2306f198e79f48c7ee69cdc0",
      "bytes": 77136
     },
     "record-country-mauritius.html": {
-     "sha256": "cfd8f85cfbcebcfc99095b3adb0f3f282130598b011d9cf3bd8eafa9fefa2fe2",
-     "bytes": 80224
+     "sha256": "7e06b0a033a91a6a9d2dc9592bede3af09a0621fe06984eec2965ff213901297",
+     "bytes": 80747
     },
     "record-country-morocco.html": {
-     "sha256": "20b2faf7b33d5cb4df6fa4dc2f77f9b4177c84fa854a0ba3a7695166e8719266",
-     "bytes": 87823
+     "sha256": "a213f19b04b42d3324f490a16c0574af7019c8f0d100d755f67835c4fedd5adf",
+     "bytes": 88244
     },
     "record-country-mozambique.html": {
-     "sha256": "634ecdd5dffe59a9b55dd506e426722d4ea9c3a0609064937e3757097bd16dd1",
+     "sha256": "8b66d5ab66db36fe4d4c333ce08e28ce9da8cff4d07875c920d6fd7eeb22a859",
      "bytes": 83764
     },
     "record-country-namibia.html": {
-     "sha256": "40ac6bd7dff85f9348b4b991df1042ca66717ae04c733bb2b42bda30db8c329b",
+     "sha256": "888432f2c34b002afccaebc8ac9fdb660687e3222ab20bcf2af655f0a2b03c1c",
      "bytes": 80451
     },
     "record-country-niger.html": {
-     "sha256": "a13bf697835ef858917b25d449b1f8a316a173f822d061c717f12ab6e8cd4388",
+     "sha256": "5f8670915d993c4dff008d180577709a25a7db027234747ffed45113215ce34a",
      "bytes": 79693
     },
     "record-country-nigeria.html": {
-     "sha256": "ab7dcb34842a8f03c0d7fa8ecdbc62ccb18bace23368358a33bbd3075f10f2ee",
+     "sha256": "315e0eecd537be118749b57962576948b2649cd995cba26a4395bcfca0aa0a3b",
      "bytes": 96046
     },
     "record-country-republic-of-the-congo.html": {
-     "sha256": "5f26830034dc0cd816d289119d286529bf886fc60c95fbd71a63afd3af25d7ff",
+     "sha256": "681acdd5909c48854bfcdb8656a069a72c98a117783fa098a416fde145c83aec",
      "bytes": 80944
     },
     "record-country-rwanda.html": {
-     "sha256": "6dc58996f36ec758e033691dc97cc17b8eb0216ef4d1b4889ae893f9a667ca26",
+     "sha256": "0cc969e1912f7721f3143a2973e2276dac4060fdc9e022ecb7354c6e036af4f7",
      "bytes": 88518
     },
     "record-country-sao-tome-and-principe.html": {
-     "sha256": "f728d7258f18cd14e4dd5dc558941c4bd08e6552d3b61e1e92e44e53cc9ebc7b",
+     "sha256": "f317863840619bd9ed063f07c4b194fcabcc5d9e9b5101a984c2fc447db5583c",
      "bytes": 77061
     },
     "record-country-senegal.html": {
-     "sha256": "0d4b7634ad4322581bbf86f9c44e6dec114d8ef61b9f06703cc3e54ce01439ac",
+     "sha256": "638f606e15d603ec8e7e7e40a6c43b1e475efb03caaaf79aa3a020cd3c9f9097",
      "bytes": 87555
     },
     "record-country-seychelles.html": {
-     "sha256": "e38ad8c0c23a75995bcc1ce4ebf1885be8dc4c52fc8180c3ddd2903f02afdd53",
+     "sha256": "d39cc56943aa0c862521be9c1a17add1daa30bedac9b9d94d53671baf6fa908c",
      "bytes": 77707
     },
     "record-country-sierra-leone.html": {
-     "sha256": "72424293a3ce95a420c2ed546423d30845717ad667127f1fcf11bfa930c3fc89",
+     "sha256": "512f687bffb5d2449343117505b5847563bd9f5ec5908d9d67d0420d7c852e90",
      "bytes": 80235
     },
     "record-country-somalia.html": {
-     "sha256": "390a65882069d8ea4f91c67353359b243aee4bc68b568ddd54c20aa0966e51ba",
+     "sha256": "1b74f99def0be471a6891e2d9e422ccf930b21e2cc130e047ac036ae0e168786",
      "bytes": 79530
     },
     "record-country-south-africa.html": {
-     "sha256": "ec51101ea6f5d83706996111de5b4b3e4ba7fcf0c904446830e7849ea7cdaee8",
+     "sha256": "198cc7fab2139194ca277800009764987eb6b5946790395dd5d000a8c4c9328f",
      "bytes": 94238
     },
     "record-country-south-sudan.html": {
-     "sha256": "1d26669fee0b21a6036dc8cb0475d6500c4917dd42da86d9431bfa207738b720",
+     "sha256": "118646105de596232a327ca45121a0b8c683bb5e14b42a6861e7606e4f0b6eac",
      "bytes": 76011
     },
     "record-country-sudan.html": {
-     "sha256": "9292874c5fc9a5b97db0bff98bef001a212a19b354f76fa75c1bea2e4a265674",
+     "sha256": "7fa9929fcca6d359251ee1cd02091e50fe58e47273c378e2607638028b9cb5a9",
      "bytes": 79029
     },
     "record-country-tanzania.html": {
-     "sha256": "8b2a7920856483eae15d066067f5247d9004aaba51efcf76e3f5277d67247a6f",
+     "sha256": "961be75d1de756bc4c184fac03b544bdf0f8084237f6a3cdfc17e851ee20b431",
      "bytes": 82543
     },
     "record-country-togo.html": {
-     "sha256": "c1a191589fc14976d9ade96da5c60c9819e9d357f6f3619f97c77dad6aebf332",
+     "sha256": "83a41d40f0d1ee4d49e40d09b52294c6501e244daf95fa7009fc36f8b2cd3414",
      "bytes": 84069
     },
     "record-country-tunisia.html": {
-     "sha256": "05e5c7c772a7a8343bdf43d89e38963838d2d91e2c415a2e702b3f9705233218",
+     "sha256": "558012cc05fbb09c4715fc891c94a548c52d44f0a4e2f04f2a28c9d448e80809",
      "bytes": 83664
     },
     "record-country-uganda.html": {
-     "sha256": "bdc94a3ced2bc91f4296ef4cfbc09cb5f5077ecff82dde68fd31680ab4b278b5",
+     "sha256": "663c400ddd83f44ba903c2e8e464597b0315c8976ab6ee2f13df161701ceb55c",
      "bytes": 83138
     },
     "record-country-zambia.html": {
-     "sha256": "43133e299fbad06dd28267696d2b8cb611b11545b42fa6c30def66c9f112d670",
+     "sha256": "497e1a6cddea094669e286f18506770fc219b92fde5b6e790fcb4db05e75871e",
      "bytes": 80100
     },
     "record-country-zimbabwe.html": {
-     "sha256": "fd774e20d863100468431214e10067118eccef1aa79e13452ddaa4d6b656bbd0",
-     "bytes": 80594
+     "sha256": "b034fae81f576b62faeaba45ab5151546900f158823ac3c4ccfad50ef217c447",
+     "bytes": 81090
     },
     "record-data-explorer.html": {
-     "sha256": "037af87c71f1761f3853b93a356f152cba0b55978e429a80af9ead9637ac996e",
+     "sha256": "d99da7a3978fb7f05b1e09a2dd6025b89314e89457b895f79759cf0d021dd779",
      "bytes": 7761
     },
     "record-index.html": {
-     "sha256": "e8bc0d16d354e219a29fd630c55982cf18827adea05aaa54097b3f91559deaa6",
-     "bytes": 123497
+     "sha256": "56d5312c18a45ff8c4b093112d84e7dfd73dad393fd2f8afae26c44683fd9b6c",
+     "bytes": 123476
     },
     "record-infrastructure.html": {
-     "sha256": "e7cd91ce6ae6e513f9ec7428b2c7e6337187c0324e8c8552bd38118a9d4b4ddd",
-     "bytes": 126940
+     "sha256": "94e20193e6ec0864bb4d3ab7e1167ab40ce759f88e6f01594693399087879cf0",
+     "bytes": 127191
     },
     "record-jobs.html": {
-     "sha256": "62dcf26bfb05ced2f3efe46ad6e7528cdb035818b5ad86460257bcff5488349e",
-     "bytes": 165008
+     "sha256": "9aafa92c8f403e22e1ac58b36aaae46b7fc57f52120e4a14cfec56c025343d4b",
+     "bytes": 165092
     },
     "record-method.html": {
-     "sha256": "064400e38e5147306b6355846402ff766010fb1d251f1280ff497aee3b93f487",
+     "sha256": "f880511e6b16400029dd14c60b6af3ffefb13c6e1d1a6096474f7d8af06545c1",
      "bytes": 337673
     },
     "record-outlooks.html": {
@@ -1896,19 +1896,19 @@
      "bytes": 4900
     },
     "record-research.html": {
-     "sha256": "2f90fca3ec4cee88d3b97cec220848619919e110228663d7725a8300a0400ad3",
+     "sha256": "8190c43bc89e2cc627b49b9d0325bd1dfe202bd6c2a153b7c4671a2144d709b6",
      "bytes": 132992
     },
     "record-signals.html": {
-     "sha256": "238e96552b02edb7b5e075d459ac8dc0cc3809ee56ffd7c1cbe5245b90a5377f",
-     "bytes": 950928
+     "sha256": "16cb7c10a989b8966abb787bef935603bed31e3bd965e8207f6fb246c0c7d955",
+     "bytes": 959913
     },
     "record-watchlist.html": {
      "sha256": "3e9c334cf67b2066375c309be75ce12a029022eb48ac281caedb755b47b63114",
      "bytes": 175
     },
     "research.html": {
-     "sha256": "ed71c9b39152495f125a29d80b6e536a196253976efa30bdb580fb72b8eb0a1c",
+     "sha256": "4cc315dab234b3a3c0717c8ddad3740f3d817ac768589a8c58061d6d727dc191",
      "bytes": 3856
     },
     "robots.txt": {
@@ -1916,20 +1916,20 @@
      "bytes": 77
     },
     "signals.html": {
-     "sha256": "84a302ebbbec782a02f67a54daa0f29c235a04d25ff42c239c56b98d83ce25ad",
+     "sha256": "9576fe4d5a54a87b826886ad941ca730cb2068755522810328742e49a0a9e21b",
      "bytes": 3851
     },
     "sitemap.xml": {
-     "sha256": "8bde64b0d867103aa5ee0d928c14421c140e11b828ca0fc22537dbfa29a3e8ce",
+     "sha256": "7afcf199f112bc0fc7dbdcd97dd746867190e6ae1a4641bb72ec02dad62cb8fe",
      "bytes": 8556
     },
     "watchlist.html": {
-     "sha256": "25d14a3dc7c5b3f63ebe644873d9dc9274dff06a96e446ef1197a5ae7aff8c15",
+     "sha256": "adaa22d199cf2610843d4de98ba2eb326cc211c2fcda83feb3a2f735fb9bacb8",
      "bytes": 3871
     }
    }
   }
  ],
  "latest": "v2026.10",
- "updated": "2026-11-21"
+ "updated": "2026-11-22"
 }

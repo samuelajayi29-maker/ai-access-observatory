@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-21",
- "count": 965,
+ "generated_at": "2026-11-22",
+ "count": 973,
  "source_checked": 82,
  "flag_counts": {
-  "african_relevance_not_recorded": 359,
-  "source_review_outstanding": 883,
+  "african_relevance_not_recorded": 360,
+  "source_review_outstanding": 891,
   "topic_needs_review": 56
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
@@ -77,6 +77,16 @@
    "suggested_topic": "Skills and talent",
    "country": "TZA",
    "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Microsoft and the Western Cape launch CAPEability AI to train residents aged 18 to 35 across 83 e-centres and 375 library points, as advertised vacancies demanding AI skills rise 352% since 2019",
+   "url": "https://www.itweb.co.za/article/microsoft-wcape-to-prepare-residents-for-ai-economy/5yONP7Erj8QMXWrb",
+   "pillar": "jobs",
+   "current_topic": "Skills and talent",
+   "suggested_topic": "Skills and talent",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
    "source_checked": false
   },
   {
@@ -2530,6 +2540,16 @@
    "source_checked": true
   },
   {
+   "headline": "GSMA puts Africa's mobile internet usage gap at 64% even with 92% of the population under network coverage",
+   "url": "https://nairametrics.com/2026/11/21/gsma-says-africa-has-64-mobile-internet-usage-gap-despite-92-network-coverage/",
+   "pillar": "access",
+   "current_topic": "Access and affordability",
+   "suggested_topic": "Access and affordability",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "Week 47 price report logs 140 API price movements across 11 providers, with Gemini Pro input rising from $1.25 to $2 per million tokens",
    "url": "https://www.priceper1m.com/digest/2026-w47",
    "pillar": "access",
@@ -2556,6 +2576,16 @@
    "current_topic": "Devices and hardware",
    "suggested_topic": "Devices and hardware",
    "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Benin plans AI that answers in 16 local languages and about 50 variants to open more than 250 French-only government services to citizens who cannot use French",
+   "url": "https://africa.businessinsider.com/local/markets/benin-turns-to-ai-in-local-languages-as-it-pushes-to-reduce-africas-dependence-on/7syhlex",
+   "pillar": "access",
+   "current_topic": "Models and capability",
+   "suggested_topic": "Models and capability",
+   "country": "BEN",
    "flags": "source_review_outstanding",
    "source_checked": false
   },
@@ -5890,6 +5920,26 @@
    "source_checked": false
   },
   {
+   "headline": "Morocco plans a $256m fund for AI startups under its AI Made in Morocco strategy, targeting 50,000 AI-related jobs and $10 billion in economic contribution by 2030",
+   "url": "https://iafrica.com/morocco-plans-256m-fund-for-ai-startups/",
+   "pillar": "infra",
+   "current_topic": "Policy and regulation",
+   "suggested_topic": "Policy and regulation",
+   "country": "MAR",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Telkom South Africa explores converting about 300 underused fixed-line exchange buildings into edge data centres to add capacity without new land",
+   "url": "https://cioafrica.co/telkom-eyes-300-buildings-for-edge-data-centre-expansion/",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "ZAF",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "Huawei to expand AI computing capacity in Nigeria by end-2026, announced at Huawei IT Day Lagos, using its local open laboratory for partners",
    "url": "https://www.techreview.africa/news/huawei-targets-Nigerias-ai-infrastructure-market-with-expansion-plan",
    "pillar": "infra",
@@ -5920,6 +5970,16 @@
    "source_checked": false
   },
   {
+   "headline": "Mauritius Telecom partners Cassava Technologies to expand AI services, starting with South Africa and reaching Cape Town compute, as only 5% of African data centres are AI-ready",
+   "url": "https://www.ecofinagency.com/news-digital/1911-60968-mauritius-telecom-partners-with-cassava-technologies-to-expand-ai-services-across-africa",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "MUS",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
    "headline": "Africa's AI runs on rented infrastructure: 0.2% of global AI compute, H100s at $13.55 an hour",
    "url": "https://cioafrica.co/africas-ai-runs-on-rented-infrastructure/",
    "pillar": "infra",
@@ -5936,6 +5996,26 @@
    "current_topic": "Devices and hardware",
    "suggested_topic": "Devices and hardware",
    "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "UAE's $1 billion AI for Development initiative in Africa draws project inquiries worth more than its full allocation, with more than 10% already deploying, ADEX says",
+   "url": "https://www.khaleejtimes.com/uae/uae-ai-fund-for-africa-receives-over-1-billion-dollars-in-project-inquiries",
+   "pillar": "infra",
+   "current_topic": "Infrastructure and compute",
+   "suggested_topic": "Infrastructure and compute",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Zimbabwe's Cabinet approves a National AI Charter to govern implementation of its 2026-2030 strategy, with oversight, accountability and complaint handling built in",
+   "url": "https://techafricanews.com/2026/11/18/zimbabwe-cabinet-approves-national-ai-charter-for-responsible-technology-development/",
+   "pillar": "infra",
+   "current_topic": "Policy and regulation",
+   "suggested_topic": "Policy and regulation",
+   "country": "ZWE",
    "flags": "source_review_outstanding",
    "source_checked": false
   },
