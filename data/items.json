@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "schema": 1,
  "buckets": {
   "jobs": {
@@ -1669,6 +1669,20 @@
   "access": {
    "label": "Access & Pricing",
    "items": [
+    {
+     "t": "Omdia: Africa smartphone shipments fall 40% in 3Q26 to 13.7 million units, with sub-$100 devices down nearly 70%, feature phones up 27% and a further 25% decline forecast for 2027",
+     "u": "https://www.morningstar.com/news/business-wire/20261122134076/omdia-africas-smartphone-shipments-fall-40-in-3q26-with-a-further-25-decline-forecast-for-2027",
+     "s": "Business Wire / Omdia",
+     "d": "Nov 23",
+     "dot": "dot-access"
+    },
+    {
+     "t": "November hosting-price tally to Nov 23 records 88 price cuts against 62 rises across 372 newly sold models, led by Core42 Qwen 3.8 27B up 1,122% and Huawei Cloud DeepSeek V4.1 Flash down 80%",
+     "u": "https://llmopex.com/reports/2026-11",
+     "s": "LLM Opex",
+     "d": "Nov 23",
+     "dot": "dot-price"
+    },
     {
      "t": "GSMA puts Africa's mobile internet usage gap at 64% even with 92% of the population under network coverage",
      "u": "https://nairametrics.com/2026/11/21/gsma-says-africa-has-64-mobile-internet-usage-gap-despite-92-network-coverage/",
@@ -3781,6 +3795,13 @@
   "infra": {
    "label": "Infrastructure",
    "items": [
+    {
+     "t": "Ramaphosa closes Silicon Valley visit with a proposed R100m AI venture capital fund plus a R100m credit guarantee, citing South Africa's hold on more than 70% of Africa's data centres",
+     "u": "https://www.sanews.gov.za/south-africa/sa-eyes-r100m-venture-capital-fund-support-ai-start-ups",
+     "s": "SAnews",
+     "d": "Nov 22",
+     "dot": "dot-infra"
+    },
     {
      "t": "Kenya signs KSh90bn ($692m) floating LNG deal with AMACO to power Mombasa data centres, from 250MW up to 1,000MW",
      "u": "https://econews.co.ke/2026/11/20/kenya-lng-power-plant-mombasa/",
