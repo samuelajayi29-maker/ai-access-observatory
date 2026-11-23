@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-22",
- "count": 973,
+ "generated_at": "2026-11-23",
+ "count": 976,
  "source_checked": 82,
  "flag_counts": {
-  "african_relevance_not_recorded": 360,
-  "source_review_outstanding": 891,
+  "african_relevance_not_recorded": 361,
+  "source_review_outstanding": 894,
   "topic_needs_review": 56
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
@@ -2538,6 +2538,26 @@
    "country": "UGA",
    "flags": "topic_needs_review",
    "source_checked": true
+  },
+  {
+   "headline": "Omdia: Africa smartphone shipments fall 40% in 3Q26 to 13.7 million units, with sub-$100 devices down nearly 70%, feature phones up 27% and a further 25% decline forecast for 2027",
+   "url": "https://www.morningstar.com/news/business-wire/20261122134076/omdia-africas-smartphone-shipments-fall-40-in-3q26-with-a-further-25-decline-forecast-for-2027",
+   "pillar": "access",
+   "current_topic": "Devices and hardware",
+   "suggested_topic": "Devices and hardware",
+   "country": "",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "November hosting-price tally to Nov 23 records 88 price cuts against 62 rises across 372 newly sold models, led by Core42 Qwen 3.8 27B up 1,122% and Huawei Cloud DeepSeek V4.1 Flash down 80%",
+   "url": "https://llmopex.com/reports/2026-11",
+   "pillar": "access",
+   "current_topic": "Pricing and affordability",
+   "suggested_topic": "Pricing and affordability",
+   "country": "",
+   "flags": "african_relevance_not_recorded; source_review_outstanding",
+   "source_checked": false
   },
   {
    "headline": "GSMA puts Africa's mobile internet usage gap at 64% even with 92% of the population under network coverage",
@@ -5888,6 +5908,16 @@
    "country": "TUN",
    "flags": "topic_needs_review",
    "source_checked": true
+  },
+  {
+   "headline": "Ramaphosa closes Silicon Valley visit with a proposed R100m AI venture capital fund plus a R100m credit guarantee, citing South Africa's hold on more than 70% of Africa's data centres",
+   "url": "https://www.sanews.gov.za/south-africa/sa-eyes-r100m-venture-capital-fund-support-ai-start-ups",
+   "pillar": "infra",
+   "current_topic": "Investment and funding",
+   "suggested_topic": "Investment and funding",
+   "country": "ZAF",
+   "flags": "source_review_outstanding",
+   "source_checked": false
   },
   {
    "headline": "Kenya signs KSh90bn ($692m) floating LNG deal with AMACO to power Mombasa data centres, from 250MW up to 1,000MW",
