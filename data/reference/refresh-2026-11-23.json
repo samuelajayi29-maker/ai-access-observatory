@@ -1,0 +1,19 @@
+{
+  "reviewed_at": "2026-11-23",
+  "directory": {
+    "edition": "2026-11-18",
+    "rows": 650,
+    "source": "https://corpus.data-landscapers.io/datasets/data-centres/data-centres-2026-11-18.csv",
+    "sha256": "8917743bf97c68b1a7885c25c4e4c9f5feabd8038a66850ca049724f95caaccf"
+  },
+  "jobs_weighted": {
+    "published_values_retained": 33,
+    "added": {
+      "country": "UGA",
+      "value": 0.182
+    },
+    "attribution_corrected": true
+  },
+  "api_prices": "Seven represented prices reverified unchanged; Kimi numeric table not reverified. No duplicate price observations appended.",
+  "annual_data": "Latest verified country basket, adoption, WDI and WEO periods retained; a build date is not a new observation."
+}

@@ -1,0 +1,175 @@
+{
+  "reviewed_at": "2026-11-23",
+  "prior_review": "2026-11-11",
+  "method": "Research-only direct primary-source review. Unchanged observations are verification entries, not duplicate measured-price rows. No checkout or account acceptance tests.",
+  "pricing_basis": "USD per 1M tokens, standard synchronous uncached short-context direct API; no cache, batch, priority or long-context rates",
+  "price_verifications": [
+    {
+      "model": "GPT-6 Astra",
+      "input": 10,
+      "output": 50,
+      "status": "unchanged",
+      "url": "https://developers.openai.com/api/docs/pricing"
+    },
+    {
+      "model": "GPT-6.1 Sol",
+      "input": 2,
+      "output": 10,
+      "status": "unchanged",
+      "url": "https://developers.openai.com/api/docs/pricing"
+    },
+    {
+      "model": "Claude Fable 5.2",
+      "input": 8,
+      "output": 40,
+      "status": "unchanged",
+      "url": "https://platform.claude.com/docs/en/about-claude/pricing"
+    },
+    {
+      "model": "Claude Opus 5.5",
+      "input": 4,
+      "output": 20,
+      "status": "unchanged",
+      "url": "https://platform.claude.com/docs/en/about-claude/pricing"
+    },
+    {
+      "model": "Gemini 4 Carbon",
+      "input": 2,
+      "output": 10,
+      "status": "unchanged",
+      "url": "https://aistudio.google.com/docs/pricing",
+      "valid_through": "2026-11-30",
+      "announced_next": {
+        "date": "2026-12-01",
+        "input": 4,
+        "output": 20
+      }
+    },
+    {
+      "model": "Grok 4.7",
+      "input": 2,
+      "output": 6,
+      "status": "unchanged",
+      "url": "https://docs.x.ai/developers/models",
+      "page_last_updated": "2026-09-21"
+    },
+    {
+      "model": "DeepSeek V4.1 Flash 1017 (max)",
+      "input": 0.3,
+      "output": 1.2,
+      "status": "unchanged",
+      "offpeak_input": 0.15,
+      "offpeak_output": 0.6,
+      "url": "https://api-docs.deepseek.com/quick_start/pricing/",
+      "note": "Peak 01:00-04:00 and 06:00-10:00 UTC Monday-Friday excluding Chinese public holidays."
+    },
+    {
+      "model": "Kimi K3.1 Pro",
+      "status": "not_reverified",
+      "url": "https://platform.kimi.ai/docs/pricing/chat",
+      "note": "Official page validates model/context but web extraction omits numeric price table. Preserve prior measured value and date."
+    }
+  ],
+  "events": [
+    {
+      "provider": "DeepSeek",
+      "effective_at": "2026-11-18T04:00:00Z",
+      "category": "tool_billing_change",
+      "not_token_price_change": true,
+      "url": "https://api-docs.deepseek.com/quick_start/pricing/",
+      "note": "Server-side model-triggered search/web-fetch no longer separately billed from noon Beijing time Nov 18. Returned context incurs model token usage. Standalone Search/Fetch API still $0.75/1000 successful requests."
+    }
+  ],
+  "subscriptions": [
+    {
+      "provider": "Google",
+      "status": "prices_unchanged",
+      "url": "https://gemini.google/us/subscriptions/?hl=en",
+      "usd_monthly": {
+        "free": 0,
+        "plus": 4.99,
+        "pro": 19.99,
+        "ultra_5x": 99.99,
+        "ultra_20x": 199.99
+      },
+      "supported_update": {
+        "field": "model_on_free_tier",
+        "before": "Flash-Lite (version not named on reviewed page)",
+        "after": "Gemini 4 Hydrogen"
+      },
+      "note": "US student banner now names free Pro for one year; African eligibility not established."
+    },
+    {
+      "provider": "Google",
+      "country_iso3": "NGA",
+      "status": "local_prices_unchanged_reverified",
+      "url": "https://gemini.google/ng/subscriptions/?hl=en-GB",
+      "ngn_monthly": {
+        "free": 0,
+        "plus": 7700,
+        "pro": 28500,
+        "ultra_5x": 89000,
+        "ultra_20x": 289000
+      },
+      "note": "Public page list prices, no checkout test. Black Friday up-to-50% banner has conditional eligibility and no verified final amount; do not replace list prices."
+    },
+    {
+      "provider": "Anthropic",
+      "status": "prices_unchanged_primary_source_upgrade",
+      "url": "https://claude.com/pricing",
+      "usd_monthly": {
+        "free": 0,
+        "pro": 20,
+        "max": 100,
+        "ultra": 200
+      },
+      "supported_update": {
+        "tier": "Ultra",
+        "source_url": "https://claude.com/pricing",
+        "source_tier": "official"
+      },
+      "note": "Ultra no-five-hour restriction applies to verified accounts. Max/Ultra now list $100/$200 monthly API credits; start date not established."
+    },
+    {
+      "provider": "OpenAI",
+      "status": "pro_prices_unchanged",
+      "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+      "usd_monthly": {
+        "pro_100": 100,
+        "pro_200": 200,
+        "pro_500": 500
+      },
+      "note": "Current official article says new Pro 200 subscriptions are available again. Pro 200 Work/Codex allowances aligned; only relative update label (7 days ago), no exact effective date independently established."
+    },
+    {
+      "provider": "xAI",
+      "status": "prices_unchanged",
+      "url": "https://docs.x.ai/x-subscription/pricing",
+      "usd_monthly": {
+        "free": 0,
+        "plus": 8,
+        "premium": 30,
+        "super": 100,
+        "ultra": 200
+      }
+    }
+  ],
+  "payment_review": {
+    "url": "https://help.openai.com/en/articles/10421635-multicurrency-billing",
+    "status": "no_verified_African_access_change",
+    "note": "Public list includes EGP NGN TZS ZAR. Credit/debit cards documented, no universal country-issued-card acceptance guarantee. Local price amount is not documented here."
+  },
+  "capability_review": {
+    "basis": "Artificial Analysis Intelligence Index v5.0.1",
+    "url": "https://artificialanalysis.ai/models",
+    "status": "basis_reconfirmed_exact_precision_not_reverified",
+    "note": "GPT-6 Astra page renders 57 and Claude Fable 5.2 renders 65; these round existing 56.854 and 64.564, so they do not establish score change. Preserve existing precision/date rather than assert exact new scores. Astra page calls model deprecated, but this is index-provider wording, not independently established official API retirement."
+  },
+  "unknowns": [
+    "Kimi numeric prices not independently reverified.",
+    "No exact new capability decimals captured.",
+    "No exhaustive country-list diff or actual payment/account test conducted.",
+    "Microsoft/Perplexity subscriptions not reverified in this bounded pass.",
+    "No African eligibility inferred from US student promotion."
+  ]
+}

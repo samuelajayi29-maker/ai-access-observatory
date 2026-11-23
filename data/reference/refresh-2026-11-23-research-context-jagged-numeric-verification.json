@@ -1,0 +1,18 @@
+{
+ "reviewed_at":"2026-11-23",
+ "primary_table_url":"https://arxiv.org/html/2607.05404v1#A2.T4",
+ "primary_html":"https://arxiv.org/html/2607.05404v1",
+ "author_site":"https://jagged-global-economy.github.io/",
+ "author_csv":"https://raw.githubusercontent.com/jagged-global-economy/jagged-global-economy.github.io/main/data/country_exposure_adoption_snapshot.csv",
+ "comparison_method":"Manually transcribed all33 stored-country Table4 values from primary HTML; compared decimal equality to jobs-exposure.csv via PowerShell. Source transcription and rowwise comparison CSV retained alongside this file.",
+ "checked_stored_rows":33,
+ "mismatches_to_published_table4":0,
+ "author_csv_spot_checks":[
+   {"country":"Mauritius","iso3":"MUS","author_csv_national_ai_exposure":0.2894,"published_table4":0.289,"stored":0.289,"match_at_published_precision":true},
+   {"country":"Somalia","iso3":"SOM","author_csv_national_ai_exposure":0.2586,"published_table4":0.259,"stored":0.259,"match_at_published_precision":true},
+   {"country":"Kenya","iso3":"KEN","author_csv_national_ai_exposure":0.1988,"published_table4":0.199,"stored":0.199,"match_at_published_precision":true}
+ ],
+ "decision":"Keep existing33 numeric values at published precision; correct authors. Numeric quarantine not supported by comparison.",
+ "coverage_issue":{"country":"Uganda","iso3":"UGA","table4":0.182,"author_csv":0.1820,"stored_absent":true,"cause":"build_jobs_exposure.py AFRICA mapping excludes Uganda although Table4 includes it; all33 existing values valid. Audit intended African-country coverage before describing33 as exhaustive."},
+ "limits":["Full author CSV not downloaded or independently recomputed; spot checks viewed directly through primary raw URL.","Table4 rounded values should not be silently replaced with higher precision author CSV as though revisions.","Primary HTML lists authors Murugan,Aguirre,Nagaraj,Bommasani and v1 June8 2026; no newer arXiv version established."]
+}

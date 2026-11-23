@@ -1,0 +1,92 @@
+{
+  "reviewed_at": "2026-11-23",
+  "added": [
+    {
+      "country_iso3": "SEN",
+      "currency": "XOF",
+      "date": "2026-11-20",
+      "rate_local_per_usd": 596.87,
+      "rate_type": "official",
+      "source_name": "BCEAO",
+      "source_url": "https://www.bceao.int/fr/cours/cours-de-reference-des-principales-devises-contre-Franc-CFA",
+      "source_tier": "primary_filing",
+      "captured_at": "2026-11-23",
+      "notes": "BCEAO reference table explicitly Friday 20 November 2026, Dollar us 596.8700 FCFA; distinct from transfer/cash rates. Shared currency."
+    },
+    {
+      "country_iso3": "CIV",
+      "currency": "XOF",
+      "date": "2026-11-20",
+      "rate_local_per_usd": 596.87,
+      "rate_type": "official",
+      "source_name": "BCEAO",
+      "source_url": "https://www.bceao.int/fr/cours/cours-de-reference-des-principales-devises-contre-Franc-CFA",
+      "source_tier": "primary_filing",
+      "captured_at": "2026-11-23",
+      "notes": "BCEAO reference table explicitly Friday 20 November 2026, Dollar us 596.8700 FCFA; distinct from transfer/cash rates. Shared currency."
+    },
+    {
+      "country_iso3": "NGA",
+      "currency": "NGN",
+      "date": "2026-11-20",
+      "rate_local_per_usd": "1389.2335",
+      "rate_type": "official",
+      "source_name": "Central Bank of Nigeria",
+      "source_url": "https://www.cbn.gov.ng/api/GetAllExchangeRates",
+      "source_tier": "primary_filing",
+      "captured_at": "2026-11-23",
+      "notes": "CBN published US DOLLAR central rate; buying 1388.7335 / central 1389.2335 / selling 1389.7335. No buy/sell averaging."
+    },
+    {
+      "country_iso3": "ZAF",
+      "currency": "ZAR",
+      "date": "2026-11-23",
+      "rate_local_per_usd": 17.4478,
+      "rate_type": "official",
+      "source_name": "South African Reserve Bank",
+      "source_url": "https://custom.resbank.co.za/SarbWebApi/WebIndicators/CurrentMarketRates",
+      "source_tier": "primary_filing",
+      "captured_at": "2026-11-23",
+      "notes": "SARB series EXCX135D, Rand per US Dollar. Daily published reference, not a retail quote. Original API response retained."
+    }
+  ],
+  "retained_unknown_or_inaccessible": [
+    {
+      "currency": "NGN",
+      "reason": "CBN API response exceeds web size cap; shell HTTP denied network access."
+    },
+    {
+      "currency": "GHS",
+      "reason": "Bank of Ghana official page timed out."
+    },
+    {
+      "currency": "MAD",
+      "reason": "Bank Al-Maghrib403."
+    },
+    {
+      "currency": "EGP",
+      "reason": "CBE request rejected."
+    },
+    {
+      "currency": "ETB",
+      "reason": "NBE exchange-rate URL redirected to ancient historical PDF, not valid current quote."
+    },
+    {
+      "currency": "RWF",
+      "reason": "Official exchange-rate URL inaccessible in web tool."
+    }
+  ],
+  "qualified_not_imported": [
+    {
+      "country_iso3": "KEN",
+      "currency": "KES",
+      "rate_local_per_usd": 129.98,
+      "posted_on": "2026-11-23",
+      "source_url": "https://www.centralbank.go.ke/new-rates/",
+      "status": "hold_pending_rate_date_confirmation",
+      "notes": "Official Daily KES sidebar shows USD129.98 and Posted On23-11-2026; main daily table stale Jan2024. Posting date alone does not independently establish observation date."
+    }
+  ],
+  "convention": "Local currency units per 1 USD. Provider-published conventions retained; never average buy/sell, never mix parallel or retail quotes.",
+  "snapshots": "research/fx/2026-11-23"
+}

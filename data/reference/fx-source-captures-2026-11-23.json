@@ -1,0 +1,23 @@
+[
+  {
+    "key": "cbn",
+    "url": "https://www.cbn.gov.ng/api/GetAllExchangeRates",
+    "bytes": 8209998,
+    "sha256": "20f9a4d144db3835d831ede9361ef1a6b1c127f2c33634396a1cc451e1912eba",
+    "structure": "[{'id': 65499, 'currency': 'CFA', 'ratedate': '2026-11-20', 'buyingrate': '2.2859', 'centralrate': '2.2959', 'sellingrate': '2.3059'}]"
+  },
+  {
+    "key": "sarb",
+    "url": "https://custom.resbank.co.za/SarbWebApi/WebIndicators/CurrentMarketRates",
+    "bytes": 5304,
+    "sha256": "e78a41c831e120f70b569c9bd93709ab0eabfb3711c1034232423923ef8a5263",
+    "structure": "[{'Name': 'SARB Policy Rate', 'SectionId': 'CMRMMR', 'SectionName': 'Money Market Rates', 'TimeseriesCode': 'MMRD002A', 'Date': '2026-11-20', 'Value': 7.25, 'UpDown': 0, 'FormatNumber': '0.00', 'FormatDate': 'yyyy-MM-dd'}]"
+  },
+  {
+    "key": "bceao",
+    "url": "https://www.bceao.int/fr/cours/cours-de-reference-des-principales-devises-contre-Franc-CFA",
+    "bytes": 124016,
+    "sha256": "b339128cae1652e9333f4f74da8cd0cba58172968e31bc2a08f45783c4064680",
+    "structure": "HTML"
+  }
+]

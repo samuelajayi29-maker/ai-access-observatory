@@ -54,35 +54,17 @@
   ],
   "countries_computed": 8,
   "countries_total": 54,
-  "mean_pct_of_wage_month": 214.80212532765395,
-  "median_pct_of_wage_month": 171.09321428571428,
-  "min_pct": 63.15504211303086,
+  "mean_pct_of_wage_month": 217.7641332811606,
+  "median_pct_of_wage_month": 172.8827142857143,
+  "min_pct": 64.18076435968986,
   "max_pct": 447.86403307303635,
-  "min_country": "South Africa",
+  "min_country": "Morocco",
   "max_country": "Ghana",
   "cheapest_model": "Gemini 4 Carbon",
   "dearest_model": "Claude Fable 5.2",
-  "cheapest_pct_of_wage_month": 85.92085013106157,
-  "dearest_pct_of_wage_month": 343.6834005242463,
+  "cheapest_pct_of_wage_month": 87.10565331246424,
+  "dearest_pct_of_wage_month": 348.42261324985697,
   "rows": [
-   {
-    "iso3": "ZAF",
-    "name": "South Africa",
-    "hours": 123.15233212041016,
-    "pct_of_wage_month": 63.15504211303086,
-    "monthly_wage_local": 5894.85,
-    "currency": "ZAR",
-    "assumed_monthly_hours": 195.0,
-    "wage_basis": "Monthly equivalent of hourly rate using country-specific assumed hours",
-    "min_wage_date": "2026-03-01",
-    "wage_source_url": "https://www.gov.za/sites/default/files/gcis_document/202602/54075rg11941gon7083.pdf",
-    "wage_note": "PRIMARY GAZETTE. National Minimum Wage Act 9 of 2018 (as amended): R30.23 per ORDINARY HOUR worked with effect from 1 March 2026 (Government Gazette No. 54075 of 3 February 2026, Notice 7083, substituting clause 1 of Schedule 1 as previously set by Gazette No. 52053 of 4 February 2025 at R28.79). Farm workers and domestic workers also R30.23/h; Expanded Public Works Programme workers R16.62/h. The statute sets an HOURLY rate, not a monthly one, so monthly_minimum_wage is left BLANK; hourly_derived carries the statute's own hourly rate (30.23) rather than a computed value. assumed_monthly_hours = 45 x 52 / 12 = 195.0, from the BCEA s.9 maximum ordinary hours of 45 per week; an indicative month at 195 h would be about R5,894.85, which is NOT a statutory monthly minimum. The gov.za PDF URL is the official gazette file (direct download returned an error from this environment; the gazette number, notice number, rate and date are corroborated by CRS, Global Business and Labour Guide summaries of the same gazette).",
-    "fx_rate": 16.5462,
-    "fx_date": "2026-11-11",
-    "fx_source": "South African Reserve Bank",
-    "benchmark_basket_local": 3722.8949999999995,
-    "formula_version": "median-country-wage-v2"
-   },
    {
     "iso3": "MAR",
     "name": "Morocco",
@@ -99,6 +81,24 @@
     "fx_date": "2026-11-10",
     "fx_source": "Bank Al-Maghrib",
     "benchmark_basket_local": 2193.2774999999997,
+    "formula_version": "median-country-wage-v2"
+   },
+   {
+    "iso3": "ZAF",
+    "name": "South Africa",
+    "hours": 129.86288455176975,
+    "pct_of_wage_month": 66.59635105218962,
+    "monthly_wage_local": 5894.85,
+    "currency": "ZAR",
+    "assumed_monthly_hours": 195.0,
+    "wage_basis": "Monthly equivalent of hourly rate using country-specific assumed hours",
+    "min_wage_date": "2026-03-01",
+    "wage_source_url": "https://www.gov.za/sites/default/files/gcis_document/202602/54075rg11941gon7083.pdf",
+    "wage_note": "PRIMARY GAZETTE. National Minimum Wage Act 9 of 2018 (as amended): R30.23 per ORDINARY HOUR worked with effect from 1 March 2026 (Government Gazette No. 54075 of 3 February 2026, Notice 7083, substituting clause 1 of Schedule 1 as previously set by Gazette No. 52053 of 4 February 2025 at R28.79). Farm workers and domestic workers also R30.23/h; Expanded Public Works Programme workers R16.62/h. The statute sets an HOURLY rate, not a monthly one, so monthly_minimum_wage is left BLANK; hourly_derived carries the statute's own hourly rate (30.23) rather than a computed value. assumed_monthly_hours = 45 x 52 / 12 = 195.0, from the BCEA s.9 maximum ordinary hours of 45 per week; an indicative month at 195 h would be about R5,894.85, which is NOT a statutory monthly minimum. The gov.za PDF URL is the official gazette file (direct download returned an error from this environment; the gazette number, notice number, rate and date are corroborated by CRS, Global Business and Labour Guide summaries of the same gazette).",
+    "fx_rate": 17.4478,
+    "fx_date": "2026-11-23",
+    "fx_source": "South African Reserve Bank",
+    "benchmark_basket_local": 3925.755,
     "formula_version": "median-country-wage-v2"
    },
    {
@@ -140,8 +140,8 @@
    {
     "iso3": "CIV",
     "name": "Cote d'Ivoire",
-    "hours": 304.10716761403023,
-    "pct_of_wage_month": 175.482,
+    "hours": 310.30951060585056,
+    "pct_of_wage_month": 179.061,
     "monthly_wage_local": 75000.0,
     "currency": "XOF",
     "assumed_monthly_hours": 173.3,
@@ -149,17 +149,17 @@
     "min_wage_date": "2023-01-01",
     "wage_source_url": "https://afriref.dev/ci/minimum-wage",
     "wage_note": "Decret n 2022-986 du 21 decembre 2022 portant revalorisation du SMIG raised the monthly SMIG (industry, commerce and services) from 60,000 to 75,000 FCFA per MONTH, effective 1 January 2023. Monthly is the statutory unit of the Ivorian SMIG, so no conversion was needed. assumed_monthly_hours = 40 x 52 / 12 = 173.33, from the Ivorian Code du travail legal working week of 40 hours. A separate agricultural minimum (SMAG) applies to farm work; the commonly circulated claim that the same decree set the SMAG at 39,960 FCFA/month is NOT substantiated by the decree, which has only three articles (Art. 1 fixes the SMIG at 75,000 from 1 January 2023; Art. 2 repeals contrary provisions, superseding Decret n 2013-791 du 20 novembre 2013; Art. 3 charges the Minister of Employment with execution) - no SMAG figure recorded. CAVEAT: the Journal Officiel is behind the SGG paywall (sgg.gouv.ci/jo.php) and is not freely published; the value is corroborated by the government spokesman's Conseil des ministres statement of 21 December 2022 (abidjan.net, pressecotedivoire, CCIL-CI) and by the CNPS 'Communique a l'attention des employeurs' of 11 January 2023.",
-    "fx_rate": 584.94,
-    "fx_date": "2026-11-10",
+    "fx_rate": 596.87,
+    "fx_date": "2026-11-20",
     "fx_source": "BCEAO",
-    "benchmark_basket_local": 131611.5,
+    "benchmark_basket_local": 134295.75,
     "formula_version": "median-country-wage-v2"
    },
    {
     "iso3": "SEN",
     "name": "Senegal",
-    "hours": 355.2017942060746,
-    "pct_of_wage_month": 204.96352810506323,
+    "hours": 362.44622509621456,
+    "pct_of_wage_month": 209.14381136538634,
     "monthly_wage_local": 64212.15580000001,
     "currency": "XOF",
     "assumed_monthly_hours": 173.3,
@@ -167,17 +167,17 @@
     "min_wage_date": "2023-07-01",
     "wage_source_url": "https://farafinanews.com/senegal-societe-economie-voici-le-nouveau-decret-fixant-le-smig-et-le-smag/",
     "wage_note": "Decret n 2023-1710 du 07 aout 2023. Article 1: the hourly SMIG for workers on the 40-hour legal week is fixed at 370.526 FCFA. Article 2: the hourly SMAG (agricultural undertakings) is 236.865 FCFA. Article 6: the provisions take effect from 1 July 2023. It abrogates Decret n 2019-103 du 16 janvier 2019. The statute sets an HOURLY rate, so monthly_minimum_wage is left BLANK and hourly_derived carries the decree's own hourly figure. assumed_monthly_hours = 40 x 52 / 12 = 173.33, the 40-hour legal week being specified in the decree itself. Indicative monthly = 370.526 x 173.33 = about 64,224.5 FCFA; consistent with this, the ministerial arrete of 25 April 2025 on domestic workers sets category 1 at 64,223 FCFA/month. CAVEAT: the Journal Officiel is not freely accessible online; the decree text was read from a verbatim news reproduction, corroborated by WageIndicator (which cites Decret 2023-1710 revising the SMIG for the 40-hour week) and Financial Afrik ('Le Senegal augmente son SMIG de 11%'). Beware of widely circulated figures of about 52,500 FCFA/month, which correspond to Togo's SMIG, not Senegal's.",
-    "fx_rate": 584.94,
-    "fx_date": "2026-11-10",
+    "fx_rate": 596.87,
+    "fx_date": "2026-11-20",
     "fx_source": "BCEAO",
-    "benchmark_basket_local": 131611.5,
+    "benchmark_basket_local": 134295.75,
     "formula_version": "median-country-wage-v2"
    },
    {
     "iso3": "NGA",
     "name": "Nigeria",
-    "hours": 752.2051581996435,
-    "pct_of_wage_month": 434.0438678571429,
+    "hours": 773.860015597148,
+    "pct_of_wage_month": 446.5393392857143,
     "monthly_wage_local": 70000.0,
     "currency": "NGN",
     "assumed_monthly_hours": 173.3,
@@ -185,10 +185,10 @@
     "min_wage_date": "2024-05-01",
     "wage_source_url": "https://pavestoneslegal.com/wp-content/uploads/2024/08/The-National-Minimum-Wage-Amendment-Act-2024.pdf",
     "wage_note": "National Minimum Wage (Amendment) Act 2024 raises the national minimum wage from NGN 30,000 to NGN 70,000 per MONTH (monthly is the statute's own unit). Act assented 29 July 2024 but the new rate is stated to take effect from 1 May 2024 (retroactive; employers owed the May-July 2024 difference). Review period shortened from 5 to 3 years. Working week: the Labour Act (Cap. L1) s.13 does NOT fix a universal weekly hour limit (normal hours are fixed by mutual agreement, collective bargaining or an industrial wages board); 40 h/week is the conventional full-time assumption (WageIndicator/Mywage.ng cite the 1981 law using 40 h), giving 40 x 52 / 12 = 173.33 h/month. CAVEAT: no free official gazette copy of the Act was located (nigerianlawguru / NSIWC sites not reachable); the NGN 70,000 figure and 1 May 2024 effective date come from a law-firm reproduction of the Act and multiple independent reports.",
-    "fx_rate": 1350.3587,
-    "fx_date": "2026-11-10",
+    "fx_rate": 1389.2335,
+    "fx_date": "2026-11-20",
     "fx_source": "Central Bank of Nigeria",
-    "benchmark_basket_local": 303830.7075,
+    "benchmark_basket_local": 312577.53750000003,
     "formula_version": "median-country-wage-v2"
    },
    {
@@ -247,7 +247,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -285,7 +285,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -323,7 +323,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -361,7 +361,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -399,7 +399,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -437,7 +437,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -459,23 +459,23 @@
     "intelligence_share_pct": "1.9424",
     "basket_multiplier": "20",
     "basket_share_pct": 97.12230215827338,
-    "fx_rate_local_per_usd": "584.94",
+    "fx_rate_local_per_usd": "596.87",
     "fx_rate_type": "official",
-    "fx_date": "2026-11-10",
+    "fx_date": "2026-11-20",
     "fx_source": "BCEAO",
-    "workload_cost_local": "2632.23",
+    "workload_cost_local": "2685.915",
     "currency": "XOF",
     "hourly_minimum_wage_local": "432.78",
     "minimum_wage_date": "2023-01-01",
-    "min_wage_hours": "6.0821",
-    "basket_min_wage_hours": "121.64",
+    "min_wage_hours": "6.2062",
+    "basket_min_wage_hours": "124.12",
     "evidence_status": "derived",
     "temporal_status": "measured",
     "headline_eligible": "False",
     "weakest_input": "minimum-wage source is industry_body",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -513,7 +513,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -551,7 +551,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -589,7 +589,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -627,7 +627,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -665,7 +665,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -703,7 +703,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -741,7 +741,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -779,7 +779,7 @@
     "weakest_input": "",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -817,7 +817,7 @@
     "weakest_input": "no statutory minimum wage",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -855,7 +855,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -893,7 +893,7 @@
     "weakest_input": "",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -931,7 +931,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -969,7 +969,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1007,7 +1007,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1045,7 +1045,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1083,7 +1083,7 @@
     "weakest_input": "",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1121,7 +1121,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1159,7 +1159,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1197,7 +1197,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1235,7 +1235,7 @@
     "weakest_input": "",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1273,7 +1273,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1311,7 +1311,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1349,7 +1349,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1387,7 +1387,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1425,7 +1425,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1463,7 +1463,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1501,7 +1501,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1539,7 +1539,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1561,23 +1561,23 @@
     "intelligence_share_pct": "3.9706",
     "basket_multiplier": "20",
     "basket_share_pct": 198.52941176470588,
-    "fx_rate_local_per_usd": "1350.3587",
+    "fx_rate_local_per_usd": "1389.2335",
     "fx_rate_type": "official",
-    "fx_date": "2026-11-10",
+    "fx_date": "2026-11-20",
     "fx_source": "Central Bank of Nigeria",
-    "workload_cost_local": "6076.6142",
+    "workload_cost_local": "6251.5508",
     "currency": "NGN",
     "hourly_minimum_wage_local": "403.92",
     "minimum_wage_date": "2024-05-01",
-    "min_wage_hours": "15.0441",
-    "basket_min_wage_hours": "300.88",
+    "min_wage_hours": "15.4772",
+    "basket_min_wage_hours": "309.54",
     "evidence_status": "derived",
     "temporal_status": "measured",
     "headline_eligible": "False",
     "weakest_input": "minimum-wage source is industry_body",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1615,7 +1615,7 @@
     "weakest_input": "no statutory minimum wage",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1653,7 +1653,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1675,23 +1675,23 @@
     "intelligence_share_pct": "3.0337",
     "basket_multiplier": "20",
     "basket_share_pct": 151.68539325842696,
-    "fx_rate_local_per_usd": "584.94",
+    "fx_rate_local_per_usd": "596.87",
     "fx_rate_type": "official",
-    "fx_date": "2026-11-10",
+    "fx_date": "2026-11-20",
     "fx_source": "BCEAO",
-    "workload_cost_local": "2632.23",
+    "workload_cost_local": "2685.915",
     "currency": "XOF",
     "hourly_minimum_wage_local": "370.526",
     "minimum_wage_date": "2023-07-01",
-    "min_wage_hours": "7.104",
-    "basket_min_wage_hours": "142.08",
+    "min_wage_hours": "7.2489",
+    "basket_min_wage_hours": "144.98",
     "evidence_status": "derived",
     "temporal_status": "measured",
     "headline_eligible": "False",
     "weakest_input": "minimum-wage source is trade_reporting",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1729,7 +1729,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1767,7 +1767,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1805,7 +1805,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1843,7 +1843,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1881,7 +1881,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1919,7 +1919,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1957,7 +1957,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -1995,7 +1995,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -2033,7 +2033,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -2071,7 +2071,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -2093,23 +2093,23 @@
     "intelligence_share_pct": "0.8612",
     "basket_multiplier": "20",
     "basket_share_pct": 43.0622009569378,
-    "fx_rate_local_per_usd": "16.5462",
+    "fx_rate_local_per_usd": "17.4478",
     "fx_rate_type": "official",
-    "fx_date": "2026-11-11",
+    "fx_date": "2026-11-23",
     "fx_source": "South African Reserve Bank",
-    "workload_cost_local": "74.4579",
+    "workload_cost_local": "78.5151",
     "currency": "ZAR",
     "hourly_minimum_wage_local": "30.23",
     "minimum_wage_date": "2026-03-01",
-    "min_wage_hours": "2.463",
-    "basket_min_wage_hours": "49.26",
+    "min_wage_hours": "2.5973",
+    "basket_min_wage_hours": "51.95",
     "evidence_status": "derived",
     "temporal_status": "measured",
     "headline_eligible": "True",
     "weakest_input": "",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -2147,7 +2147,7 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    },
    {
     "model_id": "frontier-median-benchmark",
@@ -2185,15 +2185,15 @@
     "weakest_input": "outside the declared ten-country minimum-wage sample",
     "formula_version": "A-1.0",
     "gni_formula_version": "A-1.1",
-    "compiled": "2026-11-11"
+    "compiled": "2026-11-23"
    }
   ],
   "pricing_headline_eligible": true,
   "formula_version": "median-country-wage-v2",
   "definition": "Arithmetic median of current-basis frontier-band workload prices; synthetic benchmark, not a purchasable model. Eight wage benchmarks are not a representative continental wage sample.",
   "source_hashes": {
-   "data\\prices.json": "71864ade18199dd016abbc60ae50a504a19ca9b92acc9c03d878d733b7ed84e0",
-   "data\\affordability.csv": "7dea9923bd26f6419fd69c0284b67d97f5c9090749434843b125cee410eebf3e",
+   "data\\prices.json": "4bb478643177f2a0570caaf6b5c12b88b2713e5d6bca8df1bd4b947348c484af",
+   "data\\affordability.csv": "121c224a7734cae5fe8b830ef39a77a58d936317b9f03856337047daa9d033b6",
    "data\\reference\\minimum-wage.csv": "2ecb951010a7d869b90ecf00acb3e83c1a3dfb01946b5c789c461a4b3237fb3a"
   }
  },

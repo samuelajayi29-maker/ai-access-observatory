@@ -1,16 +1,16 @@
 {
- "release": "v2026.10",
+ "release": "v2026.11",
  "schema_version": "2026.10.3",
  "validated_at": "2026-11-23",
  "counts": {
-  "rows_checked": 1035,
-  "rows_passing": 441,
-  "rows_quarantined": 594,
+  "rows_checked": 1036,
+  "rows_passing": 452,
+  "rows_quarantined": 584,
   "rows_missing_archive": 39,
   "rows_with_bad_url": 11,
   "rows_with_dead_source": 0,
   "rows_missing_status": 0,
-  "indicators": 140,
+  "indicators": 141,
   "indicators_failing_contract": 0,
   "fx_rows_checked": 80
  },
@@ -180,16 +180,16 @@
   },
   "subscription-register.csv": {
    "rows": 310,
-   "passing": 270,
-   "quarantined": 40,
+   "passing": 280,
+   "quarantined": 30,
    "missing_archive": 30,
    "bad_url": 10,
    "dead_source": 0
   },
   "free-tier-register.csv": {
    "rows": 31,
-   "passing": 27,
-   "quarantined": 4,
+   "passing": 28,
+   "quarantined": 3,
    "missing_archive": 3,
    "bad_url": 1,
    "dead_source": 0
@@ -203,9 +203,9 @@
    "dead_source": 0
   },
   "jobs-exposure.csv": {
-   "rows": 33,
+   "rows": 34,
    "passing": 0,
-   "quarantined": 33,
+   "quarantined": 34,
    "missing_archive": 0,
    "bad_url": 0,
    "dead_source": 0

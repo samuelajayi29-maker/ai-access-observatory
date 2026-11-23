@@ -38,7 +38,8 @@
    "source_quality": "ok",
    "capability_source_url": "https://artificialanalysis.ai/models/gpt-6-astra",
    "archive_url": "https://web.archive.org/web/20261111090821/https://developers.openai.com/api/docs/pricing",
-   "archived_at": "2026-11-11"
+   "archived_at": "2026-11-11",
+   "price_reviewed_at": "2026-11-23"
   },
   {
    "date": "2026-11-11",
@@ -62,7 +63,8 @@
    "source_quality": "ok",
    "capability_source_url": "https://artificialanalysis.ai/models/gpt-6-1-sol",
    "archive_url": "https://web.archive.org/web/20261111090821/https://developers.openai.com/api/docs/pricing",
-   "archived_at": "2026-11-11"
+   "archived_at": "2026-11-11",
+   "price_reviewed_at": "2026-11-23"
   },
   {
    "date": "2026-11-11",
@@ -86,7 +88,8 @@
    "source_quality": "ok",
    "capability_source_url": "https://artificialanalysis.ai/models/claude-fable-5-2",
    "archive_url": "https://web.archive.org/web/20261111034421/https://platform.claude.com/docs/en/about-claude/pricing",
-   "archived_at": "2026-11-11"
+   "archived_at": "2026-11-11",
+   "price_reviewed_at": "2026-11-23"
   },
   {
    "date": "2026-11-11",
@@ -110,7 +113,8 @@
    "source_quality": "ok",
    "capability_source_url": "https://artificialanalysis.ai/models/claude-opus-5-5",
    "archive_url": "https://web.archive.org/web/20261111034421/https://platform.claude.com/docs/en/about-claude/pricing",
-   "archived_at": "2026-11-11"
+   "archived_at": "2026-11-11",
+   "price_reviewed_at": "2026-11-23"
   },
   {
    "date": "2026-11-11",
@@ -137,7 +141,8 @@
    "announced_next_input": 4,
    "announced_next_output": 20,
    "archive_url": "https://web.archive.org/web/20261111083048/https://aistudio.google.com/docs/pricing",
-   "archived_at": "2026-11-11"
+   "archived_at": "2026-11-11",
+   "price_reviewed_at": "2026-11-23"
   },
   {
    "date": "2026-11-11",
@@ -185,7 +190,8 @@
    "source_quality": "ok",
    "capability_source_url": "https://artificialanalysis.ai/models/grok-4-7",
    "archive_url": "https://web.archive.org/web/20261111091800/https://docs.x.ai/developers/models",
-   "archived_at": "2026-11-11"
+   "archived_at": "2026-11-11",
+   "price_reviewed_at": "2026-11-23"
   },
   {
    "date": "2026-11-11",
@@ -200,7 +206,7 @@
    "cap_note": "DeepSeek V4.1 Flash 1017 (max); Artificial Analysis Intelligence Index v5.0.1, captured 11 November 2026.",
    "source": "DeepSeek official API pricing",
    "url": "https://api-docs.deepseek.com/quick_start/pricing/",
-   "note": "Standard uncached short-context synchronous API pricing, USD per million tokens. Peak-time uncached rate. Off-peak $0.15/$0.60. Peak periods: 01:00–04:00 and 06:00–10:00 UTC on Chinese working days.",
+   "note": "Standard uncached short-context synchronous API pricing, USD per million tokens. Peak-time uncached rate. Off-peak $0.15/$0.60. Peak periods: 01:00–04:00 and 06:00–10:00 UTC on Chinese working days. From 18 November 2026, model-triggered server-side search/fetch has no separate tool fee; returned context still incurs token usage. Standalone Search/Fetch API charges are separate. Token list prices unchanged.",
    "evidence_status": "official",
    "temporal_status": "measured",
    "headline_eligible": true,
@@ -211,7 +217,8 @@
    "offpeak_input": 0.15,
    "offpeak_output": 0.6,
    "archive_url": "https://web.archive.org/web/20261109234006/https://api-docs.deepseek.com/quick_start/pricing/",
-   "archived_at": "2026-11-09"
+   "archived_at": "2026-11-09",
+   "price_reviewed_at": "2026-11-23"
   }
  ],
  "events": [
