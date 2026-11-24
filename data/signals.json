@@ -1,10 +1,31 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "Nigeria's NDPC targets more than 500,000 jobs in data protection and privacy compliance, pitching the sector as a skills export to fill a global shortage",
+     "u": "https://techcabal.com/2026/11/24/nigeria-data-protection-500000-jobs/",
+     "s": "TechCabal",
+     "d": "Nov 24",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Ghana plans to add AI, robotics, coding and electronics to the curriculum from Kindergarten to Primary Six, pending Cabinet approval, with 10,000 education recruitments in the 2027 budget",
+     "u": "https://www.myjoyonline.com/govt-set-to-introduce-ai-robotics-and-coding-at-basic-school-level/",
+     "s": "MyJoyOnline",
+     "d": "Nov 24",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "French consent-first telemarketing ban puts 40,000 to 50,000 Moroccan call-centre jobs at risk, with thousands of Tunisian roles already gone as AI compounds the squeeze",
+     "u": "https://africapresents.com/french-telemarketing-ban-puts-thousands-of-african-call-centre-jobs-at-risk/",
+     "s": "Africa Presents",
+     "d": "Nov 23",
+     "dot": "dot-jobs"
+    },
     {
      "t": "Jumia cuts a further 3% of staff as AI automation spreads into seller onboarding, product listing and support, leaving 1,720 on payroll",
      "u": "https://businessday.ng/technology/article/jumia-trims-workforce-by-3-as-ai-takes-over-operations/",
@@ -2139,6 +2160,20 @@
    "label": "Access & Pricing",
    "items": [
     {
+     "t": "Meta launches an AI Impact Hub and sets a $700,000 AMET AI Impact Grant for 2027 across Nigeria, Kenya, South Africa, Egypt, Turkey, Saudi Arabia and the UAE, targeting 5 million people in three years",
+     "u": "https://www.thecable.ng/meta-announces-700000-ai-grant-for-nigeria-six-other-countries/",
+     "s": "TheCable",
+     "d": "Nov 24",
+     "dot": "dot-access"
+    },
+    {
+     "t": "Omdia data shows Nigeria's smartphone shipments fell 47% year on year in 3Q26, the worst in Africa, as handset prices and import costs rose and purchasing power weakened",
+     "u": "https://leadership.ng/nigerias-smartphone-shipments-plunge-47-as-rising-prices-hit-consumers/",
+     "s": "Leadership",
+     "d": "Nov 24",
+     "dot": "dot-access"
+    },
+    {
      "t": "Omdia: Africa smartphone shipments fall 40% in 3Q26 to 13.7 million units, with sub-$100 devices down nearly 70%, feature phones up 27% and a further 25% decline forecast for 2027",
      "u": "https://www.morningstar.com/news/business-wire/20261122134076/omdia-africas-smartphone-shipments-fall-40-in-3q26-with-a-further-25-decline-forecast-for-2027",
      "s": "Business Wire / Omdia",
@@ -2151,6 +2186,13 @@
      "s": "LLM Opex",
      "d": "Nov 23",
      "dot": "dot-price"
+    },
+    {
+     "t": "GIZ and Briter Bridges find 61.1% of African AI businesses name high cloud costs their biggest infrastructure bottleneck, and 65% put most R&D spending into cloud, GPUs and AI infrastructure",
+     "u": "https://techcabal.com/2026/11/23/high-cost-building-ai-africa/",
+     "s": "TechCabal",
+     "d": "Nov 23",
+     "dot": "dot-access"
     },
     {
      "t": "GSMA puts Africa's mobile internet usage gap at 64% even with 92% of the population under network coverage",
@@ -5166,6 +5208,20 @@
    "label": "Infrastructure",
    "items": [
     {
+     "t": "Eskom offers about 6GW of spare daytime capacity to AI data centres, with chair Mteto Nyati making the pitch at Africa Tech Festival",
+     "u": "https://www.ewn.co.za/2026/11/24/eskom-has-6gw-of-electricity-to-spare-and-wants-ai-companies-to-use-it",
+     "s": "EWN",
+     "d": "Nov 24",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Cote d'Ivoire and the EBRD sign an MoU in Abidjan to support a national AI ecosystem, public administration digitalisation and innovation financing",
+     "u": "https://www.ivoirematin.com/fr/news/Economie/cote-divoire-la-berd-sengage-aux-cotes-du-gouvernement-pour-accelerer-le-developpement-de-lintelligence-artificielle_n_126747.html",
+     "s": "Ivoirematin",
+     "d": "Nov 24",
+     "dot": "dot-infra"
+    },
+    {
      "t": "Ramaphosa closes Silicon Valley visit with a proposed R100m AI venture capital fund plus a R100m credit guarantee, citing South Africa's hold on more than 70% of Africa's data centres",
      "u": "https://www.sanews.gov.za/south-africa/sa-eyes-r100m-venture-capital-fund-support-ai-start-ups",
      "s": "SAnews",
@@ -7996,7 +8052,7 @@
    ]
   }
  },
- "tracker_updated": "2026-11-23",
+ "tracker_updated": "2026-11-24",
  "backfill_updated": "2026-10-22",
  "scope": "Combined signal feed: tracker plus reviewed historical additions. Signals are not verified numerical observations."
 }
