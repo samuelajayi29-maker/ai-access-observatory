@@ -1,14 +1,34 @@
 {
- "generated_at": "2026-11-24",
- "count": 984,
+ "generated_at": "2026-11-26",
+ "count": 988,
  "source_checked": 82,
  "flag_counts": {
-  "source_review_outstanding": 902,
+  "source_review_outstanding": 906,
   "african_relevance_not_recorded": 361,
   "topic_needs_review": 56
  },
  "limits": "Catalogue and metadata audit only. Suggestions are not verified classifications. No new numerical finding or relevance summary has been invented.",
  "rows": [
+  {
+   "headline": "Kenya's Technopolis Development Authority says BPO must shift into AI-enabled services as up to 40% of Africa's outsourcing tasks face automation by 2030",
+   "url": "https://www.standardmedia.co.ke/opinion/article/2001563062/how-bpo-sector-can-be-a-pillar-of-kenyas-next-digital-economy",
+   "pillar": "jobs",
+   "current_topic": "Employment and outsourcing",
+   "suggested_topic": "Employment and outsourcing",
+   "country": "KEN",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Niger State targets 35,000 international remote BPO jobs, 80% reserved for women, under the federal Technology Talent Services programme",
+   "url": "https://www.nigeriastartupact.ng/niger-government-announces-35000-international-remote-jobs-target-under-new-employment-initiative",
+   "pillar": "jobs",
+   "current_topic": "Skills and talent",
+   "suggested_topic": "Skills and talent",
+   "country": "NER",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
   {
    "headline": "Nigeria's NDPC targets more than 500,000 jobs in data protection and privacy compliance, pitching the sector as a skills export to fill a global shortage",
    "url": "https://techcabal.com/2026/11/24/nigeria-data-protection-500000-jobs/",
@@ -5968,6 +5988,26 @@
    "country": "TUN",
    "flags": "topic_needs_review",
    "source_checked": true
+  },
+  {
+   "headline": "Vodafone Group names Kenya and Egypt as next data centre markets, planning to scale Safaricom's 9.1MW to 35MW with sovereign AI and GPU-as-a-service capacity",
+   "url": "https://www.businessdailyafrica.com/bd/corporate/companies/vodafone-group-to-set-up-data-centres-in-kenya-5683874",
+   "pillar": "infra",
+   "current_topic": "Policy and regulation",
+   "suggested_topic": "Policy and regulation",
+   "country": "KEN",
+   "flags": "source_review_outstanding",
+   "source_checked": false
+  },
+  {
+   "headline": "Mordor Intelligence tallies 1,323.9MW of African data centre capacity in operation against a 4,221.2MW pipeline, with Morocco holding 42% of announced load",
+   "url": "https://www.mordorintelligence.com/dci/africa-data-center-list",
+   "pillar": "infra",
+   "current_topic": "Data centres and compute",
+   "suggested_topic": "Data centres and compute",
+   "country": "MAR",
+   "flags": "source_review_outstanding",
+   "source_checked": false
   },
   {
    "headline": "Eskom offers about 6GW of spare daytime capacity to AI data centres, with chair Mteto Nyati making the pitch at Africa Tech Festival",
