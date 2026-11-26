@@ -1,10 +1,24 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-26",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
+    {
+     "t": "Kenya's Technopolis Development Authority says BPO must shift into AI-enabled services as up to 40% of Africa's outsourcing tasks face automation by 2030",
+     "u": "https://www.standardmedia.co.ke/opinion/article/2001563062/how-bpo-sector-can-be-a-pillar-of-kenyas-next-digital-economy",
+     "s": "The Standard (Kenya)",
+     "d": "Nov 26",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Niger State targets 35,000 international remote BPO jobs, 80% reserved for women, under the federal Technology Talent Services programme",
+     "u": "https://www.nigeriastartupact.ng/niger-government-announces-35000-international-remote-jobs-target-under-new-employment-initiative",
+     "s": "Nigerian Startup Act",
+     "d": "Nov 25",
+     "dot": "dot-jobs"
+    },
     {
      "t": "Nigeria's NDPC targets more than 500,000 jobs in data protection and privacy compliance, pitching the sector as a skills export to fill a global shortage",
      "u": "https://techcabal.com/2026/11/24/nigeria-data-protection-500000-jobs/",
@@ -3837,6 +3851,20 @@
   "infra": {
    "label": "Infrastructure",
    "items": [
+    {
+     "t": "Vodafone Group names Kenya and Egypt as next data centre markets, planning to scale Safaricom's 9.1MW to 35MW with sovereign AI and GPU-as-a-service capacity",
+     "u": "https://www.businessdailyafrica.com/bd/corporate/companies/vodafone-group-to-set-up-data-centres-in-kenya-5683874",
+     "s": "Business Daily Africa",
+     "d": "Nov 25",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Mordor Intelligence tallies 1,323.9MW of African data centre capacity in operation against a 4,221.2MW pipeline, with Morocco holding 42% of announced load",
+     "u": "https://www.mordorintelligence.com/dci/africa-data-center-list",
+     "s": "Mordor Intelligence (DCI)",
+     "d": "Nov 25",
+     "dot": "dot-infra"
+    },
     {
      "t": "Eskom offers about 6GW of spare daytime capacity to AI data centres, with chair Mteto Nyati making the pitch at Africa Tech Festival",
      "u": "https://www.ewn.co.za/2026/11/24/eskom-has-6gw-of-electricity-to-spare-and-wants-ai-companies-to-use-it",
