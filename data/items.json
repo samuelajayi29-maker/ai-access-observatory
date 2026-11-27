@@ -1,14 +1,28 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
     {
+     "t": "YouthConnekt panel: AI, automation and informal-economy digitisation as Africa's 2035 job drivers",
+     "u": "https://allafrica.com/stories/202611270182.html",
+     "s": "AllAfrica / The New Times",
+     "d": "Nov 27",
+     "dot": "dot-jobs"
+    },
+    {
      "t": "Kenya's Technopolis Development Authority says BPO must shift into AI-enabled services as up to 40% of Africa's outsourcing tasks face automation by 2030",
      "u": "https://www.standardmedia.co.ke/opinion/article/2001563062/how-bpo-sector-can-be-a-pillar-of-kenyas-next-digital-economy",
      "s": "The Standard (Kenya)",
+     "d": "Nov 26",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "SA AI policy panel chair expects AI to wipe out 'ridiculous numbers of jobs'",
+     "u": "https://techcentral.co.za/ai-jobs-south-africa-rosman-ai-policy/288746/",
+     "s": "TechCentral",
      "d": "Nov 26",
      "dot": "dot-jobs"
     },
@@ -1704,6 +1718,20 @@
   "access": {
    "label": "Access & Pricing",
    "items": [
+    {
+     "t": "Week 48 price report logs 146 API moves as Gemini Flash Lite output jumps 525%",
+     "u": "https://www.priceper1m.com/digest/2026-w48",
+     "s": "Price per 1M",
+     "d": "Nov 27",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Amini's open-weight Soma-1X Lite parses African paper archives at $0.22 per 1,000 pages",
+     "u": "https://techcabal.com/2026/11/25/amini-africa-paper-archives-data-ai/",
+     "s": "TechCabal",
+     "d": "Nov 25",
+     "dot": "dot-price"
+    },
     {
      "t": "Meta launches an AI Impact Hub and sets a $700,000 AMET AI Impact Grant for 2027 across Nigeria, Kenya, South Africa, Egypt, Turkey, Saudi Arabia and the UAE, targeting 5 million people in three years",
      "u": "https://www.thecable.ng/meta-announces-700000-ai-grant-for-nigeria-six-other-countries/",
@@ -3851,6 +3879,27 @@
   "infra": {
    "label": "Infrastructure",
    "items": [
+    {
+     "t": "Vodafone to triple Safaricom's data centre footprint from 9.1MW to 35MW in Kenya and Ethiopia",
+     "u": "https://www.datacenterdynamics.com/en/news/vodafone-to-triple-safaricoms-data-center-footprint-to-35mw/",
+     "s": "DatacenterDynamics",
+     "d": "Nov 27",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Nigeria and Togo sign MoU for twin data parks, courting $30m-$50m for first phase",
+     "u": "https://punchng.com/nigeria-togo-sign-deal-to-develop-twin-data-parks/",
+     "s": "Punch",
+     "d": "Nov 26",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Ghana budgets $300m for a National AI Centre and rural 2G-to-4G upgrade in 2027-2028",
+     "u": "https://www.modernghana.com/news/1548254/govt-to-build-300-million-ai-compute-centre-to.html",
+     "s": "Modern Ghana",
+     "d": "Nov 26",
+     "dot": "dot-infra"
+    },
     {
      "t": "Vodafone Group names Kenya and Egypt as next data centre markets, planning to scale Safaricom's 9.1MW to 35MW with sovereign AI and GPU-as-a-service capacity",
      "u": "https://www.businessdailyafrica.com/bd/corporate/companies/vodafone-group-to-set-up-data-centres-in-kenya-5683874",
