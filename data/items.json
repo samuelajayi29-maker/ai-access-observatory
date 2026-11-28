@@ -1,14 +1,28 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "schema": 1,
  "buckets": {
   "jobs": {
    "label": "Jobs",
    "items": [
     {
+     "t": "Kenya's ICT Ministry plans a joint audit with Labour and KNBS of how AI is changing pay, hours and entry-level hiring",
+     "u": "https://www.kenyans.co.ke/news/129749-ict-ministry-proposes-joint-probe-ais-effect-pay-hours-and-jobs",
+     "s": "Kenyans.co.ke",
+     "d": "Nov 28",
+     "dot": "dot-jobs"
+    },
+    {
      "t": "YouthConnekt panel: AI, automation and informal-economy digitisation as Africa's 2035 job drivers",
      "u": "https://allafrica.com/stories/202611270182.html",
      "s": "AllAfrica / The New Times",
+     "d": "Nov 27",
+     "dot": "dot-jobs"
+    },
+    {
+     "t": "Nigeria's labour ministry warns outsourcing firms that third-party contracts cannot be used to strip workers of rights or create insecure jobs",
+     "u": "https://punchng.com/fg-warns-outsourcing-firms-against-violating-workers-rights/",
+     "s": "Punch",
      "d": "Nov 27",
      "dot": "dot-jobs"
     },
@@ -1722,6 +1736,13 @@
      "t": "Week 48 price report logs 146 API moves as Gemini Flash Lite output jumps 525%",
      "u": "https://www.priceper1m.com/digest/2026-w48",
      "s": "Price per 1M",
+     "d": "Nov 27",
+     "dot": "dot-price"
+    },
+    {
+     "t": "Claude Opus 4.5 retires January 22 as Opus 5.5 lands 20% cheaper at $4/$20, while Gemini 4 Carbon and Argon double to $4/$20 on December 1",
+     "u": "https://www.datastudios.org/post/ai-api-pricing-this-week-openai-healthcare-models-claude-opus-4-5-retirement",
+     "s": "Data Studios",
      "d": "Nov 27",
      "dot": "dot-price"
     },
@@ -3883,6 +3904,13 @@
      "t": "Vodafone to triple Safaricom's data centre footprint from 9.1MW to 35MW in Kenya and Ethiopia",
      "u": "https://www.datacenterdynamics.com/en/news/vodafone-to-triple-safaricoms-data-center-footprint-to-35mw/",
      "s": "DatacenterDynamics",
+     "d": "Nov 27",
+     "dot": "dot-infra"
+    },
+    {
+     "t": "Kenya's tech envoy Philip Thigo pitches an AI Middle Powers bloc at Chatham House to pool sovereignty and bargaining power",
+     "u": "https://www.techreviewafrica.com/news/8550/kenya-advances-ai-middle-powers-initiative-to-strengthen-shared-sovereignty-and-trusted-interdependence",
+     "s": "Tech Review Africa",
      "d": "Nov 27",
      "dot": "dot-infra"
     },
